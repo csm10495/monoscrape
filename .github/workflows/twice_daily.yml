@@ -2,6 +2,7 @@ name: Run twice a day
 on:
   schedule:
     - cron: "00 01,13 * * *"
+  workflow_dispatch:
 
 jobs:
   update-items:
