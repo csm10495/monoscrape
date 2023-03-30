@@ -1,0 +1,27 @@
+name: Run twice a day
+on:
+  schedule:
+    - cron: "00 01,13 * * *"
+
+jobs:
+  update-items:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+      - name: Configure git for pushing
+        shell: bash
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+      - name: Install, scrape, push
+        shell: bash
+        run: |
+          pip install .
+          python -m monoscrape
+          git add items.json || true
+          git commit -m "Update items.json" || true
+          git pull --rebase origin master || true
+          git push origin master || true
