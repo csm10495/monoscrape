@@ -8,8 +8,10 @@ from dataclasses import asdict, dataclass
 from functools import cache
 from threading import Lock
 
+import backoff
 import requests
 from bs4 import BeautifulSoup
+from urllib3.exceptions import TimeoutError
 
 _printLock = Lock()
 __version__ = "0.0.1"
@@ -76,6 +78,7 @@ class Item:
 
 
 @cache
+@backoff.on_exception(backoff.constant, TimeoutError, max_tries=5, interval=3)
 def __fetch(product_id: int) -> Item | None:
     """
     Does a single fetch of info for a given product_id. Will return None, if the product isn't found.

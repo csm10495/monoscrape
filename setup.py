@@ -1,5 +1,4 @@
 import os
-import sys
 
 from setuptools import setup
 
@@ -38,6 +37,6 @@ setup(
         "Programming Language :: Python :: 3",
     ],
     include_package_data=True,
-    install_requires=["requests", "beautifulsoup4"],
+    install_requires=["requests", "beautifulsoup4", "backoff"],
     entry_points={"console_scripts": ["monoscrape = monoscrape.__main__:main"]},
 )
