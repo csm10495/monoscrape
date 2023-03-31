@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import datetime
 import json
 import pathlib
 from concurrent.futures import ProcessPoolExecutor, ThreadPoolExecutor
@@ -12,6 +13,51 @@ from bs4 import BeautifulSoup
 
 _printLock = Lock()
 __version__ = "0.0.1"
+
+
+def _int_keys_hook(obj):
+    ret_dict = {}
+    for key in obj:
+        try:
+            ret_dict[int(key)] = obj[key]
+        except ValueError:
+            ret_dict[key] = obj[key]
+
+    return ret_dict
+
+
+class ItemDocument:
+    def __init__(self, items: dict[int, Item] | None = None):
+        self._items = items or dict()
+
+    def update_with_items_from(self, other: ItemDocument | str | pathlib.Path):
+        if isinstance(other, ItemDocument):
+            self._items.update(other._items)
+        else:
+            p = pathlib.Path(other)
+            json_data = json.loads(p.read_text(), object_hook=_int_keys_hook)
+            json_items = json_data["items"]
+            self._items.update({k: Item(**v) for k, v in json_items.items()})
+
+    def remove_range(self, start, end):
+        for i in range(start, end):
+            self._items.pop(i, None)
+
+    def dump(self, out_file: pathlib.Path | str) -> str:
+        out_file = pathlib.Path(out_file)
+
+        out_file.write_text(
+            json.dumps(
+                {
+                    "items": {k: asdict(v) for k, v in self._items.items()},
+                    "meta": {
+                        "version": __version__,
+                        "timestamp": str(datetime.datetime.utcnow()),
+                    },
+                },
+                indent=4,
+            )
+        )
 
 
 @dataclass
@@ -27,22 +73,6 @@ class Item:
     available: bool
     rating: float
     num_reviews: int
-
-    @classmethod
-    def dump_item_list_to_file(cls, items: list[Item], out_file: str) -> None:
-        """
-        Takes a list of items and dumps it as json to the given out_file
-        """
-        pathlib.Path(out_file).write_text(
-            json.dumps([asdict(i) for i in items], indent=4)
-        )
-
-    @classmethod
-    def load_item_list_from_file(cls, in_file: str) -> list[Item]:
-        """
-        Takes in an in_file of json and returns a list of items"""
-        data = pathlib.Path(in_file).read_text()
-        return [Item(**i) for i in json.loads(data)]
 
 
 @cache
@@ -110,29 +140,31 @@ def fetch(product_id: int) -> Item | None:
     return ret
 
 
-def fetch_x(starting_product_id: int, num_products: int, workers: int) -> list[Item]:
+def fetch_x(
+    starting_product_id: int, num_products: int, workers: int
+) -> dict[int, Item]:
     """
     Fetches a range of products from starting_product_id to starting_product_id + num_products
     """
-    with ProcessPoolExecutor(max_workers=workers) as pool:
-        return [
-            a
+    with ThreadPoolExecutor(max_workers=workers) as pool:
+        return dict(
+            (a.product_id, a)
             for a in pool.map(
                 fetch, range(starting_product_id, starting_product_id + num_products)
             )
             if a
-        ]
+        )
 
 
-def fetch_all(fetch_size: int, max_product_id: int, workers: int) -> list[Item]:
+def fetch_all(fetch_size: int, max_product_id: int, workers: int) -> dict[int, Item]:
     """
     Fetches all items from monoprice.com
     """
-    results = []
+    results = dict()
     try:
         for i in range(0, max_product_id + 1, fetch_size):
             if temp_results := fetch_x(i, min(fetch_size, max_product_id + 1), workers):
-                results.extend(temp_results)
+                results.update(temp_results)
             else:
                 print(
                     f"No items found during fetch_x({i}, {min(fetch_size, max_product_id + 1)}).. stopping"

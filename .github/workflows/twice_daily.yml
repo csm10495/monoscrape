@@ -21,7 +21,7 @@ jobs:
         shell: bash
         run: |
           pip install .
-          python -m monoscrape -w 4
+          python -m monoscrape --merge
           git add items.json || true
           git commit -m "Update items.json" || true
           git pull --rebase origin master || true
