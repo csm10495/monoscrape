@@ -78,7 +78,12 @@ class Item:
 
 
 @cache
-@backoff.on_exception(backoff.constant, TimeoutError, max_tries=5, interval=3)
+@backoff.on_exception(
+    backoff.constant,
+    (TimeoutError, requests.exceptions.ConnectionError),
+    max_tries=10,
+    interval=3,
+)
 def __fetch(product_id: int) -> Item | None:
     """
     Does a single fetch of info for a given product_id. Will return None, if the product isn't found.
@@ -159,18 +164,20 @@ def fetch_x(
         )
 
 
-def fetch_all(fetch_size: int, max_product_id: int, workers: int) -> dict[int, Item]:
+def fetch_all(
+    fetch_size: int, min_product_id: int, max_product_id: int, workers: int
+) -> dict[int, Item]:
     """
     Fetches all items from monoprice.com
     """
     results = dict()
     try:
-        for i in range(0, max_product_id + 1, fetch_size):
-            if temp_results := fetch_x(i, min(fetch_size, max_product_id + 1), workers):
+        for i in range(min_product_id, max_product_id, fetch_size):
+            if temp_results := fetch_x(i, min(fetch_size, max_product_id), workers):
                 results.update(temp_results)
             else:
                 print(
-                    f"No items found during fetch_x({i}, {min(fetch_size, max_product_id + 1)}).. stopping"
+                    f"No items found during fetch_x({i}, {min(fetch_size, max_product_id)}).. stopping"
                 )
                 break
     except KeyboardInterrupt:

@@ -18,10 +18,15 @@ if __name__ == "__main__":
     )
     parser.add_argument(
         "--max-product-id",
-        "-m",
         type=int,
         default=1000000,
-        help="Max product id to scrape.",
+        help="Max product id to scrape. (non inclusive)",
+    )
+    parser.add_argument(
+        "--min-product-id",
+        type=int,
+        default=0,
+        help="Min product id to scrape. (inclusive)",
     )
     parser.add_argument(
         "--out-file",
@@ -65,7 +70,9 @@ if __name__ == "__main__":
             "If you specify a update range start or end, you must specify both"
         )
 
-    results = fetch_all(args.fetch_size, args.max_product_id, args.max_workers)
+    results = fetch_all(
+        args.fetch_size, args.min_product_id, args.max_product_id, args.max_workers
+    )
     print(f"Found: {len(results)} items.. dumping them to: {args.out_file}")
 
     i = ItemDocument()
