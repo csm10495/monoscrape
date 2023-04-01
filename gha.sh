@@ -9,7 +9,7 @@ MIN_PRODUCT_ID=$(cat last_product_id.txt)
 FETCH_SIZE=10000
 MAX_PRODUCT_ID=$((MIN_PRODUCT_ID + FETCH_SIZE))
 
-python -m monoscrape --merge
+python -m monoscrape --merge \
     --fetch-size $FETCH_SIZE \
     --max-product-id $MAX_PRODUCT_ID \
     --min-product-id $MIN_PRODUCT_ID \
