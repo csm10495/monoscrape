@@ -33,6 +33,7 @@ git add last_product_id.txt
 git add items.json
 
 git commit -m "Update items listings"
+rm log.txt
 git pull --rebase origin master
 git push origin master
 
