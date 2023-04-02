@@ -31,15 +31,13 @@ else
     exit 1
 fi
 
-#git add last_product_id.txt
-#git add items.json
+git add last_product_id.txt
+git add items.json
 
-#git commit -m "Update items listings"
-pwd
-ls -la
+git commit -m "Update items listings"
 rm log.txt
 rm monoscrape-exe
-#git pull --rebase origin master
-#git push origin master
+git pull --rebase origin master
+git push origin master
 
 exit 0
