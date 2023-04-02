@@ -91,5 +91,24 @@ func (id *ItemDocument) UpdateWithItemsFromFile(inFile string) {
 		panic("Err unmarshaling: " + err.Error())
 	}
 
+	// i don't really know why, but it doesn't seem to automatically unmarshal each item
+	// into an Item struct, so we have to do it manually
+	for _, key := range otherItemDocument.Items.Keys() {
+		val, _ := otherItemDocument.Items.Get(key)
+
+		data, err := json.Marshal(val)
+		if err != nil {
+			panic("Err marshaling item: " + err.Error())
+		}
+
+		newItem := Item{}
+		err = json.Unmarshal(data, &newItem)
+		if err != nil {
+			panic("Err unmarshaling item: " + err.Error())
+		}
+
+		otherItemDocument.Items.Put(key, newItem)
+	}
+
 	id.UpdateWithItemsFromItemMap(otherItemDocument.Items)
 }

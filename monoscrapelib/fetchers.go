@@ -76,7 +76,7 @@ func fetchOne(productId int) *Item {
 func fetchX(minProductId, maxProductId int) *treemap.Map {
 	items := treemap.NewWithIntComparator()
 
-	pool := pond.New(128, 100, pond.PanicHandler(func(err interface{}) {
+	pool := pond.New(256, 512, pond.PanicHandler(func(err interface{}) {
 		panic(err)
 	}))
 
