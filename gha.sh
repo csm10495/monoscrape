@@ -4,7 +4,7 @@ SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 cd "${SCRIPT_DIR}"
 
 MIN_PRODUCT_ID=$(cat last_product_id.txt)
-FETCH_SIZE=100
+FETCH_SIZE=10000
 MAX_PRODUCT_ID=$((MIN_PRODUCT_ID + FETCH_SIZE))
 
 cd monoscrape
