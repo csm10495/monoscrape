@@ -8,7 +8,6 @@ FETCH_SIZE=10000
 MAX_PRODUCT_ID=$((MIN_PRODUCT_ID + FETCH_SIZE))
 
 cd monoscrape
-go mod tidy
 go build -o ../monoscrape-exe .
 
 cd ..
@@ -37,6 +36,7 @@ git add items.json
 git commit -m "Update items listings"
 rm log.txt
 rm monoscrape-exe
+git status
 git pull --rebase origin master
 git push origin master
 
