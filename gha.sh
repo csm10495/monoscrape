@@ -33,7 +33,7 @@ fi
 git add last_product_id.txt
 git add items.json
 
-git commit -m "Update items listings"
+git commit -am "Update items listings"
 rm log.txt
 rm monoscrape-exe
 git status
