@@ -22,19 +22,30 @@ func fetchOne(productId int) *Item {
 		},
 	}
 
-	resp, err := client.Get(url)
-	if err != nil {
-		return nil
-	}
-	defer resp.Body.Close()
+	// Previous error:
+	// Err reading?: read tcp 10.1.0.51:46770->66.209.71.117:443: read: connection timed out
+	// Try doing the call 5 times, if it fails after all 5 times, we panic later
+	var body []byte
+	x := 0
+	for ; x < 5; x++ {
+		resp, err := client.Get(url)
+		if err != nil {
+			return nil
+		}
+		defer resp.Body.Close()
 
-	if resp.StatusCode != 200 {
-		return nil
+		if resp.StatusCode != 200 {
+			return nil
+		}
+
+		body, err = io.ReadAll(resp.Body)
+		if err == nil {
+			break
+		}
 	}
 
-	body, err := io.ReadAll(resp.Body)
-	if err != nil {
-		panic("Err reading?: " + err.Error())
+	if x == 5 {
+		panic("Failed to read 5 times: " + url)
 	}
 
 	doc := soup.HTMLParse(string(body))
