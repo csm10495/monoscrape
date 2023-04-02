@@ -71,8 +71,14 @@ if __name__ == "__main__":
         )
 
     results = fetch_all(
-        args.fetch_size, args.min_product_id, args.max_product_id, args.max_workers
+        products_per_thread=4,
+        products_per_process=128,
+        min_product_id=args.min_product_id,
+        max_product_id=args.max_product_id,
+        processes=16,
+        threads_per_process=16,
     )
+
     print(f"Found: {len(results)} items.. dumping them to: {args.out_file}")
 
     i = ItemDocument()

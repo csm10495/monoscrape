@@ -6,7 +6,7 @@ import pathlib
 from concurrent.futures import ProcessPoolExecutor, ThreadPoolExecutor
 from dataclasses import asdict, dataclass
 from functools import cache
-from threading import Lock
+from multiprocessing import Lock
 
 import backoff
 import requests
@@ -88,6 +88,9 @@ def __fetch(product_id: int) -> Item | None:
     """
     Does a single fetch of info for a given product_id. Will return None, if the product isn't found.
     """
+    # with _printLock:
+    #    print(f"FETCHING: {product_id}")
+
     result = requests.get(f"https://www.monoprice.com/product?p_id={product_id}")
     if result.status_code != 200:
         return None
@@ -148,39 +151,80 @@ def fetch(product_id: int) -> Item | None:
     return ret
 
 
-def fetch_x(
-    starting_product_id: int, num_products: int, workers: int
+def fetch_multi(min_product_id: int, max_product_id: int) -> dict[int, Item]:
+    """
+    Fetches multiple items at once, and returns a dict of product_id to Item
+    """
+    ret = {}
+    for product_id in range(min_product_id, max_product_id):
+        item = fetch(product_id)
+        if item:
+            ret[product_id] = item
+
+    return ret
+
+
+def fetch_in_process(
+    products_per_thread: int,
+    min_product_id: int,
+    max_product_id: int,
+    threads_per_process: int,
 ) -> dict[int, Item]:
-    """
-    Fetches a range of products from starting_product_id to starting_product_id + num_products
-    """
-    with ThreadPoolExecutor(max_workers=workers) as pool:
-        return dict(
-            (a.product_id, a)
-            for a in pool.map(
-                fetch, range(starting_product_id, starting_product_id + num_products)
+    # with _printLock:
+    #    print(f"Fetching {min_product_id} to {max_product_id} in process")
+
+    executions = []
+    with ThreadPoolExecutor(max_workers=threads_per_process) as executor:
+        for product_id in range(min_product_id, max_product_id, products_per_thread):
+            executions.append(
+                executor.submit(
+                    fetch_multi,
+                    min_product_id=product_id,
+                    max_product_id=min(
+                        product_id + products_per_thread, max_product_id
+                    ),
+                )
             )
-            if a
-        )
+
+        final_results = {}
+        for r in executions:
+            final_results.update(r.result())
+        return final_results
 
 
 def fetch_all(
-    fetch_size: int, min_product_id: int, max_product_id: int, workers: int
+    products_per_thread: int,
+    products_per_process: int,
+    min_product_id: int,
+    max_product_id: int,
+    processes: int,
+    threads_per_process: int,
 ) -> dict[int, Item]:
     """
     Fetches all items from monoprice.com
     """
-    results = dict()
-    try:
-        for i in range(min_product_id, max_product_id, fetch_size):
-            if temp_results := fetch_x(i, min(fetch_size, max_product_id), workers):
-                results.update(temp_results)
-            else:
-                print(
-                    f"No items found during fetch_x({i}, {min(fetch_size, max_product_id)}).. stopping"
+    executions = []
+    with ProcessPoolExecutor(max_workers=processes) as executor:
+        for product_id in range(min_product_id, max_product_id, products_per_process):
+            executions.append(
+                executor.submit(
+                    fetch_in_process,
+                    products_per_thread=products_per_thread,
+                    min_product_id=product_id,
+                    max_product_id=min(
+                        product_id + products_per_process, max_product_id
+                    ),
+                    threads_per_process=threads_per_process,
                 )
-                break
-    except KeyboardInterrupt:
-        print(" -- Keyboard Interrupt -- Stopping --")
+            )
 
-    return results
+        final_results = {}
+        for r in executions:
+            final_results.update(r.result())
+        return final_results
+
+
+"""
+print(f"No items found during fetch_x({i}, {min(fetch_size, max_product_id)}).. stopping")
+break
+"""
