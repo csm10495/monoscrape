@@ -51,3 +51,12 @@ func getPrice(doc soup.Root) float32 {
 	}
 	return float32(price)
 }
+
+func getName(doc soup.Root) string {
+	node := doc.Find("div", "class", "product-name")
+	if node.Error != nil {
+		panic("No name found?")
+	}
+
+	return strings.TrimSpace(node.Text())
+}

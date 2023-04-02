@@ -14,7 +14,15 @@ import (
 
 func fetchOne(productId int) *Item {
 	url := fmt.Sprintf("https://www.monoprice.com/product?p_id=%d", productId)
-	resp, err := http.Get(url)
+
+	// Do not follow redirects. For example: https://www.monoprice.com/product?p_id=12271 redirects to https://www.monoprice.com/category/outdoor/lighting/flashlights
+	client := &http.Client{
+		CheckRedirect: func(req *http.Request, via []*http.Request) error {
+			return http.ErrUseLastResponse
+		},
+	}
+
+	resp, err := client.Get(url)
 	if err != nil {
 		return nil
 	}
@@ -35,8 +43,14 @@ func fetchOne(productId int) *Item {
 		return nil
 	}
 
+	defer func() {
+		if r := recover(); r != nil {
+			panic(fmt.Sprintf("Error fetching %d: %s", productId, r))
+		}
+	}()
+
 	i := &Item{
-		Name:       strings.TrimSpace(doc.Find("div", "class", "product-name").Text()),
+		Name:       getName(doc),
 		Price:      getPrice(doc),
 		Url:        url,
 		ProductID:  productId,
@@ -51,7 +65,10 @@ func fetchOne(productId int) *Item {
 func fetchX(minProductId, maxProductId int) *treemap.Map {
 	items := treemap.NewWithIntComparator()
 
-	pool := pond.New(128, 100)
+	pool := pond.New(128, 100, pond.PanicHandler(func(err interface{}) {
+		panic(err)
+	}))
+
 	channel := make(chan *Item)
 
 	go func() {
@@ -71,6 +88,10 @@ func fetchX(minProductId, maxProductId int) *treemap.Map {
 
 	for item := range channel {
 		items.Put(item.ProductID, item)
+	}
+
+	if pool.FailedTasks() > 0 {
+		panic("We had some failed tasks: " + fmt.Sprintf("%d", pool.FailedTasks()))
 	}
 
 	return items
