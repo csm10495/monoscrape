@@ -26881,7 +26881,7 @@
             "product_id": 40778,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 11
+            "num_reviews": 12
         },
         "40782": {
             "name": "DisplayPort 1.4 EasyPlug Nylon Braided Cable, 3ft, Gray",
@@ -30211,7 +30211,7 @@
             "product_id": 42531,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 245
+            "num_reviews": 258
         },
         "42532": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft/3ft/6ft, Red - 3 Pack",
@@ -30220,7 +30220,7 @@
             "product_id": 42532,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 258
+            "num_reviews": 245
         },
         "42533": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Black - 3 Pack",
@@ -30238,7 +30238,7 @@
             "product_id": 42534,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 389
+            "num_reviews": 390
         },
         "42535": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Red - 3 Pack",
@@ -32479,7 +32479,7 @@
             "product_id": 43237,
             "available": false,
             "rating": 5,
-            "num_reviews": 6
+            "num_reviews": 7
         },
         "43238": {
             "name": "Monolith by Monoprice Balanced Headphone Cable for AMT, M1570 and M1570C Headphones",
@@ -32803,7 +32803,7 @@
             "product_id": 43345,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1453
+            "num_reviews": 1455
         },
         "43347": {
             "name": "Monoprice Cat6 10ft Black 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -35283,6 +35283,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-03T12:34:55Z"
+        "timestamp": "2023-04-03T13:22:39Z"
     }
 }
