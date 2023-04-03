@@ -24665,7 +24665,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=42052",
             "product_id": 42052,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 7
         },
@@ -25585,7 +25585,7 @@
             "product_id": 42532,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 245
+            "num_reviews": 258
         },
         "42533": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Black - 3 Pack",
@@ -25639,7 +25639,7 @@
             "product_id": 42538,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 389
+            "num_reviews": 390
         },
         "42539": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C Charge and Sync Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 6ft, Red - 3 Pack",
@@ -29463,8 +29463,8 @@
             "url": "https://www.monoprice.com/product?p_id=44315",
             "product_id": 44315,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 5,
+            "num_reviews": 1
         },
         "44316": {
             "name": "Monoprice 3-Outlet Flat Plug Household Extension Cord, 16AWG, 13A,  SPT-2, White, 6ft",
@@ -29888,6 +29888,24 @@
             "available": true,
             "rating": 4.9,
             "num_reviews": 45
+        },
+        "44624": {
+            "name": "Monolith by Monoprice M1070C Over the Ear Closed Back Planar Headphones (Open Box)",
+            "price": 399.99,
+            "url": "https://www.monoprice.com/product?p_id=44624",
+            "product_id": 44624,
+            "available": false,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "44625": {
+            "name": "Monolith by Monoprice Audition C5 Center Channel Speaker (Each) (Open Box)",
+            "price": 89.59,
+            "url": "https://www.monoprice.com/product?p_id=44625",
+            "product_id": 44625,
+            "available": false,
+            "rating": 0,
+            "num_reviews": 0
         },
         "448": {
             "name": "Monoprice 6ft DB 9 F/F Molded Cable",
@@ -38640,6 +38658,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-02T23:56:26Z"
+        "timestamp": "2023-04-03T01:18:14Z"
     }
 }
