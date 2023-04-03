@@ -16981,7 +16981,7 @@
             "product_id": 31204,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 258
+            "num_reviews": 245
         },
         "31219": {
             "name": "Monoprice OM4 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, 10GB, LSZH, Purple, 2m, Corning",
@@ -19042,7 +19042,7 @@
             "product_id": 33884,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 205
+            "num_reviews": 202
         },
         "33885": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Pine Green",
@@ -21076,7 +21076,7 @@
             "product_id": 34832,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1703
+            "num_reviews": 1704
         },
         "34833": {
             "name": "Monoprice 4K Certified Premium High Speed HDMI Cable 2m - 18Gbps Black - 2 Pack",
@@ -25027,7 +25027,7 @@
             "product_id": 38811,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 67
+            "num_reviews": 69
         },
         "38812": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 3ft, White",
@@ -25072,7 +25072,7 @@
             "product_id": 38816,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 67
+            "num_reviews": 69
         },
         "38818": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 10ft, Blue",
@@ -25405,7 +25405,7 @@
             "product_id": 38879,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 56
+            "num_reviews": 55
         },
         "38885": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-C Charge \u0026 Sync Nylon-Braid Cable, 6ft, Black",
@@ -26663,7 +26663,7 @@
             "price": 3.82,
             "url": "https://www.monoprice.com/product?p_id=39475",
             "product_id": 39475,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 55
         },
@@ -28177,7 +28177,7 @@
             "product_id": 39921,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1580
+            "num_reviews": 1579
         },
         "39922": {
             "name": "Monoprice USB Type-A to USB Type-A Female 2.0 Extension Cable - 28/24AWG Gold Plated Black 1.5ft, 5-Pack",
@@ -46263,6 +46263,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-03T05:17:25Z"
+        "timestamp": "2023-04-03T06:23:07Z"
     }
 }
