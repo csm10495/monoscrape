@@ -439,7 +439,7 @@
             "product_id": 10594,
             "available": true,
             "rating": 4.1,
-            "num_reviews": 192
+            "num_reviews": 193
         },
         "10620": {
             "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam, 10 x 9 x 7 in",
@@ -1031,7 +1031,7 @@
             "price": 0.99,
             "url": "https://www.monoprice.com/product?p_id=11261",
             "product_id": 11261,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 459
         },
@@ -1168,7 +1168,7 @@
             "product_id": 11283,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 63
+            "num_reviews": 64
         },
         "11284": {
             "name": "Monoprice FLEXboot Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 25ft, Black",
@@ -1609,7 +1609,7 @@
             "product_id": 11351,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 63
+            "num_reviews": 64
         },
         "11352": {
             "name": "Monoprice Cat5e 5ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -1870,7 +1870,7 @@
             "product_id": 11391,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1453
+            "num_reviews": 1455
         },
         "11392": {
             "name": "Monoprice FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 7ft, White",
@@ -2961,15 +2961,6 @@
             "rating": 4.6,
             "num_reviews": 61
         },
-        "12797": {
-            "name": "Monoprice Cat6 Ethernet Bulk Cable - Stranded, 550MHz, UTP, CM, Pure Bare Copper Wire, 24AWG, No Logo, 1000ft, Orange",
-            "price": 167.99,
-            "url": "https://www.monoprice.com/product?p_id=12797",
-            "product_id": 12797,
-            "available": false,
-            "rating": 2.5,
-            "num_reviews": 2
-        },
         "12799": {
             "name": "Monoprice Mini DisplayPort 1.2a / Thunderbolt to 4K HDMI, DVI, and VGA Passive Adapter, Black",
             "price": 6,
@@ -2996,15 +2987,6 @@
             "available": true,
             "rating": 3.3,
             "num_reviews": 18
-        },
-        "12804": {
-            "name": "Monoprice Cat6 Ethernet Bulk Cable - Stranded, 550MHz, UTP, CM, Pure Bare Copper Wire, 24AWG, No Logo, 1000ft, White",
-            "price": 167.99,
-            "url": "https://www.monoprice.com/product?p_id=12804",
-            "product_id": 12804,
-            "available": false,
-            "rating": 2.5,
-            "num_reviews": 2
         },
         "12806": {
             "name": "Monoprice Cat5e 1000ft Black CMP UL Bulk Cable, TAA, UTP, Solid, 24AWG, 350MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
@@ -3380,7 +3362,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=13121",
             "product_id": 13121,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 127
         },
@@ -3731,7 +3713,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=13265",
             "product_id": 13265,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 165
         },
@@ -4613,7 +4595,7 @@
             "price": 8.49,
             "url": "https://www.monoprice.com/product?p_id=13552",
             "product_id": 13552,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 271
         },
@@ -4658,15 +4640,6 @@
             "price": 24.49,
             "url": "https://www.monoprice.com/product?p_id=13562",
             "product_id": 13562,
-            "available": false,
-            "rating": 3.9,
-            "num_reviews": 42
-        },
-        "13564": {
-            "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, U/FTP, CM, Pure Bare Copper Wire, 23AWG, 500ft, Blue",
-            "price": 104.99,
-            "url": "https://www.monoprice.com/product?p_id=13564",
-            "product_id": 13564,
             "available": false,
             "rating": 3.9,
             "num_reviews": 42
@@ -4723,7 +4696,7 @@
             "product_id": 13580,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 249
+            "num_reviews": 250
         },
         "13586": {
             "name": "Monoprice 4K Slim High Speed HDMI Cable 6ft - 18Gbps Black",
@@ -4838,7 +4811,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=13659",
             "product_id": 13659,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 231
         },
@@ -5684,7 +5657,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=13920",
             "product_id": 13920,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 658
         },
@@ -6368,7 +6341,7 @@
             "price": 35.99,
             "url": "https://www.monoprice.com/product?p_id=14760",
             "product_id": 14760,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 60
         },
@@ -6377,7 +6350,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=14767",
             "product_id": 14767,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 88
         },
@@ -6764,7 +6737,7 @@
             "price": 44.99,
             "url": "https://www.monoprice.com/product?p_id=14891",
             "product_id": 14891,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 34
         },
@@ -7504,7 +7477,7 @@
             "product_id": 15430,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1702
+            "num_reviews": 1704
         },
         "15431": {
             "name": "Monoprice 4K Certified Premium High Speed HDMI Cable 20ft - 18Gbps Black",
@@ -8080,7 +8053,7 @@
             "product_id": 15833,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 202
+            "num_reviews": 205
         },
         "15835": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, White",
@@ -46263,6 +46236,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-03T15:19:41Z"
+        "timestamp": "2023-04-03T16:24:35Z"
     }
 }
