@@ -16179,8 +16179,8 @@
             "url": "https://www.monoprice.com/product?p_id=30709",
             "product_id": 30709,
             "available": false,
-            "rating": 4.6,
-            "num_reviews": 10
+            "rating": 4.5,
+            "num_reviews": 11
         },
         "30712": {
             "name": "Workstream by Monoprice Height-Adjustable Standing Footrest, Steel",
@@ -16954,7 +16954,7 @@
             "product_id": 31204,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 245
+            "num_reviews": 258
         },
         "31219": {
             "name": "Monoprice OM4 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, 10GB, LSZH, Purple, 2m, Corning",
@@ -17080,7 +17080,7 @@
             "product_id": 31264,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 257
+            "num_reviews": 259
         },
         "31290": {
             "name": "Monoprice Sit-Stand Single Motor Height Adjustable Table Desk Frame, Electric, Black",
@@ -17195,7 +17195,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=31333",
             "product_id": 31333,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 231
         },
@@ -17800,7 +17800,7 @@
             "product_id": 33394,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 51
+            "num_reviews": 52
         },
         "3340": {
             "name": "Monoprice 35ft Super VGA HD15 M/M CL2 Rated Cable with Stereo Audio and Triple Shielding (Gold Plated)",
@@ -18563,7 +18563,7 @@
             "price": 2.02,
             "url": "https://www.monoprice.com/product?p_id=33741",
             "product_id": 33741,
-            "available": false,
+            "available": true,
             "rating": 3.6,
             "num_reviews": 5
         },
@@ -18763,7 +18763,7 @@
             "product_id": 33830,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 52
+            "num_reviews": 53
         },
         "33831": {
             "name": "Monoprice Premium 5.1.2 Channel Immersive Home Theater System with Subwoofer",
@@ -20373,8 +20373,8 @@
             "url": "https://www.monoprice.com/product?p_id=34539",
             "product_id": 34539,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 9
+            "rating": 4.5,
+            "num_reviews": 10
         },
         "34540": {
             "name": "Workstream by Monoprice Computer Case CPU Tower Holder, Low Profile Under Desk PC Mount",
@@ -20759,6 +20759,15 @@
             "price": 38.4,
             "url": "https://www.monoprice.com/product?p_id=34746",
             "product_id": 34746,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 69
+        },
+        "34748": {
+            "name": "Cat8 24AWG S/FTP Ethernet Network Cable, 2GHz, 40G, 15m, Black, 5 pack",
+            "price": 146.99,
+            "url": "https://www.monoprice.com/product?p_id=34748",
+            "product_id": 34748,
             "available": true,
             "rating": 4.9,
             "num_reviews": 69
@@ -21560,7 +21569,7 @@
             "price": 149.99,
             "url": "https://www.monoprice.com/product?p_id=35124",
             "product_id": 35124,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 58
         },
@@ -21830,9 +21839,9 @@
             "price": 20.7,
             "url": "https://www.monoprice.com/product?p_id=35510",
             "product_id": 35510,
-            "available": false,
+            "available": true,
             "rating": 4.1,
-            "num_reviews": 33
+            "num_reviews": 34
         },
         "35519": {
             "name": "Monoprice All-in-One Portable Business Meeting Wide Angle USB Video Conference Camera Webcam, Mic, and Speaker, 1080p",
@@ -22181,7 +22190,7 @@
             "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=35944",
             "product_id": 35944,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 103
         },
@@ -22813,7 +22822,7 @@
             "product_id": 36635,
             "available": true,
             "rating": 4.2,
-            "num_reviews": 27
+            "num_reviews": 28
         },
         "36636": {
             "name": "Workstream by Monoprice Textured Office Desk Mat",
@@ -23936,7 +23945,7 @@
             "price": 2.05,
             "url": "https://www.monoprice.com/product?p_id=38320",
             "product_id": 38320,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 258
         },
@@ -24134,7 +24143,7 @@
             "price": 15.24,
             "url": "https://www.monoprice.com/product?p_id=38372",
             "product_id": 38372,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 8
         },
@@ -24405,8 +24414,8 @@
             "url": "https://www.monoprice.com/product?p_id=38546",
             "product_id": 38546,
             "available": true,
-            "rating": 5,
-            "num_reviews": 8
+            "rating": 4.9,
+            "num_reviews": 9
         },
         "38578": {
             "name": "Monoprice SlimRun AV USB 3.1 Type-C to Type-C Video-Only Cable, 30ft, 4K@60Hz, Fiber Optic, AOC",
@@ -24998,7 +25007,7 @@
             "price": 2.2,
             "url": "https://www.monoprice.com/product?p_id=38811",
             "product_id": 38811,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 69
         },
@@ -25117,7 +25126,7 @@
             "product_id": 38826,
             "available": false,
             "rating": 4.3,
-            "num_reviews": 67
+            "num_reviews": 69
         },
         "38827": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 3ft, White, 3-Pack",
@@ -25268,7 +25277,7 @@
             "price": 2.38,
             "url": "https://www.monoprice.com/product?p_id=38851",
             "product_id": 38851,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 56
         },
@@ -25295,7 +25304,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=38857",
             "product_id": 38857,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 55
         },
@@ -25875,6 +25884,15 @@
             "rating": 4.6,
             "num_reviews": 49
         },
+        "39075": {
+            "name": "Monoprice Entegrade 1000FT Cat8 2GHz S/FTP Solid, 22AWG, Bulk Bare Copper Network Cable, 40G, Blue",
+            "price": 599.99,
+            "url": "https://www.monoprice.com/product?p_id=39075",
+            "product_id": 39075,
+            "available": true,
+            "rating": 4.3,
+            "num_reviews": 7
+        },
         "39076": {
             "name": "Monoprice Entegrade 1000FT Cat7 1000MHz S/FTP Solid, 23AWG, Bulk Bare Copper Network Cable, 10G, Black",
             "price": 399.99,
@@ -26143,7 +26161,7 @@
             "product_id": 39165,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 55
+            "num_reviews": 139
         },
         "39166": {
             "name": "Monolith by Monoprice 4 Tier Audio Stand XL, Maple",
@@ -46236,6 +46254,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-03T17:17:49Z"
+        "timestamp": "2023-04-03T18:23:01Z"
     }
 }
