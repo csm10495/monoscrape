@@ -46,7 +46,7 @@ func getLatestItems() *monoscrapelib.ItemDocument {
 type keywordsType []string
 
 func (i *keywordsType) String() string {
-	return "my string representation"
+	return strings.Join(*i, ", ")
 }
 
 func (i *keywordsType) Set(value string) error {
@@ -57,9 +57,10 @@ func (i *keywordsType) Set(value string) error {
 func main() {
 	var keywords keywordsType
 
-	flag.Var(&keywords, "k", "Keywords to search for")
+	flag.Var(&keywords, "k", "Keywords to search for. Can be used multiple times to ensure all keywords are present in the item name.")
 	showNonAvailable := flag.Bool("show-non-available", false, "Show non-available matching items too")
 	showRatings := flag.Bool("show-ratings", false, "Show ratings in listings too")
+	showTimestamp := flag.Bool("show-timestamp", false, "Show the timestamp for the scrape")
 	flag.Parse()
 
 	if len(keywords) == 0 {
@@ -90,7 +91,7 @@ func main() {
 		return matchingItems[i].Price < matchingItems[j].Price
 	})
 
-	fmt.Println("Showing", len(matchingItems), "matching item(s)")
+	fmt.Println("Showing", len(matchingItems), "matching item(s):")
 
 	for _, item := range matchingItems {
 		if *showRatings {
@@ -98,6 +99,10 @@ func main() {
 		} else {
 			fmt.Printf("$%.02f | %s | %s\n", item.Price, item.Name, item.Url)
 		}
+	}
+
+	if *showTimestamp {
+		fmt.Println("Timestamp:", latestItems.Meta.Timestamp)
 	}
 
 }
