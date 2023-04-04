@@ -28251,15 +28251,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "40084": {
-            "name": "Monoprice Heavy Duty Power Cord - NEMA 6-20P to IEC 60320 C13, 14AWG, 15A/3750W, SJT, 250V, Black, 15ft",
-            "price": 16.99,
-            "url": "https://www.monoprice.com/product?p_id=40084",
-            "product_id": 40084,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "40085": {
             "name": "Monoprice Heavy Duty Power Cord - NEMA 6-20P to IEC 60320 C19, 12AWG, 20A/5000W, SJT, 250V, Black, 3ft",
             "price": 6.99,
@@ -28517,7 +28508,7 @@
             "price": 47.49,
             "url": "https://www.monoprice.com/product?p_id=40141",
             "product_id": 40141,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 93
         },
@@ -29466,15 +29457,6 @@
             "rating": 4.1,
             "num_reviews": 90
         },
-        "40879": {
-            "name": "Monoprice FLEXboot Flat Cat6 Ethernet Patch Cable - Snagless RJ45, Flat, 550MHz, UTP, Pure Bare Copper Wire, 30AWG, 0.5ft, Black",
-            "price": 0.74,
-            "url": "https://www.monoprice.com/product?p_id=40879",
-            "product_id": 40879,
-            "available": false,
-            "rating": 4.7,
-            "num_reviews": 55
-        },
         "40880": {
             "name": "Monoprice Cat6 1ft Black Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series  Ethernet Cable",
             "price": 1.39,
@@ -29912,7 +29894,7 @@
             "price": 0.99,
             "url": "https://www.monoprice.com/product?p_id=41079",
             "product_id": 41079,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 244
         },
@@ -29957,7 +29939,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=41086",
             "product_id": 41086,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -30344,7 +30326,7 @@
             "price": 159.99,
             "url": "https://www.monoprice.com/product?p_id=41357",
             "product_id": 41357,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 2
         },
@@ -30481,7 +30463,7 @@
             "product_id": 41382,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1847
         },
         "41383": {
             "name": "Monoprice Access Series 16AWG CL2 Rated 2-Conductor Speaker Wire, 500ft, Black",
@@ -30924,15 +30906,6 @@
             "rating": 4.9,
             "num_reviews": 127
         },
-        "41648": {
-            "name": "Nintendo Switch Tempered Glass Screen Protector x 1",
-            "price": 0.4,
-            "url": "https://www.monoprice.com/product?p_id=41648",
-            "product_id": 41648,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 2
-        },
         "41649": {
             "name": "Weeding \u0026 Digging Knife for gardening, Hori Hori stainless steel Knife with wood handle + sheath",
             "price": 16.99,
@@ -30956,7 +30929,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=41665",
             "product_id": 41665,
-            "available": true,
+            "available": false,
             "rating": 3,
             "num_reviews": 1
         },
@@ -30986,6 +30959,15 @@
             "available": true,
             "rating": 5,
             "num_reviews": 4
+        },
+        "41686": {
+            "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, H05VV-F 3G 0.75 mm",
+            "price": 0.74,
+            "url": "https://www.monoprice.com/product?p_id=41686",
+            "product_id": 41686,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 59
         },
         "41687": {
             "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, H05VV-F 3G 0.75 mm",
@@ -31302,15 +31284,6 @@
             "rating": 4.9,
             "num_reviews": 11
         },
-        "41776": {
-            "name": "Outdoor Oil Resistant Extension Power Cord, 12AWG, 20A, SJTOW, Yellow, 100ft",
-            "price": 64.6,
-            "url": "https://www.monoprice.com/product?p_id=41776",
-            "product_id": 41776,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 4
-        },
         "41777": {
             "name": "Coiled Power Tool Extension Cord, 16AWG, 13A, SJT, Orange, Expands from 3ft to 10ft",
             "price": 15.99,
@@ -31390,7 +31363,7 @@
             "product_id": 41814,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1453
+            "num_reviews": 1455
         },
         "41815": {
             "name": "Monoprice Cat6 2ft Blue 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -31399,7 +31372,7 @@
             "product_id": 41815,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1453
+            "num_reviews": 1455
         },
         "41816": {
             "name": "Monoprice Cat6 3ft Black 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -31453,7 +31426,7 @@
             "product_id": 41821,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1453
+            "num_reviews": 1455
         },
         "41822": {
             "name": "UVC Sterilizer with wireless charging Disinfection Tool for Sterilization",
@@ -31617,6 +31590,15 @@
             "rating": 2.3,
             "num_reviews": 4
         },
+        "41948": {
+            "name": "Ergonomic gaming Chair with Height Adjustment, Headrest and Lumbar Support Swivel Chair",
+            "price": 119.99,
+            "url": "https://www.monoprice.com/product?p_id=41948",
+            "product_id": 41948,
+            "available": false,
+            "rating": 5,
+            "num_reviews": 4
+        },
         "41953": {
             "name": "Selfie Ring Light with 24\" Gooseneck Stand \u0026 Cell Phone Holder, clip on for Live-Streaming Phone Mount and Light Kit",
             "price": 11.99,
@@ -31739,7 +31721,7 @@
             "price": 35,
             "url": "https://www.monoprice.com/product?p_id=42018",
             "product_id": 42018,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -32192,15 +32174,6 @@
             "available": true,
             "rating": 2,
             "num_reviews": 1
-        },
-        "42134": {
-            "name": "Cable Jump Rope for exercise work out home gym high speed core training aid",
-            "price": 3.99,
-            "url": "https://www.monoprice.com/product?p_id=42134",
-            "product_id": 42134,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
         },
         "42136": {
             "name": "Yoga Ring Yoga Wheel for Back Pain Work Out Exercise Stretching Muscle Relaxer for Home training Home gym",
@@ -32866,7 +32839,7 @@
             "product_id": 42538,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 390
+            "num_reviews": 391
         },
         "42539": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C Charge and Sync Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 6ft, Red - 3 Pack",
@@ -33345,15 +33318,6 @@
             "rating": 4.9,
             "num_reviews": 35
         },
-        "42765": {
-            "name": "Air Purifier, H11 True HEPA Filter, Remove 99.97% Allergens Smoke Pollen Pets Hair, Desktop Air Cleaner, 3 Stage Filtration, Anion, Home, Office, Bedroom",
-            "price": 17.99,
-            "url": "https://www.monoprice.com/product?p_id=42765",
-            "product_id": 42765,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 1
-        },
         "42766": {
             "name": "Air Purifier for Home, 215ft, H11 True HEPA Filter, Remove 99.97% Allergens Smoke Pollen Pets Hair, 3 Speed, Air Cleaner, 3 Stage Filtration, Office, Bedroom",
             "price": 19.99,
@@ -33584,7 +33548,7 @@
             "price": 1099.99,
             "url": "https://www.monoprice.com/product?p_id=42848",
             "product_id": 42848,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -34133,7 +34097,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=43015",
             "product_id": 43015,
-            "available": true,
+            "available": false,
             "rating": 3.3,
             "num_reviews": 9
         },
@@ -34187,7 +34151,7 @@
             "price": 212,
             "url": "https://www.monoprice.com/product?p_id=43021",
             "product_id": 43021,
-            "available": true,
+            "available": false,
             "rating": 3.7,
             "num_reviews": 6
         },
@@ -34722,15 +34686,6 @@
             "rating": 4.9,
             "num_reviews": 303
         },
-        "43184": {
-            "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 14AWG, 15A, 3-Prong, White, 3ft",
-            "price": 3.99,
-            "url": "https://www.monoprice.com/product?p_id=43184",
-            "product_id": 43184,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 303
-        },
         "43185": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 14AWG, 15A, 3-Prong, White, 6ft",
             "price": 4.99,
@@ -35053,7 +35008,7 @@
             "product_id": 43237,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 8
+            "num_reviews": 9
         },
         "43238": {
             "name": "Monolith by Monoprice Balanced Headphone Cable for AMT, M1570 and M1570C Headphones",
@@ -35312,7 +35267,7 @@
             "price": 80.99,
             "url": "https://www.monoprice.com/product?p_id=43332",
             "product_id": 43332,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 5
         },
@@ -35721,6 +35676,15 @@
             "rating": 0,
             "num_reviews": 0
         },
+        "43496": {
+            "name": "6' Aluminum Portable Fold-Up Camping Kitchen Table with Windscreen and 5 Enclosed Cupboards",
+            "price": 99.99,
+            "url": "https://www.monoprice.com/product?p_id=43496",
+            "product_id": 43496,
+            "available": false,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "43524": {
             "name": "Qi Certified 10W Wireless Charging Stand",
             "price": 14.99,
@@ -35843,7 +35807,7 @@
             "price": 299.99,
             "url": "https://www.monoprice.com/product?p_id=43562",
             "product_id": 43562,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 12
         },
@@ -35889,6 +35853,15 @@
             "url": "https://www.monoprice.com/product?p_id=43574",
             "product_id": 43574,
             "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "43578": {
+            "name": "Multi-function Push Up Board, Color Coded Combo Positions for Exercise, Push Up Bar, Handles, Resistance Bands, Portable Home Gym Fitness Accessories, Strength Training Equipment, Home Workout",
+            "price": 29.99,
+            "url": "https://www.monoprice.com/product?p_id=43578",
+            "product_id": 43578,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -36009,6 +35982,15 @@
             "rating": 0,
             "num_reviews": 0
         },
+        "43637": {
+            "name": "Touch Control Bedside Lamp with Dual USB Ports, Table Lamp for Bedroom, 3 Way Dimmable Energy Saving Nightstand Lamp for Living Room, Kids Room, College Dorm, Office (Bulb Included)",
+            "price": 29.99,
+            "url": "https://www.monoprice.com/product?p_id=43637",
+            "product_id": 43637,
+            "available": false,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "43639": {
             "name": "Pickleball Paddles, Set of 2 Graphite Rackets, Lightweight, Beginner to Professional, 4 Pickleballs Balls, with Portable Bag, Indoor, Outdoor, Men, Women",
             "price": 45.99,
@@ -36078,8 +36060,8 @@
             "url": "https://www.monoprice.com/product?p_id=43670",
             "product_id": 43670,
             "available": false,
-            "rating": 3.7,
-            "num_reviews": 3
+            "rating": 5,
+            "num_reviews": 2
         },
         "43671": {
             "name": "65W Universal USB-C Laptop Charger",
@@ -36179,24 +36161,6 @@
             "available": true,
             "rating": 0,
             "num_reviews": 0
-        },
-        "43718": {
-            "name": "Pour Over Coffee Dripper Slow Drip 304 Stainless Steel Coffee Filter Reusable Metal Cone Paperless Single Cup 1-2 Cup Coffee Maker with Non-slip Cup Stand",
-            "price": 11.99,
-            "url": "https://www.monoprice.com/product?p_id=43718",
-            "product_id": 43718,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "43728": {
-            "name": "130W GaN USB C wall charger 3C1A Quick charging 4 ports Compact Power Station AC 100-240V for Laptop Cellphone Tablet Ipad Iphone",
-            "price": 34.99,
-            "url": "https://www.monoprice.com/product?p_id=43728",
-            "product_id": 43728,
-            "available": false,
-            "rating": 4.5,
-            "num_reviews": 2
         },
         "43765": {
             "name": "MPM Lightweight Folding Cane with Seat, Walking Stick, Walking Cane, Crutch Chair, Travel Aid",
@@ -36657,6 +36621,15 @@
             "rating": 5,
             "num_reviews": 1
         },
+        "44293": {
+            "name": "VIVO Universal LED Computer Monitor Light Bar, USB Powered Screen Lamp for Home Office, 5 Level Adjustable Brightness and Temperature Reading Light, Black, Desk-LTSB1",
+            "price": 29.99,
+            "url": "https://www.monoprice.com/product?p_id=44293",
+            "product_id": 44293,
+            "available": false,
+            "rating": 4,
+            "num_reviews": 1
+        },
         "443": {
             "name": "Monoprice 10ft DB 9 M/F Molded Cable",
             "price": 4.49,
@@ -36977,6 +36950,15 @@
             "price": 179.99,
             "url": "https://www.monoprice.com/product?p_id=44438",
             "product_id": 44438,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "44463": {
+            "name": "Monolith by Monoprice M8125x 8x100 Watts Per Channel Class-D (B-Stock)",
+            "price": 1599.99,
+            "url": "https://www.monoprice.com/product?p_id=44463",
+            "product_id": 44463,
             "available": true,
             "rating": 0,
             "num_reviews": 0
@@ -45777,6 +45759,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-04T19:17:33Z"
+        "timestamp": "2023-04-04T20:22:00Z"
     }
 }
