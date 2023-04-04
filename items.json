@@ -10240,7 +10240,7 @@
             "product_id": 2139,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3038
+            "num_reviews": 3039
         },
         "2140": {
             "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 7ft, Green",
@@ -12508,7 +12508,7 @@
             "product_id": 3012,
             "available": false,
             "rating": 4.1,
-            "num_reviews": 473
+            "num_reviews": 474
         },
         "3013": {
             "name": "Monoprice Adjustable 10 lb. Capacity Speaker Wall Mount Brackets (Pair), White",
@@ -12542,7 +12542,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=3030",
             "product_id": 3030,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 948
         },
@@ -12615,8 +12615,8 @@
             "url": "https://www.monoprice.com/product?p_id=3035",
             "product_id": 3035,
             "available": true,
-            "rating": 4.8,
-            "num_reviews": 947
+            "rating": 4.9,
+            "num_reviews": 948
         },
         "30359": {
             "name": "Monoprice Commercial Series Mobile Tripod Tilt TV Wall Mount Bracket Stand - For LED TVs 32in to 55in, Max Weight 77 lbs., VESA Patterns up to 400x400",
@@ -15469,7 +15469,7 @@
             "product_id": 3377,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 3038
+            "num_reviews": 3039
         },
         "33770": {
             "name": "Monoprice MP Select and Plus Tempered Glass Sheet, 200x200x3mm",
@@ -19787,7 +19787,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=3726",
             "product_id": 3726,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 162
         },
@@ -35357,7 +35357,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=5287",
             "product_id": 5287,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 159
         },
@@ -39758,7 +39758,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=7677",
             "product_id": 7677,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 87
         },
@@ -41081,7 +41081,7 @@
             "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=8770",
             "product_id": 8770,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 99
         },
@@ -41909,7 +41909,7 @@
             "price": 73.49,
             "url": "https://www.monoprice.com/product?p_id=955",
             "product_id": 955,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 16
         },
@@ -42064,7 +42064,7 @@
             "product_id": 9769,
             "available": true,
             "rating": 4,
-            "num_reviews": 396
+            "num_reviews": 397
         },
         "9780": {
             "name": "Monoprice Premier Series 1/4-inch TS Guitar Pedal Patch Cable with Right Angle Connectors, 8-inch",
@@ -42109,7 +42109,7 @@
             "product_id": 9789,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1453
+            "num_reviews": 1455
         },
         "9790": {
             "name": "Monoprice Cat6 3ft Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -42217,7 +42217,7 @@
             "product_id": 9801,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1453
+            "num_reviews": 1455
         },
         "9802": {
             "name": "Monoprice FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 50ft, Gray",
@@ -42667,7 +42667,7 @@
             "product_id": 9857,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1453
+            "num_reviews": 1455
         },
         "9858": {
             "name": "Monoprice FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 50ft, Purple",
@@ -42888,6 +42888,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-04T03:19:06Z"
+        "timestamp": "2023-04-04T04:22:11Z"
     }
 }
