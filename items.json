@@ -3492,6 +3492,15 @@
             "rating": 4.7,
             "num_reviews": 199
         },
+        "21594": {
+            "name": "Strata Home by Monoprice Sous Vide Immersion Cooker 800W",
+            "price": 69.99,
+            "url": "https://www.monoprice.com/product?p_id=21594",
+            "product_id": 21594,
+            "available": false,
+            "rating": 4.6,
+            "num_reviews": 384
+        },
         "21601": {
             "name": "Monoprice Table Top for Sit-Stand Height-Adjustable Desk, 4ft Black",
             "price": 34.99,
@@ -3726,6 +3735,15 @@
             "rating": 5,
             "num_reviews": 1
         },
+        "21666": {
+            "name": "Monoprice Mini Delta V2 3D Printer",
+            "price": 199.99,
+            "url": "https://www.monoprice.com/product?p_id=21666",
+            "product_id": 21666,
+            "available": false,
+            "rating": 4.1,
+            "num_reviews": 274
+        },
         "21669": {
             "name": "Monoprice Blackbird 4K HDBaseT Extender, 4K at 100m, USB KVM, HDCP 2.2, PoC, EDID",
             "price": 370.99,
@@ -3843,6 +3861,15 @@
             "rating": 4.6,
             "num_reviews": 182
         },
+        "21711": {
+            "name": "Monoprice MP Select Mini 3D Printer V2, Black",
+            "price": 219.99,
+            "url": "https://www.monoprice.com/product?p_id=21711",
+            "product_id": 21711,
+            "available": false,
+            "rating": 4.4,
+            "num_reviews": 594
+        },
         "21792": {
             "name": "Monoprice Blackbird PRO 4K HDBaseT Extender Kit, 100m, HDR, HDMI 2.0, HDCP 2.2, Ethernet, 2-Way PoH, and Bidirectional IR",
             "price": 499.99,
@@ -3924,6 +3951,15 @@
             "rating": 4.7,
             "num_reviews": 662
         },
+        "21820": {
+            "name": "Monoprice 10 PAIRS Of High-Quality Gold Plated Speaker Banana Plugs, Closed Screw Type",
+            "price": 17.99,
+            "url": "https://www.monoprice.com/product?p_id=21820",
+            "product_id": 21820,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 2002
+        },
         "21821": {
             "name": "Monoprice 12 PAIRS Of High-Quality Gold Plated Speaker Banana Plugs, Closed Screw Type",
             "price": 21.99,
@@ -3951,6 +3987,15 @@
             "rating": 0,
             "num_reviews": 0
         },
+        "21830": {
+            "name": "Monoprice Select Speed USB Wall Charger, 1-Port, Qualcomm Quick Charge Output for iPhone, Android, and Galaxy Devices",
+            "price": 11.39,
+            "url": "https://www.monoprice.com/product?p_id=21830",
+            "product_id": 21830,
+            "available": true,
+            "rating": 4.5,
+            "num_reviews": 42
+        },
         "21841": {
             "name": "Monoprice Cable Wrap with Hook and Loop Fastener, 32mm Diameter, 20 Feet Long",
             "price": 7.99,
@@ -3959,6 +4004,24 @@
             "available": false,
             "rating": 3.9,
             "num_reviews": 16
+        },
+        "21847": {
+            "name": "Monoprice Floor Wrap with Hook and Loop Fastener, 76mm Diameter, 20 Feet Long",
+            "price": 8.99,
+            "url": "https://www.monoprice.com/product?p_id=21847",
+            "product_id": 21847,
+            "available": true,
+            "rating": 4.2,
+            "num_reviews": 14
+        },
+        "21848": {
+            "name": "Monoprice Floor Wrap with Hook and Loop Fastener, 100mm Diameter, 20 Feet Long",
+            "price": 10.99,
+            "url": "https://www.monoprice.com/product?p_id=21848",
+            "product_id": 21848,
+            "available": true,
+            "rating": 4.2,
+            "num_reviews": 14
         },
         "2185": {
             "name": "Monoprice 50ft 24AWG CL2 Dual Link DVI-D Cable - Black",
@@ -3969,11 +4032,65 @@
             "rating": 4.8,
             "num_reviews": 879
         },
+        "21856": {
+            "name": "Monoprice Rubber Duct Cable Cover, 10 Feet",
+            "price": 14.99,
+            "url": "https://www.monoprice.com/product?p_id=21856",
+            "product_id": 21856,
+            "available": false,
+            "rating": 4.9,
+            "num_reviews": 9
+        },
+        "21868": {
+            "name": "Monoprice Cat5e 1000ft Black Outdoor Bulk Cable, Gel-filled Direct Burial, Solid, UTP, 24AWG, 550MHz, Pure Bare Copper, Reel in Box, No Logo, Bulk Ethernet Cable",
+            "price": 199.49,
+            "url": "https://www.monoprice.com/product?p_id=21868",
+            "product_id": 21868,
+            "available": false,
+            "rating": 2.8,
+            "num_reviews": 4
+        },
         "21871": {
             "name": "Monoprice Maker Select Plus 3D Printer with Euro Power Supply",
             "price": 399,
             "url": "https://www.monoprice.com/product?p_id=21871",
             "product_id": 21871,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "21876": {
+            "name": "Monoprice Commercial Series Menu Video Wall TV Wall Mount Bracket with Push-to-Pop-Out - TVs up to 70in, Max Weight 99 lbs., Extension of 2.7in to 8.5in, VESA Patterns Up to 600x400, Security Brackets",
+            "price": 49.99,
+            "url": "https://www.monoprice.com/product?p_id=21876",
+            "product_id": 21876,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 5
+        },
+        "21880": {
+            "name": "Monoprice Select Series USB-C to HDMI Adapter 4K at 60Hz, UHD, Black",
+            "price": 23.49,
+            "url": "https://www.monoprice.com/product?p_id=21880",
+            "product_id": 21880,
+            "available": true,
+            "rating": 3,
+            "num_reviews": 9
+        },
+        "21881": {
+            "name": "Monoprice USB Type-A to USB Type-C Adapter",
+            "price": 7.99,
+            "url": "https://www.monoprice.com/product?p_id=21881",
+            "product_id": 21881,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 1
+        },
+        "21885": {
+            "name": "Monoprice 15ft USB 2.0 A Male to A Female Extension 28/24AWG Cable (Gold Plated)",
+            "price": 2.49,
+            "url": "https://www.monoprice.com/product?p_id=21885",
+            "product_id": 21885,
             "available": true,
             "rating": 0,
             "num_reviews": 0
@@ -3987,6 +4104,78 @@
             "rating": 4.7,
             "num_reviews": 310
         },
+        "21912": {
+            "name": "Monoprice 1 Pair Right Angle 24k Gold Plated Banana Speaker Wire Cable Screw Plug Connectors",
+            "price": 3.49,
+            "url": "https://www.monoprice.com/product?p_id=21912",
+            "product_id": 21912,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 101
+        },
+        "21913": {
+            "name": "Monoprice 2 Pair Right Angle 24k Gold Plated Banana Speaker Wire Cable Screw Plug Connectors",
+            "price": 5.99,
+            "url": "https://www.monoprice.com/product?p_id=21913",
+            "product_id": 21913,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 101
+        },
+        "21914": {
+            "name": "Monoprice 5 Pair Right Angle 24k Gold Plated Banana Speaker Wire Cable Screw Plug Connectors",
+            "price": 14.99,
+            "url": "https://www.monoprice.com/product?p_id=21914",
+            "product_id": 21914,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 101
+        },
+        "21915": {
+            "name": "Monoprice 10 Pair Right Angle 24k Gold Plated Banana Speaker Wire Cable Screw Plug Connectors",
+            "price": 18.3,
+            "url": "https://www.monoprice.com/product?p_id=21915",
+            "product_id": 21915,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 101
+        },
+        "21917": {
+            "name": "Monoprice 2 Pair Affinity Series 24k Gold Speaker Banana Plug",
+            "price": 4.16,
+            "url": "https://www.monoprice.com/product?p_id=21917",
+            "product_id": 21917,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 132
+        },
+        "21918": {
+            "name": "Monoprice 5 Pair Affinity Series 24k Gold Speaker Banana Plug",
+            "price": 12.99,
+            "url": "https://www.monoprice.com/product?p_id=21918",
+            "product_id": 21918,
+            "available": false,
+            "rating": 4.6,
+            "num_reviews": 132
+        },
+        "21919": {
+            "name": "Monoprice 10 Pair Affinity Series 24k Gold Speaker Banana Plug",
+            "price": 15.75,
+            "url": "https://www.monoprice.com/product?p_id=21919",
+            "product_id": 21919,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 132
+        },
+        "21950": {
+            "name": "Monoprice Full-Motion Articulating TV Wall Mount Bracket - For Flat Screen TVs 37in to 70in, Max Weight 77lbs, Extension Range of 3.3in to 17.4in, VESA Patterns Up to 600x400, Rotating",
+            "price": 34.99,
+            "url": "https://www.monoprice.com/product?p_id=21950",
+            "product_id": 21950,
+            "available": false,
+            "rating": 3.9,
+            "num_reviews": 32
+        },
         "2196": {
             "name": "Monoprice RCA Coaxial Compsite Video and Stereo Audio Cable, 3ft",
             "price": 3.99,
@@ -3995,6 +4184,69 @@
             "available": true,
             "rating": 4.8,
             "num_reviews": 385
+        },
+        "21960": {
+            "name": "Monoprice EZ Series Full-Motion Articulating TV Wall Mount Bracket - For LED TVs Up to 70in, Max Weight 77 lbs., VESA Patterns Up to 600x400, Rotating",
+            "price": 39.99,
+            "url": "https://www.monoprice.com/product?p_id=21960",
+            "product_id": 21960,
+            "available": false,
+            "rating": 4.3,
+            "num_reviews": 33
+        },
+        "21961": {
+            "name": "Monoprice EZ Series Full Motion Articulating TV Wall Mount Bracket - For LED TVs Up to 75in, Max Weight 77 lbs., Extension Range 3.9in to 15in, VESA Patterns Up to 600x400, Rotating",
+            "price": 44.99,
+            "url": "https://www.monoprice.com/product?p_id=21961",
+            "product_id": 21961,
+            "available": false,
+            "rating": 4.3,
+            "num_reviews": 19
+        },
+        "21970": {
+            "name": "Monoprice 4-Port DisplayPort 1.2 to DisplayPort Multi-Stream Transport (MST) Hub",
+            "price": 47.88,
+            "url": "https://www.monoprice.com/product?p_id=21970",
+            "product_id": 21970,
+            "available": true,
+            "rating": 3.7,
+            "num_reviews": 6
+        },
+        "21972": {
+            "name": "Monoprice 2-Port DisplayPort 1.2 to DisplayPort Multi-Stream Transport (MST) Hub",
+            "price": 22.27,
+            "url": "https://www.monoprice.com/product?p_id=21972",
+            "product_id": 21972,
+            "available": true,
+            "rating": 4.5,
+            "num_reviews": 11
+        },
+        "21973": {
+            "name": "Monoprice 2-Port Mini DisplayPort 1.2 to DisplayPort Multi-Stream Transport (MST) Hub",
+            "price": 47.99,
+            "url": "https://www.monoprice.com/product?p_id=21973",
+            "product_id": 21973,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 4
+        },
+        "21974": {
+            "name": "Monoprice 2-Port DisplayPort 1.2 to HDMI Multi-Stream Transport (MST) Hub",
+            "price": 51.99,
+            "url": "https://www.monoprice.com/product?p_id=21974",
+            "product_id": 21974,
+            "available": true,
+            "rating": 4.3,
+            "num_reviews": 3
+        },
+        "21975": {
+            "name": "Monoprice 2-Port Mini DisplayPort 1.2 to HDMI Multi-Stream Transport (MST) Hub",
+            "price": 24.3,
+            "url": "https://www.monoprice.com/product?p_id=21975",
+            "product_id": 21975,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 14
         },
         "2217": {
             "name": "Monoprice Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 50ft, White",
@@ -35814,6 +36066,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-04T05:35:28Z"
+        "timestamp": "2023-04-04T06:41:35Z"
     }
 }
