@@ -31001,7 +31001,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=41665",
             "product_id": 41665,
-            "available": false,
+            "available": true,
             "rating": 3,
             "num_reviews": 1
         },
@@ -31181,7 +31181,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=41704",
             "product_id": 41704,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -34178,7 +34178,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=43015",
             "product_id": 43015,
-            "available": false,
+            "available": true,
             "rating": 3.3,
             "num_reviews": 9
         },
@@ -34232,7 +34232,7 @@
             "price": 212,
             "url": "https://www.monoprice.com/product?p_id=43021",
             "product_id": 43021,
-            "available": false,
+            "available": true,
             "rating": 3.7,
             "num_reviews": 6
         },
@@ -35097,8 +35097,8 @@
             "url": "https://www.monoprice.com/product?p_id=43237",
             "product_id": 43237,
             "available": false,
-            "rating": 5,
-            "num_reviews": 7
+            "rating": 4.9,
+            "num_reviews": 8
         },
         "43238": {
             "name": "Monolith by Monoprice Balanced Headphone Cable for AMT, M1570 and M1570C Headphones",
@@ -35143,7 +35143,7 @@
             "product_id": 43242,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 19
+            "num_reviews": 20
         },
         "43243": {
             "name": "Monoprice Bluetooth 5 Long Range Transmitter and Receiver with aptX HD and aptX Low Latency, SBC, AAC, Toslink/Optical, 3.5mm Aux",
@@ -36123,8 +36123,8 @@
             "url": "https://www.monoprice.com/product?p_id=43670",
             "product_id": 43670,
             "available": false,
-            "rating": 5,
-            "num_reviews": 1
+            "rating": 3.7,
+            "num_reviews": 3
         },
         "43671": {
             "name": "65W Universal USB-C Laptop Charger",
@@ -45840,6 +45840,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-04T13:22:34Z"
+        "timestamp": "2023-04-04T14:19:13Z"
     }
 }
