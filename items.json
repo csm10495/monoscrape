@@ -10917,15 +10917,6 @@
             "rating": 4.8,
             "num_reviews": 158
         },
-        "2169": {
-            "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 100ft, Purple",
-            "price": 5,
-            "url": "https://www.monoprice.com/product?p_id=2169",
-            "product_id": 2169,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 3038
-        },
         "2170": {
             "name": "Monoprice 6ft VGA to 3 RCA Component Video Cable (HD15 - 3-RCA)",
             "price": 2.25,
@@ -14803,7 +14794,7 @@
             "product_id": 2818,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1847
         },
         "2819": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 2-Conductor Speaker Wire, 50ft, White",
@@ -14857,7 +14848,7 @@
             "product_id": 2824,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1847
         },
         "2832": {
             "name": "Monoprice S/PDIF (Toslink) Digital Optical Audio Cable, 35ft",
@@ -15458,7 +15449,7 @@
             "price": 4.71,
             "url": "https://www.monoprice.com/product?p_id=3012",
             "product_id": 3012,
-            "available": false,
+            "available": true,
             "rating": 4.1,
             "num_reviews": 474
         },
@@ -18413,15 +18404,6 @@
             "available": true,
             "rating": 4.9,
             "num_reviews": 3038
-        },
-        "3377": {
-            "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 5ft, Gray",
-            "price": 1.99,
-            "url": "https://www.monoprice.com/product?p_id=3377",
-            "product_id": 3377,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 3039
         },
         "33770": {
             "name": "Monoprice MP Select and Plus Tempered Glass Sheet, 200x200x3mm",
@@ -28688,7 +28670,7 @@
             "price": 9.49,
             "url": "https://www.monoprice.com/product?p_id=4025",
             "product_id": 4025,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 13602
         },
@@ -30200,7 +30182,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=4127",
             "product_id": 4127,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 27
         },
@@ -37301,7 +37283,7 @@
             "price": 22.99,
             "url": "https://www.monoprice.com/product?p_id=4756",
             "product_id": 4756,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 1351
         },
@@ -37501,7 +37483,7 @@
             "product_id": 4777,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 204
+            "num_reviews": 205
         },
         "4778": {
             "name": "Monoprice 10ft Premier Series XLR Male to RCA Male Cable, 16AWG (Gold Plated)",
@@ -37888,7 +37870,7 @@
             "product_id": 4978,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3038
+            "num_reviews": 3039
         },
         "4982": {
             "name": "Monoprice Cat5e 0.5ft White Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -38013,15 +37995,6 @@
             "url": "https://www.monoprice.com/product?p_id=5010",
             "product_id": 5010,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 3395
-        },
-        "5011": {
-            "name": "Monoprice Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 20ft, Green",
-            "price": 6.99,
-            "url": "https://www.monoprice.com/product?p_id=5011",
-            "product_id": 5011,
-            "available": false,
             "rating": 4.9,
             "num_reviews": 3395
         },
@@ -38624,7 +38597,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=5370",
             "product_id": 5370,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 253
         },
@@ -39110,7 +39083,7 @@
             "price": 14.49,
             "url": "https://www.monoprice.com/product?p_id=5544",
             "product_id": 5544,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 13
         },
@@ -40518,15 +40491,6 @@
             "rating": 5,
             "num_reviews": 56
         },
-        "6390": {
-            "name": "Monoprice OM3 Fiber Optic Cable - LC/SC, UL, 50/125 Type, Multi-Mode, 10GB, Aqua, 1m, Corning",
-            "price": 3.99,
-            "url": "https://www.monoprice.com/product?p_id=6390",
-            "product_id": 6390,
-            "available": true,
-            "rating": 5,
-            "num_reviews": 6
-        },
         "6391": {
             "name": "Monoprice OM3 Fiber Optic Cable - LC/SC, UL, 50/125 Type, Multi-Mode, 10GB, Aqua, 2m, Corning",
             "price": 4.29,
@@ -40804,7 +40768,7 @@
             "product_id": 649,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 872
+            "num_reviews": 873
         },
         "650": {
             "name": "Monoprice 25ft 3.5mm Stereo Plug/Jack M/F Cable - Black",
@@ -40820,7 +40784,7 @@
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=6516",
             "product_id": 6516,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 168
         },
@@ -42251,7 +42215,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=7304",
             "product_id": 7304,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 131
         },
@@ -43351,7 +43315,7 @@
             "product_id": 8248,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 264
+            "num_reviews": 265
         },
         "8321": {
             "name": "Monoprice Button Design Noise Isolating Earbuds Headphones, Black \u0026 White",
@@ -44690,7 +44654,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=9447",
             "product_id": 9447,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 210
         },
@@ -45212,7 +45176,7 @@
             "price": 2.29,
             "url": "https://www.monoprice.com/product?p_id=9806",
             "product_id": 9806,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1453
         },
@@ -45484,7 +45448,7 @@
             "product_id": 9838,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1453
+            "num_reviews": 1455
         },
         "9839": {
             "name": "Monoprice Cat6 6in Yellow Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -45646,7 +45610,7 @@
             "product_id": 9860,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1453
+            "num_reviews": 1455
         },
         "9861": {
             "name": "Monoprice FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 3ft, Orange",
@@ -45840,6 +45804,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-04T15:20:14Z"
+        "timestamp": "2023-04-04T16:24:55Z"
     }
 }
