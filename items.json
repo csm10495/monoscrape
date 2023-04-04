@@ -25268,7 +25268,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=40073",
             "product_id": 40073,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 3
         },
@@ -25322,7 +25322,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=40079",
             "product_id": 40079,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 4
         },
@@ -25477,7 +25477,7 @@
             "product_id": 40107,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 59
+            "num_reviews": 60
         },
         "40108": {
             "name": "MP Cadet 3D Printer",
@@ -26388,15 +26388,6 @@
             "rating": 4.7,
             "num_reviews": 85
         },
-        "40666": {
-            "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser-Rated, Pure Bare Copper Wire, 23AWG, 500ft, Purple, (UL)",
-            "price": 26.25,
-            "url": "https://www.monoprice.com/product?p_id=40666",
-            "product_id": 40666,
-            "available": false,
-            "rating": 4.7,
-            "num_reviews": 86
-        },
         "40687": {
             "name": "Pure Outdoor by Monoprice Emperor 50 Cooler, Gray (clearance)",
             "price": 43.18,
@@ -27185,7 +27176,7 @@
             "price": 9.29,
             "url": "https://www.monoprice.com/product?p_id=41218",
             "product_id": 41218,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 56
         },
@@ -27464,7 +27455,7 @@
             "price": 159.99,
             "url": "https://www.monoprice.com/product?p_id=41359",
             "product_id": 41359,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 2
         },
@@ -27529,7 +27520,7 @@
             "product_id": 41376,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1847
         },
         "41377": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 2-Conductor Speaker Wire, 250ft, Black",
@@ -27565,7 +27556,7 @@
             "product_id": 41380,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1847
         },
         "41381": {
             "name": "Monoprice Access Series 12AWG CL2 Rated 2-Conductor Speaker Wire, 250ft, Black",
@@ -27592,7 +27583,7 @@
             "product_id": 41383,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1847
         },
         "41384": {
             "name": "Monoprice Access Series 12AWG CL2 Rated 4-Conductor Speaker Wire, 100ft, Black",
@@ -27610,7 +27601,7 @@
             "product_id": 41385,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1847
         },
         "41386": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 4-Conductor Speaker Wire, 100ft, Black",
@@ -27628,7 +27619,7 @@
             "product_id": 41387,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1847
         },
         "41388": {
             "name": "Monoprice Access Series 16AWG CL2 Rated 4-Conductor Speaker Wire, 100ft, Black",
@@ -28089,15 +28080,6 @@
             "rating": 5,
             "num_reviews": 4
         },
-        "41686": {
-            "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, H05VV-F 3G 0.75 mm",
-            "price": 0.74,
-            "url": "https://www.monoprice.com/product?p_id=41686",
-            "product_id": 41686,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 59
-        },
         "41687": {
             "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, H05VV-F 3G 0.75 mm",
             "price": 1.22,
@@ -28368,15 +28350,6 @@
             "rating": 5,
             "num_reviews": 8
         },
-        "41763": {
-            "name": "2U Compact Server/Desktop Micro-ATX Chassis",
-            "price": 78.99,
-            "url": "https://www.monoprice.com/product?p_id=41763",
-            "product_id": 41763,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "41765": {
             "name": "2U IPC Case Compact Rackmount Chassis with Aluminum Front Panel and Locks",
             "price": 173.49,
@@ -28490,7 +28463,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=41812",
             "product_id": 41812,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1453
         },
@@ -29535,8 +29508,8 @@
             "url": "https://www.monoprice.com/product?p_id=42270",
             "product_id": 42270,
             "available": true,
-            "rating": 4.5,
-            "num_reviews": 11
+            "rating": 4.3,
+            "num_reviews": 12
         },
         "42271": {
             "name": "Monoprice Blackbird 4K HDMI 2.0 1x4 Splitter Extender --Complete Solution Kit-- 18Gbps, HDR, 4K@60Hz, YCbCr 4:4:4, HDCP 2.2, Cat6/6a/7 with IR, Loop Out, EDID, POC with 4 Receivers, 60m, 197ft",
@@ -29977,7 +29950,7 @@
             "product_id": 42537,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 389
+            "num_reviews": 390
         },
         "42538": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft/3ft/6ft, Red - 3 Pack",
@@ -30220,7 +30193,7 @@
             "product_id": 42673,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 125
+            "num_reviews": 126
         },
         "42674": {
             "name": "Monoprice 8K Certified Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 30AWG, 6ft, Black",
@@ -30247,7 +30220,7 @@
             "product_id": 42676,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 125
+            "num_reviews": 126
         },
         "42677": {
             "name": "Monoprice 8K Certified Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 30AWG, 3ft, Black - 5 Pack",
@@ -30283,7 +30256,7 @@
             "product_id": 42680,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 125
+            "num_reviews": 126
         },
         "42681": {
             "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 30AWG, 3ft, Black",
@@ -32567,7 +32540,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=43355",
             "product_id": 43355,
-            "available": false,
+            "available": true,
             "rating": 4,
             "num_reviews": 9
         },
@@ -33599,7 +33572,7 @@
         },
         "44091": {
             "name": "MP Voxel Pro Fully Enclosed 3D Printer, Easy Wi-Fi, Touchscreen, Auto-Leveling",
-            "price": 467.99,
+            "price": 449.99,
             "url": "https://www.monoprice.com/product?p_id=44091",
             "product_id": 44091,
             "available": true,
@@ -33697,7 +33670,7 @@
             "num_reviews": 2
         },
         "44113": {
-            "name": "Pure Outdoor by Monoprice 8-Foot Beach/Camp Sunshade",
+            "name": "Pure Outdoor by Monoprice 7 - Foot, 4-Person Beach/Camp Sunshade",
             "price": 79.99,
             "url": "https://www.monoprice.com/product?p_id=44113",
             "product_id": 44113,
@@ -33774,8 +33747,8 @@
             "url": "https://www.monoprice.com/product?p_id=44268",
             "product_id": 44268,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 5,
+            "num_reviews": 1
         },
         "443": {
             "name": "Monoprice 10ft DB 9 M/F Molded Cable",
@@ -33819,8 +33792,8 @@
             "url": "https://www.monoprice.com/product?p_id=44318",
             "product_id": 44318,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 5,
+            "num_reviews": 1
         },
         "44319": {
             "name": "Monoprice Coiled Power Extension Cord, 16AWG, 13A, SJT, Orange, Expands from 3ft to 10ft",
@@ -42915,6 +42888,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-04T01:24:35Z"
+        "timestamp": "2023-04-04T02:35:41Z"
     }
 }
