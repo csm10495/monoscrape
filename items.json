@@ -16637,7 +16637,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=31187",
             "product_id": 31187,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 389
         },
@@ -16747,7 +16747,7 @@
             "product_id": 31199,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 245
+            "num_reviews": 258
         },
         "31200": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Red",
@@ -16916,7 +16916,7 @@
             "price": 279.99,
             "url": "https://www.monoprice.com/product?p_id=31290",
             "product_id": 31290,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 128
         },
@@ -17332,7 +17332,7 @@
             "product_id": 33201,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "33215": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 10G, 30AWG, 30ft, Blue, 5-Pack",
@@ -17341,7 +17341,7 @@
             "product_id": 33215,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "33216": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 10G, 30AWG, 30ft, Black, 5-Pack",
@@ -17602,7 +17602,7 @@
             "product_id": 33394,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 52
+            "num_reviews": 53
         },
         "3340": {
             "name": "Monoprice 35ft Super VGA HD15 M/M CL2 Rated Cable with Stereo Audio and Triple Shielding (Gold Plated)",
@@ -22570,7 +22570,7 @@
             "product_id": 36635,
             "available": true,
             "rating": 4.2,
-            "num_reviews": 28
+            "num_reviews": 29
         },
         "36636": {
             "name": "Workstream by Monoprice Textured Office Desk Mat",
@@ -23578,7 +23578,7 @@
             "product_id": 38304,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 389
+            "num_reviews": 390
         },
         "38305": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Blue",
@@ -23587,7 +23587,7 @@
             "product_id": 38305,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 389
+            "num_reviews": 390
         },
         "38306": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Blue",
@@ -23632,7 +23632,7 @@
             "product_id": 38312,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 389
+            "num_reviews": 390
         },
         "38313": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft, White",
@@ -23686,7 +23686,7 @@
             "product_id": 38318,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 245
+            "num_reviews": 258
         },
         "38320": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Pink",
@@ -24242,7 +24242,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=38598",
             "product_id": 38598,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 14
         },
@@ -24937,7 +24937,7 @@
             "product_id": 38842,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 55
+            "num_reviews": 56
         },
         "38844": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 3A/60W, 10ft, White",
@@ -24973,7 +24973,7 @@
             "product_id": 38847,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 55
+            "num_reviews": 56
         },
         "38848": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 3A/60W, 10ft, Blue",
@@ -25036,7 +25036,7 @@
             "product_id": 38857,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 55
+            "num_reviews": 56
         },
         "38858": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 5A/100W, 3ft, White",
@@ -25108,7 +25108,7 @@
             "product_id": 38878,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 55
+            "num_reviews": 56
         },
         "38879": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 5A/100W, 3ft, White, 3 Pack",
@@ -25619,7 +25619,7 @@
             "price": 599.99,
             "url": "https://www.monoprice.com/product?p_id=39075",
             "product_id": 39075,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 7
         },
@@ -25936,7 +25936,7 @@
             "product_id": 39170,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 18
+            "num_reviews": 20
         },
         "39172": {
             "name": "Monoprice Replacement Door Open Sensor for the Maker Ultimate 2 3D Printer (36045)",
@@ -45840,6 +45840,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-04T12:34:45Z"
+        "timestamp": "2023-04-04T13:22:34Z"
     }
 }
