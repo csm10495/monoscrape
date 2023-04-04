@@ -20495,7 +20495,7 @@
         },
         "41286": {
             "name": "Monolith by Monoprice M-OW3 THX Certified LCR/Soundbar On Wall Speaker (Each)",
-            "price": 499.99,
+            "price": 280,
             "url": "https://www.monoprice.com/product?p_id=41286",
             "product_id": 41286,
             "available": true,
@@ -21980,7 +21980,7 @@
         },
         "42015": {
             "name": "Pure Outdoor by Monoprice Heavy Duty All Terrain Collapsible Outdoor Wagon, Red",
-            "price": 84.99,
+            "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=42015",
             "product_id": 42015,
             "available": false,
@@ -36066,6 +36066,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-04T07:17:03Z"
+        "timestamp": "2023-04-04T08:23:09Z"
     }
 }
