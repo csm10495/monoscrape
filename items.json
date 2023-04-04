@@ -16160,7 +16160,7 @@
             "price": 3.25,
             "url": "https://www.monoprice.com/product?p_id=30771",
             "product_id": 30771,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 196
         },
@@ -16488,15 +16488,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "31077": {
-            "name": "Monoprice Entegrade Series Cat8 24AWG S/FTP Ethernet Network Cable, 2GHz, 40G, 1ft Purple",
-            "price": 6.99,
-            "url": "https://www.monoprice.com/product?p_id=31077",
-            "product_id": 31077,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 69
-        },
         "31079": {
             "name": "Monoprice Entegrade Series Cat8 24AWG S/FTP Ethernet Network Cable, 2GHz, 40G, 2ft Black",
             "price": 4.99,
@@ -16605,6 +16596,15 @@
             "rating": 4.9,
             "num_reviews": 69
         },
+        "31151": {
+            "name": "Monoprice Entegrade Series Cat8 24AWG S/FTP Ethernet Network Cable, 2GHz, 40G, 30ft Black",
+            "price": 25.99,
+            "url": "https://www.monoprice.com/product?p_id=31151",
+            "product_id": 31151,
+            "available": false,
+            "rating": 4.9,
+            "num_reviews": 69
+        },
         "31179": {
             "name": "Monoprice Select Series DisplayPort 1.4 Cable, 1.5ft Black",
             "price": 4.99,
@@ -16657,7 +16657,7 @@
             "product_id": 31189,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 390
+            "num_reviews": 391
         },
         "31190": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft, Black",
@@ -16783,7 +16783,7 @@
             "product_id": 31203,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 245
+            "num_reviews": 258
         },
         "31204": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Black",
@@ -17350,7 +17350,7 @@
             "product_id": 33216,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "33218": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 10G, 30AWG, 30ft, White, 5-Pack",
@@ -17377,7 +17377,7 @@
             "product_id": 33226,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "33228": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, 550Mhz, UTP, Pure Bare Copper Wire, 10G, 30AWG?, 50ft, White, 5-Pack",
@@ -17395,7 +17395,7 @@
             "product_id": 33236,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "33237": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 10G, 30AWG, 20ft, Black, 10-Pack",
@@ -17494,7 +17494,7 @@
             "product_id": 33268,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "33269": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 10G, 30AWG, 25ft, White, 10-Pack",
@@ -17602,7 +17602,7 @@
             "product_id": 33394,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 53
+            "num_reviews": 54
         },
         "3340": {
             "name": "Monoprice 35ft Super VGA HD15 M/M CL2 Rated Cable with Stereo Audio and Triple Shielding (Gold Plated)",
@@ -17744,7 +17744,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=33535",
             "product_id": 33535,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 169
         },
@@ -17771,7 +17771,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=33545",
             "product_id": 33545,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 1
         },
@@ -17952,15 +17952,6 @@
             "url": "https://www.monoprice.com/product?p_id=33616",
             "product_id": 33616,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 59
-        },
-        "33618": {
-            "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 18AWG, 10A/1250W, 3-Prong, SJT, Red, 6ft",
-            "price": 2.29,
-            "url": "https://www.monoprice.com/product?p_id=33618",
-            "product_id": 33618,
-            "available": false,
             "rating": 4.9,
             "num_reviews": 59
         },
@@ -18933,8 +18924,8 @@
             "url": "https://www.monoprice.com/product?p_id=34082",
             "product_id": 34082,
             "available": true,
-            "rating": 4,
-            "num_reviews": 32
+            "rating": 3.9,
+            "num_reviews": 33
         },
         "34104": {
             "name": "Monoprice 2x1 DisplayPort Switch 4K@60Hz 21.6Gbps (Open Box)",
@@ -19310,7 +19301,7 @@
             "price": 33.29,
             "url": "https://www.monoprice.com/product?p_id=34212",
             "product_id": 34212,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 1703
         },
@@ -20511,15 +20502,6 @@
             "rating": 4.9,
             "num_reviews": 69
         },
-        "34773": {
-            "name": "FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 10m, Blue, 5 pack",
-            "price": 18.99,
-            "url": "https://www.monoprice.com/product?p_id=34773",
-            "product_id": 34773,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 1454
-        },
         "34774": {
             "name": "FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 10m, Black, 5 pack",
             "price": 34.29,
@@ -20545,7 +20527,7 @@
             "product_id": 34778,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1454
+            "num_reviews": 1455
         },
         "34779": {
             "name": "FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 15m, White, 5 pack",
@@ -20806,7 +20788,7 @@
             "product_id": 34833,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1703
+            "num_reviews": 1705
         },
         "34834": {
             "name": "Monoprice 4K Certified Premium High Speed HDMI Cable 3m - 18Gbps Black - 2 Pack",
@@ -20824,7 +20806,7 @@
             "product_id": 34835,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1703
+            "num_reviews": 1705
         },
         "34836": {
             "name": "Monoprice 4K Certified Premium High Speed HDMI Cable 7.5m - 18Gbps Black - 2 Pack",
@@ -21579,8 +21561,8 @@
             "url": "https://www.monoprice.com/product?p_id=35510",
             "product_id": 35510,
             "available": false,
-            "rating": 4.1,
-            "num_reviews": 34
+            "rating": 4.2,
+            "num_reviews": 35
         },
         "35519": {
             "name": "Monoprice All-in-One Portable Business Meeting Wide Angle USB Video Conference Camera Webcam, Mic, and Speaker, 1080p",
@@ -21616,7 +21598,7 @@
             "product_id": 35534,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3395
+            "num_reviews": 3396
         },
         "35535": {
             "name": "Monoprice Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 7ft, Pink",
@@ -21625,7 +21607,7 @@
             "product_id": 35535,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3395
+            "num_reviews": 3396
         },
         "35557": {
             "name": "STITCH by Monoprice Smart In-Wall On/Off Light Switch, Works with Alexa and Google Home for Touchless Voice Control, No Hub Required",
@@ -23569,7 +23551,7 @@
             "product_id": 38304,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 390
+            "num_reviews": 391
         },
         "38305": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Blue",
@@ -23623,7 +23605,7 @@
             "product_id": 38312,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 390
+            "num_reviews": 391
         },
         "38313": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft, White",
@@ -23659,7 +23641,7 @@
             "product_id": 38316,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 245
+            "num_reviews": 258
         },
         "38317": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Blue",
@@ -23695,7 +23677,7 @@
             "product_id": 38321,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 245
+            "num_reviews": 258
         },
         "38322": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Purple",
@@ -23938,7 +23920,7 @@
             "product_id": 38390,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 36
+            "num_reviews": 37
         },
         "38391": {
             "name": "Monoprice Nylon Braided USB-C To Lightning Cable - 6 Feet - Black ( MFI Certified ) Flexible, Durable, Fast Charging, Compatible with Apple iPhone 13 / Pro / Pro Max / AirPods Pro - AtlasFlex Series",
@@ -23956,7 +23938,7 @@
             "product_id": 38393,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 36
+            "num_reviews": 37
         },
         "38394": {
             "name": "Monoprice Nylon Braided USB C To Lightning Cable - 6 Feet - Red ( MFI Certified ) Flexible, Durable, Fast Charging, Compatible with Apple iPhone 13 / Pro / Pro Max / AirPods Pro - AtlasFlex Series",
@@ -24011,15 +23993,6 @@
             "available": true,
             "rating": 4.9,
             "num_reviews": 1846
-        },
-        "38449": {
-            "name": "Monoprice Single-Mode Fiber Optic Cable - LC/LC, 9/125 Type, Duplex, Yellow, 1m",
-            "price": 2.89,
-            "url": "https://www.monoprice.com/product?p_id=38449",
-            "product_id": 38449,
-            "available": true,
-            "rating": 5,
-            "num_reviews": 1
         },
         "3845": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 2-Conductor Speaker Wire, 500ft, White",
@@ -24233,7 +24206,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=38598",
             "product_id": 38598,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 14
         },
@@ -24890,7 +24863,7 @@
             "price": 9.4,
             "url": "https://www.monoprice.com/product?p_id=38834",
             "product_id": 38834,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 69
         },
@@ -25286,7 +25259,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=38906",
             "product_id": 38906,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 74
         },
@@ -25324,7 +25297,7 @@
             "product_id": 38910,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 74
+            "num_reviews": 75
         },
         "38911": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-A Charge and Sync Nylon-Braid Cable, 1.5ft, Blue",
@@ -25604,15 +25577,6 @@
             "available": true,
             "rating": 4.6,
             "num_reviews": 49
-        },
-        "39075": {
-            "name": "Monoprice Entegrade 1000FT Cat8 2GHz S/FTP Solid, 22AWG, Bulk Bare Copper Network Cable, 40G, Blue",
-            "price": 599.99,
-            "url": "https://www.monoprice.com/product?p_id=39075",
-            "product_id": 39075,
-            "available": false,
-            "rating": 4.3,
-            "num_reviews": 7
         },
         "39076": {
             "name": "Monoprice Entegrade 1000FT Cat7 1000MHz S/FTP Solid, 23AWG, Bulk Bare Copper Network Cable, 10G, Black",
@@ -26438,7 +26402,7 @@
             "price": 44.29,
             "url": "https://www.monoprice.com/product?p_id=39482",
             "product_id": 39482,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 264
         },
@@ -26447,7 +26411,7 @@
             "price": 20.65,
             "url": "https://www.monoprice.com/product?p_id=39483",
             "product_id": 39483,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 264
         },
@@ -27646,7 +27610,7 @@
             "product_id": 39840,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 160
+            "num_reviews": 161
         },
         "39841": {
             "name": "Monoprice Obsidian Plus Pocket USB Power Bank, Orange, 5,000mAh, 2-Port Up to 2.1A Output for iPhone, Android, and Galaxy Devices",
@@ -27673,7 +27637,7 @@
             "product_id": 39843,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 160
+            "num_reviews": 161
         },
         "39844": {
             "name": "Monoprice Obsidian Plus Pocket USB Power Bank, Purple, 5,000mAh, 2-Port Up to 2.1A Output for iPhone, Android, and Galaxy Devices",
@@ -27788,7 +27752,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=39912",
             "product_id": 39912,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 2581
         },
@@ -27833,7 +27797,7 @@
             "price": 3.39,
             "url": "https://www.monoprice.com/product?p_id=39917",
             "product_id": 39917,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1008
         },
@@ -45813,6 +45777,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-04T18:21:12Z"
+        "timestamp": "2023-04-04T19:17:33Z"
     }
 }
