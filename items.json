@@ -15037,7 +15037,7 @@
             "product_id": 29429,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "2943": {
             "name": "Monoprice 1 PAIR OF High-Quality Gold Plated Speaker Banana Plugs, Open Screw Type",
@@ -15118,7 +15118,7 @@
             "product_id": 29440,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "29441": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 2ft, Green, 10-Pack",
@@ -45750,6 +45750,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-05T06:23:32Z"
+        "timestamp": "2023-04-05T07:18:19Z"
     }
 }
