@@ -13073,7 +13073,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=31187",
             "product_id": 31187,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 389
         },
@@ -13606,7 +13606,7 @@
             "product_id": 33044,
             "available": true,
             "rating": 3.5,
-            "num_reviews": 50
+            "num_reviews": 51
         },
         "33048": {
             "name": "STITCH by Monoprice Wireless Smart Door/Window Sensor; Works with Amazon Alexa and Google Assistant for Touchless Voice Control, No Hub Required",
@@ -15287,7 +15287,7 @@
             "price": 27.99,
             "url": "https://www.monoprice.com/product?p_id=33906",
             "product_id": 33906,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -19058,7 +19058,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=36645",
             "product_id": 36645,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 4
         },
@@ -20131,7 +20131,7 @@
             "product_id": 38322,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 245
+            "num_reviews": 258
         },
         "38323": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Purple",
@@ -21659,7 +21659,7 @@
             "price": 11.49,
             "url": "https://www.monoprice.com/product?p_id=38902",
             "product_id": 38902,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 74
         },
@@ -21697,7 +21697,7 @@
             "product_id": 38906,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 74
+            "num_reviews": 75
         },
         "38907": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-A Charge and Sync Nylon-Braid Cable, 1.5ft, Red",
@@ -21965,7 +21965,7 @@
             "price": 161.99,
             "url": "https://www.monoprice.com/product?p_id=39032",
             "product_id": 39032,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 1
         },
@@ -23090,7 +23090,7 @@
             "price": 44.99,
             "url": "https://www.monoprice.com/product?p_id=39525",
             "product_id": 39525,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 310
         },
@@ -42195,6 +42195,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-05T13:50:48Z"
+        "timestamp": "2023-04-05T14:20:16Z"
     }
 }
