@@ -10850,7 +10850,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=21678",
             "product_id": 21678,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 158
         },
@@ -12038,7 +12038,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=24192",
             "product_id": 24192,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 8
         },
@@ -12074,7 +12074,7 @@
             "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=24196",
             "product_id": 24196,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 352
         },
@@ -12182,7 +12182,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=24267",
             "product_id": 24267,
-            "available": true,
+            "available": false,
             "rating": 4,
             "num_reviews": 3
         },
@@ -12470,7 +12470,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=24345",
             "product_id": 24345,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 494
         },
@@ -12596,7 +12596,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=24362",
             "product_id": 24362,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 494
         },
@@ -12605,7 +12605,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=24363",
             "product_id": 24363,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 494
         },
@@ -13100,7 +13100,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=24465",
             "product_id": 24465,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 310
         },
@@ -13840,7 +13840,7 @@
             "product_id": 27324,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 81
+            "num_reviews": 80
         },
         "27329": {
             "name": "HDFury GoBlue BT Dongle",
@@ -14000,7 +14000,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=27467",
             "product_id": 27467,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 67
         },
@@ -15010,7 +15010,7 @@
             "product_id": 29425,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "29426": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 2ft, Black, 5-Pack",
@@ -15067,7 +15067,7 @@
             "num_reviews": 26
         },
         "29436": {
-            "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 2ft, Blue, 10-Pack",
+            "name": "Monoprice Cat6A 2ft Blue 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=29436",
             "product_id": 29436,
@@ -15089,7 +15089,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=29438",
             "product_id": 29438,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 517
         },
@@ -15163,7 +15163,7 @@
             "product_id": 29445,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "29446": {
             "name": "Monoprice Cat6A 6in Black 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -15172,7 +15172,7 @@
             "product_id": 29446,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "29447": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 6in, White, 5-Pack",
@@ -15211,7 +15211,7 @@
             "num_reviews": 517
         },
         "29456": {
-            "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 6in, White, 10-Pack",
+            "name": "Monoprice Cat6A 6in White 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=29456",
             "product_id": 29456,
@@ -15226,7 +15226,7 @@
             "product_id": 29457,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "29461": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 6in, Red, 10-Pack",
@@ -15298,7 +15298,7 @@
             "product_id": 29474,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "29475": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 2ft, Multicolor, 10-Pack",
@@ -45759,6 +45759,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-04T23:18:34Z"
+        "timestamp": "2023-04-05T01:08:36Z"
     }
 }
