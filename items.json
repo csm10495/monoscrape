@@ -16596,15 +16596,6 @@
             "rating": 4.9,
             "num_reviews": 69
         },
-        "31151": {
-            "name": "Monoprice Entegrade Series Cat8 24AWG S/FTP Ethernet Network Cable, 2GHz, 40G, 30ft Black",
-            "price": 25.99,
-            "url": "https://www.monoprice.com/product?p_id=31151",
-            "product_id": 31151,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 69
-        },
         "31179": {
             "name": "Monoprice Select Series DisplayPort 1.4 Cable, 1.5ft Black",
             "price": 4.99,
@@ -16675,7 +16666,7 @@
             "product_id": 31191,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 389
+            "num_reviews": 391
         },
         "31192": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Black",
@@ -17452,7 +17443,7 @@
             "num_reviews": 567
         },
         "33256": {
-            "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 10G, 30AWG, 30ft, Blue, 10-Pack",
+            "name": "Monoprice Cat6A 30ft Blue 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
             "price": 60.99,
             "url": "https://www.monoprice.com/product?p_id=33256",
             "product_id": 33256,
@@ -17530,7 +17521,7 @@
             "product_id": 33274,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "33275": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, UTP, Pure Bare Copper Wire, 30AWG, 25ft, 10-Color, 10-Pack",
@@ -17900,6 +17891,15 @@
             "available": true,
             "rating": 4.9,
             "num_reviews": 13602
+        },
+        "33603": {
+            "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A/1250W, 125V, 3-Prong, Green, 6ft",
+            "price": 2.99,
+            "url": "https://www.monoprice.com/product?p_id=33603",
+            "product_id": 33603,
+            "available": false,
+            "rating": 4.9,
+            "num_reviews": 352
         },
         "33604": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A/1250W, 125V, 3-Prong, Blue, 6ft",
@@ -18547,7 +18547,7 @@
             "product_id": 33832,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 29
+            "num_reviews": 30
         },
         "33833": {
             "name": "Monoprice Premium Immersive Satellite Speakers, Pair",
@@ -18682,7 +18682,7 @@
             "product_id": 33870,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 203
+            "num_reviews": 207
         },
         "33871": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Gray",
@@ -18842,7 +18842,7 @@
             "price": 11.48,
             "url": "https://www.monoprice.com/product?p_id=33903",
             "product_id": 33903,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -19022,7 +19022,7 @@
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=34179",
             "product_id": 34179,
-            "available": false,
+            "available": true,
             "rating": 3.8,
             "num_reviews": 12
         },
@@ -19211,7 +19211,7 @@
             "price": 44.29,
             "url": "https://www.monoprice.com/product?p_id=34203",
             "product_id": 34203,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 501
         },
@@ -19301,7 +19301,7 @@
             "price": 33.29,
             "url": "https://www.monoprice.com/product?p_id=34212",
             "product_id": 34212,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 1705
         },
@@ -19432,7 +19432,7 @@
             "num_reviews": 3395
         },
         "34240": {
-            "name": "Monoprice Micro SlimRun Cat6 Ethernet Patch Cable - Stranded, 550MHz, UTP, Pure Bare Copper Wire, 32AWG, 3ft, White",
+            "name": "Monoprice Cat6 3ft White Patch Cable, UTP, 32AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Micro SlimRun Series Ethernet Cable",
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=34240",
             "product_id": 34240,
@@ -20444,7 +20444,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=34668",
             "product_id": 34668,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 10
         },
@@ -21078,15 +21078,6 @@
             "rating": 5,
             "num_reviews": 121
         },
-        "35056": {
-            "name": "Monoprice Heavy Duty Extension Cord - IEC 60320 C14 to IEC 60320 C13, 14AWG, 15A/1875W, SJT, 100-250V, Black, 1.5ft",
-            "price": 2.99,
-            "url": "https://www.monoprice.com/product?p_id=35056",
-            "product_id": 35056,
-            "available": true,
-            "rating": 5,
-            "num_reviews": 8
-        },
         "35057": {
             "name": "Monoprice Heavy Duty Extension Cord - IEC 60320 C14 to IEC 60320 C13, 14AWG, 15A/1875W, SJT, 100-250V, Black, 2ft",
             "price": 2.39,
@@ -21188,7 +21179,7 @@
         },
         "35100": {
             "name": "Monoprice Heavy Duty 6 Outlet Metal Surge Protector Power Box, 540 Joules, with 6ft Cord, Black",
-            "price": 27.99,
+            "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=35100",
             "product_id": 35100,
             "available": false,
@@ -21236,7 +21227,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=35113",
             "product_id": 35113,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 7
         },
@@ -22919,7 +22910,7 @@
             "price": 399.99,
             "url": "https://www.monoprice.com/product?p_id=38035",
             "product_id": 38035,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 217
         },
@@ -23596,7 +23587,7 @@
             "product_id": 38309,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 389
+            "num_reviews": 391
         },
         "38310": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft, Purple",
@@ -24081,8 +24072,8 @@
             "url": "https://www.monoprice.com/product?p_id=38541",
             "product_id": 38541,
             "available": false,
-            "rating": 4,
-            "num_reviews": 14
+            "rating": 4.1,
+            "num_reviews": 15
         },
         "38543": {
             "name": "Monolith by Monoprice M-215 Dual 15in THX Certified Ultra 2000-Watt Powered Subwoofer",
@@ -24971,7 +24962,7 @@
             "price": 2.38,
             "url": "https://www.monoprice.com/product?p_id=38851",
             "product_id": 38851,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 56
         },
@@ -25223,7 +25214,7 @@
             "price": 11.49,
             "url": "https://www.monoprice.com/product?p_id=38902",
             "product_id": 38902,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 74
         },
@@ -25333,7 +25324,7 @@
             "product_id": 38914,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 74
+            "num_reviews": 75
         },
         "38915": {
             "name": "Monoprice Select Charge \u0026 Sync Type-C to Type-C Cable, USB 2.0, TPE Jacket, Up to 3A/60W, 1.5ft, Black\\",
@@ -25377,8 +25368,8 @@
             "url": "https://www.monoprice.com/product?p_id=38920",
             "product_id": 38920,
             "available": true,
-            "rating": 4.6,
-            "num_reviews": 20
+            "rating": 4.7,
+            "num_reviews": 21
         },
         "38921": {
             "name": "Monoprice Select Charge \u0026 Sync Type-C to Type-C Cable, USB 2.0, TPE Jacket, Up to 5A/100W, 6ft, Black",
@@ -25386,8 +25377,8 @@
             "url": "https://www.monoprice.com/product?p_id=38921",
             "product_id": 38921,
             "available": true,
-            "rating": 4.6,
-            "num_reviews": 20
+            "rating": 4.7,
+            "num_reviews": 21
         },
         "38922": {
             "name": "Monoprice Select Charge \u0026 Sync Type-C to Type-C Cable, USB 2.0, TPE Jacket, Up to 5A/100W, 10ft, Black",
@@ -25577,6 +25568,15 @@
             "available": true,
             "rating": 4.6,
             "num_reviews": 49
+        },
+        "39075": {
+            "name": "Monoprice Entegrade 1000FT Cat8 2GHz S/FTP Solid, 22AWG, Bulk Bare Copper Network Cable, 40G, Blue",
+            "price": 599.99,
+            "url": "https://www.monoprice.com/product?p_id=39075",
+            "product_id": 39075,
+            "available": true,
+            "rating": 4.3,
+            "num_reviews": 7
         },
         "39076": {
             "name": "Monoprice Entegrade 1000FT Cat7 1000MHz S/FTP Solid, 23AWG, Bulk Bare Copper Network Cable, 10G, Black",
@@ -25873,7 +25873,7 @@
             "product_id": 39168,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 19
+            "num_reviews": 20
         },
         "39169": {
             "name": "Monolith by Monoprice 28in Speaker Stands, Cherry (Each)",
@@ -25934,7 +25934,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=39230",
             "product_id": 39230,
-            "available": false,
+            "available": true,
             "rating": 3.6,
             "num_reviews": 244
         },
@@ -26242,7 +26242,7 @@
             "product_id": 39414,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 21
+            "num_reviews": 22
         },
         "39415": {
             "name": "Monolith by Monoprice M350 In-Ear Planar Headphones",
@@ -26510,7 +26510,7 @@
             "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=39499",
             "product_id": 39499,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 6
         },
@@ -45768,6 +45768,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-05T19:19:21Z"
+        "timestamp": "2023-04-05T20:24:47Z"
     }
 }
