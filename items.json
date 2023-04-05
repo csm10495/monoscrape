@@ -5830,7 +5830,7 @@
             "product_id": 142,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3038
+            "num_reviews": 3039
         },
         "14259": {
             "name": "Monoprice Cat5 10ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
@@ -17971,7 +17971,7 @@
             "product_id": 3364,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 3038
+            "num_reviews": 3039
         },
         "33641": {
             "name": "Monoprice Heavy Duty Extension Cord - IEC 60320 C20 to IEC 60320 C19, 12AWG, 20A/2500W, SJT, 250V, Blue, 10ft",
@@ -38490,8 +38490,8 @@
             "url": "https://www.monoprice.com/product?p_id=5359",
             "product_id": 5359,
             "available": true,
-            "rating": 4.8,
-            "num_reviews": 947
+            "rating": 4.9,
+            "num_reviews": 948
         },
         "5360": {
             "name": "Monoprice 1.5ft RG6 (18AWG) 75Ohm, Quad Shield, CL2 Coaxial Cable with F Type Connector - White",
@@ -44096,7 +44096,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=8799",
             "product_id": 8799,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 11
         },
@@ -45007,7 +45007,7 @@
             "product_id": 9793,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1453
+            "num_reviews": 1455
         },
         "9794": {
             "name": "Monoprice Cat6 100ft Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -45025,7 +45025,7 @@
             "product_id": 9795,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1453
+            "num_reviews": 1455
         },
         "9796": {
             "name": "Monoprice FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 3ft, Gray",
@@ -45750,6 +45750,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-05T10:21:36Z"
+        "timestamp": "2023-04-05T11:18:24Z"
     }
 }
