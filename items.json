@@ -590,7 +590,7 @@
             "price": 9.27,
             "url": "https://www.monoprice.com/product?p_id=11043",
             "product_id": 11043,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 569
         },
@@ -736,14 +736,14 @@
             "product_id": 11219,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1455
+            "num_reviews": 1453
         },
         "11220": {
             "name": "Monoprice Cat6A 0.5ft Blue Patch Cable,  Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Molded RJ45, Entegrade Series Ethernet Cable",
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=11220",
             "product_id": 11220,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 64
         },
@@ -979,7 +979,7 @@
             "product_id": 11257,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1455
+            "num_reviews": 1453
         },
         "11258": {
             "name": "Monoprice FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 14ft, Yellow",
@@ -1087,7 +1087,7 @@
             "product_id": 11275,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1455
+            "num_reviews": 1453
         },
         "11276": {
             "name": "Monoprice Cat6A 1ft Blue Patch Cable,  Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Molded RJ45, Entegrade Series Ethernet Cable",
@@ -1105,7 +1105,7 @@
             "product_id": 11277,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1453
+            "num_reviews": 1455
         },
         "11278": {
             "name": "Monoprice Cat6 20ft Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -1231,7 +1231,7 @@
             "product_id": 11294,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1455
+            "num_reviews": 1453
         },
         "11295": {
             "name": "Monoprice FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 25ft, Gray",
@@ -2489,7 +2489,7 @@
             "price": 7.35,
             "url": "https://www.monoprice.com/product?p_id=12300",
             "product_id": 12300,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 569
         },
@@ -4624,7 +4624,7 @@
             "product_id": 13578,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 250
+            "num_reviews": 249
         },
         "13580": {
             "name": "Monoprice 4K Slim High Speed HDMI Cable 3ft - 18Gbps Black",
@@ -5937,8 +5937,8 @@
             "url": "https://www.monoprice.com/product?p_id=14291",
             "product_id": 14291,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 4.8,
+            "num_reviews": 165
         },
         "143": {
             "name": "Monoprice Cat5e 50ft Blue Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -6775,7 +6775,7 @@
             "product_id": 15131,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "15132": {
             "name": "Monoprice Cat6A 3ft White 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -6820,7 +6820,7 @@
             "product_id": 15137,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 517
+            "num_reviews": 515
         },
         "15138": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 7ft, Blue, 5-Pack",
@@ -6883,7 +6883,7 @@
             "product_id": 15146,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 517
+            "num_reviews": 515
         },
         "15149": {
             "name": "Monoprice Cat6A 1ft Black 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -6964,7 +6964,7 @@
             "product_id": 15157,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 517
+            "num_reviews": 515
         },
         "15158": {
             "name": "Monoprice Cat6A 5ft Blue 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -6982,7 +6982,7 @@
             "product_id": 15159,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "15160": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 5ft, White, 10-Pack",
@@ -7009,7 +7009,7 @@
             "product_id": 15162,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "15163": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 7ft, Gray, 10-Pack",
@@ -7036,7 +7036,7 @@
             "product_id": 15165,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "15166": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 10ft, Blue, 10-Pack",
@@ -7378,7 +7378,7 @@
             "product_id": 15427,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1705
+            "num_reviews": 1704
         },
         "15428": {
             "name": "Monoprice 4K Certified Premium High Speed HDMI Cable 6ft - 18Gbps Black",
@@ -7396,7 +7396,7 @@
             "product_id": 15429,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1703
+            "num_reviews": 1705
         },
         "15430": {
             "name": "Monoprice 4K Certified Premium High Speed HDMI Cable 15ft - 18Gbps Black",
@@ -7963,7 +7963,7 @@
             "product_id": 15827,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 203
+            "num_reviews": 207
         },
         "15830": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 0.5kg/spool, Blue",
@@ -8521,7 +8521,7 @@
             "product_id": 16085,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1847
         },
         "16086": {
             "name": "Monoprice Access Series 12AWG CL2 Rated 2-Conductor Speaker Wire, 1000ft, White",
@@ -8980,7 +8980,7 @@
             "product_id": 16296,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "16298": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 7ft, Red, 5-Pack",
@@ -9025,7 +9025,7 @@
             "product_id": 16315,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 517
+            "num_reviews": 515
         },
         "16316": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 1ft, Orange, 10-Pack",
@@ -9214,7 +9214,7 @@
             "product_id": 16336,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 517
+            "num_reviews": 515
         },
         "16337": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 14ft, Yellow, 10-Pack",
@@ -45750,6 +45750,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-05T05:17:39Z"
+        "timestamp": "2023-04-05T06:23:32Z"
     }
 }
