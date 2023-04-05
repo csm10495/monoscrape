@@ -29129,7 +29129,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=40538",
             "product_id": 40538,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 230
         },
@@ -29337,8 +29337,8 @@
             "url": "https://www.monoprice.com/product?p_id=40778",
             "product_id": 40778,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 14
+            "rating": 4.8,
+            "num_reviews": 15
         },
         "40782": {
             "name": "DisplayPort 1.4 EasyPlug Nylon Braided Cable, 3ft, Gray",
@@ -30898,7 +30898,7 @@
             "num_reviews": 0
         },
         "41639": {
-            "name": "Monoprice Cat5 100ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "name": "Monoprice Cat5e 100ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
             "price": 23.99,
             "url": "https://www.monoprice.com/product?p_id=41639",
             "product_id": 41639,
@@ -31112,15 +31112,6 @@
             "available": false,
             "rating": 5,
             "num_reviews": 1
-        },
-        "41704": {
-            "name": "Monoprice OM4 Fiber Optic Cable - LC/SC, UL, 50/125 Type, Multi-Mode, 10GB, OFNR, Aqua, 1m, Corning",
-            "price": 4.49,
-            "url": "https://www.monoprice.com/product?p_id=41704",
-            "product_id": 41704,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
         },
         "41705": {
             "name": "Monoprice OM4 Fiber Optic Cable - LC/SC, UL, 50/125 Type, Multi-Mode, 10GB, OFNR, Aqua, 2m, Corning",
@@ -31426,7 +31417,7 @@
             "product_id": 41821,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1453
+            "num_reviews": 1455
         },
         "41822": {
             "name": "UVC Sterilizer with wireless charging Disinfection Tool for Sterilization",
@@ -33345,6 +33336,15 @@
             "rating": 4.6,
             "num_reviews": 7
         },
+        "42771": {
+            "name": "Dark Matter by Monoprice 27in Gaming Monitor - 16:9, 1920x1080p, FHD, 165Hz",
+            "price": 249.99,
+            "url": "https://www.monoprice.com/product?p_id=42771",
+            "product_id": 42771,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 6
+        },
         "42772": {
             "name": "Dark Matter by Monoprice 34in Curved Ultrawide Gaming Monitor - 21:9, 3440x1440p, UWQHD, 144Hz, 1500R, VA",
             "price": 499.99,
@@ -35069,7 +35069,7 @@
             "price": 14.39,
             "url": "https://www.monoprice.com/product?p_id=43244",
             "product_id": 43244,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 3
         },
@@ -35570,7 +35570,7 @@
         },
         "43430": {
             "name": "Folding Walker with Wheels Front Wheeled Walkers, 5 inch Wheels, Adjustable Height",
-            "price": 42.99,
+            "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=43430",
             "product_id": 43430,
             "available": true,
@@ -36061,7 +36061,7 @@
             "product_id": 43670,
             "available": false,
             "rating": 5,
-            "num_reviews": 2
+            "num_reviews": 3
         },
         "43671": {
             "name": "65W Universal USB-C Laptop Charger",
@@ -36357,8 +36357,8 @@
             "url": "https://www.monoprice.com/product?p_id=43960",
             "product_id": 43960,
             "available": true,
-            "rating": 4.5,
-            "num_reviews": 2
+            "rating": 4.7,
+            "num_reviews": 3
         },
         "43961": {
             "name": "Monoprice Blackbird 4K 4x4 HDMI Matrix, 4K@60Hz YCbCr 4:4:4, HDCP 2.2, 18Gbps, HDR10, Downscaler, EDID, RS-232",
@@ -36898,7 +36898,7 @@
             "product_id": 44415,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1453
+            "num_reviews": 1455
         },
         "44434": {
             "name": "Blackbird 8K60 2x1 HDMI Switch, HDMI 2.1, HDCP 2.3",
@@ -36995,7 +36995,7 @@
             "price": 299.99,
             "url": "https://www.monoprice.com/product?p_id=44489",
             "product_id": 44489,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -45768,6 +45768,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-05T20:24:47Z"
+        "timestamp": "2023-04-05T21:18:38Z"
     }
 }
