@@ -29111,7 +29111,7 @@
             "price": 1.5,
             "url": "https://www.monoprice.com/product?p_id=40537",
             "product_id": 40537,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 230
         },
@@ -29120,7 +29120,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=40538",
             "product_id": 40538,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 230
         },
@@ -29329,7 +29329,7 @@
             "product_id": 40778,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13
+            "num_reviews": 14
         },
         "40782": {
             "name": "DisplayPort 1.4 EasyPlug Nylon Braided Cable, 3ft, Gray",
@@ -29602,7 +29602,7 @@
             "num_reviews": 7
         },
         "41009": {
-            "name": "Monoprice Entegrade Series Cat8 26AWG S/FTP Ethernet Network Cable, 2GHz, 40G, 1ft, Black",
+            "name": "Monoprice Cat8 1ft Black Patch Cable, Double Shielded (S/FTP), 26AWG, 2GHz, 40G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=41009",
             "product_id": 41009,
@@ -29629,7 +29629,7 @@
             "num_reviews": 36
         },
         "41011": {
-            "name": "Monoprice Entegrade Series Cat8 26AWG S/FTP Ethernet Network Cable, 2GHz, 40G, 3ft, Black",
+            "name": "Monoprice Cat8 3ft Black Patch Cable, Double Shielded (S/FTP), 26AWG, 2GHz, 40G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=41011",
             "product_id": 41011,
@@ -29647,7 +29647,7 @@
             "num_reviews": 36
         },
         "41013": {
-            "name": "Monoprice Entegrade Series Cat8 26AWG S/FTP Ethernet Network Cable, 2GHz, 40G, 7ft, Black",
+            "name": "Monoprice Cat8 7ft Blue Patch Cable, Double Shielded (S/FTP), 26AWG, 2GHz, 40G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=41013",
             "product_id": 41013,
@@ -29656,7 +29656,7 @@
             "num_reviews": 36
         },
         "41014": {
-            "name": "Monoprice Entegrade Series Cat8 26AWG S/FTP Ethernet Network Cable, 2GHz, 40G, 10ft, Black",
+            "name": "Monoprice Cat8 10ft Black Patch Cable, Double Shielded (S/FTP), 26AWG, 2GHz, 40G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=41014",
             "product_id": 41014,
@@ -29665,7 +29665,7 @@
             "num_reviews": 36
         },
         "41015": {
-            "name": "Monoprice Entegrade Series Cat8 26AWG S/FTP Ethernet Network Cable, 2GHz, 40G, 14ft, Black",
+            "name": "Monoprice Cat8 14ft Black Patch Cable, Double Shielded (S/FTP), 26AWG, 2GHz, 40G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=41015",
             "product_id": 41015,
@@ -29674,7 +29674,7 @@
             "num_reviews": 36
         },
         "41018": {
-            "name": "Monoprice Entegrade Series Cat8 26AWG S/FTP Ethernet Network Cable, 2GHz, 40G, 30ft, Black",
+            "name": "Monoprice Cat8 30ft Black Patch Cable, Double Shielded (S/FTP), 26AWG, 2GHz, 40G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
             "price": 23.99,
             "url": "https://www.monoprice.com/product?p_id=41018",
             "product_id": 41018,
@@ -29683,7 +29683,7 @@
             "num_reviews": 36
         },
         "41019": {
-            "name": "Monoprice Entegrade Series Cat8 26AWG S/FTP Ethernet Network Cable, 2GHz, 40G, 50ft, Black",
+            "name": "Monoprice Cat8 50ft Black Patch Cable, Double Shielded (S/FTP), 26AWG, 2GHz, 40G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=41019",
             "product_id": 41019,
@@ -29719,7 +29719,7 @@
             "num_reviews": 36
         },
         "41023": {
-            "name": "Monoprice Entegrade Series Cat8 26AWG S/FTP Ethernet Network Cable, 2GHz, 40G, 3ft, Blue",
+            "name": "Monoprice Cat8 3ft Blue Patch Cable, Double Shielded (S/FTP), 26AWG, 2GHz, 40G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=41023",
             "product_id": 41023,
@@ -29737,7 +29737,7 @@
             "num_reviews": 36
         },
         "41025": {
-            "name": "Monoprice Entegrade Series Cat8 26AWG S/FTP Ethernet Network Cable, 2GHz, 40G, 7ft, Blue",
+            "name": "Monoprice Cat8 7ft Blue Patch Cable, Double Shielded (S/FTP), 26AWG, 2GHz, 40G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=41025",
             "product_id": 41025,
@@ -29755,7 +29755,7 @@
             "num_reviews": 36
         },
         "41029": {
-            "name": "Monoprice Entegrade Series Cat8 26AWG S/FTP Ethernet Network Cable, 2GHz, 40G, 25ft, Blue",
+            "name": "Monoprice Cat8 25ft Blue Patch Cable, Double Shielded (S/FTP), 26AWG, 2GHz, 40G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
             "price": 20.99,
             "url": "https://www.monoprice.com/product?p_id=41029",
             "product_id": 41029,
@@ -29885,7 +29885,7 @@
             "price": 0.99,
             "url": "https://www.monoprice.com/product?p_id=41079",
             "product_id": 41079,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 244
         },
@@ -30409,7 +30409,7 @@
             "product_id": 41377,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1847
         },
         "41378": {
             "name": "Monoprice Access Series 16AWG CL2 Rated 2-Conductor Speaker Wire, 50ft, Black",
@@ -30454,7 +30454,7 @@
             "product_id": 41382,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1847
+            "num_reviews": 1846
         },
         "41383": {
             "name": "Monoprice Access Series 16AWG CL2 Rated 2-Conductor Speaker Wire, 500ft, Black",
@@ -30562,7 +30562,7 @@
             "product_id": 41394,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1847
         },
         "41395": {
             "name": "Monoprice Access Series 18AWG CL2 Rated 4-Conductor Speaker Wire, 1000ft, Black",
@@ -30598,7 +30598,7 @@
             "product_id": 41398,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1847
         },
         "41399": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 4-Conductor Speaker Wire, 1000ft, Black",
@@ -30616,7 +30616,7 @@
             "product_id": 41400,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1847
         },
         "41401": {
             "name": "Monoprice Access Series 18AWG CL2 Rated 2-Conductor Speaker Wire, 500ft, Black",
@@ -30956,7 +30956,7 @@
             "price": 0.74,
             "url": "https://www.monoprice.com/product?p_id=41686",
             "product_id": 41686,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 59
         },
@@ -31352,9 +31352,9 @@
             "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=41814",
             "product_id": 41814,
-            "available": true,
+            "available": false,
             "rating": 4.9,
-            "num_reviews": 1455
+            "num_reviews": 1453
         },
         "41815": {
             "name": "Monoprice Cat6 2ft Blue 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -31363,7 +31363,7 @@
             "product_id": 41815,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1455
+            "num_reviews": 1453
         },
         "41816": {
             "name": "Monoprice Cat6 3ft Black 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -31417,7 +31417,7 @@
             "product_id": 41821,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1455
+            "num_reviews": 1453
         },
         "41822": {
             "name": "UVC Sterilizer with wireless charging Disinfection Tool for Sterilization",
@@ -33296,7 +33296,7 @@
             "price": 279.99,
             "url": "https://www.monoprice.com/product?p_id=42763",
             "product_id": 42763,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 35
         },
@@ -33341,7 +33341,7 @@
             "price": 499.99,
             "url": "https://www.monoprice.com/product?p_id=42772",
             "product_id": 42772,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 29
         },
@@ -36645,8 +36645,8 @@
             "url": "https://www.monoprice.com/product?p_id=44316",
             "product_id": 44316,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 5,
+            "num_reviews": 1
         },
         "44317": {
             "name": "Monoprice 3-Outlet Flat Plug Household Extension Cord, 16AWG, 13A,  SPT-2, Black, 10ft",
@@ -45759,6 +45759,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-05T02:25:29Z"
+        "timestamp": "2023-04-05T03:19:47Z"
     }
 }
