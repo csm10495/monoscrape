@@ -26836,7 +26836,7 @@
             "product_id": 41375,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1847
         },
         "41376": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 2-Conductor Speaker Wire, 100ft, Black",
@@ -26971,7 +26971,7 @@
             "product_id": 41390,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1847
         },
         "41391": {
             "name": "Monoprice Access Series 18AWG CL2 Rated 2-Conductor Speaker Wire, 50ft, Black",
@@ -26980,7 +26980,7 @@
             "product_id": 41391,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1847
         },
         "41392": {
             "name": "Monoprice Access Series 18AWG CL2 Rated 2-Conductor Speaker Wire, 100ft, Black",
@@ -27052,7 +27052,7 @@
             "product_id": 41399,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1847
         },
         "41400": {
             "name": "Monoprice Access Series 12AWG CL2 Rated 2-Conductor Speaker Wire, 1000ft, Black",
@@ -27826,7 +27826,7 @@
             "product_id": 41817,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1453
+            "num_reviews": 1455
         },
         "41818": {
             "name": "Monoprice Cat6 5ft Black 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -28706,7 +28706,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=42161",
             "product_id": 42161,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -28715,7 +28715,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=42162",
             "product_id": 42162,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -28724,7 +28724,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=42163",
             "product_id": 42163,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -29219,7 +29219,7 @@
             "price": 17.99,
             "url": "https://www.monoprice.com/product?p_id=42532",
             "product_id": 42532,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 258
         },
@@ -29786,7 +29786,7 @@
             "price": 499.99,
             "url": "https://www.monoprice.com/product?p_id=42772",
             "product_id": 42772,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 29
         },
@@ -29885,7 +29885,7 @@
             "price": 38.99,
             "url": "https://www.monoprice.com/product?p_id=42834",
             "product_id": 42834,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 20
         },
@@ -31003,7 +31003,7 @@
             "product_id": 43163,
             "available": true,
             "rating": 5,
-            "num_reviews": 21
+            "num_reviews": 22
         },
         "43164": {
             "name": "Monolith by Monoprice Double-Wide XL 3-Tier AV Stand, Black",
@@ -31489,7 +31489,7 @@
             "product_id": 43242,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 20
+            "num_reviews": 21
         },
         "43243": {
             "name": "Monoprice Bluetooth 5 Long Range Transmitter and Receiver with aptX HD and aptX Low Latency, SBC, AAC, Toslink/Optical, 3.5mm Aux",
@@ -31838,7 +31838,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=43355",
             "product_id": 43355,
-            "available": true,
+            "available": false,
             "rating": 4,
             "num_reviews": 9
         },
@@ -32000,7 +32000,7 @@
             "price": 46.99,
             "url": "https://www.monoprice.com/product?p_id=43428",
             "product_id": 43428,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -32252,7 +32252,7 @@
             "price": 299.99,
             "url": "https://www.monoprice.com/product?p_id=43563",
             "product_id": 43563,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 10
         },
@@ -32513,7 +32513,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=43672",
             "product_id": 43672,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 2
         },
@@ -42195,6 +42195,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-05T14:20:16Z"
+        "timestamp": "2023-04-05T15:22:40Z"
     }
 }
