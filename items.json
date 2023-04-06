@@ -234,15 +234,6 @@
             "rating": 3.7,
             "num_reviews": 271
         },
-        "1042": {
-            "name": "Monoprice Cat6 RJ-45 Toolless Keystone - Beige",
-            "price": 1.49,
-            "url": "https://www.monoprice.com/product?p_id=1042",
-            "product_id": 1042,
-            "available": false,
-            "rating": 3.7,
-            "num_reviews": 271
-        },
         "1044": {
             "name": "Monoprice Cat6 RJ-45 Toolless Keystone - White",
             "price": 1.49,
@@ -3402,15 +3393,6 @@
             "rating": 4.7,
             "num_reviews": 20
         },
-        "1317": {
-            "name": "Monoprice Molex Internal DC Power Cable, 1x 5.25in Female to 1x 5.25in Female, 12in",
-            "price": 1.99,
-            "url": "https://www.monoprice.com/product?p_id=1317",
-            "product_id": 1317,
-            "available": false,
-            "rating": 4.3,
-            "num_reviews": 8
-        },
         "13173": {
             "name": "Monoprice Cat5e 25ft Yellow Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
             "price": 5.49,
@@ -6046,7 +6028,7 @@
             "product_id": 145,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3038
+            "num_reviews": 3039
         },
         "14503": {
             "name": "Monoprice Select Series USB-C 3-Port USB 3.0 Hub and Gigabit Ethernet Adapter",
@@ -8252,15 +8234,6 @@
             "available": true,
             "rating": 4,
             "num_reviews": 370
-        },
-        "1596": {
-            "name": "Monoprice 50ft DB25 M/F Molded Cable",
-            "price": 24.99,
-            "url": "https://www.monoprice.com/product?p_id=1596",
-            "product_id": 1596,
-            "available": false,
-            "rating": 4.8,
-            "num_reviews": 12
         },
         "15961": {
             "name": "Monoprice Tone Generator with Probe Kit",
@@ -11392,7 +11365,7 @@
             "product_id": 2289,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 3395
+            "num_reviews": 3396
         },
         "2290": {
             "name": "Monoprice Cat6 1ft Red Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -19159,7 +19132,7 @@
             "product_id": 3420,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 3395
+            "num_reviews": 3396
         },
         "34200": {
             "name": "Monoprice Alpha In-Wall Speakers 8in Carbon Fiber 3-Way (pair)",
@@ -19438,7 +19411,7 @@
             "product_id": 3425,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3395
+            "num_reviews": 3396
         },
         "34256": {
             "name": "Monoprice Micro SlimRun Cat6 Ethernet Patch Cable - Stranded, 550MHz, UTP, Pure Bare Copper Wire, 32AWG, 7ft, Blue",
@@ -19780,7 +19753,7 @@
             "product_id": 3441,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3395
+            "num_reviews": 3396
         },
         "34414": {
             "name": "8P8C RJ45 Plug with EZ Passthrough for Cat6 Ethernet Cable 100 pcs/pack",
@@ -28834,7 +28807,7 @@
             "product_id": 4040,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1847
         },
         "40401": {
             "name": "Monoprice 36in SATA 6Gbps Cable with Locking Latch (90 Degree to 180 Degree), Blue",
@@ -37089,15 +37062,6 @@
             "rating": 3.8,
             "num_reviews": 117
         },
-        "4640": {
-            "name": "Monoprice RS232 Serial Mouse or Monitor Splitter cable - (1)DB9 female to (2) DB9 male",
-            "price": 2.39,
-            "url": "https://www.monoprice.com/product?p_id=4640",
-            "product_id": 4640,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 7
-        },
         "4652": {
             "name": "Monoprice Recessed Pro Power Kit with Straight Blade Inlet, White",
             "price": 62.99,
@@ -38147,7 +38111,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=5283",
             "product_id": 5283,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 159
         },
@@ -38429,15 +38393,6 @@
             "available": true,
             "rating": 4.6,
             "num_reviews": 1296
-        },
-        "5352": {
-            "name": "Monoprice 1.5ft 22AWG 3-RCA Component Video Coaxial Cable (RG-59/U) - Black",
-            "price": 3.99,
-            "url": "https://www.monoprice.com/product?p_id=5352",
-            "product_id": 5352,
-            "available": false,
-            "rating": 4.6,
-            "num_reviews": 304
         },
         "5355": {
             "name": "Monoprice 1.5ft 22AWG 5-RCA Component Video/Audio Coaxial Cable (RG-59/U) - Black",
@@ -39023,15 +38978,6 @@
             "available": true,
             "rating": 4.9,
             "num_reviews": 69
-        },
-        "557": {
-            "name": "Monoprice 6ft Super VGA HD15 M/M Cable w/ Stereo Audio and Triple Shielding (Gold Plated)",
-            "price": 7.99,
-            "url": "https://www.monoprice.com/product?p_id=557",
-            "product_id": 557,
-            "available": false,
-            "rating": 4.8,
-            "num_reviews": 770
         },
         "5574": {
             "name": "Monoprice Metal 1/4in (6.35mm) TRS Female to 1/4in (6.35mm) TRS Female Coupler, Gold Plated",
@@ -40084,7 +40030,7 @@
             "product_id": 6270,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 2396
+            "num_reviews": 2397
         },
         "6271": {
             "name": "Monoprice Premium S/PDIF (Toslink) Digital Optical Audio Cable, 15ft",
@@ -40887,15 +40833,6 @@
             "rating": 5,
             "num_reviews": 24
         },
-        "6559": {
-            "name": "Monoprice Blank Insert for F-type Connector, 10 pcs/pack, White",
-            "price": 0.83,
-            "url": "https://www.monoprice.com/product?p_id=6559",
-            "product_id": 6559,
-            "available": false,
-            "rating": 4.7,
-            "num_reviews": 9
-        },
         "6561": {
             "name": "Monoprice Keystone Jack - USB 2.0 A Female to A Female Coupler Adapter, Flush Type (White)",
             "price": 2.99,
@@ -41000,7 +40937,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=665",
             "product_id": 665,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 421
         },
@@ -41841,15 +41778,6 @@
             "rating": 4.6,
             "num_reviews": 128
         },
-        "7250": {
-            "name": "Monoprice RJ45 Strain Relief Boots, 50 pcs/pack, Gray",
-            "price": 2.49,
-            "url": "https://www.monoprice.com/product?p_id=7250",
-            "product_id": 7250,
-            "available": false,
-            "rating": 4.6,
-            "num_reviews": 128
-        },
         "7253": {
             "name": "Monoprice 24-port Cat6 Patch Panel, 110 Type (568A/B Compatible) (UL)",
             "price": 15.38,
@@ -41985,15 +41913,6 @@
             "rating": 4.6,
             "num_reviews": 128
         },
-        "7278": {
-            "name": "Monoprice 6P6C RJ12 Straight Inline Coupler, Beige",
-            "price": 0.99,
-            "url": "https://www.monoprice.com/product?p_id=7278",
-            "product_id": 7278,
-            "available": false,
-            "rating": 4.6,
-            "num_reviews": 16
-        },
         "7280": {
             "name": "Monoprice 8P8C RJ45 Straight Inline Coupler, Beige",
             "price": 0.99,
@@ -42036,8 +41955,8 @@
             "url": "https://www.monoprice.com/product?p_id=7285",
             "product_id": 7285,
             "available": true,
-            "rating": 4.5,
-            "num_reviews": 25
+            "rating": 4.3,
+            "num_reviews": 80
         },
         "7286": {
             "name": "Monoprice 8P8C RJ45 Cat6 Inline Coupler, White",
@@ -42722,15 +42641,6 @@
             "available": true,
             "rating": 5,
             "num_reviews": 4
-        },
-        "7699": {
-            "name": "Monoprice 1080i Standard HDMI Cable 131ft - CL2 In Wall Rated 4.95Gbps Active Black (Commercial Series)",
-            "price": 139.99,
-            "url": "https://www.monoprice.com/product?p_id=7699",
-            "product_id": 7699,
-            "available": false,
-            "rating": 4.3,
-            "num_reviews": 89
         },
         "7703": {
             "name": "Monoprice HDMI Micro Connector Male to HDMI Connector Female Port Saver Adapter",
@@ -44055,15 +43965,6 @@
             "rating": 5,
             "num_reviews": 16
         },
-        "8796": {
-            "name": "Monoprice 8in 4pin MOLEX Male to 2x 15pin SATA II Female with 90 degree Power Cable",
-            "price": 1.29,
-            "url": "https://www.monoprice.com/product?p_id=8796",
-            "product_id": 8796,
-            "available": false,
-            "rating": 4.6,
-            "num_reviews": 14
-        },
         "8799": {
             "name": "Monoprice 8in SATA 15pin Female with Latch to Molex 4pin Male Power Adapter",
             "price": 1.99,
@@ -44279,15 +44180,6 @@
             "available": true,
             "rating": 4,
             "num_reviews": 729
-        },
-        "93": {
-            "name": "Monoprice 6ft PS/2 MDIN-6 Male to Female Extension Cable",
-            "price": 0.5,
-            "url": "https://www.monoprice.com/product?p_id=93",
-            "product_id": 93,
-            "available": false,
-            "rating": 4.8,
-            "num_reviews": 27
         },
         "930": {
             "name": "Monoprice Phone Cable, RJ11 (6P4C), Straight for Data - 14ft",
@@ -45295,7 +45187,7 @@
             "product_id": 9830,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1453
+            "num_reviews": 1455
         },
         "9831": {
             "name": "Monoprice Cat6 5ft Red Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -45714,6 +45606,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-06T05:17:14Z"
+        "timestamp": "2023-04-06T06:22:42Z"
     }
 }
