@@ -16322,7 +16322,7 @@
             "price": 5.19,
             "url": "https://www.monoprice.com/product?p_id=31019",
             "product_id": 31019,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 17
         },
@@ -16571,7 +16571,7 @@
         },
         "31187": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft, Red",
-            "price": 7.99,
+            "price": 5.59,
             "url": "https://www.monoprice.com/product?p_id=31187",
             "product_id": 31187,
             "available": false,
@@ -16792,7 +16792,7 @@
             "product_id": 31234,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 207
+            "num_reviews": 208
         },
         "31235": {
             "name": "Pure Outdoor by Monoprice Emperor 50 Rotomolded Portable Cooler 13.2 Gal, White",
@@ -17206,7 +17206,7 @@
             "product_id": 33188,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "33189": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 10G, 30AWG, 20ft, Black, 5-Pack",
@@ -17224,7 +17224,7 @@
             "product_id": 33191,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "33192": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 20ft, Red, 5-Pack",
@@ -17233,7 +17233,7 @@
             "product_id": 33192,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "33197": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 20ft, Multicolor, 5-Pack",
@@ -17242,7 +17242,7 @@
             "product_id": 33197,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "33198": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, 550Mhz, UTP, Pure Bare Copper Wire, 10G, 30AWG?, 25ft, Blue, 5-Pack",
@@ -17287,7 +17287,7 @@
             "product_id": 33216,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "33218": {
             "name": "Monoprice Cat6A 30ft White 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -17296,7 +17296,7 @@
             "product_id": 33218,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "33225": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 10G, 30AWG, 50ft, Blue, 5-Pack",
@@ -17305,7 +17305,7 @@
             "product_id": 33225,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "33226": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 10G, 30AWG, 50ft, Black, 5-Pack",
@@ -17341,7 +17341,7 @@
             "product_id": 33237,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "33239": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 10G, 30AWG, 20ft, White, 10-Pack",
@@ -17368,7 +17368,7 @@
             "product_id": 33246,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "33247": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 10G, 30AWG, 50ft, Black, 10-Pack",
@@ -17422,7 +17422,7 @@
             "product_id": 33267,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "33268": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 10G, 30AWG, 25ft, Gray, 10-Pack",
@@ -17440,7 +17440,7 @@
             "product_id": 33269,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "33270": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, 550MHz, UTP, Pure Bare Copper Wire, 10G, 30AWG, 25ft, Red, 10-Pack",
@@ -17449,7 +17449,7 @@
             "product_id": 33270,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "33271": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, 550MHz, UTP, Pure Bare Copper Wire, 10G, 30AWG, 25ft, Green, 10-Pack",
@@ -17483,7 +17483,7 @@
             "price": 89.99,
             "url": "https://www.monoprice.com/product?p_id=33304",
             "product_id": 33304,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 72
         },
@@ -17530,7 +17530,7 @@
             "product_id": 33393,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 51
+            "num_reviews": 54
         },
         "33394": {
             "name": "Monoprice Soundstage3 120 Watt TrueWireless Stereo (TWS) Bluetooth Speaker with Qualcomm aptX Audio, White",
@@ -17633,7 +17633,7 @@
         },
         "33465": {
             "name": "Monolith by Monoprice 14AWG Oxygen Free Copper Multi-Strand Conductors PE Insulated Speaker Wire with Gold Plated Banana Plug Connectors, 6ft - Pair",
-            "price": 49.99,
+            "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=33465",
             "product_id": 33465,
             "available": true,
@@ -17843,7 +17843,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=33603",
             "product_id": 33603,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 352
         },
@@ -18700,7 +18700,7 @@
             "product_id": 33882,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 205
+            "num_reviews": 208
         },
         "33883": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Brown",
@@ -18767,7 +18767,7 @@
         },
         "33899": {
             "name": "Monoprice MP Specialty 3D Printer Filament Steel Fill 1.75, 0.5kg/spool",
-            "price": 48.99,
+            "price": 29.39,
             "url": "https://www.monoprice.com/product?p_id=33899",
             "product_id": 33899,
             "available": true,
@@ -20354,7 +20354,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=34640",
             "product_id": 34640,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 271
         },
@@ -20372,7 +20372,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=34663",
             "product_id": 34663,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 10
         },
@@ -20477,7 +20477,7 @@
         },
         "34778": {
             "name": "FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 15m, Black, 5 pack",
-            "price": 29.99,
+            "price": 22.49,
             "url": "https://www.monoprice.com/product?p_id=34778",
             "product_id": 34778,
             "available": true,
@@ -20567,7 +20567,7 @@
         },
         "34801": {
             "name": "SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, S/STP, Pure Bare Copper Wire, 36AWG, 7m, Blue, 5 pack",
-            "price": 49.48,
+            "price": 37.1,
             "url": "https://www.monoprice.com/product?p_id=34801",
             "product_id": 34801,
             "available": true,
@@ -20621,7 +20621,7 @@
         },
         "34807": {
             "name": "SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, S/STP, Pure Bare Copper Wire, 36AWG, 10m, Gray, 5 pack",
-            "price": 62.99,
+            "price": 47.24,
             "url": "https://www.monoprice.com/product?p_id=34807",
             "product_id": 34807,
             "available": true,
@@ -21173,7 +21173,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=35113",
             "product_id": 35113,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 7
         },
@@ -21854,7 +21854,7 @@
         },
         "35944": {
             "name": "Monoprice Obsidian Speed USB Wall Charger, 1-Port, 85W PD Output for iPhone, Android, and Galaxy Devices, 6ft USB Type-C® Cable Included",
-            "price": 59.99,
+            "price": 16.79,
             "url": "https://www.monoprice.com/product?p_id=35944",
             "product_id": 35944,
             "available": true,
@@ -22012,7 +22012,7 @@
             "product_id": 36200,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "36201": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 5ft, Pink, 5-Pack",
@@ -22520,7 +22520,7 @@
         },
         "36641": {
             "name": "Workstream by Monoprice Height Adjustable Sit-Stand Dynamic Stool, Round",
-            "price": 99.99,
+            "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=36641",
             "product_id": 36641,
             "available": true,
@@ -22532,7 +22532,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=36642",
             "product_id": 36642,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 4
         },
@@ -22606,7 +22606,7 @@
             "product_id": 36652,
             "available": true,
             "rating": 3.4,
-            "num_reviews": 35
+            "num_reviews": 36
         },
         "36653": {
             "name": "Monoprice 4K 4-Port DisplayPort 1.2a and USB 2.0 KVM Switch",
@@ -22862,7 +22862,7 @@
         },
         "38037": {
             "name": "Monoprice SB-200SW Premium Slim Soundbar with Wireless Subwoofer HDMI ARC, Bluetooth, Optical, and Coax Inputs",
-            "price": 139.99,
+            "price": 104.99,
             "url": "https://www.monoprice.com/product?p_id=38037",
             "product_id": 38037,
             "available": true,
@@ -23126,9 +23126,9 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=38129",
             "product_id": 38129,
-            "available": false,
-            "rating": 3.9,
-            "num_reviews": 13
+            "available": true,
+            "rating": 3.8,
+            "num_reviews": 14
         },
         "38134": {
             "name": "Monoprice Qi Certified Dual Device Fast Wireless Charging Pad, 7.5W/10W Output, White",
@@ -23524,7 +23524,7 @@
             "product_id": 38308,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 389
+            "num_reviews": 391
         },
         "38309": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Pink",
@@ -24028,7 +24028,7 @@
             "product_id": 38543,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 15
+            "num_reviews": 17
         },
         "38544": {
             "name": "Monolith by Monoprice M-212 Dual 12in THX Certified Ultra 1000 Watt Powered Subwoofer",
@@ -24320,7 +24320,7 @@
         },
         "38628": {
             "name": "Monoprice 8K SlimRun AV Ultra High Speed HDMI Cable 40ft - AOC 48Gbps Black",
-            "price": 124.29,
+            "price": 99.43,
             "url": "https://www.monoprice.com/product?p_id=38628",
             "product_id": 38628,
             "available": true,
@@ -24761,7 +24761,7 @@
         },
         "38828": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 6ft, White, 3-Pack",
-            "price": 24.49,
+            "price": 14.69,
             "url": "https://www.monoprice.com/product?p_id=38828",
             "product_id": 38828,
             "available": true,
@@ -25412,7 +25412,7 @@
             "price": 74.99,
             "url": "https://www.monoprice.com/product?p_id=39019",
             "product_id": 39019,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 59
         },
@@ -25733,7 +25733,7 @@
         },
         "39159": {
             "name": "Pure Outdoor by Monoprice Emperor 20 Rotomolded Portable Cooler 5 Gal - Fits 15 Cans",
-            "price": 101.99,
+            "price": 79.98,
             "url": "https://www.monoprice.com/product?p_id=39159",
             "product_id": 39159,
             "available": true,
@@ -25765,7 +25765,7 @@
             "product_id": 39163,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 15
+            "num_reviews": 55
         },
         "39164": {
             "name": "Monolith by Monoprice Amplifier/Component Stand XL, Maple",
@@ -25774,7 +25774,7 @@
             "product_id": 39164,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 10
+            "num_reviews": 55
         },
         "39165": {
             "name": "Monolith by Monoprice 4 Tier Audio Stand XL, Black",
@@ -25976,7 +25976,7 @@
         },
         "39299": {
             "name": "Monoprice Clear Window or Wall Mount Paper Thin HDTV Antenna with In-line Active Amplifier",
-            "price": 23.69,
+            "price": 16.58,
             "url": "https://www.monoprice.com/product?p_id=39299",
             "product_id": 39299,
             "available": false,
@@ -26030,7 +26030,7 @@
         },
         "39357": {
             "name": "Monoprice HT-35 Premium 5.1-Channel Home Theater System with Powered Subwoofer, Charcoal",
-            "price": 229.99,
+            "price": 160.99,
             "url": "https://www.monoprice.com/product?p_id=39357",
             "product_id": 39357,
             "available": true,
@@ -26348,13 +26348,13 @@
             "price": 20.65,
             "url": "https://www.monoprice.com/product?p_id=39483",
             "product_id": 39483,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 264
         },
         "39488": {
             "name": "Monoprice Adjustable 22 lb. Capacity Speaker Wall Mount Brackets (Pair) Black",
-            "price": 23.69,
+            "price": 16.58,
             "url": "https://www.monoprice.com/product?p_id=39488",
             "product_id": 39488,
             "available": true,
@@ -27110,7 +27110,7 @@
         },
         "39649": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C Charge \u0026 Sync Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 6ft, Blue",
-            "price": 12.99,
+            "price": 10.39,
             "url": "https://www.monoprice.com/product?p_id=39649",
             "product_id": 39649,
             "available": true,
@@ -27529,7 +27529,7 @@
             "product_id": 39838,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 160
+            "num_reviews": 162
         },
         "39839": {
             "name": "Monoprice Obsidian Plus Pocket USB Power Bank, White, 5,000mAh, 2-Port Up to 2.1A Output for iPhone, Android, and Galaxy Devices",
@@ -45606,6 +45606,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-06T14:17:35Z"
+        "timestamp": "2023-04-06T15:17:34Z"
     }
 }
