@@ -11864,7 +11864,7 @@
         },
         "24171": {
             "name": "Monoprice Digital HD7 Outdoor HDTV Antenna, 65 Mile Range",
-            "price": 16.99,
+            "price": 11.89,
             "url": "https://www.monoprice.com/product?p_id=24171",
             "product_id": 24171,
             "available": true,
@@ -11936,7 +11936,7 @@
         },
         "24186": {
             "name": "Monoprice 4K Slim Certified Premium High Speed HDMI Cable 5ft - 18Gbps Black",
-            "price": 11.99,
+            "price": 9.59,
             "url": "https://www.monoprice.com/product?p_id=24186",
             "product_id": 24186,
             "available": true,
@@ -12911,7 +12911,7 @@
             "price": 23.99,
             "url": "https://www.monoprice.com/product?p_id=24441",
             "product_id": 24441,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 61
         },
@@ -12926,7 +12926,7 @@
         },
         "24443": {
             "name": "Monoprice USB 3.1 Type-C to DisplayPort Cable - 5Gbps, Active, 4K@60Hz, Black, 3ft",
-            "price": 17.99,
+            "price": 13.49,
             "url": "https://www.monoprice.com/product?p_id=24443",
             "product_id": 24443,
             "available": true,
@@ -13127,7 +13127,7 @@
             "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=24639",
             "product_id": 24639,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 41
         },
@@ -13232,7 +13232,7 @@
         },
         "24759": {
             "name": "Monoprice Entegrade Series Cat6 RJ-45 Field Connection Modular Plug, Unshielded for 23/24AWG Installation Cable, 10 pack",
-            "price": 24.49,
+            "price": 17.14,
             "url": "https://www.monoprice.com/product?p_id=24759",
             "product_id": 24759,
             "available": true,
@@ -13781,7 +13781,7 @@
         },
         "27324": {
             "name": "Strata Home by Monoprice Touchless Digital Infrared Surface Thermometer",
-            "price": 19.99,
+            "price": 13.99,
             "url": "https://www.monoprice.com/product?p_id=27324",
             "product_id": 27324,
             "available": false,
@@ -13817,7 +13817,7 @@
         },
         "27391": {
             "name": "Monoprice 4K SlimRun AV High Speed HDMI Cable 30ft - CMP Rated AOC 18Gbps Black",
-            "price": 79.29,
+            "price": 63.43,
             "url": "https://www.monoprice.com/product?p_id=27391",
             "product_id": 27391,
             "available": true,
@@ -13907,7 +13907,7 @@
         },
         "27436": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, S/STP, Pure Bare Copper Wire, 36AWG, 1ft, Green",
-            "price": 3.49,
+            "price": 2.61,
             "url": "https://www.monoprice.com/product?p_id=27436",
             "product_id": 27436,
             "available": true,
@@ -14974,7 +14974,7 @@
             "product_id": 29426,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "29427": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 2ft, White, 5-Pack",
@@ -14983,7 +14983,7 @@
             "product_id": 29427,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "29429": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 2ft, Red, 5-Pack",
@@ -15010,7 +15010,7 @@
             "product_id": 29431,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "29434": {
             "name": "Monoprice USB-C Dual-Monitor Docking Station for USB-C Laptops, MST, and Power Delivery up to 100W with USB-C Cable",
@@ -15028,7 +15028,7 @@
             "product_id": 29436,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "29437": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 2ft, Black, 10-Pack",
@@ -15055,7 +15055,7 @@
             "product_id": 29439,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "2944": {
             "name": "Monoprice Dual High-Quality Gold Plated Speaker Banana Plugs, Red",
@@ -15082,7 +15082,7 @@
             "product_id": 29441,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "29442": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 2ft, Orange, 10-Pack",
@@ -15109,7 +15109,7 @@
             "product_id": 29444,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "29445": {
             "name": "Monoprice Cat6A 6in Blue 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -15136,7 +15136,7 @@
             "product_id": 29447,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "2945": {
             "name": "Monoprice Dual High-Quality Gold Plated Speaker Banana Plugs, Black",
@@ -15154,7 +15154,7 @@
             "product_id": 29454,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "29455": {
             "name": "Monoprice Cat6A 6in Black 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -15172,7 +15172,7 @@
             "product_id": 29456,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "29457": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 6in, Gray, 10-Pack",
@@ -15190,7 +15190,7 @@
             "product_id": 29461,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "29462": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 6in, Green, 10-Pack",
@@ -15199,7 +15199,7 @@
             "product_id": 29462,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "29463": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 6in, Orange, 10-Pack",
@@ -15208,7 +15208,7 @@
             "product_id": 29463,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "29464": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 6in, Yellow, 10-Pack",
@@ -15217,7 +15217,7 @@
             "product_id": 29464,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "29465": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 6in, Purple, 10-Pack",
@@ -15262,7 +15262,7 @@
             "product_id": 29475,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "29476": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 1ft, Multicolor, 10-Pack",
@@ -15280,7 +15280,7 @@
             "product_id": 29477,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "29478": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 5ft, Multicolor, 10-Pack",
@@ -15289,7 +15289,7 @@
             "product_id": 29478,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "29479": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 7ft, Multicolor, 10-Pack",
@@ -15316,7 +15316,7 @@
             "product_id": 29480,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "29481": {
             "name": "Monoprice Cat6A 14ft 10-Color 10-Pk Patch Cable,  UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -15325,7 +15325,7 @@
             "product_id": 29481,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "29494": {
             "name": "Monoprice IP66 Rated Vandal Proof 2.8-12mm Vari-focal IR IP Dome Camera (3MP HD 1/3in CMOS 24 Smart IR LEDs up to 100ft DC12V/PoE Built-in MicroSD) (Open Box)",
@@ -15352,7 +15352,7 @@
             "product_id": 29513,
             "available": true,
             "rating": 4.2,
-            "num_reviews": 50
+            "num_reviews": 51
         },
         "29514": {
             "name": "Monolith by Monoprice M565C Over Ear Closed Back Planar Magnetic Headphones",
@@ -45606,6 +45606,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-06T13:22:08Z"
+        "timestamp": "2023-04-06T14:17:35Z"
     }
 }
