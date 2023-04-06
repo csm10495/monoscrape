@@ -10042,7 +10042,7 @@
             "product_id": 33228,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "33236": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 10G, 30AWG, 25ft, Blue, 10-Pack",
@@ -11428,7 +11428,7 @@
             "product_id": 33883,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 204
+            "num_reviews": 207
         },
         "33884": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Magenta",
@@ -11923,7 +11923,7 @@
             "product_id": 34208,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1703
+            "num_reviews": 1705
         },
         "34209": {
             "name": "Monoprice Cat6 6in Blue Patch Cable, UTP, 32AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Micro SlimRun Series Ethernet Cable",
@@ -14749,7 +14749,7 @@
             "product_id": 36202,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "36208": {
             "name": "Monoprice Cat6 3ft Black Outdoor Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Molded Snagless RJ45, Zeroboot Series Ethernet Cable",
@@ -16207,7 +16207,7 @@
             "product_id": 38303,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 389
+            "num_reviews": 391
         },
         "38304": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft, Blue",
@@ -17510,7 +17510,7 @@
             "price": 9.4,
             "url": "https://www.monoprice.com/product?p_id=38834",
             "product_id": 38834,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 69
         },
@@ -38325,6 +38325,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-06T08:23:10Z"
+        "timestamp": "2023-04-06T09:18:18Z"
     }
 }
