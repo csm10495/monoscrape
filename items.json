@@ -16603,7 +16603,7 @@
             "product_id": 31187,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 389
+            "num_reviews": 391
         },
         "31188": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Red",
@@ -17278,7 +17278,7 @@
             "product_id": 33198,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "33199": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 10G, 30AWG, 25ft, Black, 5-Pack",
@@ -17287,7 +17287,7 @@
             "product_id": 33199,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "33201": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 10G, 30AWG, 25ft, White, 5-Pack",
@@ -17317,11 +17317,11 @@
             "num_reviews": 515
         },
         "33218": {
-            "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 10G, 30AWG, 30ft, White, 5-Pack",
+            "name": "Monoprice Cat6A 30ft White 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
             "price": 32.49,
             "url": "https://www.monoprice.com/product?p_id=33218",
             "product_id": 33218,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 515
         },
@@ -18511,7 +18511,7 @@
             "product_id": 33831,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 22
+            "num_reviews": 23
         },
         "33832": {
             "name": "Monoprice Premium 5.1.4 Channel Immersive Home Theater System with Subwoofer",
@@ -18691,7 +18691,7 @@
             "product_id": 33878,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 204
+            "num_reviews": 207
         },
         "33879": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Yellow",
@@ -18815,7 +18815,7 @@
             "price": 11.48,
             "url": "https://www.monoprice.com/product?p_id=33903",
             "product_id": 33903,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -21200,7 +21200,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=35113",
             "product_id": 35113,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 7
         },
@@ -24055,7 +24055,7 @@
             "product_id": 38543,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 14
+            "num_reviews": 15
         },
         "38544": {
             "name": "Monolith by Monoprice M-212 Dual 12in THX Certified Ultra 1000 Watt Powered Subwoofer",
@@ -24335,15 +24335,6 @@
             "available": true,
             "rating": 3.9,
             "num_reviews": 54
-        },
-        "38626": {
-            "name": "Monoprice 8K SlimRun AV Ultra High Speed HDMI Cable 20ft - AOC 48Gbps Black",
-            "price": 28.57,
-            "url": "https://www.monoprice.com/product?p_id=38626",
-            "product_id": 38626,
-            "available": false,
-            "rating": 4.3,
-            "num_reviews": 42
         },
         "38627": {
             "name": "Monoprice 8K SlimRun AV Ultra High Speed HDMI Cable 30ft - AOC 48Gbps Black",
@@ -24935,7 +24926,7 @@
             "price": 2.38,
             "url": "https://www.monoprice.com/product?p_id=38851",
             "product_id": 38851,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 56
         },
@@ -25088,7 +25079,7 @@
             "price": 3.29,
             "url": "https://www.monoprice.com/product?p_id=38890",
             "product_id": 38890,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 20
         },
@@ -25171,7 +25162,7 @@
             "product_id": 38900,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 74
+            "num_reviews": 75
         },
         "38901": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-A Charge and Sync Nylon-Braid Cable, 6ft, Black",
@@ -25189,7 +25180,7 @@
             "product_id": 38902,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 74
+            "num_reviews": 75
         },
         "38903": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-A Charge and Sync Nylon-Braid Cable, 1.5ft, White",
@@ -26096,7 +26087,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=39361",
             "product_id": 39361,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -45732,6 +45723,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-06T02:33:37Z"
+        "timestamp": "2023-04-06T03:19:14Z"
     }
 }
