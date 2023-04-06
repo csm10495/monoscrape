@@ -3004,7 +3004,7 @@
             "product_id": 21511,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1703
+            "num_reviews": 1705
         },
         "21513": {
             "name": "Netis 24GE+4 SFP-Port Gigabit Ethernet SNMP PoE Switch, 300W",
@@ -3841,7 +3841,7 @@
             "product_id": 21913,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 101
+            "num_reviews": 102
         },
         "21914": {
             "name": "Monoprice 5 Pair Right Angle 24k Gold Plated Banana Speaker Wire Cable Screw Plug Connectors",
@@ -7810,7 +7810,7 @@
             "product_id": 29442,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 515
+            "num_reviews": 517
         },
         "29443": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 2ft, Yellow, 10-Pack",
@@ -38325,6 +38325,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-06T07:35:23Z"
+        "timestamp": "2023-04-06T08:23:10Z"
     }
 }
