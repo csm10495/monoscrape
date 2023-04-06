@@ -27959,7 +27959,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=40041",
             "product_id": 40041,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -28301,7 +28301,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=40106",
             "product_id": 40106,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 38
         },
@@ -29016,15 +29016,6 @@
             "rating": 4.7,
             "num_reviews": 3
         },
-        "40517": {
-            "name": "Monoprice Entegrade Series 1000FT Cat6A Plus 650MHz UTP Solid, Riser-Rated (CMR), 23AWG, Bulk Bare Copper Ethernet Network Cable, 10G, White",
-            "price": 229.99,
-            "url": "https://www.monoprice.com/product?p_id=40517",
-            "product_id": 40517,
-            "available": true,
-            "rating": 4.7,
-            "num_reviews": 3
-        },
         "40520": {
             "name": "Pure Outdoor by Monoprice Large Ring Toss Game",
             "price": 29.99,
@@ -29057,7 +29048,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=40538",
             "product_id": 40538,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 230
         },
@@ -29284,7 +29275,7 @@
             "product_id": 40783,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 12
+            "num_reviews": 13
         },
         "40784": {
             "name": "DisplayPort 1.4 EasyPlug Nylon Braided Cable, 10ft, Gray",
@@ -29912,7 +29903,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=41094",
             "product_id": 41094,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 3
         },
@@ -29930,7 +29921,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=41096",
             "product_id": 41096,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 3
         },
@@ -31055,7 +31046,7 @@
             "price": 2.29,
             "url": "https://www.monoprice.com/product?p_id=41707",
             "product_id": 41707,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -31124,7 +31115,7 @@
         },
         "41731": {
             "name": "STITCH by Monoprice Mini Wi-Fi 10A Outlet, Works with Alexa and Google Home for Touchless Voice Control, No Hub Required, ETL Certified (2-Pack)",
-            "price": 14.99,
+            "price": 10.49,
             "url": "https://www.monoprice.com/product?p_id=41731",
             "product_id": 41731,
             "available": true,
@@ -31244,7 +31235,7 @@
             "price": 13.99,
             "url": "https://www.monoprice.com/product?p_id=41810",
             "product_id": 41810,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1453
         },
@@ -31334,7 +31325,7 @@
             "price": 27.99,
             "url": "https://www.monoprice.com/product?p_id=41820",
             "product_id": 41820,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1453
         },
@@ -31592,7 +31583,7 @@
         },
         "42011": {
             "name": "Monoprice SB-500 Dolby Digital 5.1 Soundbar with Wireless Surround Speakers and Wireless Subwoofer, 2 HDMI Inputs, 4K HDR Pass-Through, Optical, Coax, ARC, Remote",
-            "price": 299.99,
+            "price": 209.99,
             "url": "https://www.monoprice.com/product?p_id=42011",
             "product_id": 42011,
             "available": true,
@@ -32069,7 +32060,7 @@
         },
         "42114": {
             "name": "Workstream by Monoprice Low-Profile Spill-Resistant Silent Keyboard - Membrane, Water-Resistant Coating, 10 Million Keystrokes",
-            "price": 16.99,
+            "price": 14.44,
             "url": "https://www.monoprice.com/product?p_id=42114",
             "product_id": 42114,
             "available": true,
@@ -32294,7 +32285,7 @@
         },
         "42267": {
             "name": "STITCH Smart Wi-Fi RGB Light Bulb, 9W LED RGB Color and Warm, Cool White, A19 E26, Compatible with Alexa and Google Home for Touchless Control, No Hub Required (2-Pack)",
-            "price": 15.99,
+            "price": 11.19,
             "url": "https://www.monoprice.com/product?p_id=42267",
             "product_id": 42267,
             "available": true,
@@ -32384,7 +32375,7 @@
         },
         "42304": {
             "name": "Dark Matter by Monoprice Collider TKL Gaming Keyboard - Cherry MX Red, RGB Backlit, USB-C",
-            "price": 99.99,
+            "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=42304",
             "product_id": 42304,
             "available": true,
@@ -32405,7 +32396,7 @@
             "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=42306",
             "product_id": 42306,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 3
         },
@@ -33278,7 +33269,7 @@
             "price": 499.99,
             "url": "https://www.monoprice.com/product?p_id=42772",
             "product_id": 42772,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 29
         },
@@ -33396,8 +33387,8 @@
             "url": "https://www.monoprice.com/product?p_id=42836",
             "product_id": 42836,
             "available": false,
-            "rating": 5,
-            "num_reviews": 3
+            "rating": 4.6,
+            "num_reviews": 12
         },
         "42837": {
             "name": "Monolith by Monoprice 28in Steel Speaker Stand with Adjustable Top Plate (Each)",
@@ -33405,8 +33396,8 @@
             "url": "https://www.monoprice.com/product?p_id=42837",
             "product_id": 42837,
             "available": true,
-            "rating": 4.3,
-            "num_reviews": 3
+            "rating": 4.6,
+            "num_reviews": 12
         },
         "42838": {
             "name": "Monolith by Monoprice 32in Steel Speaker Stand with Adjustable Top Plate (Each)",
@@ -33414,8 +33405,8 @@
             "url": "https://www.monoprice.com/product?p_id=42838",
             "product_id": 42838,
             "available": false,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 4.6,
+            "num_reviews": 12
         },
         "42839": {
             "name": "Monolith by Monoprice 18in Cherry Wood Speaker Stand with Adjustable Top Plate, Cherry (Each)",
@@ -33432,8 +33423,8 @@
             "url": "https://www.monoprice.com/product?p_id=42840",
             "product_id": 42840,
             "available": true,
-            "rating": 4,
-            "num_reviews": 1
+            "rating": 4.5,
+            "num_reviews": 8
         },
         "42841": {
             "name": "Monolith by Monoprice 28in Cherry Wood Speaker Stand with Adjustable Top Plate, Cherry (Each)",
@@ -33441,8 +33432,8 @@
             "url": "https://www.monoprice.com/product?p_id=42841",
             "product_id": 42841,
             "available": true,
-            "rating": 4,
-            "num_reviews": 2
+            "rating": 4.5,
+            "num_reviews": 8
         },
         "42842": {
             "name": "Monolith by Monoprice 32in Cherry Wood Speaker Stand with Adjustable Top Plate, Cherry (Each)",
@@ -33450,8 +33441,8 @@
             "url": "https://www.monoprice.com/product?p_id=42842",
             "product_id": 42842,
             "available": true,
-            "rating": 4.7,
-            "num_reviews": 3
+            "rating": 4.5,
+            "num_reviews": 8
         },
         "42843": {
             "name": "Monolith by Monoprice M-10 V2 10in THX Certified Select 500 Watt Powered Subwoofer",
@@ -33845,7 +33836,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=42985",
             "product_id": 42985,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 5
         },
@@ -34481,7 +34472,7 @@
         },
         "43162": {
             "name": "Monolith by Monoprice Double-Wide 3-Tier AV Stand, Espresso",
-            "price": 249.99,
+            "price": 224.99,
             "url": "https://www.monoprice.com/product?p_id=43162",
             "product_id": 43162,
             "available": true,
@@ -34931,7 +34922,7 @@
         },
         "43237": {
             "name": "Monolith by Monoprice M1570C Over the Ear Closed Back Planar Headphones",
-            "price": 599.99,
+            "price": 509.99,
             "url": "https://www.monoprice.com/product?p_id=43237",
             "product_id": 43237,
             "available": false,
@@ -35102,7 +35093,7 @@
         },
         "43262": {
             "name": "Monoprice Harmony Capsule 200 Portable Bluetooth Speaker",
-            "price": 69.99,
+            "price": 55.99,
             "url": "https://www.monoprice.com/product?p_id=43262",
             "product_id": 43262,
             "available": true,
@@ -35114,7 +35105,7 @@
             "price": 8,
             "url": "https://www.monoprice.com/product?p_id=43303",
             "product_id": 43303,
-            "available": false,
+            "available": true,
             "rating": 1.7,
             "num_reviews": 14
         },
@@ -35215,7 +35206,7 @@
             "product_id": 43339,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1455
+            "num_reviews": 1456
         },
         "43340": {
             "name": "Monoprice Cat6 1ft White 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -35529,8 +35520,8 @@
             "url": "https://www.monoprice.com/product?p_id=43448",
             "product_id": 43448,
             "available": false,
-            "rating": 4.7,
-            "num_reviews": 3
+            "rating": 4.8,
+            "num_reviews": 8
         },
         "43449": {
             "name": "Workstream by Monoprice Heavy-Duty Dual-Monitor Full-Motion Adjustable Gas-Spring Desk Mount for 15~34in Monitors",
@@ -35566,7 +35557,7 @@
             "product_id": 43452,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 8
+            "num_reviews": 9
         },
         "43453": {
             "name": "Monolith by Monoprice M1000ANC Bluetooth Headphones with ANC and Dirac Virtuo Spatializer, 60H Playtime, Memory Foam Pads, Ambient Mode, Touch Control",
@@ -36446,7 +36437,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=44100",
             "product_id": 44100,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 1
         },
@@ -36774,6 +36765,33 @@
             "rating": 0,
             "num_reviews": 0
         },
+        "44343": {
+            "name": "Monoprice DisplayPort 1.4 to 8K HDMI Cable, 8K 60Hz, 32AWG, 3ft",
+            "price": 27.99,
+            "url": "https://www.monoprice.com/product?p_id=44343",
+            "product_id": 44343,
+            "available": false,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "44344": {
+            "name": "Monoprice DisplayPort 1.4 to 8K HDMI Cable, 8K 60Hz, 32AWG, 6ft",
+            "price": 29.99,
+            "url": "https://www.monoprice.com/product?p_id=44344",
+            "product_id": 44344,
+            "available": false,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "44345": {
+            "name": "Monoprice DisplayPort 1.4 to 8K HDMI Cable, 8K 60Hz, 30AWG, 10ft",
+            "price": 34.99,
+            "url": "https://www.monoprice.com/product?p_id=44345",
+            "product_id": 44345,
+            "available": false,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "44348": {
             "name": "12\" Kids Balance Bike, High-end Magnesium Alloy Frame, EVA Foam Or Air Rubber Tires, Bicycle for 2 3 4 5 6 Year Old Boys and Girls",
             "price": 24.99,
@@ -36989,6 +37007,15 @@
             "available": true,
             "rating": 4.9,
             "num_reviews": 45
+        },
+        "44577": {
+            "name": "Monolith by Monoprice 16in THX Certified Ultra 2000-Watt Powered Subwoofer (Matte Black/Painted) (Open Box)",
+            "price": 2299.99,
+            "url": "https://www.monoprice.com/product?p_id=44577",
+            "product_id": 44577,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
         },
         "446": {
             "name": "Monoprice 50ft DB 9 M/F Molded Cable",
@@ -45606,6 +45633,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-06T15:17:34Z"
+        "timestamp": "2023-04-06T16:23:50Z"
     }
 }
