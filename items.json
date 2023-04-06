@@ -22379,7 +22379,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=41023",
             "product_id": 41023,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 36
         },
@@ -23020,7 +23020,7 @@
             "product_id": 41372,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1847
         },
         "41373": {
             "name": "Monoprice Access Series 12AWG CL2 Rated 2-Conductor Speaker Wire, 100ft, Black",
@@ -23245,7 +23245,7 @@
             "product_id": 41397,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1847
         },
         "41398": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 2-Conductor Speaker Wire, 1000ft, Black",
@@ -23281,7 +23281,7 @@
             "product_id": 41401,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1847
         },
         "41402": {
             "name": "Monoprice Access Series 18AWG CL2 Rated 2-Conductor Speaker Wire, 500ft, White",
@@ -25989,8 +25989,8 @@
             "url": "https://www.monoprice.com/product?p_id=42771",
             "product_id": 42771,
             "available": true,
-            "rating": 4.7,
-            "num_reviews": 6
+            "rating": 3.6,
+            "num_reviews": 10
         },
         "42772": {
             "name": "Dark Matter by Monoprice 34in Curved Ultrawide Gaming Monitor - 21:9, 3440x1440p, UWQHD, 144Hz, 1500R, VA",
@@ -26291,7 +26291,7 @@
         },
         "42897": {
             "name": "Folding Table 4 Foot Adjustable Height Portable Lightweight Aluminum Camping Table, Small Folding Table with Carry Handle, for Outdoor/Indoor",
-            "price": 29.99,
+            "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=42897",
             "product_id": 42897,
             "available": true,
@@ -27205,7 +27205,7 @@
             "product_id": 43162,
             "available": true,
             "rating": 5,
-            "num_reviews": 21
+            "num_reviews": 22
         },
         "43163": {
             "name": "Monolith by Monoprice Double-Wide 3-Tier AV Stand, Maple",
@@ -27839,7 +27839,7 @@
         },
         "43305": {
             "name": "Dark Matter by Monoprice 49in Curved Gaming Monitor - 32:9, 1800R, 5120x1440p, DQHD, 120Hz, Adaptive Sync, VA",
-            "price": 999.99,
+            "price": 799.99,
             "url": "https://www.monoprice.com/product?p_id=43305",
             "product_id": 43305,
             "available": true,
@@ -27934,7 +27934,7 @@
             "product_id": 43339,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1453
+            "num_reviews": 1455
         },
         "43340": {
             "name": "Monoprice Cat6 1ft White 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -38325,6 +38325,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-06T09:18:18Z"
+        "timestamp": "2023-04-06T10:18:44Z"
     }
 }
