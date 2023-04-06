@@ -28310,7 +28310,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=40113",
             "product_id": 40113,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 8
         },
@@ -28717,7 +28717,7 @@
             "product_id": 40372,
             "available": true,
             "rating": 4.1,
-            "num_reviews": 66
+            "num_reviews": 67
         },
         "40373": {
             "name": "Monoprice 10in SATA 6Gbps Cable with Locking Latch - Black",
@@ -29293,7 +29293,7 @@
             "product_id": 40789,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 12
+            "num_reviews": 13
         },
         "40790": {
             "name": "DisplayPort 1.4 EasyPlug Nylon Braided Cable, 12ft, Gray (10 Pack)",
@@ -29831,7 +29831,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=41086",
             "product_id": 41086,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -30092,7 +30092,7 @@
             "price": 299.99,
             "url": "https://www.monoprice.com/product?p_id=41285",
             "product_id": 41285,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 4
         },
@@ -32099,7 +32099,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=42155",
             "product_id": 42155,
-            "available": true,
+            "available": false,
             "rating": 3,
             "num_reviews": 1
         },
@@ -32180,7 +32180,7 @@
             "price": 7.49,
             "url": "https://www.monoprice.com/product?p_id=42164",
             "product_id": 42164,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -32598,15 +32598,6 @@
             "rating": 3.7,
             "num_reviews": 65
         },
-        "42521": {
-            "name": "Aluminum Rollator Walker with Seat, Black - Rolling Walker for Seniors with Back Support, 6 Inch Wheels, 250lbs Support, Lightweight...",
-            "price": 65.99,
-            "url": "https://www.monoprice.com/product?p_id=42521",
-            "product_id": 42521,
-            "available": true,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "42522": {
             "name": "Wheelchair Lightweight Folding Portable Transport Chair with Bags Solid Tires Seatbelt Hand Brakes",
             "price": 119.99,
@@ -32677,7 +32668,7 @@
             "product_id": 42533,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 389
+            "num_reviews": 391
         },
         "42534": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Black - 3 Pack",
@@ -32704,7 +32695,7 @@
             "product_id": 42536,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 389
+            "num_reviews": 391
         },
         "42537": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft/3ft/6ft, Black - 3 Pack",
@@ -33230,7 +33221,7 @@
         },
         "42771": {
             "name": "Dark Matter by Monoprice 27in Gaming Monitor - 16:9, 1920x1080p, FHD, 165Hz",
-            "price": 249.99,
+            "price": 149.99,
             "url": "https://www.monoprice.com/product?p_id=42771",
             "product_id": 42771,
             "available": true,
@@ -33332,7 +33323,7 @@
             "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=42833",
             "product_id": 42833,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 259
         },
@@ -33341,7 +33332,7 @@
             "price": 38.99,
             "url": "https://www.monoprice.com/product?p_id=42834",
             "product_id": 42834,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 20
         },
@@ -33809,7 +33800,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=42985",
             "product_id": 42985,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 5
         },
@@ -34574,7 +34565,7 @@
             "price": 3.29,
             "url": "https://www.monoprice.com/product?p_id=43183",
             "product_id": 43183,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 303
         },
@@ -34844,7 +34835,7 @@
             "price": 10.69,
             "url": "https://www.monoprice.com/product?p_id=43221",
             "product_id": 43221,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 27
         },
@@ -35078,7 +35069,7 @@
             "price": 8,
             "url": "https://www.monoprice.com/product?p_id=43303",
             "product_id": 43303,
-            "available": true,
+            "available": false,
             "rating": 1.7,
             "num_reviews": 14
         },
@@ -35735,7 +35726,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=43573",
             "product_id": 43573,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -35953,7 +35944,7 @@
             "product_id": 43670,
             "available": false,
             "rating": 5,
-            "num_reviews": 3
+            "num_reviews": 4
         },
         "43671": {
             "name": "65W Universal USB-C Laptop Charger",
@@ -36410,7 +36401,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=44100",
             "product_id": 44100,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -36502,15 +36493,6 @@
             "product_id": 44268,
             "available": true,
             "rating": 5,
-            "num_reviews": 1
-        },
-        "44293": {
-            "name": "VIVO Universal LED Computer Monitor Light Bar, USB Powered Screen Lamp for Home Office, 5 Level Adjustable Brightness and Temperature Reading Light, Black, Desk-LTSB1",
-            "price": 29.99,
-            "url": "https://www.monoprice.com/product?p_id=44293",
-            "product_id": 44293,
-            "available": false,
-            "rating": 4,
             "num_reviews": 1
         },
         "44315": {
@@ -36932,7 +36914,7 @@
             "price": 299.99,
             "url": "https://www.monoprice.com/product?p_id=44492",
             "product_id": 44492,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -45597,6 +45579,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-06T21:16:00Z"
+        "timestamp": "2023-04-06T22:17:46Z"
     }
 }
