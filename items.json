@@ -29070,15 +29070,6 @@
             "rating": 4.9,
             "num_reviews": 230
         },
-        "40535": {
-            "name": "Monoprice 10in SATA 6Gbps Cable with Locking Latch (90 Degree to 180 Degree) - Red",
-            "price": 1.46,
-            "url": "https://www.monoprice.com/product?p_id=40535",
-            "product_id": 40535,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 230
-        },
         "40537": {
             "name": "Monoprice 10in SATA 6Gbps Cable with Locking Latch (90 Degree to 180 Degree) - Blue 10-Pack",
             "price": 1.5,
@@ -29093,7 +29084,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=40538",
             "product_id": 40538,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 230
         },
@@ -31091,7 +31082,7 @@
             "price": 2.29,
             "url": "https://www.monoprice.com/product?p_id=41707",
             "product_id": 41707,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -35159,7 +35150,7 @@
             "price": 999.99,
             "url": "https://www.monoprice.com/product?p_id=43305",
             "product_id": 43305,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 15
         },
@@ -35907,8 +35898,8 @@
             "url": "https://www.monoprice.com/product?p_id=43623",
             "product_id": 43623,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 7
+            "rating": 4.4,
+            "num_reviews": 8
         },
         "43624": {
             "name": "Monoprice Blackbird PRO H.265 HDMI over IP Kit, Splitter System and Extender Up to 150m, 1080p",
@@ -37009,7 +37000,7 @@
             "num_reviews": 0
         },
         "44496": {
-            "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, 550Mhz, UTP, Pure Bare Copper Wire, 10G, 30AWG, 6in, Black, 1-Pack",
+            "name": "Monoprice Cat6A 6in Black Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=44496",
             "product_id": 44496,
@@ -45723,6 +45714,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-06T03:19:14Z"
+        "timestamp": "2023-04-06T04:22:05Z"
     }
 }
