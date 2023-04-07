@@ -27313,7 +27313,7 @@
             "product_id": 41382,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1847
         },
         "41383": {
             "name": "Monoprice Access Series 16AWG CL2 Rated 2-Conductor Speaker Wire, 500ft, Black",
@@ -32024,7 +32024,7 @@
         },
         "43305": {
             "name": "Dark Matter by Monoprice 49in Curved Gaming Monitor - 32:9, 1800R, 5120x1440p, DQHD, 120Hz, Adaptive Sync, VA",
-            "price": 799.99,
+            "price": 999.99,
             "url": "https://www.monoprice.com/product?p_id=43305",
             "product_id": 43305,
             "available": true,
@@ -34653,6 +34653,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-07T10:18:55Z"
+        "timestamp": "2023-04-07T11:16:18Z"
     }
 }
