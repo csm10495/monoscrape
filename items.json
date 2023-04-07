@@ -27824,7 +27824,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=42047",
             "product_id": 42047,
-            "available": true,
+            "available": false,
             "rating": 3,
             "num_reviews": 2
         },
@@ -28428,8 +28428,8 @@
             "url": "https://www.monoprice.com/product?p_id=42304",
             "product_id": 42304,
             "available": true,
-            "rating": 4.3,
-            "num_reviews": 6
+            "rating": 4,
+            "num_reviews": 14
         },
         "42305": {
             "name": "Dark Matter by Monoprice Collider TKL Gaming Keyboard - Cherry MX Blue, RGB Backlit, USB-C",
@@ -28446,8 +28446,8 @@
             "url": "https://www.monoprice.com/product?p_id=42306",
             "product_id": 42306,
             "available": false,
-            "rating": 4.3,
-            "num_reviews": 3
+            "rating": 4,
+            "num_reviews": 14
         },
         "42307": {
             "name": "Dark Matter by Monoprice Collider TKL Gaming Keyboard - Cherry MX Speed Silver, RGB Backlit, USB-C",
@@ -28455,8 +28455,8 @@
             "url": "https://www.monoprice.com/product?p_id=42307",
             "product_id": 42307,
             "available": false,
-            "rating": 4.3,
-            "num_reviews": 3
+            "rating": 4,
+            "num_reviews": 14
         },
         "42340": {
             "name": "33 LED Solar Outdoor Torch Lights Landscape Lighting 24\" Path Lights Waterproof Flame Lights Auto On/Off  4 Pack",
@@ -31029,8 +31029,8 @@
             "url": "https://www.monoprice.com/product?p_id=43244",
             "product_id": 43244,
             "available": false,
-            "rating": 4.7,
-            "num_reviews": 3
+            "rating": 4.8,
+            "num_reviews": 4
         },
         "43245": {
             "name": "Monoprice Bluetooth 5 Receiver with Mic Input",
@@ -31246,7 +31246,7 @@
             "product_id": 43339,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1456
+            "num_reviews": 1457
         },
         "43340": {
             "name": "Monoprice Cat6 1ft White 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -31398,8 +31398,8 @@
             "url": "https://www.monoprice.com/product?p_id=43359",
             "product_id": 43359,
             "available": true,
-            "rating": 4.3,
-            "num_reviews": 4
+            "rating": 3.8,
+            "num_reviews": 5
         },
         "43360": {
             "name": "Pure Outdoor by Monoprice Lawn Bowling Set",
@@ -31605,8 +31605,8 @@
             "url": "https://www.monoprice.com/product?p_id=43453",
             "product_id": 43453,
             "available": false,
-            "rating": 3.7,
-            "num_reviews": 16
+            "rating": 3.8,
+            "num_reviews": 17
         },
         "43462": {
             "name": "4Pack 4inch 27W Flood Round Pods Led Work Light Driving Fog Light Offroad Light for Tractor Off-Road SUV Boat Truck",
@@ -31768,7 +31768,7 @@
             "product_id": 43562,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 12
+            "num_reviews": 22
         },
         "43563": {
             "name": "Monoprice Dual Motor Height Adjustable 3-Stage Electric Sit-Stand Desk Frame, v2, White",
@@ -31777,7 +31777,7 @@
             "product_id": 43563,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 10
+            "num_reviews": 22
         },
         "43564": {
             "name": "Monoprice Home Office Fixed Steel Frame Computer Desk with Solid-Core 4-foot Desktop and Accessory Attachments, Black",
@@ -31793,7 +31793,7 @@
             "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=43569",
             "product_id": 43569,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -41637,6 +41637,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-07T16:23:41Z"
+        "timestamp": "2023-04-07T17:16:51Z"
     }
 }
