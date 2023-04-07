@@ -10850,7 +10850,7 @@
             "price": 451.49,
             "url": "https://www.monoprice.com/product?p_id=21794",
             "product_id": 21794,
-            "available": true,
+            "available": false,
             "rating": 4,
             "num_reviews": 1
         },
@@ -12232,7 +12232,7 @@
             "num_reviews": 494
         },
         "24320": {
-            "name": "Monoprice Cat6A Ethernet Patch Cable - Snagless RJ45, 550MHz, STP, Pure Bare Copper Wire, 10G, 26AWG, 1ft, White",
+            "name": "Monoprice Cat6A 1ft White Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 1.79,
             "url": "https://www.monoprice.com/product?p_id=24320",
             "product_id": 24320,
@@ -12241,7 +12241,7 @@
             "num_reviews": 494
         },
         "24325": {
-            "name": "Monoprice Cat6A Ethernet Patch Cable - Snagless RJ45, 550MHz, STP, Pure Bare Copper Wire, 10G, 26AWG, 1ft, Yellow",
+            "name": "Monoprice Cat6A 1ft Yellow Patch Cable,  Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 3.29,
             "url": "https://www.monoprice.com/product?p_id=24325",
             "product_id": 24325,
@@ -12286,7 +12286,7 @@
             "num_reviews": 494
         },
         "24336": {
-            "name": "Monoprice Cat6A Ethernet Patch Cable - Snagless RJ45, 550MHz, STP, Pure Bare Copper Wire, 10G, 26AWG, 3ft, White",
+            "name": "Monoprice Cat6A 3ft White Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=24336",
             "product_id": 24336,
@@ -12295,7 +12295,7 @@
             "num_reviews": 494
         },
         "24337": {
-            "name": "Monoprice Cat6A Ethernet Patch Cable - Snagless RJ45, 550MHz, STP, Pure Bare Copper Wire, 10G, 26AWG, 3ft, Gray",
+            "name": "Monoprice Cat6A 3ft Gray Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=24337",
             "product_id": 24337,
@@ -12331,7 +12331,7 @@
             "num_reviews": 494
         },
         "24341": {
-            "name": "Monoprice Cat6A Ethernet Patch Cable - Snagless RJ45, 550MHz, STP, Pure Bare Copper Wire, 10G, 26AWG, 3ft, Yellow",
+            "name": "Monoprice Cat6A 3ft Yellow Patch Cable,  Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=24341",
             "product_id": 24341,
@@ -12340,7 +12340,7 @@
             "num_reviews": 494
         },
         "24342": {
-            "name": "Monoprice Cat6A Ethernet Patch Cable - Snagless RJ45, 550MHz, STP, Pure Bare Copper Wire, 10G, 26AWG, 3ft, Purple",
+            "name": "Monoprice Cat6A 3ft Purple Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=24342",
             "product_id": 24342,
@@ -12376,7 +12376,7 @@
             "num_reviews": 494
         },
         "24349": {
-            "name": "Monoprice Cat6A Ethernet Patch Cable - Snagless RJ45, 550MHz, STP, Pure Bare Copper Wire, 10G, 26AWG, 5ft, Orange",
+            "name": "Monoprice Cat6A 5ft Orange Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=24349",
             "product_id": 24349,
@@ -12385,7 +12385,7 @@
             "num_reviews": 494
         },
         "24350": {
-            "name": "Monoprice Cat6A Ethernet Patch Cable - Snagless RJ45, 550MHz, STP, Pure Bare Copper Wire, 10G, 26AWG, 5ft, Yellow",
+            "name": "Monoprice Cat6A 5ft Yellow Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=24350",
             "product_id": 24350,
@@ -12394,7 +12394,7 @@
             "num_reviews": 494
         },
         "24351": {
-            "name": "Monoprice Cat6A Ethernet Patch Cable - Snagless RJ45, 550MHz, STP, Pure Bare Copper Wire, 10G, 26AWG, 5ft, Purple",
+            "name": "Monoprice Cat6A 5ft Purple Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=24351",
             "product_id": 24351,
@@ -12421,7 +12421,7 @@
             "num_reviews": 494
         },
         "24355": {
-            "name": "Monoprice Cat6A Ethernet Patch Cable - Snagless RJ45, 550MHz, STP, Pure Bare Copper Wire, 10G, 26AWG, 7ft, Red",
+            "name": "Monoprice Cat6A 7ft Red Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=24355",
             "product_id": 24355,
@@ -12430,7 +12430,7 @@
             "num_reviews": 494
         },
         "24356": {
-            "name": "Monoprice Cat6A Ethernet Patch Cable - Snagless RJ45, 550MHz, STP, Pure Bare Copper Wire, 10G, 26AWG, 7ft, Green",
+            "name": "Monoprice Cat6A 7ft Green Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=24356",
             "product_id": 24356,
@@ -12439,7 +12439,7 @@
             "num_reviews": 494
         },
         "24357": {
-            "name": "Monoprice Cat6A Ethernet Patch Cable - Snagless RJ45, 550MHz, STP, Pure Bare Copper Wire, 10G, 26AWG, 7ft, Orange",
+            "name": "Monoprice Cat6A 7ft Orange Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=24357",
             "product_id": 24357,
@@ -12475,7 +12475,7 @@
             "num_reviews": 494
         },
         "24361": {
-            "name": "Monoprice Cat6A Ethernet Patch Cable - Snagless RJ45, 550MHz, STP, Pure Bare Copper Wire, 10G, 26AWG, 10ft, White",
+            "name": "Monoprice Cat6A 10ft White Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=24361",
             "product_id": 24361,
@@ -12493,7 +12493,7 @@
             "num_reviews": 494
         },
         "24363": {
-            "name": "Monoprice Cat6A Ethernet Patch Cable - Snagless RJ45, 550MHz, STP, Pure Bare Copper Wire, 10G, 26AWG, 10ft, Red",
+            "name": "Monoprice Cat6A 10ft Red Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=24363",
             "product_id": 24363,
@@ -12502,7 +12502,7 @@
             "num_reviews": 494
         },
         "24364": {
-            "name": "Monoprice Cat6A Ethernet Patch Cable - Snagless RJ45, 550MHz, STP, Pure Bare Copper Wire, 10G, 26AWG, 10ft, Green",
+            "name": "Monoprice Cat6A 10ft Green Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=24364",
             "product_id": 24364,
@@ -12511,7 +12511,7 @@
             "num_reviews": 494
         },
         "24365": {
-            "name": "Monoprice Cat6A Ethernet Patch Cable - Snagless RJ45, 550MHz, STP, Pure Bare Copper Wire, 10G, 26AWG, 10ft, Orange",
+            "name": "Monoprice Cat6A 10ft Orange Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 6.49,
             "url": "https://www.monoprice.com/product?p_id=24365",
             "product_id": 24365,
@@ -12520,7 +12520,7 @@
             "num_reviews": 494
         },
         "24366": {
-            "name": "Monoprice Cat6A Ethernet Patch Cable - Snagless RJ45, 550MHz, STP, Pure Bare Copper Wire, 10G, 26AWG, 10ft, Yellow",
+            "name": "Monoprice Cat6A 10ft Yellow Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=24366",
             "product_id": 24366,
@@ -12529,7 +12529,7 @@
             "num_reviews": 494
         },
         "24367": {
-            "name": "Monoprice Cat6A Ethernet Patch Cable - Snagless RJ45, 550MHz, STP, Pure Bare Copper Wire, 10G, 26AWG, 10ft, Purple",
+            "name": "Monoprice Cat6A 10ft Purple Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=24367",
             "product_id": 24367,
@@ -12547,7 +12547,7 @@
             "num_reviews": 494
         },
         "24369": {
-            "name": "Monoprice Cat6A Ethernet Patch Cable - Snagless RJ45, 550MHz, STP, Pure Bare Copper Wire, 10G, 26AWG, 14ft, White",
+            "name": "Monoprice Cat6A 14ft White Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 9.49,
             "url": "https://www.monoprice.com/product?p_id=24369",
             "product_id": 24369,
@@ -12556,7 +12556,7 @@
             "num_reviews": 494
         },
         "24372": {
-            "name": "Monoprice Cat6A Ethernet Patch Cable - Snagless RJ45, 550MHz, STP, Pure Bare Copper Wire, 10G, 26AWG, 14ft, Green",
+            "name": "Monoprice Cat6A 14ft Green Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 9.49,
             "url": "https://www.monoprice.com/product?p_id=24372",
             "product_id": 24372,
@@ -12565,7 +12565,7 @@
             "num_reviews": 494
         },
         "24374": {
-            "name": "Monoprice Cat6A Ethernet Patch Cable - Snagless RJ45, 550MHz, STP, Pure Bare Copper Wire, 10G, 26AWG, 14ft, Yellow",
+            "name": "Monoprice Cat6A 14ft Yellow Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 9.49,
             "url": "https://www.monoprice.com/product?p_id=24374",
             "product_id": 24374,
@@ -12583,7 +12583,7 @@
             "num_reviews": 494
         },
         "24377": {
-            "name": "Monoprice Cat6A Ethernet Patch Cable - Snagless RJ45, 550MHz, STP, Pure Bare Copper Wire, 10G, 26AWG, 20ft, White",
+            "name": "Monoprice Cat6A 20ft White Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=24377",
             "product_id": 24377,
@@ -12655,7 +12655,7 @@
             "num_reviews": 494
         },
         "24404": {
-            "name": "Monoprice Cat6A Ethernet Patch Cable - Snagless RJ45, 550MHz, STP, Pure Bare Copper Wire, 10G, 26AWG, 50ft, Green",
+            "name": "Monoprice Cat6A 50ft Green Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 24.49,
             "url": "https://www.monoprice.com/product?p_id=24404",
             "product_id": 24404,
@@ -12673,7 +12673,7 @@
             "num_reviews": 494
         },
         "24406": {
-            "name": "Monoprice Cat6A Ethernet Patch Cable - Snagless RJ45, 550MHz, STP, Pure Bare Copper Wire, 10G, 26AWG, 50ft, Yellow",
+            "name": "Monoprice Cat6A 50ft Yellow Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 24.49,
             "url": "https://www.monoprice.com/product?p_id=24406",
             "product_id": 24406,
@@ -12727,7 +12727,7 @@
             "num_reviews": 494
         },
         "24417": {
-            "name": "Monoprice Cat6A Ethernet Patch Cable - Snagless RJ45, 550MHz, STP, Pure Bare Copper Wire, 10G, 26AWG, 100ft, White",
+            "name": "Monoprice Cat6A 100ft White Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 47.49,
             "url": "https://www.monoprice.com/product?p_id=24417",
             "product_id": 24417,
@@ -14342,7 +14342,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=27854",
             "product_id": 27854,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 10
         },
@@ -15316,7 +15316,7 @@
             "product_id": 29516,
             "available": false,
             "rating": 4.5,
-            "num_reviews": 11
+            "num_reviews": 12
         },
         "2982": {
             "name": "Monoprice 50ft Coaxial Audio/Video RCA Cable M/M RG59U 75ohm (for S/PDIF, Digital Coax, Subwoofer \u0026 Composite Video)",
@@ -45480,6 +45480,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-07T20:20:38Z"
+        "timestamp": "2023-04-07T21:16:23Z"
     }
 }
