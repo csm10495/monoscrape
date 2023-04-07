@@ -29750,7 +29750,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=41086",
             "product_id": 41086,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -30337,7 +30337,7 @@
             "product_id": 41389,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1847
         },
         "41390": {
             "name": "Monoprice Access Series 18AWG CL2 Rated 4-Conductor Speaker Wire, 100ft, Black",
@@ -30373,7 +30373,7 @@
             "product_id": 41393,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1847
         },
         "41394": {
             "name": "Monoprice Access Series 18AWG CL2 Rated 2-Conductor Speaker Wire, 1000ft, Black",
@@ -31156,7 +31156,7 @@
             "product_id": 41813,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1453
+            "num_reviews": 1457
         },
         "41814": {
             "name": "Monoprice Cat6 2ft Black 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -31174,7 +31174,7 @@
             "product_id": 41815,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1453
+            "num_reviews": 1457
         },
         "41816": {
             "name": "Monoprice Cat6 3ft Black 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -31201,7 +31201,7 @@
             "product_id": 41818,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1453
+            "num_reviews": 1457
         },
         "41819": {
             "name": "Monoprice Cat6 5ft Blue 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -31210,7 +31210,7 @@
             "product_id": 41819,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1453
+            "num_reviews": 1457
         },
         "41820": {
             "name": "Monoprice Cat6 7ft Black 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -31732,7 +31732,7 @@
             "product_id": 42064,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 303
+            "num_reviews": 304
         },
         "42065": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 14AWG, 15A/1875W, 125V, 3-Prong, Red, 3ft",
@@ -32099,7 +32099,7 @@
             "price": 7.49,
             "url": "https://www.monoprice.com/product?p_id=42164",
             "product_id": 42164,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -33073,7 +33073,7 @@
             "product_id": 42757,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 16
+            "num_reviews": 17
         },
         "42761": {
             "name": "Workstream by Monoprice WFH Ergonomic Office Chair with Foam Seat, Lumbar Support, Adjustable Armrests, Backrest, and Headrest",
@@ -34484,7 +34484,7 @@
             "price": 3.29,
             "url": "https://www.monoprice.com/product?p_id=43183",
             "product_id": 43183,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 303
         },
@@ -35125,7 +35125,7 @@
             "product_id": 43344,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1453
+            "num_reviews": 1457
         },
         "43345": {
             "name": "Monoprice Cat6 7ft White 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -35753,7 +35753,7 @@
             "price": 134.99,
             "url": "https://www.monoprice.com/product?p_id=43624",
             "product_id": 43624,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -36884,7 +36884,7 @@
         },
         "44577": {
             "name": "Monolith by Monoprice 16in THX Certified Ultra 2000-Watt Powered Subwoofer (Matte Black/Painted) (Open Box)",
-            "price": 2299.99,
+            "price": 1494.99,
             "url": "https://www.monoprice.com/product?p_id=44577",
             "product_id": 44577,
             "available": true,
@@ -45489,6 +45489,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-07T22:17:27Z"
+        "timestamp": "2023-04-07T23:18:03Z"
     }
 }
