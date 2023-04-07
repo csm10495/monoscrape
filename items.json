@@ -6630,8 +6630,8 @@
             "url": "https://www.monoprice.com/product?p_id=21601",
             "product_id": 21601,
             "available": false,
-            "rating": 2.8,
-            "num_reviews": 6
+            "rating": 4.4,
+            "num_reviews": 48
         },
         "21602": {
             "name": "Monoprice Table Top for Sit-Stand Height-Adjustable Desk, 4ft White",
@@ -6639,8 +6639,8 @@
             "url": "https://www.monoprice.com/product?p_id=21602",
             "product_id": 21602,
             "available": false,
-            "rating": 5,
-            "num_reviews": 7
+            "rating": 4.4,
+            "num_reviews": 48
         },
         "21603": {
             "name": "Monoprice Table Top for Sit-Stand Height-Adjustable Desk, 5ft Black",
@@ -6648,8 +6648,8 @@
             "url": "https://www.monoprice.com/product?p_id=21603",
             "product_id": 21603,
             "available": true,
-            "rating": 4.6,
-            "num_reviews": 16
+            "rating": 4.4,
+            "num_reviews": 48
         },
         "21604": {
             "name": "Monoprice Table Top for Sit-Stand Height-Adjustable Desk, 5ft White",
@@ -6657,8 +6657,8 @@
             "url": "https://www.monoprice.com/product?p_id=21604",
             "product_id": 21604,
             "available": true,
-            "rating": 4.8,
-            "num_reviews": 4
+            "rating": 4.4,
+            "num_reviews": 48
         },
         "21605": {
             "name": "Monoprice Table Top for Sit-Stand Height-Adjustable Desk, 6ft Black",
@@ -6675,8 +6675,8 @@
             "url": "https://www.monoprice.com/product?p_id=21606",
             "product_id": 21606,
             "available": true,
-            "rating": 5,
-            "num_reviews": 3
+            "rating": 4.4,
+            "num_reviews": 48
         },
         "21607": {
             "name": "Monoprice USB Type-C to 4K HDMI, Single Link DVI, and VGA Passive Adapter, Black",
@@ -8403,15 +8403,6 @@
             "url": "https://www.monoprice.com/product?p_id=24320",
             "product_id": 24320,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 494
-        },
-        "24323": {
-            "name": "Monoprice Cat6A Ethernet Patch Cable - Snagless RJ45, 550MHz, STP, Pure Bare Copper Wire, 10G, 26AWG, 1ft, Green",
-            "price": 1.99,
-            "url": "https://www.monoprice.com/product?p_id=24323",
-            "product_id": 24323,
-            "available": false,
             "rating": 4.9,
             "num_reviews": 494
         },
@@ -41673,6 +41664,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-07T14:31:58Z"
+        "timestamp": "2023-04-07T15:19:01Z"
     }
 }
