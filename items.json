@@ -11633,7 +11633,7 @@
             "price": 179.99,
             "url": "https://www.monoprice.com/product?p_id=30361",
             "product_id": 30361,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 31
         },
@@ -12308,7 +12308,7 @@
             "price": 6.54,
             "url": "https://www.monoprice.com/product?p_id=30902",
             "product_id": 30902,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 35
         },
@@ -12688,7 +12688,7 @@
             "product_id": 31189,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 390
+            "num_reviews": 391
         },
         "31190": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft, Black",
@@ -13577,7 +13577,7 @@
             "price": 339.99,
             "url": "https://www.monoprice.com/product?p_id=33305",
             "product_id": 33305,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 36
         },
@@ -13793,7 +13793,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=33545",
             "product_id": 33545,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -14073,15 +14073,6 @@
             "url": "https://www.monoprice.com/product?p_id=33656",
             "product_id": 33656,
             "available": true,
-            "rating": 5,
-            "num_reviews": 7
-        },
-        "33657": {
-            "name": "Monoprice Heavy Duty Power Cable - IEC 60320 C14 to IEC 60320 C15, 14AWG, 15A/1875W, SJT, 125V, Green, 6ft",
-            "price": 6.85,
-            "url": "https://www.monoprice.com/product?p_id=33657",
-            "product_id": 33657,
-            "available": false,
             "rating": 5,
             "num_reviews": 7
         },
@@ -14568,8 +14559,8 @@
             "url": "https://www.monoprice.com/product?p_id=33831",
             "product_id": 33831,
             "available": true,
-            "rating": 4.4,
-            "num_reviews": 24
+            "rating": 4.2,
+            "num_reviews": 25
         },
         "33832": {
             "name": "Monoprice Premium 5.1.4 Channel Immersive Home Theater System with Subwoofer",
@@ -14774,7 +14765,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=33881",
             "product_id": 33881,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 205
         },
@@ -15485,7 +15476,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=34248",
             "product_id": 34248,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 76
         },
@@ -16541,15 +16532,6 @@
             "available": true,
             "rating": 4.9,
             "num_reviews": 69
-        },
-        "34773": {
-            "name": "FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 10m, Blue, 5 pack",
-            "price": 18.99,
-            "url": "https://www.monoprice.com/product?p_id=34773",
-            "product_id": 34773,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 1454
         },
         "34774": {
             "name": "FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 10m, Black, 5 pack",
@@ -19436,7 +19418,7 @@
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=38179",
             "product_id": 38179,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 7
         },
@@ -21600,15 +21582,6 @@
             "rating": 4.3,
             "num_reviews": 7
         },
-        "39076": {
-            "name": "Monoprice Entegrade 1000FT Cat7 1000MHz S/FTP Solid, 23AWG, Bulk Bare Copper Network Cable, 10G, Black",
-            "price": 399.99,
-            "url": "https://www.monoprice.com/product?p_id=39076",
-            "product_id": 39076,
-            "available": false,
-            "rating": 4.5,
-            "num_reviews": 4
-        },
         "39078": {
             "name": "Monoprice Cat6 50ft Black Patch Cable, UTP, 32AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Micro SlimRun Series Ethernet Cable",
             "price": 11.99,
@@ -22091,7 +22064,7 @@
             "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=39304",
             "product_id": 39304,
-            "available": false,
+            "available": true,
             "rating": 3.4,
             "num_reviews": 5
         },
@@ -41664,6 +41637,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-07T15:19:01Z"
+        "timestamp": "2023-04-07T16:23:41Z"
     }
 }
