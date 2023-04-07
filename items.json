@@ -25198,7 +25198,7 @@
             "product_id": 40372,
             "available": true,
             "rating": 4.1,
-            "num_reviews": 67
+            "num_reviews": 68
         },
         "40373": {
             "name": "Monoprice 10in SATA 6Gbps Cable with Locking Latch - Black",
@@ -25783,7 +25783,7 @@
             "product_id": 40790,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 12
+            "num_reviews": 13
         },
         "40794": {
             "name": "DisplayPort 1.2 EasyPlug Nylon Braided Cable, 12ft, Gray (10 Pack)",
@@ -26294,7 +26294,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=41083",
             "product_id": 41083,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 148
         },
@@ -29706,8 +29706,8 @@
             "url": "https://www.monoprice.com/product?p_id=42771",
             "product_id": 42771,
             "available": true,
-            "rating": 3.6,
-            "num_reviews": 10
+            "rating": 4.1,
+            "num_reviews": 9
         },
         "42772": {
             "name": "Dark Matter by Monoprice 34in Curved Ultrawide Gaming Monitor - 21:9, 3440x1440p, UWQHD, 144Hz, 1500R, VA",
@@ -30850,7 +30850,7 @@
             "product_id": 43154,
             "available": true,
             "rating": 5,
-            "num_reviews": 1
+            "num_reviews": 2
         },
         "43155": {
             "name": "Monolith by Monoprice Audition T5 Tower Speaker (Each)",
@@ -31137,8 +31137,8 @@
             "url": "https://www.monoprice.com/product?p_id=43197",
             "product_id": 43197,
             "available": true,
-            "rating": 2.4,
-            "num_reviews": 7
+            "rating": 2.8,
+            "num_reviews": 8
         },
         "43198": {
             "name": "Monoprice Commercial Series Full-Motion Articulating TV Wall Mount Bracket For LED TVs 43in to 90in, Max Weight 132 lbs, Extension Range of 3in to 16.9in, VESA Up to 800x400, Fits Curved Screens",
@@ -32307,8 +32307,8 @@
             "url": "https://www.monoprice.com/product?p_id=43623",
             "product_id": 43623,
             "available": true,
-            "rating": 4.4,
-            "num_reviews": 8
+            "rating": 4.9,
+            "num_reviews": 7
         },
         "43624": {
             "name": "Monoprice Blackbird PRO H.265 HDMI over IP Kit, Splitter System and Extender Up to 150m, 1080p",
@@ -32974,7 +32974,7 @@
             "product_id": 44268,
             "available": true,
             "rating": 5,
-            "num_reviews": 1
+            "num_reviews": 2
         },
         "443": {
             "name": "Monoprice 10ft DB 9 M/F Molded Cable",
@@ -42042,6 +42042,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-07T04:22:09Z"
+        "timestamp": "2023-04-07T05:17:27Z"
     }
 }
