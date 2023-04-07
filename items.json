@@ -461,7 +461,7 @@
         },
         "10623": {
             "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam, 11 x 8 x 10 in",
-            "price": 25.99,
+            "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=10623",
             "product_id": 10623,
             "available": true,
@@ -727,7 +727,7 @@
             "product_id": 11219,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1453
+            "num_reviews": 1455
         },
         "11220": {
             "name": "Monoprice Cat6A 6in Blue Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Molded RJ45, Entegrade Series Ethernet Cable",
@@ -4847,7 +4847,7 @@
             "price": 119.99,
             "url": "https://www.monoprice.com/product?p_id=13683",
             "product_id": 13683,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 78
         },
@@ -6206,7 +6206,7 @@
             "price": 35.99,
             "url": "https://www.monoprice.com/product?p_id=14760",
             "product_id": 14760,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 60
         },
@@ -6233,7 +6233,7 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=14775",
             "product_id": 14775,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 33
         },
@@ -7574,7 +7574,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=15664",
             "product_id": 15664,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 41
         },
@@ -9268,7 +9268,7 @@
             "product_id": 16359,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 78
+            "num_reviews": 79
         },
         "16360": {
             "name": "Workstream by Monoprice Medium Multimedia Desktop Monitor Stand, 25.6in x 11.0in, Max Weight Capacity 80lbs, Black Tempered Glass",
@@ -31170,6 +31170,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-07T07:35:22Z"
+        "timestamp": "2023-04-07T08:22:22Z"
     }
 }
