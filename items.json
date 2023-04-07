@@ -12443,7 +12443,7 @@
             "price": 8,
             "url": "https://www.monoprice.com/product?p_id=30709",
             "product_id": 30709,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 11
         },
@@ -12508,7 +12508,7 @@
             "product_id": 30762,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 196
+            "num_reviews": 197
         },
         "30763": {
             "name": "Monoprice Palette Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 6ft Black",
@@ -13500,15 +13500,6 @@
             "rating": 4.9,
             "num_reviews": 231
         },
-        "31376": {
-            "name": "Monoprice Entegrade Series Cat7 Double Shielded (S/FTP) Ethernet Patch Cable - Snagless RJ45, 600MHz, 10G, 26AWG, 50ft, Purple",
-            "price": 19.99,
-            "url": "https://www.monoprice.com/product?p_id=31376",
-            "product_id": 31376,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 231
-        },
         "31377": {
             "name": "Monoprice Entegrade Series Cat7 Double Shielded (S/FTP) Ethernet Patch Cable - Snagless RJ45, 600MHz, 10G, 26AWG, 100ft, Black",
             "price": 26.12,
@@ -13982,7 +13973,7 @@
             "price": 2499.99,
             "url": "https://www.monoprice.com/product?p_id=33307",
             "product_id": 33307,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 17
         },
@@ -15872,7 +15863,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=34248",
             "product_id": 34248,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 76
         },
@@ -17170,7 +17161,7 @@
             "product_id": 34827,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 89
+            "num_reviews": 90
         },
         "34828": {
             "name": "Monoprice Triple-Motor Height-Adjustable Sit-Stand L-Shaped Corner Desk Frame, White",
@@ -18019,16 +18010,16 @@
             "num_reviews": 5
         },
         "35534": {
-            "name": "Monoprice Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 5ft, Pink",
+            "name": "Monoprice Cat6 5ft Pink Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=35534",
             "product_id": 35534,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3395
+            "num_reviews": 3396
         },
         "35535": {
-            "name": "Monoprice Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 7ft, Pink",
+            "name": "Monoprice Cat6 7ft Pink Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=35535",
             "product_id": 35535,
@@ -19202,7 +19193,7 @@
             "price": 159.99,
             "url": "https://www.monoprice.com/product?p_id=37877",
             "product_id": 37877,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 11
         },
@@ -20222,15 +20213,6 @@
             "available": true,
             "rating": 4.9,
             "num_reviews": 97
-        },
-        "38354": {
-            "name": "Monoprice OM4 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 2m",
-            "price": 2.99,
-            "url": "https://www.monoprice.com/product?p_id=38354",
-            "product_id": 38354,
-            "available": false,
-            "rating": 4.7,
-            "num_reviews": 3
         },
         "38356": {
             "name": "Monoprice OM4 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 5m",
@@ -24046,7 +24028,7 @@
             "product_id": 39843,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 160
+            "num_reviews": 163
         },
         "39844": {
             "name": "Monoprice Obsidian Plus Pocket USB Power Bank, Purple, 5,000mAh, 2-Port Up to 2.1A Output for iPhone, Android, and Galaxy Devices",
@@ -42060,6 +42042,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-07T03:38:56Z"
+        "timestamp": "2023-04-07T04:22:09Z"
     }
 }
