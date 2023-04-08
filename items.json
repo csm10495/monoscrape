@@ -14137,7 +14137,7 @@
             "product_id": 2763,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 2396
+            "num_reviews": 2397
         },
         "2764": {
             "name": "Monoprice Premium S/PDIF (Toslink) Digital Optical Audio Cable, 6ft",
@@ -14173,7 +14173,7 @@
             "product_id": 2767,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 2396
+            "num_reviews": 2397
         },
         "27678": {
             "name": "Monolith by Monoprice 4 Tier Audio Stand (Black)",
@@ -29851,7 +29851,7 @@
             "product_id": 4112,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3395
+            "num_reviews": 3396
         },
         "4113": {
             "name": "Monoprice Cat6 2ft White Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -37710,6 +37710,15 @@
             "rating": 4.9,
             "num_reviews": 3039
         },
+        "4998": {
+            "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 30ft, Red",
+            "price": 1.5,
+            "url": "https://www.monoprice.com/product?p_id=4998",
+            "product_id": 4998,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 3039
+        },
         "5000": {
             "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 30ft, Yellow",
             "price": 1.75,
@@ -38086,7 +38095,7 @@
             "product_id": 5291,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 303
+            "num_reviews": 304
         },
         "5292": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 14AWG, 15A/1875W, 3-Prong, Black, 6ft",
@@ -39218,7 +39227,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=5773",
             "product_id": 5773,
-            "available": false,
+            "available": true,
             "rating": 4.2,
             "num_reviews": 369
         },
@@ -42460,7 +42469,7 @@
             "product_id": 7683,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 40
+            "num_reviews": 41
         },
         "7684": {
             "name": "Monoprice Right Angle Power Cord - NEMA 5-15P to Right Angle IEC 60320 C13, 14AWG, 15A/1875W, SJT, 125V, Black, 6ft",
@@ -44971,7 +44980,7 @@
             "product_id": 9817,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1453
+            "num_reviews": 1457
         },
         "9818": {
             "name": "Monoprice Cat6 50ft White Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -45086,7 +45095,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=9831",
             "product_id": 9831,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1457
         },
@@ -45331,7 +45340,7 @@
             "product_id": 9864,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1453
+            "num_reviews": 1457
         },
         "9865": {
             "name": "Monoprice Cat6 2ft Orange Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -45489,6 +45498,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-08T13:19:39Z"
+        "timestamp": "2023-04-08T14:16:02Z"
     }
 }
