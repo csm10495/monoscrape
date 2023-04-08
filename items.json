@@ -16036,7 +16036,7 @@
             "product_id": 30769,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 196
+            "num_reviews": 197
         },
         "30770": {
             "name": "Monoprice Palette Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 1.5ft Blue",
@@ -16304,7 +16304,7 @@
             "price": 37,
             "url": "https://www.monoprice.com/product?p_id=31031",
             "product_id": 31031,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 5
         },
@@ -18617,7 +18617,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=33881",
             "product_id": 33881,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 212
         },
@@ -23495,7 +23495,7 @@
             "price": 3.64,
             "url": "https://www.monoprice.com/product?p_id=38314",
             "product_id": 38314,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 258
         },
@@ -23540,7 +23540,7 @@
             "price": 2.05,
             "url": "https://www.monoprice.com/product?p_id=38320",
             "product_id": 38320,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 259
         },
@@ -27421,7 +27421,7 @@
             "product_id": 39789,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 303
+            "num_reviews": 304
         },
         "39798": {
             "name": "Monoprice Blackbird PRO-sumer 4K@60Hz Multi Video Input HDMI Converter",
@@ -45507,6 +45507,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-08T22:17:04Z"
+        "timestamp": "2023-04-08T23:17:48Z"
     }
 }
