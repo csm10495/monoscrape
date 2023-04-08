@@ -29327,7 +29327,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=40885",
             "product_id": 40885,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 55
         },
@@ -30202,7 +30202,7 @@
             "product_id": 41373,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1847
         },
         "41374": {
             "name": "Monoprice Access Series 12AWG CL2 Rated 2-Conductor Speaker Wire, 500ft, Black",
@@ -30274,7 +30274,7 @@
             "product_id": 41381,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1847
         },
         "41382": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 2-Conductor Speaker Wire, 500ft, Black",
@@ -30463,7 +30463,7 @@
             "product_id": 41402,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1847
         },
         "41410": {
             "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam, 22 x 14 x 8 in (clearance)",
@@ -31192,7 +31192,7 @@
             "product_id": 41816,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1453
+            "num_reviews": 1457
         },
         "41817": {
             "name": "Monoprice Cat6 3ft Blue 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -31750,7 +31750,7 @@
             "product_id": 42065,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 303
+            "num_reviews": 304
         },
         "42066": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 14AWG, 15A/1875W, 125V, 3-Prong, Blue, 6ft",
@@ -31867,7 +31867,7 @@
             "product_id": 42085,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 40
+            "num_reviews": 41
         },
         "42086": {
             "name": "Monoprice Heavy Duty Power Cord - NEMA 5-15P to IEC 60320 C15, 14AWG, 15A/1875W, SJT, 125V, Black, 2ft",
@@ -32614,7 +32614,7 @@
             "product_id": 42535,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 390
+            "num_reviews": 391
         },
         "42536": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Red - 3 Pack",
@@ -45489,6 +45489,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-08T11:15:01Z"
+        "timestamp": "2023-04-08T12:31:26Z"
     }
 }
