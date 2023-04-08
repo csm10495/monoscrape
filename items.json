@@ -20419,7 +20419,7 @@
             "product_id": 34780,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1453
+            "num_reviews": 1457
         },
         "34782": {
             "name": "SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, S/STP, Pure Bare Copper Wire, 36AWG, 0.5m, Black, 5 pack",
@@ -24219,6 +24219,15 @@
             "rating": 3.9,
             "num_reviews": 54
         },
+        "38626": {
+            "name": "Monoprice 8K SlimRun AV Ultra High Speed HDMI Cable 20ft - AOC 48Gbps Black",
+            "price": 28.57,
+            "url": "https://www.monoprice.com/product?p_id=38626",
+            "product_id": 38626,
+            "available": true,
+            "rating": 4.3,
+            "num_reviews": 42
+        },
         "38627": {
             "name": "Monoprice 8K SlimRun AV Ultra High Speed HDMI Cable 30ft - AOC 48Gbps Black",
             "price": 119.29,
@@ -27158,7 +27167,7 @@
             "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=39666",
             "product_id": 39666,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 13
         },
@@ -45480,6 +45489,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-08T10:17:48Z"
+        "timestamp": "2023-04-08T11:15:01Z"
     }
 }
