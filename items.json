@@ -29185,7 +29185,7 @@
             "product_id": 40784,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 12
+            "num_reviews": 13
         },
         "40785": {
             "name": "DisplayPort 1.4 EasyPlug Nylon Braided Cable, 12ft, Gray",
@@ -29714,7 +29714,7 @@
             "price": 0.99,
             "url": "https://www.monoprice.com/product?p_id=41079",
             "product_id": 41079,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 244
         },
@@ -30247,7 +30247,7 @@
             "product_id": 41378,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1847
         },
         "41379": {
             "name": "Monoprice Access Series 16AWG CL2 Rated 2-Conductor Speaker Wire, 100ft, Black",
@@ -31174,7 +31174,7 @@
             "product_id": 41814,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1453
+            "num_reviews": 1457
         },
         "41815": {
             "name": "Monoprice Cat6 2ft Blue 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -31723,7 +31723,7 @@
             "product_id": 42059,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 303
+            "num_reviews": 304
         },
         "42060": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 14AWG, 15A/1875W, 3-Prong, Red, 1ft",
@@ -35222,7 +35222,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=43356",
             "product_id": 43356,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 4
         },
@@ -45498,6 +45498,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-08T17:15:55Z"
+        "timestamp": "2023-04-08T18:21:03Z"
     }
 }
