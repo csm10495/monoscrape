@@ -28184,7 +28184,7 @@
             "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=40104",
             "product_id": 40104,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 59
         },
@@ -31129,7 +31129,7 @@
             "product_id": 41810,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1453
+            "num_reviews": 1457
         },
         "41811": {
             "name": "Monoprice Cat6 6in Blue 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -31147,7 +31147,7 @@
             "product_id": 41812,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1453
+            "num_reviews": 1457
         },
         "41813": {
             "name": "Monoprice Cat6 1ft Blue 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -31219,7 +31219,7 @@
             "product_id": 41820,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1453
+            "num_reviews": 1457
         },
         "41821": {
             "name": "Monoprice Cat6 7ft Blue 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -33261,8 +33261,8 @@
             "url": "https://www.monoprice.com/product?p_id=42835",
             "product_id": 42835,
             "available": false,
-            "rating": 4.5,
-            "num_reviews": 6
+            "rating": 4.6,
+            "num_reviews": 12
         },
         "42836": {
             "name": "Monolith by Monoprice 24in Steel Speaker Stand with Adjustable Top Plate (Each)",
@@ -33333,8 +33333,8 @@
             "url": "https://www.monoprice.com/product?p_id=42843",
             "product_id": 42843,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 34
+            "rating": 4.8,
+            "num_reviews": 35
         },
         "42847": {
             "name": "Monolith by Monoprice M-12 V2 12in THX Certified Ultra 500-Watt Powered Subwoofer",
@@ -35098,7 +35098,7 @@
             "product_id": 43340,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1453
+            "num_reviews": 1457
         },
         "43341": {
             "name": "Monoprice Cat6 2ft White 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -35161,7 +35161,7 @@
             "product_id": 43349,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1453
+            "num_reviews": 1457
         },
         "43351": {
             "name": "Pure Outdoor by Monoprice 50L Zippered Waterproof Dry Bag Backpack Duffel",
@@ -45480,6 +45480,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-08T05:16:46Z"
+        "timestamp": "2023-04-08T06:21:32Z"
     }
 }
