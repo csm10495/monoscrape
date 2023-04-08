@@ -18565,7 +18565,7 @@
             "product_id": 33875,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 205
+            "num_reviews": 209
         },
         "33877": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Red",
@@ -18610,7 +18610,7 @@
             "product_id": 33881,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 205
+            "num_reviews": 209
         },
         "33882": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Light Blue",
@@ -20273,7 +20273,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=34640",
             "product_id": 34640,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 271
         },
@@ -20410,7 +20410,7 @@
             "product_id": 34779,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1453
+            "num_reviews": 1457
         },
         "34780": {
             "name": "FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 15m, Gray, 5 pack",
@@ -23182,7 +23182,7 @@
             "product_id": 38170,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 7
+            "num_reviews": 8
         },
         "38171": {
             "name": "Monoprice 75-Watt Rotary Impedance Matching Speaker Volume Control with Color Kit",
@@ -24638,7 +24638,7 @@
             "price": 5.44,
             "url": "https://www.monoprice.com/product?p_id=38823",
             "product_id": 38823,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 69
         },
@@ -25629,8 +25629,8 @@
             "url": "https://www.monoprice.com/product?p_id=39158",
             "product_id": 39158,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 8
+            "rating": 4.7,
+            "num_reviews": 9
         },
         "39159": {
             "name": "Pure Outdoor by Monoprice Emperor 20 Rotomolded Portable Cooler 5 Gal - Fits 15 Cans",
@@ -25657,7 +25657,7 @@
             "product_id": 39162,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 30
+            "num_reviews": 55
         },
         "39163": {
             "name": "Monolith by Monoprice Amplifier/Component Stand XL, Espresso",
@@ -45480,6 +45480,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-08T04:21:20Z"
+        "timestamp": "2023-04-08T05:16:46Z"
     }
 }
