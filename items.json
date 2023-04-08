@@ -774,6 +774,15 @@
             "rating": 4.9,
             "num_reviews": 1457
         },
+        "11232": {
+            "name": "Monoprice FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 100ft, Purple",
+            "price": 8.1,
+            "url": "https://www.monoprice.com/product?p_id=11232",
+            "product_id": 11232,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 1457
+        },
         "11233": {
             "name": "Monoprice Cat6 100ft White Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
             "price": 26.99,
@@ -833,7 +842,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=11239",
             "product_id": 11239,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 460
         },
@@ -961,7 +970,7 @@
             "product_id": 11257,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1453
+            "num_reviews": 1457
         },
         "11258": {
             "name": "Monoprice Cat6 14ft Yellow Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -6638,7 +6647,7 @@
             "price": 4.2,
             "url": "https://www.monoprice.com/product?p_id=14933",
             "product_id": 14933,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 378
         },
@@ -7450,7 +7459,7 @@
             "product_id": 15638,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 207
+            "num_reviews": 208
         },
         "15639": {
             "name": "Pure Outdoor by Monoprice Emperor 50 Rotomolded Portable Cooler 13.2 Gal",
@@ -8584,7 +8593,7 @@
             "product_id": 16150,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 271
+            "num_reviews": 272
         },
         "16153": {
             "name": "Monoprice 50-Watt Stereo Hybrid Tube Amplifier with Bluetooth, Line Output, and Qualcomm aptX Audio",
@@ -45498,6 +45507,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-08T20:19:55Z"
+        "timestamp": "2023-04-08T21:15:50Z"
     }
 }
