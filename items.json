@@ -16999,7 +16999,7 @@
             "product_id": 32991,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 1704
+            "num_reviews": 1705
         },
         "32993": {
             "name": "Monoprice Blackbird 5V IR Kit for Blackbird 4K HDBaseT Products",
@@ -18574,7 +18574,7 @@
             "product_id": 33877,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 205
+            "num_reviews": 212
         },
         "33878": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Silver",
@@ -18610,7 +18610,7 @@
             "product_id": 33881,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 209
+            "num_reviews": 212
         },
         "33882": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Light Blue",
@@ -18619,7 +18619,7 @@
             "product_id": 33882,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 208
+            "num_reviews": 212
         },
         "33883": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Brown",
@@ -18646,7 +18646,7 @@
             "product_id": 33885,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 205
+            "num_reviews": 212
         },
         "33886": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 0.5kg/spool, Green",
@@ -21092,7 +21092,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=35113",
             "product_id": 35113,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 7
         },
@@ -23398,7 +23398,7 @@
             "product_id": 38302,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 390
+            "num_reviews": 391
         },
         "38303": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, White",
@@ -24683,7 +24683,7 @@
             "price": 14.69,
             "url": "https://www.monoprice.com/product?p_id=38828",
             "product_id": 38828,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 69
         },
@@ -25349,7 +25349,7 @@
             "price": 89.99,
             "url": "https://www.monoprice.com/product?p_id=39021",
             "product_id": 39021,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 59
         },
@@ -27394,7 +27394,7 @@
             "product_id": 39787,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 303
+            "num_reviews": 304
         },
         "39788": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 14AWG, 15A/1875W, 3-Prong, Black, 3ft, 6-Pack",
@@ -45498,6 +45498,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-08T16:22:20Z"
+        "timestamp": "2023-04-08T17:15:55Z"
     }
 }
