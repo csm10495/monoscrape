@@ -18574,7 +18574,7 @@
             "product_id": 33871,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 205
+            "num_reviews": 212
         },
         "33875": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Pink",
@@ -23218,7 +23218,7 @@
             "product_id": 38172,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 7
+            "num_reviews": 8
         },
         "38173": {
             "name": "Monoprice 50-Watt Slider Impedance Matching Speaker Volume Control with Color Kit",
@@ -25144,7 +25144,7 @@
             "product_id": 38908,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 74
+            "num_reviews": 75
         },
         "38909": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-A Charge and Sync Nylon-Braid Cable, 6ft, Red",
@@ -45516,6 +45516,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-09T17:16:09Z"
+        "timestamp": "2023-04-09T18:21:15Z"
     }
 }
