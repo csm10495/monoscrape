@@ -29723,7 +29723,7 @@
             "price": 0.99,
             "url": "https://www.monoprice.com/product?p_id=41079",
             "product_id": 41079,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 244
         },
@@ -30409,7 +30409,7 @@
             "product_id": 41395,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1847
         },
         "41396": {
             "name": "Monoprice Access Series 16AWG CL2 Rated 2-Conductor Speaker Wire, 1000ft, Black",
@@ -33827,7 +33827,7 @@
             "price": 18.99,
             "url": "https://www.monoprice.com/product?p_id=42995",
             "product_id": 42995,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 7
         },
@@ -34504,7 +34504,7 @@
             "product_id": 43183,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 303
+            "num_reviews": 304
         },
         "43185": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 14AWG, 15A, 3-Prong, White, 6ft",
@@ -35161,7 +35161,7 @@
             "product_id": 43347,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1454
+            "num_reviews": 1457
         },
         "43348": {
             "name": "Monoprice Cat6 10ft Blue 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -35170,7 +35170,7 @@
             "product_id": 43348,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1454
+            "num_reviews": 1457
         },
         "43349": {
             "name": "Monoprice Cat6 10ft White 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -45507,6 +45507,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-09T06:22:03Z"
+        "timestamp": "2023-04-09T07:15:57Z"
     }
 }
