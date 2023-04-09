@@ -11455,7 +11455,7 @@
             "product_id": 2303,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3395
+            "num_reviews": 3396
         },
         "2304": {
             "name": "Monoprice Cat6 7ft Red Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -11464,7 +11464,7 @@
             "product_id": 2304,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3395
+            "num_reviews": 3396
         },
         "2305": {
             "name": "Monoprice Cat6 7ft Yellow Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -11617,7 +11617,7 @@
             "product_id": 2323,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3395
+            "num_reviews": 3396
         },
         "2324": {
             "name": "Monoprice Cat6 50ft Green Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -14677,7 +14677,7 @@
             "product_id": 2816,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1847
         },
         "2817": {
             "name": "Monoprice Access Series 12AWG CL2 Rated 2-Conductor Speaker Wire, 100ft, White",
@@ -38149,7 +38149,7 @@
             "product_id": 5295,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 303
+            "num_reviews": 304
         },
         "5296": {
             "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R, 16AWG, 13A/1625W, 3-Prong, Black, 1ft",
@@ -44636,7 +44636,7 @@
             "price": 139.99,
             "url": "https://www.monoprice.com/product?p_id=9723",
             "product_id": 9723,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 476
         },
@@ -45516,6 +45516,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-09T20:19:34Z"
+        "timestamp": "2023-04-09T21:15:41Z"
     }
 }
