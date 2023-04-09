@@ -13984,7 +13984,7 @@
             "product_id": 33198,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 517
+            "num_reviews": 518
         },
         "33199": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 10G, 30AWG, 25ft, Black, 5-Pack",
@@ -21913,7 +21913,7 @@
             "product_id": 38905,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 74
+            "num_reviews": 75
         },
         "38906": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-A Charge and Sync Nylon-Braid Cable, 10ft, White",
@@ -22163,7 +22163,7 @@
             "price": 89.99,
             "url": "https://www.monoprice.com/product?p_id=39021",
             "product_id": 39021,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 59
         },
@@ -22597,7 +22597,7 @@
             "product_id": 39230,
             "available": true,
             "rating": 3.6,
-            "num_reviews": 244
+            "num_reviews": 245
         },
         "39240": {
             "name": "Monoprice Bidirectional USB Type-C to DisplayPort Cable - 4K@60Hz, Black, 6ft",
@@ -42312,6 +42312,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-09T11:15:36Z"
+        "timestamp": "2023-04-09T12:32:16Z"
     }
 }
