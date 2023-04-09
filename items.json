@@ -17593,7 +17593,7 @@
             "product_id": 3352,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 45
+            "num_reviews": 46
         },
         "33534": {
             "name": "Monoprice MP Smart Wireless Keyboard for 10.5in iPad Pro, MFi Certified Smart Connector, Backlit Keyboard, Apple Pencil Holder, US English",
@@ -28870,7 +28870,7 @@
             "product_id": 4043,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1847
         },
         "40430": {
             "name": "Dark Matter by Monoprice Hyper-K Ultralight Optical Wired Gaming Mouse -  16000DPI, PixArt PMW 3389, Omron, RGB, 60g Weight",
@@ -37652,7 +37652,7 @@
             "price": 0.69,
             "url": "https://www.monoprice.com/product?p_id=4978",
             "product_id": 4978,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3039
         },
@@ -38822,7 +38822,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=5497",
             "product_id": 5497,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 407
         },
@@ -39049,7 +39049,7 @@
             "product_id": 5597,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1345
+            "num_reviews": 1347
         },
         "5598": {
             "name": "Monoprice 6ft Premium 3.5mm Stereo Male to 2RCA Male 22AWG Cable (Gold Plated) - Black",
@@ -40568,7 +40568,7 @@
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=6516",
             "product_id": 6516,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 168
         },
@@ -41387,7 +41387,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=7118",
             "product_id": 7118,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 44
         },
@@ -41767,7 +41767,7 @@
             "product_id": 7266,
             "available": true,
             "rating": 3.6,
-            "num_reviews": 244
+            "num_reviews": 245
         },
         "7267": {
             "name": "Monoprice 8P8C RJ45 Plug with Inserts for Stranded Cat6 Ethernet Cable, 100 pcs/pack",
@@ -42820,7 +42820,7 @@
             "product_id": 8138,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 159
+            "num_reviews": 160
         },
         "8139": {
             "name": "Monoprice RJ-45/RJ-11 Modular Crimping Tool",
@@ -44483,7 +44483,7 @@
             "price": 46.49,
             "url": "https://www.monoprice.com/product?p_id=953",
             "product_id": 953,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 16
         },
@@ -44863,7 +44863,7 @@
             "product_id": 9802,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1454
+            "num_reviews": 1457
         },
         "9803": {
             "name": "Monoprice Cat6 100ft Gray Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -45088,7 +45088,7 @@
             "product_id": 9828,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1454
+            "num_reviews": 1457
         },
         "9830": {
             "name": "Monoprice Cat6 2ft Red Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -45187,7 +45187,7 @@
             "product_id": 9844,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1454
+            "num_reviews": 1457
         },
         "9845": {
             "name": "Monoprice Cat6 10ft Purple Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -45196,7 +45196,7 @@
             "product_id": 9845,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1454
+            "num_reviews": 1457
         },
         "9846": {
             "name": "Monoprice Cat6 1ft Green Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -45268,7 +45268,7 @@
             "product_id": 9855,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1454
+            "num_reviews": 1457
         },
         "9856": {
             "name": "Monoprice Cat6 50ft Green Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -45507,6 +45507,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-09T02:34:38Z"
+        "timestamp": "2023-04-09T03:19:07Z"
     }
 }
