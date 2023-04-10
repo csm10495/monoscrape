@@ -10438,7 +10438,7 @@
             "product_id": 21594,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 384
+            "num_reviews": 385
         },
         "21601": {
             "name": "Monoprice Table Top for Sit-Stand Height-Adjustable Desk, 4ft Black",
@@ -10820,7 +10820,7 @@
         },
         "21794": {
             "name": "Monoprice Cat6A 1000ft Blue CMP UL Bulk Cable, TAA, Solid, UTP, 23AWG, 550MHz, 10G, Pure Bare Copper, Reel in Box, Entegrade Series Bulk Ethernet Cable",
-            "price": 451.49,
+            "price": 299.99,
             "url": "https://www.monoprice.com/product?p_id=21794",
             "product_id": 21794,
             "available": true,
@@ -11180,7 +11180,7 @@
         },
         "21974": {
             "name": "Monoprice 2-Port DisplayPort 1.2 to HDMI Multi-Stream Transport (MST) Hub",
-            "price": 51.99,
+            "price": 44.19,
             "url": "https://www.monoprice.com/product?p_id=21974",
             "product_id": 21974,
             "available": true,
@@ -11837,7 +11837,7 @@
         },
         "24182": {
             "name": "Monoprice 4K Slim Certified Premium High Speed HDMI Cable 1ft - 18Gbps Black",
-            "price": 7.99,
+            "price": 6.55,
             "url": "https://www.monoprice.com/product?p_id=24182",
             "product_id": 24182,
             "available": true,
@@ -12017,7 +12017,7 @@
         },
         "24215": {
             "name": "Monoprice Commercial Audio Metro 30W 8-inch Coax Ceiling Speaker 70V Pair (No Logo)",
-            "price": 69.99,
+            "price": 56.69,
             "url": "https://www.monoprice.com/product?p_id=24215",
             "product_id": 24215,
             "available": true,
@@ -12539,7 +12539,7 @@
         },
         "24372": {
             "name": "Monoprice Cat6A 14ft Green Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
-            "price": 9.49,
+            "price": 8.07,
             "url": "https://www.monoprice.com/product?p_id=24372",
             "product_id": 24372,
             "available": true,
@@ -12836,7 +12836,7 @@
         },
         "24441": {
             "name": "Monoprice USB Type C to HDMI 3.1 Cable - 5Gbps, 4K@30Hz, Black, 6ft",
-            "price": 23.99,
+            "price": 20.39,
             "url": "https://www.monoprice.com/product?p_id=24441",
             "product_id": 24441,
             "available": false,
@@ -12974,7 +12974,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=24465",
             "product_id": 24465,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 310
         },
@@ -13037,7 +13037,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=24587",
             "product_id": 24587,
-            "available": false,
+            "available": true,
             "rating": 4.2,
             "num_reviews": 21
         },
@@ -13785,8 +13785,8 @@
             "url": "https://www.monoprice.com/product?p_id=27404",
             "product_id": 27404,
             "available": true,
-            "rating": 5,
-            "num_reviews": 2
+            "rating": 3.7,
+            "num_reviews": 3
         },
         "27405": {
             "name": "Monoprice Thunderbolt 3 Dual HDMI 2.0 Output Adapter, 4K@60Hz",
@@ -14978,7 +14978,7 @@
         },
         "29440": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 2ft, Red, 10-Pack",
-            "price": 19.99,
+            "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=29440",
             "product_id": 29440,
             "available": true,
@@ -15156,15 +15156,6 @@
             "rating": 4.9,
             "num_reviews": 517
         },
-        "29471": {
-            "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 7ft, Multicolor, 5-Pack",
-            "price": 13.99,
-            "url": "https://www.monoprice.com/product?p_id=29471",
-            "product_id": 29471,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 517
-        },
         "29474": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 6in, Multicolor, 10-Pack",
             "price": 15.99,
@@ -15212,7 +15203,7 @@
         },
         "29479": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 7ft, Multicolor, 10-Pack",
-            "price": 25.49,
+            "price": 21.67,
             "url": "https://www.monoprice.com/product?p_id=29479",
             "product_id": 29479,
             "available": true,
@@ -45471,6 +45462,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-10T17:17:10Z"
+        "timestamp": "2023-04-10T18:22:51Z"
     }
 }
