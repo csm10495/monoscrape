@@ -30463,7 +30463,7 @@
             "product_id": 41400,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1847
         },
         "41401": {
             "name": "Monoprice Access Series 18AWG CL2 Rated 2-Conductor Speaker Wire, 500ft, Black",
@@ -32307,8 +32307,8 @@
             "url": "https://www.monoprice.com/product?p_id=42305",
             "product_id": 42305,
             "available": false,
-            "rating": 2.5,
-            "num_reviews": 2
+            "rating": 3.8,
+            "num_reviews": 15
         },
         "42306": {
             "name": "Dark Matter by Monoprice Collider TKL Gaming Keyboard - Cherry MX Brown, RGB Backlit, USB-C",
@@ -32596,7 +32596,7 @@
             "product_id": 42531,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 258
+            "num_reviews": 259
         },
         "42532": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft/3ft/6ft, Red - 3 Pack",
@@ -32623,7 +32623,7 @@
             "product_id": 42534,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 390
+            "num_reviews": 392
         },
         "42535": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Red - 3 Pack",
@@ -32659,7 +32659,7 @@
             "product_id": 42538,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 391
+            "num_reviews": 392
         },
         "42539": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C Charge and Sync Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 6ft, Red - 3 Pack",
@@ -33278,7 +33278,7 @@
             "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=42834",
             "product_id": 42834,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 20
         },
@@ -36348,8 +36348,8 @@
             "url": "https://www.monoprice.com/product?p_id=44100",
             "product_id": 44100,
             "available": false,
-            "rating": 5,
-            "num_reviews": 1
+            "rating": 4.5,
+            "num_reviews": 2
         },
         "44101": {
             "name": "Pure Outdoor by Monoprice Giant Yard Pong Game",
@@ -45516,6 +45516,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-10T13:22:04Z"
+        "timestamp": "2023-04-10T14:17:50Z"
     }
 }
