@@ -6302,7 +6302,7 @@
         },
         "148": {
             "name": "Monoprice Cat5e 100ft White Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
-            "price": 19.99,
+            "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=148",
             "product_id": 148,
             "available": true,
@@ -8141,7 +8141,7 @@
             "price": 13.99,
             "url": "https://www.monoprice.com/product?p_id=1591",
             "product_id": 1591,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 12
         },
@@ -10251,15 +10251,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "2152": {
-            "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 25ft, Green",
-            "price": 3.59,
-            "url": "https://www.monoprice.com/product?p_id=2152",
-            "product_id": 2152,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 3039
-        },
         "21531": {
             "name": "Monoprice Replacement 3D Printer Extruder for the MP Select Mini (15365 and 21711) and the MP Select Mini PRO (33012) 3D Printers",
             "price": 37.99,
@@ -10808,15 +10799,6 @@
             "available": true,
             "rating": 4.8,
             "num_reviews": 158
-        },
-        "2169": {
-            "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 100ft, Purple",
-            "price": 19.99,
-            "url": "https://www.monoprice.com/product?p_id=2169",
-            "product_id": 2169,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 3039
         },
         "2170": {
             "name": "Monoprice 6ft VGA to 3 RCA Component Video Cable (HD15 - 3-RCA)",
@@ -11372,7 +11354,7 @@
             "price": 0.99,
             "url": "https://www.monoprice.com/product?p_id=2294",
             "product_id": 2294,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3396
         },
@@ -11615,7 +11597,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=2323",
             "product_id": 2323,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3396
         },
@@ -14627,7 +14609,7 @@
         },
         "2794": {
             "name": "Monoprice Choice Series 16AWG Oxygen-Free Pure Bare Copper Speaker Wire, 300ft",
-            "price": 79.99,
+            "price": 67.99,
             "url": "https://www.monoprice.com/product?p_id=2794",
             "product_id": 2794,
             "available": true,
@@ -28793,7 +28775,7 @@
         },
         "4041": {
             "name": "Monoprice Access Series 16AWG CL2 Rated 4-Conductor Speaker Wire, 100ft, White",
-            "price": 49.99,
+            "price": 42.49,
             "url": "https://www.monoprice.com/product?p_id=4041",
             "product_id": 4041,
             "available": true,
@@ -37154,7 +37136,7 @@
         },
         "4765": {
             "name": "Monoprice 35ft Premier Series XLR Male to 1/4in TRS Male Cable, 16AWG (Gold Plated)",
-            "price": 29.99,
+            "price": 25.49,
             "url": "https://www.monoprice.com/product?p_id=4765",
             "product_id": 4765,
             "available": false,
@@ -37292,7 +37274,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=4779",
             "product_id": 4779,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 205
         },
@@ -37653,15 +37635,6 @@
             "url": "https://www.monoprice.com/product?p_id=4977",
             "product_id": 4977,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 3039
-        },
-        "4978": {
-            "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 0.5ft, Orange",
-            "price": 0.69,
-            "url": "https://www.monoprice.com/product?p_id=4978",
-            "product_id": 4978,
-            "available": false,
             "rating": 4.9,
             "num_reviews": 3039
         },
@@ -38653,7 +38626,7 @@
             "product_id": 5441,
             "available": true,
             "rating": 5,
-            "num_reviews": 320
+            "num_reviews": 321
         },
         "5442": {
             "name": "Monoprice USB-A to USB-A 2.0 Cable - 28/24AWG, Gold Plated, Black, 3ft",
@@ -38984,7 +38957,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=5583",
             "product_id": 5583,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 1087
         },
@@ -39485,7 +39458,7 @@
         },
         "5921": {
             "name": "Monoprice EZ Series Full-Motion Articulating TV Wall Mount Bracket - For LED TVs 23in to 40in, Max Weight 80 lbs, Extension Range of 3.0in to 24.0in, VESA Patterns Up to 200x200",
-            "price": 59.99,
+            "price": 50.99,
             "url": "https://www.monoprice.com/product?p_id=5921",
             "product_id": 5921,
             "available": true,
@@ -40568,7 +40541,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=650",
             "product_id": 650,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 873
         },
@@ -41270,7 +41243,7 @@
             "price": 13.99,
             "url": "https://www.monoprice.com/product?p_id=6990",
             "product_id": 6990,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 65
         },
@@ -41843,7 +41816,7 @@
         },
         "7280": {
             "name": "Monoprice 8P8C RJ45 Straight Inline Coupler, Beige",
-            "price": 0.99,
+            "price": 0.69,
             "url": "https://www.monoprice.com/product?p_id=7280",
             "product_id": 7280,
             "available": true,
@@ -42113,7 +42086,7 @@
         },
         "7498": {
             "name": "Monoprice Cat6 6in Black Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
-            "price": 1.29,
+            "price": 0.79,
             "url": "https://www.monoprice.com/product?p_id=7498",
             "product_id": 7498,
             "available": true,
@@ -42608,7 +42581,7 @@
         },
         "7844": {
             "name": "Monoprice EZ Series Full-Motion Articulating TV Wall Mount Bracket - For Flat Screen TVs 10in to 24in, Max Weight 30 lbs, Extension Range of 3.1in to 11.0in, VESA Patterns Up to 100x100, Rotating",
-            "price": 34.99,
+            "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=7844",
             "product_id": 7844,
             "available": true,
@@ -42680,7 +42653,7 @@
         },
         "8095": {
             "name": "Monoprice Commercial Series Low Profile Full-Motion Articulating TV Wall Mount Bracket For TVs 13in to 27in, Max Weight 33lbs, Extension Range 1.8in to 3.9in, VESA Patterns Up to 100x100, UL Certified",
-            "price": 19.99,
+            "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=8095",
             "product_id": 8095,
             "available": true,
@@ -42698,7 +42671,7 @@
         },
         "8100": {
             "name": "Monoprice Commercial Series Full-Motion Articulating TV Wall Mount Bracket For LED TVs 23in to 42in, Max Weight 44 lbs., Extension Range of 1.8in to 13.0in, VESA Patterns Up to 200x200, UL Certified",
-            "price": 26.99,
+            "price": 24.29,
             "url": "https://www.monoprice.com/product?p_id=8100",
             "product_id": 8100,
             "available": true,
@@ -42788,7 +42761,7 @@
         },
         "8121": {
             "name": "Monoprice HDMI Extender Using Cat5e or CAT6 Cable, Extend Up to 98ft",
-            "price": 24.99,
+            "price": 21.24,
             "url": "https://www.monoprice.com/product?p_id=8121",
             "product_id": 8121,
             "available": true,
@@ -44066,7 +44039,7 @@
         },
         "9202": {
             "name": "Monoprice 12 Outlet Power Surge Protector with 2 Built-In USB Charger Ports - 3420 Joules",
-            "price": 42.99,
+            "price": 36.54,
             "url": "https://www.monoprice.com/product?p_id=9202",
             "product_id": 9202,
             "available": true,
@@ -44393,7 +44366,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=9447",
             "product_id": 9447,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 210
         },
@@ -44699,7 +44672,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=9768",
             "product_id": 9768,
-            "available": false,
+            "available": true,
             "rating": 4,
             "num_reviews": 397
         },
@@ -44717,7 +44690,7 @@
             "price": 3.19,
             "url": "https://www.monoprice.com/product?p_id=9780",
             "product_id": 9780,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 91
         },
@@ -45516,6 +45489,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-10T15:18:16Z"
+        "timestamp": "2023-04-10T16:24:09Z"
     }
 }
