@@ -28328,7 +28328,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=40136",
             "product_id": 40136,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -29714,7 +29714,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=41080",
             "product_id": 41080,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 14
         },
@@ -30431,7 +30431,7 @@
         },
         "41400": {
             "name": "Monoprice Access Series 12AWG CL2 Rated 2-Conductor Speaker Wire, 1000ft, Black",
-            "price": 445.99,
+            "price": 379.09,
             "url": "https://www.monoprice.com/product?p_id=41400",
             "product_id": 41400,
             "available": true,
@@ -30713,7 +30713,7 @@
             "price": 23.99,
             "url": "https://www.monoprice.com/product?p_id=41639",
             "product_id": 41639,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 127
         },
@@ -31010,7 +31010,7 @@
             "price": 10.49,
             "url": "https://www.monoprice.com/product?p_id=41731",
             "product_id": 41731,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 87
         },
@@ -31115,7 +31115,7 @@
         },
         "41809": {
             "name": "Monoprice USB-C Power Strip Pad, 2 Outlets and 57W 3 USB (2x 12W USB Type-A, 1x 45W USB-C) with 5-Foot Extension Cord, Compact Travel Size, for MacBook Pro, iPad Pro, iPhone, and Galaxy",
-            "price": 34.99,
+            "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=41809",
             "product_id": 41809,
             "available": true,
@@ -31205,7 +31205,7 @@
         },
         "41819": {
             "name": "Monoprice Cat6 5ft Blue 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
-            "price": 23.99,
+            "price": 20.39,
             "url": "https://www.monoprice.com/product?p_id=41819",
             "product_id": 41819,
             "available": true,
@@ -32024,7 +32024,7 @@
         },
         "42156": {
             "name": "Flat Adhesive Super Slim Micro Speaker Wire - Two 18AWG Conductors, 50ft",
-            "price": 31.49,
+            "price": 26.77,
             "url": "https://www.monoprice.com/product?p_id=42156",
             "product_id": 42156,
             "available": true,
@@ -32280,8 +32280,8 @@
             "url": "https://www.monoprice.com/product?p_id=42305",
             "product_id": 42305,
             "available": false,
-            "rating": 3.8,
-            "num_reviews": 15
+            "rating": 3.7,
+            "num_reviews": 16
         },
         "42306": {
             "name": "Dark Matter by Monoprice Collider TKL Gaming Keyboard - Cherry MX Brown, RGB Backlit, USB-C",
@@ -32339,7 +32339,7 @@
         },
         "42346": {
             "name": "Monoprice Cat6A 500ft Purple CMR UL Bulk Cable, TAA, Shielded (F/UTP), Solid, 23AWG, 550MHz, 10G, Pure Bare Copper, Reel in Box, Bulk Ethernet Cable",
-            "price": 129.99,
+            "price": 119.99,
             "url": "https://www.monoprice.com/product?p_id=42346",
             "product_id": 42346,
             "available": true,
@@ -32576,9 +32576,9 @@
             "price": 17.99,
             "url": "https://www.monoprice.com/product?p_id=42532",
             "product_id": 42532,
-            "available": true,
+            "available": false,
             "rating": 4.8,
-            "num_reviews": 258
+            "num_reviews": 259
         },
         "42533": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Black - 3 Pack",
@@ -33086,7 +33086,7 @@
         },
         "42762": {
             "name": "Workstream by Monoprice WFH Ergonomic Office Chair with Mesh Seat, Lumbar Support, Adjustable Armrests, Backrest, and Headrest",
-            "price": 199.99,
+            "price": 169.99,
             "url": "https://www.monoprice.com/product?p_id=42762",
             "product_id": 42762,
             "available": true,
@@ -33185,7 +33185,7 @@
         },
         "42826": {
             "name": "Monoprice 1U 19in Metal Rackmount Cable Management Panel",
-            "price": 9.99,
+            "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=42826",
             "product_id": 42826,
             "available": true,
@@ -33842,7 +33842,7 @@
         },
         "42999": {
             "name": "Monoprice 8K DisplayPort 2.0 Cable, 10ft, 5 Pack",
-            "price": 79.99,
+            "price": 67.99,
             "url": "https://www.monoprice.com/product?p_id=42999",
             "product_id": 42999,
             "available": true,
@@ -34000,7 +34000,7 @@
             "product_id": 43072,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 55
+            "num_reviews": 56
         },
         "43073": {
             "name": "Monoprice Cat6 1ft White Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series  Ethernet Cable",
@@ -34062,15 +34062,6 @@
             "url": "https://www.monoprice.com/product?p_id=43079",
             "product_id": 43079,
             "available": true,
-            "rating": 4.7,
-            "num_reviews": 55
-        },
-        "43080": {
-            "name": "Monoprice Flexboot Cat6 Ethernet Patch Cable - Snagless RJ45, Flat, 550MHz, UTP, Pure Bare Copper Wire, 30AWG, 20ft, White",
-            "price": 3.99,
-            "url": "https://www.monoprice.com/product?p_id=43080",
-            "product_id": 43080,
-            "available": false,
             "rating": 4.7,
             "num_reviews": 55
         },
@@ -34495,7 +34486,7 @@
             "product_id": 43185,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 303
+            "num_reviews": 304
         },
         "43186": {
             "name": "Monoprice Heavy Duty Power Cord - NEMA 5-15P to IEC 60320 C15, 14AWG, 15A, SJT, 125V, White, 3ft",
@@ -34589,7 +34580,7 @@
         },
         "43199": {
             "name": "Monoprice Commercial Series Full-Motion Articulating TV Wall Mount Bracket For TVs 32in to 70in, Max Weight 88 lbs, Extension Range 2.4in to 18.4in, VESA Up to 400x400, Rotating, Fits Curved Screens",
-            "price": 39.99,
+            "price": 33.99,
             "url": "https://www.monoprice.com/product?p_id=43199",
             "product_id": 43199,
             "available": true,
@@ -34646,7 +34637,7 @@
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=43208",
             "product_id": 43208,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 9
         },
@@ -34670,7 +34661,7 @@
         },
         "43212": {
             "name": "Monoprice Commercial Series Full-Motion Modular TV Wall Mount Bracket For TVs 13in to 27in, Max Weight 44 lbs, Extension Range of 3.3in to 10.4in, VESA Patterns Up to 100x100, Rotating",
-            "price": 24.99,
+            "price": 22.49,
             "url": "https://www.monoprice.com/product?p_id=43212",
             "product_id": 43212,
             "available": true,
@@ -34754,7 +34745,7 @@
             "price": 21.99,
             "url": "https://www.monoprice.com/product?p_id=43221",
             "product_id": 43221,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 27
         },
@@ -34823,7 +34814,7 @@
         },
         "43239": {
             "name": "Monoprice SonicSolace II Active Noise Cancelling (ANC) Over Ear Headphone",
-            "price": 69.99,
+            "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=43239",
             "product_id": 43239,
             "available": true,
@@ -34873,7 +34864,7 @@
             "product_id": 43244,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 4
+            "num_reviews": 5
         },
         "43245": {
             "name": "Monoprice Bluetooth 5 Receiver with Mic Input",
@@ -34971,8 +34962,8 @@
             "url": "https://www.monoprice.com/product?p_id=43261",
             "product_id": 43261,
             "available": true,
-            "rating": 3.9,
-            "num_reviews": 10
+            "rating": 4,
+            "num_reviews": 11
         },
         "43262": {
             "name": "Monoprice Harmony Capsule 200 Portable Bluetooth Speaker",
@@ -35134,7 +35125,7 @@
             "product_id": 43345,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1455
+            "num_reviews": 1457
         },
         "43347": {
             "name": "Monoprice Cat6 10ft Black 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -36272,7 +36263,7 @@
         },
         "44094": {
             "name": "Pure Outdoor by Monoprice Apple Watch Paracord Survival Bracelet with stainless steel clasp fits 42mm, and 44mm Apple watches",
-            "price": 17.99,
+            "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=44094",
             "product_id": 44094,
             "available": true,
@@ -36299,7 +36290,7 @@
         },
         "44098": {
             "name": "Pure Outdoor by Monoprice Tactical 11 in 1 multi-Functional Survival Shovel 30 inch with Ballistic carry bag",
-            "price": 39.99,
+            "price": 35.99,
             "url": "https://www.monoprice.com/product?p_id=44098",
             "product_id": 44098,
             "available": true,
@@ -36446,7 +36437,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=44317",
             "product_id": 44317,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -45480,6 +45471,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-10T19:18:19Z"
+        "timestamp": "2023-04-10T20:22:05Z"
     }
 }
