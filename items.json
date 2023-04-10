@@ -16018,7 +16018,7 @@
             "product_id": 30766,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 196
+            "num_reviews": 197
         },
         "30767": {
             "name": "Monoprice Palette Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 1.5ft Red",
@@ -18619,7 +18619,7 @@
             "product_id": 33880,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 205
+            "num_reviews": 212
         },
         "33881": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Green",
@@ -23209,7 +23209,7 @@
             "product_id": 38171,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 7
+            "num_reviews": 8
         },
         "38172": {
             "name": "Monoprice 100-Watt Rotary Impedance Matching Speaker Volume Control with Color Kit",
@@ -23803,7 +23803,7 @@
             "product_id": 38391,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 36
+            "num_reviews": 37
         },
         "38393": {
             "name": "Monoprice Nylon Braided USB-C To Lightning Cable - 3 Feet - Red ( MFI Certified ) Flexible, Durable, Fast Charging, Compatible with Apple iPhone 13 / Pro / Pro Max / AirPods Pro - AtlasFlex Series",
@@ -25189,7 +25189,7 @@
             "product_id": 38913,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 74
+            "num_reviews": 76
         },
         "38914": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-A Charge and Sync Nylon-Braid Cable, 10ft, Blue",
@@ -45516,6 +45516,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-09T23:18:07Z"
+        "timestamp": "2023-04-10T01:18:49Z"
     }
 }
