@@ -16016,7 +16016,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=30771",
             "product_id": 30771,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 198
         },
@@ -16153,7 +16153,7 @@
             "product_id": 30947,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 29
+            "num_reviews": 30
         },
         "30949": {
             "name": "Monoprice Wii to HDMI Converter-White",
@@ -16630,7 +16630,7 @@
             "product_id": 31204,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 258
+            "num_reviews": 259
         },
         "31219": {
             "name": "Monoprice OM4 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, 10GB, LSZH, Purple, 2m, Corning",
@@ -17016,8 +17016,8 @@
             "url": "https://www.monoprice.com/product?p_id=33049",
             "product_id": 33049,
             "available": true,
-            "rating": 3.8,
-            "num_reviews": 39
+            "rating": 3.9,
+            "num_reviews": 40
         },
         "33085": {
             "name": "Monoprice 3-piece Desktop for Motorized and Manual-Crank Height Adjustable Desks, Black",
@@ -17186,13 +17186,13 @@
             "price": 32.49,
             "url": "https://www.monoprice.com/product?p_id=33218",
             "product_id": 33218,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 517
         },
         "33225": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 10G, 30AWG, 50ft, Blue, 5-Pack",
-            "price": 46.99,
+            "price": 39.94,
             "url": "https://www.monoprice.com/product?p_id=33225",
             "product_id": 33225,
             "available": true,
@@ -17219,7 +17219,7 @@
         },
         "33236": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 10G, 30AWG, 25ft, Blue, 10-Pack",
-            "price": 54.99,
+            "price": 46.74,
             "url": "https://www.monoprice.com/product?p_id=33236",
             "product_id": 33236,
             "available": true,
@@ -17654,7 +17654,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=33564",
             "product_id": 33564,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 352
         },
@@ -18392,13 +18392,13 @@
             "price": 88.99,
             "url": "https://www.monoprice.com/product?p_id=33833",
             "product_id": 33833,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 54
         },
         "33834": {
             "name": "Monoprice BT-300ANC Bluetooth Wireless Over Ear Headphones with Active Noise Cancelling (ANC) and Qualcomm aptX Audio",
-            "price": 42.99,
+            "price": 37.99,
             "url": "https://www.monoprice.com/product?p_id=33834",
             "product_id": 33834,
             "available": true,
@@ -18592,7 +18592,7 @@
             "product_id": 33882,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 212
+            "num_reviews": 213
         },
         "33883": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Brown",
@@ -19073,7 +19073,7 @@
         },
         "34206": {
             "name": "Monoprice 4K Slim Certified Premium High Speed HDMI Cable 6ft - 18Gbps Black - 5 Pack",
-            "price": 58.99,
+            "price": 50.14,
             "url": "https://www.monoprice.com/product?p_id=34206",
             "product_id": 34206,
             "available": true,
@@ -19085,7 +19085,7 @@
             "price": 17.29,
             "url": "https://www.monoprice.com/product?p_id=34207",
             "product_id": 34207,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 1704
         },
@@ -19388,7 +19388,7 @@
         },
         "34302": {
             "name": "Workstream by Monoprice Single Monitor Low Profile Flat-Clamp Mount for Screens Up to 32in",
-            "price": 34.99,
+            "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=34302",
             "product_id": 34302,
             "available": true,
@@ -19424,7 +19424,7 @@
         },
         "34306": {
             "name": "Monoprice Affinity Premium 14AWG Braided Speaker Wire with Gold Plated Banana Plug Connectors, 6ft 2-Pack",
-            "price": 27.49,
+            "price": 23.37,
             "url": "https://www.monoprice.com/product?p_id=34306",
             "product_id": 34306,
             "available": true,
@@ -19679,7 +19679,7 @@
             "price": 11.93,
             "url": "https://www.monoprice.com/product?p_id=34418",
             "product_id": 34418,
-            "available": true,
+            "available": false,
             "rating": 2.7,
             "num_reviews": 3
         },
@@ -20306,7 +20306,7 @@
         },
         "34710": {
             "name": "Monoprice SB-100 2.1-ch 36in Soundbar with Built-In Subwoofer, Bluetooth, Optical Input, and Remote Control",
-            "price": 69.99,
+            "price": 52.99,
             "url": "https://www.monoprice.com/product?p_id=34710",
             "product_id": 34710,
             "available": true,
@@ -20432,7 +20432,7 @@
         },
         "34788": {
             "name": "SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, S/STP, Pure Bare Copper Wire, 36AWG, 1m, White, 5 pack",
-            "price": 19.99,
+            "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=34788",
             "product_id": 34788,
             "available": true,
@@ -21674,7 +21674,7 @@
         },
         "35811": {
             "name": "Stage Right by Monoprice On Tour Cables - XLR Male to RCA Male, 24AWG, Black, 1ft",
-            "price": 7.99,
+            "price": 6.79,
             "url": "https://www.monoprice.com/product?p_id=35811",
             "product_id": 35811,
             "available": true,
@@ -21751,7 +21751,7 @@
             "product_id": 35944,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 103
+            "num_reviews": 104
         },
         "35995": {
             "name": "Monoprice 19in Blank Fiber Patch Panel 3LGX Cassettes 1U",
@@ -21827,7 +21827,7 @@
         },
         "36081": {
             "name": "Workstream by Monoprice Adjustable Gas Spring 1-Segment Wall Mount for Monitors Up To 27in",
-            "price": 39.99,
+            "price": 33.99,
             "url": "https://www.monoprice.com/product?p_id=36081",
             "product_id": 36081,
             "available": true,
@@ -21971,7 +21971,7 @@
         },
         "36212": {
             "name": "Monoprice Cat6 14ft Black Outdoor Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Molded Snagless RJ45, Zeroboot Series Ethernet Cable",
-            "price": 8.99,
+            "price": 7.64,
             "url": "https://www.monoprice.com/product?p_id=36212",
             "product_id": 36212,
             "available": true,
@@ -22247,6 +22247,15 @@
             "available": true,
             "rating": 4.7,
             "num_reviews": 98
+        },
+        "36431": {
+            "name": "Who Would Beat Who Game, Mash Ups",
+            "price": 9.99,
+            "url": "https://www.monoprice.com/product?p_id=36431",
+            "product_id": 36431,
+            "available": false,
+            "rating": 0,
+            "num_reviews": 0
         },
         "3644": {
             "name": "Monoprice High Speed HDMI Cable with HDMI Mini Connector - 4K@24Hz, 10.2Gbps, 30AWG, 3ft, Black",
@@ -22664,7 +22673,7 @@
         },
         "37884": {
             "name": "Pure Outdoor by Monoprice Giant Tumbling Tower Game",
-            "price": 64.99,
+            "price": 51.99,
             "url": "https://www.monoprice.com/product?p_id=37884",
             "product_id": 37884,
             "available": true,
@@ -23393,7 +23402,7 @@
         },
         "38305": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Blue",
-            "price": 14.99,
+            "price": 8.5,
             "url": "https://www.monoprice.com/product?p_id=38305",
             "product_id": 38305,
             "available": true,
@@ -23528,7 +23537,7 @@
         },
         "38323": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Purple",
-            "price": 9.99,
+            "price": 8.09,
             "url": "https://www.monoprice.com/product?p_id=38323",
             "product_id": 38323,
             "available": true,
@@ -23627,7 +23636,7 @@
         },
         "38335": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Micro B to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Purple",
-            "price": 7.19,
+            "price": 6.11,
             "url": "https://www.monoprice.com/product?p_id=38335",
             "product_id": 38335,
             "available": true,
@@ -23717,7 +23726,7 @@
         },
         "38382": {
             "name": "Monoprice USB C To Lightning Cable - 1.5 Feet - White ( MFI Certified ) Fast Charging, Compatible with Apple iPhone 13 / Pro / Pro Max / AirPods Pro - Select Series",
-            "price": 14.99,
+            "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=38382",
             "product_id": 38382,
             "available": true,
@@ -23785,7 +23794,7 @@
             "product_id": 38401,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 14
+            "num_reviews": 15
         },
         "38403": {
             "name": "Monoprice Cabernet Series Apple MFi Certified Flat Lightning to USB Type-C Rapid Charge and Sync Cable, 6ft Gray",
@@ -23822,6 +23831,15 @@
             "available": true,
             "rating": 4.9,
             "num_reviews": 1847
+        },
+        "38449": {
+            "name": "Monoprice Single-Mode Fiber Optic Cable - LC/LC, 9/125 Type, Duplex, Yellow, 1m",
+            "price": 2.89,
+            "url": "https://www.monoprice.com/product?p_id=38449",
+            "product_id": 38449,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 1
         },
         "3845": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 2-Conductor Speaker Wire, 500ft, White",
@@ -24549,8 +24567,8 @@
             "url": "https://www.monoprice.com/product?p_id=38814",
             "product_id": 38814,
             "available": false,
-            "rating": 4.3,
-            "num_reviews": 71
+            "rating": 4.4,
+            "num_reviews": 72
         },
         "38815": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 1.5ft, Blue",
@@ -24638,9 +24656,9 @@
             "price": 24.49,
             "url": "https://www.monoprice.com/product?p_id=38826",
             "product_id": 38826,
-            "available": false,
-            "rating": 4.3,
-            "num_reviews": 71
+            "available": true,
+            "rating": 4.4,
+            "num_reviews": 72
         },
         "38827": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 3ft, White, 3-Pack",
@@ -24648,8 +24666,8 @@
             "url": "https://www.monoprice.com/product?p_id=38827",
             "product_id": 38827,
             "available": true,
-            "rating": 4.3,
-            "num_reviews": 69
+            "rating": 4.4,
+            "num_reviews": 72
         },
         "38828": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 6ft, White, 3-Pack",
@@ -24665,7 +24683,7 @@
             "price": 13.99,
             "url": "https://www.monoprice.com/product?p_id=38831",
             "product_id": 38831,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 69
         },
@@ -24827,7 +24845,7 @@
             "price": 3.59,
             "url": "https://www.monoprice.com/product?p_id=38858",
             "product_id": 38858,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 56
         },
@@ -25076,7 +25094,7 @@
         },
         "38906": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-A Charge and Sync Nylon-Braid Cable, 10ft, White",
-            "price": 7.99,
+            "price": 6.79,
             "url": "https://www.monoprice.com/product?p_id=38906",
             "product_id": 38906,
             "available": true,
@@ -25148,7 +25166,7 @@
         },
         "38914": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-A Charge and Sync Nylon-Braid Cable, 10ft, Blue",
-            "price": 11.49,
+            "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=38914",
             "product_id": 38914,
             "available": true,
@@ -25157,7 +25175,7 @@
         },
         "38915": {
             "name": "Monoprice Select Charge \u0026 Sync Type-C to Type-C Cable, USB 2.0, TPE Jacket, Up to 3A/60W, 1.5ft, Black\\",
-            "price": 8.99,
+            "price": 7.64,
             "url": "https://www.monoprice.com/product?p_id=38915",
             "product_id": 38915,
             "available": true,
@@ -25315,14 +25333,14 @@
             "product_id": 39020,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 59
+            "num_reviews": 60
         },
         "39021": {
             "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam, 22 x 14 x 8 in, OD Green",
             "price": 89.99,
             "url": "https://www.monoprice.com/product?p_id=39021",
             "product_id": 39021,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 59
         },
@@ -26152,11 +26170,11 @@
             "product_id": 39475,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 55
+            "num_reviews": 56
         },
         "39476": {
             "name": "Monoprice 8K Slim Ultra High Speed HDMI Cable 2ft - 48Gbps Black",
-            "price": 9.49,
+            "price": 8.07,
             "url": "https://www.monoprice.com/product?p_id=39476",
             "product_id": 39476,
             "available": true,
@@ -26222,7 +26240,7 @@
             "price": 58.99,
             "url": "https://www.monoprice.com/product?p_id=39483",
             "product_id": 39483,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 264
         },
@@ -26321,7 +26339,7 @@
             "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=39499",
             "product_id": 39499,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 6
         },
@@ -26723,7 +26741,7 @@
         },
         "39555": {
             "name": "Monoprice 4K High Speed HDMI Cable 20ft - 18Gbps Black - 3 Pack",
-            "price": 64.99,
+            "price": 55.24,
             "url": "https://www.monoprice.com/product?p_id=39555",
             "product_id": 39555,
             "available": true,
@@ -26750,7 +26768,7 @@
         },
         "39572": {
             "name": "Monoprice 4K Slim High Speed HDMI Cable 6ft - 18Gbps Black - 3 Pack",
-            "price": 30.99,
+            "price": 26.34,
             "url": "https://www.monoprice.com/product?p_id=39572",
             "product_id": 39572,
             "available": true,
@@ -27038,7 +27056,7 @@
         },
         "39655": {
             "name": "Monoprice Commercial Series Adjustable Folding Ceiling TV Mount for LED TVs 10in to 40in, Max Weight up to 66 lbs., Max Extension 15.7in, VESA Patterns up to 100x100",
-            "price": 59.99,
+            "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=39655",
             "product_id": 39655,
             "available": true,
@@ -27092,7 +27110,7 @@
         },
         "39661": {
             "name": "Monoprice Commercial Series 2x1 Display Adjustable Tilt Menu Board TV Wall Mount for LED Screens between 32in to 65in, Max Weight 66 lbs, VESA Patterns up to 600x400",
-            "price": 249.99,
+            "price": 199.99,
             "url": "https://www.monoprice.com/product?p_id=39661",
             "product_id": 39661,
             "available": true,
@@ -27218,7 +27236,7 @@
         },
         "39758": {
             "name": "Monoprice Cat6 19in 1U Patch Panel with Loaded Keystone, 24 ports",
-            "price": 66.49,
+            "price": 56.52,
             "url": "https://www.monoprice.com/product?p_id=39758",
             "product_id": 39758,
             "available": true,
@@ -27281,7 +27299,7 @@
         },
         "39778": {
             "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 16AWG, 13A/1625W, 3-Prong, SJT, Black, 6ft, 6-Pack",
-            "price": 27.99,
+            "price": 23.79,
             "url": "https://www.monoprice.com/product?p_id=39778",
             "product_id": 39778,
             "available": true,
@@ -27479,7 +27497,7 @@
         },
         "39904": {
             "name": "Monoprice USB Type-A to Micro Type-B 2.0 Cable - 5-Pin 28/28AWG Black 3ft, 5-Pack",
-            "price": 8.99,
+            "price": 7.64,
             "url": "https://www.monoprice.com/product?p_id=39904",
             "product_id": 39904,
             "available": true,
@@ -27731,7 +27749,7 @@
         },
         "39937": {
             "name": "Junction Box for 4MP Varifocal Dome Camera (compatible with Monoprice 18637 and Hikvision DS-2CD2742FWD-IZS)",
-            "price": 21.99,
+            "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=39937",
             "product_id": 39937,
             "available": false,
@@ -45462,6 +45480,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-10T18:22:51Z"
+        "timestamp": "2023-04-10T19:18:19Z"
     }
 }
