@@ -122,7 +122,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=10147",
             "product_id": 10147,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 159
         },
@@ -161,6 +161,15 @@
             "available": true,
             "rating": 4.4,
             "num_reviews": 371
+        },
+        "10158": {
+            "name": "Monoprice Kidz Cover and Stand for iPad mini - Black",
+            "price": 7.3,
+            "url": "https://www.monoprice.com/product?p_id=10158",
+            "product_id": 10158,
+            "available": true,
+            "rating": 4,
+            "num_reviews": 3
         },
         "10223": {
             "name": "Monoprice Recessed Full-Motion Articulating TV Wall Mount Bracket - For LED TVs 32in to 60in, Max Weight 200 lbs, Extension Range of 4.4in to 29.8in, VESA Patterns Up to 600x400",
@@ -961,7 +970,7 @@
             "product_id": 11258,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1455
+            "num_reviews": 1457
         },
         "11259": {
             "name": "Monoprice Cat6A 14ft Blue Patch Cable,  Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Molded RJ45, Entegrade Series Ethernet Cable",
@@ -986,7 +995,7 @@
             "price": 0.99,
             "url": "https://www.monoprice.com/product?p_id=11261",
             "product_id": 11261,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 460
         },
@@ -2392,7 +2401,7 @@
             "product_id": 12277,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 6
+            "num_reviews": 7
         },
         "12278": {
             "name": "Monoprice EZ Series Low Profile Fixed TV Wall Mount Bracket for Wide Screen TVs 60in to 100in, Max Weight 220 lbs, VESA Patterns Up to 900x600, Works with Concrete and Brick, UL Certified",
@@ -2689,7 +2698,7 @@
             "product_id": 12735,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 423
+            "num_reviews": 425
         },
         "12736": {
             "name": "Monoprice 4K High Speed HDMI Cable 35ft - CL2 In Wall Rated 18Gbps Active Black",
@@ -4334,7 +4343,7 @@
             "price": 3.29,
             "url": "https://www.monoprice.com/product?p_id=13533",
             "product_id": 13533,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 271
         },
@@ -4632,8 +4641,8 @@
             "url": "https://www.monoprice.com/product?p_id=13614",
             "product_id": 13614,
             "available": true,
-            "rating": 4.5,
-            "num_reviews": 49
+            "rating": 4.6,
+            "num_reviews": 50
         },
         "13615": {
             "name": "Monoprice 6.5in Weatherproof 2-Way Speakers with Wall Mount Bracket (Pair White)",
@@ -4768,7 +4777,7 @@
             "product_id": 13674,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 86
+            "num_reviews": 87
         },
         "13675": {
             "name": "Monoprice Cat6 500ft White CMR UL Bulk Cable, Solid (w/spine), UTP, 23AWG, 550MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
@@ -4805,6 +4814,15 @@
             "available": true,
             "rating": 4.9,
             "num_reviews": 33
+        },
+        "13679": {
+            "name": "Monoprice Cat5e Ethernet Bulk Cable - Solid, 350MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 24AWG, 500ft, White (UL)",
+            "price": 44.99,
+            "url": "https://www.monoprice.com/product?p_id=13679",
+            "product_id": 13679,
+            "available": false,
+            "rating": 4.8,
+            "num_reviews": 34
         },
         "13680": {
             "name": "Monoprice Cat5e 250ft Blue CMR UL Bulk Cable, UTP, Solid, 24AWG, 350MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
@@ -5594,7 +5612,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=13929",
             "product_id": 13929,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 658
         },
@@ -5882,7 +5900,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=14305",
             "product_id": 14305,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 165
         },
@@ -6183,14 +6201,32 @@
             "rating": 4.9,
             "num_reviews": 3039
         },
+        "14760": {
+            "name": "Monoprice Cat6 Ethernet Bulk Cable - Stranded, 550MHz, UTP, CM, Pure Bare Copper Wire, 24AWG, 250ft, Black",
+            "price": 35.99,
+            "url": "https://www.monoprice.com/product?p_id=14760",
+            "product_id": 14760,
+            "available": true,
+            "rating": 4.5,
+            "num_reviews": 60
+        },
+        "14767": {
+            "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Black, (UL)",
+            "price": 39.99,
+            "url": "https://www.monoprice.com/product?p_id=14767",
+            "product_id": 14767,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 89
+        },
         "14772": {
             "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Orange, (UL)",
             "price": 32.99,
             "url": "https://www.monoprice.com/product?p_id=14772",
             "product_id": 14772,
             "available": true,
-            "rating": 4.7,
-            "num_reviews": 88
+            "rating": 4.6,
+            "num_reviews": 89
         },
         "14774": {
             "name": "Monoprice Cat5e 250ft Blue CMR UL Bulk Cable, UTP, Solid, 24AWG, 350MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
@@ -6305,7 +6341,7 @@
             "price": 2.79,
             "url": "https://www.monoprice.com/product?p_id=14803",
             "product_id": 14803,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 271
         },
@@ -6629,7 +6665,7 @@
             "price": 4.2,
             "url": "https://www.monoprice.com/product?p_id=14933",
             "product_id": 14933,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 378
         },
@@ -7745,7 +7781,7 @@
             "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=15718",
             "product_id": 15718,
-            "available": false,
+            "available": true,
             "rating": 4.2,
             "num_reviews": 10
         },
@@ -8503,7 +8539,7 @@
             "product_id": 16117,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1704
+            "num_reviews": 1705
         },
         "16118": {
             "name": "Monoprice 4K Certified Premium High Speed HDMI Cable 6ft - 18Gbps White",
@@ -9241,7 +9277,7 @@
             "product_id": 16359,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 83
+            "num_reviews": 84
         },
         "16360": {
             "name": "Workstream by Monoprice Medium Multimedia Desktop Monitor Stand, 25.6in x 11.0in, Max Weight Capacity 80lbs, Black Tempered Glass",
@@ -9833,7 +9869,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=18820",
             "product_id": 18820,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 18
         },
@@ -44139,6 +44175,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-10T22:24:52Z"
+        "timestamp": "2023-04-10T23:18:44Z"
     }
 }
