@@ -16063,7 +16063,7 @@
             "product_id": 30771,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 196
+            "num_reviews": 198
         },
         "30773": {
             "name": "Monoprice Short Length Apple MFi Certified Lightning to USB Charge and Sync Cable, 4.25 inches Black",
@@ -16189,7 +16189,7 @@
             "product_id": 30919,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 15
+            "num_reviews": 16
         },
         "30947": {
             "name": "Monoprice Obsidian Speed Plus USB Car Charger, 3-Port, 18W + 2.4A Output for iPhone, Android, and Galaxy Devices",
@@ -21445,7 +21445,7 @@
             "product_id": 35510,
             "available": false,
             "rating": 4.2,
-            "num_reviews": 36
+            "num_reviews": 37
         },
         "35519": {
             "name": "Monoprice All-in-One Portable Business Meeting Wide Angle USB Video Conference Camera Webcam, Mic, and Speaker, 1080p",
@@ -24442,7 +24442,7 @@
             "product_id": 38794,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 69
+            "num_reviews": 71
         },
         "38795": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 1.5ft, White",
@@ -24577,7 +24577,7 @@
             "product_id": 38812,
             "available": false,
             "rating": 4.3,
-            "num_reviews": 69
+            "num_reviews": 71
         },
         "38813": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 6ft, White",
@@ -24595,7 +24595,7 @@
             "product_id": 38814,
             "available": false,
             "rating": 4.3,
-            "num_reviews": 69
+            "num_reviews": 71
         },
         "38815": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 1.5ft, Blue",
@@ -24685,7 +24685,7 @@
             "product_id": 38826,
             "available": false,
             "rating": 4.3,
-            "num_reviews": 69
+            "num_reviews": 71
         },
         "38827": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 3ft, White, 3-Pack",
@@ -25206,8 +25206,8 @@
             "url": "https://www.monoprice.com/product?p_id=38915",
             "product_id": 38915,
             "available": true,
-            "rating": 4.6,
-            "num_reviews": 20
+            "rating": 4.7,
+            "num_reviews": 21
         },
         "38916": {
             "name": "Monoprice Select Charge \u0026 Sync Type-C to Type-C Cable, USB 2.0, TPE Jacket, Up to 3A/60W, 3ft, Black",
@@ -26215,7 +26215,7 @@
             "product_id": 39477,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 55
+            "num_reviews": 56
         },
         "39478": {
             "name": "Monoprice 8K Slim Ultra High Speed HDMI Cable 3ft - 48Gbps Black - 3 Pack",
@@ -45516,6 +45516,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-10T12:33:58Z"
+        "timestamp": "2023-04-10T13:22:04Z"
     }
 }
