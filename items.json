@@ -29374,7 +29374,7 @@
             "product_id": 40888,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 55
+            "num_reviews": 56
         },
         "40890": {
             "name": "Monoprice Cat6 50ft Black Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -30337,7 +30337,7 @@
             "product_id": 41386,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1847
         },
         "41387": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 4-Conductor Speaker Wire, 250ft, Black",
@@ -30391,7 +30391,7 @@
             "product_id": 41392,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1847
         },
         "41393": {
             "name": "Monoprice Access Series 18AWG CL2 Rated 2-Conductor Speaker Wire, 250ft, Black",
@@ -31550,7 +31550,7 @@
             "price": 35,
             "url": "https://www.monoprice.com/product?p_id=42018",
             "product_id": 42018,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -31750,7 +31750,7 @@
             "product_id": 42060,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 303
+            "num_reviews": 304
         },
         "42064": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 14AWG, 15A/1875W, 125V, 3-Prong, Blue, 3ft",
@@ -33927,8 +33927,8 @@
             "url": "https://www.monoprice.com/product?p_id=43015",
             "product_id": 43015,
             "available": false,
-            "rating": 3.3,
-            "num_reviews": 9
+            "rating": 3.5,
+            "num_reviews": 10
         },
         "43016": {
             "name": "Monoprice 2K USB Webcam Online Web Meeting Camera with LED Light Ring and Lens Cover",
@@ -35134,7 +35134,7 @@
             "product_id": 43341,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1454
+            "num_reviews": 1457
         },
         "43343": {
             "name": "Monoprice Cat6 3ft White 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -35637,8 +35637,8 @@
             "url": "https://www.monoprice.com/product?p_id=43562",
             "product_id": 43562,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 22
+            "rating": 4.7,
+            "num_reviews": 23
         },
         "43563": {
             "name": "Monoprice Dual Motor Height Adjustable 3-Stage Electric Sit-Stand Desk Frame, v2, White",
@@ -45516,6 +45516,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-10T01:18:49Z"
+        "timestamp": "2023-04-10T02:33:20Z"
     }
 }
