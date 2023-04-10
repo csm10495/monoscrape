@@ -599,7 +599,7 @@
             "price": 10.66,
             "url": "https://www.monoprice.com/product?p_id=11045",
             "product_id": 11045,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 570
         },
@@ -779,7 +779,7 @@
             "price": 8.1,
             "url": "https://www.monoprice.com/product?p_id=11232",
             "product_id": 11232,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1457
         },
@@ -6982,7 +6982,7 @@
             "product_id": 15168,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 517
+            "num_reviews": 518
         },
         "15169": {
             "name": "Monoprice Cat6A 14ft Black 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -6991,7 +6991,7 @@
             "product_id": 15169,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 517
+            "num_reviews": 518
         },
         "15170": {
             "name": "Monoprice Cat6A 14ft Blue 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -7018,7 +7018,7 @@
             "product_id": 15172,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 517
+            "num_reviews": 518
         },
         "15208": {
             "name": "Monoprice Cat6 7ft Green Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -7862,7 +7862,7 @@
             "price": 28.99,
             "url": "https://www.monoprice.com/product?p_id=15793",
             "product_id": 15793,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 10
         },
@@ -45516,6 +45516,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-10T04:22:27Z"
+        "timestamp": "2023-04-10T05:18:12Z"
     }
 }
