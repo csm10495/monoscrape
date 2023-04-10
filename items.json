@@ -4101,8 +4101,8 @@
             "url": "https://www.monoprice.com/product?p_id=1342",
             "product_id": 1342,
             "available": false,
-            "rating": 5,
-            "num_reviews": 2
+            "rating": 0,
+            "num_reviews": 0
         },
         "1343": {
             "name": "Monoprice DB9 Female, ABCD 4 Way Switch Box",
@@ -30138,8 +30138,8 @@
             "url": "https://www.monoprice.com/product?p_id=4131",
             "product_id": 4131,
             "available": true,
-            "rating": 4.7,
-            "num_reviews": 17
+            "rating": 0,
+            "num_reviews": 0
         },
         "41333": {
             "name": "Monoprice USB-A to Micro B 2.0 Cable - 5-Pin 28/24AWG Gold Plated Black 1.5ft, 5-Pack",
@@ -38031,8 +38031,8 @@
             "url": "https://www.monoprice.com/product?p_id=5282",
             "product_id": 5282,
             "available": false,
-            "rating": 4.9,
-            "num_reviews": 159
+            "rating": 0,
+            "num_reviews": 0
         },
         "5283": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 16AWG, 13A/1625W, 3-Prong, Black, 2ft",
@@ -39094,7 +39094,7 @@
             "product_id": 5600,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1345
+            "num_reviews": 1347
         },
         "5601": {
             "name": "Monoprice 25ft Premium 3.5mm Stereo Male to 2RCA Male 22AWG Cable (Gold Plated) - Black",
@@ -45516,6 +45516,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-10T03:19:40Z"
+        "timestamp": "2023-04-10T04:22:27Z"
     }
 }
