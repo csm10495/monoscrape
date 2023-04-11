@@ -15982,7 +15982,7 @@
             "product_id": 30763,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 196
+            "num_reviews": 198
         },
         "30764": {
             "name": "Monoprice Palette Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 1.5ft White",
@@ -17170,7 +17170,7 @@
             "product_id": 33197,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 517
+            "num_reviews": 518
         },
         "33198": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, 550Mhz, UTP, Pure Bare Copper Wire, 10G, 30AWG?, 25ft, Blue, 5-Pack",
@@ -18646,7 +18646,7 @@
             "product_id": 33884,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 205
+            "num_reviews": 213
         },
         "33885": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Pine Green",
@@ -19256,7 +19256,7 @@
             "price": 2.29,
             "url": "https://www.monoprice.com/product?p_id=34229",
             "product_id": 34229,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 76
         },
@@ -20707,7 +20707,7 @@
             "product_id": 34837,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1704
+            "num_reviews": 1705
         },
         "34839": {
             "name": "Monoprice 4K Slim Certified Premium High Speed HDMI Cable 1m - 18Gbps Black - 2 Pack",
@@ -23416,7 +23416,7 @@
             "product_id": 38302,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 391
+            "num_reviews": 392
         },
         "38303": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, White",
@@ -23794,7 +23794,7 @@
             "product_id": 38390,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 36
+            "num_reviews": 37
         },
         "38391": {
             "name": "Monoprice Nylon Braided USB-C To Lightning Cable - 6 Feet - Black ( MFI Certified ) Flexible, Durable, Fast Charging, Compatible with Apple iPhone 13 / Pro / Pro Max / AirPods Pro - AtlasFlex Series",
@@ -24477,8 +24477,8 @@
             "url": "https://www.monoprice.com/product?p_id=38797",
             "product_id": 38797,
             "available": false,
-            "rating": 4.3,
-            "num_reviews": 69
+            "rating": 4.4,
+            "num_reviews": 72
         },
         "38799": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 1.5ft, Blue",
@@ -45462,6 +45462,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-11T07:17:36Z"
+        "timestamp": "2023-04-11T08:23:03Z"
     }
 }
