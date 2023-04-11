@@ -11356,7 +11356,7 @@
             "product_id": 2292,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 3396
+            "num_reviews": 3398
         },
         "2293": {
             "name": "Monoprice Cat6 1ft Purple Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -15352,7 +15352,7 @@
             "product_id": 3012,
             "available": false,
             "rating": 4.1,
-            "num_reviews": 474
+            "num_reviews": 475
         },
         "3013": {
             "name": "Monoprice Adjustable 10 lb. Capacity Speaker Wall Mount Brackets (Pair), White",
@@ -37321,7 +37321,7 @@
             "product_id": 4791,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 419
+            "num_reviews": 420
         },
         "4792": {
             "name": "Monoprice 3ft Premier Series 1/4in TRS Male to Male Cable, 16AWG (Gold Plated)",
@@ -45241,7 +45241,7 @@
             "product_id": 9857,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1455
+            "num_reviews": 1457
         },
         "9858": {
             "name": "Monoprice Cat6 50ft Purple Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -45462,6 +45462,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-11T10:37:52Z"
+        "timestamp": "2023-04-11T11:16:39Z"
     }
 }
