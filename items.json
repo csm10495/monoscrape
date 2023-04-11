@@ -5450,7 +5450,7 @@
             "price": 191.99,
             "url": "https://www.monoprice.com/product?p_id=21590",
             "product_id": 21590,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 199
         },
@@ -7108,7 +7108,7 @@
             "product_id": 24270,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 16
+            "num_reviews": 17
         },
         "24273": {
             "name": "Monoprice Select Series USB-C to Mini DisplayPort Adapter",
@@ -7973,15 +7973,6 @@
             "available": false,
             "rating": 4.4,
             "num_reviews": 37
-        },
-        "24461": {
-            "name": "Monolith by Monoprice M300 In Ear Planar Magnetic Earphones",
-            "price": 26.24,
-            "url": "https://www.monoprice.com/product?p_id=24461",
-            "product_id": 24461,
-            "available": true,
-            "rating": 4,
-            "num_reviews": 46
         },
         "24462": {
             "name": "Monoprice Headphone Stand (Silver)",
@@ -9191,7 +9182,7 @@
         },
         "27678": {
             "name": "Monolith by Monoprice 4 Tier Audio Stand (Black)",
-            "price": 139.99,
+            "price": 119.99,
             "url": "https://www.monoprice.com/product?p_id=27678",
             "product_id": 27678,
             "available": true,
@@ -10009,11 +10000,11 @@
             "num_reviews": 141
         },
         "29440": {
-            "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 2ft, Red, 10-Pack",
+            "name": "Monoprice Cat6A 2ft Red 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
             "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=29440",
             "product_id": 29440,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 517
         },
@@ -37821,6 +37812,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-11T18:37:31Z"
+        "timestamp": "2023-04-11T19:18:01Z"
     }
 }
