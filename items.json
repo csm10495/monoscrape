@@ -23218,7 +23218,7 @@
             "product_id": 40107,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 60
+            "num_reviews": 61
         },
         "40108": {
             "name": "MP Cadet 3D Printer",
@@ -23918,6 +23918,15 @@
             "price": 229.99,
             "url": "https://www.monoprice.com/product?p_id=40515",
             "product_id": 40515,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 3
+        },
+        "40517": {
+            "name": "Monoprice Entegrade Series 1000FT Cat6A Plus 650MHz UTP Solid, Riser-Rated (CMR), 23AWG, Bulk Bare Copper Ethernet Network Cable, 10G, White",
+            "price": 229.99,
+            "url": "https://www.monoprice.com/product?p_id=40517",
+            "product_id": 40517,
             "available": true,
             "rating": 4.7,
             "num_reviews": 3
@@ -24737,7 +24746,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=41081",
             "product_id": 41081,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 14
         },
@@ -25052,7 +25061,7 @@
             "price": 249.99,
             "url": "https://www.monoprice.com/product?p_id=41288",
             "product_id": 41288,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 7
         },
@@ -25675,7 +25684,7 @@
             "product_id": 41528,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 9
+            "num_reviews": 10
         },
         "41560": {
             "name": "Toys Red City Car Building Blocks Set - 1014 pcs",
@@ -25997,7 +26006,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=41713",
             "product_id": 41713,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 2
         },
@@ -26492,7 +26501,7 @@
             "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=42014",
             "product_id": 42014,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 105
         },
@@ -26746,7 +26755,7 @@
             "product_id": 42066,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 303
+            "num_reviews": 304
         },
         "42073": {
             "name": "Monoprice 8K No Logo Ultra High Speed HDMI Cable, 48Gbps, 1.5ft, Black",
@@ -26864,15 +26873,6 @@
             "available": false,
             "rating": 4.5,
             "num_reviews": 8
-        },
-        "42087": {
-            "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 16AWG, 13A/1625W, 125V, 3-Prong, SJT, Black, 1ft",
-            "price": 0.74,
-            "url": "https://www.monoprice.com/product?p_id=42087",
-            "product_id": 42087,
-            "available": true,
-            "rating": 4.7,
-            "num_reviews": 38
         },
         "42089": {
             "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 16AWG, 13A/1625W, 125V, 3-Prong, SJT, Red, 1ft",
@@ -27267,8 +27267,8 @@
             "url": "https://www.monoprice.com/product?p_id=42305",
             "product_id": 42305,
             "available": false,
-            "rating": 3.7,
-            "num_reviews": 16
+            "rating": 3.8,
+            "num_reviews": 15
         },
         "42306": {
             "name": "Dark Matter by Monoprice Collider TKL Gaming Keyboard - Cherry MX Brown, RGB Backlit, USB-C",
@@ -28130,7 +28130,7 @@
             "price": 149.99,
             "url": "https://www.monoprice.com/product?p_id=42771",
             "product_id": 42771,
-            "available": false,
+            "available": true,
             "rating": 4.1,
             "num_reviews": 9
         },
@@ -28193,7 +28193,7 @@
             "price": 699.99,
             "url": "https://www.monoprice.com/product?p_id=42829",
             "product_id": 42829,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 1
         },
@@ -28229,7 +28229,7 @@
             "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=42833",
             "product_id": 42833,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 259
         },
@@ -28247,7 +28247,7 @@
             "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=42835",
             "product_id": 42835,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 12
         },
@@ -28409,7 +28409,7 @@
             "price": 189.99,
             "url": "https://www.monoprice.com/product?p_id=42890",
             "product_id": 42890,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 31
         },
@@ -29059,7 +29059,7 @@
             "product_id": 43081,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 55
+            "num_reviews": 56
         },
         "43083": {
             "name": "Monoprice Cat6 50ft White Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -29102,7 +29102,7 @@
             "price": 13.99,
             "url": "https://www.monoprice.com/product?p_id=43105",
             "product_id": 43105,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -30184,7 +30184,7 @@
             "product_id": 43356,
             "available": false,
             "rating": 5,
-            "num_reviews": 4
+            "num_reviews": 5
         },
         "43357": {
             "name": "Pure Outdoor by Monoprice Curved Leveling Kit",
@@ -30247,7 +30247,7 @@
             "product_id": 43383,
             "available": true,
             "rating": 5,
-            "num_reviews": 2
+            "num_reviews": 3
         },
         "43386": {
             "name": "Pure Outdoor by Monoprice Vacuum-Sealed 32 oz. Wide-Mouth Water Bottle, Pink",
@@ -37803,6 +37803,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-11T20:22:24Z"
+        "timestamp": "2023-04-11T21:17:26Z"
     }
 }
