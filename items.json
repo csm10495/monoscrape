@@ -16043,7 +16043,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=30770",
             "product_id": 30770,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 196
         },
@@ -16621,7 +16621,7 @@
             "product_id": 31199,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 258
+            "num_reviews": 259
         },
         "31200": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Red",
@@ -19123,7 +19123,7 @@
             "product_id": 34207,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 1704
+            "num_reviews": 1705
         },
         "34208": {
             "name": "Monoprice 4K Certified Premium High Speed HDMI Cable 3ft - 18Gbps Black - 3 Pack",
@@ -19292,7 +19292,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=34239",
             "product_id": 34239,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 76
         },
@@ -19465,7 +19465,7 @@
             "product_id": 34306,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 201
+            "num_reviews": 202
         },
         "34307": {
             "name": "Monoprice Affinity Premium 14AWG Braided Speaker Wire with Gold Plated Banana Plug Connectors, 6ft 4-Pack",
@@ -19474,7 +19474,7 @@
             "product_id": 34307,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 201
+            "num_reviews": 202
         },
         "34309": {
             "name": "Monoprice Affinity Premium 14AWG Braided Speaker Wire with Gold Plated Banana Plug Connectors, 10ft 2-Pack",
@@ -21164,7 +21164,7 @@
             "price": 89.99,
             "url": "https://www.monoprice.com/product?p_id=35124",
             "product_id": 35124,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 58
         },
@@ -21236,7 +21236,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=35316",
             "product_id": 35316,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 33
         },
@@ -23443,7 +23443,7 @@
             "product_id": 38305,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 390
+            "num_reviews": 392
         },
         "38306": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Blue",
@@ -24692,7 +24692,7 @@
             "price": 24.49,
             "url": "https://www.monoprice.com/product?p_id=38826",
             "product_id": 38826,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 72
         },
@@ -27466,7 +27466,7 @@
             "product_id": 39839,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 160
+            "num_reviews": 163
         },
         "39840": {
             "name": "Monoprice Obsidian Plus Pocket USB Power Bank, Green, 5,000mAh, 2-Port Up to 2.1A Output for iPhone, Android, and Galaxy Devices",
@@ -45462,6 +45462,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-11T13:22:34Z"
+        "timestamp": "2023-04-11T14:18:20Z"
     }
 }
