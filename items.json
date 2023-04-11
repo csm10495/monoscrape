@@ -28671,8 +28671,8 @@
             "url": "https://www.monoprice.com/product?p_id=40372",
             "product_id": 40372,
             "available": true,
-            "rating": 4.1,
-            "num_reviews": 68
+            "rating": 4.2,
+            "num_reviews": 69
         },
         "40373": {
             "name": "Monoprice 10in SATA 6Gbps Cable with Locking Latch - Black",
@@ -29338,7 +29338,7 @@
             "product_id": 40883,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 55
+            "num_reviews": 56
         },
         "40884": {
             "name": "Monoprice Cat6 7ft Black Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -30771,15 +30771,6 @@
             "rating": 5,
             "num_reviews": 3
         },
-        "41665": {
-            "name": "Waterproof \u0026 Lightweight Portable Sleeping Bag blue/grey for Camping Hiking and Outdoors",
-            "price": 14.99,
-            "url": "https://www.monoprice.com/product?p_id=41665",
-            "product_id": 41665,
-            "available": false,
-            "rating": 3,
-            "num_reviews": 1
-        },
         "41674": {
             "name": "Portable UVC Lamp Disinfection Tool for Sterilization - White + Pink",
             "price": 5.99,
@@ -31534,7 +31525,7 @@
             "product_id": 42015,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 105
+            "num_reviews": 106
         },
         "42016": {
             "name": "Monoprice Desktop Folding Polyester Fiber Privacy Divider Partition Panel Desk Barrier Medium Size 28in x 17in",
@@ -31697,15 +31688,6 @@
             "available": true,
             "rating": 4,
             "num_reviews": 41
-        },
-        "42047": {
-            "name": "Sand Free Beach Blanket, 78\" x 75\" Oversized Waterproof Beach Mat Quick Drying Heat Resistant Lightweight Outdoor Picnic",
-            "price": 4.99,
-            "url": "https://www.monoprice.com/product?p_id=42047",
-            "product_id": 42047,
-            "available": false,
-            "rating": 3,
-            "num_reviews": 2
         },
         "42052": {
             "name": "Monoprice Heavy Duty Power Cable - IEC 60320 C14 to IEC 60320 C15, 14AWG, 15A, SJT, 125V, Black, 1ft",
@@ -32256,15 +32238,6 @@
             "rating": 5,
             "num_reviews": 2
         },
-        "42290": {
-            "name": "Waterproof Gardening Gloves with Hand Sturdy Claws,Quick \u0026 Easy to Dig \u0026 Plant Safe for Rose Pruning",
-            "price": 4.99,
-            "url": "https://www.monoprice.com/product?p_id=42290",
-            "product_id": 42290,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "42300": {
             "name": "Dark Matter by Monoprice Supernova Universal 3.5mm Gaming Headset - 53mm Driver, Detachable Unidirectional Mic, PU Leather/Aluminum",
             "price": 23.99,
@@ -32407,7 +32380,7 @@
             "product_id": 42351,
             "available": true,
             "rating": 5,
-            "num_reviews": 1
+            "num_reviews": 2
         },
         "42353": {
             "name": "New Build Me Set of 3 Take Apart Construction Truck Toys, Dump Truck, Cement Truck, Build It Yourself Vehicles STEM",
@@ -32659,7 +32632,7 @@
             "product_id": 42537,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 390
+            "num_reviews": 392
         },
         "42538": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft/3ft/6ft, Red - 3 Pack",
@@ -33469,7 +33442,7 @@
             "product_id": 42891,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 18
+            "num_reviews": 19
         },
         "42892": {
             "name": "Dark Matter by Monoprice 27in Gaming Monitor - 16:9, 2560x1440p, QHD, 180Hz, IGZO",
@@ -34452,15 +34425,6 @@
             "rating": 4.8,
             "num_reviews": 10
         },
-        "43175": {
-            "name": "Wavlink N300 Wireless Smart Router Access Point With 4 x 5dbi External Antennas \u0026 WPS Button, IP QoS, 300Mbps Wireless router, DHCP Server / Port Triggering / VirtualServer / Remote Management",
-            "price": 7.99,
-            "url": "https://www.monoprice.com/product?p_id=43175",
-            "product_id": 43175,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "43177": {
             "name": "Monoprice Heavy Duty Power Cable - IEC 60320 C14 to IEC 60320 C15, 14AWG, 15A, SJT, 125V, White, 3ft",
             "price": 2.69,
@@ -34673,7 +34637,7 @@
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=43208",
             "product_id": 43208,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 9
         },
@@ -34781,7 +34745,7 @@
             "price": 21.99,
             "url": "https://www.monoprice.com/product?p_id=43221",
             "product_id": 43221,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 27
         },
@@ -35658,24 +35622,6 @@
             "rating": 4.7,
             "num_reviews": 9
         },
-        "43569": {
-            "name": "Collapsible Folding Outdoor Utility Wagon pull cart - Whale Blue",
-            "price": 49.99,
-            "url": "https://www.monoprice.com/product?p_id=43569",
-            "product_id": 43569,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 1
-        },
-        "43573": {
-            "name": "Garden Lawn Sprinkler, Automatic Yard Water Sprinklers, 360 Degree Rotating, 3000 Sq. Ft Large Area Coverage, Adjustable Angle Water Sprinkler for Lawn, Plants, Garden Hose Sprinklers Heavy Duty",
-            "price": 4.99,
-            "url": "https://www.monoprice.com/product?p_id=43573",
-            "product_id": 43573,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "43574": {
             "name": "5 Gallon Plant Grow Bags 5-Pack Heavy Duty Thickened Non-Woven Aeration Planting Fabric Pot Container with 2 Strap Handles Felt Fabric for Garden and Planting, Black",
             "price": 18.99,
@@ -35735,7 +35681,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=43588",
             "product_id": 43588,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -35881,7 +35827,7 @@
             "product_id": 43666,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 4
+            "num_reviews": 5
         },
         "43670": {
             "name": "65W Universal USB-C Wall Charger, With Detachable USB-C Cable",
@@ -35979,8 +35925,8 @@
             "url": "https://www.monoprice.com/product?p_id=43710",
             "product_id": 43710,
             "available": true,
-            "rating": 4.5,
-            "num_reviews": 6
+            "rating": 4,
+            "num_reviews": 7
         },
         "43712": {
             "name": "Pour Over Coffee Maker with Reusable Double-layer Stainless Steel Filter, Coffee Dripper Brewer, Drip Glass Coffee Pot, High Heat Resistant Decanter, 28 Ounce, 6 Cup",
@@ -44175,6 +44121,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-11T02:34:45Z"
+        "timestamp": "2023-04-11T03:19:34Z"
     }
 }
