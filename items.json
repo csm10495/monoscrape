@@ -29392,7 +29392,7 @@
             "product_id": 40890,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 55
+            "num_reviews": 56
         },
         "40891": {
             "name": "Monoprice FLEXboot Flat Cat6 Ethernet Patch Cable - Snagless RJ45, Flat, 550MHz, UTP, Pure Bare Copper Wire, 30AWG, 75ft, Black",
@@ -33113,7 +33113,7 @@
         },
         "42764": {
             "name": "Monoprice WFH Single Motor Height Adjustable Motorized Sit-Stand Desk with Solid-core Natural Wood Top, White",
-            "price": 209.99,
+            "price": 279.99,
             "url": "https://www.monoprice.com/product?p_id=42764",
             "product_id": 42764,
             "available": true,
@@ -34054,7 +34054,7 @@
             "product_id": 43077,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 55
+            "num_reviews": 56
         },
         "43078": {
             "name": "Monoprice Cat6 10ft White Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series  Ethernet Cable",
@@ -34985,7 +34985,7 @@
         },
         "43305": {
             "name": "Dark Matter by Monoprice 49in Curved Gaming Monitor - 32:9, 1800R, 5120x1440p, DQHD, 120Hz, Adaptive Sync, VA",
-            "price": 999.99,
+            "price": 799.99,
             "url": "https://www.monoprice.com/product?p_id=43305",
             "product_id": 43305,
             "available": true,
@@ -45462,6 +45462,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-11T08:23:03Z"
+        "timestamp": "2023-04-11T09:18:24Z"
     }
 }
