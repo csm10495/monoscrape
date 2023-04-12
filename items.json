@@ -1456,7 +1456,7 @@
             "product_id": 11337,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1455
+            "num_reviews": 1457
         },
         "11338": {
             "name": "Monoprice Cat6 3ft Yellow Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -1661,7 +1661,7 @@
             "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=11364",
             "product_id": 11364,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 460
         },
@@ -1670,7 +1670,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=11365",
             "product_id": 11365,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 460
         },
@@ -1708,7 +1708,7 @@
             "product_id": 11375,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1455
+            "num_reviews": 1457
         },
         "11378": {
             "name": "Monoprice FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 75ft, Red",
@@ -2363,7 +2363,7 @@
             "price": 249.99,
             "url": "https://www.monoprice.com/product?p_id=12183",
             "product_id": 12183,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 5
         },
@@ -4309,7 +4309,7 @@
             "product_id": 13529,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 271
+            "num_reviews": 272
         },
         "13530": {
             "name": "Monoprice Cat6 3ft White Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -4453,7 +4453,7 @@
             "product_id": 13544,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 271
+            "num_reviews": 272
         },
         "13545": {
             "name": "Monoprice Cat6 10ft White Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -4471,7 +4471,7 @@
             "product_id": 13547,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 271
+            "num_reviews": 272
         },
         "13548": {
             "name": "Monoprice Cat6 14ft Blue Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -4703,7 +4703,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=13659",
             "product_id": 13659,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 231
         },
@@ -6469,7 +6469,7 @@
             "product_id": 14817,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 271
+            "num_reviews": 272
         },
         "14818": {
             "name": "Monoprice Cat6 10ft Red Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -28839,6 +28839,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-12T12:35:01Z"
+        "timestamp": "2023-04-12T13:23:00Z"
     }
 }
