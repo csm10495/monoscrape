@@ -10229,7 +10229,7 @@
             "price": 30.99,
             "url": "https://www.monoprice.com/product?p_id=21510",
             "product_id": 21510,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 1705
         },
@@ -12170,7 +12170,7 @@
         },
         "24285": {
             "name": "Monoprice Essentials USB Type-C to Type-C 3.1 Gen 2 Cable - 10Gbps, 5A, 30AWG, Black, 1m (3.3 ft)",
-            "price": 18.49,
+            "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=24285",
             "product_id": 24285,
             "available": true,
@@ -12740,6 +12740,15 @@
             "price": 47.49,
             "url": "https://www.monoprice.com/product?p_id=24417",
             "product_id": 24417,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 494
+        },
+        "24419": {
+            "name": "Monoprice Cat6A Ethernet Patch Cable - Snagless RJ45, 550MHz, STP, Pure Bare Copper Wire, 10G, 26AWG, 100ft, Red",
+            "price": 36.25,
+            "url": "https://www.monoprice.com/product?p_id=24419",
+            "product_id": 24419,
             "available": true,
             "rating": 4.9,
             "num_reviews": 494
@@ -13699,7 +13708,7 @@
             "num_reviews": 6
         },
         "27317": {
-            "name": "Monoprice Power Cord - IEC 60320 C14 to IEC 60320 C5, 18AWG, 10A, 3-Prong, Black, 6ft",
+            "name": "Monoprice Power Cord - IEC 60320 C14 to IEC 60320 C5, 18AWG, 7A/125V, 3-Prong, Black, 6ft",
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=27317",
             "product_id": 27317,
@@ -14369,7 +14378,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=27865",
             "product_id": 27865,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 11
         },
@@ -14510,7 +14519,7 @@
         },
         "27922": {
             "name": "Monoprice Essentials USB Type-C to Type-C 3.1 Gen 2 Cable - 10Gbps, 5A, 30AWG, White, 1m (3.3ft)",
-            "price": 17.39,
+            "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=27922",
             "product_id": 27922,
             "available": false,
@@ -14519,7 +14528,7 @@
         },
         "27923": {
             "name": "Monoprice Essentials USB Type-C to Type-C 3.1 Gen 2 Cable - 10Gbps, 5A, 30AWG, Black, 0.5m (1.6 ft)",
-            "price": 13.99,
+            "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=27923",
             "product_id": 27923,
             "available": true,
@@ -14875,7 +14884,7 @@
             "product_id": 29406,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 58
+            "num_reviews": 59
         },
         "29407": {
             "name": "Workstream by Monoprice Triple Monitor Gas Spring Mount for up to 32in Screens, Fully Adjustable Center Mount",
@@ -45417,6 +45426,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-12T19:18:37Z"
+        "timestamp": "2023-04-12T20:21:41Z"
     }
 }
