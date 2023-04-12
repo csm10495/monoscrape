@@ -1868,7 +1868,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=1150",
             "product_id": 1150,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 2
         },
@@ -11363,7 +11363,7 @@
             "price": 1.59,
             "url": "https://www.monoprice.com/product?p_id=2292",
             "product_id": 2292,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -11408,7 +11408,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=2297",
             "product_id": 2297,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3396
         },
@@ -11498,7 +11498,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=2307",
             "product_id": 2307,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3396
         },
@@ -14333,7 +14333,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=2785",
             "product_id": 2785,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 4
         },
@@ -36995,7 +36995,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=4755",
             "product_id": 4755,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 1351
         },
@@ -37015,7 +37015,7 @@
             "product_id": 4758,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 1351
+            "num_reviews": 1353
         },
         "4759": {
             "name": "Monoprice 1.5ft Premier Series XLR Male to 1/4in TRS Male Cable, 16AWG (Gold Plated)",
@@ -37103,7 +37103,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=4767",
             "product_id": 4767,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 201
         },
@@ -38003,7 +38003,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=5288",
             "product_id": 5288,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 159
         },
@@ -38050,7 +38050,7 @@
             "product_id": 5293,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 303
+            "num_reviews": 304
         },
         "5294": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 14AWG, 15A/1875W, 3-Prong, Black, 15ft",
@@ -38203,7 +38203,7 @@
             "product_id": 5346,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 1296
+            "num_reviews": 1297
         },
         "5347": {
             "name": "Monoprice 10ft Premium 2 RCA Plug/2 RCA Plug M/M 22AWG Cable - Black",
@@ -38453,7 +38453,7 @@
             "price": 33.99,
             "url": "https://www.monoprice.com/product?p_id=5401",
             "product_id": 5401,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 112
         },
@@ -38777,7 +38777,7 @@
             "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=5500",
             "product_id": 5500,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 407
         },
@@ -38950,7 +38950,7 @@
             "product_id": 5591,
             "available": true,
             "rating": 4.2,
-            "num_reviews": 600
+            "num_reviews": 601
         },
         "5595": {
             "name": "Monoprice 100ft Premium 3.5mm Stereo Male to 3.5mm Stereo Female 22AWG Extension Cable (Gold Plated) - Black",
@@ -38968,7 +38968,7 @@
             "product_id": 5596,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1346
+            "num_reviews": 1347
         },
         "5597": {
             "name": "Monoprice 3ft Premium 3.5mm Stereo Male to 2RCA Male 22AWG Cable (Gold Plated) - Black",
@@ -39155,7 +39155,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=5767",
             "product_id": 5767,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 369
         },
@@ -39780,15 +39780,6 @@
             "rating": 4.9,
             "num_reviews": 16
         },
-        "6202": {
-            "name": "Monoprice OM2 Fiber Optic Cable - LC/LC, UL, 50/125 Type, Multi-Mode, Orange, 1m, Corning",
-            "price": 3.49,
-            "url": "https://www.monoprice.com/product?p_id=6202",
-            "product_id": 6202,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 6
-        },
         "621": {
             "name": "Monoprice 25ft Coaxial Audio/Video RCA Cable M/M RG59U 75ohm (for S/PDIF, Digital Coax, Subwoofer \u0026 Composite Video)",
             "price": 6.49,
@@ -39866,7 +39857,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=627",
             "product_id": 627,
-            "available": true,
+            "available": false,
             "rating": 4,
             "num_reviews": 69
         },
@@ -39920,7 +39911,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=628",
             "product_id": 628,
-            "available": true,
+            "available": false,
             "rating": 4,
             "num_reviews": 69
         },
@@ -40424,7 +40415,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=647",
             "product_id": 647,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 925
         },
@@ -40604,7 +40595,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=6539",
             "product_id": 6539,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 89
         },
@@ -42638,7 +42629,7 @@
             "price": 149.99,
             "url": "https://www.monoprice.com/product?p_id=8102",
             "product_id": 8102,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 293
         },
@@ -42674,7 +42665,7 @@
             "price": 149.99,
             "url": "https://www.monoprice.com/product?p_id=8106",
             "product_id": 8106,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 293
         },
@@ -43169,7 +43160,7 @@
             "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=8586",
             "product_id": 8586,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 785
         },
@@ -43178,7 +43169,7 @@
             "price": 62.99,
             "url": "https://www.monoprice.com/product?p_id=8588",
             "product_id": 8588,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 1362
         },
@@ -43315,7 +43306,7 @@
             "product_id": 8612,
             "available": true,
             "rating": 5,
-            "num_reviews": 320
+            "num_reviews": 321
         },
         "8614": {
             "name": "Monoprice USB Type-A to USB Type-B 2.0 Cable - 28/24AWG, Gold Plated, White, 1.5ft",
@@ -43331,7 +43322,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=8615",
             "product_id": 8615,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1008
         },
@@ -43673,7 +43664,7 @@
             "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=8770",
             "product_id": 8770,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 99
         },
@@ -44195,7 +44186,7 @@
             "price": 19.49,
             "url": "https://www.monoprice.com/product?p_id=9426",
             "product_id": 9426,
-            "available": false,
+            "available": true,
             "rating": 4.1,
             "num_reviews": 74
         },
@@ -45108,6 +45099,15 @@
             "rating": 4.9,
             "num_reviews": 1457
         },
+        "9842": {
+            "name": "Monoprice FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 75ft, Yellow",
+            "price": 11.39,
+            "url": "https://www.monoprice.com/product?p_id=9842",
+            "product_id": 9842,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 1457
+        },
         "9843": {
             "name": "Monoprice Cat6 6in Green Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
             "price": 1.49,
@@ -45358,7 +45358,7 @@
             "product_id": 9872,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1455
+            "num_reviews": 1457
         },
         "9873": {
             "name": "Monoprice Cat6 2ft Purple Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -45444,6 +45444,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-12T17:17:19Z"
+        "timestamp": "2023-04-12T18:23:02Z"
     }
 }
