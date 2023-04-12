@@ -8890,7 +8890,7 @@
             "product_id": 30768,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 196
+            "num_reviews": 198
         },
         "30769": {
             "name": "Monoprice Palette Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 6ft Red",
@@ -9730,11 +9730,11 @@
             "num_reviews": 231
         },
         "31321": {
-            "name": "Monoprice Entegrade Series Cat7 Double Shielded (S/FTP) Ethernet Patch Cable - Snagless RJ45, 600MHz, 10G, 26AWG, 3ft, Black",
+            "name": "Monoprice Cat7 3ft Black Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=31321",
             "product_id": 31321,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 231
         },
@@ -10553,7 +10553,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=33564",
             "product_id": 33564,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 352
         },
@@ -10634,7 +10634,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=33603",
             "product_id": 33603,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 352
         },
@@ -11291,7 +11291,7 @@
             "price": 88.99,
             "url": "https://www.monoprice.com/product?p_id=33833",
             "product_id": 33833,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 54
         },
@@ -11536,7 +11536,7 @@
             "product_id": 33887,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 207
+            "num_reviews": 213
         },
         "3389": {
             "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 10ft, Purple",
@@ -16162,7 +16162,7 @@
             "product_id": 38202,
             "available": true,
             "rating": 5,
-            "num_reviews": 5
+            "num_reviews": 6
         },
         "38203": {
             "name": "Monolith by Monoprice 15\" THX Ultra Certified 1000 Watt Powered Subwoofer (Open Box)",
@@ -16261,7 +16261,7 @@
             "product_id": 38301,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 391
+            "num_reviews": 392
         },
         "38302": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, White",
@@ -16306,7 +16306,7 @@
             "product_id": 38306,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 391
+            "num_reviews": 392
         },
         "38308": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Pink",
@@ -16721,15 +16721,6 @@
             "available": true,
             "rating": 4.9,
             "num_reviews": 1847
-        },
-        "38449": {
-            "name": "Monoprice Single-Mode Fiber Optic Cable - LC/LC, 9/125 Type, Duplex, Yellow, 1m",
-            "price": 2.89,
-            "url": "https://www.monoprice.com/product?p_id=38449",
-            "product_id": 38449,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 1
         },
         "3845": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 2-Conductor Speaker Wire, 500ft, White",
@@ -17277,8 +17268,8 @@
             "url": "https://www.monoprice.com/product?p_id=38791",
             "product_id": 38791,
             "available": true,
-            "rating": 4.3,
-            "num_reviews": 69
+            "rating": 4.4,
+            "num_reviews": 73
         },
         "38792": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 3ft, Black",
@@ -17313,8 +17304,8 @@
             "url": "https://www.monoprice.com/product?p_id=38795",
             "product_id": 38795,
             "available": true,
-            "rating": 4.3,
-            "num_reviews": 69
+            "rating": 4.4,
+            "num_reviews": 73
         },
         "38796": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 3ft, White",
@@ -17385,8 +17376,8 @@
             "url": "https://www.monoprice.com/product?p_id=38805",
             "product_id": 38805,
             "available": false,
-            "rating": 4.3,
-            "num_reviews": 69
+            "rating": 4.4,
+            "num_reviews": 73
         },
         "38806": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 10ft, Red",
@@ -17493,8 +17484,8 @@
             "url": "https://www.monoprice.com/product?p_id=38819",
             "product_id": 38819,
             "available": false,
-            "rating": 4.3,
-            "num_reviews": 69
+            "rating": 4.4,
+            "num_reviews": 73
         },
         "38820": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 3ft, Red",
@@ -17573,7 +17564,7 @@
             "price": 13.99,
             "url": "https://www.monoprice.com/product?p_id=38831",
             "product_id": 38831,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 69
         },
@@ -17611,7 +17602,7 @@
             "product_id": 38838,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 56
+            "num_reviews": 57
         },
         "38841": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 3A/60W, 1.5ft, White",
@@ -17710,7 +17701,7 @@
             "product_id": 38853,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 56
+            "num_reviews": 57
         },
         "38854": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 5A/100W, 3ft, Black",
@@ -17944,7 +17935,7 @@
             "product_id": 38901,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 75
+            "num_reviews": 77
         },
         "38902": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-A Charge and Sync Nylon-Braid Cable, 10ft, Black",
@@ -18034,7 +18025,7 @@
             "product_id": 38911,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 75
+            "num_reviews": 77
         },
         "38912": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-A Charge and Sync Nylon-Braid Cable, 3ft, Blue",
@@ -18123,8 +18114,8 @@
             "url": "https://www.monoprice.com/product?p_id=38922",
             "product_id": 38922,
             "available": true,
-            "rating": 4.6,
-            "num_reviews": 20
+            "rating": 4.7,
+            "num_reviews": 21
         },
         "3896": {
             "name": "Monoprice USB-A to Mini-B Cable - 5-Pin, 28/28AWG, Black, 3ft",
@@ -18862,7 +18853,7 @@
             "product_id": 39381,
             "available": true,
             "rating": 5,
-            "num_reviews": 3
+            "num_reviews": 4
         },
         "39382": {
             "name": "Coaxial/LAN Cable Stripper and Cutter",
@@ -19060,7 +19051,7 @@
             "product_id": 39476,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 55
+            "num_reviews": 56
         },
         "39477": {
             "name": "Monoprice 8K Slim Ultra High Speed HDMI Cable 3ft - 48Gbps Black",
@@ -20039,7 +20030,7 @@
             "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=39666",
             "product_id": 39666,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 13
         },
@@ -20356,7 +20347,7 @@
             "product_id": 39844,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 161
+            "num_reviews": 163
         },
         "39847": {
             "name": "Wall mount for Dome Camera, black housing (compatible with Hikivision DS-2CD2143G0-I(B), Monoprice 38526)",
@@ -20599,7 +20590,7 @@
             "product_id": 39926,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1580
+            "num_reviews": 1584
         },
         "39927": {
             "name": "Monoprice USB Type-A to USB Type-A Female 2.0 Extension Cable - 28/24AWG Gold Plated Black 10ft, 3-Pack",
@@ -38307,6 +38298,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-12T02:34:50Z"
+        "timestamp": "2023-04-12T03:19:33Z"
     }
 }
