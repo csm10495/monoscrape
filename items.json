@@ -20723,7 +20723,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=40041",
             "product_id": 40041,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -22219,7 +22219,7 @@
             "product_id": 40887,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 55
+            "num_reviews": 56
         },
         "40888": {
             "name": "Monoprice Cat6 25ft Black Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -22524,8 +22524,8 @@
             "url": "https://www.monoprice.com/product?p_id=41036",
             "product_id": 41036,
             "available": true,
-            "rating": 4.5,
-            "num_reviews": 12
+            "rating": 0,
+            "num_reviews": 0
         },
         "41037": {
             "name": "Monoprice Cat6 14ft Black PoE Patch Cable, Shielded (U/FTP), 24AWG, 550MHz, Solid Pure Bare Copper, Snagless RJ45, 600V, Flexboot Series Ethernet Cable",
@@ -22533,8 +22533,8 @@
             "url": "https://www.monoprice.com/product?p_id=41037",
             "product_id": 41037,
             "available": true,
-            "rating": 4.5,
-            "num_reviews": 12
+            "rating": 0,
+            "num_reviews": 0
         },
         "41038": {
             "name": "Monoprice Cat6 20ft Black PoE Patch Cable, Shielded (U/FTP), 24AWG, 550MHz, Solid Pure Bare Copper, Snagless RJ45, 600V, Flexboot Series Ethernet Cable",
@@ -22596,8 +22596,8 @@
             "url": "https://www.monoprice.com/product?p_id=41080",
             "product_id": 41080,
             "available": false,
-            "rating": 4.9,
-            "num_reviews": 14
+            "rating": 0,
+            "num_reviews": 0
         },
         "41081": {
             "name": "Monoprice Power Cord - Polarized NEMA 1-15P to Polarized IEC 60320 C7, 18AWG, 10A/1250W, 125V, Black, 10ft",
@@ -22695,8 +22695,8 @@
             "url": "https://www.monoprice.com/product?p_id=41096",
             "product_id": 41096,
             "available": true,
-            "rating": 4.3,
-            "num_reviews": 3
+            "rating": 0,
+            "num_reviews": 0
         },
         "41097": {
             "name": "Monoprice Blackbird 4K HDBaseT Extender Kit, 120m, HDR, 18Gbps, 4K@60Hz, YCbCr 4:4:4, HDCP 2.2, PoC, RS-232, Loop Out and Bidirectional IR",
@@ -24612,8 +24612,8 @@
             "url": "https://www.monoprice.com/product?p_id=42066",
             "product_id": 42066,
             "available": false,
-            "rating": 4.9,
-            "num_reviews": 304
+            "rating": 0,
+            "num_reviews": 0
         },
         "42073": {
             "name": "Monoprice 8K No Logo Ultra High Speed HDMI Cable, 48Gbps, 1.5ft, Black",
@@ -24648,8 +24648,8 @@
             "url": "https://www.monoprice.com/product?p_id=42076",
             "product_id": 42076,
             "available": true,
-            "rating": 4.7,
-            "num_reviews": 27
+            "rating": 0,
+            "num_reviews": 0
         },
         "42077": {
             "name": "Monoprice 8K No Logo Ultra High Speed HDMI Cable, 48Gbps, 6ft, Black",
@@ -25161,8 +25161,8 @@
             "url": "https://www.monoprice.com/product?p_id=42342",
             "product_id": 42342,
             "available": true,
-            "rating": 4.7,
-            "num_reviews": 3
+            "rating": 0,
+            "num_reviews": 0
         },
         "42344": {
             "name": "Monoprice Cat6A 500ft Gray CMR UL Bulk Cable, TAA, Shielded (F/UTP), Solid, 23AWG, 550MHz, 10G, Pure Bare Copper, Reel in Box, Bulk Ethernet Cable",
@@ -25827,8 +25827,8 @@
             "url": "https://www.monoprice.com/product?p_id=42686",
             "product_id": 42686,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 220
+            "rating": 0,
+            "num_reviews": 0
         },
         "42687": {
             "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 28AWG, 10ft, Black - 5 Pack",
@@ -26286,8 +26286,8 @@
             "url": "https://www.monoprice.com/product?p_id=42892",
             "product_id": 42892,
             "available": false,
-            "rating": 4.2,
-            "num_reviews": 30
+            "rating": 4.3,
+            "num_reviews": 31
         },
         "42897": {
             "name": "Folding Table 4 Foot Adjustable Height Portable Lightweight Aluminum Camping Table, Small Folding Table with Carry Handle, for Outdoor/Indoor",
@@ -26925,15 +26925,15 @@
             "url": "https://www.monoprice.com/product?p_id=43083",
             "product_id": 43083,
             "available": true,
-            "rating": 4.7,
-            "num_reviews": 55
+            "rating": 0,
+            "num_reviews": 0
         },
         "43084": {
             "name": "Monoprice Flexboot Cat6 Ethernet Patch Cable - Snagless RJ45, Flat, 550MHz, UTP, Pure Bare Copper Wire, 30AWG, 75ft, White",
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=43084",
             "product_id": 43084,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 55
         },
@@ -27051,8 +27051,8 @@
             "url": "https://www.monoprice.com/product?p_id=43136",
             "product_id": 43136,
             "available": true,
-            "rating": 5,
-            "num_reviews": 1
+            "rating": 0,
+            "num_reviews": 0
         },
         "43137": {
             "name": "Commercial Series Premium High Speed HDMI Cable -4K@60Hz, HDR, 18Gbps, YCbCr 4:4:4, OD 0.22in, 30AWG, CL2, 10ft, Black",
@@ -28275,8 +28275,8 @@
             "url": "https://www.monoprice.com/product?p_id=43453",
             "product_id": 43453,
             "available": false,
-            "rating": 3.8,
-            "num_reviews": 17
+            "rating": 3.7,
+            "num_reviews": 18
         },
         "43462": {
             "name": "4Pack 4inch 27W Flood Round Pods Led Work Light Driving Fog Light Offroad Light for Tractor Off-Road SUV Boat Truck",
@@ -28446,8 +28446,8 @@
             "url": "https://www.monoprice.com/product?p_id=43563",
             "product_id": 43563,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 22
+            "rating": 4.7,
+            "num_reviews": 23
         },
         "43564": {
             "name": "Monoprice Home Office Fixed Steel Frame Computer Desk with Solid-Core 4-foot Desktop and Accessory Attachments, Black",
@@ -38298,6 +38298,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-12T03:19:33Z"
+        "timestamp": "2023-04-12T04:22:14Z"
     }
 }
