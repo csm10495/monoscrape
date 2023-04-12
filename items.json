@@ -27851,7 +27851,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=40041",
             "product_id": 40041,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 1
         },
@@ -29194,7 +29194,7 @@
             "product_id": 40785,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 12
+            "num_reviews": 13
         },
         "40786": {
             "name": "DisplayPort 1.4 EasyPlug Nylon Braided Cable, 3ft, Gray (10 Pack)",
@@ -29203,7 +29203,7 @@
             "product_id": 40786,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 12
+            "num_reviews": 13
         },
         "40788": {
             "name": "DisplayPort 1.4 EasyPlug Nylon Braided Cable, 6ft, Gray (10 Pack)",
@@ -29212,7 +29212,7 @@
             "product_id": 40788,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 12
+            "num_reviews": 13
         },
         "40789": {
             "name": "DisplayPort 1.4 EasyPlug Nylon Braided Cable, 10ft, Gray (10 Pack)",
@@ -29284,7 +29284,7 @@
             "product_id": 40880,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 55
+            "num_reviews": 56
         },
         "40881": {
             "name": "Monoprice Cat6 2ft Black Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -29293,7 +29293,7 @@
             "product_id": 40881,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 55
+            "num_reviews": 56
         },
         "40882": {
             "name": "Monoprice Cat6 3ft Black Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -31228,7 +31228,7 @@
             "product_id": 41821,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1455
+            "num_reviews": 1457
         },
         "41822": {
             "name": "UVC Sterilizer with wireless charging Disinfection Tool for Sterilization",
@@ -31487,7 +31487,7 @@
             "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=42014",
             "product_id": 42014,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 105
         },
@@ -32487,8 +32487,8 @@
             "url": "https://www.monoprice.com/product?p_id=42520",
             "product_id": 42520,
             "available": true,
-            "rating": 3.7,
-            "num_reviews": 65
+            "rating": 3.6,
+            "num_reviews": 66
         },
         "42522": {
             "name": "Wheelchair Lightweight Folding Portable Transport Chair with Bags Solid Tires Seatbelt Hand Brakes",
@@ -32506,7 +32506,7 @@
             "product_id": 42527,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 258
+            "num_reviews": 260
         },
         "42528": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Black - 3 Pack",
@@ -33134,7 +33134,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=42795",
             "product_id": 42795,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -33279,8 +33279,8 @@
             "url": "https://www.monoprice.com/product?p_id=42839",
             "product_id": 42839,
             "available": true,
-            "rating": 5,
-            "num_reviews": 2
+            "rating": 4.5,
+            "num_reviews": 8
         },
         "42840": {
             "name": "Monolith by Monoprice 24in Cherry Wood Speaker Stand with Adjustable Top Plate, Cherry (Each)",
@@ -34018,7 +34018,7 @@
             "product_id": 43076,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 55
+            "num_reviews": 56
         },
         "43077": {
             "name": "Monoprice Cat6 7ft White Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -34160,7 +34160,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=43124",
             "product_id": 43124,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 8
         },
@@ -34261,7 +34261,7 @@
             "product_id": 43154,
             "available": true,
             "rating": 5,
-            "num_reviews": 2
+            "num_reviews": 3
         },
         "43155": {
             "name": "Monolith by Monoprice Audition T5 Tower Speaker (Each)",
@@ -34583,7 +34583,7 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=43205",
             "product_id": 43205,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 12
         },
@@ -34836,8 +34836,8 @@
             "url": "https://www.monoprice.com/product?p_id=43244",
             "product_id": 43244,
             "available": false,
-            "rating": 4.8,
-            "num_reviews": 5
+            "rating": 4.7,
+            "num_reviews": 6
         },
         "43245": {
             "name": "Monoprice Bluetooth 5 Receiver with Mic Input",
@@ -35627,7 +35627,7 @@
             "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=43581",
             "product_id": 43581,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -35954,6 +35954,15 @@
             "available": true,
             "rating": 3.9,
             "num_reviews": 9
+        },
+        "43792": {
+            "name": "Monoprice 112W 4-Port USB-C Desktop Charging Station",
+            "price": 35.99,
+            "url": "https://www.monoprice.com/product?p_id=43792",
+            "product_id": 43792,
+            "available": true,
+            "rating": 4.3,
+            "num_reviews": 6
         },
         "43794": {
             "name": "Monoprice 3-in-1 Wireless Charging Stand, Bundled with QC3.0 Wall Charger",
@@ -36664,7 +36673,7 @@
             "product_id": 44415,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1455
+            "num_reviews": 1457
         },
         "44434": {
             "name": "Blackbird 8K60 2x1 HDMI Switch, HDMI 2.1, HDCP 2.3",
@@ -36734,6 +36743,15 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=44469",
             "product_id": 44469,
+            "available": false,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "44485": {
+            "name": "Monoprice SlimSelect Series Ultra Slim Full-Motion Articulating TV Wall Mount Bracket for TVs 37in to 90in, Max Weight 110lbs, Extension Range of 0.9in to 10.5in, VESA Patterns Up to 600x400",
+            "price": 59.99,
+            "url": "https://www.monoprice.com/product?p_id=44485",
+            "product_id": 44485,
             "available": false,
             "rating": 0,
             "num_reviews": 0
@@ -45435,6 +45453,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-12T21:17:24Z"
+        "timestamp": "2023-04-12T22:18:08Z"
     }
 }
