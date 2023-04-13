@@ -16504,7 +16504,7 @@
             "product_id": 31187,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 391
+            "num_reviews": 392
         },
         "31188": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Red",
@@ -18619,7 +18619,7 @@
             "product_id": 33883,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 207
+            "num_reviews": 213
         },
         "33884": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Magenta",
@@ -18680,7 +18680,7 @@
             "price": 29.39,
             "url": "https://www.monoprice.com/product?p_id=33899",
             "product_id": 33899,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -23342,7 +23342,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=38296",
             "product_id": 38296,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 32
         },
@@ -24811,7 +24811,7 @@
             "product_id": 38850,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 56
+            "num_reviews": 57
         },
         "38851": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 3A/60W, 6ft, Red",
@@ -45462,6 +45462,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-13T09:18:33Z"
+        "timestamp": "2023-04-13T10:19:34Z"
     }
 }
