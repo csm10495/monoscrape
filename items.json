@@ -16369,7 +16369,7 @@
             "product_id": 31035,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 18
+            "num_reviews": 19
         },
         "31037": {
             "name": "Monoprice Sycamore Outdoor 2.5-inch Satellite Garden Speaker (pair)",
@@ -17341,7 +17341,7 @@
             "product_id": 33246,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 517
+            "num_reviews": 519
         },
         "33247": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 10G, 30AWG, 50ft, Black, 10-Pack",
@@ -17458,7 +17458,7 @@
             "product_id": 33304,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 72
+            "num_reviews": 71
         },
         "33305": {
             "name": "Monolith by Monoprice Liquid Platinum Balanced Headphone Amplifier by Alex Cavalli",
@@ -17955,15 +17955,6 @@
             "rating": 5,
             "num_reviews": 7
         },
-        "33657": {
-            "name": "Monoprice Heavy Duty Power Cable - IEC 60320 C14 to IEC 60320 C15, 14AWG, 15A/1875W, SJT, 125V, Green, 6ft",
-            "price": 4.1,
-            "url": "https://www.monoprice.com/product?p_id=33657",
-            "product_id": 33657,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 7
-        },
         "33658": {
             "name": "Monoprice Heavy Duty Power Cable - IEC 60320 C14 to IEC 60320 C15, 14AWG, 15A/1875W, SJT, 125V, Blue, 6ft",
             "price": 6.99,
@@ -18421,7 +18412,7 @@
             "product_id": 33820,
             "available": true,
             "rating": 4.2,
-            "num_reviews": 58
+            "num_reviews": 57
         },
         "33829": {
             "name": "Monoprice SSW-8 8in 100-Watt Powered Slim Subwoofer",
@@ -18447,8 +18438,8 @@
             "url": "https://www.monoprice.com/product?p_id=33831",
             "product_id": 33831,
             "available": true,
-            "rating": 4.2,
-            "num_reviews": 25
+            "rating": 4.5,
+            "num_reviews": 23
         },
         "33832": {
             "name": "Monoprice Premium 5.1.4 Channel Immersive Home Theater System with Subwoofer",
@@ -18475,7 +18466,7 @@
             "product_id": 33834,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 771
+            "num_reviews": 770
         },
         "33835": {
             "name": "Monolith by Monoprice 14AWG Oxygen Free Copper Multi-Strand Conductors PE Insulated Speaker Wire with Gold Plated Banana Plug Connectors, 10 foot - Pair",
@@ -18664,7 +18655,7 @@
             "product_id": 33882,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 213
+            "num_reviews": 211
         },
         "33883": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Brown",
@@ -19634,7 +19625,7 @@
             "price": 499.99,
             "url": "https://www.monoprice.com/product?p_id=34367",
             "product_id": 34367,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 10
         },
@@ -20320,7 +20311,7 @@
             "product_id": 34642,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 271
+            "num_reviews": 272
         },
         "34663": {
             "name": "Monoprice Cat6 1ft Black Reinforced Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -20405,7 +20396,7 @@
         },
         "34748": {
             "name": "Cat8 24AWG S/FTP Ethernet Network Cable, 2GHz, 40G, 15m, Black, 5 pack",
-            "price": 146.99,
+            "price": 88.19,
             "url": "https://www.monoprice.com/product?p_id=34748",
             "product_id": 34748,
             "available": true,
@@ -20601,6 +20592,15 @@
             "rating": 2.7,
             "num_reviews": 10
         },
+        "34820": {
+            "name": "Cat6A 90 Degree Unshielded Punch Down Keystone Jack, Dual Type IDC, 25 Pack, White",
+            "price": 61.49,
+            "url": "https://www.monoprice.com/product?p_id=34820",
+            "product_id": 34820,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "34822": {
             "name": "Monoprice Entegrade Series Cat7 or Cat6A RJ-45 Field Connection Modular Plug, Shielded for 23/24AWG Installation Cable, 10 pack",
             "price": 61.49,
@@ -20624,6 +20624,15 @@
             "price": 31.99,
             "url": "https://www.monoprice.com/product?p_id=34825",
             "product_id": 34825,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 10
+        },
+        "34826": {
+            "name": "Monoprice Cat6 RJ-45 180-Degree Punch Down Keystone Dual IDC, Black, 25 pack",
+            "price": 31.99,
+            "url": "https://www.monoprice.com/product?p_id=34826",
+            "product_id": 34826,
             "available": true,
             "rating": 4.7,
             "num_reviews": 10
@@ -21596,7 +21605,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=35788",
             "product_id": 35788,
-            "available": true,
+            "available": false,
             "rating": 3.5,
             "num_reviews": 11
         },
@@ -21983,7 +21992,7 @@
             "price": 13.99,
             "url": "https://www.monoprice.com/product?p_id=36202",
             "product_id": 36202,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 519
         },
@@ -23578,7 +23587,7 @@
             "product_id": 38320,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 259
+            "num_reviews": 260
         },
         "38321": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft, Purple",
@@ -23991,8 +24000,8 @@
             "url": "https://www.monoprice.com/product?p_id=38541",
             "product_id": 38541,
             "available": false,
-            "rating": 4.1,
-            "num_reviews": 16
+            "rating": 4.2,
+            "num_reviews": 15
         },
         "38543": {
             "name": "Monolith by Monoprice M-215 Dual 15in THX Certified Ultra 2000-Watt Powered Subwoofer",
@@ -24531,8 +24540,8 @@
             "url": "https://www.monoprice.com/product?p_id=38800",
             "product_id": 38800,
             "available": true,
-            "rating": 4.3,
-            "num_reviews": 69
+            "rating": 4.4,
+            "num_reviews": 74
         },
         "38801": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 6ft, Blue",
@@ -24620,7 +24629,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=38812",
             "product_id": 38812,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 73
         },
@@ -24973,14 +24982,14 @@
             "product_id": 38877,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 56
+            "num_reviews": 57
         },
         "38878": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 5A/100W, 6ft, Black, 3 Pack",
             "price": 10.19,
             "url": "https://www.monoprice.com/product?p_id=38878",
             "product_id": 38878,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 56
         },
@@ -45453,6 +45462,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-13T21:16:56Z"
+        "timestamp": "2023-04-13T22:18:01Z"
     }
 }
