@@ -590,9 +590,9 @@
             "price": 20.59,
             "url": "https://www.monoprice.com/product?p_id=11043",
             "product_id": 11043,
-            "available": false,
+            "available": true,
             "rating": 4.3,
-            "num_reviews": 570
+            "num_reviews": 571
         },
         "11044": {
             "name": "Monoprice Premium 3D Printer Filament PLA 1.75mm 1kg/spool, Bright Green",
@@ -995,7 +995,7 @@
             "price": 0.99,
             "url": "https://www.monoprice.com/product?p_id=11261",
             "product_id": 11261,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 460
         },
@@ -1042,7 +1042,7 @@
             "product_id": 11272,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1455
+            "num_reviews": 1457
         },
         "11273": {
             "name": "Monoprice Cat6 1ft Gray Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -1357,7 +1357,7 @@
             "product_id": 11322,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1455
+            "num_reviews": 1457
         },
         "11325": {
             "name": "Monoprice Cat6 30ft White Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -2039,7 +2039,7 @@
             "price": 12.35,
             "url": "https://www.monoprice.com/product?p_id=11779",
             "product_id": 11779,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 570
         },
@@ -2399,7 +2399,7 @@
             "price": 315.99,
             "url": "https://www.monoprice.com/product?p_id=12277",
             "product_id": 12277,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 7
         },
@@ -2445,8 +2445,8 @@
             "url": "https://www.monoprice.com/product?p_id=12297",
             "product_id": 12297,
             "available": false,
-            "rating": 3.5,
-            "num_reviews": 78
+            "rating": 3.6,
+            "num_reviews": 79
         },
         "12298": {
             "name": "Monoprice Premium 3D Printer Filament ABS 1.75mm 1kg/spool, Silver",
@@ -3128,7 +3128,7 @@
             "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=12994",
             "product_id": 12994,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 50
         },
@@ -4165,7 +4165,7 @@
             "product_id": 13510,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 271
+            "num_reviews": 272
         },
         "13511": {
             "name": "Monoprice Cat6 6in White Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -4694,7 +4694,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=13659",
             "product_id": 13659,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 231
         },
@@ -4885,7 +4885,7 @@
             "product_id": 13707,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 156
+            "num_reviews": 157
         },
         "13708": {
             "name": "Monoprice Nimbus Series 12AWG 2-Conductor CMP-Rated Speaker Wire, 100ft",
@@ -5056,7 +5056,7 @@
             "product_id": 13728,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 156
+            "num_reviews": 157
         },
         "13729": {
             "name": "Monoprice Nimbus Series 18AWG 2-Conductor CMP-Rated Speaker Wire, 50ft",
@@ -5747,7 +5747,7 @@
             "price": 21.17,
             "url": "https://www.monoprice.com/product?p_id=14131",
             "product_id": 14131,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 157
         },
@@ -6334,7 +6334,7 @@
             "product_id": 14804,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 271
+            "num_reviews": 272
         },
         "14805": {
             "name": "Monoprice Cat6 2ft Purple Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -6919,7 +6919,7 @@
             "product_id": 15161,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 517
+            "num_reviews": 519
         },
         "15162": {
             "name": "Monoprice Cat6A 7ft Blue 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -6998,7 +6998,7 @@
             "price": 33.99,
             "url": "https://www.monoprice.com/product?p_id=15170",
             "product_id": 15170,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 517
         },
@@ -7763,7 +7763,7 @@
             "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=15718",
             "product_id": 15718,
-            "available": false,
+            "available": true,
             "rating": 4.2,
             "num_reviews": 10
         },
@@ -9258,8 +9258,8 @@
             "url": "https://www.monoprice.com/product?p_id=16359",
             "product_id": 16359,
             "available": true,
-            "rating": 4.7,
-            "num_reviews": 87
+            "rating": 4.8,
+            "num_reviews": 88
         },
         "16360": {
             "name": "Workstream by Monoprice Medium Multimedia Desktop Monitor Stand, 25.6in x 11.0in, Max Weight Capacity 80lbs, Black Tempered Glass",
@@ -9482,7 +9482,7 @@
             "price": 199.99,
             "url": "https://www.monoprice.com/product?p_id=18608",
             "product_id": 18608,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 9
         },
@@ -9538,7 +9538,7 @@
             "product_id": 18629,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 136
+            "num_reviews": 137
         },
         "18630": {
             "name": "Monoprice Onyx Series Auxiliary 3.5mm TRS Audio Cable, 6ft",
@@ -9556,7 +9556,7 @@
             "product_id": 18631,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 136
+            "num_reviews": 137
         },
         "18632": {
             "name": "Monoprice Onyx Series Auxiliary 3.5mm TRRS Audio \u0026 Microphone Cable, 3ft",
@@ -45453,6 +45453,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-13T01:18:08Z"
+        "timestamp": "2023-04-13T02:34:06Z"
     }
 }
