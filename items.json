@@ -2743,7 +2743,7 @@
             "product_id": 12740,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 423
+            "num_reviews": 425
         },
         "12741": {
             "name": "Monoprice Mini DisplayPort 1.1 to DVI Adapter, Black",
@@ -5047,7 +5047,7 @@
             "product_id": 13727,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 156
+            "num_reviews": 157
         },
         "13728": {
             "name": "Monoprice Nimbus Series 16AWG 4-Conductor CMP-Rated Speaker Wire, 500ft",
@@ -6289,7 +6289,7 @@
             "product_id": 14795,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 271
+            "num_reviews": 272
         },
         "14796": {
             "name": "Monoprice Cat6 1ft Purple Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -8620,7 +8620,7 @@
             "product_id": 16173,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 156
+            "num_reviews": 157
         },
         "16174": {
             "name": "Monoprice Nimbus Series 16AWG 2-Conductor CMP-Rated Speaker Wire, 1000ft",
@@ -8638,7 +8638,7 @@
             "product_id": 16175,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 156
+            "num_reviews": 157
         },
         "16176": {
             "name": "Monoprice Nimbus Series 14AWG 2-Conductor CMP-Rated Speaker Wire, 1000ft",
@@ -45462,6 +45462,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-13T07:17:28Z"
+        "timestamp": "2023-04-13T08:23:00Z"
     }
 }
