@@ -28593,12 +28593,21 @@
             "rating": 4.9,
             "num_reviews": 13602
         },
+        "40293": {
+            "name": "1U Supporting Tray 250mm Shelf for Cabinet - GSA Approved",
+            "price": 38.99,
+            "url": "https://www.monoprice.com/product?p_id=40293",
+            "product_id": 40293,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 1
+        },
         "40296": {
             "name": "1U Cabinet Front Cover Plate (19.09 x 1.73 x 0.47 in) - GSA Approved",
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=40296",
             "product_id": 40296,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -28625,7 +28634,7 @@
             "price": 119.99,
             "url": "https://www.monoprice.com/product?p_id=40306",
             "product_id": 40306,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 6
         },
@@ -28736,15 +28745,6 @@
             "available": true,
             "rating": 4.9,
             "num_reviews": 1847
-        },
-        "40393": {
-            "name": "Pure Outdoor by Monoprice Emperor 50 Rotomolded Portable Wheeled Cooler 13.2 Gal",
-            "price": 199.99,
-            "url": "https://www.monoprice.com/product?p_id=40393",
-            "product_id": 40393,
-            "available": false,
-            "rating": 4.5,
-            "num_reviews": 13
         },
         "40394": {
             "name": "Pure Outdoor by Monoprice Emperor 50 Rotomolded Portable Wheeled Cooler 13.2 Gal, White",
@@ -29178,15 +29178,6 @@
             "rating": 4.7,
             "num_reviews": 87
         },
-        "40687": {
-            "name": "Pure Outdoor by Monoprice Emperor 50 Cooler, Gray (clearance)",
-            "price": 43.18,
-            "url": "https://www.monoprice.com/product?p_id=40687",
-            "product_id": 40687,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "40711": {
             "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam, 13\" x 12\" x 6\" (clearance)",
             "price": 11.5,
@@ -29201,15 +29192,6 @@
             "price": 2.15,
             "url": "https://www.monoprice.com/product?p_id=40719",
             "product_id": 40719,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "40735": {
-            "name": "Pure Outdoor by Monoprice Emperor 80 Cooler, Gray (clearance)",
-            "price": 59.4,
-            "url": "https://www.monoprice.com/product?p_id=40735",
-            "product_id": 40735,
             "available": false,
             "rating": 0,
             "num_reviews": 0
@@ -30677,7 +30659,7 @@
             "price": 229.99,
             "url": "https://www.monoprice.com/product?p_id=41498",
             "product_id": 41498,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 14
         },
@@ -31068,15 +31050,6 @@
             "rating": 5,
             "num_reviews": 2
         },
-        "41717": {
-            "name": "Pure Outdoor by Monoprice Emperor 25 Cooler, White (clearance)",
-            "price": 31.35,
-            "url": "https://www.monoprice.com/product?p_id=41717",
-            "product_id": 41717,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "41731": {
             "name": "STITCH by Monoprice Mini Wi-Fi 10A Outlet, Works with Alexa and Google Home for Touchless Voice Control, No Hub Required, ETL Certified (2-Pack)",
             "price": 10.49,
@@ -31379,7 +31352,7 @@
             "price": 5.09,
             "url": "https://www.monoprice.com/product?p_id=41938",
             "product_id": 41938,
-            "available": true,
+            "available": false,
             "rating": 4,
             "num_reviews": 5
         },
@@ -31568,7 +31541,7 @@
             "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=42015",
             "product_id": 42015,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 106
         },
@@ -31739,7 +31712,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=42052",
             "product_id": 42052,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 7
         },
@@ -32018,7 +31991,7 @@
             "price": 17.99,
             "url": "https://www.monoprice.com/product?p_id=42126",
             "product_id": 42126,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -32171,7 +32144,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=42197",
             "product_id": 42197,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -32325,8 +32298,8 @@
             "url": "https://www.monoprice.com/product?p_id=42305",
             "product_id": 42305,
             "available": false,
-            "rating": 3.8,
-            "num_reviews": 15
+            "rating": 4,
+            "num_reviews": 14
         },
         "42306": {
             "name": "Dark Matter by Monoprice Collider TKL Gaming Keyboard - Cherry MX Brown, RGB Backlit, USB-C",
@@ -32468,24 +32441,6 @@
             "price": 71.5,
             "url": "https://www.monoprice.com/product?p_id=42384",
             "product_id": 42384,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "42394": {
-            "name": "Pure Outdoor by Monoprice Emperor 50 Cooler, Blue (clearance)",
-            "price": 43.18,
-            "url": "https://www.monoprice.com/product?p_id=42394",
-            "product_id": 42394,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "42396": {
-            "name": "Pure Outdoor by Monoprice Emperor 50 Cooler, Tan (clearance)",
-            "price": 46.38,
-            "url": "https://www.monoprice.com/product?p_id=42396",
-            "product_id": 42396,
             "available": false,
             "rating": 0,
             "num_reviews": 0
@@ -33201,15 +33156,6 @@
             "rating": 4.8,
             "num_reviews": 29
         },
-        "42795": {
-            "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550Mhz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Gray, (UL)",
-            "price": 39.99,
-            "url": "https://www.monoprice.com/product?p_id=42795",
-            "product_id": 42795,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "42814": {
             "name": "Magnetic Tiles 74Pcs Pipe 3D Magnetic Building Blocks Tiles Set - Magnet Marble Run with Colored Plastic Marbles STEM Toys for Kids Boys Gilrs Gifts",
             "price": 19.99,
@@ -33296,7 +33242,7 @@
             "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=42833",
             "product_id": 42833,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 262
         },
@@ -33314,7 +33260,7 @@
             "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=42835",
             "product_id": 42835,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 12
         },
@@ -33872,7 +33818,7 @@
             "price": 20.99,
             "url": "https://www.monoprice.com/product?p_id=42996",
             "product_id": 42996,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 7
         },
@@ -34137,15 +34083,6 @@
             "rating": 4.7,
             "num_reviews": 56
         },
-        "43084": {
-            "name": "Monoprice Flexboot Cat6 Ethernet Patch Cable - Snagless RJ45, Flat, 550MHz, UTP, Pure Bare Copper Wire, 30AWG, 75ft, White",
-            "price": 9.99,
-            "url": "https://www.monoprice.com/product?p_id=43084",
-            "product_id": 43084,
-            "available": false,
-            "rating": 4.7,
-            "num_reviews": 56
-        },
         "43103": {
             "name": "Monoprice OM3 Fiber Optic Cable - Reverse Polarity LC/LC Uniboot, UL, 50/125 Type, 10GB, Aqua, 1m, Corning",
             "price": 11.99,
@@ -34252,7 +34189,7 @@
             "product_id": 43130,
             "available": true,
             "rating": 5,
-            "num_reviews": 6
+            "num_reviews": 7
         },
         "43136": {
             "name": "Workstream by Monoprice 2-Outlet Wall Tap Power Strip with USB-C PD 50W + 20W Power Delivery",
@@ -34493,7 +34430,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=43180",
             "product_id": 43180,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 353
         },
@@ -34682,7 +34619,7 @@
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=43208",
             "product_id": 43208,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 9
         },
@@ -34817,7 +34754,7 @@
             "price": 98.99,
             "url": "https://www.monoprice.com/product?p_id=43224",
             "product_id": 43224,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 264
         },
@@ -34845,8 +34782,8 @@
             "url": "https://www.monoprice.com/product?p_id=43237",
             "product_id": 43237,
             "available": false,
-            "rating": 4.6,
-            "num_reviews": 10
+            "rating": 4.9,
+            "num_reviews": 9
         },
         "43238": {
             "name": "Monolith by Monoprice Balanced Headphone Cable for AMT, M1570 and M1570C Headphones",
@@ -35026,7 +34963,7 @@
             "product_id": 43303,
             "available": true,
             "rating": 1.7,
-            "num_reviews": 14
+            "num_reviews": 15
         },
         "43305": {
             "name": "Dark Matter by Monoprice 49in Curved Gaming Monitor - 32:9, 1800R, 5120x1440p, DQHD, 120Hz, Adaptive Sync, VA",
@@ -35195,7 +35132,7 @@
             "price": 37.99,
             "url": "https://www.monoprice.com/product?p_id=43349",
             "product_id": 43349,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1457
         },
@@ -35485,7 +35422,7 @@
             "product_id": 43453,
             "available": false,
             "rating": 3.7,
-            "num_reviews": 18
+            "num_reviews": 19
         },
         "43462": {
             "name": "4Pack 4inch 27W Flood Round Pods Led Work Light Driving Fog Light Offroad Light for Tractor Off-Road SUV Boat Truck",
@@ -35861,7 +35798,7 @@
             "price": 51.99,
             "url": "https://www.monoprice.com/product?p_id=43664",
             "product_id": 43664,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -36439,7 +36376,7 @@
             "product_id": 44268,
             "available": true,
             "rating": 5,
-            "num_reviews": 2
+            "num_reviews": 3
         },
         "443": {
             "name": "Monoprice 10ft DB 9 M/F Molded Cable",
@@ -36780,8 +36717,8 @@
             "url": "https://www.monoprice.com/product?p_id=44437",
             "product_id": 44437,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 5,
+            "num_reviews": 1
         },
         "44438": {
             "name": "Blackbird 2x2 HDMI Matrix With Audio Extraction, HDMI 2.1, HDCP 2.3",
@@ -45534,6 +45471,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-13T16:24:02Z"
+        "timestamp": "2023-04-13T17:16:25Z"
     }
 }
