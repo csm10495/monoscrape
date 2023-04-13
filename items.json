@@ -3366,15 +3366,6 @@
             "rating": 4.9,
             "num_reviews": 127
         },
-        "1315": {
-            "name": "Monoprice Molex Power Splitter Cable, 1x 5.25in Male to 2x 5.25in Female and 1x 3.5in Female, 8in",
-            "price": 1.99,
-            "url": "https://www.monoprice.com/product?p_id=1315",
-            "product_id": 1315,
-            "available": false,
-            "rating": 4.4,
-            "num_reviews": 7
-        },
         "1316": {
             "name": "Monoprice Molex Internal DC Power Extension Cable, 1x 5.25in Male to 1x 5.25in Female, 12in",
             "price": 1.19,
@@ -3758,7 +3749,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=133",
             "product_id": 133,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3039
         },
@@ -8159,7 +8150,7 @@
             "price": 13.99,
             "url": "https://www.monoprice.com/product?p_id=1591",
             "product_id": 1591,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 12
         },
@@ -11642,7 +11633,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=2324",
             "product_id": 2324,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -11669,15 +11660,6 @@
             "price": 26.99,
             "url": "https://www.monoprice.com/product?p_id=2329",
             "product_id": 2329,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 3398
-        },
-        "2330": {
-            "name": "Monoprice Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 100ft, Green",
-            "price": 25.49,
-            "url": "https://www.monoprice.com/product?p_id=2330",
-            "product_id": 2330,
             "available": true,
             "rating": 4.9,
             "num_reviews": 3398
@@ -13460,7 +13442,7 @@
             "price": 6.49,
             "url": "https://www.monoprice.com/product?p_id=2628",
             "product_id": 2628,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 15
         },
@@ -14243,7 +14225,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=2767",
             "product_id": 2767,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 2397
         },
@@ -15062,7 +15044,7 @@
             "price": 2.45,
             "url": "https://www.monoprice.com/product?p_id=2944",
             "product_id": 2944,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 141
         },
@@ -15415,7 +15397,7 @@
             "product_id": 3013,
             "available": true,
             "rating": 4.1,
-            "num_reviews": 475
+            "num_reviews": 474
         },
         "3021": {
             "name": "Monoprice Adjustable Height 5 lb. Capacity Speaker Stands (Pair), Silver",
@@ -17656,7 +17638,7 @@
             "product_id": 3352,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 46
+            "num_reviews": 47
         },
         "33534": {
             "name": "Monoprice MP Smart Wireless Keyboard for 10.5in iPad Pro, MFi Certified Smart Connector, Backlit Keyboard, Apple Pencil Holder, US English",
@@ -17692,7 +17674,7 @@
             "product_id": 3354,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 59
+            "num_reviews": 60
         },
         "33545": {
             "name": "Monoprice OM5 Fiber Optic Cable - LC/LC, UL, 50/125 Type, MultiMode, 40GB, Green, 1m, Corning",
@@ -28958,7 +28940,7 @@
             "price": 11.89,
             "url": "https://www.monoprice.com/product?p_id=4045",
             "product_id": 4045,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1847
         },
@@ -36905,7 +36887,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=4566",
             "product_id": 4566,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 158
         },
@@ -37024,7 +37006,7 @@
             "product_id": 4755,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 1351
+            "num_reviews": 1354
         },
         "4756": {
             "name": "Monoprice 50ft Premier Series XLR Male to XLR Female 16AWG Cable (Gold Plated) [Microphone and Interconnect]",
@@ -37033,7 +37015,7 @@
             "product_id": 4756,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 1352
+            "num_reviews": 1354
         },
         "4758": {
             "name": "Monoprice 100ft Premier Series XLR Male to XLR Female 16AWG Cable (Gold Plated) [Microphone and Interconnect]",
@@ -37330,7 +37312,7 @@
             "product_id": 4791,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 420
+            "num_reviews": 421
         },
         "4792": {
             "name": "Monoprice 3ft Premier Series 1/4in TRS Male to Male Cable, 16AWG (Gold Plated)",
@@ -37348,7 +37330,7 @@
             "product_id": 4793,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 418
+            "num_reviews": 421
         },
         "4794": {
             "name": "Monoprice 10ft Premier Series 1/4in TRS Male to Male Cable, 16AWG (Gold Plated)",
@@ -37682,6 +37664,15 @@
             "available": false,
             "rating": 4.9,
             "num_reviews": 3039
+        },
+        "500": {
+            "name": "Monoprice DIN5, M/F, 1:1 - 25ft",
+            "price": 4.49,
+            "url": "https://www.monoprice.com/product?p_id=500",
+            "product_id": 500,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
         },
         "5000": {
             "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 30ft, Yellow",
@@ -38165,7 +38156,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=5303",
             "product_id": 5303,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 93
         },
@@ -38518,7 +38509,7 @@
             "product_id": 5432,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1580
+            "num_reviews": 1584
         },
         "5433": {
             "name": "Monoprice USB Type-A to USB Type-A Female 2.0 Extension Cable - 28/24AWG, Gold Plated, Black, 6ft",
@@ -39058,7 +39049,7 @@
             "product_id": 5601,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 1346
+            "num_reviews": 1347
         },
         "5602": {
             "name": "Monoprice 35ft Premium 3.5mm Stereo Male to 2RCA Male 22AWG Cable (Gold Plated) - Black",
@@ -39110,7 +39101,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=566",
             "product_id": 566,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 13
         },
@@ -39371,7 +39362,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=5901",
             "product_id": 5901,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 494
         },
@@ -40212,15 +40203,6 @@
             "rating": 5,
             "num_reviews": 56
         },
-        "6390": {
-            "name": "Monoprice OM3 Fiber Optic Cable - LC/SC, UL, 50/125 Type, Multi-Mode, 10GB, Aqua, 1m, Corning",
-            "price": 2.39,
-            "url": "https://www.monoprice.com/product?p_id=6390",
-            "product_id": 6390,
-            "available": true,
-            "rating": 5,
-            "num_reviews": 6
-        },
         "6391": {
             "name": "Monoprice OM3 Fiber Optic Cable - LC/SC, UL, 50/125 Type, Multi-Mode, 10GB, Aqua, 2m, Corning",
             "price": 4.29,
@@ -40334,7 +40316,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=644",
             "product_id": 644,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 926
         },
@@ -40631,7 +40613,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=6539",
             "product_id": 6539,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 89
         },
@@ -40739,7 +40721,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=6576",
             "product_id": 6576,
-            "available": true,
+            "available": false,
             "rating": 3.9,
             "num_reviews": 41
         },
@@ -41234,7 +41216,7 @@
             "price": 1.79,
             "url": "https://www.monoprice.com/product?p_id=7014",
             "product_id": 7014,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 398
         },
@@ -41477,7 +41459,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=7169",
             "product_id": 7169,
-            "available": false,
+            "available": true,
             "rating": 3.2,
             "num_reviews": 83
         },
@@ -41486,7 +41468,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=7176",
             "product_id": 7176,
-            "available": false,
+            "available": true,
             "rating": 3.9,
             "num_reviews": 37
         },
@@ -41576,7 +41558,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=7233",
             "product_id": 7233,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 113
         },
@@ -42314,7 +42296,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=7649",
             "product_id": 7649,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 183
         },
@@ -42998,7 +42980,7 @@
             "price": 21.49,
             "url": "https://www.monoprice.com/product?p_id=8246",
             "product_id": 8246,
-            "available": true,
+            "available": false,
             "rating": 3.5,
             "num_reviews": 65
         },
@@ -43018,7 +43000,7 @@
             "product_id": 8248,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 269
+            "num_reviews": 271
         },
         "8321": {
             "name": "Monoprice Button Design Noise Isolating Earbuds Headphones, Black \u0026 White",
@@ -43830,6 +43812,15 @@
             "rating": 5,
             "num_reviews": 16
         },
+        "8796": {
+            "name": "Monoprice 8in 4pin MOLEX Male to 2x 15pin SATA II Female with 90 degree Power Cable",
+            "price": 1.29,
+            "url": "https://www.monoprice.com/product?p_id=8796",
+            "product_id": 8796,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 14
+        },
         "8799": {
             "name": "Monoprice 8in SATA 15pin Female with Latch to Molex 4pin Male Power Adapter",
             "price": 1.99,
@@ -43855,7 +43846,7 @@
             "product_id": 880,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 162
+            "num_reviews": 161
         },
         "8811": {
             "name": "Monoprice BNC M/M RG59U - 3ft",
@@ -44006,7 +43997,7 @@
             "price": 36.54,
             "url": "https://www.monoprice.com/product?p_id=9202",
             "product_id": 9202,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 84
         },
@@ -44060,7 +44051,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=9301",
             "product_id": 9301,
-            "available": true,
+            "available": false,
             "rating": 4,
             "num_reviews": 397
         },
@@ -44105,7 +44096,7 @@
             "price": 64.99,
             "url": "https://www.monoprice.com/product?p_id=9343",
             "product_id": 9343,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 21
         },
@@ -44330,7 +44321,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=9447",
             "product_id": 9447,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 210
         },
@@ -44339,7 +44330,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=9448",
             "product_id": 9448,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 210
         },
@@ -44420,7 +44411,7 @@
             "price": 32.99,
             "url": "https://www.monoprice.com/product?p_id=952",
             "product_id": 952,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 11
         },
@@ -45036,15 +45027,6 @@
             "rating": 4.9,
             "num_reviews": 1457
         },
-        "9829": {
-            "name": "Monoprice Cat6 100ft Red Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
-            "price": 12.99,
-            "url": "https://www.monoprice.com/product?p_id=9829",
-            "product_id": 9829,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 1457
-        },
         "9830": {
             "name": "Monoprice Cat6 2ft Red Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
             "price": 1.79,
@@ -45086,7 +45068,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=9835",
             "product_id": 9835,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1457
         },
@@ -45239,7 +45221,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=9856",
             "product_id": 9856,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1457
         },
@@ -45471,6 +45453,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-13T18:23:25Z"
+        "timestamp": "2023-04-13T19:18:09Z"
     }
 }
