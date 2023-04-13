@@ -27851,7 +27851,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=40041",
             "product_id": 40041,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -29320,7 +29320,7 @@
             "product_id": 40884,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 55
+            "num_reviews": 56
         },
         "40885": {
             "name": "Monoprice Cat6 10ft Black Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -29329,7 +29329,7 @@
             "product_id": 40885,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 55
+            "num_reviews": 56
         },
         "40886": {
             "name": "Monoprice Cat6 14ft Black Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -29338,7 +29338,7 @@
             "product_id": 40886,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 55
+            "num_reviews": 56
         },
         "40887": {
             "name": "Monoprice FLEXboot Flat Cat6 Ethernet Patch Cable - Snagless RJ45, Flat, 550MHz, UTP, Pure Bare Copper Wire, 30AWG, 20ft, Black",
@@ -29374,7 +29374,7 @@
             "product_id": 40891,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 55
+            "num_reviews": 56
         },
         "40908": {
             "name": "Monoprice Obsidian Speed Plus USB Desktop Charger, 4-Port, 60W PD Output for Laptops, iPhone, Android, and Galaxy Devices (clearance)",
@@ -31696,7 +31696,7 @@
             "product_id": 42055,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 352
+            "num_reviews": 353
         },
         "42059": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 14AWG, 15A, 3-Prong, Green, 1ft",
@@ -32515,7 +32515,7 @@
             "product_id": 42528,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 258
+            "num_reviews": 260
         },
         "42529": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Red - 3 Pack",
@@ -33404,7 +33404,7 @@
             "price": 189.99,
             "url": "https://www.monoprice.com/product?p_id=42890",
             "product_id": 42890,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 31
         },
@@ -33991,7 +33991,7 @@
             "product_id": 43073,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 55
+            "num_reviews": 56
         },
         "43074": {
             "name": "Monoprice Flexboot Cat6 Ethernet Patch Cable - Snagless RJ45, Flat, 550MHz, UTP, Pure Bare Copper Wire, 30AWG, 2ft, White",
@@ -34000,7 +34000,7 @@
             "product_id": 43074,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 55
+            "num_reviews": 56
         },
         "43075": {
             "name": "Monoprice Cat6 3ft White Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -34009,7 +34009,7 @@
             "product_id": 43075,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 55
+            "num_reviews": 56
         },
         "43076": {
             "name": "Monoprice Cat6 5ft White Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -34045,7 +34045,7 @@
             "product_id": 43079,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 55
+            "num_reviews": 56
         },
         "43081": {
             "name": "Monoprice Cat6 25ft White Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -34072,7 +34072,7 @@
             "product_id": 43084,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 55
+            "num_reviews": 56
         },
         "43103": {
             "name": "Monoprice OM3 Fiber Optic Cable - Reverse Polarity LC/LC Uniboot, UL, 50/125 Type, 10GB, Aqua, 1m, Corning",
@@ -34423,7 +34423,7 @@
             "product_id": 43180,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 352
+            "num_reviews": 353
         },
         "43181": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A, 125V, 3-Prong, White, 6ft",
@@ -34432,7 +34432,7 @@
             "product_id": 43181,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 352
+            "num_reviews": 353
         },
         "43182": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A, 125V, 3-Prong, White, 10ft",
@@ -34441,7 +34441,7 @@
             "product_id": 43182,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 352
+            "num_reviews": 353
         },
         "43183": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 14AWG, 15A, 3-Prong, White, 2ft",
@@ -34548,8 +34548,8 @@
             "url": "https://www.monoprice.com/product?p_id=43198",
             "product_id": 43198,
             "available": true,
-            "rating": 4.5,
-            "num_reviews": 19
+            "rating": 4.6,
+            "num_reviews": 20
         },
         "43199": {
             "name": "Monoprice Commercial Series Full-Motion Articulating TV Wall Mount Bracket For TVs 32in to 70in, Max Weight 88 lbs, Extension Range 2.4in to 18.4in, VESA Up to 400x400, Rotating, Fits Curved Screens",
@@ -36833,6 +36833,15 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=44496",
             "product_id": 44496,
+            "available": false,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "44497": {
+            "name": "Monoprice Cat6A 6in Blue Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 1.99,
+            "url": "https://www.monoprice.com/product?p_id=44497",
+            "product_id": 44497,
             "available": false,
             "rating": 0,
             "num_reviews": 0
@@ -45453,6 +45462,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-13T04:22:22Z"
+        "timestamp": "2023-04-13T05:17:40Z"
     }
 }
