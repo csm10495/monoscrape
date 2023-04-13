@@ -14767,7 +14767,7 @@
             "product_id": 2864,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 1296
+            "num_reviews": 1297
         },
         "2865": {
             "name": "Monoprice 12ft Premium 2 RCA Plug/2 RCA Plug M/M 22AWG Cable - Black",
@@ -37149,8 +37149,8 @@
             "url": "https://www.monoprice.com/product?p_id=477",
             "product_id": 477,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 28
+            "rating": 4.8,
+            "num_reviews": 38
         },
         "4770": {
             "name": "Monoprice 10ft Premier Series XLR Female to 1/4in TRS Male Cable, 16AWG (Gold Plated)",
@@ -38257,7 +38257,7 @@
             "product_id": 5350,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 1296
+            "num_reviews": 1297
         },
         "5355": {
             "name": "Monoprice 1.5ft 22AWG 5-RCA Component Video/Audio Coaxial Cable (RG-59/U) - Black",
@@ -40748,7 +40748,7 @@
             "price": 1.19,
             "url": "https://www.monoprice.com/product?p_id=659",
             "product_id": 659,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 143
         },
@@ -43846,7 +43846,7 @@
             "product_id": 880,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 161
+            "num_reviews": 162
         },
         "8811": {
             "name": "Monoprice BNC M/M RG59U - 3ft",
@@ -44564,7 +44564,7 @@
             "price": 139.99,
             "url": "https://www.monoprice.com/product?p_id=9723",
             "product_id": 9723,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 476
         },
@@ -45462,6 +45462,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-13T12:37:25Z"
+        "timestamp": "2023-04-13T13:22:22Z"
     }
 }
