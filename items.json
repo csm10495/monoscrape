@@ -16639,7 +16639,7 @@
             "product_id": 31202,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 258
+            "num_reviews": 260
         },
         "31203": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Black",
@@ -17025,8 +17025,8 @@
             "url": "https://www.monoprice.com/product?p_id=33044",
             "product_id": 33044,
             "available": true,
-            "rating": 3.5,
-            "num_reviews": 51
+            "rating": 3.6,
+            "num_reviews": 52
         },
         "33048": {
             "name": "STITCH by Monoprice Wireless Smart Door/Window Sensor; Works with Amazon Alexa and Google Assistant for Touchless Voice Control, No Hub Required",
@@ -17647,16 +17647,16 @@
             "product_id": 33557,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 352
+            "num_reviews": 353
         },
         "33558": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A/1250W, 125V, 3-Prong, Red, 2ft",
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=33558",
             "product_id": 33558,
-            "available": true,
+            "available": false,
             "rating": 4.9,
-            "num_reviews": 352
+            "num_reviews": 353
         },
         "33559": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A/1250W, 125V, 3-Prong, Green, 2ft",
@@ -17665,7 +17665,7 @@
             "product_id": 33559,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 352
+            "num_reviews": 353
         },
         "33560": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A/1250W, 125V, 3-Prong, Blue, 2ft",
@@ -17674,7 +17674,7 @@
             "product_id": 33560,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 352
+            "num_reviews": 353
         },
         "33564": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A/1250W, 125V, 3-Prong, Red, 3ft",
@@ -17683,7 +17683,7 @@
             "product_id": 33564,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 352
+            "num_reviews": 353
         },
         "33566": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A/1250W, 125V, 3-Prong, Blue, 3ft",
@@ -17692,7 +17692,7 @@
             "product_id": 33566,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 352
+            "num_reviews": 353
         },
         "33570": {
             "name": "Monoprice Mobile Series USB-C to 4-Port USB 3.0 hub adapter with Folding USB Type-C Connector",
@@ -17764,7 +17764,7 @@
             "product_id": 33604,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 352
+            "num_reviews": 353
         },
         "33608": {
             "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 18AWG, 10A/1250W, 3-Prong, SJT, Red, 2ft",
@@ -18518,7 +18518,7 @@
             "price": 5.49,
             "url": "https://www.monoprice.com/product?p_id=33868",
             "product_id": 33868,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 3
         },
@@ -18574,7 +18574,7 @@
             "product_id": 33878,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 207
+            "num_reviews": 213
         },
         "33879": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Yellow",
@@ -19247,7 +19247,7 @@
             "price": 2.29,
             "url": "https://www.monoprice.com/product?p_id=34230",
             "product_id": 34230,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 76
         },
@@ -21436,7 +21436,7 @@
             "product_id": 35534,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3396
+            "num_reviews": 3398
         },
         "35535": {
             "name": "Monoprice Cat6 7ft Pink Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -21445,7 +21445,7 @@
             "product_id": 35535,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3396
+            "num_reviews": 3398
         },
         "35557": {
             "name": "STITCH by Monoprice Smart In-Wall On/Off Light Switch, Works with Alexa and Google Home for Touchless Voice Control, No Hub Required",
@@ -23108,7 +23108,7 @@
             "price": 25.74,
             "url": "https://www.monoprice.com/product?p_id=38164",
             "product_id": 38164,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -23702,7 +23702,7 @@
             "price": 15.24,
             "url": "https://www.monoprice.com/product?p_id=38372",
             "product_id": 38372,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 8
         },
@@ -24793,7 +24793,7 @@
             "product_id": 38848,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 56
+            "num_reviews": 57
         },
         "38849": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 3A/60W, 1.5ft, Red",
@@ -24856,7 +24856,7 @@
             "product_id": 38858,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 56
+            "num_reviews": 57
         },
         "38861": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 5A/100W, 1.5ft, Blue",
@@ -25054,7 +25054,7 @@
             "product_id": 38900,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 75
+            "num_reviews": 77
         },
         "38901": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-A Charge and Sync Nylon-Braid Cable, 6ft, Black",
@@ -25072,7 +25072,7 @@
             "product_id": 38902,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 75
+            "num_reviews": 77
         },
         "38903": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-A Charge and Sync Nylon-Braid Cable, 1.5ft, White",
@@ -25349,7 +25349,7 @@
             "price": 89.99,
             "url": "https://www.monoprice.com/product?p_id=39021",
             "product_id": 39021,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 59
         },
@@ -25970,7 +25970,7 @@
             "price": 55.99,
             "url": "https://www.monoprice.com/product?p_id=39368",
             "product_id": 39368,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -27313,7 +27313,7 @@
             "product_id": 39779,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 352
+            "num_reviews": 353
         },
         "39780": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A/1250W, 125V, 3-Prong, Black, 3ft, 6-Pack",
@@ -27322,7 +27322,7 @@
             "product_id": 39780,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 352
+            "num_reviews": 353
         },
         "39781": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A/1250W, 125V, 3-Prong, Black, 6ft, 6-Pack",
@@ -27331,7 +27331,7 @@
             "product_id": 39781,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 352
+            "num_reviews": 353
         },
         "39782": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A/1250W, 125V, 3-Prong, Black, 10ft, 6-Pack",
@@ -27340,7 +27340,7 @@
             "product_id": 39782,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 352
+            "num_reviews": 353
         },
         "39783": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 16AWG, 13A/1625W, 3-Prong, Black, 2ft, 6-Pack",
@@ -45453,6 +45453,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-13T03:19:25Z"
+        "timestamp": "2023-04-13T04:22:22Z"
     }
 }
