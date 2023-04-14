@@ -1955,7 +1955,7 @@
         },
         "1158": {
             "name": "Monoprice DB25M/RJ-45,Modular Adapter",
-            "price": 0.53,
+            "price": 0.62,
             "url": "https://www.monoprice.com/product?p_id=1158",
             "product_id": 1158,
             "available": true,
@@ -2141,15 +2141,6 @@
             "available": true,
             "rating": 0,
             "num_reviews": 0
-        },
-        "1190": {
-            "name": "Monoprice HD15 (HD VGA/SVGA) Male to Female Port Saver",
-            "price": 1.49,
-            "url": "https://www.monoprice.com/product?p_id=1190",
-            "product_id": 1190,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 13
         },
         "1191": {
             "name": "Monoprice HD15 (HD VGA/SVGA) Female to Female Mini Gender Changer",
@@ -4076,15 +4067,6 @@
             "available": false,
             "rating": 4.7,
             "num_reviews": 132
-        },
-        "1342": {
-            "name": "Monoprice DB9 Female, AB 2 Way Switch Box",
-            "price": 17.99,
-            "url": "https://www.monoprice.com/product?p_id=1342",
-            "product_id": 1342,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 2
         },
         "1343": {
             "name": "Monoprice DB9 Female, ABCD 4 Way Switch Box",
@@ -9909,15 +9891,6 @@
             "rating": 4.9,
             "num_reviews": 3039
         },
-        "2008": {
-            "name": "Monoprice 12ft 2 RCA Plug/2 RCA Plug M/M Cable - Black",
-            "price": 1.49,
-            "url": "https://www.monoprice.com/product?p_id=2008",
-            "product_id": 2008,
-            "available": false,
-            "rating": 4.7,
-            "num_reviews": 143
-        },
         "2009": {
             "name": "Monoprice 25ft 2 RCA Plug/2 RCA Plug M/M Cable - Black",
             "price": 1.01,
@@ -11408,7 +11381,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=2297",
             "product_id": 2297,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -11615,7 +11588,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=2320",
             "product_id": 2320,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -13389,8 +13362,8 @@
             "url": "https://www.monoprice.com/product?p_id=2616",
             "product_id": 2616,
             "available": true,
-            "rating": 5,
-            "num_reviews": 23
+            "rating": 4.9,
+            "num_reviews": 24
         },
         "2617": {
             "name": "Monoprice OM1 Fiber Optic Cable - LC/LC, UL, 62.5/125 Type, Multi-Mode, Orange, 2m, Corning",
@@ -13507,7 +13480,7 @@
             "product_id": 2681,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1456
+            "num_reviews": 1457
         },
         "2682": {
             "name": "Monoprice 12ft High-quality Coaxial Audio/Video RCA CL2 Rated Cable - RG6/U 75ohm (for S/PDIF, Digital Coax, Subwoofer, and Composite Video)",
@@ -14740,7 +14713,7 @@
             "product_id": 2819,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1847
+            "num_reviews": 1845
         },
         "2820": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 2-Conductor Speaker Wire, 100ft, White",
@@ -14848,7 +14821,7 @@
             "product_id": 2868,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 1296
+            "num_reviews": 1297
         },
         "2869": {
             "name": "Monoprice 3ft Premium 2 RCA Plug/2 RCA Plug M/M 22AWG Cable, Black",
@@ -19508,7 +19481,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=3431",
             "product_id": 3431,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -23947,7 +23920,7 @@
             "product_id": 3846,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1847
+            "num_reviews": 1845
         },
         "3850": {
             "name": "Monoprice HDMI® Port Saver (Male to Female) - 270 Degree",
@@ -27869,7 +27842,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=3997",
             "product_id": 3997,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 519
         },
@@ -28518,15 +28491,6 @@
             "url": "https://www.monoprice.com/product?p_id=4024",
             "product_id": 4024,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 13602
-        },
-        "4025": {
-            "name": "Monoprice 4K High Speed HDMI Cable 6ft - 18Gbps Purple",
-            "price": 9.49,
-            "url": "https://www.monoprice.com/product?p_id=4025",
-            "product_id": 4025,
-            "available": false,
             "rating": 4.9,
             "num_reviews": 13602
         },
@@ -37058,7 +37022,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=475",
             "product_id": 475,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 7
         },
@@ -37112,7 +37076,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=4755",
             "product_id": 4755,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 1354
         },
@@ -37184,7 +37148,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=4763",
             "product_id": 4763,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 290
         },
@@ -37571,7 +37535,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=4867",
             "product_id": 4867,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 1926
         },
@@ -38916,15 +38880,6 @@
             "rating": 4.4,
             "num_reviews": 407
         },
-        "5544": {
-            "name": "Monoprice VGA HD-15 to 5 BNC RGB Video Cable for HDTV Monitor cable - 10FT (Black)",
-            "price": 14.49,
-            "url": "https://www.monoprice.com/product?p_id=5544",
-            "product_id": 5544,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 13
-        },
         "5557": {
             "name": "Monoprice Blackbird 4x1 HDMI 1.4 Switch HDCP 1.4 with Toslink and Analog Audio Extractor, 1080p@60Hz",
             "price": 29.99,
@@ -39121,7 +39076,7 @@
             "product_id": 5598,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1346
+            "num_reviews": 1347
         },
         "5599": {
             "name": "Monoprice 10ft Premium 3.5mm Stereo Male to 2RCA Male 22AWG Cable (Gold Plated) - Black",
@@ -39572,15 +39527,6 @@
             "available": true,
             "rating": 4.5,
             "num_reviews": 165
-        },
-        "5976": {
-            "name": "Monoprice 1 PAIR OF High-Quality Gold Plated Speaker Pin Plugs, Pin Screw Type",
-            "price": 0.99,
-            "url": "https://www.monoprice.com/product?p_id=5976",
-            "product_id": 5976,
-            "available": false,
-            "rating": 4.6,
-            "num_reviews": 40
         },
         "5978": {
             "name": "Monoprice 8.0mm Professional Microphone Bulk Cable, 100ft",
@@ -41228,15 +41174,6 @@
             "available": true,
             "rating": 5,
             "num_reviews": 7
-        },
-        "697": {
-            "name": "Monoprice IEEE-488,Metal Hood - 1m",
-            "price": 10.19,
-            "url": "https://www.monoprice.com/product?p_id=697",
-            "product_id": 697,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 2
         },
         "6971": {
             "name": "Monoprice 5.25in 2-Way Indoor/Outdoor Weatherproof Speakers, 40W Nominal, 80W Max (Pair)",
@@ -43061,7 +42998,7 @@
             "price": 21.49,
             "url": "https://www.monoprice.com/product?p_id=8243",
             "product_id": 8243,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 130
         },
@@ -43108,7 +43045,7 @@
             "product_id": 8248,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 271
+            "num_reviews": 268
         },
         "8321": {
             "name": "Monoprice Button Design Noise Isolating Earbuds Headphones, Black \u0026 White",
@@ -43405,7 +43342,7 @@
             "product_id": 8610,
             "available": false,
             "rating": 5,
-            "num_reviews": 320
+            "num_reviews": 321
         },
         "8611": {
             "name": "Monoprice USB-A to USB-A 2.0 Cable - 28/24AWG, Gold Plated, White, 6ft",
@@ -44350,7 +44287,7 @@
             "product_id": 9437,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 619
+            "num_reviews": 618
         },
         "9438": {
             "name": "Monoprice 5 PAIRS OF High-Quality Gold Plated Speaker Pin Plugs, Pin Screw Type",
@@ -44375,7 +44312,7 @@
             "price": 7.49,
             "url": "https://www.monoprice.com/product?p_id=9440",
             "product_id": 9440,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 139
         },
@@ -44519,7 +44456,7 @@
             "price": 32.99,
             "url": "https://www.monoprice.com/product?p_id=952",
             "product_id": 952,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 11
         },
@@ -44672,7 +44609,7 @@
             "price": 139.99,
             "url": "https://www.monoprice.com/product?p_id=9723",
             "product_id": 9723,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 476
         },
@@ -45392,7 +45329,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=9863",
             "product_id": 9863,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1457
         },
@@ -45561,6 +45498,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-14T01:19:39Z"
+        "timestamp": "2023-04-14T02:34:00Z"
     }
 }
