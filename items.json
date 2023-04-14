@@ -18592,7 +18592,7 @@
             "product_id": 33879,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 208
+            "num_reviews": 211
         },
         "33880": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Gold",
@@ -19420,7 +19420,7 @@
             "product_id": 34304,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 201
+            "num_reviews": 202
         },
         "34305": {
             "name": "Monoprice Affinity Premium 14AWG Braided Speaker Wire with Gold Plated Banana Plug Connectors, 3ft 4-Pack",
@@ -20230,7 +20230,7 @@
             "product_id": 34633,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 271
+            "num_reviews": 272
         },
         "34639": {
             "name": "Monoprice Cat6 50ft Blue Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -20409,8 +20409,8 @@
             "url": "https://www.monoprice.com/product?p_id=34785",
             "product_id": 34785,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 4.8,
+            "num_reviews": 67
         },
         "34786": {
             "name": "SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, S/STP, Pure Bare Copper Wire, 36AWG, 1m, Black, 5 pack",
@@ -20570,7 +20570,7 @@
             "price": 31.99,
             "url": "https://www.monoprice.com/product?p_id=34825",
             "product_id": 34825,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 10
         },
@@ -20689,7 +20689,7 @@
             "product_id": 34839,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 501
+            "num_reviews": 502
         },
         "34840": {
             "name": "Monoprice 4K Slim Certified Premium High Speed HDMI Cable 2m - 18Gbps Black - 2 Pack",
@@ -23704,7 +23704,7 @@
             "product_id": 38360,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 71
+            "num_reviews": 72
         },
         "38370": {
             "name": "Monoprice Quintet Wired In Ear Monitor (3 Balanced Armatures + 2 Dynamic Drivers)",
@@ -24504,8 +24504,8 @@
             "url": "https://www.monoprice.com/product?p_id=38802",
             "product_id": 38802,
             "available": true,
-            "rating": 4.3,
-            "num_reviews": 69
+            "rating": 4.4,
+            "num_reviews": 75
         },
         "38803": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 1.5ft, Red",
@@ -24648,8 +24648,8 @@
             "url": "https://www.monoprice.com/product?p_id=38821",
             "product_id": 38821,
             "available": false,
-            "rating": 4.3,
-            "num_reviews": 69
+            "rating": 4.4,
+            "num_reviews": 75
         },
         "38822": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 10ft, Red",
@@ -24693,8 +24693,8 @@
             "url": "https://www.monoprice.com/product?p_id=38827",
             "product_id": 38827,
             "available": true,
-            "rating": 4.3,
-            "num_reviews": 76
+            "rating": 4.4,
+            "num_reviews": 75
         },
         "38828": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 6ft, White, 3-Pack",
@@ -24702,8 +24702,8 @@
             "url": "https://www.monoprice.com/product?p_id=38828",
             "product_id": 38828,
             "available": false,
-            "rating": 4.3,
-            "num_reviews": 76
+            "rating": 4.4,
+            "num_reviews": 75
         },
         "38831": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 3ft, Black, 3-Pack",
@@ -24856,7 +24856,7 @@
             "product_id": 38854,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 56
+            "num_reviews": 57
         },
         "38857": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 5A/100W, 1.5ft, White",
@@ -25153,7 +25153,7 @@
             "product_id": 38909,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 75
+            "num_reviews": 77
         },
         "38910": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-A Charge and Sync Nylon-Braid Cable, 10ft, Red",
@@ -25461,15 +25461,6 @@
             "rating": 4.9,
             "num_reviews": 76
         },
-        "39085": {
-            "name": "Monoprice Micro SlimRun Cat6 Ethernet Patch Cable - Stranded, 550MHz, UTP, Pure Bare Copper Wire, 32AWG, 50ft, White",
-            "price": 7.99,
-            "url": "https://www.monoprice.com/product?p_id=39085",
-            "product_id": 39085,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 76
-        },
         "39101": {
             "name": "Monoprice Replacement Build Plate for the MP Select Mini PRO 3D Printer (33012)",
             "price": 39.99,
@@ -25711,7 +25702,7 @@
             "product_id": 39165,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 139
+            "num_reviews": 140
         },
         "39166": {
             "name": "Monolith by Monoprice 4 Tier Audio Stand XL, Maple",
@@ -25837,7 +25828,7 @@
             "product_id": 39257,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 33
+            "num_reviews": 34
         },
         "39258": {
             "name": "Monoprice SlimSelect Series Low Profile Fixed TV Wall Mount Bracket for LED TVs 32in to 55in, Min Extension 0.71in, Max Weight 77 lbs, VESA Patterns up to 400x400",
@@ -45462,6 +45453,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-14T16:24:24Z"
+        "timestamp": "2023-04-14T17:15:54Z"
     }
 }
