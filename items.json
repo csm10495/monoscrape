@@ -13128,8 +13128,8 @@
             "url": "https://www.monoprice.com/product?p_id=24731",
             "product_id": 24731,
             "available": true,
-            "rating": 4.1,
-            "num_reviews": 40
+            "rating": 4.2,
+            "num_reviews": 39
         },
         "24733": {
             "name": "Monolith by Monoprice M565 Over Ear Open Back Planar Magnetic Headphones",
@@ -13235,7 +13235,7 @@
             "price": 54.99,
             "url": "https://www.monoprice.com/product?p_id=24794",
             "product_id": 24794,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 259
         },
@@ -13821,8 +13821,8 @@
             "url": "https://www.monoprice.com/product?p_id=27404",
             "product_id": 27404,
             "available": true,
-            "rating": 3.7,
-            "num_reviews": 3
+            "rating": 5,
+            "num_reviews": 2
         },
         "27405": {
             "name": "Monoprice Thunderbolt 3 Dual HDMI 2.0 Output Adapter, 4K@60Hz",
@@ -45525,6 +45525,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-14T03:19:31Z"
+        "timestamp": "2023-04-14T04:21:54Z"
     }
 }
