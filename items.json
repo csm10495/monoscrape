@@ -15593,7 +15593,7 @@
             "price": 314.99,
             "url": "https://www.monoprice.com/product?p_id=30458",
             "product_id": 30458,
-            "available": true,
+            "available": false,
             "rating": 4,
             "num_reviews": 3
         },
@@ -16027,7 +16027,7 @@
             "product_id": 30767,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 197
+            "num_reviews": 198
         },
         "30768": {
             "name": "Monoprice Palette Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 3ft Red",
@@ -17924,7 +17924,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=33658",
             "product_id": 33658,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 7
         },
@@ -17978,7 +17978,7 @@
             "price": 3.02,
             "url": "https://www.monoprice.com/product?p_id=33687",
             "product_id": 33687,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 12
         },
@@ -19087,7 +19087,7 @@
             "product_id": 34205,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 501
+            "num_reviews": 502
         },
         "34206": {
             "name": "Monoprice 4K Slim Certified Premium High Speed HDMI Cable 6ft - 18Gbps Black - 5 Pack",
@@ -19429,7 +19429,7 @@
             "product_id": 34305,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 201
+            "num_reviews": 202
         },
         "34306": {
             "name": "Monoprice Affinity Premium 14AWG Braided Speaker Wire with Gold Plated Banana Plug Connectors, 6ft 2-Pack",
@@ -19886,7 +19886,7 @@
             "price": 0.47,
             "url": "https://www.monoprice.com/product?p_id=34517",
             "product_id": 34517,
-            "available": true,
+            "available": false,
             "rating": 3.7,
             "num_reviews": 3
         },
@@ -21426,8 +21426,8 @@
             "url": "https://www.monoprice.com/product?p_id=35519",
             "product_id": 35519,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 5,
+            "num_reviews": 1
         },
         "35520": {
             "name": "Monoprice PTZ Video Conference Camera, Pan and Tilt with Remote, 1080p Webcam, USB 2.0, 3x Optical Zoom",
@@ -23146,7 +23146,7 @@
             "product_id": 38166,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 7
+            "num_reviews": 8
         },
         "38167": {
             "name": "Monoprice 300-Watt Slider Impedance Matching Volume Control with Color Kit",
@@ -23306,15 +23306,6 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=38274",
             "product_id": 38274,
-            "available": true,
-            "rating": 4.3,
-            "num_reviews": 4
-        },
-        "38277": {
-            "name": "Monoprice OM3 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 10m",
-            "price": 3.89,
-            "url": "https://www.monoprice.com/product?p_id=38277",
-            "product_id": 38277,
             "available": true,
             "rating": 4.3,
             "num_reviews": 4
@@ -23859,15 +23850,6 @@
             "rating": 4.9,
             "num_reviews": 1846
         },
-        "38449": {
-            "name": "Monoprice Single-Mode Fiber Optic Cable - LC/LC, 9/125 Type, Duplex, Yellow, 1m",
-            "price": 2.89,
-            "url": "https://www.monoprice.com/product?p_id=38449",
-            "product_id": 38449,
-            "available": true,
-            "rating": 5,
-            "num_reviews": 1
-        },
         "3845": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 2-Conductor Speaker Wire, 500ft, White",
             "price": 164.99,
@@ -23956,7 +23938,7 @@
             "product_id": 38543,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 18
+            "num_reviews": 19
         },
         "38544": {
             "name": "Monolith by Monoprice M-212 Dual 12in THX Certified Ultra 1000 Watt Powered Subwoofer",
@@ -24080,7 +24062,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=38598",
             "product_id": 38598,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 14
         },
@@ -24621,8 +24603,8 @@
             "url": "https://www.monoprice.com/product?p_id=38818",
             "product_id": 38818,
             "available": false,
-            "rating": 4.3,
-            "num_reviews": 69
+            "rating": 4.4,
+            "num_reviews": 75
         },
         "38819": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 1.5ft, Red",
@@ -24784,7 +24766,7 @@
             "product_id": 38845,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 56
+            "num_reviews": 57
         },
         "38846": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 3A/60W, 3ft, Blue",
@@ -25063,7 +25045,7 @@
             "product_id": 38899,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 75
+            "num_reviews": 77
         },
         "38900": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-A Charge and Sync Nylon-Braid Cable, 3ft, Black",
@@ -25972,7 +25954,7 @@
             "product_id": 39359,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 82
+            "num_reviews": 83
         },
         "39381": {
             "name": "Monoprice 6in Precision Cable Cutter and Stripper for 8-14 AWG Cables",
@@ -26177,7 +26159,7 @@
             "price": 8.07,
             "url": "https://www.monoprice.com/product?p_id=39476",
             "product_id": 39476,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 56
         },
@@ -45435,6 +45417,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-14T22:17:41Z"
+        "timestamp": "2023-04-14T23:18:13Z"
     }
 }
