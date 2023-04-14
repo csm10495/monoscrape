@@ -446,7 +446,7 @@
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=10620",
             "product_id": 10620,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 53
         },
@@ -1103,7 +1103,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=11279",
             "product_id": 11279,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1457
         },
@@ -1512,15 +1512,6 @@
             "rating": 4.8,
             "num_reviews": 460
         },
-        "11346": {
-            "name": "Monoprice FLEXboot Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 50ft, Purple",
-            "price": 7.49,
-            "url": "https://www.monoprice.com/product?p_id=11346",
-            "product_id": 11346,
-            "available": false,
-            "rating": 4.8,
-            "num_reviews": 460
-        },
         "11347": {
             "name": "Monoprice FLEXboot Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 50ft, Red",
             "price": 4.19,
@@ -1581,15 +1572,6 @@
             "url": "https://www.monoprice.com/product?p_id=11353",
             "product_id": 11353,
             "available": true,
-            "rating": 4.8,
-            "num_reviews": 460
-        },
-        "11354": {
-            "name": "Monoprice FLEXboot Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 5ft, Gray",
-            "price": 1.99,
-            "url": "https://www.monoprice.com/product?p_id=11354",
-            "product_id": 11354,
-            "available": false,
             "rating": 4.8,
             "num_reviews": 460
         },
@@ -1778,7 +1760,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=11385",
             "product_id": 11385,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 460
         },
@@ -3112,7 +3094,7 @@
             "product_id": 12962,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 423
+            "num_reviews": 425
         },
         "12986": {
             "name": "Monoprice Commercial Series Full-Motion Articulating TV Wall Mount Bracket For LED TVs 60in to 100in, Max Weight 176lbs, Extends from 2.8in to 24.6in, VESA Up to 900x600, Concrete \u0026 Brick, No Logo",
@@ -4138,7 +4120,7 @@
             "product_id": 13508,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 271
+            "num_reviews": 272
         },
         "13509": {
             "name": "Monoprice Cat6 6in Blue Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -4361,7 +4343,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=13536",
             "product_id": 13536,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 271
         },
@@ -4379,7 +4361,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=13538",
             "product_id": 13538,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 271
         },
@@ -4525,7 +4507,7 @@
             "product_id": 13555,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 271
+            "num_reviews": 272
         },
         "13560": {
             "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, U/FTP, CM, Pure Bare Copper Wire, 23AWG, 1000ft, Gray",
@@ -4541,6 +4523,15 @@
             "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=13561",
             "product_id": 13561,
+            "available": true,
+            "rating": 3.9,
+            "num_reviews": 42
+        },
+        "13562": {
+            "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, U/FTP, CM, Pure Bare Copper Wire, 23AWG, 250ft, Gray",
+            "price": 78.99,
+            "url": "https://www.monoprice.com/product?p_id=13562",
+            "product_id": 13562,
             "available": true,
             "rating": 3.9,
             "num_reviews": 42
@@ -6395,7 +6386,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=14809",
             "product_id": 14809,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 271
         },
@@ -6458,7 +6449,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=14817",
             "product_id": 14817,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -6532,7 +6523,7 @@
             "product_id": 14825,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 271
+            "num_reviews": 272
         },
         "14828": {
             "name": "Monoprice Cat6 20ft Green Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -6755,7 +6746,7 @@
             "price": 13.99,
             "url": "https://www.monoprice.com/product?p_id=15137",
             "product_id": 15137,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 519
         },
@@ -7045,7 +7036,7 @@
             "product_id": 15208,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 271
+            "num_reviews": 272
         },
         "15242": {
             "name": "Monoprice Blackbird 4K Pro HDCP Converter, 2.2 to 1.4",
@@ -7058,7 +7049,7 @@
         },
         "15243": {
             "name": "Monoprice Select Series USB-C to DVI and USB-C (F) Dual Port Adapter",
-            "price": 11.99,
+            "price": 11.54,
             "url": "https://www.monoprice.com/product?p_id=15243",
             "product_id": 15243,
             "available": true,
@@ -7583,7 +7574,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=15664",
             "product_id": 15664,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 41
         },
@@ -8321,7 +8312,7 @@
             "price": 22.99,
             "url": "https://www.monoprice.com/product?p_id=16054",
             "product_id": 16054,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 14
         },
@@ -8494,7 +8485,7 @@
             "product_id": 16092,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 140
+            "num_reviews": 141
         },
         "16094": {
             "name": "Monoprice Commercial Series Low Profile Fixed TV Wall Mount Bracket For LED TVs 32in to 55in, Max Weight 77lbs, VESA Patterns Up to 400x400, UL Certified",
@@ -9180,15 +9171,6 @@
             "rating": 4.9,
             "num_reviews": 519
         },
-        "16342": {
-            "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 5ft, Yellow, 5-Pack",
-            "price": 9.29,
-            "url": "https://www.monoprice.com/product?p_id=16342",
-            "product_id": 16342,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 519
-        },
         "16344": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 5ft, Red, 10-Pack",
             "price": 19.97,
@@ -9635,7 +9617,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=18653",
             "product_id": 18653,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 37
         },
@@ -45489,6 +45471,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-14T14:17:45Z"
+        "timestamp": "2023-04-14T15:19:33Z"
     }
 }
