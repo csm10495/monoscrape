@@ -23884,7 +23884,7 @@
             "product_id": 4044,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1847
+            "num_reviews": 1845
         },
         "40440": {
             "name": "Rustic Torched Wood Tabletop Chalkboard with Legs/Vintage Wedding Table Sign/Small Kitchen Antique Wooden Frame (9.5” x 14” Inches)",
@@ -32398,7 +32398,7 @@
             "product_id": 4794,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 418
+            "num_reviews": 421
         },
         "4795": {
             "name": "Monoprice 15ft Premier Series 1/4in TRS Male to Male Cable, 16AWG (Gold Plated)",
@@ -33818,7 +33818,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=5495",
             "product_id": 5495,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 407
         },
@@ -34000,7 +34000,7 @@
             "product_id": 5587,
             "available": true,
             "rating": 4.2,
-            "num_reviews": 600
+            "num_reviews": 601
         },
         "5589": {
             "name": "Monoprice 15ft Premium 3.5mm Stereo Male to 3.5mm Stereo Female 22AWG Extension Cable (Gold Plated) - Black",
@@ -40485,6 +40485,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-14T07:17:12Z"
+        "timestamp": "2023-04-14T08:22:22Z"
     }
 }
