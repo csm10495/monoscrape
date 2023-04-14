@@ -446,7 +446,7 @@
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=10620",
             "product_id": 10620,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 53
         },
@@ -1238,7 +1238,7 @@
             "price": 1.29,
             "url": "https://www.monoprice.com/product?p_id=11302",
             "product_id": 11302,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 460
         },
@@ -1769,7 +1769,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=11387",
             "product_id": 11387,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 460
         },
@@ -2436,8 +2436,8 @@
             "url": "https://www.monoprice.com/product?p_id=12298",
             "product_id": 12298,
             "available": true,
-            "rating": 3.5,
-            "num_reviews": 78
+            "rating": 3.6,
+            "num_reviews": 79
         },
         "12299": {
             "name": "Monoprice Premium 3D Printer Filament PLA 1.75mm 1kg/spool, Gold",
@@ -3020,7 +3020,7 @@
             "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=12858",
             "product_id": 12858,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 359
         },
@@ -3641,7 +3641,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=13268",
             "product_id": 13268,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 165
         },
@@ -3659,7 +3659,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=13275",
             "product_id": 13275,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 165
         },
@@ -4019,7 +4019,7 @@
             "price": 6.49,
             "url": "https://www.monoprice.com/product?p_id=13410",
             "product_id": 13410,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 165
         },
@@ -4417,7 +4417,7 @@
             "product_id": 13543,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 271
+            "num_reviews": 272
         },
         "13544": {
             "name": "Monoprice Cat6 10ft Gray Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -4478,7 +4478,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=13551",
             "product_id": 13551,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 271
         },
@@ -5837,7 +5837,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=14264",
             "product_id": 14264,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 127
         },
@@ -5873,7 +5873,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=14289",
             "product_id": 14289,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 165
         },
@@ -6026,7 +6026,7 @@
             "price": 26.24,
             "url": "https://www.monoprice.com/product?p_id=14504",
             "product_id": 14504,
-            "available": true,
+            "available": false,
             "rating": 3.6,
             "num_reviews": 18
         },
@@ -6415,7 +6415,7 @@
             "product_id": 14812,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 271
+            "num_reviews": 272
         },
         "14813": {
             "name": "Monoprice Cat6 5ft Purple Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -7792,7 +7792,7 @@
             "product_id": 15722,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 199
+            "num_reviews": 200
         },
         "15723": {
             "name": "Monoprice Height Adjustable PC Workstation Cart for Sit-Stand",
@@ -7900,7 +7900,7 @@
             "product_id": 15830,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 209
+            "num_reviews": 211
         },
         "15833": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Black",
@@ -9171,6 +9171,15 @@
             "rating": 4.9,
             "num_reviews": 519
         },
+        "16342": {
+            "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 5ft, Yellow, 5-Pack",
+            "price": 9.29,
+            "url": "https://www.monoprice.com/product?p_id=16342",
+            "product_id": 16342,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 519
+        },
         "16344": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 5ft, Red, 10-Pack",
             "price": 19.97,
@@ -9491,7 +9500,7 @@
             "price": 199.99,
             "url": "https://www.monoprice.com/product?p_id=18608",
             "product_id": 18608,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 9
         },
@@ -45435,6 +45444,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-14T20:21:26Z"
+        "timestamp": "2023-04-14T21:16:35Z"
     }
 }
