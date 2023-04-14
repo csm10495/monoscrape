@@ -10564,7 +10564,7 @@
             "product_id": 21612,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 24
+            "num_reviews": 25
         },
         "21613": {
             "name": "Monoprice Blackbird 4K Pro 1x4 Ultra Slim HDMI Splitter, HDR, 4K@60Hz, HDCP 2.2",
@@ -11925,15 +11925,6 @@
             "rating": 4.8,
             "num_reviews": 501
         },
-        "24190": {
-            "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 18AWG, 10A/1250W, 3-Prong, SJT, Black, 1ft",
-            "price": 1.19,
-            "url": "https://www.monoprice.com/product?p_id=24190",
-            "product_id": 24190,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 59
-        },
         "24191": {
             "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 18AWG, 10A/1250W, 3-Prong, SJT, Black, 2ft",
             "price": 1.69,
@@ -12551,7 +12542,7 @@
             "price": 9.49,
             "url": "https://www.monoprice.com/product?p_id=24368",
             "product_id": 24368,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 494
         },
@@ -13092,8 +13083,8 @@
             "url": "https://www.monoprice.com/product?p_id=24721",
             "product_id": 24721,
             "available": true,
-            "rating": 4.1,
-            "num_reviews": 40
+            "rating": 4.2,
+            "num_reviews": 39
         },
         "24727": {
             "name": "Monoprice Thunderbolt 3 (40 Gbps) USB-C Cable, 100W, 1.0m",
@@ -13110,8 +13101,8 @@
             "url": "https://www.monoprice.com/product?p_id=24729",
             "product_id": 24729,
             "available": true,
-            "rating": 4.1,
-            "num_reviews": 40
+            "rating": 4.2,
+            "num_reviews": 39
         },
         "24731": {
             "name": "Monoprice Thunderbolt 3 (40 Gbps) USB-C Cable, 100W, 2.0m",
@@ -13210,7 +13201,7 @@
             "product_id": 24761,
             "available": true,
             "rating": 4,
-            "num_reviews": 25
+            "num_reviews": 26
         },
         "24762": {
             "name": "Monoprice Rough-in Bracket for 8in Round Speaker (Each)",
@@ -14054,7 +14045,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=27511",
             "product_id": 27511,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 67
         },
@@ -14324,7 +14315,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=27846",
             "product_id": 27846,
-            "available": true,
+            "available": false,
             "rating": 4,
             "num_reviews": 5
         },
@@ -15053,7 +15044,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=29442",
             "product_id": 29442,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 519
         },
@@ -45444,6 +45435,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-14T21:16:35Z"
+        "timestamp": "2023-04-14T22:17:41Z"
     }
 }
