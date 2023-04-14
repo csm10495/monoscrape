@@ -1895,7 +1895,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=1152",
             "product_id": 1152,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 17
         },
@@ -1904,7 +1904,7 @@
             "price": 0.79,
             "url": "https://www.monoprice.com/product?p_id=1153",
             "product_id": 1153,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 14
         },
@@ -1931,7 +1931,7 @@
             "price": 0.99,
             "url": "https://www.monoprice.com/product?p_id=1156",
             "product_id": 1156,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -2066,7 +2066,7 @@
             "price": 1.19,
             "url": "https://www.monoprice.com/product?p_id=1184",
             "product_id": 1184,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 12
         },
@@ -5783,7 +5783,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=142",
             "product_id": 142,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3039
         },
@@ -10087,7 +10087,7 @@
             "product_id": 2133,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3039
+            "num_reviews": 3040
         },
         "2134": {
             "name": "Monoprice Cat5e 3ft Red Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -11426,7 +11426,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=2301",
             "product_id": 2301,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -13316,7 +13316,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=2539",
             "product_id": 2539,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 30
         },
@@ -13325,7 +13325,7 @@
             "price": 5.49,
             "url": "https://www.monoprice.com/product?p_id=2601",
             "product_id": 2601,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 7
         },
@@ -23857,7 +23857,7 @@
             "product_id": 3844,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1847
+            "num_reviews": 1846
         },
         "38449": {
             "name": "Monoprice Single-Mode Fiber Optic Cable - LC/LC, 9/125 Type, Duplex, Yellow, 1m",
@@ -29840,7 +29840,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=4121",
             "product_id": 4121,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 71
         },
@@ -36230,7 +36230,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=443",
             "product_id": 443,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 8
         },
@@ -37402,7 +37402,7 @@
             "product_id": 4798,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 418
+            "num_reviews": 421
         },
         "4799": {
             "name": "Monoprice 75ft Premier Series 1/4in TRS Male to Male Cable, 16AWG (Gold Plated)",
@@ -37607,15 +37607,6 @@
             "price": 0.79,
             "url": "https://www.monoprice.com/product?p_id=4975",
             "product_id": 4975,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 3039
-        },
-        "4977": {
-            "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 0.5ft, Gray",
-            "price": 0.29,
-            "url": "https://www.monoprice.com/product?p_id=4977",
-            "product_id": 4977,
             "available": true,
             "rating": 4.9,
             "num_reviews": 3039
@@ -38462,7 +38453,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=5383",
             "product_id": 5383,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 374
         },
@@ -39137,7 +39128,7 @@
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=574",
             "product_id": 574,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 4
         },
@@ -39893,7 +39884,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=627",
             "product_id": 627,
-            "available": false,
+            "available": true,
             "rating": 4,
             "num_reviews": 69
         },
@@ -40631,7 +40622,7 @@
             "price": 1.19,
             "url": "https://www.monoprice.com/product?p_id=654",
             "product_id": 654,
-            "available": false,
+            "available": true,
             "rating": 4.1,
             "num_reviews": 82
         },
@@ -40829,7 +40820,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=669",
             "product_id": 669,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 72
         },
@@ -42440,7 +42431,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=7686",
             "product_id": 7686,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 41
         },
@@ -42991,7 +42982,7 @@
             "product_id": 8248,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 268
+            "num_reviews": 269
         },
         "8321": {
             "name": "Monoprice Button Design Noise Isolating Earbuds Headphones, Black \u0026 White",
@@ -45311,7 +45302,7 @@
             "price": 2.29,
             "url": "https://www.monoprice.com/product?p_id=9867",
             "product_id": 9867,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1457
         },
@@ -45444,6 +45435,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-14T19:16:54Z"
+        "timestamp": "2023-04-14T20:21:26Z"
     }
 }
