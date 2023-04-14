@@ -13389,8 +13389,8 @@
             "url": "https://www.monoprice.com/product?p_id=2616",
             "product_id": 2616,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 24
+            "rating": 5,
+            "num_reviews": 23
         },
         "2617": {
             "name": "Monoprice OM1 Fiber Optic Cable - LC/LC, UL, 62.5/125 Type, Multi-Mode, Orange, 2m, Corning",
@@ -38293,7 +38293,7 @@
             "product_id": 5346,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 1297
+            "num_reviews": 1298
         },
         "5347": {
             "name": "Monoprice 10ft Premium 2 RCA Plug/2 RCA Plug M/M 22AWG Cable - Black",
@@ -38507,7 +38507,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=5383",
             "product_id": 5383,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 374
         },
@@ -39254,7 +39254,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=5773",
             "product_id": 5773,
-            "available": false,
+            "available": true,
             "rating": 4.2,
             "num_reviews": 369
         },
@@ -40667,7 +40667,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=6539",
             "product_id": 6539,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 89
         },
@@ -42714,15 +42714,6 @@
             "rating": 4.8,
             "num_reviews": 293
         },
-        "8106": {
-            "name": "Monoprice Cat6 1000ft Orange CMR UL Bulk Cable, Solid (w/spine), UTP, 23AWG, 550MHz, Pure Bare Copper, Reelex II Pull Box, Bulk Ethernet Cable",
-            "price": 149.99,
-            "url": "https://www.monoprice.com/product?p_id=8106",
-            "product_id": 8106,
-            "available": true,
-            "rating": 4.8,
-            "num_reviews": 293
-        },
         "8107": {
             "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 1000ft, Red, (UL)",
             "price": 129.99,
@@ -43351,7 +43342,7 @@
             "product_id": 8611,
             "available": true,
             "rating": 5,
-            "num_reviews": 320
+            "num_reviews": 321
         },
         "8612": {
             "name": "Monoprice USB-A to USB-A 2.0 Cable - 28/24AWG, Gold Plated, White, 10ft",
@@ -43970,7 +43961,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=91",
             "product_id": 91,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 4
         },
@@ -45498,6 +45489,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-14T13:21:58Z"
+        "timestamp": "2023-04-14T14:17:45Z"
     }
 }
