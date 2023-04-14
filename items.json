@@ -869,7 +869,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=11244",
             "product_id": 11244,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 460
         },
@@ -1590,6 +1590,15 @@
             "url": "https://www.monoprice.com/product?p_id=11354",
             "product_id": 11354,
             "available": false,
+            "rating": 4.8,
+            "num_reviews": 460
+        },
+        "11355": {
+            "name": "Monoprice FLEXboot Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 5ft, Green",
+            "price": 1.99,
+            "url": "https://www.monoprice.com/product?p_id=11355",
+            "product_id": 11355,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 460
         },
@@ -2561,6 +2570,15 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=12584",
             "product_id": 12584,
+            "available": true,
+            "rating": 4.5,
+            "num_reviews": 19
+        },
+        "12586": {
+            "name": "Monoprice Cable Plate with Flexible Opening, 1-Gang, Ivory",
+            "price": 5.49,
+            "url": "https://www.monoprice.com/product?p_id=12586",
+            "product_id": 12586,
             "available": true,
             "rating": 4.5,
             "num_reviews": 19
@@ -4129,7 +4147,7 @@
             "product_id": 13509,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 271
+            "num_reviews": 272
         },
         "13510": {
             "name": "Monoprice Cat6 6in Gray Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -4219,7 +4237,7 @@
             "product_id": 13522,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 271
+            "num_reviews": 272
         },
         "13523": {
             "name": "Monoprice Cat6 2ft Blue Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -4571,6 +4589,15 @@
             "available": true,
             "rating": 4.8,
             "num_reviews": 250
+        },
+        "13582": {
+            "name": "Monoprice 4K Slim High Speed HDMI Cable 4ft - 18Gbps Black",
+            "price": 8.99,
+            "url": "https://www.monoprice.com/product?p_id=13582",
+            "product_id": 13582,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 210
         },
         "13586": {
             "name": "Monoprice 4K Slim High Speed HDMI Cable 6ft - 18Gbps Black",
@@ -4939,7 +4966,7 @@
             "product_id": 13716,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 157
+            "num_reviews": 156
         },
         "13717": {
             "name": "Monoprice Nimbus Series 14AWG 2-Conductor CMP-Rated Speaker Wire, 250ft",
@@ -6316,7 +6343,7 @@
             "product_id": 14803,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 271
+            "num_reviews": 272
         },
         "14804": {
             "name": "Monoprice Cat6 3ft Green Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -6343,7 +6370,7 @@
             "product_id": 14806,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 271
+            "num_reviews": 272
         },
         "14807": {
             "name": "Monoprice Cat6 3ft Orange Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -7360,7 +7387,7 @@
             "product_id": 15518,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 84
+            "num_reviews": 85
         },
         "15519": {
             "name": "Monoprice Affinity Premium 14AWG Braided Speaker Wire with Gold Plated Banana Plug Connectors, 3ft",
@@ -7900,7 +7927,7 @@
             "product_id": 15835,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 208
+            "num_reviews": 211
         },
         "15848": {
             "name": "Monoprice MP Select ABS Plus+ Premium 3D Filament, 1kg 1.75mm, Black",
@@ -8393,7 +8420,7 @@
             "price": 379.99,
             "url": "https://www.monoprice.com/product?p_id=16081",
             "product_id": 16081,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1847
         },
@@ -8593,7 +8620,7 @@
             "product_id": 16153,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 259
+            "num_reviews": 258
         },
         "16172": {
             "name": "Monoprice Nimbus Series 18AWG 2-Conductor CMP-Rated Speaker Wire, 1000ft",
@@ -9753,8 +9780,8 @@
             "url": "https://www.monoprice.com/product?p_id=18800",
             "product_id": 18800,
             "available": false,
-            "rating": 3.7,
-            "num_reviews": 3
+            "rating": 5,
+            "num_reviews": 2
         },
         "18801": {
             "name": "Monoprice Commercial Audio 120W 2ch Mixer Amp (No Logo)",
@@ -45498,6 +45525,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-14T02:34:00Z"
+        "timestamp": "2023-04-14T03:19:31Z"
     }
 }
