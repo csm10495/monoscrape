@@ -16009,7 +16009,7 @@
             "product_id": 30765,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 197
+            "num_reviews": 198
         },
         "30766": {
             "name": "Monoprice Palette Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 6ft White",
@@ -18565,7 +18565,7 @@
             "product_id": 33875,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 209
+            "num_reviews": 211
         },
         "33877": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Red",
@@ -20005,7 +20005,7 @@
             "product_id": 34548,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 208
+            "num_reviews": 209
         },
         "34549": {
             "name": "Pure Outdoor by Monoprice Emperor 50 Rotomolded Portable Cooler 13.2 Gal, Tan",
@@ -24405,8 +24405,8 @@
             "url": "https://www.monoprice.com/product?p_id=38792",
             "product_id": 38792,
             "available": true,
-            "rating": 4.3,
-            "num_reviews": 69
+            "rating": 4.4,
+            "num_reviews": 75
         },
         "38793": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 6ft, Black",
@@ -24621,8 +24621,8 @@
             "url": "https://www.monoprice.com/product?p_id=38820",
             "product_id": 38820,
             "available": true,
-            "rating": 4.3,
-            "num_reviews": 69
+            "rating": 4.4,
+            "num_reviews": 75
         },
         "38821": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 6ft, Red",
@@ -24820,7 +24820,7 @@
             "product_id": 38851,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 56
+            "num_reviews": 57
         },
         "38853": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 5A/100W, 1.5ft, Black",
@@ -25162,7 +25162,7 @@
             "product_id": 38912,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 75
+            "num_reviews": 77
         },
         "38913": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-A Charge and Sync Nylon-Braid Cable, 6ft, Blue",
@@ -27673,7 +27673,7 @@
             "product_id": 39924,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1580
+            "num_reviews": 1584
         },
         "39925": {
             "name": "Monoprice USB Type-A to USB Type-A Female 2.0 Extension Cable - 28/24AWG Gold Plated Black 6ft, 3-Pack",
@@ -27682,7 +27682,7 @@
             "product_id": 39925,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1580
+            "num_reviews": 1584
         },
         "39926": {
             "name": "Monoprice USB Type-A to USB Type-A Female 2.0 Extension Cable - 28/24AWG Gold Plated Black 6ft, 5-Pack",
@@ -45408,6 +45408,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-15T05:17:02Z"
+        "timestamp": "2023-04-15T06:21:54Z"
     }
 }
