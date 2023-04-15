@@ -28499,7 +28499,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=40296",
             "product_id": 40296,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -28724,7 +28724,7 @@
             "price": 8.39,
             "url": "https://www.monoprice.com/product?p_id=40409",
             "product_id": 40409,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 230
         },
@@ -30292,7 +30292,7 @@
             "product_id": 41389,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1847
+            "num_reviews": 1848
         },
         "41390": {
             "name": "Monoprice Access Series 18AWG CL2 Rated 4-Conductor Speaker Wire, 100ft, Black",
@@ -30328,7 +30328,7 @@
             "product_id": 41393,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1847
+            "num_reviews": 1848
         },
         "41394": {
             "name": "Monoprice Access Series 18AWG CL2 Rated 2-Conductor Speaker Wire, 1000ft, Black",
@@ -30373,7 +30373,7 @@
             "product_id": 41398,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1848
         },
         "41399": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 4-Conductor Speaker Wire, 1000ft, Black",
@@ -31714,7 +31714,7 @@
             "product_id": 42078,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 27
+            "num_reviews": 28
         },
         "42079": {
             "name": "Monoprice 8K No Logo Ultra High Speed HDMI Cable, 48Gbps, 10ft, Black",
@@ -32513,7 +32513,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=42542",
             "product_id": 42542,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -34567,7 +34567,7 @@
             "product_id": 43221,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 27
+            "num_reviews": 28
         },
         "43222": {
             "name": "Monoprice 8K Ultra High Speed HDMI Cable - No Logo - 8K@60Hz, 48Gbps, 10ft, Black - 5 Pack",
@@ -34746,8 +34746,8 @@
             "url": "https://www.monoprice.com/product?p_id=43252",
             "product_id": 43252,
             "available": true,
-            "rating": 3.5,
-            "num_reviews": 2
+            "rating": 3.7,
+            "num_reviews": 3
         },
         "43257": {
             "name": "Monoprice Harmony Puck Portable Bluetooth Speaker IPx4, Waterproof, TWS",
@@ -45408,6 +45408,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-15T06:21:54Z"
+        "timestamp": "2023-04-15T07:16:13Z"
     }
 }
