@@ -30175,7 +30175,7 @@
             "product_id": 41376,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1847
+            "num_reviews": 1848
         },
         "41377": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 2-Conductor Speaker Wire, 250ft, Black",
@@ -30193,7 +30193,7 @@
             "product_id": 41378,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1847
+            "num_reviews": 1848
         },
         "41379": {
             "name": "Monoprice Access Series 16AWG CL2 Rated 2-Conductor Speaker Wire, 100ft, Black",
@@ -30830,7 +30830,7 @@
             "price": 18.99,
             "url": "https://www.monoprice.com/product?p_id=41700",
             "product_id": 41700,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 1
         },
@@ -32461,7 +32461,7 @@
             "product_id": 42535,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 391
+            "num_reviews": 392
         },
         "42536": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Red - 3 Pack",
@@ -35033,7 +35033,7 @@
             "price": 5.49,
             "url": "https://www.monoprice.com/product?p_id=43357",
             "product_id": 43357,
-            "available": true,
+            "available": false,
             "rating": 3.5,
             "num_reviews": 2
         },
@@ -45408,6 +45408,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-15T18:21:21Z"
+        "timestamp": "2023-04-15T19:16:14Z"
     }
 }
