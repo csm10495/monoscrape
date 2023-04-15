@@ -384,8 +384,8 @@
             "url": "https://www.monoprice.com/product?p_id=10546",
             "product_id": 10546,
             "available": true,
-            "rating": 3.5,
-            "num_reviews": 78
+            "rating": 3.6,
+            "num_reviews": 79
         },
         "10551": {
             "name": "Monoprice Premium 3D Printer Filament PLA 1.75mm 1kg/spool, Black",
@@ -3085,7 +3085,7 @@
             "product_id": 12961,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 423
+            "num_reviews": 425
         },
         "12962": {
             "name": "Monoprice 4K High Speed HDMI Cable 50ft - CL2 In Wall Rated 18Gbps Active Black",
@@ -3578,7 +3578,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=13252",
             "product_id": 13252,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 165
         },
@@ -4370,7 +4370,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=13539",
             "product_id": 13539,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 271
         },
@@ -6307,7 +6307,7 @@
             "product_id": 14796,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 271
+            "num_reviews": 272
         },
         "148": {
             "name": "Monoprice Cat5e 100ft White Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -7691,7 +7691,7 @@
             "price": 89.99,
             "url": "https://www.monoprice.com/product?p_id=15698",
             "product_id": 15698,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 30
         },
@@ -45408,6 +45408,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-15T21:16:28Z"
+        "timestamp": "2023-04-15T22:17:05Z"
     }
 }
