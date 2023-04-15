@@ -16268,7 +16268,7 @@
             "price": 246.99,
             "url": "https://www.monoprice.com/product?p_id=31027",
             "product_id": 31027,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 58
         },
@@ -18646,7 +18646,7 @@
             "product_id": 33885,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 212
+            "num_reviews": 211
         },
         "33886": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 0.5kg/spool, Green",
@@ -21769,7 +21769,7 @@
             "product_id": 35944,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 105
+            "num_reviews": 106
         },
         "35995": {
             "name": "Monoprice 19in Blank Fiber Patch Panel 3LGX Cassettes 1U",
@@ -24567,8 +24567,8 @@
             "url": "https://www.monoprice.com/product?p_id=38813",
             "product_id": 38813,
             "available": false,
-            "rating": 4.3,
-            "num_reviews": 69
+            "rating": 4.4,
+            "num_reviews": 75
         },
         "38814": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 10ft, White",
@@ -24721,7 +24721,7 @@
             "product_id": 38837,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 56
+            "num_reviews": 57
         },
         "38838": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 3A/60W, 3ft, Black",
@@ -24874,7 +24874,7 @@
             "product_id": 38862,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 56
+            "num_reviews": 57
         },
         "38865": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 5A/100W, 1.5ft, Red",
@@ -45408,6 +45408,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-15T17:16:04Z"
+        "timestamp": "2023-04-15T18:21:21Z"
     }
 }
