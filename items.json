@@ -27923,7 +27923,7 @@
             "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=40067",
             "product_id": 40067,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -28040,7 +28040,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=40080",
             "product_id": 40080,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -28780,7 +28780,7 @@
             "product_id": 40425,
             "available": true,
             "rating": 5,
-            "num_reviews": 8
+            "num_reviews": 1
         },
         "40426": {
             "name": "Monoprice 4K UltraFlex Small Diameter High Speed HDMI to Mini HDMI Passive Cable - 4K@60Hz 18Gbps 36AWG, 3ft Black",
@@ -29095,7 +29095,7 @@
             "product_id": 40778,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 16
+            "num_reviews": 17
         },
         "40782": {
             "name": "DisplayPort 1.4 EasyPlug Nylon Braided Cable, 3ft, Gray",
@@ -29372,7 +29372,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=41009",
             "product_id": 41009,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 36
         },
@@ -30184,7 +30184,7 @@
             "product_id": 41377,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1847
         },
         "41378": {
             "name": "Monoprice Access Series 16AWG CL2 Rated 2-Conductor Speaker Wire, 50ft, Black",
@@ -30443,7 +30443,7 @@
             "price": 179.99,
             "url": "https://www.monoprice.com/product?p_id=41444",
             "product_id": 41444,
-            "available": true,
+            "available": false,
             "rating": 3.9,
             "num_reviews": 12
         },
@@ -31408,7 +31408,7 @@
             "product_id": 42014,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 105
+            "num_reviews": 106
         },
         "42015": {
             "name": "Pure Outdoor by Monoprice Heavy Duty All Terrain Collapsible Outdoor Wagon, Red",
@@ -31911,8 +31911,8 @@
             "url": "https://www.monoprice.com/product?p_id=42155",
             "product_id": 42155,
             "available": false,
-            "rating": 3,
-            "num_reviews": 1
+            "rating": 2,
+            "num_reviews": 2
         },
         "42156": {
             "name": "Flat Adhesive Super Slim Micro Speaker Wire - Two 18AWG Conductors, 50ft",
@@ -33647,7 +33647,7 @@
             "price": 20.99,
             "url": "https://www.monoprice.com/product?p_id=42996",
             "product_id": 42996,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 7
         },
@@ -36662,7 +36662,7 @@
             "price": 299.99,
             "url": "https://www.monoprice.com/product?p_id=44491",
             "product_id": 44491,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -45417,6 +45417,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-14T23:18:13Z"
+        "timestamp": "2023-04-15T01:21:42Z"
     }
 }
