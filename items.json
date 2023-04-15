@@ -5910,8 +5910,8 @@
             "url": "https://www.monoprice.com/product?p_id=24727",
             "product_id": 24727,
             "available": false,
-            "rating": 4.1,
-            "num_reviews": 40
+            "rating": 4.2,
+            "num_reviews": 39
         },
         "24729": {
             "name": "Monoprice Thunderbolt 3 (40 Gbps) USB-C Cable, 100W, 1.5m",
@@ -6028,7 +6028,7 @@
             "product_id": 24762,
             "available": false,
             "rating": 4,
-            "num_reviews": 25
+            "num_reviews": 26
         },
         "24794": {
             "name": "Monolith by Monoprice 24in Speaker Stand (Each)",
@@ -38226,6 +38226,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-15T10:36:46Z"
+        "timestamp": "2023-04-15T11:15:51Z"
     }
 }
