@@ -6334,7 +6334,7 @@
             "product_id": 2684,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1456
+            "num_reviews": 1457
         },
         "2686": {
             "name": "Monoprice 6ft 24AWG CL2 Dual Link DVI-D Cable - Black",
@@ -32065,7 +32065,7 @@
             "product_id": 5828,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 310
+            "num_reviews": 311
         },
         "5829": {
             "name": "Monoprice Hook and Loop Fastening Tape, 5 yards/roll, 0.75in, White",
@@ -36034,7 +36034,7 @@
             "product_id": 8606,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1580
+            "num_reviews": 1584
         },
         "8607": {
             "name": "Monoprice USB Type-A to USB Type-A Female 2.0 Extension Cable - 28/24AWG, Gold Plated, White, 10ft",
@@ -38226,6 +38226,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-15T14:16:24Z"
+        "timestamp": "2023-04-15T15:18:00Z"
     }
 }
