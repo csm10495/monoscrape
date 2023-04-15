@@ -10078,7 +10078,7 @@
             "product_id": 2128,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3039
+            "num_reviews": 3040
         },
         "2132": {
             "name": "Monoprice Cat5e 3ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -13993,7 +13993,7 @@
             "product_id": 2749,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1535
+            "num_reviews": 1536
         },
         "27492": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, F/FTP, Pure Bare Copper Wire, 36AWG, 7ft, Blue",
@@ -14425,7 +14425,7 @@
             "product_id": 2789,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1535
+            "num_reviews": 1536
         },
         "2790": {
             "name": "Monoprice Choice Series 12AWG Oxygen-Free Pure Bare Copper Speaker Wire, 300ft",
@@ -14812,7 +14812,7 @@
             "product_id": 2867,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 1296
+            "num_reviews": 1298
         },
         "2868": {
             "name": "Monoprice 50ft Premium 2 RCA Plug/2 RCA Plug M/M 22AWG Cable - Black",
@@ -15379,7 +15379,7 @@
             "product_id": 3021,
             "available": true,
             "rating": 4.1,
-            "num_reviews": 788
+            "num_reviews": 789
         },
         "3022": {
             "name": "Monoprice Adjustable Height 5 lb. Capacity Speaker Stands (Pair), Black",
@@ -36970,7 +36970,7 @@
             "product_id": 4750,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 1351
+            "num_reviews": 1354
         },
         "4751": {
             "name": "Monoprice 6ft Premier Series XLR Male to XLR Female 16AWG Cable (Gold Plated) [Microphone and Interconnect]",
@@ -42955,7 +42955,7 @@
             "product_id": 8248,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 270
+            "num_reviews": 271
         },
         "8321": {
             "name": "Monoprice Button Design Noise Isolating Earbuds Headphones, Black \u0026 White",
@@ -43072,7 +43072,7 @@
             "product_id": 8532,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 116
+            "num_reviews": 117
         },
         "8533": {
             "name": "Monoprice 10ft MIDI Cable with 5 Pin DIN Plugs - Black",
@@ -43108,7 +43108,7 @@
             "product_id": 8536,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 116
+            "num_reviews": 117
         },
         "8543": {
             "name": "Monoprice 14.1 inch Laptop Cooling Pad",
@@ -45408,6 +45408,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-15T08:21:12Z"
+        "timestamp": "2023-04-15T09:17:05Z"
     }
 }
