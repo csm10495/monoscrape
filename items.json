@@ -16054,7 +16054,7 @@
             "product_id": 30769,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 197
+            "num_reviews": 198
         },
         "30770": {
             "name": "Monoprice Palette Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 1.5ft Blue",
@@ -18428,7 +18428,7 @@
             "price": 88.99,
             "url": "https://www.monoprice.com/product?p_id=33833",
             "product_id": 33833,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 54
         },
@@ -20212,7 +20212,7 @@
             "product_id": 34622,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 271
+            "num_reviews": 272
         },
         "34624": {
             "name": "Monoprice Cat6 25ft White Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -20707,7 +20707,7 @@
             "product_id": 34840,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 501
+            "num_reviews": 502
         },
         "34841": {
             "name": "Monoprice 4K Slim Certified Premium High Speed HDMI Cable 3m - 18Gbps Black - 2 Pack",
@@ -24531,8 +24531,8 @@
             "url": "https://www.monoprice.com/product?p_id=38807",
             "product_id": 38807,
             "available": false,
-            "rating": 4.3,
-            "num_reviews": 69
+            "rating": 4.4,
+            "num_reviews": 75
         },
         "38808": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 3ft, Black",
@@ -24549,8 +24549,8 @@
             "url": "https://www.monoprice.com/product?p_id=38809",
             "product_id": 38809,
             "available": false,
-            "rating": 4.3,
-            "num_reviews": 69
+            "rating": 4.4,
+            "num_reviews": 75
         },
         "38811": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 1.5ft, White",
@@ -24892,7 +24892,7 @@
             "product_id": 38865,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 56
+            "num_reviews": 57
         },
         "38866": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 5A/100W, 3ft, Red",
@@ -25360,7 +25360,7 @@
             "product_id": 39021,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 59
+            "num_reviews": 60
         },
         "39028": {
             "name": "Monoprice Select Series DisplayPort to HDTV Cable, 2m (6.6ft), 4K@60Hz",
@@ -26231,7 +26231,7 @@
             "price": 16.58,
             "url": "https://www.monoprice.com/product?p_id=39488",
             "product_id": 39488,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 7
         },
@@ -45417,6 +45417,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-15T23:17:59Z"
+        "timestamp": "2023-04-16T01:24:47Z"
     }
 }
