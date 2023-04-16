@@ -15982,7 +15982,7 @@
             "product_id": 30761,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 197
+            "num_reviews": 198
         },
         "30762": {
             "name": "Monoprice Palette Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 3ft Black",
@@ -17179,7 +17179,7 @@
             "product_id": 33198,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 518
+            "num_reviews": 519
         },
         "33199": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 10G, 30AWG, 25ft, Black, 5-Pack",
@@ -23360,7 +23360,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=38296",
             "product_id": 38296,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 32
         },
@@ -25378,7 +25378,7 @@
             "product_id": 39029,
             "available": false,
             "rating": 3.8,
-            "num_reviews": 4
+            "num_reviews": 5
         },
         "39032": {
             "name": "Monoprice SlimRun AV HDR DisplayPort to HDTV Cable, 4K@60Hz, AOC, 25ft",
@@ -45417,6 +45417,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-16T12:32:12Z"
+        "timestamp": "2023-04-16T13:20:09Z"
     }
 }
