@@ -14740,7 +14740,7 @@
             "product_id": 2821,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1847
+            "num_reviews": 1848
         },
         "2822": {
             "name": "Monoprice Access Series 16AWG CL2 Rated 2-Conductor Speaker Wire, 50ft, White",
@@ -28591,7 +28591,7 @@
             "product_id": 4037,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1847
+            "num_reviews": 1848
         },
         "40370": {
             "name": "Monoprice Spiral Wrapping Bands - 15mm x 1.5m, Black, 3-Pack",
@@ -45417,6 +45417,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-16T09:16:48Z"
+        "timestamp": "2023-04-16T10:18:10Z"
     }
 }
