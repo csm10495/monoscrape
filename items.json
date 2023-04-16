@@ -15584,7 +15584,7 @@
             "price": 305.91,
             "url": "https://www.monoprice.com/product?p_id=30456",
             "product_id": 30456,
-            "available": true,
+            "available": false,
             "rating": 3.2,
             "num_reviews": 6
         },
@@ -23830,7 +23830,7 @@
             "product_id": 38403,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 14
+            "num_reviews": 15
         },
         "38415": {
             "name": "Monoprice OM4 Fiber Optic Cable - SC/SC, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 15m",
@@ -24468,8 +24468,8 @@
             "url": "https://www.monoprice.com/product?p_id=38799",
             "product_id": 38799,
             "available": true,
-            "rating": 4.3,
-            "num_reviews": 69
+            "rating": 4.4,
+            "num_reviews": 75
         },
         "38800": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 3ft, Blue",
@@ -45417,6 +45417,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-16T06:21:51Z"
+        "timestamp": "2023-04-16T07:16:16Z"
     }
 }
