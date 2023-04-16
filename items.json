@@ -16583,7 +16583,7 @@
             "price": 2.29,
             "url": "https://www.monoprice.com/product?p_id=31194",
             "product_id": 31194,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 97
         },
@@ -18565,7 +18565,7 @@
             "product_id": 33871,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 212
+            "num_reviews": 211
         },
         "33875": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Pink",
@@ -18671,7 +18671,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=33887",
             "product_id": 33887,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -19107,6 +19107,15 @@
             "rating": 4.8,
             "num_reviews": 501
         },
+        "34207": {
+            "name": "Monoprice 4K Certified Premium High Speed HDMI Cable 3ft - 18Gbps Black - 2 Pack",
+            "price": 17.29,
+            "url": "https://www.monoprice.com/product?p_id=34207",
+            "product_id": 34207,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 1705
+        },
         "34208": {
             "name": "Monoprice 4K Certified Premium High Speed HDMI Cable 3ft - 18Gbps Black - 3 Pack",
             "price": 24.99,
@@ -19292,7 +19301,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=34240",
             "product_id": 34240,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 76
         },
@@ -25108,7 +25117,7 @@
             "product_id": 38905,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 75
+            "num_reviews": 77
         },
         "38906": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-A Charge and Sync Nylon-Braid Cable, 10ft, White",
@@ -25135,7 +25144,7 @@
             "product_id": 38908,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 75
+            "num_reviews": 77
         },
         "38909": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-A Charge and Sync Nylon-Braid Cable, 6ft, Red",
@@ -25214,7 +25223,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=38917",
             "product_id": 38917,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 21
         },
@@ -26069,7 +26078,7 @@
             "price": 200,
             "url": "https://www.monoprice.com/product?p_id=39414",
             "product_id": 39414,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 22
         },
@@ -45417,6 +45426,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-16T18:21:13Z"
+        "timestamp": "2023-04-16T19:16:29Z"
     }
 }
