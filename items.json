@@ -131,7 +131,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=10149",
             "product_id": 10149,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 159
         },
@@ -590,7 +590,7 @@
             "price": 20.59,
             "url": "https://www.monoprice.com/product?p_id=11043",
             "product_id": 11043,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 571
         },
@@ -2507,7 +2507,7 @@
             "price": 17.99,
             "url": "https://www.monoprice.com/product?p_id=12507",
             "product_id": 12507,
-            "available": false,
+            "available": true,
             "rating": 3.9,
             "num_reviews": 20
         },
@@ -2957,7 +2957,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=12841",
             "product_id": 12841,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 2056
         },
@@ -4757,7 +4757,7 @@
             "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=13670",
             "product_id": 13670,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 60
         },
@@ -6325,7 +6325,7 @@
             "product_id": 14802,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 271
+            "num_reviews": 272
         },
         "14803": {
             "name": "Monoprice Cat6 2ft Orange Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -6557,7 +6557,7 @@
             "price": 214.99,
             "url": "https://www.monoprice.com/product?p_id=14886",
             "product_id": 14886,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 27
         },
@@ -8744,7 +8744,7 @@
             "price": 38.67,
             "url": "https://www.monoprice.com/product?p_id=16187",
             "product_id": 16187,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 60
         },
@@ -9887,7 +9887,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=18822",
             "product_id": 18822,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 18
         },
@@ -45426,6 +45426,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-16T22:17:36Z"
+        "timestamp": "2023-04-16T23:18:24Z"
     }
 }
