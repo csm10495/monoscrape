@@ -10541,7 +10541,7 @@
         },
         "21609": {
             "name": "Monoprice Blackbird 4K Pro HDBaseT Extender Kit, IR, 70m with PoC, RS-232, HDCP 2.2",
-            "price": 87.09,
+            "price": 129.99,
             "url": "https://www.monoprice.com/product?p_id=21609",
             "product_id": 21609,
             "available": true,
@@ -11144,7 +11144,7 @@
         },
         "21956": {
             "name": "Monoprice Commercial Series Full-Motion Articulating TV Wall Mount Bracket For LED TVs 37in to 70in, Max Weight 99lbs, VESA Patterns Up to 600x400, Rotating",
-            "price": 32.99,
+            "price": 34.18,
             "url": "https://www.monoprice.com/product?p_id=21956",
             "product_id": 21956,
             "available": true,
@@ -12035,7 +12035,7 @@
         },
         "24209": {
             "name": "Monoprice Power Cord - IEC 60320 C20 to IEC 60320 C13, 14AWG, 15A/1875W, 3-Prong, SJT, Black, 3ft",
-            "price": 3.99,
+            "price": 6.49,
             "url": "https://www.monoprice.com/product?p_id=24209",
             "product_id": 24209,
             "available": true,
@@ -12089,7 +12089,7 @@
         },
         "24267": {
             "name": "Monoprice Commercial Series Portrait and Landscape Rotating 360 Degree Low Profile Fixed TV Wall Mount Bracket - For LED Displays 37in to 80in, Max Weight 110 lbs., VESA Patterns up to 600x400",
-            "price": 39.99,
+            "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=24267",
             "product_id": 24267,
             "available": false,
@@ -12287,7 +12287,7 @@
         },
         "24335": {
             "name": "Monoprice Cat6A 3ft Black Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
-            "price": 2.99,
+            "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=24335",
             "product_id": 24335,
             "available": true,
@@ -12800,7 +12800,7 @@
         },
         "24433": {
             "name": "Monoprice Amber In-Wall Speakers 8-inch 2-way Carbon Fiber with Ribbon Tweeter (pair)",
-            "price": 108,
+            "price": 179.99,
             "url": "https://www.monoprice.com/product?p_id=24433",
             "product_id": 24433,
             "available": true,
@@ -12850,7 +12850,7 @@
             "product_id": 24438,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 136
+            "num_reviews": 137
         },
         "24439": {
             "name": "Monoprice Onyx Series Auxiliary 3.5mm TRRS Audio \u0026 Microphone Cable, 15ft",
@@ -13061,7 +13061,7 @@
         },
         "24587": {
             "name": "Workstream by Monoprice Single Monitor Adjustable Gas Spring Desk Mount, For Smaller Screens Up to 27in",
-            "price": 39.99,
+            "price": 21.99,
             "url": "https://www.monoprice.com/product?p_id=24587",
             "product_id": 24587,
             "available": true,
@@ -13079,7 +13079,7 @@
         },
         "24639": {
             "name": "Workstream by Monoprice Adjustable Ergonomic Keyboard Tray With Full Size Platform",
-            "price": 59.99,
+            "price": 50.99,
             "url": "https://www.monoprice.com/product?p_id=24639",
             "product_id": 24639,
             "available": false,
@@ -13115,7 +13115,7 @@
         },
         "24731": {
             "name": "Monoprice Thunderbolt 3 (40 Gbps) USB-C Cable, 100W, 2.0m",
-            "price": 24.99,
+            "price": 35.99,
             "url": "https://www.monoprice.com/product?p_id=24731",
             "product_id": 24731,
             "available": true,
@@ -13228,7 +13228,7 @@
             "product_id": 24794,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 259
+            "num_reviews": 262
         },
         "24795": {
             "name": "Monolith by Monoprice Amplifier/Component Stand",
@@ -13592,7 +13592,7 @@
         },
         "27276": {
             "name": "Monoprice MP80 Aluminum In-Ear Earphone Balanced Armature Driver and Dynamic Driver with Three Tuning Nozzles",
-            "price": 19.99,
+            "price": 26.99,
             "url": "https://www.monoprice.com/product?p_id=27276",
             "product_id": 27276,
             "available": false,
@@ -14627,7 +14627,7 @@
         },
         "27934": {
             "name": "Monoprice Essentials USB Type-C to USB Type-A 3.1 Gen 2 Cable - 10Gbps, 3A, 30AWG, White, 1m (3.3ft)",
-            "price": 3,
+            "price": 10.79,
             "url": "https://www.monoprice.com/product?p_id=27934",
             "product_id": 27934,
             "available": true,
@@ -14978,7 +14978,7 @@
         },
         "29434": {
             "name": "Monoprice USB-C Dual-Monitor Docking Station for USB-C Laptops, MST, and Power Delivery up to 100W with USB-C Cable",
-            "price": 119.99,
+            "price": 119.53,
             "url": "https://www.monoprice.com/product?p_id=29434",
             "product_id": 29434,
             "available": true,
@@ -45426,6 +45426,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-17T06:23:58Z"
+        "timestamp": "2023-04-17T07:18:01Z"
     }
 }
