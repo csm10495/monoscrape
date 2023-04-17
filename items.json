@@ -16097,7 +16097,7 @@
             "price": 28.99,
             "url": "https://www.monoprice.com/product?p_id=30829",
             "product_id": 30829,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 52
         },
@@ -16394,7 +16394,7 @@
             "price": 5.69,
             "url": "https://www.monoprice.com/product?p_id=31096",
             "product_id": 31096,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 69
         },
@@ -16639,7 +16639,7 @@
             "product_id": 31204,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 259
+            "num_reviews": 260
         },
         "31219": {
             "name": "Monoprice OM4 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, 10GB, LSZH, Purple, 2m, Corning",
@@ -16684,7 +16684,7 @@
             "product_id": 31231,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 265
+            "num_reviews": 264
         },
         "31233": {
             "name": "Pure Outdoor by Monoprice Emperor 25 Rotomolded Portable Cooler 6.6 Gal, White",
@@ -17591,7 +17591,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=33535",
             "product_id": 33535,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 170
         },
@@ -17934,8 +17934,8 @@
             "url": "https://www.monoprice.com/product?p_id=33684",
             "product_id": 33684,
             "available": true,
-            "rating": 4.5,
-            "num_reviews": 15
+            "rating": 4.6,
+            "num_reviews": 16
         },
         "33686": {
             "name": "Monoprice Replacement Print Bed for the MP Mini Delta 3D Printer (21666)",
@@ -18410,7 +18410,7 @@
             "price": 48.99,
             "url": "https://www.monoprice.com/product?p_id=33835",
             "product_id": 33835,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 67
         },
@@ -19265,7 +19265,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=34240",
             "product_id": 34240,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 76
         },
@@ -19465,7 +19465,7 @@
             "product_id": 34311,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 201
+            "num_reviews": 202
         },
         "34312": {
             "name": "Monoprice Affinity Premium 14AWG Braided Speaker Wire with Gold Plated Banana Plug Connectors, 25ft",
@@ -21065,7 +21065,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=35114",
             "product_id": 35114,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 7
         },
@@ -21137,7 +21137,7 @@
             "price": 7.49,
             "url": "https://www.monoprice.com/product?p_id=35134",
             "product_id": 35134,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 1
         },
@@ -21400,7 +21400,7 @@
             "product_id": 35510,
             "available": false,
             "rating": 4.2,
-            "num_reviews": 37
+            "num_reviews": 38
         },
         "35519": {
             "name": "Monoprice All-in-One Portable Business Meeting Wide Angle USB Video Conference Camera Webcam, Mic, and Speaker, 1080p",
@@ -23288,7 +23288,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=38274",
             "product_id": 38274,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 4
         },
@@ -23694,8 +23694,8 @@
             "url": "https://www.monoprice.com/product?p_id=38372",
             "product_id": 38372,
             "available": false,
-            "rating": 4.5,
-            "num_reviews": 8
+            "rating": 4.6,
+            "num_reviews": 9
         },
         "38378": {
             "name": "Monoprice USB C To Lightning Cable - 1.5 Feet - Black ( MFI Certified ) Fast Charging, Compatible with Apple iPhone 13 / Pro / Pro Max / AirPods Pro - Select Series",
@@ -23784,8 +23784,8 @@
             "url": "https://www.monoprice.com/product?p_id=38394",
             "product_id": 38394,
             "available": true,
-            "rating": 4.6,
-            "num_reviews": 37
+            "rating": 4.7,
+            "num_reviews": 38
         },
         "38401": {
             "name": "Monoprice Cabernet Series Apple MFi Certified Flat Lightning to USB Type-C Rapid Charge and Sync Cable, 6ft White",
@@ -24044,7 +24044,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=38598",
             "product_id": 38598,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 14
         },
@@ -24539,7 +24539,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=38812",
             "product_id": 38812,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 73
         },
@@ -24559,7 +24559,7 @@
             "product_id": 38814,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 72
+            "num_reviews": 75
         },
         "38815": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 1.5ft, Blue",
@@ -24739,7 +24739,7 @@
             "product_id": 38844,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 56
+            "num_reviews": 57
         },
         "38845": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 3A/60W, 1.5ft, Blue",
@@ -27628,14 +27628,14 @@
             "product_id": 39921,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1580
+            "num_reviews": 1584
         },
         "39922": {
             "name": "Monoprice USB Type-A to USB Type-A Female 2.0 Extension Cable - 28/24AWG Gold Plated Black 1.5ft, 5-Pack",
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=39922",
             "product_id": 39922,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1584
         },
@@ -45381,6 +45381,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-17T19:20:57Z"
+        "timestamp": "2023-04-17T20:25:42Z"
     }
 }
