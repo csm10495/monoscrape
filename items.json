@@ -30409,7 +30409,7 @@
             "product_id": 41400,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1847
+            "num_reviews": 1848
         },
         "41401": {
             "name": "Monoprice Access Series 18AWG CL2 Rated 2-Conductor Speaker Wire, 500ft, Black",
@@ -30957,8 +30957,8 @@
             "url": "https://www.monoprice.com/product?p_id=41732",
             "product_id": 41732,
             "available": false,
-            "rating": 4.3,
-            "num_reviews": 87
+            "rating": 4.2,
+            "num_reviews": 89
         },
         "41738": {
             "name": "8 pack Hand Sanitizer Spray 1.5oz 45ML 75% Alcohol Lemon Scented Hand Cleanser Spray non-gel",
@@ -32443,7 +32443,7 @@
             "product_id": 42531,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 259
+            "num_reviews": 260
         },
         "42532": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft/3ft/6ft, Red - 3 Pack",
@@ -33116,7 +33116,7 @@
             "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=42835",
             "product_id": 42835,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 12
         },
@@ -34090,7 +34090,7 @@
             "product_id": 43150,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 12
+            "num_reviews": 13
         },
         "43151": {
             "name": "Monolith by Monoprice Encore C6 Center Channel Speaker (Each)",
@@ -34817,7 +34817,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=43303",
             "product_id": 43303,
-            "available": true,
+            "available": false,
             "rating": 1.8,
             "num_reviews": 14
         },
@@ -45426,6 +45426,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-17T14:19:35Z"
+        "timestamp": "2023-04-17T15:21:57Z"
     }
 }
