@@ -27896,7 +27896,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=4006",
             "product_id": 4006,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 84
         },
@@ -38950,7 +38950,7 @@
             "product_id": 5586,
             "available": true,
             "rating": 4.2,
-            "num_reviews": 600
+            "num_reviews": 601
         },
         "5587": {
             "name": "Monoprice 6ft Premium 3.5mm Stereo Male to 3.5mm Stereo Female 22AWG Extension Cable (Gold Plated) - Black",
@@ -45426,6 +45426,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-17T04:22:37Z"
+        "timestamp": "2023-04-17T05:18:32Z"
     }
 }
