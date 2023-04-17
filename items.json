@@ -19105,7 +19105,7 @@
             "product_id": 34206,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 501
+            "num_reviews": 502
         },
         "34207": {
             "name": "Monoprice 4K Certified Premium High Speed HDMI Cable 3ft - 18Gbps Black - 2 Pack",
@@ -19492,7 +19492,7 @@
             "product_id": 34310,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 201
+            "num_reviews": 202
         },
         "34311": {
             "name": "Monoprice Affinity Premium 14AWG Braided Speaker Wire with Gold Plated Banana Plug Connectors, 20ft",
@@ -21101,7 +21101,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=35114",
             "product_id": 35114,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 7
         },
@@ -22793,7 +22793,7 @@
             "price": 399.99,
             "url": "https://www.monoprice.com/product?p_id=38035",
             "product_id": 38035,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 217
         },
@@ -24441,8 +24441,8 @@
             "url": "https://www.monoprice.com/product?p_id=38794",
             "product_id": 38794,
             "available": true,
-            "rating": 4.3,
-            "num_reviews": 71
+            "rating": 4.4,
+            "num_reviews": 75
         },
         "38795": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 1.5ft, White",
@@ -24612,8 +24612,8 @@
             "url": "https://www.monoprice.com/product?p_id=38816",
             "product_id": 38816,
             "available": true,
-            "rating": 4.3,
-            "num_reviews": 69
+            "rating": 4.4,
+            "num_reviews": 75
         },
         "38818": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 10ft, Blue",
@@ -45426,6 +45426,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-17T13:23:23Z"
+        "timestamp": "2023-04-17T14:19:35Z"
     }
 }
