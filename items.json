@@ -10238,7 +10238,7 @@
             "price": 37.99,
             "url": "https://www.monoprice.com/product?p_id=21531",
             "product_id": 21531,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 10
         },
@@ -11059,7 +11059,7 @@
             "product_id": 21913,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 102
+            "num_reviews": 103
         },
         "21914": {
             "name": "Monoprice 5 Pair Right Angle 24k Gold Plated Banana Speaker Wire Cable Screw Plug Connectors",
@@ -11077,7 +11077,7 @@
             "product_id": 21915,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 102
+            "num_reviews": 103
         },
         "21917": {
             "name": "Monoprice 2 Pair Affinity Series 24k Gold Speaker Banana Plug",
@@ -12717,15 +12717,6 @@
             "rating": 4.9,
             "num_reviews": 494
         },
-        "24419": {
-            "name": "Monoprice Cat6A Ethernet Patch Cable - Snagless RJ45, 550MHz, STP, Pure Bare Copper Wire, 10G, 26AWG, 100ft, Red",
-            "price": 36.25,
-            "url": "https://www.monoprice.com/product?p_id=24419",
-            "product_id": 24419,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 494
-        },
         "24424": {
             "name": "Monoprice Obsidian Speed Plus USB Car Charger, 2-Port, 27W + 1A Output for iPhone, Android, and Galaxy Devices",
             "price": 9.99,
@@ -13037,7 +13028,7 @@
             "price": 21.99,
             "url": "https://www.monoprice.com/product?p_id=24587",
             "product_id": 24587,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 21
         },
@@ -13201,7 +13192,7 @@
             "product_id": 24794,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 262
+            "num_reviews": 263
         },
         "24795": {
             "name": "Monolith by Monoprice Amplifier/Component Stand",
@@ -14342,7 +14333,7 @@
             "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=27853",
             "product_id": 27853,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 10
         },
@@ -45390,6 +45381,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-17T18:25:05Z"
+        "timestamp": "2023-04-17T19:20:57Z"
     }
 }
