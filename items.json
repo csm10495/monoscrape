@@ -30337,7 +30337,7 @@
             "product_id": 41392,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1847
+            "num_reviews": 1848
         },
         "41393": {
             "name": "Monoprice Access Series 18AWG CL2 Rated 2-Conductor Speaker Wire, 250ft, Black",
@@ -30605,7 +30605,7 @@
             "price": 58.99,
             "url": "https://www.monoprice.com/product?p_id=41527",
             "product_id": 41527,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 6
         },
@@ -30875,7 +30875,7 @@
             "price": 31.99,
             "url": "https://www.monoprice.com/product?p_id=41703",
             "product_id": 41703,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -32126,7 +32126,7 @@
             "price": 23.99,
             "url": "https://www.monoprice.com/product?p_id=42300",
             "product_id": 42300,
-            "available": true,
+            "available": false,
             "rating": 3.5,
             "num_reviews": 12
         },
@@ -34594,7 +34594,7 @@
             "product_id": 43222,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 27
+            "num_reviews": 28
         },
         "43223": {
             "name": "Monoprice 8K Ultra High Speed HDMI Cable - No Logo - 8K@60Hz, 48Gbps, 15ft, Black - 5 Pack",
@@ -34612,7 +34612,7 @@
             "product_id": 43224,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 264
+            "num_reviews": 265
         },
         "43235": {
             "name": "Monolith by Monoprice AMT Headphone",
@@ -34710,8 +34710,8 @@
             "url": "https://www.monoprice.com/product?p_id=43245",
             "product_id": 43245,
             "available": true,
-            "rating": 5,
-            "num_reviews": 1
+            "rating": 3,
+            "num_reviews": 2
         },
         "43247": {
             "name": "Monoprice Harmony Boombox Portable Bluetooth Speaker, Waterproof, TWS",
@@ -45426,6 +45426,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-17T02:36:21Z"
+        "timestamp": "2023-04-17T03:20:10Z"
     }
 }
