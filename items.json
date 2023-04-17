@@ -11923,7 +11923,7 @@
             "product_id": 24188,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 501
+            "num_reviews": 502
         },
         "24190": {
             "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 18AWG, 10A/1250W, 3-Prong, SJT, Black, 1ft",
@@ -12076,7 +12076,7 @@
             "product_id": 24260,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 75
+            "num_reviews": 76
         },
         "24261": {
             "name": "Monoprice 4-port USB 3.0 Switch Hub",
@@ -45426,6 +45426,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-17T12:37:14Z"
+        "timestamp": "2023-04-17T13:23:23Z"
     }
 }
