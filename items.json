@@ -2716,7 +2716,7 @@
             "product_id": 12738,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 423
+            "num_reviews": 425
         },
         "12739": {
             "name": "Monoprice 4K High Speed HDMI Cable 75ft - CL2 In Wall Rated 18Gbps Active Black",
@@ -4174,7 +4174,7 @@
             "product_id": 13518,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 271
+            "num_reviews": 272
         },
         "13519": {
             "name": "Monoprice Cat6 1ft Gray Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -7900,7 +7900,7 @@
             "product_id": 15830,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 211
+            "num_reviews": 213
         },
         "15833": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Black",
@@ -7918,7 +7918,7 @@
             "product_id": 15835,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 211
+            "num_reviews": 213
         },
         "15848": {
             "name": "Monoprice MP Select ABS Plus+ Premium 3D Filament, 1kg 1.75mm, Black",
@@ -8449,7 +8449,7 @@
             "product_id": 16086,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1847
+            "num_reviews": 1848
         },
         "16088": {
             "name": "Monoprice 2 x 2 ft. Locking Suspended False Ceiling A/V Equipment Storage Enclosure and Gearbox",
@@ -45426,6 +45426,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-17T05:18:32Z"
+        "timestamp": "2023-04-17T06:23:58Z"
     }
 }
