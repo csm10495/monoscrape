@@ -27803,7 +27803,7 @@
         },
         "40001": {
             "name": "Monoprice 12 Outlet ABS Basic 1U Rackmount PDU Power Distribution Unit, NEMA 5-15R Surge-Protected Socket Outlets, 6ft Cord, 1050 Joules",
-            "price": 25.2,
+            "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=40001",
             "product_id": 40001,
             "available": true,
@@ -27911,7 +27911,7 @@
         },
         "40062": {
             "name": "Monoprice Power Cord - IEC 60320 C20 to IEC 60320 C13, 14AWG, 15A/1875W, 3-Prong, Black, 15ft",
-            "price": 12.99,
+            "price": 7.19,
             "url": "https://www.monoprice.com/product?p_id=40062",
             "product_id": 40062,
             "available": true,
@@ -28190,7 +28190,7 @@
         },
         "40107": {
             "name": "Monoprice EZ Series Portrait and Landscape 360 Full-Motion Articulating TV Wall Mount for LED TVs 42in to 75in, Weight Capacity 110 lbs., Extension 3.3in to 31.5in, VESA Patterns Up to 400x400",
-            "price": 63.99,
+            "price": 74.99,
             "url": "https://www.monoprice.com/product?p_id=40107",
             "product_id": 40107,
             "available": true,
@@ -28622,7 +28622,7 @@
         },
         "40372": {
             "name": "Strata Home by Monoprice Pro Cordless 400W Stick Vacuum Cleaner",
-            "price": 99.99,
+            "price": 159.99,
             "url": "https://www.monoprice.com/product?p_id=40372",
             "product_id": 40372,
             "available": true,
@@ -28658,7 +28658,7 @@
         },
         "40394": {
             "name": "Pure Outdoor by Monoprice Emperor 50 Rotomolded Portable Wheeled Cooler 13.2 Gal, White",
-            "price": 169.99,
+            "price": 159.98,
             "url": "https://www.monoprice.com/product?p_id=40394",
             "product_id": 40394,
             "available": true,
@@ -28901,7 +28901,7 @@
         },
         "40520": {
             "name": "Pure Outdoor by Monoprice Large Ring Toss Game",
-            "price": 19.99,
+            "price": 19.98,
             "url": "https://www.monoprice.com/product?p_id=40520",
             "product_id": 40520,
             "available": true,
@@ -29108,7 +29108,7 @@
         },
         "40778": {
             "name": "Dark Matter by Monoprice 27in Gaming Monitor - FHD, 240Hz, 1ms, DisplayHDR 400, AMD FreeSync Premium, Fast IPS-Type AHVA",
-            "price": 189,
+            "price": 188.99,
             "url": "https://www.monoprice.com/product?p_id=40778",
             "product_id": 40778,
             "available": true,
@@ -29885,7 +29885,7 @@
             "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=41232",
             "product_id": 41232,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 116
         },
@@ -29981,7 +29981,7 @@
         },
         "41285": {
             "name": "Monolith by Monoprice M-OW1 THX Certified On-Wall Speaker (Pair)",
-            "price": 299.99,
+            "price": 499.99,
             "url": "https://www.monoprice.com/product?p_id=41285",
             "product_id": 41285,
             "available": false,
@@ -29999,7 +29999,7 @@
         },
         "41287": {
             "name": "Monolith by Monoprice M518HT THX Certified 5.1 Home Theater System",
-            "price": 439.99,
+            "price": 799.99,
             "url": "https://www.monoprice.com/product?p_id=41287",
             "product_id": 41287,
             "available": true,
@@ -30017,7 +30017,7 @@
         },
         "41289": {
             "name": "Monolith by Monoprice THX Certified 8in 150-watt Powered Subwoofer",
-            "price": 209.99,
+            "price": 314.99,
             "url": "https://www.monoprice.com/product?p_id=41289",
             "product_id": 41289,
             "available": true,
@@ -30170,7 +30170,7 @@
         },
         "41374": {
             "name": "Monoprice Access Series 12AWG CL2 Rated 2-Conductor Speaker Wire, 500ft, Black",
-            "price": 109.98,
+            "price": 179.76,
             "url": "https://www.monoprice.com/product?p_id=41374",
             "product_id": 41374,
             "available": true,
@@ -30197,7 +30197,7 @@
         },
         "41377": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 2-Conductor Speaker Wire, 250ft, Black",
-            "price": 81.49,
+            "price": 67.64,
             "url": "https://www.monoprice.com/product?p_id=41377",
             "product_id": 41377,
             "available": true,
@@ -30386,7 +30386,7 @@
         },
         "41398": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 2-Conductor Speaker Wire, 1000ft, Black",
-            "price": 142.8,
+            "price": 209.99,
             "url": "https://www.monoprice.com/product?p_id=41398",
             "product_id": 41398,
             "available": true,
@@ -30557,7 +30557,7 @@
         },
         "41497": {
             "name": "Monoprice SW-10 10\" 150 Watt RMS (300 Watt Peak) Powered Subwoofer",
-            "price": 90.99,
+            "price": 129.99,
             "url": "https://www.monoprice.com/product?p_id=41497",
             "product_id": 41497,
             "available": false,
@@ -30578,7 +30578,7 @@
             "price": 299.99,
             "url": "https://www.monoprice.com/product?p_id=41499",
             "product_id": 41499,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 42
         },
@@ -30737,7 +30737,7 @@
         },
         "41687": {
             "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, H05VV-F 3G 0.75 mm",
-            "price": 1.29,
+            "price": 1.15,
             "url": "https://www.monoprice.com/product?p_id=41687",
             "product_id": 41687,
             "available": true,
@@ -30746,7 +30746,7 @@
         },
         "41689": {
             "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, H05VV-F 3G 0,75 mm",
-            "price": 2.99,
+            "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=41689",
             "product_id": 41689,
             "available": true,
@@ -31705,7 +31705,7 @@
             "product_id": 42075,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 27
+            "num_reviews": 28
         },
         "42076": {
             "name": "Monoprice 8K No Logo Ultra High Speed HDMI Cable, 48Gbps, 5ft, Black",
@@ -31856,13 +31856,13 @@
             "price": 23.99,
             "url": "https://www.monoprice.com/product?p_id=42110",
             "product_id": 42110,
-            "available": true,
+            "available": false,
             "rating": 4.1,
             "num_reviews": 11
         },
         "42111": {
             "name": "Workstream by Monoprice Mechanical Keyboard with Kailh Box Brown Switches - Backlit, Aluminum Top Plate, 80 Million Keystrokes",
-            "price": 59.99,
+            "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=42111",
             "product_id": 42111,
             "available": true,
@@ -31889,7 +31889,7 @@
         },
         "42136": {
             "name": "Yoga Ring Yoga Wheel for Back Pain Work Out Exercise Stretching Muscle Relaxer for Home training Home gym",
-            "price": 5.99,
+            "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=42136",
             "product_id": 42136,
             "available": true,
@@ -32010,8 +32010,8 @@
             "url": "https://www.monoprice.com/product?p_id=42164",
             "product_id": 42164,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 2,
+            "num_reviews": 1
         },
         "42196": {
             "name": "Solar Pathway Lights Outdoor Waterproof solar Landscape Path Lights with Motion Sensor 2 pack",
@@ -32114,7 +32114,7 @@
         },
         "42273": {
             "name": "Monoprice Blackbird H.265 HDMI over IP KVM Extender, Using Cat5e or Cat6, extend up to 150M /492ft, 1920x1200@60Hz, YCbCr 4:4:4",
-            "price": 92.45,
+            "price": 137.99,
             "url": "https://www.monoprice.com/product?p_id=42273",
             "product_id": 42273,
             "available": false,
@@ -32339,7 +32339,7 @@
         },
         "42496": {
             "name": "Expandable Braided Cable Sock Black 1/2\"(12.7mm) x 100Ft (30.48m)",
-            "price": 1.99,
+            "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=42496",
             "product_id": 42496,
             "available": true,
@@ -32492,7 +32492,7 @@
         },
         "42537": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft/3ft/6ft, Black - 3 Pack",
-            "price": 9.5,
+            "price": 13.29,
             "url": "https://www.monoprice.com/product?p_id=42537",
             "product_id": 42537,
             "available": true,
@@ -32510,7 +32510,7 @@
         },
         "42539": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C Charge and Sync Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 6ft, Red - 3 Pack",
-            "price": 14.7,
+            "price": 17.99,
             "url": "https://www.monoprice.com/product?p_id=42539",
             "product_id": 42539,
             "available": true,
@@ -32870,7 +32870,7 @@
         },
         "42688": {
             "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 26AWG, 15ft, Black - 5 Pack",
-            "price": 49.6,
+            "price": 112.99,
             "url": "https://www.monoprice.com/product?p_id=42688",
             "product_id": 42688,
             "available": true,
@@ -33068,7 +33068,7 @@
         },
         "42830": {
             "name": "Monolith by Monoprice THX-275IW THX Certified Select 3-Way In-Wall Speaker",
-            "price": 237.49,
+            "price": 349.99,
             "url": "https://www.monoprice.com/product?p_id=42830",
             "product_id": 42830,
             "available": true,
@@ -33077,7 +33077,7 @@
         },
         "42831": {
             "name": "Monolith by Monoprice M-IWSUB8 8in In-Wall Subwoofer",
-            "price": 212,
+            "price": 399.99,
             "url": "https://www.monoprice.com/product?p_id=42831",
             "product_id": 42831,
             "available": true,
@@ -33284,7 +33284,7 @@
         },
         "42891": {
             "name": "Monoprice 32in Zero-G Curved Gaming Monitor - 1500R, 16:9, 2560x1440p, WQHD, 165Hz, HDMI, DisplayPort, VA",
-            "price": 249.99,
+            "price": 197.99,
             "url": "https://www.monoprice.com/product?p_id=42891",
             "product_id": 42891,
             "available": true,
@@ -33302,7 +33302,7 @@
         },
         "42897": {
             "name": "Folding Table 4 Foot Adjustable Height Portable Lightweight Aluminum Camping Table, Small Folding Table with Carry Handle, for Outdoor/Indoor",
-            "price": 39.99,
+            "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=42897",
             "product_id": 42897,
             "available": true,
@@ -33311,7 +33311,7 @@
         },
         "42898": {
             "name": "Folding Camping Table Chair Set, Aluminum Suitcase Portable Camping Picnic Table with 4 Seats,Umbrella Hole for Party, BBQ, Beach(Silver)",
-            "price": 62.99,
+            "price": 56.99,
             "url": "https://www.monoprice.com/product?p_id=42898",
             "product_id": 42898,
             "available": true,
@@ -33815,7 +33815,7 @@
         },
         "43048": {
             "name": "Magnetic Phone Car Mount, Universal Stick On Mount Dashboard Magnetic Car Mount Holder, for Cell Phones and Mini Tablets with Fast Swift-snap Technology, Magnetic Cell Phone Mount",
-            "price": 1.29,
+            "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=43048",
             "product_id": 43048,
             "available": true,
@@ -33824,7 +33824,7 @@
         },
         "43049": {
             "name": "Pure Outdoor by Monoprice Battery-Powered LED Camping Lantern, 1000LM",
-            "price": 16.99,
+            "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=43049",
             "product_id": 43049,
             "available": true,
@@ -34004,7 +34004,7 @@
         },
         "43113": {
             "name": "10 Dimmable Levels Grow Light with 3 Modes Timing Function for Indoor Plants with Remote Control",
-            "price": 10.74,
+            "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=43113",
             "product_id": 43113,
             "available": true,
@@ -34013,7 +34013,7 @@
         },
         "43114": {
             "name": "Plant Grow Lights, 10W LED Growing Lamps for Indoor Plants, Full Spectrum 9 Dimmable Levels 3 Modes Timing Function, 1 Head",
-            "price": 7.79,
+            "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=43114",
             "product_id": 43114,
             "available": true,
@@ -34040,7 +34040,7 @@
         },
         "43130": {
             "name": "Monoprice 20W USB-C Fast Wall Charger",
-            "price": 8.99,
+            "price": 8.9,
             "url": "https://www.monoprice.com/product?p_id=43130",
             "product_id": 43130,
             "available": true,
@@ -34076,7 +34076,7 @@
         },
         "43149": {
             "name": "Monolith by Monoprice Encore T6 Tower Speaker (Each)",
-            "price": 212,
+            "price": 399.99,
             "url": "https://www.monoprice.com/product?p_id=43149",
             "product_id": 43149,
             "available": true,
@@ -34085,7 +34085,7 @@
         },
         "43150": {
             "name": "Monolith by Monoprice Encore B6 Bookshelf Speaker (Each)",
-            "price": 95.4,
+            "price": 179.99,
             "url": "https://www.monoprice.com/product?p_id=43150",
             "product_id": 43150,
             "available": true,
@@ -34094,7 +34094,7 @@
         },
         "43151": {
             "name": "Monolith by Monoprice Encore C6 Center Channel Speaker (Each)",
-            "price": 119.99,
+            "price": 249.99,
             "url": "https://www.monoprice.com/product?p_id=43151",
             "product_id": 43151,
             "available": true,
@@ -34112,7 +34112,7 @@
         },
         "43153": {
             "name": "Monolith by Monoprice Encore B5 Bookshelf Speakers (Each)",
-            "price": 83.99,
+            "price": 104.99,
             "url": "https://www.monoprice.com/product?p_id=43153",
             "product_id": 43153,
             "available": true,
@@ -34220,7 +34220,7 @@
         },
         "43165": {
             "name": "Monolith by Monoprice Double-Wide XL 3-Tier AV Stand, Espresso",
-            "price": 167.99,
+            "price": 349.99,
             "url": "https://www.monoprice.com/product?p_id=43165",
             "product_id": 43165,
             "available": true,
@@ -34274,7 +34274,7 @@
         },
         "43178": {
             "name": "Monoprice Heavy Duty Power Cable - IEC 60320 C14 to IEC 60320 C15, 14AWG, 15A, SJT, 125V, White, 6ft",
-            "price": 3.99,
+            "price": 2.26,
             "url": "https://www.monoprice.com/product?p_id=43178",
             "product_id": 43178,
             "available": true,
@@ -34346,7 +34346,7 @@
         },
         "43189": {
             "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 18AWG, 10A, 3-Prong, SJT, White, 2ft",
-            "price": 1.29,
+            "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=43189",
             "product_id": 43189,
             "available": true,
@@ -34373,7 +34373,7 @@
         },
         "43192": {
             "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 14AWG, 15A, SJT, 100-250V, White, 2ft",
-            "price": 1.99,
+            "price": 1.79,
             "url": "https://www.monoprice.com/product?p_id=43192",
             "product_id": 43192,
             "available": true,
@@ -34400,7 +34400,7 @@
         },
         "43197": {
             "name": "Monoprice Commercial Series Low Profile Extra Wide Tilt TV Wall Mount Bracket for LED TVs 43in to 90in, Max Weight 154 lbs, VESA Patterns up to 800x400, Fits Curved Screens",
-            "price": 21.99,
+            "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=43197",
             "product_id": 43197,
             "available": true,
@@ -34526,7 +34526,7 @@
         },
         "43215": {
             "name": "Monoprice EZ Series Full-Motion Articulating TV Wall Mount Bracket - For TVs 23in to 42in, Max Weight 66 lbs, Extension Range of 3.5in to 18.3in, VESA up to 200x200, Cable Covers, Fits Curved Screens",
-            "price": 27.99,
+            "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=43215",
             "product_id": 43215,
             "available": true,
@@ -34535,7 +34535,7 @@
         },
         "43216": {
             "name": "Monoprice Commercial Series Extra Long Ceiling TV Mount Bracket - For TVs 23in to 43in, Max Weight 110 lbs., Extension Range of 28.3in to 62.6in, VESA Patterns up to 200x200",
-            "price": 39.99,
+            "price": 21.99,
             "url": "https://www.monoprice.com/product?p_id=43216",
             "product_id": 43216,
             "available": true,
@@ -34571,7 +34571,7 @@
         },
         "43220": {
             "name": "Monoprice 8K Ultra High Speed HDMI Cable, 48Gbps, Black, 15ft",
-            "price": 10.59,
+            "price": 16.49,
             "url": "https://www.monoprice.com/product?p_id=43220",
             "product_id": 43220,
             "available": true,
@@ -34697,7 +34697,7 @@
         },
         "43244": {
             "name": "Monoprice Bluetooth 5 Transmitter and Receiver with aptX Low Latency, Wireless Bluetooth Audio Streaming Adapter for TV, PC, PS4, Xbox, Headphones, Home Sound Car Stereo Speaker with 3.5mm AUX or RCA",
-            "price": 14.39,
+            "price": 27.99,
             "url": "https://www.monoprice.com/product?p_id=43244",
             "product_id": 43244,
             "available": false,
@@ -34706,7 +34706,7 @@
         },
         "43245": {
             "name": "Monoprice Bluetooth 5 Receiver with Mic Input",
-            "price": 7.39,
+            "price": 10.79,
             "url": "https://www.monoprice.com/product?p_id=43245",
             "product_id": 43245,
             "available": true,
@@ -34742,7 +34742,7 @@
         },
         "43250": {
             "name": "Monoprice Bluetooth Headphone with Transmitter Charger Base and aptX Low Latency",
-            "price": 35,
+            "price": 41.99,
             "url": "https://www.monoprice.com/product?p_id=43250",
             "product_id": 43250,
             "available": true,
@@ -34796,7 +34796,7 @@
         },
         "43261": {
             "name": "Monoprice Harmony Capsule 100 Portable Bluetooth Speaker",
-            "price": 19.99,
+            "price": 19.98,
             "url": "https://www.monoprice.com/product?p_id=43261",
             "product_id": 43261,
             "available": true,
@@ -34823,7 +34823,7 @@
         },
         "43305": {
             "name": "Dark Matter by Monoprice 49in Curved Gaming Monitor - 32:9, 1800R, 5120x1440p, DQHD, 120Hz, Adaptive Sync, VA",
-            "price": 999.99,
+            "price": 799.99,
             "url": "https://www.monoprice.com/product?p_id=43305",
             "product_id": 43305,
             "available": true,
@@ -34994,7 +34994,7 @@
         },
         "43351": {
             "name": "Pure Outdoor by Monoprice 50L Zippered Waterproof Dry Bag Backpack Duffel",
-            "price": 34,
+            "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=43351",
             "product_id": 43351,
             "available": false,
@@ -35012,7 +35012,7 @@
         },
         "43353": {
             "name": "Pure Outdoor by Monoprice 10L Lightweight and Waterproof Dry Bag, Blue",
-            "price": 9.99,
+            "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=43353",
             "product_id": 43353,
             "available": true,
@@ -35039,7 +35039,7 @@
         },
         "43356": {
             "name": "Pure Outdoor by Monoprice Rubber Wheel Chocks, 2-Pack",
-            "price": 10.99,
+            "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=43356",
             "product_id": 43356,
             "available": false,
@@ -35048,7 +35048,7 @@
         },
         "43357": {
             "name": "Pure Outdoor by Monoprice Curved Leveling Kit",
-            "price": 5.49,
+            "price": 24.49,
             "url": "https://www.monoprice.com/product?p_id=43357",
             "product_id": 43357,
             "available": false,
@@ -35057,7 +35057,7 @@
         },
         "43358": {
             "name": "Pure Outdoor by Monoprice Six Player Croquet Set",
-            "price": 21.99,
+            "price": 21.98,
             "url": "https://www.monoprice.com/product?p_id=43358",
             "product_id": 43358,
             "available": true,
@@ -35066,7 +35066,7 @@
         },
         "43359": {
             "name": "Pure Outdoor by Monoprice Hook and Ring Toss Game",
-            "price": 14.99,
+            "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=43359",
             "product_id": 43359,
             "available": true,
@@ -35111,7 +35111,7 @@
         },
         "43386": {
             "name": "Pure Outdoor by Monoprice Vacuum-Sealed 32 oz. Wide-Mouth Water Bottle, Pink",
-            "price": 8.58,
+            "price": 8.79,
             "url": "https://www.monoprice.com/product?p_id=43386",
             "product_id": 43386,
             "available": true,
@@ -35120,7 +35120,7 @@
         },
         "43387": {
             "name": "Pure Outdoor by Monoprice Vacuum-Sealed 12 oz. Wide-Mouth Kids' Water Bottle with Straw Lid, Blue",
-            "price": 5.85,
+            "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=43387",
             "product_id": 43387,
             "available": true,
@@ -35129,7 +35129,7 @@
         },
         "43390": {
             "name": "Pure Outdoor by Monoprice Vacuum-Sealed 12 oz. Wide-Mouth Kids' Water Bottle with Straw Lid, Black",
-            "price": 14.99,
+            "price": 8.49,
             "url": "https://www.monoprice.com/product?p_id=43390",
             "product_id": 43390,
             "available": true,
@@ -35219,7 +35219,7 @@
         },
         "43440": {
             "name": "Inflatable Rainbow Cloud Drink Holder Floating Beverage Salad Fruit Serving Bar Pool Float Party Accessories Summer Beach Leisure Cup Bottle Holder Water Fun Decorations Toys Kids Adults",
-            "price": 4.99,
+            "price": 4.29,
             "url": "https://www.monoprice.com/product?p_id=43440",
             "product_id": 43440,
             "available": true,
@@ -35264,7 +35264,7 @@
         },
         "43452": {
             "name": "Monoprice Horizon ANC True Wireless Earphones with ANC, Qualcomm QCC3040 Bluetooth 5.2, 4 Mics, cVc 8.0, Adaptive aptX, AAC, Gaming Low Latency Mode, Sweatproof, Charging Case",
-            "price": 27.99,
+            "price": 44.99,
             "url": "https://www.monoprice.com/product?p_id=43452",
             "product_id": 43452,
             "available": true,
@@ -35273,7 +35273,7 @@
         },
         "43453": {
             "name": "Monolith by Monoprice M1000ANC Bluetooth Headphones with ANC and Dirac Virtuo Spatializer, 60H Playtime, Memory Foam Pads, Ambient Mode, Touch Control",
-            "price": 41.99,
+            "price": 129.99,
             "url": "https://www.monoprice.com/product?p_id=43453",
             "product_id": 43453,
             "available": false,
@@ -35453,7 +35453,7 @@
         },
         "43564": {
             "name": "Monoprice Home Office Fixed Steel Frame Computer Desk with Solid-Core 4-foot Desktop and Accessory Attachments, Black",
-            "price": 99.99,
+            "price": 107.99,
             "url": "https://www.monoprice.com/product?p_id=43564",
             "product_id": 43564,
             "available": true,
@@ -35462,7 +35462,7 @@
         },
         "43574": {
             "name": "5 Gallon Plant Grow Bags 5-Pack Heavy Duty Thickened Non-Woven Aeration Planting Fabric Pot Container with 2 Strap Handles Felt Fabric for Garden and Planting, Black",
-            "price": 18.99,
+            "price": 21.99,
             "url": "https://www.monoprice.com/product?p_id=43574",
             "product_id": 43574,
             "available": true,
@@ -35552,7 +35552,7 @@
         },
         "43623": {
             "name": "Monoprice Blackbird 4K 4x4 HDMI Matrix, 18G, 4K@60, YCbCr 4:4:4, EDID, 4K to 1080p Downscaler, IR",
-            "price": 100.8,
+            "price": 134.99,
             "url": "https://www.monoprice.com/product?p_id=43623",
             "product_id": 43623,
             "available": true,
@@ -35615,7 +35615,7 @@
         },
         "43642": {
             "name": "Galaxy Projector Star Lights Projector, Bluetooth Speaker, Starry Night Light, Remote Control, Bedroom, Party Room Decoration for Kids and Adults",
-            "price": 17.39,
+            "price": 22.99,
             "url": "https://www.monoprice.com/product?p_id=43642",
             "product_id": 43642,
             "available": true,
@@ -35624,7 +35624,7 @@
         },
         "43646": {
             "name": "Solar Mason Jar Lights,8 Pack 30 Led Hanging String Fairy Jar Solar Lantern Lights for Outdoor Patio Garden Yard and Lawn Decoration",
-            "price": 13.99,
+            "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=43646",
             "product_id": 43646,
             "available": true,
@@ -35660,7 +35660,7 @@
         },
         "43666": {
             "name": "Monoprice Soundstage3 Portable Bluetooth Speaker with 10 Hour Playtime, Optical, Aux, RCA Inputs, Subwoofer Output",
-            "price": 129.99,
+            "price": 174.99,
             "url": "https://www.monoprice.com/product?p_id=43666",
             "product_id": 43666,
             "available": true,
@@ -35741,7 +35741,7 @@
         },
         "43708": {
             "name": "Dark Matter GT Foldable Racing Wheel Stand",
-            "price": 149.99,
+            "price": 169.99,
             "url": "https://www.monoprice.com/product?p_id=43708",
             "product_id": 43708,
             "available": true,
@@ -35750,7 +35750,7 @@
         },
         "43709": {
             "name": "Dark Matter GT Triple Monitor Racing Mount",
-            "price": 229.99,
+            "price": 249.99,
             "url": "https://www.monoprice.com/product?p_id=43709",
             "product_id": 43709,
             "available": true,
@@ -35759,7 +35759,7 @@
         },
         "43710": {
             "name": "Dark Matter Arcade Fighting Stick with Sanwa joystick and Vewlix style buttons for Windows, Xbox One, PlayStation 4, Nintendo Switch, and Android",
-            "price": 109.99,
+            "price": 119.99,
             "url": "https://www.monoprice.com/product?p_id=43710",
             "product_id": 43710,
             "available": true,
@@ -35813,7 +35813,7 @@
         },
         "43792": {
             "name": "Monoprice 112W 4-Port USB-C Desktop Charging Station",
-            "price": 35.99,
+            "price": 44.99,
             "url": "https://www.monoprice.com/product?p_id=43792",
             "product_id": 43792,
             "available": true,
@@ -35867,7 +35867,7 @@
         },
         "43857": {
             "name": "Pure Outdoor by Monoprice Full-size Camp \u0026 Outdoor IPX4-rated Water Resistant Aluminum LED Flashlight",
-            "price": 29.99,
+            "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=43857",
             "product_id": 43857,
             "available": true,
@@ -35876,7 +35876,7 @@
         },
         "43876": {
             "name": "Monoprice Blackbird 4K 1x2 HDMI Splitter, 4K@30Hz",
-            "price": 19.99,
+            "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=43876",
             "product_id": 43876,
             "available": true,
@@ -35930,7 +35930,7 @@
         },
         "43905": {
             "name": "Monoprice Bluetooth 5.0 + USB Transmitter Wireless Web Meeting Headset with 3D Stereo Surround Sound and Detachable Boom Mic",
-            "price": 37.99,
+            "price": 50.99,
             "url": "https://www.monoprice.com/product?p_id=43905",
             "product_id": 43905,
             "available": true,
@@ -35966,7 +35966,7 @@
         },
         "43960": {
             "name": "Monoprice Blackbird 4K 2x4 Splitter Extender Complete Solution Kit, 4K@60, HDMI 2.0, 18Gbps, HDR, HDMI-over-Ethernet Cat5e/6/7, 80m, POC, Downscaler, Optical/Analog Audio Extractor, RS232",
-            "price": 254.09,
+            "price": 254.08,
             "url": "https://www.monoprice.com/product?p_id=43960",
             "product_id": 43960,
             "available": true,
@@ -36038,7 +36038,7 @@
         },
         "44089": {
             "name": "Pure Outdoor Camp Hammock with  built in Carrying Case",
-            "price": 17.99,
+            "price": 17.98,
             "url": "https://www.monoprice.com/product?p_id=44089",
             "product_id": 44089,
             "available": true,
@@ -36047,7 +36047,7 @@
         },
         "44090": {
             "name": "Pure Outdoor Camp Hammock with Bug Mesh and built in Carrying Case",
-            "price": 17.99,
+            "price": 19.98,
             "url": "https://www.monoprice.com/product?p_id=44090",
             "product_id": 44090,
             "available": true,
@@ -36074,7 +36074,7 @@
         },
         "44093": {
             "name": "Pure Outdoor Multi Functional Pliers with Fabric Bag",
-            "price": 17.99,
+            "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=44093",
             "product_id": 44093,
             "available": true,
@@ -36092,7 +36092,7 @@
         },
         "44095": {
             "name": "Pure Outdoor by Monoprice 7 in 1 Paracord Survival Bracelet with Digital Watch and Compass",
-            "price": 6.99,
+            "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=44095",
             "product_id": 44095,
             "available": true,
@@ -36101,7 +36101,7 @@
         },
         "44096": {
             "name": "Pure Outdoor by Monoprice Compact 33 function Survival Gear Kit with Multi-functional Knife with compact carry case",
-            "price": 29.99,
+            "price": 23.99,
             "url": "https://www.monoprice.com/product?p_id=44096",
             "product_id": 44096,
             "available": true,
@@ -36119,7 +36119,7 @@
         },
         "44099": {
             "name": "Pure Outdoor by Monoprice 3 in 1 Compact Shovel 23 inch with Ballistic Carry bag",
-            "price": 24.99,
+            "price": 26.99,
             "url": "https://www.monoprice.com/product?p_id=44099",
             "product_id": 44099,
             "available": true,
@@ -36128,7 +36128,7 @@
         },
         "44100": {
             "name": "Pure Outdoor by Monoprice Ladder Toss Outdoor Game",
-            "price": 34.99,
+            "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=44100",
             "product_id": 44100,
             "available": false,
@@ -36137,7 +36137,7 @@
         },
         "44101": {
             "name": "Pure Outdoor by Monoprice Giant Yard Pong Game",
-            "price": 21.99,
+            "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=44101",
             "product_id": 44101,
             "available": true,
@@ -36164,7 +36164,7 @@
         },
         "44116": {
             "name": "Monoprice 7-in-1 Dual Monitor Docking Station with Dual 4K@60Hz DisplayPort, 10Gbps USB 3.1 Gen2, 100W PD Passthrough Charging, Gigabit Ethernet",
-            "price": 40.8,
+            "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=44116",
             "product_id": 44116,
             "available": true,
@@ -36272,7 +36272,7 @@
         },
         "44319": {
             "name": "Monoprice Coiled Power Extension Cord, 16AWG, 13A, SJT, Orange, Expands from 3ft to 10ft",
-            "price": 15.99,
+            "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=44319",
             "product_id": 44319,
             "available": true,
@@ -36281,7 +36281,7 @@
         },
         "44320": {
             "name": "Monoprice Outdoor Extension Cord - NEMA 5-15P to NEMA 5-15R, 14AWG, 15A, SJTW, Yellow, 25ft",
-            "price": 11.99,
+            "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=44320",
             "product_id": 44320,
             "available": true,
@@ -36290,7 +36290,7 @@
         },
         "44321": {
             "name": "Monoprice Outdoor Extension Cord - NEMA 5-15P to NEMA 5-15R, 14AWG, 15A, SJTW, Yellow, 50ft",
-            "price": 29.99,
+            "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=44321",
             "product_id": 44321,
             "available": true,
@@ -36299,7 +36299,7 @@
         },
         "44322": {
             "name": "Monoprice Outdoor Extension Cord - NEMA 5-15P to NEMA 5-15R, 14AWG, 15A, SJTW, Yellow, 100ft",
-            "price": 34.99,
+            "price": 42.99,
             "url": "https://www.monoprice.com/product?p_id=44322",
             "product_id": 44322,
             "available": true,
@@ -36335,7 +36335,7 @@
         },
         "44326": {
             "name": "MPM Automatic Microchip Pet Feeder, APP control, Cat Dog Feeder, RFID Tag, Multi-Pet, LCD Display, Suitable for Both Wet and Dry Food",
-            "price": 89.99,
+            "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=44326",
             "product_id": 44326,
             "available": false,
@@ -36479,7 +36479,7 @@
         },
         "44348": {
             "name": "12\" Kids Balance Bike, High-end Magnesium Alloy Frame, EVA Foam Or Air Rubber Tires, Bicycle for 2 3 4 5 6 Year Old Boys and Girls",
-            "price": 39.99,
+            "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=44348",
             "product_id": 44348,
             "available": true,
@@ -45426,6 +45426,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-17T08:23:30Z"
+        "timestamp": "2023-04-17T09:19:10Z"
     }
 }
