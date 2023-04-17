@@ -2066,7 +2066,7 @@
             "price": 1.19,
             "url": "https://www.monoprice.com/product?p_id=1184",
             "product_id": 1184,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 12
         },
@@ -13334,7 +13334,7 @@
             "price": 5.49,
             "url": "https://www.monoprice.com/product?p_id=2601",
             "product_id": 2601,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 7
         },
@@ -37103,7 +37103,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=4763",
             "product_id": 4763,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 290
         },
@@ -37384,7 +37384,7 @@
             "product_id": 4796,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 419
+            "num_reviews": 421
         },
         "4797": {
             "name": "Monoprice 35ft Premier Series 1/4in TRS Male to Male Cable, 16AWG (Gold Plated)",
@@ -37535,7 +37535,7 @@
             "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=4928",
             "product_id": 4928,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 49
         },
@@ -38878,7 +38878,7 @@
             "product_id": 5576,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 1087
+            "num_reviews": 1088
         },
         "5577": {
             "name": "Monoprice 6ft Premium 3.5mm Stereo Male to 3.5mm Stereo Male 22AWG Cable (Gold Plated) - Black",
@@ -38995,7 +38995,7 @@
             "product_id": 5595,
             "available": true,
             "rating": 4.2,
-            "num_reviews": 600
+            "num_reviews": 601
         },
         "5596": {
             "name": "Monoprice 1.5ft Premium 3.5mm Stereo Male to 2RCA Male 22AWG Cable (Gold Plated) - Black",
@@ -39177,15 +39177,6 @@
             "rating": 4.2,
             "num_reviews": 369
         },
-        "5766": {
-            "name": "Monoprice Cable Tie 8in 40 lbs, 100 pcs/pack, Green",
-            "price": 1.79,
-            "url": "https://www.monoprice.com/product?p_id=5766",
-            "product_id": 5766,
-            "available": true,
-            "rating": 4.2,
-            "num_reviews": 369
-        },
         "5767": {
             "name": "Monoprice Cable Tie 11in 50 lbs, 100 pcs/pack, Black",
             "price": 2.49,
@@ -39274,7 +39265,7 @@
             "product_id": 5829,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 310
+            "num_reviews": 311
         },
         "5831": {
             "name": "Monoprice Hook and Loop Fastening Tape, 5 yards/roll, 0.75in, Red",
@@ -39904,7 +39895,7 @@
             "product_id": 6271,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 2397
+            "num_reviews": 2398
         },
         "6272": {
             "name": "Monoprice S/PDIF (Toslink) Digital Optical Audio Cable, 10ft",
@@ -39913,7 +39904,7 @@
             "product_id": 6272,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 2358
+            "num_reviews": 2359
         },
         "6273": {
             "name": "Monoprice S/PDIF (Toslink) Digital Optical Audio Cable, 15ft",
@@ -40460,7 +40451,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=6483",
             "product_id": 6483,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 74
         },
@@ -41891,7 +41882,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=7304",
             "product_id": 7304,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 131
         },
@@ -42242,7 +42233,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=7642",
             "product_id": 7642,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 31
         },
@@ -42973,7 +42964,7 @@
             "product_id": 8248,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 271
+            "num_reviews": 269
         },
         "8321": {
             "name": "Monoprice Button Design Noise Isolating Earbuds Headphones, Black \u0026 White",
@@ -43790,7 +43781,7 @@
             "price": 1.29,
             "url": "https://www.monoprice.com/product?p_id=8796",
             "product_id": 8796,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 14
         },
@@ -44312,7 +44303,7 @@
             "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=9449",
             "product_id": 9449,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 210
         },
@@ -44375,7 +44366,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=95",
             "product_id": 95,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 27
         },
@@ -44618,7 +44609,7 @@
             "price": 3.19,
             "url": "https://www.monoprice.com/product?p_id=9780",
             "product_id": 9780,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 91
         },
@@ -45005,7 +44996,7 @@
             "price": 1.79,
             "url": "https://www.monoprice.com/product?p_id=9830",
             "product_id": 9830,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1457
         },
@@ -45426,6 +45417,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-17T16:26:09Z"
+        "timestamp": "2023-04-17T17:19:43Z"
     }
 }
