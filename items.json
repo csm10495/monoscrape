@@ -461,7 +461,7 @@
         },
         "10622": {
             "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam, 19 x 16 x 8 in",
-            "price": 79.99,
+            "price": 74.99,
             "url": "https://www.monoprice.com/product?p_id=10622",
             "product_id": 10622,
             "available": true,
@@ -470,7 +470,7 @@
         },
         "10623": {
             "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam, 11 x 8 x 10 in",
-            "price": 34.99,
+            "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=10623",
             "product_id": 10623,
             "available": true,
@@ -623,7 +623,7 @@
         },
         "11146": {
             "name": "Monoprice 8-Outlet Rotating Surge Protector Power Strip - 2160 Joules, Clamping Voltage 330V L‑N, 400V L‑G, 400V N‑G",
-            "price": 21,
+            "price": 27.99,
             "url": "https://www.monoprice.com/product?p_id=11146",
             "product_id": 11146,
             "available": true,
@@ -884,7 +884,7 @@
         },
         "11246": {
             "name": "Monoprice Cat5e 14ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
-            "price": 2.49,
+            "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=11246",
             "product_id": 11246,
             "available": true,
@@ -2333,7 +2333,7 @@
         },
         "12182": {
             "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam 22 x 14 x 8 in",
-            "price": 69.99,
+            "price": 67.99,
             "url": "https://www.monoprice.com/product?p_id=12182",
             "product_id": 12182,
             "available": false,
@@ -2351,7 +2351,7 @@
         },
         "12184": {
             "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Wheels and Customizable Foam, 26 x 20 x 14 in",
-            "price": 219.99,
+            "price": 187.99,
             "url": "https://www.monoprice.com/product?p_id=12184",
             "product_id": 12184,
             "available": true,
@@ -2360,7 +2360,7 @@
         },
         "12235": {
             "name": "Monoprice Hi-Fi Reflective Sound Technology Earbuds Headphones with Microphone - Black/Bronze",
-            "price": 2.8,
+            "price": 4.79,
             "url": "https://www.monoprice.com/product?p_id=12235",
             "product_id": 12235,
             "available": true,
@@ -2396,7 +2396,7 @@
         },
         "12279": {
             "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Wheels and Customizable Foam, 30 x 19 x 15.8 in Internal Dimensions",
-            "price": 310.99,
+            "price": 229.99,
             "url": "https://www.monoprice.com/product?p_id=12279",
             "product_id": 12279,
             "available": true,
@@ -2405,7 +2405,7 @@
         },
         "12280": {
             "name": "Monoprice EZ Series Full-Motion Articulating TV Wall Mount Bracket for Wide TVs 60in to 100in, Max Weight 176 lbs, Extends from 2.8in to 24.6in, VESA Up to 900x600, Concrete and Brick, UL Certified",
-            "price": 76.99,
+            "price": 89.99,
             "url": "https://www.monoprice.com/product?p_id=12280",
             "product_id": 12280,
             "available": true,
@@ -2603,7 +2603,7 @@
         },
         "12678": {
             "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam, 8 x 7 x 4 in",
-            "price": 29.99,
+            "price": 22.99,
             "url": "https://www.monoprice.com/product?p_id=12678",
             "product_id": 12678,
             "available": true,
@@ -2612,7 +2612,7 @@
         },
         "12679": {
             "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam, 8 x 7 x 6 in",
-            "price": 24.99,
+            "price": 18.99,
             "url": "https://www.monoprice.com/product?p_id=12679",
             "product_id": 12679,
             "available": true,
@@ -2621,7 +2621,7 @@
         },
         "12680": {
             "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam, 10 x 8 x 4 in",
-            "price": 23.99,
+            "price": 22.99,
             "url": "https://www.monoprice.com/product?p_id=12680",
             "product_id": 12680,
             "available": true,
@@ -2648,7 +2648,7 @@
         },
         "12683": {
             "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam, 12 x 9 x 5 in Internal Dimensions",
-            "price": 59.99,
+            "price": 44.99,
             "url": "https://www.monoprice.com/product?p_id=12683",
             "product_id": 12683,
             "available": true,
@@ -3071,7 +3071,7 @@
         },
         "12959": {
             "name": "Monoprice 4K High Speed HDMI Cable 30ft - CL2 In Wall Rated 18Gbps Active Black",
-            "price": 10.5,
+            "price": 41.99,
             "url": "https://www.monoprice.com/product?p_id=12959",
             "product_id": 12959,
             "available": true,
@@ -3119,7 +3119,7 @@
             "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=12994",
             "product_id": 12994,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 50
         },
@@ -4300,7 +4300,7 @@
             "product_id": 13531,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 271
+            "num_reviews": 272
         },
         "13532": {
             "name": "Monoprice Cat6 5ft Black Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -4637,7 +4637,7 @@
         },
         "13615": {
             "name": "Monoprice 6.5in Weatherproof 2-Way Speakers with Wall Mount Bracket (Pair White)",
-            "price": 56,
+            "price": 55.99,
             "url": "https://www.monoprice.com/product?p_id=13615",
             "product_id": 13615,
             "available": true,
@@ -4781,7 +4781,7 @@
         },
         "13674": {
             "name": "Monoprice Cat6 500ft Blue CMR UL Bulk Cable, Solid (w/spine), UTP, 23AWG, 550MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
-            "price": 55.75,
+            "price": 67.99,
             "url": "https://www.monoprice.com/product?p_id=13674",
             "product_id": 13674,
             "available": true,
@@ -4916,7 +4916,7 @@
         },
         "13710": {
             "name": "Monoprice Nimbus Series 12AWG 2-Conductor CMP-Rated Speaker Wire, 500ft",
-            "price": 145.75,
+            "price": 218.61,
             "url": "https://www.monoprice.com/product?p_id=13710",
             "product_id": 13710,
             "available": true,
@@ -4979,7 +4979,7 @@
         },
         "13719": {
             "name": "Monoprice Nimbus Series 14AWG 4-Conductor CMP-Rated Speaker Wire, 100ft",
-            "price": 71.99,
+            "price": 61.19,
             "url": "https://www.monoprice.com/product?p_id=13719",
             "product_id": 13719,
             "available": true,
@@ -5438,7 +5438,7 @@
         },
         "13801": {
             "name": "Monoprice Hi-Fi Reflective Sound Technology Earbuds Headphones with Microphone - Black/Carbonite",
-            "price": 5.09,
+            "price": 5.08,
             "url": "https://www.monoprice.com/product?p_id=13801",
             "product_id": 13801,
             "available": true,
@@ -5492,7 +5492,7 @@
         },
         "13833": {
             "name": "Monoprice Outdoor Extension Cord - NEMA 5-15P to NEMA 5-15R, 16AWG, 13A/1625W, SJTW, Green, 12ft",
-            "price": 8.99,
+            "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=13833",
             "product_id": 13833,
             "available": true,
@@ -6554,7 +6554,7 @@
         },
         "14886": {
             "name": "Monoprice Commercial Audio 120W 5ch 100/70V Mixer Amp with Microphone Priority (NO LOGO)",
-            "price": 214.99,
+            "price": 229.99,
             "url": "https://www.monoprice.com/product?p_id=14886",
             "product_id": 14886,
             "available": true,
@@ -6581,7 +6581,7 @@
         },
         "14890": {
             "name": "Monoprice Commercial Audio 7.5W 6-inch Pendant Speaker 70V (NO LOGO)",
-            "price": 59.99,
+            "price": 43.19,
             "url": "https://www.monoprice.com/product?p_id=14890",
             "product_id": 14890,
             "available": true,
@@ -6991,7 +6991,7 @@
             "product_id": 15168,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 518
+            "num_reviews": 519
         },
         "15169": {
             "name": "Monoprice Cat6A 14ft Black 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -7000,7 +7000,7 @@
             "product_id": 15169,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 518
+            "num_reviews": 519
         },
         "15170": {
             "name": "Monoprice Cat6A 14ft Blue 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -7027,7 +7027,7 @@
             "product_id": 15172,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 518
+            "num_reviews": 519
         },
         "15208": {
             "name": "Monoprice Cat6 7ft Green Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -7310,7 +7310,7 @@
         },
         "15428": {
             "name": "Monoprice 4K Certified Premium High Speed HDMI Cable 6ft - 18Gbps Black",
-            "price": 1,
+            "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=15428",
             "product_id": 15428,
             "available": true,
@@ -7319,7 +7319,7 @@
         },
         "15429": {
             "name": "Monoprice 4K Certified Premium High Speed HDMI Cable 10ft - 18Gbps Black",
-            "price": 2.4,
+            "price": 2.39,
             "url": "https://www.monoprice.com/product?p_id=15429",
             "product_id": 15429,
             "available": true,
@@ -7409,7 +7409,7 @@
         },
         "15525": {
             "name": "Workstream by Monoprice Dual-Monitor Adjustable Gas-Spring Desk Mount for 15~34in Monitors",
-            "price": 84.99,
+            "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=15525",
             "product_id": 15525,
             "available": true,
@@ -7490,7 +7490,7 @@
         },
         "15644": {
             "name": "Monoprice 1080p No Logo High Speed HDMI Cable 30ft - CL2 In Wall Rated 10.2 Gbps Black",
-            "price": 16.49,
+            "price": 16.48,
             "url": "https://www.monoprice.com/product?p_id=15644",
             "product_id": 15644,
             "available": true,
@@ -7796,7 +7796,7 @@
         },
         "15723": {
             "name": "Monoprice Height Adjustable PC Workstation Cart for Sit-Stand",
-            "price": 50,
+            "price": 74.99,
             "url": "https://www.monoprice.com/product?p_id=15723",
             "product_id": 15723,
             "available": true,
@@ -7913,7 +7913,7 @@
         },
         "15835": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, White",
-            "price": 19.99,
+            "price": 20.59,
             "url": "https://www.monoprice.com/product?p_id=15835",
             "product_id": 15835,
             "available": true,
@@ -8246,7 +8246,7 @@
         },
         "15989": {
             "name": "Pure Outdoor by Monoprice IPx4 Weatherproof 4-mode USB Rechargeable High-power Headlamp",
-            "price": 14.99,
+            "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=15989",
             "product_id": 15989,
             "available": false,
@@ -8516,7 +8516,7 @@
         },
         "16116": {
             "name": "Monoprice Commercial Series 2x2 Video Wall Mount Bracket System Rolling Display Cart with Micro Adjustment Arms For LED TVs 32in to 55in, Max Weight 100lbs, VESA Patterns Up to 600x400",
-            "price": 379.99,
+            "price": 499.99,
             "url": "https://www.monoprice.com/product?p_id=16116",
             "product_id": 16116,
             "available": true,
@@ -8561,7 +8561,7 @@
         },
         "16124": {
             "name": "Monoprice EZ Series Low Profile Full-Motion Articulating TV Wall Mount Bracket For TVs 23in to 55in, Max Weight 77lbs, Extension Range of 1.9in to 12in, VESA Patterns Up to 400x400 V2",
-            "price": 21.99,
+            "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=16124",
             "product_id": 16124,
             "available": true,
@@ -8840,7 +8840,7 @@
         },
         "16248": {
             "name": "Monoprice Essential Quad Monitor Articulating Arm Desk Mount",
-            "price": 39.2,
+            "price": 52.49,
             "url": "https://www.monoprice.com/product?p_id=16248",
             "product_id": 16248,
             "available": true,
@@ -9263,7 +9263,7 @@
         },
         "16359": {
             "name": "Workstream by Monoprice Large Multimedia Desktop Monitor Stand, 30.8in X 11in, Max Weight Capacity 80lbs, Black Tempered Glass",
-            "price": 10.99,
+            "price": 20.99,
             "url": "https://www.monoprice.com/product?p_id=16359",
             "product_id": 16359,
             "available": true,
@@ -9443,7 +9443,7 @@
         },
         "18591": {
             "name": "Monoprice Premium 3.5mm Wired Earbuds Headphones with Mic for Apple and Android Devices",
-            "price": 3.99,
+            "price": 5.79,
             "url": "https://www.monoprice.com/product?p_id=18591",
             "product_id": 18591,
             "available": true,
@@ -45426,6 +45426,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-17T11:18:15Z"
+        "timestamp": "2023-04-17T12:37:14Z"
     }
 }
