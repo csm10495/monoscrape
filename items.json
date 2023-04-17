@@ -28467,24 +28467,6 @@
             "rating": 4.9,
             "num_reviews": 13602
         },
-        "40293": {
-            "name": "1U Supporting Tray 250mm Shelf for Cabinet - GSA Approved",
-            "price": 38.99,
-            "url": "https://www.monoprice.com/product?p_id=40293",
-            "product_id": 40293,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 1
-        },
-        "40296": {
-            "name": "1U Cabinet Front Cover Plate (19.09 x 1.73 x 0.47 in) - GSA Approved",
-            "price": 4.49,
-            "url": "https://www.monoprice.com/product?p_id=40296",
-            "product_id": 40296,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "40297": {
             "name": "2U Cabinet Front Cover Plate (19.09 x 3.50 x 0.47 in) - GSA Approved",
             "price": 7.79,
@@ -28529,15 +28511,6 @@
             "available": false,
             "rating": 0,
             "num_reviews": 0
-        },
-        "40364": {
-            "name": "Monoprice Open Slot Wiring Raceway Duct with Cover, 1.0\" x 1.8\", 6 Feet Long, Gray, 2-Pack",
-            "price": 15.99,
-            "url": "https://www.monoprice.com/product?p_id=40364",
-            "product_id": 40364,
-            "available": false,
-            "rating": 4.3,
-            "num_reviews": 19
         },
         "40365": {
             "name": "Monoprice Open Slot Wiring Raceway Duct with Cover, 1.0\" x 1.8\", 6 Feet Long, White, 2-Pack",
@@ -29458,7 +29431,7 @@
             "num_reviews": 36
         },
         "41022": {
-            "name": "Monoprice Entegrade Series Cat8 26AWG S/FTP Ethernet Network Cable, 2GHz, 40G, 2ft, Blue",
+            "name": "Monoprice Cat8 2ft Blue Patch Cable, Double Shielded (S/FTP), 26AWG, 2GHz, 40G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
             "price": 3.74,
             "url": "https://www.monoprice.com/product?p_id=41022",
             "product_id": 41022,
@@ -29635,7 +29608,7 @@
             "product_id": 41079,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 244
+            "num_reviews": 245
         },
         "41080": {
             "name": "Monoprice Power Cord - Polarized NEMA 1-15P to Polarized IEC 60320 C7, 18AWG, 10A/1250W, 125V, Black, 6ft",
@@ -29741,7 +29714,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=41096",
             "product_id": 41096,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 3
         },
@@ -31893,8 +31866,8 @@
             "url": "https://www.monoprice.com/product?p_id=42155",
             "product_id": 42155,
             "available": false,
-            "rating": 2,
-            "num_reviews": 2
+            "rating": 3,
+            "num_reviews": 1
         },
         "42156": {
             "name": "Flat Adhesive Super Slim Micro Speaker Wire - Two 18AWG Conductors, 50ft",
@@ -31973,9 +31946,9 @@
             "price": 7.49,
             "url": "https://www.monoprice.com/product?p_id=42164",
             "product_id": 42164,
-            "available": true,
-            "rating": 2,
-            "num_reviews": 1
+            "available": false,
+            "rating": 0,
+            "num_reviews": 0
         },
         "42196": {
             "name": "Solar Pathway Lights Outdoor Waterproof solar Landscape Path Lights with Motion Sensor 2 pack",
@@ -32416,7 +32389,7 @@
             "product_id": 42532,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 259
+            "num_reviews": 260
         },
         "42533": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Black - 3 Pack",
@@ -32976,6 +32949,15 @@
             "rating": 4.6,
             "num_reviews": 7
         },
+        "42771": {
+            "name": "Dark Matter by Monoprice 27in Gaming Monitor - 16:9, 1920x1080p, FHD, 165Hz",
+            "price": 149.99,
+            "url": "https://www.monoprice.com/product?p_id=42771",
+            "product_id": 42771,
+            "available": true,
+            "rating": 4.4,
+            "num_reviews": 9
+        },
         "42772": {
             "name": "Dark Matter by Monoprice 34in Curved Ultrawide Gaming Monitor - 21:9, 3440x1440p, UWQHD, 144Hz, 1500R, VA",
             "price": 499.99,
@@ -33008,7 +32990,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=42826",
             "product_id": 42826,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -33071,7 +33053,7 @@
             "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=42834",
             "product_id": 42834,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 20
         },
@@ -33805,7 +33787,7 @@
             "num_reviews": 0
         },
         "43072": {
-            "name": "Monoprice Flexboot Cat6 Ethernet Patch Cable - Snagless RJ45, Flat, 550MHz, UTP, Pure Bare Copper Wire, 30AWG, 0.5ft, White",
+            "name": "Monoprice Cat6 6in White Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series  Ethernet Cable",
             "price": 0.95,
             "url": "https://www.monoprice.com/product?p_id=43072",
             "product_id": 43072,
@@ -33818,15 +33800,6 @@
             "price": 1.39,
             "url": "https://www.monoprice.com/product?p_id=43073",
             "product_id": 43073,
-            "available": true,
-            "rating": 4.7,
-            "num_reviews": 56
-        },
-        "43074": {
-            "name": "Monoprice Flexboot Cat6 Ethernet Patch Cable - Snagless RJ45, Flat, 550MHz, UTP, Pure Bare Copper Wire, 30AWG, 2ft, White",
-            "price": 0.89,
-            "url": "https://www.monoprice.com/product?p_id=43074",
-            "product_id": 43074,
             "available": true,
             "rating": 4.7,
             "num_reviews": 56
@@ -34441,7 +34414,7 @@
             "product_id": 43208,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 9
+            "num_reviews": 10
         },
         "43209": {
             "name": "Monoprice Cornerstone Series Corner Friendly Full-Motion Articulating TV Wall Mount Bracket For TVs 37in to 70in, Max Weight 132 lbs, Extension Range of 2.7in to 24.2in, VESA Patterns Up to 600x400",
@@ -34657,7 +34630,7 @@
             "product_id": 43243,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 7
+            "num_reviews": 8
         },
         "43244": {
             "name": "Monoprice Bluetooth 5 Transmitter and Receiver with aptX Low Latency, Wireless Bluetooth Audio Streaming Adapter for TV, PC, PS4, Xbox, Headphones, Home Sound Car Stereo Speaker with 3.5mm AUX or RCA",
@@ -34674,8 +34647,8 @@
             "url": "https://www.monoprice.com/product?p_id=43245",
             "product_id": 43245,
             "available": true,
-            "rating": 3,
-            "num_reviews": 2
+            "rating": 5,
+            "num_reviews": 1
         },
         "43247": {
             "name": "Monoprice Harmony Boombox Portable Bluetooth Speaker, Waterproof, TWS",
@@ -35051,7 +35024,7 @@
             "price": 199.99,
             "url": "https://www.monoprice.com/product?p_id=43363",
             "product_id": 43363,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 2
         },
@@ -35241,8 +35214,8 @@
             "url": "https://www.monoprice.com/product?p_id=43453",
             "product_id": 43453,
             "available": false,
-            "rating": 3.8,
-            "num_reviews": 18
+            "rating": 3.7,
+            "num_reviews": 19
         },
         "43462": {
             "name": "4Pack 4inch 27W Flood Round Pods Led Work Light Driving Fog Light Offroad Light for Tractor Off-Road SUV Boat Truck",
@@ -35475,8 +35448,8 @@
             "url": "https://www.monoprice.com/product?p_id=43588",
             "product_id": 43588,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 1,
+            "num_reviews": 1
         },
         "43589": {
             "name": "25.5\" Car Snow Brush and Ice Scraper for Cars, Auto, SUV, Trucks Windshield Windows, Foam Grip Detachable Scraper - No Scratch, Heavy Duty Handle, Snow Broom, Remover, Easy Scraper",
@@ -35637,8 +35610,8 @@
             "url": "https://www.monoprice.com/product?p_id=43670",
             "product_id": 43670,
             "available": false,
-            "rating": 4.4,
-            "num_reviews": 5
+            "rating": 5,
+            "num_reviews": 4
         },
         "43671": {
             "name": "65W Universal USB-C Laptop Charger",
@@ -35655,7 +35628,7 @@
             "url": "https://www.monoprice.com/product?p_id=43672",
             "product_id": 43672,
             "available": false,
-            "rating": 3.3,
+            "rating": 4,
             "num_reviews": 3
         },
         "43685": {
@@ -36187,7 +36160,7 @@
             "product_id": 44268,
             "available": true,
             "rating": 5,
-            "num_reviews": 3
+            "num_reviews": 4
         },
         "443": {
             "name": "Monoprice 10ft DB 9 M/F Molded Cable",
@@ -45381,6 +45354,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-17T20:25:42Z"
+        "timestamp": "2023-04-17T21:18:12Z"
     }
 }
