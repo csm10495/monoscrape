@@ -23128,7 +23128,7 @@
             "product_id": 41383,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1847
+            "num_reviews": 1848
         },
         "41384": {
             "name": "Monoprice Access Series 12AWG CL2 Rated 4-Conductor Speaker Wire, 100ft, Black",
@@ -23164,7 +23164,7 @@
             "product_id": 41387,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1847
+            "num_reviews": 1848
         },
         "41388": {
             "name": "Monoprice Access Series 16AWG CL2 Rated 4-Conductor Speaker Wire, 100ft, Black",
@@ -23227,7 +23227,7 @@
             "product_id": 41394,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1847
+            "num_reviews": 1848
         },
         "41395": {
             "name": "Monoprice Access Series 18AWG CL2 Rated 4-Conductor Speaker Wire, 1000ft, Black",
@@ -27677,7 +27677,7 @@
         },
         "43305": {
             "name": "Dark Matter by Monoprice 49in Curved Gaming Monitor - 32:9, 1800R, 5120x1440p, DQHD, 120Hz, Adaptive Sync, VA",
-            "price": 799.99,
+            "price": 999.99,
             "url": "https://www.monoprice.com/product?p_id=43305",
             "product_id": 43305,
             "available": true,
@@ -38289,6 +38289,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-18T09:18:45Z"
+        "timestamp": "2023-04-18T10:19:40Z"
     }
 }
