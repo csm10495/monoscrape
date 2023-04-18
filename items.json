@@ -12317,7 +12317,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=24340",
             "product_id": 24340,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 494
         },
@@ -13870,11 +13870,11 @@
             "num_reviews": 67
         },
         "27467": {
-            "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, F/FTP, Pure Bare Copper Wire, 36AWG, 3ft, Blue",
+            "name": "Monoprice Cat6A 3ft Black Patch Cable, Double Shielded (S/FTP), 36AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=27467",
             "product_id": 27467,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 67
         },
@@ -13955,15 +13955,6 @@
             "price": 2.69,
             "url": "https://www.monoprice.com/product?p_id=27488",
             "product_id": 27488,
-            "available": true,
-            "rating": 4.8,
-            "num_reviews": 67
-        },
-        "27489": {
-            "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, S/STP, Pure Bare Copper Wire, 36AWG, 5ft, Yellow",
-            "price": 4.99,
-            "url": "https://www.monoprice.com/product?p_id=27489",
-            "product_id": 27489,
             "available": true,
             "rating": 4.8,
             "num_reviews": 67
@@ -45381,6 +45372,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-18T01:20:49Z"
+        "timestamp": "2023-04-18T02:35:41Z"
     }
 }
