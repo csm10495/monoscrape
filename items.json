@@ -30074,7 +30074,7 @@
             "price": 159.99,
             "url": "https://www.monoprice.com/product?p_id=41360",
             "product_id": 41360,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 2
         },
@@ -31003,7 +31003,7 @@
             "product_id": 41810,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1457
+            "num_reviews": 1458
         },
         "41811": {
             "name": "Monoprice Cat6 6in Blue 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -31012,7 +31012,7 @@
             "product_id": 41811,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1457
+            "num_reviews": 1458
         },
         "41812": {
             "name": "Monoprice Cat6 1ft Black 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -31021,7 +31021,7 @@
             "product_id": 41812,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1457
+            "num_reviews": 1458
         },
         "41813": {
             "name": "Monoprice Cat6 1ft Blue 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -31030,7 +31030,7 @@
             "product_id": 41813,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1457
+            "num_reviews": 1458
         },
         "41814": {
             "name": "Monoprice Cat6 2ft Black 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -31039,7 +31039,7 @@
             "product_id": 41814,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1457
+            "num_reviews": 1458
         },
         "41815": {
             "name": "Monoprice Cat6 2ft Blue 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -31048,7 +31048,7 @@
             "product_id": 41815,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1457
+            "num_reviews": 1458
         },
         "41816": {
             "name": "Monoprice Cat6 3ft Black 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -31057,7 +31057,7 @@
             "product_id": 41816,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1457
+            "num_reviews": 1458
         },
         "41817": {
             "name": "Monoprice Cat6 3ft Blue 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -31066,7 +31066,7 @@
             "product_id": 41817,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1457
+            "num_reviews": 1458
         },
         "41818": {
             "name": "Monoprice Cat6 5ft Black 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -31075,7 +31075,7 @@
             "product_id": 41818,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1457
+            "num_reviews": 1458
         },
         "41819": {
             "name": "Monoprice Cat6 5ft Blue 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -31084,7 +31084,7 @@
             "product_id": 41819,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1457
+            "num_reviews": 1458
         },
         "41820": {
             "name": "Monoprice Cat6 7ft Black 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -31093,7 +31093,7 @@
             "product_id": 41820,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1457
+            "num_reviews": 1458
         },
         "41821": {
             "name": "Monoprice Cat6 7ft Blue 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -31102,7 +31102,7 @@
             "product_id": 41821,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1457
+            "num_reviews": 1458
         },
         "41822": {
             "name": "UVC Sterilizer with wireless charging Disinfection Tool for Sterilization",
@@ -31155,6 +31155,15 @@
             "url": "https://www.monoprice.com/product?p_id=41843",
             "product_id": 41843,
             "available": false,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "41886": {
+            "name": "Monolith by Monoprice THX-365C THX Certified Ultra Center Channel Speaker (Each) (open box)",
+            "price": 399.99,
+            "url": "https://www.monoprice.com/product?p_id=41886",
+            "product_id": 41886,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -31946,7 +31955,7 @@
             "price": 7.49,
             "url": "https://www.monoprice.com/product?p_id=42164",
             "product_id": 42164,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -33215,7 +33224,7 @@
             "price": 189.99,
             "url": "https://www.monoprice.com/product?p_id=42890",
             "product_id": 42890,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 31
         },
@@ -34232,7 +34241,7 @@
             "price": 3.29,
             "url": "https://www.monoprice.com/product?p_id=43183",
             "product_id": 43183,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 304
         },
@@ -34304,7 +34313,7 @@
             "price": 2.69,
             "url": "https://www.monoprice.com/product?p_id=43193",
             "product_id": 43193,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 8
         },
@@ -34719,8 +34728,8 @@
             "url": "https://www.monoprice.com/product?p_id=43261",
             "product_id": 43261,
             "available": true,
-            "rating": 4.1,
-            "num_reviews": 12
+            "rating": 3.8,
+            "num_reviews": 13
         },
         "43262": {
             "name": "Monoprice Harmony Capsule 200 Portable Bluetooth Speaker",
@@ -34837,7 +34846,7 @@
             "product_id": 43339,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1457
+            "num_reviews": 1458
         },
         "43340": {
             "name": "Monoprice Cat6 1ft White 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -34846,7 +34855,7 @@
             "product_id": 43340,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1457
+            "num_reviews": 1458
         },
         "43341": {
             "name": "Monoprice Cat6 2ft White 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -34855,7 +34864,7 @@
             "product_id": 43341,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1457
+            "num_reviews": 1458
         },
         "43343": {
             "name": "Monoprice Cat6 3ft White 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -34864,7 +34873,7 @@
             "product_id": 43343,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1457
+            "num_reviews": 1458
         },
         "43344": {
             "name": "Monoprice Cat6 5ft White 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -34873,7 +34882,7 @@
             "product_id": 43344,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1457
+            "num_reviews": 1458
         },
         "43345": {
             "name": "Monoprice Cat6 7ft White 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -34882,7 +34891,7 @@
             "product_id": 43345,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1457
+            "num_reviews": 1458
         },
         "43347": {
             "name": "Monoprice Cat6 10ft Black 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -34891,7 +34900,7 @@
             "product_id": 43347,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1457
+            "num_reviews": 1458
         },
         "43348": {
             "name": "Monoprice Cat6 10ft Blue 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -34900,7 +34909,7 @@
             "product_id": 43348,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1457
+            "num_reviews": 1458
         },
         "43349": {
             "name": "Monoprice Cat6 10ft White 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -34909,7 +34918,7 @@
             "product_id": 43349,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1457
+            "num_reviews": 1458
         },
         "43351": {
             "name": "Pure Outdoor by Monoprice 50L Zippered Waterproof Dry Bag Backpack Duffel",
@@ -35150,7 +35159,7 @@
             "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=43448",
             "product_id": 43448,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 8
         },
@@ -36448,7 +36457,7 @@
             "product_id": 44415,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1457
+            "num_reviews": 1458
         },
         "44434": {
             "name": "Blackbird 8K60 2x1 HDMI Switch, HDMI 2.1, HDCP 2.3",
@@ -36801,6 +36810,78 @@
             "rating": 0,
             "num_reviews": 0
         },
+        "44587": {
+            "name": "Monolith by Monoprice M-IWSUB82 Dual 8in In-Wall Subwoofer (Open Box)",
+            "price": 599.99,
+            "url": "https://www.monoprice.com/product?p_id=44587",
+            "product_id": 44587,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "44589": {
+            "name": "Monolith by Monoprice M-OW1 THX Certified On-Wall Speaker (Pair) (Open Box)",
+            "price": 380,
+            "url": "https://www.monoprice.com/product?p_id=44589",
+            "product_id": 44589,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "44591": {
+            "name": "Monolith by Monoprice M-IWSUB8 8in In-Wall Subwoofer (Open Box)",
+            "price": 292,
+            "url": "https://www.monoprice.com/product?p_id=44591",
+            "product_id": 44591,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "44592": {
+            "name": "Monolith by Monoprice THX-265IW THX Certified Select 2-Way In-Wall Speaker (Open Box)",
+            "price": 255.5,
+            "url": "https://www.monoprice.com/product?p_id=44592",
+            "product_id": 44592,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "44593": {
+            "name": "Monolith by Monoprice Encore T5 Tower Speakers (Each) (Open Box)",
+            "price": 249.99,
+            "url": "https://www.monoprice.com/product?p_id=44593",
+            "product_id": 44593,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "44595": {
+            "name": "Monolith by Monoprice Encore C6 Center Channel Speaker (Each) (Open Box)",
+            "price": 169.99,
+            "url": "https://www.monoprice.com/product?p_id=44595",
+            "product_id": 44595,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "44596": {
+            "name": "Monolith by Monoprice Encore C5 Center Channel Speaker (Each) (Open)",
+            "price": 149.99,
+            "url": "https://www.monoprice.com/product?p_id=44596",
+            "product_id": 44596,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "44598": {
+            "name": "Monolith by Monoprice Encore B5 Bookshelf Speakers (Each) (Open Box)",
+            "price": 121.5,
+            "url": "https://www.monoprice.com/product?p_id=44598",
+            "product_id": 44598,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "446": {
             "name": "Monoprice 50ft DB 9 M/F Molded Cable",
             "price": 9.99,
@@ -36809,6 +36890,24 @@
             "available": true,
             "rating": 4.9,
             "num_reviews": 45
+        },
+        "44608": {
+            "name": "Monolith by Monoprice THX Certified 8in 150-watt Powered Subwoofer (Open Box)",
+            "price": 209.99,
+            "url": "https://www.monoprice.com/product?p_id=44608",
+            "product_id": 44608,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "44611": {
+            "name": "Monolith by Monoprice THX-275IW THX Certified Select 3-Way In-Wall Speaker (Open Box)",
+            "price": 237.49,
+            "url": "https://www.monoprice.com/product?p_id=44611",
+            "product_id": 44611,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
         },
         "448": {
             "name": "Monoprice 6ft DB 9 F/F Molded Cable",
@@ -45354,6 +45453,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-18T15:23:13Z"
+        "timestamp": "2023-04-18T16:22:22Z"
     }
 }
