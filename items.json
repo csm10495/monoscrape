@@ -16336,7 +16336,7 @@
             "num_reviews": 69
         },
         "31073": {
-            "name": "Monoprice Entegrade Series Cat8 24AWG S/FTP Ethernet Network Cable, 2GHz, 40G, 1ft Red",
+            "name": "Monoprice Cat8 1ft Red Patch Cable, Double Shielded (S/FTP), 24AWG, 2GHz, 40G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
             "price": 2.44,
             "url": "https://www.monoprice.com/product?p_id=31073",
             "product_id": 31073,
@@ -16439,7 +16439,7 @@
             "price": 4.19,
             "url": "https://www.monoprice.com/product?p_id=31107",
             "product_id": 31107,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 69
         },
@@ -16795,7 +16795,7 @@
             "num_reviews": 15
         },
         "31294": {
-            "name": "Monoprice Entegrade Series Cat7 Double Shielded (S/FTP) Ethernet Patch Cable - Snagless RJ45, 600MHz, 10G, 26AWG, 0.5ft, Blue",
+            "name": "Monoprice Cat7 6in Blue Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
             "price": 1.22,
             "url": "https://www.monoprice.com/product?p_id=31294",
             "product_id": 31294,
@@ -17007,8 +17007,8 @@
             "url": "https://www.monoprice.com/product?p_id=33044",
             "product_id": 33044,
             "available": true,
-            "rating": 3.6,
-            "num_reviews": 52
+            "rating": 3.5,
+            "num_reviews": 53
         },
         "33048": {
             "name": "STITCH by Monoprice Wireless Smart Door/Window Sensor; Works with Amazon Alexa and Google Assistant for Touchless Voice Control, No Hub Required",
@@ -21083,7 +21083,7 @@
             "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=35116",
             "product_id": 35116,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 8
         },
@@ -23333,7 +23333,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=38296",
             "product_id": 38296,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 32
         },
@@ -24539,7 +24539,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=38812",
             "product_id": 38812,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 73
         },
@@ -25063,7 +25063,7 @@
             "product_id": 38903,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 76
+            "num_reviews": 77
         },
         "38904": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-A Charge and Sync Nylon-Braid Cable, 3ft, White",
@@ -45372,6 +45372,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-18T02:35:41Z"
+        "timestamp": "2023-04-18T03:20:49Z"
     }
 }
