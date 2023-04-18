@@ -13462,7 +13462,7 @@
             "product_id": 2680,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1456
+            "num_reviews": 1457
         },
         "2681": {
             "name": "Monoprice 3ft High-quality Coaxial Audio/Video RCA CL2 Rated Cable M/M RG6U 75ohm Gold connector (for S/PDIF, Digital Coax, Subwoofer \u0026 Composite Video)",
@@ -13480,7 +13480,7 @@
             "product_id": 2682,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1456
+            "num_reviews": 1457
         },
         "2683": {
             "name": "Monoprice 25ft High-quality Coaxial Audio/Video RCA CL2 Rated Cable - RG6/U 75ohm (for S/PDIF, Digital Coax, Subwoofer \u0026 Composite Video)",
@@ -18646,7 +18646,7 @@
             "product_id": 3389,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3039
+            "num_reviews": 3040
         },
         "33897": {
             "name": "Monoprice MP Specialty 3D Printer Filament Copper Fill 1.75, 0.5kg/spool",
@@ -37267,7 +37267,7 @@
             "product_id": 4792,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 419
+            "num_reviews": 421
         },
         "4793": {
             "name": "Monoprice 6ft Premier Series 1/4in TRS Male to Male Cable, 16AWG (Gold Plated)",
@@ -37294,7 +37294,7 @@
             "product_id": 4795,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 419
+            "num_reviews": 421
         },
         "4796": {
             "name": "Monoprice 25ft Premier Series 1/4in TRS Male to Male Cable, 16AWG (Gold Plated)",
@@ -37573,7 +37573,7 @@
             "product_id": 4986,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3039
+            "num_reviews": 3040
         },
         "4992": {
             "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 20ft, Yellow",
@@ -38381,7 +38381,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=5383",
             "product_id": 5383,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 374
         },
@@ -38554,7 +38554,7 @@
             "product_id": 5442,
             "available": true,
             "rating": 5,
-            "num_reviews": 321
+            "num_reviews": 322
         },
         "5443": {
             "name": "Monoprice USB 2.0 Type-A to Type-A Cable - 28/24AWG, Gold Plated, Black, 6ft",
@@ -38642,7 +38642,7 @@
             "price": 0.99,
             "url": "https://www.monoprice.com/product?p_id=5451",
             "product_id": 5451,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 12
         },
@@ -38851,7 +38851,7 @@
             "product_id": 5581,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 1087
+            "num_reviews": 1088
         },
         "5582": {
             "name": "Monoprice 35ft Premium 3.5mm Stereo Male to 3.5mm Stereo Male 22AWG Cable (Gold Plated) - Black",
@@ -39247,7 +39247,7 @@
             "product_id": 5872,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1456
+            "num_reviews": 1457
         },
         "5887": {
             "name": "Monoprice USB 2.0 A Male/A Male Cable, 28/24 AWG 10ft - White",
@@ -40334,7 +40334,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=6464",
             "product_id": 6464,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 74
         },
@@ -42890,7 +42890,7 @@
             "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=8247",
             "product_id": 8247,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 259
         },
@@ -45354,6 +45354,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-18T05:18:03Z"
+        "timestamp": "2023-04-18T06:23:41Z"
     }
 }
