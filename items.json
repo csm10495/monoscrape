@@ -27932,7 +27932,7 @@
             "price": 9.49,
             "url": "https://www.monoprice.com/product?p_id=40070",
             "product_id": 40070,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 8
         },
@@ -28868,7 +28868,7 @@
             "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=40539",
             "product_id": 40539,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 251
         },
@@ -30166,7 +30166,7 @@
             "product_id": 41380,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1847
+            "num_reviews": 1848
         },
         "41381": {
             "name": "Monoprice Access Series 12AWG CL2 Rated 2-Conductor Speaker Wire, 250ft, Black",
@@ -30211,7 +30211,7 @@
             "product_id": 41385,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1847
+            "num_reviews": 1848
         },
         "41386": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 4-Conductor Speaker Wire, 100ft, Black",
@@ -32949,15 +32949,6 @@
             "rating": 4.6,
             "num_reviews": 7
         },
-        "42771": {
-            "name": "Dark Matter by Monoprice 27in Gaming Monitor - 16:9, 1920x1080p, FHD, 165Hz",
-            "price": 149.99,
-            "url": "https://www.monoprice.com/product?p_id=42771",
-            "product_id": 42771,
-            "available": true,
-            "rating": 4.4,
-            "num_reviews": 9
-        },
         "42772": {
             "name": "Dark Matter by Monoprice 34in Curved Ultrawide Gaming Monitor - 21:9, 3440x1440p, UWQHD, 144Hz, 1500R, VA",
             "price": 499.99,
@@ -33227,15 +33218,6 @@
             "available": false,
             "rating": 4.3,
             "num_reviews": 31
-        },
-        "42891": {
-            "name": "Monoprice 32in Zero-G Curved Gaming Monitor - 1500R, 16:9, 2560x1440p, WQHD, 165Hz, HDMI, DisplayPort, VA",
-            "price": 197.99,
-            "url": "https://www.monoprice.com/product?p_id=42891",
-            "product_id": 42891,
-            "available": true,
-            "rating": 4.7,
-            "num_reviews": 19
         },
         "42892": {
             "name": "Dark Matter by Monoprice 27in Gaming Monitor - 16:9, 2560x1440p, QHD, 180Hz, IGZO",
@@ -33773,7 +33755,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=43049",
             "product_id": 43049,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 4
         },
@@ -45372,6 +45354,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-18T03:20:49Z"
+        "timestamp": "2023-04-18T04:22:42Z"
     }
 }
