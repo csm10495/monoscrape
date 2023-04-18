@@ -10339,7 +10339,7 @@
             "product_id": 33305,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 37
+            "num_reviews": 38
         },
         "33306": {
             "name": "Monolith by Monoprice 9-Channel (3x200 Watts + 6x100 Watts) Multi-Channel Home Theater Power Amplifier with XLR Inputs",
@@ -11482,7 +11482,7 @@
             "product_id": 33877,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 212
+            "num_reviews": 213
         },
         "33878": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Silver",
@@ -13129,7 +13129,7 @@
             "product_id": 34624,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 271
+            "num_reviews": 272
         },
         "34631": {
             "name": "Monoprice Cat6 30ft Black Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -14675,7 +14675,7 @@
             "price": 47.99,
             "url": "https://www.monoprice.com/product?p_id=35943",
             "product_id": 35943,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 3
         },
@@ -14702,7 +14702,7 @@
             "price": 13.49,
             "url": "https://www.monoprice.com/product?p_id=36000",
             "product_id": 36000,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -16396,7 +16396,7 @@
             "product_id": 38314,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 259
+            "num_reviews": 260
         },
         "38315": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, White",
@@ -16692,8 +16692,8 @@
             "url": "https://www.monoprice.com/product?p_id=38390",
             "product_id": 38390,
             "available": true,
-            "rating": 4.6,
-            "num_reviews": 37
+            "rating": 4.7,
+            "num_reviews": 38
         },
         "38391": {
             "name": "Monoprice Nylon Braided USB-C To Lightning Cable - 6 Feet - Black ( MFI Certified ) Flexible, Durable, Fast Charging, Compatible with Apple iPhone 13 / Pro / Pro Max / AirPods Pro - AtlasFlex Series",
@@ -17269,7 +17269,7 @@
             "product_id": 38785,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 632
+            "num_reviews": 633
         },
         "38786": {
             "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R, 16AWG, 13A/1625W, 3-Prong, Black, 1ft, 10-Pack",
@@ -17566,7 +17566,7 @@
             "product_id": 38823,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 73
+            "num_reviews": 76
         },
         "38825": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 3ft, Black, 3-Pack",
@@ -17845,7 +17845,7 @@
             "product_id": 38879,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 56
+            "num_reviews": 57
         },
         "38885": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-C Charge \u0026 Sync Nylon-Braid Cable, 6ft, Black",
@@ -38289,6 +38289,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-18T08:22:54Z"
+        "timestamp": "2023-04-18T09:18:45Z"
     }
 }
