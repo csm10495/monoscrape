@@ -114,8 +114,8 @@
             "url": "https://www.monoprice.com/product?p_id=10146",
             "product_id": 10146,
             "available": true,
-            "rating": 4.3,
-            "num_reviews": 29
+            "rating": 4.4,
+            "num_reviews": 30
         },
         "10147": {
             "name": "Monoprice Designed for Mobile 6ft 3.5mm Extension Cable",
@@ -666,6 +666,15 @@
             "rating": 4.8,
             "num_reviews": 460
         },
+        "11201": {
+            "name": "Monoprice FLEXboot Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 20ft, Purple",
+            "price": 3.19,
+            "url": "https://www.monoprice.com/product?p_id=11201",
+            "product_id": 11201,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 460
+        },
         "11204": {
             "name": "Monoprice FLEXboot Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 20ft, Yellow",
             "price": 3.99,
@@ -1108,7 +1117,7 @@
             "num_reviews": 1457
         },
         "11282": {
-            "name": "Monoprice FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 20ft, Yellow",
+            "name": "Monoprice Cat6 20ft Yellow Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
             "price": 4.79,
             "url": "https://www.monoprice.com/product?p_id=11282",
             "product_id": 11282,
@@ -1153,7 +1162,7 @@
             "num_reviews": 460
         },
         "11287": {
-            "name": "Monoprice FLEXboot Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 25ft, Green",
+            "name": "Monoprice Cat5e 25ft Green Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
             "price": 2.03,
             "url": "https://www.monoprice.com/product?p_id=11287",
             "product_id": 11287,
@@ -2498,7 +2507,7 @@
             "price": 17.99,
             "url": "https://www.monoprice.com/product?p_id=12507",
             "product_id": 12507,
-            "available": true,
+            "available": false,
             "rating": 3.9,
             "num_reviews": 20
         },
@@ -3560,7 +3569,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=13251",
             "product_id": 13251,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 165
         },
@@ -4174,7 +4183,7 @@
             "product_id": 13519,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 271
+            "num_reviews": 272
         },
         "1352": {
             "name": "Monoprice DB25, AB 2 Way Switch Box",
@@ -4282,7 +4291,7 @@
             "product_id": 13530,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 271
+            "num_reviews": 272
         },
         "13531": {
             "name": "Monoprice Cat6 3ft Yellow Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -4309,7 +4318,7 @@
             "product_id": 13533,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 271
+            "num_reviews": 272
         },
         "13534": {
             "name": "Monoprice Cat6 5ft Gray Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -4336,7 +4345,7 @@
             "product_id": 13536,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 271
+            "num_reviews": 272
         },
         "13537": {
             "name": "Monoprice Cat6 7ft Black Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -4390,7 +4399,7 @@
             "product_id": 13541,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 271
+            "num_reviews": 272
         },
         "13542": {
             "name": "Monoprice Cat6 10ft Black Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -4739,7 +4748,7 @@
             "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=13670",
             "product_id": 13670,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 60
         },
@@ -4757,7 +4766,7 @@
             "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=13672",
             "product_id": 13672,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 60
         },
@@ -4822,7 +4831,7 @@
             "product_id": 13682,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 36
+            "num_reviews": 37
         },
         "13683": {
             "name": "Monoprice Alpha Ceiling Speakers 8in Carbon Fiber 2-way (pair)",
@@ -5495,7 +5504,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=13840",
             "product_id": 13840,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 17
         },
@@ -5515,7 +5524,7 @@
             "product_id": 13919,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 658
+            "num_reviews": 659
         },
         "13920": {
             "name": "Monoprice Select Series USB-A to Micro B Cable, 2.4A, 22/30AWG, White, 0.5ft",
@@ -5542,7 +5551,7 @@
             "product_id": 13922,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 658
+            "num_reviews": 659
         },
         "13924": {
             "name": "Monoprice Select Series USB-A to Micro B Cable, 2.4A, 22/30AWG, Blue, 3ft",
@@ -5569,7 +5578,7 @@
             "product_id": 13926,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 658
+            "num_reviews": 659
         },
         "13927": {
             "name": "Monoprice Select Series USB-A to Micro B Cable, 2.4A, 22/30AWG, White, 6ft",
@@ -5578,7 +5587,7 @@
             "product_id": 13927,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 658
+            "num_reviews": 659
         },
         "13928": {
             "name": "Monoprice Select Series USB-A to Micro B Cable, 2.4A, 22/30AWG, Purple, 6ft",
@@ -5686,7 +5695,7 @@
             "product_id": 13939,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 658
+            "num_reviews": 659
         },
         "140": {
             "name": "Monoprice Cat5e 25ft Blue Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -6189,8 +6198,8 @@
             "url": "https://www.monoprice.com/product?p_id=14772",
             "product_id": 14772,
             "available": true,
-            "rating": 4.6,
-            "num_reviews": 89
+            "rating": 4.7,
+            "num_reviews": 90
         },
         "14774": {
             "name": "Monoprice Cat5e 250ft Blue CMR UL Bulk Cable, UTP, Solid, 24AWG, 350MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
@@ -6262,7 +6271,7 @@
             "product_id": 14794,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 271
+            "num_reviews": 272
         },
         "14795": {
             "name": "Monoprice Cat6 1ft Green Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -6449,7 +6458,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=14820",
             "product_id": 14820,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 271
         },
@@ -6460,7 +6469,7 @@
             "product_id": 14821,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 271
+            "num_reviews": 272
         },
         "14822": {
             "name": "Monoprice Cat6 14ft Red Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -7765,7 +7774,7 @@
             "product_id": 15722,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 200
+            "num_reviews": 201
         },
         "15723": {
             "name": "Monoprice Height Adjustable PC Workstation Cart for Sit-Stand",
@@ -8800,7 +8809,7 @@
             "product_id": 16246,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 93
+            "num_reviews": 94
         },
         "16247": {
             "name": "Monoprice Essential Triple Monitor Articulating Arm Desk Mount",
@@ -9241,7 +9250,7 @@
             "product_id": 16359,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 89
+            "num_reviews": 91
         },
         "16360": {
             "name": "Workstream by Monoprice Medium Multimedia Desktop Monitor Stand, 25.6in x 11.0in, Max Weight Capacity 80lbs, Black Tempered Glass",
@@ -9860,7 +9869,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=18822",
             "product_id": 18822,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 18
         },
@@ -45372,6 +45381,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-17T23:19:56Z"
+        "timestamp": "2023-04-18T01:20:49Z"
     }
 }
