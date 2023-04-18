@@ -16341,8 +16341,8 @@
             "url": "https://www.monoprice.com/product?p_id=31073",
             "product_id": 31073,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 4.9,
+            "num_reviews": 69
         },
         "31079": {
             "name": "Monoprice Cat8 2ft Black Patch Cable, Double Shielded (S/FTP), 24AWG, 2GHz, 40G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
@@ -16386,8 +16386,8 @@
             "url": "https://www.monoprice.com/product?p_id=31091",
             "product_id": 31091,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 4.9,
+            "num_reviews": 69
         },
         "31096": {
             "name": "Monoprice Entegrade Series Cat8 24AWG S/FTP Ethernet Network Cable, 2GHz, 40G, 5ft Blue",
@@ -17303,7 +17303,7 @@
             "price": 60.99,
             "url": "https://www.monoprice.com/product?p_id=33256",
             "product_id": 33256,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 519
         },
@@ -17672,7 +17672,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=33564",
             "product_id": 33564,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 353
         },
@@ -20273,7 +20273,7 @@
             "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=34706",
             "product_id": 34706,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 546
         },
@@ -20338,7 +20338,7 @@
             "product_id": 34774,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1457
+            "num_reviews": 1458
         },
         "34775": {
             "name": "FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 10m, White, 5 pack",
@@ -20347,7 +20347,7 @@
             "product_id": 34775,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1457
+            "num_reviews": 1458
         },
         "34779": {
             "name": "FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 15m, White, 5 pack",
@@ -20356,7 +20356,7 @@
             "product_id": 34779,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1457
+            "num_reviews": 1458
         },
         "34780": {
             "name": "FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 15m, Gray, 5 pack",
@@ -20365,7 +20365,7 @@
             "product_id": 34780,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1457
+            "num_reviews": 1458
         },
         "34782": {
             "name": "SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, S/STP, Pure Bare Copper Wire, 36AWG, 0.5m, Black, 5 pack",
@@ -22622,7 +22622,7 @@
             "price": 159.99,
             "url": "https://www.monoprice.com/product?p_id=37877",
             "product_id": 37877,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 11
         },
@@ -23108,7 +23108,7 @@
             "price": 25.74,
             "url": "https://www.monoprice.com/product?p_id=38164",
             "product_id": 38164,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 1
         },
@@ -23288,7 +23288,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=38274",
             "product_id": 38274,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 4
         },
@@ -24433,7 +24433,7 @@
             "product_id": 38797,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 72
+            "num_reviews": 76
         },
         "38799": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 1.5ft, Blue",
@@ -24730,7 +24730,7 @@
             "product_id": 38842,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 56
+            "num_reviews": 58
         },
         "38844": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 3A/60W, 10ft, White",
@@ -24766,7 +24766,7 @@
             "product_id": 38847,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 56
+            "num_reviews": 58
         },
         "38848": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 3A/60W, 10ft, Blue",
@@ -24784,7 +24784,7 @@
             "product_id": 38849,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 57
+            "num_reviews": 58
         },
         "38850": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 3A/60W, 3ft, Red",
@@ -24901,7 +24901,7 @@
             "product_id": 38878,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 56
+            "num_reviews": 58
         },
         "38879": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 5A/100W, 3ft, White, 3 Pack",
@@ -45354,6 +45354,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-18T14:21:53Z"
+        "timestamp": "2023-04-18T15:23:13Z"
     }
 }
