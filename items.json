@@ -16777,7 +16777,7 @@
             "num_reviews": 231
         },
         "31313": {
-            "name": "Monoprice Entegrade Series Cat7 Double Shielded (S/FTP) Ethernet Patch Cable - Snagless RJ45, 600MHz, 10G, 26AWG, 2ft, Black",
+            "name": "Monoprice Cat7 2ft Black Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=31313",
             "product_id": 31313,
@@ -16795,7 +16795,7 @@
             "num_reviews": 231
         },
         "31329": {
-            "name": "Monoprice Entegrade Series Cat7 Double Shielded (S/FTP) Ethernet Patch Cable - Snagless RJ45, 600MHz, 10G, 26AWG, 5ft, Black",
+            "name": "Monoprice Cat7 5ft Black Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=31329",
             "product_id": 31329,
@@ -16813,7 +16813,7 @@
             "num_reviews": 231
         },
         "31337": {
-            "name": "Monoprice Entegrade Series Cat7 Double Shielded (S/FTP) Ethernet Patch Cable - Snagless RJ45, 600MHz, 10G, 26AWG, 7ft, Black",
+            "name": "Monoprice Cat7 7ft Black Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
             "price": 6.49,
             "url": "https://www.monoprice.com/product?p_id=31337",
             "product_id": 31337,
@@ -16822,7 +16822,7 @@
             "num_reviews": 231
         },
         "31345": {
-            "name": "Monoprice Entegrade Series Cat7 Double Shielded (S/FTP) Ethernet Patch Cable - Snagless RJ45, 600MHz, 10G, 26AWG, 10ft, Black",
+            "name": "Monoprice Cat7 10ft Black Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
             "price": 7.49,
             "url": "https://www.monoprice.com/product?p_id=31345",
             "product_id": 31345,
@@ -16831,7 +16831,7 @@
             "num_reviews": 231
         },
         "31353": {
-            "name": "Monoprice Entegrade Series Cat7 Double Shielded (S/FTP) Ethernet Patch Cable - Snagless RJ45, 600MHz, 10G, 26AWG, 15ft, Black",
+            "name": "Monoprice Cat7 15ft Black Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=31353",
             "product_id": 31353,
@@ -16840,7 +16840,7 @@
             "num_reviews": 231
         },
         "31361": {
-            "name": "Monoprice Entegrade Series Cat7 Double Shielded (S/FTP) Ethernet Patch Cable - Snagless RJ45, 600MHz, 10G, 26AWG, 25ft, Black",
+            "name": "Monoprice Cat7 25ft Black Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=31361",
             "product_id": 31361,
@@ -16858,7 +16858,7 @@
             "num_reviews": 231
         },
         "31369": {
-            "name": "Monoprice Entegrade Series Cat7 Double Shielded (S/FTP) Ethernet Patch Cable - Snagless RJ45, 600MHz, 10G, 26AWG, 50ft, Black",
+            "name": "Monoprice Cat7 50ft Black Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
             "price": 23.99,
             "url": "https://www.monoprice.com/product?p_id=31369",
             "product_id": 31369,
@@ -16885,7 +16885,7 @@
             "num_reviews": 231
         },
         "31377": {
-            "name": "Monoprice Entegrade Series Cat7 Double Shielded (S/FTP) Ethernet Patch Cable - Snagless RJ45, 600MHz, 10G, 26AWG, 100ft, Black",
+            "name": "Monoprice Cat7 100ft Black Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
             "price": 40.36,
             "url": "https://www.monoprice.com/product?p_id=31377",
             "product_id": 31377,
@@ -17096,7 +17096,7 @@
             "price": 28.99,
             "url": "https://www.monoprice.com/product?p_id=33199",
             "product_id": 33199,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 518
         },
@@ -18441,15 +18441,6 @@
             "rating": 5,
             "num_reviews": 4
         },
-        "33868": {
-            "name": "Monoprice 8P8C RJ45 Cat6a Shielded Inline Coupler",
-            "price": 5.49,
-            "url": "https://www.monoprice.com/product?p_id=33868",
-            "product_id": 33868,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 3
-        },
         "33869": {
             "name": "Monoprice 8P8C RJ45 Cat6a Shielded Inline Coupler Type Keystone Jack",
             "price": 5.49,
@@ -18581,7 +18572,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=33887",
             "product_id": 33887,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -19809,15 +19800,6 @@
             "rating": 3.7,
             "num_reviews": 3
         },
-        "34517": {
-            "name": "Décor Insert for Keystone, 4 Hole, Black",
-            "price": 0.47,
-            "url": "https://www.monoprice.com/product?p_id=34517",
-            "product_id": 34517,
-            "available": false,
-            "rating": 3.7,
-            "num_reviews": 3
-        },
         "34518": {
             "name": "Décor Insert for Keystone, 6 Hole, White",
             "price": 0.99,
@@ -19841,7 +19823,7 @@
             "price": 2.22,
             "url": "https://www.monoprice.com/product?p_id=34521",
             "product_id": 34521,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -20492,15 +20474,6 @@
             "available": true,
             "rating": 0,
             "num_reviews": 0
-        },
-        "34825": {
-            "name": "Monoprice Cat6 RJ-45 180-Degree Punch Down Keystone Dual IDC, Blue, 25 pack",
-            "price": 31.99,
-            "url": "https://www.monoprice.com/product?p_id=34825",
-            "product_id": 34825,
-            "available": false,
-            "rating": 4.7,
-            "num_reviews": 10
         },
         "34826": {
             "name": "Monoprice Cat6 RJ-45 180-Degree Punch Down Keystone Dual IDC, Black, 25 pack",
@@ -21758,7 +21731,7 @@
             "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=36079",
             "product_id": 36079,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 9
         },
@@ -23721,8 +23694,8 @@
             "url": "https://www.monoprice.com/product?p_id=38393",
             "product_id": 38393,
             "available": true,
-            "rating": 4.6,
-            "num_reviews": 37
+            "rating": 4.7,
+            "num_reviews": 38
         },
         "38394": {
             "name": "Monoprice Nylon Braided USB C To Lightning Cable - 6 Feet - Red ( MFI Certified ) Flexible, Durable, Fast Charging, Compatible with Apple iPhone 13 / Pro / Pro Max / AirPods Pro - AtlasFlex Series",
@@ -24147,15 +24120,6 @@
             "rating": 3.9,
             "num_reviews": 55
         },
-        "38626": {
-            "name": "Monoprice 8K SlimRun AV Ultra High Speed HDMI Cable 20ft - AOC 48Gbps Black",
-            "price": 114.29,
-            "url": "https://www.monoprice.com/product?p_id=38626",
-            "product_id": 38626,
-            "available": false,
-            "rating": 4.3,
-            "num_reviews": 42
-        },
         "38627": {
             "name": "Monoprice 8K SlimRun AV Ultra High Speed HDMI Cable 30ft - AOC 48Gbps Black",
             "price": 83.5,
@@ -24325,7 +24289,7 @@
             "product_id": 38791,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 73
+            "num_reviews": 76
         },
         "38792": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 3ft, Black",
@@ -24433,7 +24397,7 @@
             "product_id": 38805,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 73
+            "num_reviews": 76
         },
         "38806": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 10ft, Red",
@@ -24541,7 +24505,7 @@
             "product_id": 38819,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 73
+            "num_reviews": 76
         },
         "38820": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 3ft, Red",
@@ -24757,7 +24721,7 @@
             "product_id": 38853,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 57
+            "num_reviews": 58
         },
         "38854": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 5A/100W, 3ft, Black",
@@ -25227,150 +25191,6 @@
             "rating": 4.8,
             "num_reviews": 424
         },
-        "38995": {
-            "name": "Pure Outdoor by Monoprice Insulated and Waterproof Premium Soft Backpack Cooler with 42-Can Capacity",
-            "price": 129.99,
-            "url": "https://www.monoprice.com/product?p_id=38995",
-            "product_id": 38995,
-            "available": false,
-            "rating": 4.7,
-            "num_reviews": 45
-        },
-        "38999": {
-            "name": "Pure Outdoor by Monoprice 10L Lightweight \u0026 Waterproof Dry Bag, Orange",
-            "price": 14.99,
-            "url": "https://www.monoprice.com/product?p_id=38999",
-            "product_id": 38999,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 7
-        },
-        "39000": {
-            "name": "Pure Outdoor by Monoprice 20L Lightweight \u0026 Waterproof Dry Bag",
-            "price": 11.99,
-            "url": "https://www.monoprice.com/product?p_id=39000",
-            "product_id": 39000,
-            "available": true,
-            "rating": 4.8,
-            "num_reviews": 4
-        },
-        "39019": {
-            "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam, 22 x 14 x 8 in, Yellow",
-            "price": 74.99,
-            "url": "https://www.monoprice.com/product?p_id=39019",
-            "product_id": 39019,
-            "available": false,
-            "rating": 4.8,
-            "num_reviews": 60
-        },
-        "39020": {
-            "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam, 22 x 14 x 8 in, Orange",
-            "price": 71.24,
-            "url": "https://www.monoprice.com/product?p_id=39020",
-            "product_id": 39020,
-            "available": true,
-            "rating": 4.8,
-            "num_reviews": 60
-        },
-        "39021": {
-            "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam, 22 x 14 x 8 in, OD Green",
-            "price": 89.99,
-            "url": "https://www.monoprice.com/product?p_id=39021",
-            "product_id": 39021,
-            "available": false,
-            "rating": 4.8,
-            "num_reviews": 60
-        },
-        "39028": {
-            "name": "Monoprice Select Series DisplayPort to HDTV Cable, 2m (6.6ft), 4K@60Hz",
-            "price": 10.28,
-            "url": "https://www.monoprice.com/product?p_id=39028",
-            "product_id": 39028,
-            "available": true,
-            "rating": 3.8,
-            "num_reviews": 5
-        },
-        "39029": {
-            "name": "Monoprice Select Series DisplayPort to HDTV Cable, 3m (9.9ft), 4K@60Hz",
-            "price": 18.49,
-            "url": "https://www.monoprice.com/product?p_id=39029",
-            "product_id": 39029,
-            "available": false,
-            "rating": 3.8,
-            "num_reviews": 5
-        },
-        "39032": {
-            "name": "Monoprice SlimRun AV HDR DisplayPort to HDTV Cable, 4K@60Hz, AOC, 25ft",
-            "price": 161.99,
-            "url": "https://www.monoprice.com/product?p_id=39032",
-            "product_id": 39032,
-            "available": true,
-            "rating": 5,
-            "num_reviews": 1
-        },
-        "39033": {
-            "name": "Monoprice SlimRun AV HDR DisplayPort to HDTV Cable, 4K@60Hz, AOC, 50ft",
-            "price": 172.49,
-            "url": "https://www.monoprice.com/product?p_id=39033",
-            "product_id": 39033,
-            "available": true,
-            "rating": 5,
-            "num_reviews": 1
-        },
-        "39034": {
-            "name": "Monoprice SlimRun AV HDR DisplayPort to HDTV Cable, 4K@60Hz, AOC, 100ft",
-            "price": 136.49,
-            "url": "https://www.monoprice.com/product?p_id=39034",
-            "product_id": 39034,
-            "available": true,
-            "rating": 5,
-            "num_reviews": 1
-        },
-        "39067": {
-            "name": "Monoprice SS-Pro 12 High Power Dual Source 300 Watt Peak 12 Pair Impedance Matching Speaker Selector",
-            "price": 149.99,
-            "url": "https://www.monoprice.com/product?p_id=39067",
-            "product_id": 39067,
-            "available": true,
-            "rating": 4,
-            "num_reviews": 3
-        },
-        "39068": {
-            "name": "Monoprice SS-Pro 8 High Power Dual Source 300 Watt 8 Pair Impedance Matching Speaker Selector",
-            "price": 119.99,
-            "url": "https://www.monoprice.com/product?p_id=39068",
-            "product_id": 39068,
-            "available": false,
-            "rating": 4.8,
-            "num_reviews": 6
-        },
-        "39070": {
-            "name": "Monoprice Obsidian Speed Plus Ultra Compact USB Power Bank, Black, 20,000mAh, 3-Port Up to 18W PD (3A) Output for iPhone, Android, and Galaxy Devices",
-            "price": 32.99,
-            "url": "https://www.monoprice.com/product?p_id=39070",
-            "product_id": 39070,
-            "available": true,
-            "rating": 4.6,
-            "num_reviews": 49
-        },
-        "39075": {
-            "name": "Monoprice Entegrade 1000FT Cat8 2GHz S/FTP Solid, 22AWG, Bulk Bare Copper Network Cable, 40G, Blue",
-            "price": 599.99,
-            "url": "https://www.monoprice.com/product?p_id=39075",
-            "product_id": 39075,
-            "available": false,
-            "rating": 4.3,
-            "num_reviews": 7
-        },
-        "39078": {
-            "name": "Monoprice Cat6 50ft Black Patch Cable, UTP, 32AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Micro SlimRun Series Ethernet Cable",
-            "price": 11.99,
-            "url": "https://www.monoprice.com/product?p_id=39078",
-            "product_id": 39078,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 76
-        },
         "39101": {
             "name": "Monoprice Replacement Build Plate for the MP Select Mini PRO 3D Printer (33012)",
             "price": 39.99,
@@ -25379,15 +25199,6 @@
             "available": false,
             "rating": 5,
             "num_reviews": 1
-        },
-        "39102": {
-            "name": "Monoprice Replacement Vat with Liner for the MP Mini SLA Resin 3D Printer (35435)",
-            "price": 19.36,
-            "url": "https://www.monoprice.com/product?p_id=39102",
-            "product_id": 39102,
-            "available": true,
-            "rating": 2.5,
-            "num_reviews": 2
         },
         "39104": {
             "name": "Monoprice Replacement Main Board for the MP Mini SLA Resin 3D Printer (35435)",
@@ -25407,15 +25218,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "39106": {
-            "name": "Monoprice Replacement Main Board for the MP10 3D Printer (34437)",
-            "price": 38.99,
-            "url": "https://www.monoprice.com/product?p_id=39106",
-            "product_id": 39106,
-            "available": true,
-            "rating": 5,
-            "num_reviews": 2
-        },
         "39108": {
             "name": "Monoprice Replacement Single Extruder Set for the MP10 3D Printer (34437)",
             "price": 51.49,
@@ -25424,15 +25226,6 @@
             "available": false,
             "rating": 3,
             "num_reviews": 3
-        },
-        "39109": {
-            "name": "Monoprice Replacement Extruder Stepper Motor for the MP10 and MP10 Mini 3D Printers (34437 and 34438)",
-            "price": 6.59,
-            "url": "https://www.monoprice.com/product?p_id=39109",
-            "product_id": 39109,
-            "available": true,
-            "rating": 3,
-            "num_reviews": 1
         },
         "39110": {
             "name": "Monoprice Replacement X/Y Axis Stepper Motor for the MP10 and MP10 Mini 3D Printers (34437 and 34438)",
@@ -25448,24 +25241,6 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=39111",
             "product_id": 39111,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "39112": {
-            "name": "Monoprice Replacement Nozzle for the MP10 and MP10 Mini 3D Printers (34437 and 34438)",
-            "price": 3.08,
-            "url": "https://www.monoprice.com/product?p_id=39112",
-            "product_id": 39112,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 1
-        },
-        "39113": {
-            "name": "Monoprice Replacement Filament Guiding Tube for the MP10 3D Printer (34437)",
-            "price": 3.99,
-            "url": "https://www.monoprice.com/product?p_id=39113",
-            "product_id": 39113,
             "available": false,
             "rating": 0,
             "num_reviews": 0
@@ -25488,24 +25263,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "39119": {
-            "name": "Monoprice Replacement 60x60x10mm Main Board fan for the MP10 and MP10 Mini 3D Printers (34437 and 34438)",
-            "price": 3.59,
-            "url": "https://www.monoprice.com/product?p_id=39119",
-            "product_id": 39119,
-            "available": true,
-            "rating": 5,
-            "num_reviews": 1
-        },
-        "39122": {
-            "name": "Monoprice Replacement Extruder Feeder for the MP10 and MP10 Mini 3D Printers (34437 and 34438)",
-            "price": 7.19,
-            "url": "https://www.monoprice.com/product?p_id=39122",
-            "product_id": 39122,
-            "available": true,
-            "rating": 2,
-            "num_reviews": 2
-        },
         "39124": {
             "name": "Monoprice Replacement Z Axis Threaded Rod for the MP10 3D Printer (34437)",
             "price": 3.75,
@@ -25523,24 +25280,6 @@
             "available": true,
             "rating": 0,
             "num_reviews": 0
-        },
-        "39127": {
-            "name": "Monoprice Replacement 300x300 Build Plate for the MP10 3D Printer (34437)",
-            "price": 7.79,
-            "url": "https://www.monoprice.com/product?p_id=39127",
-            "product_id": 39127,
-            "available": true,
-            "rating": 4,
-            "num_reviews": 7
-        },
-        "39128": {
-            "name": "Monoprice Replacement 200x200 Build Plate for the MP10 Mini 3D Printer (34438)",
-            "price": 5.99,
-            "url": "https://www.monoprice.com/product?p_id=39128",
-            "product_id": 39128,
-            "available": false,
-            "rating": 3.3,
-            "num_reviews": 4
         },
         "39135": {
             "name": "Monoprice Thunderbolt 3 10G Ethernet Adapter (Open Box)",
@@ -25560,15 +25299,6 @@
             "rating": 4.7,
             "num_reviews": 9
         },
-        "39159": {
-            "name": "Pure Outdoor by Monoprice Emperor 20 Rotomolded Portable Cooler 5 Gal - Fits 15 Cans",
-            "price": 79.98,
-            "url": "https://www.monoprice.com/product?p_id=39159",
-            "product_id": 39159,
-            "available": true,
-            "rating": 4.1,
-            "num_reviews": 15
-        },
         "39160": {
             "name": "Monoprice BT-500ANC Bluetooth with aptX HD, Google Assistant, Wireless Over Ear Headphones with Hybrid Active Noise Cancelling (ANC)",
             "price": 69.99,
@@ -25587,47 +25317,11 @@
             "rating": 4.9,
             "num_reviews": 55
         },
-        "39163": {
-            "name": "Monolith by Monoprice Amplifier/Component Stand XL, Espresso",
-            "price": 34.99,
-            "url": "https://www.monoprice.com/product?p_id=39163",
-            "product_id": 39163,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 55
-        },
-        "39164": {
-            "name": "Monolith by Monoprice Amplifier/Component Stand XL, Maple",
-            "price": 34.99,
-            "url": "https://www.monoprice.com/product?p_id=39164",
-            "product_id": 39164,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 55
-        },
         "39165": {
             "name": "Monolith by Monoprice 4 Tier Audio Stand XL, Black",
             "price": 179.99,
             "url": "https://www.monoprice.com/product?p_id=39165",
             "product_id": 39165,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 140
-        },
-        "39166": {
-            "name": "Monolith by Monoprice 4 Tier Audio Stand XL, Maple",
-            "price": 179.99,
-            "url": "https://www.monoprice.com/product?p_id=39166",
-            "product_id": 39166,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 139
-        },
-        "39167": {
-            "name": "Monolith by Monoprice 4 Tier Audio Stand XL, Espresso",
-            "price": 179.99,
-            "url": "https://www.monoprice.com/product?p_id=39167",
-            "product_id": 39167,
             "available": true,
             "rating": 4.9,
             "num_reviews": 140
@@ -25641,15 +25335,6 @@
             "rating": 4.8,
             "num_reviews": 20
         },
-        "39169": {
-            "name": "Monolith by Monoprice 28in Speaker Stands, Cherry (Each)",
-            "price": 79.99,
-            "url": "https://www.monoprice.com/product?p_id=39169",
-            "product_id": 39169,
-            "available": true,
-            "rating": 4.8,
-            "num_reviews": 20
-        },
         "39170": {
             "name": "Monolith by Monoprice 32in Speaker Stands, Cherry (Each)",
             "price": 79.99,
@@ -25658,15 +25343,6 @@
             "available": true,
             "rating": 4.8,
             "num_reviews": 20
-        },
-        "39172": {
-            "name": "Monoprice Replacement Door Open Sensor for the Maker Ultimate 2 3D Printer (36045)",
-            "price": 10.29,
-            "url": "https://www.monoprice.com/product?p_id=39172",
-            "product_id": 39172,
-            "available": true,
-            "rating": 0,
-            "num_reviews": 0
         },
         "39175": {
             "name": "Monoprice Replacement Glass Print Bed and Metal Induction Sheet for the Maker Ultimate 2 3D Printer (36045)",
@@ -25677,33 +25353,6 @@
             "rating": 5,
             "num_reviews": 1
         },
-        "39179": {
-            "name": "Monoprice Replacement 300x300 Aluminum Plate for the Maker Pro Mk.1 3D Printer (33013)",
-            "price": 22.19,
-            "url": "https://www.monoprice.com/product?p_id=39179",
-            "product_id": 39179,
-            "available": true,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "39222": {
-            "name": "Monoprice Replacement FET sheet for Mini SLA Resin Printer 35435 (2pcs)",
-            "price": 13.99,
-            "url": "https://www.monoprice.com/product?p_id=39222",
-            "product_id": 39222,
-            "available": false,
-            "rating": 2,
-            "num_reviews": 1
-        },
-        "39230": {
-            "name": "Monoprice 8P8C RJ45 Plug with Inserts for Solid Cat6 Ethernet Cable, 100 pcs/pack, Black",
-            "price": 11.99,
-            "url": "https://www.monoprice.com/product?p_id=39230",
-            "product_id": 39230,
-            "available": true,
-            "rating": 3.6,
-            "num_reviews": 245
-        },
         "39240": {
             "name": "Monoprice Bidirectional USB Type-C to DisplayPort Cable - 4K@60Hz, Black, 6ft",
             "price": 26.99,
@@ -25712,24 +25361,6 @@
             "available": true,
             "rating": 4,
             "num_reviews": 17
-        },
-        "39241": {
-            "name": "Monoprice Ultra Compact USB Type-C 3.2 Gen2 Cable, 10Gbps, 5A, Black 1m (3.3ft)",
-            "price": 19.49,
-            "url": "https://www.monoprice.com/product?p_id=39241",
-            "product_id": 39241,
-            "available": true,
-            "rating": 3.9,
-            "num_reviews": 12
-        },
-        "39256": {
-            "name": "Monolith by Monoprice M570 Over Ear Open Back Planar Headphone",
-            "price": 179.99,
-            "url": "https://www.monoprice.com/product?p_id=39256",
-            "product_id": 39256,
-            "available": true,
-            "rating": 4.6,
-            "num_reviews": 30
         },
         "39257": {
             "name": "Monoprice SlimSelect Series Low Profile Full-Motion Articulating TV Wall Mount Bracket for TVs 37in to 80in, Max Weight 99 lbs., Extension Range from 1.9in to 19in, VESA Patterns up to 600X400",
@@ -25740,15 +25371,6 @@
             "rating": 4.8,
             "num_reviews": 34
         },
-        "39258": {
-            "name": "Monoprice SlimSelect Series Low Profile Fixed TV Wall Mount Bracket for LED TVs 32in to 55in, Min Extension 0.71in, Max Weight 77 lbs, VESA Patterns up to 400x400",
-            "price": 29.99,
-            "url": "https://www.monoprice.com/product?p_id=39258",
-            "product_id": 39258,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 4
-        },
         "39259": {
             "name": "Monoprice SlimSelect Series Low Profile Tilt TV Wall Mount for LED TVs 32in to 55in, Min Extension 0.81in, Max Weight 77 lbs, VESA Patterns up to 400x400",
             "price": 24.99,
@@ -25757,24 +25379,6 @@
             "available": false,
             "rating": 4.4,
             "num_reviews": 7
-        },
-        "39261": {
-            "name": "Monoprice 6 Zone Home Audio Passive Multizone Controller Preamp Kit, NO LOGO",
-            "price": 399.99,
-            "url": "https://www.monoprice.com/product?p_id=39261",
-            "product_id": 39261,
-            "available": false,
-            "rating": 4,
-            "num_reviews": 3
-        },
-        "39262": {
-            "name": "Monoprice Multizone Source Keypad with Wi-Fi Receiver and Line In",
-            "price": 37.79,
-            "url": "https://www.monoprice.com/product?p_id=39262",
-            "product_id": 39262,
-            "available": true,
-            "rating": 3,
-            "num_reviews": 1
         },
         "39263": {
             "name": "Monoprice 6-Zone Home Audio RS-232 to IP Adapter",
@@ -25785,15 +25389,6 @@
             "rating": 3.6,
             "num_reviews": 8
         },
-        "39291": {
-            "name": "Monoprice SuperSpeed 4-Port USB-C Hub, Gray (New in Bulk Packaging / No Retail Box)",
-            "price": 19.99,
-            "url": "https://www.monoprice.com/product?p_id=39291",
-            "product_id": 39291,
-            "available": true,
-            "rating": 4.6,
-            "num_reviews": 21
-        },
         "39292": {
             "name": "Monoprice Select Plus USB Car Charger, 2-Port, 4.8A Output for iPhone, Android, and Galaxy Devices",
             "price": 9.49,
@@ -25802,33 +25397,6 @@
             "available": true,
             "rating": 0,
             "num_reviews": 0
-        },
-        "39299": {
-            "name": "Monoprice Clear Window or Wall Mount Paper Thin HDTV Antenna with In-line Active Amplifier",
-            "price": 16.58,
-            "url": "https://www.monoprice.com/product?p_id=39299",
-            "product_id": 39299,
-            "available": false,
-            "rating": 4.5,
-            "num_reviews": 6
-        },
-        "39300": {
-            "name": "Monoprice Flat Picture Frame Style HDTV Antenna with In-line Active Amplifier",
-            "price": 9.59,
-            "url": "https://www.monoprice.com/product?p_id=39300",
-            "product_id": 39300,
-            "available": true,
-            "rating": 4.6,
-            "num_reviews": 5
-        },
-        "39301": {
-            "name": "Monoprice Indoor/Outdoor Omni-Directional 360 Degree HDTV Long Range Antenna with In-Line Active Amplifier",
-            "price": 29.99,
-            "url": "https://www.monoprice.com/product?p_id=39301",
-            "product_id": 39301,
-            "available": false,
-            "rating": 1.5,
-            "num_reviews": 4
         },
         "39304": {
             "name": "Monoprice SlimSelect Series Low Profile Full-Motion Articulating TV Wall Mount for LED TVs 19in to 55in, Max Weight 100 lbs, Extension Range from 1.2in to 17.8in, VESA Patterns up to 400x400",
@@ -26024,15 +25592,6 @@
             "price": 2.27,
             "url": "https://www.monoprice.com/product?p_id=39430",
             "product_id": 39430,
-            "available": true,
-            "rating": 5,
-            "num_reviews": 1
-        },
-        "39431": {
-            "name": "Monoprice OM4 Fiber Optic Cable - LC/ST, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 2m",
-            "price": 1.04,
-            "url": "https://www.monoprice.com/product?p_id=39431",
-            "product_id": 39431,
             "available": true,
             "rating": 5,
             "num_reviews": 1
@@ -27581,7 +27140,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=39922",
             "product_id": 39922,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1584
         },
@@ -45327,6 +44886,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-19T03:20:33Z"
+        "timestamp": "2023-04-19T04:23:07Z"
     }
 }
