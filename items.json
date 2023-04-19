@@ -27941,7 +27941,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=40080",
             "product_id": 40080,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -28211,7 +28211,7 @@
             "price": 47.49,
             "url": "https://www.monoprice.com/product?p_id=40141",
             "product_id": 40141,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 93
         },
@@ -28935,6 +28935,15 @@
             "rating": 4.7,
             "num_reviews": 90
         },
+        "40660": {
+            "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser-Rated, Pure Bare Copper Wire, 23AWG, 500ft, Gray, (UL)",
+            "price": 74.99,
+            "url": "https://www.monoprice.com/product?p_id=40660",
+            "product_id": 40660,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 90
+        },
         "40711": {
             "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam, 13\" x 12\" x 6\" (clearance)",
             "price": 11.5,
@@ -29615,7 +29624,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=41094",
             "product_id": 41094,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 3
         },
@@ -29644,7 +29653,7 @@
             "product_id": 41097,
             "available": true,
             "rating": 5,
-            "num_reviews": 6
+            "num_reviews": 7
         },
         "41118": {
             "name": "Strata Home by Monoprice Pro Blender (clearance)",
@@ -30031,7 +30040,7 @@
             "product_id": 41375,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1847
+            "num_reviews": 1848
         },
         "41376": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 2-Conductor Speaker Wire, 100ft, Black",
@@ -30148,7 +30157,7 @@
             "product_id": 41388,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1847
+            "num_reviews": 1848
         },
         "41389": {
             "name": "Monoprice Access Series 16AWG CL2 Rated 4-Conductor Speaker Wire, 250ft, Black",
@@ -30166,7 +30175,7 @@
             "product_id": 41390,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1847
+            "num_reviews": 1848
         },
         "41391": {
             "name": "Monoprice Access Series 18AWG CL2 Rated 2-Conductor Speaker Wire, 50ft, Black",
@@ -30175,7 +30184,7 @@
             "product_id": 41391,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1847
+            "num_reviews": 1848
         },
         "41392": {
             "name": "Monoprice Access Series 18AWG CL2 Rated 2-Conductor Speaker Wire, 100ft, Black",
@@ -30220,7 +30229,7 @@
             "product_id": 41396,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1847
+            "num_reviews": 1848
         },
         "41397": {
             "name": "Monoprice Access Series 16AWG CL2 Rated 4-Conductor Speaker Wire, 1000ft, Black",
@@ -30247,7 +30256,7 @@
             "product_id": 41399,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1847
+            "num_reviews": 1848
         },
         "41400": {
             "name": "Monoprice Access Series 12AWG CL2 Rated 2-Conductor Speaker Wire, 1000ft, Black",
@@ -30539,7 +30548,7 @@
         },
         "41663": {
             "name": "Garden Bench and Kneeler Stools Gardening with Side bag pockets for tool",
-            "price": 24.99,
+            "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=41663",
             "product_id": 41663,
             "available": true,
@@ -31398,8 +31407,8 @@
             "url": "https://www.monoprice.com/product?p_id=42028",
             "product_id": 42028,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 5,
+            "num_reviews": 1
         },
         "42029": {
             "name": "netis AC1200 Wireless Dual Band Gigabit Wi-Fi Router/Repeater, High Gain 5dBi Antennas, WPS Button, Multi-SSID, Easy Quick Setup",
@@ -31435,7 +31444,7 @@
             "product_id": 42033,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 57
+            "num_reviews": 58
         },
         "42034": {
             "name": "Monoprice SB-600 Dolby Atmos 5.1.2 Soundbar with Wireless Subwoofer and Wireless Surround Speakers, 2 HDMI Inputs, 4K HDR/DV Pass-Through, eArc, Bluetooth, Toslink, Coax, Remote",
@@ -31622,7 +31631,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=42084",
             "product_id": 42084,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 24
         },
@@ -31703,7 +31712,7 @@
             "price": 23.99,
             "url": "https://www.monoprice.com/product?p_id=42110",
             "product_id": 42110,
-            "available": false,
+            "available": true,
             "rating": 4.1,
             "num_reviews": 11
         },
@@ -32947,7 +32956,7 @@
             "product_id": 42833,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 262
+            "num_reviews": 263
         },
         "42834": {
             "name": "Monolith by Monoprice 18in Speaker Stands, Cherry (Each)",
@@ -33009,8 +33018,8 @@
             "url": "https://www.monoprice.com/product?p_id=42840",
             "product_id": 42840,
             "available": true,
-            "rating": 4.5,
-            "num_reviews": 10
+            "rating": 4.6,
+            "num_reviews": 11
         },
         "42841": {
             "name": "Monolith by Monoprice 28in Cherry Wood Speaker Stand with Adjustable Top Plate, Cherry (Each)",
@@ -33120,14 +33129,14 @@
             "rating": 5,
             "num_reviews": 1
         },
-        "42890": {
-            "name": "Monoprice Zero-G 27in Curved Gaming Monitor - 1500R, 2560x1440 (QHD), 144Hz, HDR, VA",
-            "price": 189.99,
-            "url": "https://www.monoprice.com/product?p_id=42890",
-            "product_id": 42890,
-            "available": true,
-            "rating": 4.3,
-            "num_reviews": 31
+        "42891": {
+            "name": "Monoprice 32in Zero-G Curved Gaming Monitor - 1500R, 16:9, 2560x1440p, WQHD, 165Hz, HDMI, DisplayPort, VA",
+            "price": 197.99,
+            "url": "https://www.monoprice.com/product?p_id=42891",
+            "product_id": 42891,
+            "available": false,
+            "rating": 4.7,
+            "num_reviews": 19
         },
         "42892": {
             "name": "Dark Matter by Monoprice 27in Gaming Monitor - 16:9, 2560x1440p, QHD, 180Hz, IGZO",
@@ -34880,7 +34889,7 @@
             "price": 24.49,
             "url": "https://www.monoprice.com/product?p_id=43357",
             "product_id": 43357,
-            "available": false,
+            "available": true,
             "rating": 3.5,
             "num_reviews": 2
         },
@@ -34916,7 +34925,7 @@
             "price": 199.99,
             "url": "https://www.monoprice.com/product?p_id=43363",
             "product_id": 43363,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 2
         },
@@ -45282,6 +45291,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-19T16:24:59Z"
+        "timestamp": "2023-04-19T17:18:05Z"
     }
 }
