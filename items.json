@@ -378,6 +378,15 @@
             "rating": 4.3,
             "num_reviews": 25
         },
+        "10522": {
+            "name": "Monoprice MHD Action Camera Skin, 3pack Blue",
+            "price": 0.93,
+            "url": "https://www.monoprice.com/product?p_id=10522",
+            "product_id": 10522,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "10546": {
             "name": "Monoprice Premium 3D Printer Filament ABS 1.75mm 1kg/spool, White",
             "price": 29.99,
@@ -4226,7 +4235,7 @@
             "price": 2.79,
             "url": "https://www.monoprice.com/product?p_id=13526",
             "product_id": 13526,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -4829,7 +4838,7 @@
             "price": 119.99,
             "url": "https://www.monoprice.com/product?p_id=13683",
             "product_id": 13683,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 78
         },
@@ -5063,7 +5072,7 @@
             "price": 28.49,
             "url": "https://www.monoprice.com/product?p_id=13730",
             "product_id": 13730,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 156
         },
@@ -5515,7 +5524,7 @@
             "product_id": 13920,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 658
+            "num_reviews": 659
         },
         "13921": {
             "name": "Monoprice Select Series USB-A to Micro B Cable, 2.4A, 22/30AWG, Black, 3ft",
@@ -5873,7 +5882,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=14305",
             "product_id": 14305,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 165
         },
@@ -6910,7 +6919,7 @@
             "product_id": 15163,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 518
+            "num_reviews": 519
         },
         "15164": {
             "name": "Monoprice Cat6A 7ft White 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -8350,7 +8359,7 @@
             "product_id": 16079,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1847
+            "num_reviews": 1848
         },
         "16080": {
             "name": "Monoprice Entegrade Series Cat6 Shielded 19in 1U Patch Panel Dual Krone IDC, 24-port",
@@ -44535,6 +44544,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-19T13:23:07Z"
+        "timestamp": "2023-04-19T14:18:55Z"
     }
 }
