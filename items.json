@@ -17179,7 +17179,7 @@
             "product_id": 33234,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 518
+            "num_reviews": 519
         },
         "33236": {
             "name": "Monoprice Cat6A 25ft Blue 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -17303,7 +17303,7 @@
             "price": 54.99,
             "url": "https://www.monoprice.com/product?p_id=33270",
             "product_id": 33270,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 519
         },
@@ -18446,7 +18446,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=33867",
             "product_id": 33867,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 4
         },
@@ -18563,7 +18563,7 @@
             "price": 30.99,
             "url": "https://www.monoprice.com/product?p_id=33885",
             "product_id": 33885,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 211
         },
@@ -18801,18 +18801,9 @@
             "rating": 5,
             "num_reviews": 7
         },
-        "34179": {
-            "name": "Monoprice Consul Series USB-C 10G Hub Adapter with 2-Port Type-A, 2-Port Type-C, 100W PD 3.0",
-            "price": 29.99,
-            "url": "https://www.monoprice.com/product?p_id=34179",
-            "product_id": 34179,
-            "available": false,
-            "rating": 3.8,
-            "num_reviews": 12
-        },
         "34181": {
             "name": "Monoprice Consul Series USB-C 5G Hub Adapter with 4-Port USB 3.0",
-            "price": 25.99,
+            "price": 18.99,
             "url": "https://www.monoprice.com/product?p_id=34181",
             "product_id": 34181,
             "available": false,
@@ -18839,7 +18830,7 @@
         },
         "34185": {
             "name": "Monoprice Consul Series USB-C Gigabit Ethernet Adapter",
-            "price": 20.49,
+            "price": 17.99,
             "url": "https://www.monoprice.com/product?p_id=34185",
             "product_id": 34185,
             "available": true,
@@ -21047,7 +21038,7 @@
             "price": 89.99,
             "url": "https://www.monoprice.com/product?p_id=35124",
             "product_id": 35124,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 58
         },
@@ -21320,15 +21311,6 @@
             "available": true,
             "rating": 4.8,
             "num_reviews": 17
-        },
-        "35510": {
-            "name": "Monoprice Consul Series USB-C Travel Dock with HDMI, VGA, Gigabit Ethernet, 2-Port USB 3.0, SD/MicroSD Reader, USB-C 100W PD 3.0",
-            "price": 68.99,
-            "url": "https://www.monoprice.com/product?p_id=35510",
-            "product_id": 35510,
-            "available": false,
-            "rating": 4.2,
-            "num_reviews": 38
         },
         "35519": {
             "name": "Monoprice All-in-One Portable Business Meeting Wide Angle USB Video Conference Camera Webcam, Mic, and Speaker, 1080p",
@@ -23571,15 +23553,6 @@
             "rating": 4.7,
             "num_reviews": 3
         },
-        "38356": {
-            "name": "Monoprice OM4 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 5m",
-            "price": 5.79,
-            "url": "https://www.monoprice.com/product?p_id=38356",
-            "product_id": 38356,
-            "available": true,
-            "rating": 4.7,
-            "num_reviews": 3
-        },
         "38357": {
             "name": "Monoprice OM4 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 7m",
             "price": 2.99,
@@ -24253,7 +24226,7 @@
             "product_id": 38785,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 633
+            "num_reviews": 632
         },
         "38786": {
             "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R, 16AWG, 13A/1625W, 3-Prong, Black, 1ft, 10-Pack",
@@ -24325,7 +24298,7 @@
             "product_id": 38794,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 75
+            "num_reviews": 76
         },
         "38795": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 1.5ft, White",
@@ -24379,7 +24352,7 @@
             "product_id": 38801,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 73
+            "num_reviews": 76
         },
         "38802": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 10ft, Blue",
@@ -24494,7 +24467,7 @@
             "price": 6.59,
             "url": "https://www.monoprice.com/product?p_id=38816",
             "product_id": 38816,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 75
         },
@@ -24595,7 +24568,7 @@
             "product_id": 38831,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 75
+            "num_reviews": 76
         },
         "38833": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 3ft, White, 3-Pack",
@@ -24793,7 +24766,7 @@
             "product_id": 38866,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 57
+            "num_reviews": 58
         },
         "38867": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 5A/100W, 6ft, Red",
@@ -24802,7 +24775,7 @@
             "product_id": 38867,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 57
+            "num_reviews": 58
         },
         "38877": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 5A/100W, 3ft, Black, 3 Pack",
@@ -25594,7 +25567,7 @@
             "product_id": 39166,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 139
+            "num_reviews": 140
         },
         "39167": {
             "name": "Monolith by Monoprice 4 Tier Audio Stand XL, Espresso",
@@ -26494,7 +26467,7 @@
             "product_id": 39541,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13602
+            "num_reviews": 13603
         },
         "39542": {
             "name": "Monoprice 4K High Speed HDMI Cable 3ft - 18Gbps Black - 3 Pack",
@@ -45291,6 +45264,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-19T21:17:21Z"
+        "timestamp": "2023-04-19T22:18:21Z"
     }
 }
