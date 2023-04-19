@@ -554,7 +554,7 @@
             "price": 668.99,
             "url": "https://www.monoprice.com/product?p_id=10761",
             "product_id": 10761,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 153
         },
@@ -2178,6 +2178,15 @@
             "rating": 4.4,
             "num_reviews": 43
         },
+        "11995": {
+            "name": "Monoprice Z-Wave Plugin On/Off, NO LOGO (Works with Alexa \u0026 Google Home with Hub)",
+            "price": 24.99,
+            "url": "https://www.monoprice.com/product?p_id=11995",
+            "product_id": 11995,
+            "available": false,
+            "rating": 4.5,
+            "num_reviews": 116
+        },
         "1202": {
             "name": "Monoprice DB9, M/M, Null Modem Mini Type",
             "price": 1.99,
@@ -2363,7 +2372,7 @@
             "price": 315.99,
             "url": "https://www.monoprice.com/product?p_id=12277",
             "product_id": 12277,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 7
         },
@@ -3983,7 +3992,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=13408",
             "product_id": 13408,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 165
         },
@@ -4244,7 +4253,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=13527",
             "product_id": 13527,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -4768,7 +4777,7 @@
             "product_id": 13674,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 90
+            "num_reviews": 91
         },
         "13675": {
             "name": "Monoprice Cat6 500ft White CMR UL Bulk Cable, Solid (w/spine), UTP, 23AWG, 550MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
@@ -5045,7 +5054,7 @@
             "price": 229.99,
             "url": "https://www.monoprice.com/product?p_id=13728",
             "product_id": 13728,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 157
         },
@@ -6174,6 +6183,15 @@
             "rating": 4.9,
             "num_reviews": 3039
         },
+        "14760": {
+            "name": "Monoprice Cat6 Ethernet Bulk Cable - Stranded, 550MHz, UTP, CM, Pure Bare Copper Wire, 24AWG, 250ft, Black",
+            "price": 35.99,
+            "url": "https://www.monoprice.com/product?p_id=14760",
+            "product_id": 14760,
+            "available": true,
+            "rating": 4.5,
+            "num_reviews": 60
+        },
         "14772": {
             "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Orange, (UL)",
             "price": 32.99,
@@ -6301,7 +6319,7 @@
             "num_reviews": 272
         },
         "14804": {
-            "name": "Monoprice Cat6 3ft Green Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "name": "Monoprice Cat6 2ft Green Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
             "price": 2.79,
             "url": "https://www.monoprice.com/product?p_id=14804",
             "product_id": 14804,
@@ -6323,7 +6341,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=14806",
             "product_id": 14806,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -6355,7 +6373,7 @@
             "num_reviews": 272
         },
         "14810": {
-            "name": "Monoprice Cat6 3ft Red Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "name": "Monoprice Cat6 5ft Red Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=14810",
             "product_id": 14810,
@@ -6818,7 +6836,7 @@
             "price": 18.99,
             "url": "https://www.monoprice.com/product?p_id=15153",
             "product_id": 15153,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 519
         },
@@ -7031,7 +7049,7 @@
         },
         "15246": {
             "name": "Monoprice Select Series USB-C to Gigabit Ethernet and USB-C (F) Dual Port Adapter",
-            "price": 23.24,
+            "price": 21.99,
             "url": "https://www.monoprice.com/product?p_id=15246",
             "product_id": 15246,
             "available": true,
@@ -7088,7 +7106,7 @@
             "price": 126.99,
             "url": "https://www.monoprice.com/product?p_id=15260",
             "product_id": 15260,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 5
         },
@@ -7283,7 +7301,7 @@
         },
         "15429": {
             "name": "Monoprice 4K Certified Premium High Speed HDMI Cable 10ft - 18Gbps Black",
-            "price": 2.39,
+            "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=15429",
             "product_id": 15429,
             "available": true,
@@ -8177,7 +8195,7 @@
             "price": 2.61,
             "url": "https://www.monoprice.com/product?p_id=15965",
             "product_id": 15965,
-            "available": true,
+            "available": false,
             "rating": 3.5,
             "num_reviews": 4
         },
@@ -8339,7 +8357,7 @@
             "price": 255.49,
             "url": "https://www.monoprice.com/product?p_id=16077",
             "product_id": 16077,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1847
         },
@@ -8411,7 +8429,7 @@
             "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=16088",
             "product_id": 16088,
-            "available": false,
+            "available": true,
             "rating": 4,
             "num_reviews": 2
         },
@@ -8431,7 +8449,7 @@
             "product_id": 16091,
             "available": false,
             "rating": 4.3,
-            "num_reviews": 140
+            "num_reviews": 141
         },
         "16092": {
             "name": "Monoprice EZ Series Low Profile Tilt TV Wall Mount Bracket For Flat Screen TVs 37in to 70in, Max Weight 77 lbs., VESA Patterns Up to 600x400, Works with Concrete and Brick, UL Certified",
@@ -9214,7 +9232,7 @@
             "product_id": 16359,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 91
+            "num_reviews": 92
         },
         "16360": {
             "name": "Workstream by Monoprice Medium Multimedia Desktop Monitor Stand, 25.6in x 11.0in, Max Weight Capacity 80lbs, Black Tempered Glass",
@@ -9293,7 +9311,7 @@
             "price": 139.99,
             "url": "https://www.monoprice.com/product?p_id=18513",
             "product_id": 18513,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 59
         },
@@ -45282,6 +45300,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-19T19:18:36Z"
+        "timestamp": "2023-04-19T20:22:11Z"
     }
 }
