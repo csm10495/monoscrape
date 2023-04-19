@@ -27986,7 +27986,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=40093",
             "product_id": 40093,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 2
         },
@@ -28051,7 +28051,7 @@
             "product_id": 40107,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 61
+            "num_reviews": 62
         },
         "40108": {
             "name": "MP Cadet 3D Printer",
@@ -28915,7 +28915,7 @@
             "product_id": 40660,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 90
+            "num_reviews": 91
         },
         "40711": {
             "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam, 13\" x 12\" x 6\" (clearance)",
@@ -29723,7 +29723,7 @@
             "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=41232",
             "product_id": 41232,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 116
         },
@@ -31354,7 +31354,7 @@
             "product_id": 42025,
             "available": true,
             "rating": 5,
-            "num_reviews": 4
+            "num_reviews": 5
         },
         "42026": {
             "name": "Monoprice Clear Acrylic Plexiglass Sneeze Guard Protective Shield Desk Barrier Large Size 31.5in x 23.6in x 23.6in",
@@ -32218,7 +32218,7 @@
             "product_id": 42520,
             "available": true,
             "rating": 3.6,
-            "num_reviews": 66
+            "num_reviews": 67
         },
         "42522": {
             "name": "Wheelchair Lightweight Folding Portable Transport Chair with Bags Solid Tires Seatbelt Hand Brakes",
@@ -32936,7 +32936,7 @@
             "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=42834",
             "product_id": 42834,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 21
         },
@@ -33107,7 +33107,7 @@
             "price": 197.99,
             "url": "https://www.monoprice.com/product?p_id=42891",
             "product_id": 42891,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 19
         },
@@ -34196,7 +34196,7 @@
             "price": 2.69,
             "url": "https://www.monoprice.com/product?p_id=43193",
             "product_id": 43193,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 8
         },
@@ -34898,7 +34898,7 @@
             "price": 199.99,
             "url": "https://www.monoprice.com/product?p_id=43363",
             "product_id": 43363,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 2
         },
@@ -35042,7 +35042,7 @@
             "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=43448",
             "product_id": 43448,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 8
         },
@@ -35155,7 +35155,7 @@
             "num_reviews": 4
         },
         "43527": {
-            "name": "Monoprice 5-in-1 USB-C to 4K HDMI Display Adapter and USB Hub (4K@60Hz)",
+            "name": "Monoprice 5-in-1 USB-C to 4K@60Hz HDMI Display Adapter and USB Hub",
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=43527",
             "product_id": 43527,
@@ -35485,7 +35485,7 @@
             "product_id": 43670,
             "available": false,
             "rating": 5,
-            "num_reviews": 4
+            "num_reviews": 5
         },
         "43671": {
             "name": "65W Universal USB-C Laptop Charger",
@@ -35587,7 +35587,7 @@
             "num_reviews": 0
         },
         "43788": {
-            "name": "Monoprice 3-in-1 USB-C to HDMI Multiport Adapter",
+            "name": "Monoprice 3-in-1 USB-C to 4K HDMI Multiport Adapter",
             "price": 17.99,
             "url": "https://www.monoprice.com/product?p_id=43788",
             "product_id": 43788,
@@ -35596,7 +35596,7 @@
             "num_reviews": 3
         },
         "43789": {
-            "name": "Monoprice 6-in-1 USB-C Multiport 4K HDMI Adapter",
+            "name": "Monoprice 6-in-1 USB-C Multiport 4K@60Hz HDMI Adapter",
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=43789",
             "product_id": 43789,
@@ -35605,7 +35605,7 @@
             "num_reviews": 10
         },
         "43790": {
-            "name": "Monoprice 7-in-1 USB-C Multiport 4K HDMI Adapter",
+            "name": "Monoprice 7-in-1 USB-C Multiport 4K@60Hz HDMI Adapter",
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=43790",
             "product_id": 43790,
@@ -36433,7 +36433,7 @@
             "num_reviews": 0
         },
         "44469": {
-            "name": "Monoprice 8K@60Hz USB-C to DP Cable, 6ft",
+            "name": "Monoprice 8K@60Hz, 4K@144Hz/120Hz, 2K@240Hz USB-C to DP Cable, 6ft",
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=44469",
             "product_id": 44469,
@@ -45264,6 +45264,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-19T22:18:21Z"
+        "timestamp": "2023-04-19T23:19:15Z"
     }
 }
