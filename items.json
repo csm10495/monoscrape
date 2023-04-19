@@ -28503,15 +28503,6 @@
             "rating": 4.4,
             "num_reviews": 5
         },
-        "40645": {
-            "name": "Monoprice Cat6 50ft Gray Patch Cable, Shielded (F/UTP), 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
-            "price": 17.99,
-            "url": "https://www.monoprice.com/product?p_id=40645",
-            "product_id": 40645,
-            "available": false,
-            "rating": 4.4,
-            "num_reviews": 5
-        },
         "40646": {
             "name": "Monoprice Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, STP, Pure Bare Copper Wire, 24AWG, 100ft, Gray",
             "price": 33.49,
@@ -30663,15 +30654,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "41886": {
-            "name": "Monolith by Monoprice THX-365C THX Certified Ultra Center Channel Speaker (Each) (open box)",
-            "price": 399.99,
-            "url": "https://www.monoprice.com/product?p_id=41886",
-            "product_id": 41886,
-            "available": true,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "41936": {
             "name": "Monoprice Cat6A 1000ft Blue CMR UL Bulk Cable, Shielded (F/UTP), Solid, 23AWG, 650MHz, 10G, Pure Bare Copper, Reel in Box, Flame-Retardant, Entegrade Series Bulk Ethernet Cable",
             "price": 293.99,
@@ -31165,7 +31147,7 @@
             "product_id": 42076,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 27
+            "num_reviews": 28
         },
         "42077": {
             "name": "Monoprice 8K No Logo Ultra High Speed HDMI Cable, 48Gbps, 6ft, Black",
@@ -31676,7 +31658,7 @@
             "price": 90.99,
             "url": "https://www.monoprice.com/product?p_id=42345",
             "product_id": 42345,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 16
         },
@@ -44886,6 +44868,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-19T04:23:07Z"
+        "timestamp": "2023-04-19T05:18:17Z"
     }
 }
