@@ -11896,7 +11896,7 @@
             "product_id": 2864,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 1297
+            "num_reviews": 1298
         },
         "2865": {
             "name": "Monoprice 12ft Premium 2 RCA Plug/2 RCA Plug M/M 22AWG Cable - Black",
@@ -25045,7 +25045,7 @@
             "product_id": 4022,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13602
+            "num_reviews": 13603
         },
         "4023": {
             "name": "Monoprice 4K High Speed HDMI Cable 3ft - 18Gbps White",
@@ -34954,7 +34954,7 @@
             "product_id": 5350,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 1297
+            "num_reviews": 1298
         },
         "5355": {
             "name": "Monoprice 1.5ft 22AWG 5-RCA Component Video/Audio Coaxial Cable (RG-59/U) - Black",
@@ -35494,7 +35494,7 @@
             "product_id": 5499,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 407
+            "num_reviews": 408
         },
         "5500": {
             "name": "Monoprice 35ft Premier Series 1/4in TS Male to Male Audio Cable, 16AWG (Gold Plated)",
@@ -35611,7 +35611,7 @@
             "product_id": 5582,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 1087
+            "num_reviews": 1088
         },
         "5583": {
             "name": "Monoprice 50ft Premium 3.5mm Stereo Male to 3.5mm Stereo Male 22AWG Cable (Gold Plated) - Black",
@@ -36556,7 +36556,7 @@
             "product_id": 6270,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 2397
+            "num_reviews": 2398
         },
         "6271": {
             "name": "Monoprice Premium S/PDIF (Toslink) Digital Optical Audio Cable, 15ft",
@@ -37373,7 +37373,7 @@
             "price": 1.19,
             "url": "https://www.monoprice.com/product?p_id=659",
             "product_id": 659,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 143
         },
@@ -38237,7 +38237,7 @@
             "price": 1.69,
             "url": "https://www.monoprice.com/product?p_id=7247",
             "product_id": 7247,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 128
         },
@@ -39751,7 +39751,7 @@
             "product_id": 8534,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 116
+            "num_reviews": 117
         },
         "8535": {
             "name": "Monoprice 20ft MIDI Cable with 5 Pin DIN Plugs - Black",
@@ -40334,7 +40334,7 @@
             "price": 0.89,
             "url": "https://www.monoprice.com/product?p_id=8780",
             "product_id": 8780,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 230
         },
@@ -42042,6 +42042,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-20T13:23:11Z"
+        "timestamp": "2023-04-20T14:18:16Z"
     }
 }
