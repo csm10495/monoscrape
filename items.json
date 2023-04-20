@@ -16675,7 +16675,7 @@
             "product_id": 31263,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 262
+            "num_reviews": 263
         },
         "31264": {
             "name": "Monolith by Monoprice 32in Speaker Stand (Each)",
@@ -17115,15 +17115,6 @@
             "url": "https://www.monoprice.com/product?p_id=33218",
             "product_id": 33218,
             "available": false,
-            "rating": 4.9,
-            "num_reviews": 519
-        },
-        "33224": {
-            "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 30ft, Multicolor, 5-Pack",
-            "price": 32.94,
-            "url": "https://www.monoprice.com/product?p_id=33224",
-            "product_id": 33224,
-            "available": true,
             "rating": 4.9,
             "num_reviews": 519
         },
@@ -17582,7 +17573,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=33559",
             "product_id": 33559,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 353
         },
@@ -17825,7 +17816,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=33656",
             "product_id": 33656,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 7
         },
@@ -18347,7 +18338,7 @@
             "price": 48.99,
             "url": "https://www.monoprice.com/product?p_id=33835",
             "product_id": 33835,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 67
         },
@@ -18630,15 +18621,6 @@
             "rating": 4.9,
             "num_reviews": 3040
         },
-        "33919": {
-            "name": "Monoprice MP Select Mini 3D Printer V2  White (IDTech)",
-            "price": 219.99,
-            "url": "https://www.monoprice.com/product?p_id=33919",
-            "product_id": 33919,
-            "available": true,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "3392": {
             "name": "Monoprice Cat5e 10ft Yellow Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 2.99,
@@ -18870,8 +18852,8 @@
             "url": "https://www.monoprice.com/product?p_id=34190",
             "product_id": 34190,
             "available": true,
-            "rating": 4.5,
-            "num_reviews": 4
+            "rating": 4.6,
+            "num_reviews": 5
         },
         "34191": {
             "name": "Monoprice HR-5C High Resolution Closed Back Wired Headphones",
@@ -18995,7 +18977,7 @@
             "price": 17.29,
             "url": "https://www.monoprice.com/product?p_id=34207",
             "product_id": 34207,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 1705
         },
@@ -19481,7 +19463,7 @@
             "price": 499.99,
             "url": "https://www.monoprice.com/product?p_id=34367",
             "product_id": 34367,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 10
         },
@@ -20120,7 +20102,7 @@
             "price": 10.49,
             "url": "https://www.monoprice.com/product?p_id=34633",
             "product_id": 34633,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -20770,7 +20752,7 @@
             "product_id": 35047,
             "available": true,
             "rating": 5,
-            "num_reviews": 6
+            "num_reviews": 7
         },
         "35048": {
             "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R, 18AWG, 10A/1250W, SVT, 125V, Black, 15ft",
@@ -21677,7 +21659,7 @@
             "price": 399.99,
             "url": "https://www.monoprice.com/product?p_id=36058",
             "product_id": 36058,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -22352,7 +22334,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=36645",
             "product_id": 36645,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 4
         },
@@ -22577,7 +22559,7 @@
             "price": 3999.99,
             "url": "https://www.monoprice.com/product?p_id=37887",
             "product_id": 37887,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 18
         },
@@ -22649,7 +22631,7 @@
             "price": 399.99,
             "url": "https://www.monoprice.com/product?p_id=38035",
             "product_id": 38035,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 217
         },
@@ -24503,7 +24485,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=38823",
             "product_id": 38823,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 76
         },
@@ -24514,7 +24496,7 @@
             "product_id": 38825,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 74
+            "num_reviews": 76
         },
         "38826": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 6ft, Black, 3-Pack",
@@ -25187,7 +25169,7 @@
             "price": 74.99,
             "url": "https://www.monoprice.com/product?p_id=39019",
             "product_id": 39019,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 60
         },
@@ -25331,7 +25313,7 @@
             "price": 17.99,
             "url": "https://www.monoprice.com/product?p_id=39105",
             "product_id": 39105,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -26168,7 +26150,7 @@
             "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=39499",
             "product_id": 39499,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 6
         },
@@ -26348,7 +26330,7 @@
             "price": 62.99,
             "url": "https://www.monoprice.com/product?p_id=39529",
             "product_id": 39529,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 310
         },
@@ -26485,7 +26467,7 @@
             "product_id": 39545,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13602
+            "num_reviews": 13603
         },
         "39546": {
             "name": "Monoprice 4K High Speed HDMI Cable 5ft - 18Gbps Black - 3 Pack",
@@ -26512,7 +26494,7 @@
             "product_id": 39548,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13602
+            "num_reviews": 13603
         },
         "39549": {
             "name": "Monoprice 4K High Speed HDMI Cable 6ft - 18Gbps Black - 5 Pack",
@@ -26843,7 +26825,7 @@
             "price": 7.19,
             "url": "https://www.monoprice.com/product?p_id=39650",
             "product_id": 39650,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 56
         },
@@ -27068,6 +27050,15 @@
             "price": 56.52,
             "url": "https://www.monoprice.com/product?p_id=39758",
             "product_id": 39758,
+            "available": true,
+            "rating": 3.5,
+            "num_reviews": 2
+        },
+        "39759": {
+            "name": "Monoprice Cat6 19in 1U Patch Panel with Loaded Keystone, Shielded, 24 ports",
+            "price": 64.99,
+            "url": "https://www.monoprice.com/product?p_id=39759",
+            "product_id": 39759,
             "available": true,
             "rating": 3.5,
             "num_reviews": 2
@@ -45237,6 +45228,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-20T16:24:46Z"
+        "timestamp": "2023-04-20T17:17:38Z"
     }
 }
