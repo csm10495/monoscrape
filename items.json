@@ -554,7 +554,7 @@
             "price": 668.99,
             "url": "https://www.monoprice.com/product?p_id=10761",
             "product_id": 10761,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 153
         },
@@ -1076,7 +1076,7 @@
             "price": 3.29,
             "url": "https://www.monoprice.com/product?p_id=11276",
             "product_id": 11276,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 64
         },
@@ -3164,7 +3164,7 @@
             "price": 0.79,
             "url": "https://www.monoprice.com/product?p_id=13090",
             "product_id": 13090,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 127
         },
@@ -4244,7 +4244,7 @@
             "price": 2.79,
             "url": "https://www.monoprice.com/product?p_id=13526",
             "product_id": 13526,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -4361,7 +4361,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=13539",
             "product_id": 13539,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -4786,7 +4786,7 @@
             "product_id": 13675,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 87
+            "num_reviews": 91
         },
         "13676": {
             "name": "Monoprice Cat6 250ft Blue CMR UL Bulk Cable, Solid (w/spine), UTP, 23AWG, 550MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
@@ -4885,7 +4885,7 @@
             "product_id": 13707,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 157
+            "num_reviews": 156
         },
         "13708": {
             "name": "Monoprice Nimbus Series 12AWG 2-Conductor CMP-Rated Speaker Wire, 100ft",
@@ -5056,7 +5056,7 @@
             "product_id": 13728,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 157
+            "num_reviews": 156
         },
         "13729": {
             "name": "Monoprice Nimbus Series 18AWG 2-Conductor CMP-Rated Speaker Wire, 50ft",
@@ -5081,7 +5081,7 @@
             "price": 28.49,
             "url": "https://www.monoprice.com/product?p_id=13730",
             "product_id": 13730,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 156
         },
@@ -5987,7 +5987,7 @@
         },
         "14503": {
             "name": "Monoprice Select Series USB-C 3-Port USB 3.0 Hub and Gigabit Ethernet Adapter",
-            "price": 21.49,
+            "price": 21.99,
             "url": "https://www.monoprice.com/product?p_id=14503",
             "product_id": 14503,
             "available": true,
@@ -7076,7 +7076,7 @@
         },
         "15250": {
             "name": "Monoprice Select Series USB Type-C to 3x USB Type-A 3.0, Gigabit Ethernet, and USB-C (F) Adapter",
-            "price": 30.99,
+            "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=15250",
             "product_id": 15250,
             "available": true,
@@ -7754,7 +7754,7 @@
             "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=15718",
             "product_id": 15718,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 10
         },
@@ -8017,7 +8017,7 @@
             "product_id": 15875,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 33
+            "num_reviews": 34
         },
         "15876": {
             "name": "Monoprice 6-Outlet Rotating Wall Tap Surge Protector, 2160 Joules, Clamping Voltage 500V",
@@ -9322,7 +9322,7 @@
             "product_id": 18514,
             "available": false,
             "rating": 4.3,
-            "num_reviews": 58
+            "num_reviews": 59
         },
         "18519": {
             "name": "Netis 9-Port Fast Ethernet PoE Switch/ 4-Port PoE/ 802.3at/af 60W",
@@ -45255,6 +45255,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-20T02:35:25Z"
+        "timestamp": "2023-04-20T03:19:39Z"
     }
 }
