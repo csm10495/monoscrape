@@ -10420,7 +10420,7 @@
             "product_id": 21591,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 200
+            "num_reviews": 201
         },
         "21594": {
             "name": "Strata Home by Monoprice Sous Vide Immersion Cooker 800W",
@@ -10474,7 +10474,7 @@
             "product_id": 21605,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 48
+            "num_reviews": 49
         },
         "21606": {
             "name": "Monoprice Table Top for Sit-Stand Height-Adjustable Desk, 6ft White",
@@ -12084,8 +12084,8 @@
             "url": "https://www.monoprice.com/product?p_id=24273",
             "product_id": 24273,
             "available": true,
-            "rating": 4,
-            "num_reviews": 29
+            "rating": 4.1,
+            "num_reviews": 30
         },
         "24274": {
             "name": "Monoprice Select Series USB-C to Mini DisplayPort \u0026 USB-C (F) Dual Port Adapter",
@@ -12688,7 +12688,7 @@
             "product_id": 24411,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 494
+            "num_reviews": 495
         },
         "24416": {
             "name": "Monoprice Cat6A 100ft Black Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -13852,7 +13852,7 @@
             "num_reviews": 67
         },
         "27469": {
-            "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, S/STP, Pure Bare Copper Wire, 36AWG, 3ft, White",
+            "name": "Monoprice Cat6A 3ft White Patch Cable, Double Shielded (S/FTP), 36AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
             "price": 2.61,
             "url": "https://www.monoprice.com/product?p_id=27469",
             "product_id": 27469,
@@ -45255,6 +45255,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-20T21:17:44Z"
+        "timestamp": "2023-04-20T22:18:28Z"
     }
 }
