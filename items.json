@@ -203,7 +203,7 @@
             "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=10319",
             "product_id": 10319,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 10
         },
@@ -320,7 +320,7 @@
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=10473",
             "product_id": 10473,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 77
         },
@@ -377,6 +377,15 @@
             "available": false,
             "rating": 4.3,
             "num_reviews": 25
+        },
+        "10496": {
+            "name": "Monoprice Stud Finder - Wood, Metal, Copper, and Electrical Conductor Finder",
+            "price": 15.24,
+            "url": "https://www.monoprice.com/product?p_id=10496",
+            "product_id": 10496,
+            "available": true,
+            "rating": 3.6,
+            "num_reviews": 5
         },
         "10522": {
             "name": "Monoprice MHD Action Camera Skin, 3pack Blue",
@@ -464,7 +473,7 @@
             "price": 89.99,
             "url": "https://www.monoprice.com/product?p_id=10621",
             "product_id": 10621,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 65
         },
@@ -995,7 +1004,7 @@
             "price": 0.99,
             "url": "https://www.monoprice.com/product?p_id=11261",
             "product_id": 11261,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 460
         },
@@ -1832,7 +1841,7 @@
             "price": 209.99,
             "url": "https://www.monoprice.com/product?p_id=11437",
             "product_id": 11437,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 8
         },
@@ -3443,7 +3452,7 @@
             "price": 1.29,
             "url": "https://www.monoprice.com/product?p_id=13219",
             "product_id": 13219,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 165
         },
@@ -3551,7 +3560,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=13249",
             "product_id": 13249,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 165
         },
@@ -3632,7 +3641,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=13268",
             "product_id": 13268,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 165
         },
@@ -4019,7 +4028,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=13411",
             "product_id": 13411,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 165
         },
@@ -4145,7 +4154,7 @@
             "price": 2.29,
             "url": "https://www.monoprice.com/product?p_id=13512",
             "product_id": 13512,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -4752,15 +4761,6 @@
             "rating": 4.5,
             "num_reviews": 60
         },
-        "13671": {
-            "name": "Monoprice Cat6 Ethernet Bulk Cable - Stranded, 550MHz, UTP, CM, Pure Bare Copper Wire, 24AWG, 500ft, White",
-            "price": 89.99,
-            "url": "https://www.monoprice.com/product?p_id=13671",
-            "product_id": 13671,
-            "available": false,
-            "rating": 4.5,
-            "num_reviews": 60
-        },
         "13672": {
             "name": "Monoprice Cat6 250ft Blue CM UL Bulk Cable, Stranded (w/spine), UTP, 23AWG, 550MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
             "price": 49.99,
@@ -4847,7 +4847,7 @@
             "price": 119.99,
             "url": "https://www.monoprice.com/product?p_id=13683",
             "product_id": 13683,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 78
         },
@@ -4856,7 +4856,7 @@
             "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=13684",
             "product_id": 13684,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 78
         },
@@ -5434,7 +5434,7 @@
             "product_id": 13801,
             "available": true,
             "rating": 4,
-            "num_reviews": 588
+            "num_reviews": 589
         },
         "13815": {
             "name": "Monoprice Dual Monitor Free Standing Adjustable Desk Mount for Monitors 15~30in",
@@ -5504,7 +5504,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=13839",
             "product_id": 13839,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 17
         },
@@ -6082,7 +6082,7 @@
             "product_id": 14566,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 121
+            "num_reviews": 122
         },
         "14567": {
             "name": "Monoprice Premium Select 8in 200-Watt Subwoofer",
@@ -6191,6 +6191,15 @@
             "available": true,
             "rating": 4.5,
             "num_reviews": 60
+        },
+        "14771": {
+            "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Green, (UL)",
+            "price": 39.99,
+            "url": "https://www.monoprice.com/product?p_id=14771",
+            "product_id": 14771,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 91
         },
         "14772": {
             "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Orange, (UL)",
@@ -6539,7 +6548,7 @@
             "price": 229.99,
             "url": "https://www.monoprice.com/product?p_id=14886",
             "product_id": 14886,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 27
         },
@@ -6836,7 +6845,7 @@
             "price": 18.99,
             "url": "https://www.monoprice.com/product?p_id=15153",
             "product_id": 15153,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 519
         },
@@ -6989,7 +6998,7 @@
             "price": 33.99,
             "url": "https://www.monoprice.com/product?p_id=15170",
             "product_id": 15170,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 519
         },
@@ -7386,8 +7395,8 @@
             "url": "https://www.monoprice.com/product?p_id=15524",
             "product_id": 15524,
             "available": true,
-            "rating": 4.4,
-            "num_reviews": 8
+            "rating": 4,
+            "num_reviews": 9
         },
         "15525": {
             "name": "Workstream by Monoprice Dual-Monitor Adjustable Gas-Spring Desk Mount for 15~34in Monitors",
@@ -8357,9 +8366,9 @@
             "price": 255.49,
             "url": "https://www.monoprice.com/product?p_id=16077",
             "product_id": 16077,
-            "available": true,
+            "available": false,
             "rating": 4.9,
-            "num_reviews": 1847
+            "num_reviews": 1848
         },
         "16079": {
             "name": "Monoprice Access Series 16AWG CL2 Rated 2-Conductor Speaker Wire, 1000ft, White",
@@ -8690,7 +8699,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=16184",
             "product_id": 16184,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 60
         },
@@ -8717,7 +8726,7 @@
             "price": 38.67,
             "url": "https://www.monoprice.com/product?p_id=16187",
             "product_id": 16187,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 60
         },
@@ -8789,7 +8798,7 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=16245",
             "product_id": 16245,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 94
         },
@@ -9311,7 +9320,7 @@
             "price": 139.99,
             "url": "https://www.monoprice.com/product?p_id=18513",
             "product_id": 18513,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 59
         },
@@ -45246,6 +45255,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-20T20:22:05Z"
+        "timestamp": "2023-04-20T21:17:44Z"
     }
 }
