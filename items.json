@@ -3403,7 +3403,7 @@
             "num_reviews": 10
         },
         "132": {
-            "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 3ft, Gray",
+            "name": "Monoprice Cat5e 3ft Gray Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 1.26,
             "url": "https://www.monoprice.com/product?p_id=132",
             "product_id": 132,
@@ -7916,7 +7916,7 @@
             "price": 17.99,
             "url": "https://www.monoprice.com/product?p_id=1586",
             "product_id": 1586,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 10
         },
@@ -9991,11 +9991,11 @@
             "num_reviews": 3040
         },
         "2124": {
-            "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 1ft, Gray",
+            "name": "Monoprice Cat5e 1ft Gray Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 1.09,
             "url": "https://www.monoprice.com/product?p_id=2124",
             "product_id": 2124,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3040
         },
@@ -11372,7 +11372,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=2299",
             "product_id": 2299,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -11588,7 +11588,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=2324",
             "product_id": 2324,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -14702,7 +14702,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=2865",
             "product_id": 2865,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 1298
         },
@@ -28573,7 +28573,7 @@
             "product_id": 4042,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1847
+            "num_reviews": 1848
         },
         "40424": {
             "name": "Monoprice 4K UltraFlex Small Diameter High Speed HDMI Female to Mini HDMI Male Passive Cable - 4K@60Hz 18Gbps 40AWG, 6in Black",
@@ -36824,7 +36824,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=4629",
             "product_id": 4629,
-            "available": true,
+            "available": false,
             "rating": 3.8,
             "num_reviews": 117
         },
@@ -36968,7 +36968,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=4763",
             "product_id": 4763,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 290
         },
@@ -37348,7 +37348,7 @@
             "product_id": 4860,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 128
+            "num_reviews": 129
         },
         "4867": {
             "name": "Monoprice USB Type-A to Micro Type-B 2.0 Cable - 5-Pin, 28/28AWG, Black, 3ft",
@@ -38482,7 +38482,7 @@
             "product_id": 5441,
             "available": true,
             "rating": 5,
-            "num_reviews": 321
+            "num_reviews": 322
         },
         "5442": {
             "name": "Monoprice USB-A to USB-A 2.0 Cable - 28/24AWG, Gold Plated, Black, 3ft",
@@ -38644,7 +38644,7 @@
             "product_id": 5495,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 407
+            "num_reviews": 409
         },
         "5496": {
             "name": "Monoprice 6ft Premier Series 1/4in TS Male to Male Audio Cable, 16AWG (Gold Plated)",
@@ -38671,7 +38671,7 @@
             "product_id": 5498,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 408
+            "num_reviews": 409
         },
         "5499": {
             "name": "Monoprice 25ft Premier Series 1/4in TS Male to Male Audio Cable, 16AWG (Gold Plated)",
@@ -38680,7 +38680,7 @@
             "product_id": 5499,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 408
+            "num_reviews": 409
         },
         "5500": {
             "name": "Monoprice 35ft Premier Series 1/4in TS Male to Male Audio Cable, 16AWG (Gold Plated)",
@@ -38770,7 +38770,7 @@
             "product_id": 5579,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 1087
+            "num_reviews": 1088
         },
         "558": {
             "name": "Monoprice 10ft Super VGA HD15 M/M CL2 Rated Cable w/ Stereo Audio and Triple Shielding (Gold Plated)",
@@ -39042,6 +39042,15 @@
             "rating": 4.2,
             "num_reviews": 369
         },
+        "5766": {
+            "name": "Monoprice Cable Tie 8in 40 lbs, 100 pcs/pack, Green",
+            "price": 1.79,
+            "url": "https://www.monoprice.com/product?p_id=5766",
+            "product_id": 5766,
+            "available": true,
+            "rating": 4.2,
+            "num_reviews": 369
+        },
         "5767": {
             "name": "Monoprice Cable Tie 11in 50 lbs, 100 pcs/pack, Black",
             "price": 2.49,
@@ -39056,7 +39065,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=5773",
             "product_id": 5773,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 369
         },
@@ -39111,8 +39120,8 @@
             "url": "https://www.monoprice.com/product?p_id=5801",
             "product_id": 5801,
             "available": true,
-            "rating": 4.7,
-            "num_reviews": 67
+            "rating": 4.8,
+            "num_reviews": 68
         },
         "5828": {
             "name": "Monoprice Hook and Loop Fastening Tape, 5 yards/roll, 0.75in, Black",
@@ -40059,6 +40068,15 @@
             "rating": 5,
             "num_reviews": 6
         },
+        "6394": {
+            "name": "Monoprice OM3 Fiber Optic Cable - LC/SC, UL, 50/125 Type, Multi-Mode, 10GB, Aqua,10m, Corning",
+            "price": 7.49,
+            "url": "https://www.monoprice.com/product?p_id=6394",
+            "product_id": 6394,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 6
+        },
         "6395": {
             "name": "Monoprice OM3 Fiber Optic Cable - LC/ST, UL, 50/125 Type, Multi-Mode, 10GB, Aqua, 1m, Corning",
             "price": 2.39,
@@ -40127,7 +40145,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=6429",
             "product_id": 6429,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 24
         },
@@ -40253,7 +40271,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=647",
             "product_id": 647,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 926
         },
@@ -40282,7 +40300,7 @@
             "product_id": 648,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 873
+            "num_reviews": 874
         },
         "6483": {
             "name": "Monoprice Hook and Loop Fastening Cable Ties, 9in, 100 pcs/pack, Black",
@@ -40559,7 +40577,7 @@
             "price": 1.19,
             "url": "https://www.monoprice.com/product?p_id=659",
             "product_id": 659,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 143
         },
@@ -40982,7 +41000,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=6985",
             "product_id": 6985,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 65
         },
@@ -41720,7 +41738,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=7304",
             "product_id": 7304,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 131
         },
@@ -42584,7 +42602,7 @@
             "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=8147",
             "product_id": 8147,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 275
         },
@@ -42791,7 +42809,7 @@
             "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=8247",
             "product_id": 8247,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 259
         },
@@ -45228,6 +45246,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-20T19:19:16Z"
+        "timestamp": "2023-04-20T20:22:05Z"
     }
 }
