@@ -28355,7 +28355,7 @@
             "price": 38.99,
             "url": "https://www.monoprice.com/product?p_id=40293",
             "product_id": 40293,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -30768,8 +30768,8 @@
             "url": "https://www.monoprice.com/product?p_id=41731",
             "product_id": 41731,
             "available": false,
-            "rating": 4.3,
-            "num_reviews": 87
+            "rating": 4.2,
+            "num_reviews": 89
         },
         "41732": {
             "name": "STITCH by Monoprice Mini Wi-Fi 10A Outlet, Works with Alexa and Google Home for Touchless Voice Control, No Hub Required, ETL Certified (4-Pack)",
@@ -31118,7 +31118,7 @@
             "price": 47.39,
             "url": "https://www.monoprice.com/product?p_id=41944",
             "product_id": 41944,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 2
         },
@@ -31223,7 +31223,7 @@
         },
         "41990": {
             "name": "Monoprice USB-C Charger, 30W 1-port PD GaN Technology Foldable Wall Charger White, Power Delivery for MacBook Pro/Air, iPad Pro, iPhone 12/11/Pro/Max/XR/XS/X, Pixel, Galaxy, and More",
-            "price": 21.49,
+            "price": 21.99,
             "url": "https://www.monoprice.com/product?p_id=41990",
             "product_id": 41990,
             "available": true,
@@ -31460,7 +31460,7 @@
             "price": 1.13,
             "url": "https://www.monoprice.com/product?p_id=42059",
             "product_id": 42059,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 304
         },
@@ -33098,7 +33098,7 @@
             "price": 197.99,
             "url": "https://www.monoprice.com/product?p_id=42891",
             "product_id": 42891,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 19
         },
@@ -34684,7 +34684,7 @@
             "product_id": 43329,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 23
+            "num_reviews": 24
         },
         "43331": {
             "name": "Monoprice 4K SlimRun AV High Speed HDMI Cable 15m, 49ft - AOC 18Gbps Black",
@@ -45246,6 +45246,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-20T05:18:10Z"
+        "timestamp": "2023-04-20T06:23:25Z"
     }
 }
