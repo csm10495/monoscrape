@@ -17323,7 +17323,7 @@
             "product_id": 33304,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 71
+            "num_reviews": 72
         },
         "33305": {
             "name": "Monolith by Monoprice Liquid Platinum Balanced Headphone Amplifier by Alex Cavalli",
@@ -17546,7 +17546,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=33545",
             "product_id": 33545,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 1
         },
@@ -17674,7 +17674,7 @@
             "product_id": 33599,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13602
+            "num_reviews": 13603
         },
         "33603": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A/1250W, 125V, 3-Prong, Green, 6ft",
@@ -18554,7 +18554,7 @@
             "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=33886",
             "product_id": 33886,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -19926,24 +19926,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "34578": {
-            "name": "MP10 300x300mm Build Plate 3d Printer UK",
-            "price": 499.99,
-            "url": "https://www.monoprice.com/product?p_id=34578",
-            "product_id": 34578,
-            "available": true,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "34580": {
-            "name": "MP10 Mini 200x200mm Build Plate 3d Printer UK",
-            "price": 299.99,
-            "url": "https://www.monoprice.com/product?p_id=34580",
-            "product_id": 34580,
-            "available": true,
-            "rating": 5,
-            "num_reviews": 1
-        },
         "34597": {
             "name": "Monoprice MP Rapid UV 3D Printer Resin, 500ml, Black",
             "price": 14.03,
@@ -21013,7 +20995,7 @@
             "product_id": 35124,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 58
+            "num_reviews": 59
         },
         "35125": {
             "name": "Monoprice MP-C65RT Center Channel Speaker with Ribbon Tweeter",
@@ -21812,7 +21794,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=36208",
             "product_id": 36208,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 14
         },
@@ -22552,7 +22534,7 @@
             "product_id": 37883,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 34
+            "num_reviews": 35
         },
         "37884": {
             "name": "Pure Outdoor by Monoprice Giant Tumbling Tower Game",
@@ -22877,15 +22859,6 @@
             "available": true,
             "rating": 4.8,
             "num_reviews": 9
-        },
-        "38116": {
-            "name": "Monoprice MP Mini SLA LCD High Resolution Resin 3D Printer EU/UK",
-            "price": 299.99,
-            "url": "https://www.monoprice.com/product?p_id=38116",
-            "product_id": 38116,
-            "available": true,
-            "rating": 0,
-            "num_reviews": 0
         },
         "38125": {
             "name": "Pure Outdoor Lightweight Titanium 3-Piece Cutlery Camping Utensils Set",
@@ -23792,7 +23765,7 @@
             "price": 2499.99,
             "url": "https://www.monoprice.com/product?p_id=38543",
             "product_id": 38543,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 19
         },
@@ -24316,7 +24289,7 @@
             "product_id": 38800,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 74
+            "num_reviews": 77
         },
         "38801": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 6ft, Blue",
@@ -24505,7 +24478,7 @@
             "product_id": 38825,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 76
+            "num_reviews": 77
         },
         "38826": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 6ft, Black, 3-Pack",
@@ -24514,7 +24487,7 @@
             "product_id": 38826,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 76
+            "num_reviews": 77
         },
         "38827": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 3ft, White, 3-Pack",
@@ -25101,6 +25074,15 @@
             "rating": 4.8,
             "num_reviews": 424
         },
+        "38960": {
+            "name": "Monolith by Monoprice 7x200 Watts Per Channel Multi-Channel Home Theater Power Amplifier - No XLR Inputs - Refurbished/B-Stock",
+            "price": 1299,
+            "url": "https://www.monoprice.com/product?p_id=38960",
+            "product_id": 38960,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "38965": {
             "name": "Monolith by Monoprice Liquid Spark DAC by Alex Cavalli (AKM4493)",
             "price": 99.99,
@@ -25558,7 +25540,7 @@
             "product_id": 39168,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 20
+            "num_reviews": 21
         },
         "39169": {
             "name": "Monolith by Monoprice 28in Speaker Stands, Cherry (Each)",
@@ -25765,7 +25747,7 @@
             "product_id": 39305,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 26
+            "num_reviews": 27
         },
         "39324": {
             "name": "Dark Matter by Monoprice Launch Gaming Mouse Pad - Premium Cloth, Stitched Edges, 450x400mm",
@@ -25775,6 +25757,15 @@
             "available": true,
             "rating": 4.3,
             "num_reviews": 10
+        },
+        "39327": {
+            "name": "Monolith by Monoprice MM-3 Powered Multimedia Speakers with Bluetooth with aptX (Pair), Black (Open Box)",
+            "price": 119,
+            "url": "https://www.monoprice.com/product?p_id=39327",
+            "product_id": 39327,
+            "available": true,
+            "rating": 3,
+            "num_reviews": 1
         },
         "39357": {
             "name": "Monoprice HT-35 Premium 5.1-Channel Home Theater System with Powered Subwoofer, Charcoal",
@@ -25909,7 +25900,7 @@
             "product_id": 39414,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 22
+            "num_reviews": 23
         },
         "39416": {
             "name": "Monolith by Monoprice M1570 Over Ear Open Back Balanced Planar Headphones",
@@ -26303,7 +26294,7 @@
             "price": 44.99,
             "url": "https://www.monoprice.com/product?p_id=39525",
             "product_id": 39525,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 310
         },
@@ -45255,6 +45246,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-20T22:18:28Z"
+        "timestamp": "2023-04-20T23:19:08Z"
     }
 }
