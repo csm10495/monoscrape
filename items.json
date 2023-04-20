@@ -12983,7 +12983,7 @@
             "price": 246.99,
             "url": "https://www.monoprice.com/product?p_id=31027",
             "product_id": 31027,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 59
         },
@@ -13412,7 +13412,7 @@
         },
         "31231": {
             "name": "Monoprice 8K Ultra High Speed HDMI Cable 6ft - 48Gbps Black",
-            "price": 12.99,
+            "price": 6.49,
             "url": "https://www.monoprice.com/product?p_id=31231",
             "product_id": 31231,
             "available": true,
@@ -21454,7 +21454,7 @@
             "product_id": 38848,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 57
+            "num_reviews": 58
         },
         "38849": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 3A/60W, 1.5ft, Red",
@@ -21472,7 +21472,7 @@
             "product_id": 38850,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 57
+            "num_reviews": 58
         },
         "38851": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 3A/60W, 6ft, Red",
@@ -42042,6 +42042,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-20T10:37:15Z"
+        "timestamp": "2023-04-20T11:18:07Z"
     }
 }
