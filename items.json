@@ -23704,7 +23704,7 @@
             "product_id": 3846,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1845
+            "num_reviews": 1848
         },
         "3850": {
             "name": "Monoprice HDMI® Port Saver (Male to Female) - 270 Degree",
@@ -26080,7 +26080,7 @@
             "product_id": 3949,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13602
+            "num_reviews": 13603
         },
         "39490": {
             "name": "Monoprice Universal Soundbar Wall Mount Bracket Aluminum Mount for Mounting Sound Bar Above or Under TV Fits Most of Sound Bars up to 33 LBS",
@@ -37231,7 +37231,7 @@
             "product_id": 4794,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 421
+            "num_reviews": 422
         },
         "4795": {
             "name": "Monoprice 15ft Premier Series 1/4in TRS Male to Male Cable, 16AWG (Gold Plated)",
@@ -42946,7 +42946,7 @@
             "product_id": 8533,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 116
+            "num_reviews": 117
         },
         "8534": {
             "name": "Monoprice 15ft MIDI Cable with 5 Pin DIN Plugs - Black",
@@ -43117,7 +43117,7 @@
             "product_id": 8610,
             "available": true,
             "rating": 5,
-            "num_reviews": 321
+            "num_reviews": 322
         },
         "8611": {
             "name": "Monoprice USB-A to USB-A 2.0 Cable - 28/24AWG, Gold Plated, White, 6ft",
@@ -45246,6 +45246,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-21T08:22:11Z"
+        "timestamp": "2023-04-21T09:18:05Z"
     }
 }
