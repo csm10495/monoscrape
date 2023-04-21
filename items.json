@@ -16034,7 +16034,7 @@
             "price": 28.99,
             "url": "https://www.monoprice.com/product?p_id=30829",
             "product_id": 30829,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 52
         },
@@ -16277,6 +16277,15 @@
             "price": 2.44,
             "url": "https://www.monoprice.com/product?p_id=31073",
             "product_id": 31073,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 69
+        },
+        "31077": {
+            "name": "Monoprice Entegrade Series Cat8 24AWG S/FTP Ethernet Network Cable, 2GHz, 40G, 1ft Purple",
+            "price": 6.99,
+            "url": "https://www.monoprice.com/product?p_id=31077",
+            "product_id": 31077,
             "available": true,
             "rating": 4.9,
             "num_reviews": 69
@@ -16945,7 +16954,7 @@
             "product_id": 33048,
             "available": true,
             "rating": 3.9,
-            "num_reviews": 40
+            "num_reviews": 41
         },
         "33049": {
             "name": "STITCH by Monoprice Wireless Smart Door/Window Sensor; Works with Amazon Alexa and Google Assistant for Touchless Voice Control, No Hub Required (2-Pack)",
@@ -17520,8 +17529,8 @@
             "url": "https://www.monoprice.com/product?p_id=33536",
             "product_id": 33536,
             "available": true,
-            "rating": 4.6,
-            "num_reviews": 166
+            "rating": 4.7,
+            "num_reviews": 167
         },
         "3354": {
             "name": "Monoprice Universal Cable Jacket Stripper",
@@ -17564,16 +17573,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=33558",
             "product_id": 33558,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 353
-        },
-        "33559": {
-            "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A/1250W, 125V, 3-Prong, Green, 2ft",
-            "price": 1.49,
-            "url": "https://www.monoprice.com/product?p_id=33559",
-            "product_id": 33559,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 353
         },
@@ -18484,7 +18484,7 @@
             "product_id": 33879,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 211
+            "num_reviews": 213
         },
         "33880": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Gold",
@@ -18770,7 +18770,7 @@
             "price": 18.99,
             "url": "https://www.monoprice.com/product?p_id=34181",
             "product_id": 34181,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 5
         },
@@ -20223,6 +20223,15 @@
             "rating": 4.9,
             "num_reviews": 1458
         },
+        "34778": {
+            "name": "FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 15m, Black, 5 pack",
+            "price": 22.49,
+            "url": "https://www.monoprice.com/product?p_id=34778",
+            "product_id": 34778,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 1459
+        },
         "34779": {
             "name": "FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 15m, White, 5 pack",
             "price": 37.1,
@@ -20718,6 +20727,15 @@
             "rating": 5,
             "num_reviews": 42
         },
+        "35044": {
+            "name": "Monoprice Heavy Duty Extension Cord - IEC 60320 C14 to IEC 60320 C13, 14AWG, 15A/1875W, SJT, 100-250V, Black, 1ft",
+            "price": 0.99,
+            "url": "https://www.monoprice.com/product?p_id=35044",
+            "product_id": 35044,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 8
+        },
         "35046": {
             "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R, 14AWG, 15A/1875W, SJT, 125V, Black, 3ft",
             "price": 4.49,
@@ -20795,7 +20813,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=35059",
             "product_id": 35059,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -21587,7 +21605,7 @@
             "price": 32.99,
             "url": "https://www.monoprice.com/product?p_id=35940",
             "product_id": 35940,
-            "available": false,
+            "available": true,
             "rating": 1.7,
             "num_reviews": 3
         },
@@ -22316,7 +22334,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=36645",
             "product_id": 36645,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 4
         },
@@ -23630,7 +23648,7 @@
             "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=38401",
             "product_id": 38401,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 15
         },
@@ -24478,7 +24496,7 @@
             "product_id": 38826,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 77
+            "num_reviews": 78
         },
         "38827": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 3ft, White, 3-Pack",
@@ -24487,7 +24505,7 @@
             "product_id": 38827,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 75
+            "num_reviews": 77
         },
         "38828": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 6ft, White, 3-Pack",
@@ -24495,8 +24513,8 @@
             "url": "https://www.monoprice.com/product?p_id=38828",
             "product_id": 38828,
             "available": false,
-            "rating": 4.3,
-            "num_reviews": 78
+            "rating": 4.4,
+            "num_reviews": 77
         },
         "38831": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 3ft, Black, 3-Pack",
@@ -24629,7 +24647,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=38851",
             "product_id": 38851,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 57
         },
@@ -24649,7 +24667,7 @@
             "product_id": 38854,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 57
+            "num_reviews": 58
         },
         "38857": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 5A/100W, 1.5ft, White",
@@ -26700,8 +26718,8 @@
             "url": "https://www.monoprice.com/product?p_id=39631",
             "product_id": 39631,
             "available": true,
-            "rating": 4.5,
-            "num_reviews": 20
+            "rating": 4.4,
+            "num_reviews": 21
         },
         "39632": {
             "name": "Monoprice AtlasFlex Series Durable USB 3.2 Gen 2 Type-C Data \u0026 Power Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 1m, Blue",
@@ -26718,8 +26736,8 @@
             "url": "https://www.monoprice.com/product?p_id=39633",
             "product_id": 39633,
             "available": false,
-            "rating": 4.5,
-            "num_reviews": 20
+            "rating": 4.4,
+            "num_reviews": 21
         },
         "39635": {
             "name": "Monoprice AtlasFlex Series Durable USB 3.2 Gen 2 Type-C Data \u0026 Power Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 1m, White",
@@ -26960,7 +26978,7 @@
             "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=39666",
             "product_id": 39666,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 13
         },
@@ -27275,7 +27293,7 @@
             "price": 9.29,
             "url": "https://www.monoprice.com/product?p_id=39843",
             "product_id": 39843,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 163
         },
@@ -27581,7 +27599,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=39940",
             "product_id": 39940,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 3
         },
@@ -45237,6 +45255,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-21T17:18:08Z"
+        "timestamp": "2023-04-21T18:22:57Z"
     }
 }
