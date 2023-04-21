@@ -28683,15 +28683,6 @@
             "rating": 4.7,
             "num_reviews": 3
         },
-        "40517": {
-            "name": "Monoprice Entegrade Series 1000FT Cat6A Plus 650MHz UTP Solid, Riser-Rated (CMR), 23AWG, Bulk Bare Copper Ethernet Network Cable, 10G, White",
-            "price": 229.99,
-            "url": "https://www.monoprice.com/product?p_id=40517",
-            "product_id": 40517,
-            "available": true,
-            "rating": 4.7,
-            "num_reviews": 3
-        },
         "40520": {
             "name": "Pure Outdoor by Monoprice Large Ring Toss Game",
             "price": 19.98,
@@ -28967,7 +28958,7 @@
             "price": 109.99,
             "url": "https://www.monoprice.com/product?p_id=40789",
             "product_id": 40789,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 13
         },
@@ -32162,7 +32153,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=42519",
             "product_id": 42519,
-            "available": false,
+            "available": true,
             "rating": 4,
             "num_reviews": 23
         },
@@ -32605,7 +32596,7 @@
             "product_id": 42682,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 220
+            "num_reviews": 221
         },
         "42683": {
             "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 28AWG, 10ft, Black",
@@ -32795,6 +32786,15 @@
             "available": true,
             "rating": 4.6,
             "num_reviews": 7
+        },
+        "42771": {
+            "name": "Dark Matter by Monoprice 27in Gaming Monitor - 16:9, 1920x1080p, FHD, 165Hz",
+            "price": 149.99,
+            "url": "https://www.monoprice.com/product?p_id=42771",
+            "product_id": 42771,
+            "available": true,
+            "rating": 4.4,
+            "num_reviews": 9
         },
         "42772": {
             "name": "Dark Matter by Monoprice 34in Curved Ultrawide Gaming Monitor - 21:9, 3440x1440p, UWQHD, 144Hz, 1500R, VA",
@@ -34011,24 +34011,6 @@
             "rating": 4.8,
             "num_reviews": 10
         },
-        "43170": {
-            "name": "Blackbird 4K HDMI and USB 3.0 2x1 KVM Switch, 4K@60Hz, HDR, YCbCr 4:4:4, HDCP 2.2 (EU|UK Version)",
-            "price": 89.99,
-            "url": "https://www.monoprice.com/product?p_id=43170",
-            "product_id": 43170,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "43171": {
-            "name": "Blackbird 4K Displayport 1.4 USB 3.0 2x1 KVM Switch, 4K@60Hz, HDR, YCbCr 4:4:4, HDCP 2.2 (EU|UK Version)",
-            "price": 99.99,
-            "url": "https://www.monoprice.com/product?p_id=43171",
-            "product_id": 43171,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "43174": {
             "name": "Monoprice 32in 4K HDR IPS Ultra Slim Desktop Monitor, Gun Metal with Slim Bezel - (Open Box)",
             "price": 349.99,
@@ -34223,7 +34205,7 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=43205",
             "product_id": 43205,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 12
         },
@@ -34827,8 +34809,8 @@
             "url": "https://www.monoprice.com/product?p_id=43356",
             "product_id": 43356,
             "available": false,
-            "rating": 5,
-            "num_reviews": 5
+            "rating": 4.3,
+            "num_reviews": 6
         },
         "43357": {
             "name": "Pure Outdoor by Monoprice Curved Leveling Kit",
@@ -35501,7 +35483,7 @@
             "price": 169.99,
             "url": "https://www.monoprice.com/product?p_id=43702",
             "product_id": 43702,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 15
         },
@@ -36186,8 +36168,8 @@
             "url": "https://www.monoprice.com/product?p_id=44334",
             "product_id": 44334,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 5,
+            "num_reviews": 1
         },
         "44335": {
             "name": "Monoprice Access Series 14AWG CL3 Rated 4-Conductor Speaker Wire  250ft  White",
@@ -36657,11 +36639,29 @@
             "rating": 4.9,
             "num_reviews": 519
         },
+        "44575": {
+            "name": "Monolith by Monoprice M-12 V2 12in THX Certified Ultra 500-Watt Powered Subwoofer, Piano Black Finish (Open Box)",
+            "price": 949.99,
+            "url": "https://www.monoprice.com/product?p_id=44575",
+            "product_id": 44575,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "44577": {
             "name": "Monolith by Monoprice 16in THX Certified Ultra 2000-Watt Powered Subwoofer (Matte Black/Painted) (Open Box)",
             "price": 1494.99,
             "url": "https://www.monoprice.com/product?p_id=44577",
             "product_id": 44577,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "44585": {
+            "name": "Monolith by Monoprice M-10 V2 10in THX Certified Select 500 Watt Powered Subwoofer (Open Box)",
+            "price": 649.99,
+            "url": "https://www.monoprice.com/product?p_id=44585",
+            "product_id": 44585,
             "available": true,
             "rating": 0,
             "num_reviews": 0
@@ -45246,6 +45246,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-20T23:19:08Z"
+        "timestamp": "2023-04-21T01:19:28Z"
     }
 }
