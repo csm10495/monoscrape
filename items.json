@@ -27797,7 +27797,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=40069",
             "product_id": 40069,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 8
         },
@@ -28103,7 +28103,7 @@
             "price": 7.49,
             "url": "https://www.monoprice.com/product?p_id=40129",
             "product_id": 40129,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -29025,6 +29025,15 @@
             "rating": 4.1,
             "num_reviews": 90
         },
+        "40879": {
+            "name": "Monoprice FLEXboot Flat Cat6 Ethernet Patch Cable - Snagless RJ45, Flat, 550MHz, UTP, Pure Bare Copper Wire, 30AWG, 0.5ft, Black",
+            "price": 0.74,
+            "url": "https://www.monoprice.com/product?p_id=40879",
+            "product_id": 40879,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 56
+        },
         "40880": {
             "name": "Monoprice Cat6 1ft Black Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series  Ethernet Cable",
             "price": 1.39,
@@ -29075,7 +29084,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=40885",
             "product_id": 40885,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 56
         },
@@ -29085,15 +29094,6 @@
             "url": "https://www.monoprice.com/product?p_id=40886",
             "product_id": 40886,
             "available": true,
-            "rating": 4.7,
-            "num_reviews": 56
-        },
-        "40887": {
-            "name": "Monoprice FLEXboot Flat Cat6 Ethernet Patch Cable - Snagless RJ45, Flat, 550MHz, UTP, Pure Bare Copper Wire, 30AWG, 20ft, Black",
-            "price": 4.49,
-            "url": "https://www.monoprice.com/product?p_id=40887",
-            "product_id": 40887,
-            "available": false,
             "rating": 4.7,
             "num_reviews": 56
         },
@@ -29300,7 +29300,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=41023",
             "product_id": 41023,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 36
         },
@@ -29959,7 +29959,7 @@
             "product_id": 41374,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1848
         },
         "41375": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 2-Conductor Speaker Wire, 50ft, Black",
@@ -30049,7 +30049,7 @@
             "product_id": 41384,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1846
+            "num_reviews": 1848
         },
         "41385": {
             "name": "Monoprice Access Series 12AWG CL2 Rated 4-Conductor Speaker Wire, 250ft, Black",
@@ -30373,7 +30373,7 @@
             "product_id": 41500,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 99
+            "num_reviews": 100
         },
         "41523": {
             "name": "Sports Speed Chute for Training and Resistance Running - Black",
@@ -30742,7 +30742,7 @@
             "product_id": 41732,
             "available": false,
             "rating": 4.2,
-            "num_reviews": 90
+            "num_reviews": 89
         },
         "41738": {
             "name": "8 pack Hand Sanitizer Spray 1.5oz 45ML 75% Alcohol Lemon Scented Hand Cleanser Spray non-gel",
@@ -30866,7 +30866,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=41812",
             "product_id": 41812,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1458
         },
@@ -30922,7 +30922,7 @@
             "product_id": 41818,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1459
         },
         "41819": {
             "name": "Monoprice Cat6 5ft Blue 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -31686,8 +31686,8 @@
             "url": "https://www.monoprice.com/product?p_id=42153",
             "product_id": 42153,
             "available": true,
-            "rating": 5,
-            "num_reviews": 3
+            "rating": 4,
+            "num_reviews": 4
         },
         "42154": {
             "name": "Flat Adhesive Super Slim Speaker Wire - Two 16AWG Conductors, 50ft",
@@ -32964,8 +32964,8 @@
             "url": "https://www.monoprice.com/product?p_id=42841",
             "product_id": 42841,
             "available": true,
-            "rating": 4.5,
-            "num_reviews": 9
+            "rating": 4.6,
+            "num_reviews": 11
         },
         "42842": {
             "name": "Monolith by Monoprice 32in Cherry Wood Speaker Stand with Adjustable Top Plate, Cherry (Each)",
@@ -33350,7 +33350,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=42984",
             "product_id": 42984,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 5
         },
@@ -33926,7 +33926,7 @@
             "price": 106.24,
             "url": "https://www.monoprice.com/product?p_id=43156",
             "product_id": 43156,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -34080,6 +34080,15 @@
             "url": "https://www.monoprice.com/product?p_id=43183",
             "product_id": 43183,
             "available": false,
+            "rating": 4.9,
+            "num_reviews": 304
+        },
+        "43184": {
+            "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 14AWG, 15A, 3-Prong, White, 3ft",
+            "price": 3.99,
+            "url": "https://www.monoprice.com/product?p_id=43184",
+            "product_id": 43184,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 304
         },
@@ -34583,7 +34592,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=43303",
             "product_id": 43303,
-            "available": false,
+            "available": true,
             "rating": 1.8,
             "num_reviews": 14
         },
@@ -34709,7 +34718,7 @@
             "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=43341",
             "product_id": 43341,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1458
         },
@@ -34818,8 +34827,8 @@
             "url": "https://www.monoprice.com/product?p_id=43356",
             "product_id": 43356,
             "available": false,
-            "rating": 4.3,
-            "num_reviews": 6
+            "rating": 5,
+            "num_reviews": 5
         },
         "43357": {
             "name": "Pure Outdoor by Monoprice Curved Leveling Kit",
@@ -35053,7 +35062,7 @@
             "product_id": 43453,
             "available": false,
             "rating": 3.7,
-            "num_reviews": 19
+            "num_reviews": 20
         },
         "43462": {
             "name": "4Pack 4inch 27W Flood Round Pods Led Work Light Driving Fog Light Offroad Light for Tractor Off-Road SUV Boat Truck",
@@ -35114,7 +35123,7 @@
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=43526",
             "product_id": 43526,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 4
         },
@@ -35465,7 +35474,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=43672",
             "product_id": 43672,
-            "available": true,
+            "available": false,
             "rating": 4,
             "num_reviews": 3
         },
@@ -35573,7 +35582,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=43790",
             "product_id": 43790,
-            "available": false,
+            "available": true,
             "rating": 3.8,
             "num_reviews": 8
         },
@@ -36248,7 +36257,7 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=44345",
             "product_id": 44345,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -45255,6 +45264,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-21T18:22:57Z"
+        "timestamp": "2023-04-21T19:18:27Z"
     }
 }
