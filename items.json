@@ -11309,7 +11309,7 @@
             "price": 1.59,
             "url": "https://www.monoprice.com/product?p_id=2291",
             "product_id": 2291,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -28447,7 +28447,7 @@
             "product_id": 4038,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1847
+            "num_reviews": 1848
         },
         "4039": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 4-Conductor Speaker Wire, 100ft, White",
@@ -37247,7 +37247,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=4794",
             "product_id": 4794,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 422
         },
@@ -38363,7 +38363,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=5400",
             "product_id": 5400,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 79
         },
@@ -39092,7 +39092,7 @@
             "price": 1.79,
             "url": "https://www.monoprice.com/product?p_id=5774",
             "product_id": 5774,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 369
         },
@@ -39263,7 +39263,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=5902",
             "product_id": 5902,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 494
         },
@@ -39524,7 +39524,7 @@
             "price": 15.49,
             "url": "https://www.monoprice.com/product?p_id=6017",
             "product_id": 6017,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 262
         },
@@ -39796,7 +39796,7 @@
             "product_id": 6273,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 2358
+            "num_reviews": 2359
         },
         "6278": {
             "name": "Monoprice Universal Screen Cleaner (No logo) for LCD and Plasma TVs, all iPad, iPhone, Galaxy Tab, and Smartphones",
@@ -42496,7 +42496,7 @@
             "product_id": 8103,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 293
+            "num_reviews": 294
         },
         "8104": {
             "name": "Monoprice Cat6 1000ft Gray CMR UL Bulk Cable, Solid (w/spine), UTP, 23AWG, 550MHz, Pure Bare Copper, Reelex II Pull Box, Bulk Ethernet Cable",
@@ -42791,7 +42791,7 @@
             "price": 21.49,
             "url": "https://www.monoprice.com/product?p_id=8243",
             "product_id": 8243,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 130
         },
@@ -43090,7 +43090,7 @@
             "product_id": 8605,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1584
+            "num_reviews": 1585
         },
         "8606": {
             "name": "Monoprice USB Type-A to USB Type-A Female 2.0 Extension Cable - 28/24AWG, Gold Plated, White, 6ft",
@@ -43916,7 +43916,7 @@
             "price": 64.99,
             "url": "https://www.monoprice.com/product?p_id=9343",
             "product_id": 9343,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 21
         },
@@ -44213,7 +44213,7 @@
             "price": 299.99,
             "url": "https://www.monoprice.com/product?p_id=9483",
             "product_id": 9483,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 15
         },
@@ -45264,6 +45264,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-21T20:21:36Z"
+        "timestamp": "2023-04-21T21:17:15Z"
     }
 }
