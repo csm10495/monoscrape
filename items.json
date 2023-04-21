@@ -10411,7 +10411,7 @@
             "product_id": 21590,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 200
+            "num_reviews": 201
         },
         "21591": {
             "name": "Monoprice Sit-Stand Dual-Motor Height Adjustable Table Desk Frame, Electric, Gray",
@@ -10447,7 +10447,7 @@
             "product_id": 21602,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 48
+            "num_reviews": 49
         },
         "21603": {
             "name": "Monoprice Table Top for Sit-Stand Height-Adjustable Desk, 5ft Black",
@@ -10483,7 +10483,7 @@
             "product_id": 21606,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 48
+            "num_reviews": 49
         },
         "21607": {
             "name": "Monoprice USB Type-C to 4K HDMI, Single Link DVI, and VGA Passive Adapter, Black",
@@ -10886,7 +10886,7 @@
             "price": 17.99,
             "url": "https://www.monoprice.com/product?p_id=21820",
             "product_id": 21820,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 2002
         },
@@ -11032,7 +11032,7 @@
             "product_id": 21887,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 311
+            "num_reviews": 312
         },
         "21912": {
             "name": "Monoprice 1 Pair Right Angle 24k Gold Plated Banana Speaker Wire Cable Screw Plug Connectors",
@@ -12434,7 +12434,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=24359",
             "product_id": 24359,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 494
         },
@@ -12680,15 +12680,6 @@
             "available": true,
             "rating": 4.9,
             "num_reviews": 494
-        },
-        "24411": {
-            "name": "Monoprice Cat6A Ethernet Patch Cable - Snagless RJ45, 550MHz, STP, Pure Bare Copper Wire, 10G, 26AWG, 75ft, Red",
-            "price": 24.99,
-            "url": "https://www.monoprice.com/product?p_id=24411",
-            "product_id": 24411,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 495
         },
         "24416": {
             "name": "Monoprice Cat6A 100ft Black Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -14405,7 +14396,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=27917",
             "product_id": 27917,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 72
         },
@@ -45246,6 +45237,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-21T16:24:52Z"
+        "timestamp": "2023-04-21T17:18:08Z"
     }
 }
