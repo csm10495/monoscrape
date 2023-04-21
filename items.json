@@ -11041,7 +11041,7 @@
             "product_id": 21912,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 102
+            "num_reviews": 103
         },
         "21913": {
             "name": "Monoprice 2 Pair Right Angle 24k Gold Plated Banana Speaker Wire Cable Screw Plug Connectors",
@@ -13021,7 +13021,7 @@
             "product_id": 24587,
             "available": false,
             "rating": 4.2,
-            "num_reviews": 21
+            "num_reviews": 22
         },
         "24588": {
             "name": "Workstream by Monoprice Dual Monitor Adjustable Gas Spring Desk Mount, For Smaller Screens Up to 27in",
@@ -14906,7 +14906,7 @@
         },
         "29437": {
             "name": "Monoprice Cat6A 2ft Black 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 16.99,
+            "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=29437",
             "product_id": 29437,
             "available": true,
@@ -45246,6 +45246,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-21T10:19:27Z"
+        "timestamp": "2023-04-21T11:16:54Z"
     }
 }
