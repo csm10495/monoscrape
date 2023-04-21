@@ -29941,7 +29941,7 @@
             "product_id": 41373,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1845
+            "num_reviews": 1848
         },
         "41374": {
             "name": "Monoprice Access Series 12AWG CL2 Rated 2-Conductor Speaker Wire, 500ft, Black",
@@ -32605,7 +32605,7 @@
             "product_id": 42683,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 220
+            "num_reviews": 221
         },
         "42684": {
             "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 26AWG, 15ft, Black",
@@ -35573,7 +35573,7 @@
             "price": 29.74,
             "url": "https://www.monoprice.com/product?p_id=43791",
             "product_id": 43791,
-            "available": true,
+            "available": false,
             "rating": 3.9,
             "num_reviews": 9
         },
@@ -45246,6 +45246,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-21T06:23:29Z"
+        "timestamp": "2023-04-21T07:17:07Z"
     }
 }
