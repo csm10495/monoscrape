@@ -7925,7 +7925,7 @@
             "price": 17.99,
             "url": "https://www.monoprice.com/product?p_id=1586",
             "product_id": 1586,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 10
         },
@@ -10004,7 +10004,7 @@
             "price": 1.09,
             "url": "https://www.monoprice.com/product?p_id=2124",
             "product_id": 2124,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3040
         },
@@ -14684,7 +14684,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=2832",
             "product_id": 2832,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 2358
         },
@@ -18716,7 +18716,7 @@
             "price": 1.59,
             "url": "https://www.monoprice.com/product?p_id=3412",
             "product_id": 3412,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -19636,7 +19636,7 @@
             "product_id": 3448,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 2397
+            "num_reviews": 2398
         },
         "34482": {
             "name": "Blank Decor Insert, White",
@@ -28321,7 +28321,7 @@
             "product_id": 4029,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13602
+            "num_reviews": 13603
         },
         "40297": {
             "name": "2U Cabinet Front Cover Plate (19.09 x 3.50 x 0.47 in) - GSA Approved",
@@ -28645,7 +28645,7 @@
             "product_id": 4044,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1845
+            "num_reviews": 1848
         },
         "40440": {
             "name": "Rustic Torched Wood Tabletop Chalkboard with Legs/Vintage Wedding Table Sign/Small Kitchen Antique Wooden Frame (9.5” x 14” Inches)",
@@ -36284,7 +36284,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=444",
             "product_id": 444,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 45
         },
@@ -37463,7 +37463,7 @@
             "price": 0.79,
             "url": "https://www.monoprice.com/product?p_id=4974",
             "product_id": 4974,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3040
         },
@@ -39093,8 +39093,8 @@
             "url": "https://www.monoprice.com/product?p_id=5795",
             "product_id": 5795,
             "available": false,
-            "rating": 4.7,
-            "num_reviews": 67
+            "rating": 4.8,
+            "num_reviews": 68
         },
         "5797": {
             "name": "Monoprice Releasable Cable Tie 8in 50 lbs, 100 pcs/pack, Black",
@@ -39102,8 +39102,8 @@
             "url": "https://www.monoprice.com/product?p_id=5797",
             "product_id": 5797,
             "available": true,
-            "rating": 4.7,
-            "num_reviews": 67
+            "rating": 4.8,
+            "num_reviews": 68
         },
         "5799": {
             "name": "Monoprice Releasable Cable Tie 10in 50 lbs, 100 pcs/pack, Black",
@@ -39111,8 +39111,8 @@
             "url": "https://www.monoprice.com/product?p_id=5799",
             "product_id": 5799,
             "available": true,
-            "rating": 4.7,
-            "num_reviews": 67
+            "rating": 4.8,
+            "num_reviews": 68
         },
         "5801": {
             "name": "Monoprice Releasable Cable Tie 12in 50 lbs, 100 pcs/pack, Black",
@@ -40298,7 +40298,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=648",
             "product_id": 648,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 874
         },
@@ -41891,7 +41891,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=7505",
             "product_id": 7505,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -42964,7 +42964,7 @@
             "product_id": 8535,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 116
+            "num_reviews": 117
         },
         "8536": {
             "name": "Monoprice 25ft MIDI Cable with 5 Pin DIN Plugs - Black",
@@ -43126,7 +43126,7 @@
             "product_id": 8611,
             "available": true,
             "rating": 5,
-            "num_reviews": 321
+            "num_reviews": 322
         },
         "8612": {
             "name": "Monoprice USB-A to USB-A 2.0 Cable - 28/24AWG, Gold Plated, White, 10ft",
@@ -44663,7 +44663,7 @@
             "price": 1.79,
             "url": "https://www.monoprice.com/product?p_id=9810",
             "product_id": 9810,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1458
         },
@@ -45246,6 +45246,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-21T14:17:11Z"
+        "timestamp": "2023-04-21T15:19:16Z"
     }
 }
