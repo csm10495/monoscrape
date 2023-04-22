@@ -412,7 +412,7 @@
             "product_id": 10551,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 571
+            "num_reviews": 572
         },
         "10552": {
             "name": "Monoprice Premium 3D Printer Filament PLA 1.75mm 1kg/spool, White",
@@ -3515,7 +3515,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=13239",
             "product_id": 13239,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 165
         },
@@ -5263,7 +5263,7 @@
             "product_id": 13755,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 218
+            "num_reviews": 219
         },
         "13756": {
             "name": "Monoprice 4K Braided High Speed HDMI Cable 25ft - CL3 In Wall Rated 18Gbps Active Gray",
@@ -5335,7 +5335,7 @@
             "product_id": 13763,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 218
+            "num_reviews": 219
         },
         "13774": {
             "name": "Monoprice 4K No Logo High Speed HDMI Cable 1.5ft - CL2 In Wall Rated 18 Gbps Black",
@@ -5542,7 +5542,7 @@
             "product_id": 13921,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 659
+            "num_reviews": 660
         },
         "13922": {
             "name": "Monoprice Select Series USB-A to Micro B Cable, 2.4A, 22/30AWG, White, 3ft",
@@ -5605,7 +5605,7 @@
             "product_id": 13929,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 659
+            "num_reviews": 660
         },
         "13930": {
             "name": "Monoprice Select Series USB-A to Micro B Cable, 2.4A, 22/30AWG, Green, 6ft",
@@ -45237,6 +45237,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-22T04:22:01Z"
+        "timestamp": "2023-04-22T05:17:30Z"
     }
 }
