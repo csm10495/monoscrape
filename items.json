@@ -14110,7 +14110,7 @@
             "product_id": 2767,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 2397
+            "num_reviews": 2398
         },
         "27678": {
             "name": "Monolith by Monoprice 4 Tier Audio Stand (Black)",
@@ -19690,7 +19690,7 @@
             "product_id": 3449,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 2397
+            "num_reviews": 2398
         },
         "34491": {
             "name": "1-Gang Blank Wall Plate, White",
@@ -36887,7 +36887,7 @@
             "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=4753",
             "product_id": 4753,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 1354
         },
@@ -39130,7 +39130,7 @@
             "product_id": 5828,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 311
+            "num_reviews": 312
         },
         "5829": {
             "name": "Monoprice Hook and Loop Fastening Tape, 5 yards/roll, 0.75in, White",
@@ -39245,7 +39245,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=5902",
             "product_id": 5902,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 494
         },
@@ -43081,7 +43081,7 @@
             "product_id": 8606,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1584
+            "num_reviews": 1585
         },
         "8607": {
             "name": "Monoprice USB Type-A to USB Type-A Female 2.0 Extension Cable - 28/24AWG, Gold Plated, White, 10ft",
@@ -45246,6 +45246,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-22T15:18:09Z"
+        "timestamp": "2023-04-22T16:23:00Z"
     }
 }
