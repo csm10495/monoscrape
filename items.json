@@ -28024,7 +28024,7 @@
             "product_id": 40107,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 62
+            "num_reviews": 63
         },
         "40108": {
             "name": "MP Cadet 3D Printer",
@@ -29093,6 +29093,15 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=40886",
             "product_id": 40886,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 56
+        },
+        "40887": {
+            "name": "Monoprice FLEXboot Flat Cat6 Ethernet Patch Cable - Snagless RJ45, Flat, 550MHz, UTP, Pure Bare Copper Wire, 30AWG, 20ft, Black",
+            "price": 4.49,
+            "url": "https://www.monoprice.com/product?p_id=40887",
+            "product_id": 40887,
             "available": true,
             "rating": 4.7,
             "num_reviews": 56
@@ -34621,7 +34630,7 @@
             "product_id": 43326,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 23
+            "num_reviews": 24
         },
         "43327": {
             "name": "Monoprice SlimRun AV 8K Certified Ultra High Speed Active HDMI Cable, HDMI 2.1, AOC, 10m, 32ft",
@@ -45237,6 +45246,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-22T13:20:35Z"
+        "timestamp": "2023-04-22T14:15:55Z"
     }
 }
