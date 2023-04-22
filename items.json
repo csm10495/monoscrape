@@ -15404,7 +15404,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=30362",
             "product_id": 30362,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 5
         },
@@ -17366,7 +17366,7 @@
             "price": 95.99,
             "url": "https://www.monoprice.com/product?p_id=33393",
             "product_id": 33393,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 54
         },
@@ -20129,7 +20129,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=34665",
             "product_id": 34665,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 10
         },
@@ -21276,6 +21276,15 @@
             "rating": 4.8,
             "num_reviews": 17
         },
+        "35510": {
+            "name": "Monoprice Consul Series USB-C Travel Dock with HDMI, VGA, Gigabit Ethernet, 2-Port USB 3.0, SD/MicroSD Reader, USB-C 100W PD 3.0",
+            "price": 68.99,
+            "url": "https://www.monoprice.com/product?p_id=35510",
+            "product_id": 35510,
+            "available": true,
+            "rating": 4.2,
+            "num_reviews": 38
+        },
         "35519": {
             "name": "Monoprice All-in-One Portable Business Meeting Wide Angle USB Video Conference Camera Webcam, Mic, and Speaker, 1080p",
             "price": 124.99,
@@ -22415,7 +22424,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=36740",
             "product_id": 36740,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 33
         },
@@ -22631,7 +22640,7 @@
             "price": 399.99,
             "url": "https://www.monoprice.com/product?p_id=38035",
             "product_id": 38035,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 217
         },
@@ -23153,7 +23162,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=38274",
             "product_id": 38274,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 4
         },
@@ -24316,7 +24325,7 @@
             "product_id": 38802,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 75
+            "num_reviews": 78
         },
         "38803": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 1.5ft, Red",
@@ -24422,7 +24431,7 @@
             "price": 6.59,
             "url": "https://www.monoprice.com/product?p_id=38816",
             "product_id": 38816,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 75
         },
@@ -24460,7 +24469,7 @@
             "product_id": 38821,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 75
+            "num_reviews": 78
         },
         "38822": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 10ft, Red",
@@ -24584,7 +24593,7 @@
             "price": 9.98,
             "url": "https://www.monoprice.com/product?p_id=38844",
             "product_id": 38844,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 57
         },
@@ -24595,7 +24604,7 @@
             "product_id": 38845,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 57
+            "num_reviews": 58
         },
         "38846": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 3A/60W, 3ft, Blue",
@@ -25082,15 +25091,6 @@
             "available": true,
             "rating": 4.8,
             "num_reviews": 424
-        },
-        "38960": {
-            "name": "Monolith by Monoprice 7x200 Watts Per Channel Multi-Channel Home Theater Power Amplifier - No XLR Inputs - Refurbished/B-Stock",
-            "price": 1299,
-            "url": "https://www.monoprice.com/product?p_id=38960",
-            "product_id": 38960,
-            "available": true,
-            "rating": 0,
-            "num_reviews": 0
         },
         "38965": {
             "name": "Monolith by Monoprice Liquid Spark DAC by Alex Cavalli (AKM4493)",
@@ -26530,7 +26530,7 @@
             "product_id": 39551,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13602
+            "num_reviews": 13603
         },
         "39552": {
             "name": "Monoprice 4K High Speed HDMI Cable 10ft - 18Gbps Black - 3 Pack",
@@ -26548,7 +26548,7 @@
             "product_id": 39553,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13602
+            "num_reviews": 13603
         },
         "39554": {
             "name": "Monoprice 4K High Speed HDMI Cable 15ft - 18Gbps Black - 3 Pack",
@@ -26566,7 +26566,7 @@
             "product_id": 39555,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13602
+            "num_reviews": 13603
         },
         "39556": {
             "name": "Monoprice 4K High Speed HDMI Cable 25ft - 18Gbps Black - 3 Pack",
@@ -26809,7 +26809,7 @@
             "product_id": 39647,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 56
+            "num_reviews": 57
         },
         "39648": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C Charge \u0026 Sync Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 3ft, Blue",
@@ -26836,7 +26836,7 @@
             "product_id": 39650,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 56
+            "num_reviews": 57
         },
         "39651": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C Charge \u0026 Sync Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 3ft, Pink",
@@ -45264,6 +45264,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-21T23:18:24Z"
+        "timestamp": "2023-04-22T01:20:22Z"
     }
 }
