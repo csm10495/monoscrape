@@ -13822,7 +13822,7 @@
             "product_id": 31192,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 392
+            "num_reviews": 393
         },
         "31193": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Micro B to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft, Red",
@@ -15811,7 +15811,7 @@
             "product_id": 33875,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 211
+            "num_reviews": 214
         },
         "33877": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Red",
@@ -15901,7 +15901,7 @@
             "product_id": 33886,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 213
+            "num_reviews": 214
         },
         "33887": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 0.5kg/spool, Light Blue",
@@ -21796,7 +21796,7 @@
             "product_id": 38818,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 75
+            "num_reviews": 78
         },
         "38819": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 1.5ft, Red",
@@ -21814,7 +21814,7 @@
             "product_id": 38820,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 75
+            "num_reviews": 78
         },
         "38821": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 6ft, Red",
@@ -23416,7 +23416,7 @@
             "product_id": 39483,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 264
+            "num_reviews": 265
         },
         "39488": {
             "name": "Monoprice Adjustable 22 lb. Capacity Speaker Wall Mount Brackets (Pair) Black",
@@ -24883,7 +24883,7 @@
             "product_id": 39924,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1584
+            "num_reviews": 1585
         },
         "39925": {
             "name": "Monoprice USB Type-A to USB Type-A Female 2.0 Extension Cable - 28/24AWG Gold Plated Black 6ft, 3-Pack",
@@ -24892,7 +24892,7 @@
             "product_id": 39925,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1584
+            "num_reviews": 1585
         },
         "39926": {
             "name": "Monoprice USB Type-A to USB Type-A Female 2.0 Extension Cable - 28/24AWG Gold Plated Black 6ft, 5-Pack",
@@ -42591,6 +42591,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-22T06:40:24Z"
+        "timestamp": "2023-04-22T07:16:26Z"
     }
 }
