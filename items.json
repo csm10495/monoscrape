@@ -2444,7 +2444,7 @@
             "price": 18.59,
             "url": "https://www.monoprice.com/product?p_id=12298",
             "product_id": 12298,
-            "available": false,
+            "available": true,
             "rating": 3.6,
             "num_reviews": 79
         },
@@ -3290,7 +3290,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=13121",
             "product_id": 13121,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 127
         },
@@ -3650,7 +3650,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=13268",
             "product_id": 13268,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 165
         },
@@ -4775,7 +4775,7 @@
             "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=13672",
             "product_id": 13672,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 60
         },
@@ -5308,7 +5308,7 @@
             "product_id": 13760,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 218
+            "num_reviews": 219
         },
         "13761": {
             "name": "Monoprice 4K Braided High Speed HDMI Cable 60ft - CL3 In Wall Rated 18Gbps Active Gray",
@@ -5326,7 +5326,7 @@
             "product_id": 13762,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 218
+            "num_reviews": 219
         },
         "13763": {
             "name": "Monoprice 4K Braided High Speed HDMI Cable 100ft - CL3 In Wall Rated 18Gbps Active Gray",
@@ -5686,7 +5686,7 @@
             "product_id": 13938,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 659
+            "num_reviews": 660
         },
         "13939": {
             "name": "Monoprice Select Series USB-A to Micro B Cable, 2.4A, 22/30AWG, White, 15ft",
@@ -6594,8 +6594,8 @@
             "url": "https://www.monoprice.com/product?p_id=14908",
             "product_id": 14908,
             "available": true,
-            "rating": 4.5,
-            "num_reviews": 19
+            "rating": 4.4,
+            "num_reviews": 20
         },
         "14909": {
             "name": "Monoprice SuperSpeed 7-Port USB-C Hub, Gray",
@@ -9329,7 +9329,7 @@
             "price": 203.99,
             "url": "https://www.monoprice.com/product?p_id=18514",
             "product_id": 18514,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 59
         },
@@ -45246,6 +45246,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-22T16:23:00Z"
+        "timestamp": "2023-04-22T17:16:55Z"
     }
 }
