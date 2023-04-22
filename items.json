@@ -5227,7 +5227,7 @@
             "product_id": 13751,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 110
+            "num_reviews": 111
         },
         "13752": {
             "name": "Monoprice Select Series USB 3.0 Type-A to Micro Type-B Cable, Black, 1.5ft",
@@ -5281,7 +5281,7 @@
             "product_id": 13757,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 218
+            "num_reviews": 219
         },
         "13758": {
             "name": "Monoprice 4K Braided High Speed HDMI Cable 35ft - CL3 In Wall Rated 18Gbps Active Gray",
@@ -5623,7 +5623,7 @@
             "product_id": 13931,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 659
+            "num_reviews": 660
         },
         "13932": {
             "name": "Monoprice Select Series USB-A to Micro B Cable, 2.4A, 22/30AWG, Black, 10ft",
@@ -42591,6 +42591,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-22T10:18:23Z"
+        "timestamp": "2023-04-22T11:16:04Z"
     }
 }
