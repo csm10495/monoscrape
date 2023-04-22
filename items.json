@@ -29552,7 +29552,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=41094",
             "product_id": 41094,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 3
         },
@@ -29986,7 +29986,7 @@
             "product_id": 41377,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1847
+            "num_reviews": 1848
         },
         "41378": {
             "name": "Monoprice Access Series 16AWG CL2 Rated 2-Conductor Speaker Wire, 50ft, Black",
@@ -32632,7 +32632,7 @@
             "product_id": 42685,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 220
+            "num_reviews": 221
         },
         "42686": {
             "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 30AWG, 6ft, Black - 5 Pack",
@@ -32956,7 +32956,7 @@
             "product_id": 42840,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 11
+            "num_reviews": 12
         },
         "42841": {
             "name": "Monolith by Monoprice 28in Cherry Wood Speaker Stand with Adjustable Top Plate, Cherry (Each)",
@@ -34008,8 +34008,8 @@
             "url": "https://www.monoprice.com/product?p_id=43165",
             "product_id": 43165,
             "available": true,
-            "rating": 4.8,
-            "num_reviews": 10
+            "rating": 4.6,
+            "num_reviews": 13
         },
         "43166": {
             "name": "Monolith by Monoprice Double-Wide XL 3-Tier AV Stand, Maple",
@@ -34017,8 +34017,8 @@
             "url": "https://www.monoprice.com/product?p_id=43166",
             "product_id": 43166,
             "available": true,
-            "rating": 4.8,
-            "num_reviews": 10
+            "rating": 4.7,
+            "num_reviews": 11
         },
         "43174": {
             "name": "Monoprice 32in 4K HDR IPS Ultra Slim Desktop Monitor, Gun Metal with Slim Bezel - (Open Box)",
@@ -34028,24 +34028,6 @@
             "available": false,
             "rating": 4.8,
             "num_reviews": 10
-        },
-        "43177": {
-            "name": "Monoprice Heavy Duty Power Cable - IEC 60320 C14 to IEC 60320 C15, 14AWG, 15A, SJT, 125V, White, 3ft",
-            "price": 2.69,
-            "url": "https://www.monoprice.com/product?p_id=43177",
-            "product_id": 43177,
-            "available": true,
-            "rating": 5,
-            "num_reviews": 7
-        },
-        "43178": {
-            "name": "Monoprice Heavy Duty Power Cable - IEC 60320 C14 to IEC 60320 C15, 14AWG, 15A, SJT, 125V, White, 6ft",
-            "price": 2.26,
-            "url": "https://www.monoprice.com/product?p_id=43178",
-            "product_id": 43178,
-            "available": true,
-            "rating": 5,
-            "num_reviews": 7
         },
         "43180": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A, 125V, 3-Prong, White, 3ft",
@@ -35402,7 +35384,7 @@
             "price": 22.99,
             "url": "https://www.monoprice.com/product?p_id=43642",
             "product_id": 43642,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -36213,8 +36195,8 @@
             "url": "https://www.monoprice.com/product?p_id=44337",
             "product_id": 44337,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 5,
+            "num_reviews": 1
         },
         "44338": {
             "name": "Monoprice Access Series 18AWG CL3 Rated 2-Conductor Speaker Wire  250ft  White",
@@ -45264,6 +45246,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-22T01:20:22Z"
+        "timestamp": "2023-04-22T02:36:01Z"
     }
 }
