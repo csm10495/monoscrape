@@ -16621,7 +16621,7 @@
             "product_id": 31231,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 264
+            "num_reviews": 265
         },
         "31233": {
             "name": "Pure Outdoor by Monoprice Emperor 25 Rotomolded Portable Cooler 6.6 Gal, White",
@@ -22550,7 +22550,7 @@
             "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=37883",
             "product_id": 37883,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 35
         },
@@ -23362,7 +23362,7 @@
             "product_id": 38317,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 260
+            "num_reviews": 261
         },
         "38318": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Blue",
@@ -23847,8 +23847,8 @@
             "url": "https://www.monoprice.com/product?p_id=38581",
             "product_id": 38581,
             "available": false,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 3,
+            "num_reviews": 4
         },
         "38582": {
             "name": "Monoprice SlimRun AV USB 3.1 Type-C to HDMI Video Cable, 30ft, 4K@60Hz, Fiber Optic, AOC",
@@ -24431,7 +24431,7 @@
             "price": 6.59,
             "url": "https://www.monoprice.com/product?p_id=38816",
             "product_id": 38816,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 75
         },
@@ -24559,7 +24559,7 @@
             "product_id": 38837,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 57
+            "num_reviews": 58
         },
         "38838": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 3A/60W, 3ft, Black",
@@ -24712,7 +24712,7 @@
             "product_id": 38862,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 57
+            "num_reviews": 58
         },
         "38865": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 5A/100W, 1.5ft, Red",
@@ -24838,7 +24838,7 @@
             "product_id": 38893,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 20
+            "num_reviews": 21
         },
         "38894": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-C Charge \u0026 Sync Nylon-Braid Cable, 10ft, Red",
@@ -45246,6 +45246,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-22T18:21:44Z"
+        "timestamp": "2023-04-22T19:16:50Z"
     }
 }
