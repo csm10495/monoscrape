@@ -28913,7 +28913,7 @@
             "price": 188.99,
             "url": "https://www.monoprice.com/product?p_id=40778",
             "product_id": 40778,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 18
         },
@@ -29111,7 +29111,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=40887",
             "product_id": 40887,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 56
         },
@@ -29426,7 +29426,7 @@
             "price": 8.49,
             "url": "https://www.monoprice.com/product?p_id=41037",
             "product_id": 41037,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 12
         },
@@ -30803,7 +30803,7 @@
             "price": 5.39,
             "url": "https://www.monoprice.com/product?p_id=41771",
             "product_id": 41771,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 11
         },
@@ -31336,7 +31336,7 @@
             "product_id": 42026,
             "available": false,
             "rating": 5,
-            "num_reviews": 4
+            "num_reviews": 5
         },
         "42027": {
             "name": "Monoprice Mountable Frosted Acrylic Plexiglass Sneeze Guard Protective Shield Desk Barrier Large Size 30.0in x 17.7in x 0.3in (Set of 2)",
@@ -32702,7 +32702,7 @@
             "price": 25.99,
             "url": "https://www.monoprice.com/product?p_id=42712",
             "product_id": 42712,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -34160,7 +34160,7 @@
             "price": 2.69,
             "url": "https://www.monoprice.com/product?p_id=43193",
             "product_id": 43193,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 8
         },
@@ -35474,7 +35474,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=43672",
             "product_id": 43672,
-            "available": false,
+            "available": true,
             "rating": 4,
             "num_reviews": 3
         },
@@ -45255,6 +45255,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-23T14:16:08Z"
+        "timestamp": "2023-04-23T15:18:00Z"
     }
 }
