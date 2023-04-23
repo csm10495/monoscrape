@@ -19175,7 +19175,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=34240",
             "product_id": 34240,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 76
         },
@@ -19724,7 +19724,7 @@
             "price": 0.89,
             "url": "https://www.monoprice.com/product?p_id=34506",
             "product_id": 34506,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 6
         },
@@ -21083,7 +21083,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=35316",
             "product_id": 35316,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 33
         },
@@ -22991,7 +22991,7 @@
             "price": 25.74,
             "url": "https://www.monoprice.com/product?p_id=38164",
             "product_id": 38164,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -24307,7 +24307,7 @@
             "product_id": 38799,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 75
+            "num_reviews": 78
         },
         "38800": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 3ft, Blue",
@@ -24865,7 +24865,7 @@
             "product_id": 38895,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 20
+            "num_reviews": 21
         },
         "38896": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-C Charge \u0026 Sync Nylon-Braid Cable, 3ft, Blue",
@@ -26494,7 +26494,7 @@
             "product_id": 39546,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13602
+            "num_reviews": 13603
         },
         "39547": {
             "name": "Monoprice 4K High Speed HDMI Cable 5ft - 18Gbps Black - 5 Pack",
@@ -26754,8 +26754,8 @@
             "url": "https://www.monoprice.com/product?p_id=39635",
             "product_id": 39635,
             "available": true,
-            "rating": 4.5,
-            "num_reviews": 20
+            "rating": 4.4,
+            "num_reviews": 21
         },
         "39636": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C Charge \u0026 Sync Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 3ft, Black",
@@ -45255,6 +45255,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-23T13:20:07Z"
+        "timestamp": "2023-04-23T14:16:08Z"
     }
 }
