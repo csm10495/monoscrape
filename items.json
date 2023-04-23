@@ -32748,8 +32748,8 @@
             "url": "https://www.monoprice.com/product?p_id=42761",
             "product_id": 42761,
             "available": true,
-            "rating": 4.4,
-            "num_reviews": 12
+            "rating": 4.3,
+            "num_reviews": 13
         },
         "42762": {
             "name": "Workstream by Monoprice WFH Ergonomic Office Chair with Mesh Seat, Lumbar Support, Adjustable Armrests, Backrest, and Headrest",
@@ -36168,8 +36168,8 @@
             "url": "https://www.monoprice.com/product?p_id=44333",
             "product_id": 44333,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 5,
+            "num_reviews": 1
         },
         "44334": {
             "name": "Monoprice Access Series 14AWG CL3 Rated 2-Conductor Speaker Wire  250ft  White",
@@ -45246,6 +45246,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-23T08:21:24Z"
+        "timestamp": "2023-04-23T09:16:51Z"
     }
 }
