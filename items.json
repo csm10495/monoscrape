@@ -11059,7 +11059,7 @@
             "product_id": 21914,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 102
+            "num_reviews": 103
         },
         "21915": {
             "name": "Monoprice 10 Pair Right Angle 24k Gold Plated Banana Speaker Wire Cable Screw Plug Connectors",
@@ -38856,6 +38856,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-22T23:18:15Z"
+        "timestamp": "2023-04-23T01:29:02Z"
     }
 }
