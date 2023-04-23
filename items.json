@@ -5974,7 +5974,7 @@
             "product_id": 1448,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 2358
+            "num_reviews": 2359
         },
         "145": {
             "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 50ft, White",
@@ -13874,7 +13874,7 @@
             "price": 24.49,
             "url": "https://www.monoprice.com/product?p_id=2748",
             "product_id": 2748,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1536
         },
@@ -38579,7 +38579,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=5450",
             "product_id": 5450,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 553
         },
@@ -39607,7 +39607,7 @@
             "product_id": 6079,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13602
+            "num_reviews": 13603
         },
         "6149": {
             "name": "Monoprice USB Type-A to Type-A Female 2.0 Extension Cable - Active, 28/24AWG, Repeater, Kinect and PS3 Move Compatible, Black, 32ft",
@@ -39821,7 +39821,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=6304",
             "product_id": 6304,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 537
         },
@@ -43657,7 +43657,7 @@
             "product_id": 880,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 161
+            "num_reviews": 162
         },
         "8811": {
             "name": "Monoprice BNC M/M RG59U - 3ft",
@@ -45246,6 +45246,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-23T04:22:14Z"
+        "timestamp": "2023-04-23T05:17:40Z"
     }
 }
