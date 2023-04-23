@@ -24361,7 +24361,7 @@
             "product_id": 38807,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 75
+            "num_reviews": 78
         },
         "38808": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 3ft, Black",
@@ -24379,7 +24379,7 @@
             "product_id": 38809,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 75
+            "num_reviews": 78
         },
         "38811": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 1.5ft, White",
@@ -26188,7 +26188,7 @@
             "product_id": 39511,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 264
+            "num_reviews": 265
         },
         "39512": {
             "name": "Monoprice PTZ Video Conference Camera, Pan Tilt Zoom with Remote, Full HD 1080p Webcam, USB 3.0, 3x Optical Zoom",
@@ -45246,6 +45246,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-23T07:16:15Z"
+        "timestamp": "2023-04-23T08:21:24Z"
     }
 }
