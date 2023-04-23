@@ -18637,7 +18637,7 @@
             "product_id": 3395,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 2358
+            "num_reviews": 2359
         },
         "3402": {
             "name": "Monoprice 50x50mm to 200x200mm TV Wall Mount Bracket Universal VESA Adapter Plate",
@@ -27484,7 +27484,7 @@
             "product_id": 3992,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13602
+            "num_reviews": 13603
         },
         "39920": {
             "name": "Monoprice USB Type-A to USB Type-B 2.0 Cable - 28/24AWG Gold Plated Black 10ft, 5-Pack",
@@ -40327,7 +40327,7 @@
             "product_id": 649,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 873
+            "num_reviews": 874
         },
         "650": {
             "name": "Monoprice 25ft 3.5mm Stereo Plug/Jack M/F Cable - Black",
@@ -45246,6 +45246,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-23T10:36:04Z"
+        "timestamp": "2023-04-23T11:16:12Z"
     }
 }
