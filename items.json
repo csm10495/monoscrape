@@ -28913,7 +28913,7 @@
             "price": 188.99,
             "url": "https://www.monoprice.com/product?p_id=40778",
             "product_id": 40778,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 18
         },
@@ -34598,7 +34598,7 @@
         },
         "43305": {
             "name": "Dark Matter by Monoprice 49in Curved Gaming Monitor - 32:9, 1800R, 5120x1440p, DQHD, 120Hz, Adaptive Sync, VA",
-            "price": 999.99,
+            "price": 789.99,
             "url": "https://www.monoprice.com/product?p_id=43305",
             "product_id": 43305,
             "available": true,
@@ -35885,7 +35885,7 @@
         },
         "44096": {
             "name": "Pure Outdoor by Monoprice Compact 33 function Survival Gear Kit with Multi-functional Knife with compact carry case",
-            "price": 23.99,
+            "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=44096",
             "product_id": 44096,
             "available": true,
@@ -35903,7 +35903,7 @@
         },
         "44099": {
             "name": "Pure Outdoor by Monoprice 3 in 1 Compact Shovel 23 inch with Ballistic Carry bag",
-            "price": 26.99,
+            "price": 21.59,
             "url": "https://www.monoprice.com/product?p_id=44099",
             "product_id": 44099,
             "available": true,
@@ -35930,7 +35930,7 @@
         },
         "44105": {
             "name": "Pure Outdoor by Monoprice Stainless Steel Fishing Pliers with Fish Lip Gripper and Carrying Case",
-            "price": 19.99,
+            "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=44105",
             "product_id": 44105,
             "available": true,
@@ -36195,8 +36195,8 @@
             "url": "https://www.monoprice.com/product?p_id=44335",
             "product_id": 44335,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 5,
+            "num_reviews": 1
         },
         "44336": {
             "name": "Monoprice Access Series 16AWG CL3 Rated 2-Conductor Speaker Wire  250ft  White",
@@ -45255,6 +45255,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-24T09:19:18Z"
+        "timestamp": "2023-04-24T10:19:57Z"
     }
 }
