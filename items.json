@@ -15485,7 +15485,7 @@
             "price": 287.99,
             "url": "https://www.monoprice.com/product?p_id=30455",
             "product_id": 30455,
-            "available": true,
+            "available": false,
             "rating": 3.2,
             "num_reviews": 6
         },
@@ -16349,7 +16349,7 @@
             "price": 5.69,
             "url": "https://www.monoprice.com/product?p_id=31096",
             "product_id": 31096,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 69
         },
@@ -18059,7 +18059,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=33726",
             "product_id": 33726,
-            "available": true,
+            "available": false,
             "rating": 3,
             "num_reviews": 2
         },
@@ -23335,7 +23335,7 @@
             "product_id": 38313,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 260
+            "num_reviews": 261
         },
         "38314": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, White",
@@ -24361,7 +24361,7 @@
             "product_id": 38806,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 76
+            "num_reviews": 78
         },
         "38807": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 1.5ft, Black",
@@ -24872,7 +24872,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=38896",
             "product_id": 38896,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 20
         },
@@ -25881,8 +25881,8 @@
             "url": "https://www.monoprice.com/product?p_id=39392",
             "product_id": 39392,
             "available": true,
-            "rating": 4.5,
-            "num_reviews": 4
+            "rating": 4.6,
+            "num_reviews": 5
         },
         "39393": {
             "name": "Monoprice 5-Piece Soldering Tool Set With 30-Watt Soldering Iron",
@@ -45255,6 +45255,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-24T02:37:13Z"
+        "timestamp": "2023-04-24T03:20:05Z"
     }
 }
