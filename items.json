@@ -28922,7 +28922,7 @@
             "price": 188.99,
             "url": "https://www.monoprice.com/product?p_id=40778",
             "product_id": 40778,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 18
         },
@@ -29111,7 +29111,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=40886",
             "product_id": 40886,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 56
         },
@@ -29184,6 +29184,15 @@
             "url": "https://www.monoprice.com/product?p_id=40935",
             "product_id": 40935,
             "available": false,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "40951": {
+            "name": "Monolith by Monoprice M15-S 15\" THX Ultra Certified Sealed 1000 Watt Powered Subwoofer (open box)",
+            "price": 999,
+            "url": "https://www.monoprice.com/product?p_id=40951",
+            "product_id": 40951,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -29475,6 +29484,15 @@
             "rating": 4.5,
             "num_reviews": 12
         },
+        "41057": {
+            "name": "Syston 22/2 Stranded Unshielded CMP/CL3P Security and Control Cable, Gray, 1000ft Box",
+            "price": 64.99,
+            "url": "https://www.monoprice.com/product?p_id=41057",
+            "product_id": 41057,
+            "available": true,
+            "rating": 4,
+            "num_reviews": 1
+        },
         "4107": {
             "name": "Monoprice ALL-IN-1 USB 2.0 Card Reader for CF SD SM MMC MS XD - Translucent Blue Color",
             "price": 1.96,
@@ -29669,7 +29687,7 @@
             "price": 9.29,
             "url": "https://www.monoprice.com/product?p_id=41218",
             "product_id": 41218,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 56
         },
@@ -30807,15 +30825,6 @@
             "rating": 4,
             "num_reviews": 26
         },
-        "41771": {
-            "name": "3-Outlet SnugPlug Household Extension Cord, 16AWG, 13A/1625W, SPT-2, White, 6ft",
-            "price": 5.39,
-            "url": "https://www.monoprice.com/product?p_id=41771",
-            "product_id": 41771,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 11
-        },
         "41772": {
             "name": "3-Outlet SnugPlug Household Extension Cord, 16AWG, 13A/1625W, SPT-2, Black, 10ft",
             "price": 11.99,
@@ -31221,6 +31230,15 @@
             "rating": 5,
             "num_reviews": 9
         },
+        "42000": {
+            "name": "Monolith by Monoprice MM-5R Powered Multimedia Speakers Ribbon Tweeter with Bluetooth with Qualcomm aptX HD Audio, USB DAC, Optical Inputs (open box)",
+            "price": 329.99,
+            "url": "https://www.monoprice.com/product?p_id=42000",
+            "product_id": 42000,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "42011": {
             "name": "Monoprice SB-500 Dolby Digital 5.1 Soundbar with Wireless Surround Speakers and Wireless Subwoofer, 2 HDMI Inputs, 4K HDR Pass-Through, Optical, Coax, ARC, Remote",
             "price": 209.99,
@@ -31335,8 +31353,8 @@
             "url": "https://www.monoprice.com/product?p_id=42025",
             "product_id": 42025,
             "available": true,
-            "rating": 5,
-            "num_reviews": 5
+            "rating": 4.9,
+            "num_reviews": 6
         },
         "42026": {
             "name": "Monoprice Clear Acrylic Plexiglass Sneeze Guard Protective Shield Desk Barrier Large Size 31.5in x 23.6in x 23.6in",
@@ -31353,8 +31371,8 @@
             "url": "https://www.monoprice.com/product?p_id=42027",
             "product_id": 42027,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 5,
+            "num_reviews": 1
         },
         "42028": {
             "name": "Monoprice Mountable Frosted Acrylic Plexiglass Sneeze Guard Protective Shield Desk Barrier Medium Size 24in x 17.7in x 0.3in (Set of 2)",
@@ -31442,7 +31460,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=42055",
             "product_id": 42055,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 353
         },
@@ -31713,8 +31731,8 @@
             "url": "https://www.monoprice.com/product?p_id=42153",
             "product_id": 42153,
             "available": true,
-            "rating": 4,
-            "num_reviews": 4
+            "rating": 5,
+            "num_reviews": 3
         },
         "42154": {
             "name": "Flat Adhesive Super Slim Speaker Wire - Two 16AWG Conductors, 50ft",
@@ -32382,6 +32400,15 @@
             "rating": 0,
             "num_reviews": 0
         },
+        "42579": {
+            "name": "Monolith by Monoprice M-215 Dual 15\" THX Ultra Certified 2000-Watt Powered Subwoofer (open box)",
+            "price": 1799,
+            "url": "https://www.monoprice.com/product?p_id=42579",
+            "product_id": 42579,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "42588": {
             "name": "Monoprice Fiber Optic Cable Bulk - 9/125 Type, Single Mode, Duplex, 8.0mm w/o Armor or Steel Wire LSZH G657A1, 12 Strand, Black, 4000FT, Corning",
             "price": 1599.99,
@@ -32766,8 +32793,8 @@
             "url": "https://www.monoprice.com/product?p_id=42761",
             "product_id": 42761,
             "available": true,
-            "rating": 4.3,
-            "num_reviews": 13
+            "rating": 4.4,
+            "num_reviews": 12
         },
         "42762": {
             "name": "Workstream by Monoprice WFH Ergonomic Office Chair with Mesh Seat, Lumbar Support, Adjustable Armrests, Backrest, and Headrest",
@@ -32973,8 +33000,8 @@
             "url": "https://www.monoprice.com/product?p_id=42839",
             "product_id": 42839,
             "available": true,
-            "rating": 4.5,
-            "num_reviews": 10
+            "rating": 4.6,
+            "num_reviews": 12
         },
         "42840": {
             "name": "Monolith by Monoprice 24in Cherry Wood Speaker Stand with Adjustable Top Plate, Cherry (Each)",
@@ -33653,7 +33680,7 @@
         },
         "43063": {
             "name": "Wireless Bluetooth Audio Adaptor/Receiver for car , speakers and DVD players",
-            "price": 3.99,
+            "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=43063",
             "product_id": 43063,
             "available": true,
@@ -33892,7 +33919,7 @@
             "product_id": 43149,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 8
+            "num_reviews": 9
         },
         "43150": {
             "name": "Monolith by Monoprice Encore B6 Bookshelf Speaker (Each)",
@@ -34092,15 +34119,6 @@
             "rating": 4.9,
             "num_reviews": 304
         },
-        "43184": {
-            "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 14AWG, 15A, 3-Prong, White, 3ft",
-            "price": 3.99,
-            "url": "https://www.monoprice.com/product?p_id=43184",
-            "product_id": 43184,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 304
-        },
         "43185": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 14AWG, 15A, 3-Prong, White, 6ft",
             "price": 4.99,
@@ -34268,7 +34286,7 @@
             "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=43209",
             "product_id": 43209,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 4
         },
@@ -34485,8 +34503,8 @@
             "url": "https://www.monoprice.com/product?p_id=43244",
             "product_id": 43244,
             "available": false,
-            "rating": 4.1,
-            "num_reviews": 9
+            "rating": 4.5,
+            "num_reviews": 8
         },
         "43245": {
             "name": "Monoprice Bluetooth 5 Receiver with Mic Input",
@@ -34584,8 +34602,8 @@
             "url": "https://www.monoprice.com/product?p_id=43261",
             "product_id": 43261,
             "available": true,
-            "rating": 3.8,
-            "num_reviews": 13
+            "rating": 4.1,
+            "num_reviews": 12
         },
         "43262": {
             "name": "Monoprice Harmony Capsule 200 Portable Bluetooth Speaker",
@@ -34835,7 +34853,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=43356",
             "product_id": 43356,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 5
         },
@@ -35483,7 +35501,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=43672",
             "product_id": 43672,
-            "available": true,
+            "available": false,
             "rating": 4,
             "num_reviews": 3
         },
@@ -35501,7 +35519,7 @@
             "price": 169.99,
             "url": "https://www.monoprice.com/product?p_id=43701",
             "product_id": 43701,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 15
         },
@@ -35519,7 +35537,7 @@
             "price": 169.99,
             "url": "https://www.monoprice.com/product?p_id=43703",
             "product_id": 43703,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 15
         },
@@ -36529,7 +36547,7 @@
             "product_id": 44498,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 519
+            "num_reviews": 520
         },
         "44499": {
             "name": "Monoprice Cat6A 1ft Blue Patch Cable,  UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -36599,6 +36617,15 @@
             "price": 2.89,
             "url": "https://www.monoprice.com/product?p_id=44505",
             "product_id": 44505,
+            "available": false,
+            "rating": 4.9,
+            "num_reviews": 519
+        },
+        "44506": {
+            "name": "Monoprice Cat6A 10ft Black Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 2.99,
+            "url": "https://www.monoprice.com/product?p_id=44506",
+            "product_id": 44506,
             "available": false,
             "rating": 4.9,
             "num_reviews": 519
@@ -36684,6 +36711,33 @@
             "rating": 0,
             "num_reviews": 0
         },
+        "44578": {
+            "name": "Monolith by Monoprice M-212 Dual 12in THX Certified Ultra 1000 Watt Powered Subwoofer (Open Box)",
+            "price": 1799.99,
+            "url": "https://www.monoprice.com/product?p_id=44578",
+            "product_id": 44578,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "44579": {
+            "name": "Monolith by Monoprice 13in THX Certified Ultra 2000-Watt Powered Subwoofer (Open Box)",
+            "price": 1699.99,
+            "url": "https://www.monoprice.com/product?p_id=44579",
+            "product_id": 44579,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "44582": {
+            "name": "Monolith by Monoprice M-10 V2 10in THX Certified Select 500-Watt Powered Subwoofer, Piano Black Finish (Open Box)",
+            "price": 699.99,
+            "url": "https://www.monoprice.com/product?p_id=44582",
+            "product_id": 44582,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "44585": {
             "name": "Monolith by Monoprice M-10 V2 10in THX Certified Select 500 Watt Powered Subwoofer (Open Box)",
             "price": 649.99,
@@ -36698,6 +36752,15 @@
             "price": 599.99,
             "url": "https://www.monoprice.com/product?p_id=44587",
             "product_id": 44587,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "44588": {
+            "name": "Monolith by Monoprice M-OW3 THX Certified LCR/Soundbar On Wall Speaker (Each) (Open Box)",
+            "price": 380,
+            "url": "https://www.monoprice.com/product?p_id=44588",
+            "product_id": 44588,
             "available": true,
             "rating": 0,
             "num_reviews": 0
@@ -45264,6 +45327,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-24T15:20:38Z"
+        "timestamp": "2023-04-24T16:26:22Z"
     }
 }
