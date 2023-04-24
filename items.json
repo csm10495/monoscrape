@@ -250,7 +250,7 @@
             "product_id": 1044,
             "available": true,
             "rating": 3.7,
-            "num_reviews": 271
+            "num_reviews": 272
         },
         "10450": {
             "name": "Monoprice Commercial Series Full-Motion TV Wall Mount Bracket For LED TVs 13in to 27in, Max Weight 33 lbs, Extension Range of 3.9in to 10.2in, VESA Patterns Up to 100x100, Rotating, UL Certified",
@@ -10103,7 +10103,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=2137",
             "product_id": 2137,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3040
         },
@@ -10202,7 +10202,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=2151",
             "product_id": 2151,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3040
         },
@@ -11462,7 +11462,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=2307",
             "product_id": 2307,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -11489,7 +11489,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=2310",
             "product_id": 2310,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -13867,7 +13867,7 @@
             "product_id": 2747,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1536
+            "num_reviews": 1537
         },
         "27471": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, S/STP, Pure Bare Copper Wire, 36AWG, 3ft, Red",
@@ -21606,8 +21606,8 @@
             "url": "https://www.monoprice.com/product?p_id=3593",
             "product_id": 3593,
             "available": true,
-            "rating": 5,
-            "num_reviews": 64
+            "rating": 0,
+            "num_reviews": 0
         },
         "3594": {
             "name": "Monoprice 25ft Super VGA M/F CL2 Rated (For In-Wall Installation) Cable with Ferrites (Gold Plated)",
@@ -28816,7 +28816,7 @@
             "product_id": 4060,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 948
+            "num_reviews": 949
         },
         "4061": {
             "name": "Monoprice 50ft RG6 (18AWG) 75Ohm, Quad Shield, CL2 Coaxial Cable with F Type Connector - White",
@@ -37076,7 +37076,7 @@
             "price": 25.49,
             "url": "https://www.monoprice.com/product?p_id=4765",
             "product_id": 4765,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 290
         },
@@ -37130,7 +37130,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=4770",
             "product_id": 4770,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 201
         },
@@ -37256,7 +37256,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=4785",
             "product_id": 4785,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 83
         },
@@ -37339,7 +37339,7 @@
             "product_id": 4796,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 421
+            "num_reviews": 422
         },
         "4797": {
             "name": "Monoprice 35ft Premier Series 1/4in TRS Male to Male Cable, 16AWG (Gold Plated)",
@@ -37602,6 +37602,15 @@
             "rating": 4.9,
             "num_reviews": 3040
         },
+        "4991": {
+            "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350Mhz, UTP, Pure Bare Copper Wire, 24AWG, 20ft, White",
+            "price": 4.99,
+            "url": "https://www.monoprice.com/product?p_id=4991",
+            "product_id": 4991,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 3040
+        },
         "4992": {
             "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 20ft, Yellow",
             "price": 3.19,
@@ -37751,15 +37760,6 @@
             "price": 9.49,
             "url": "https://www.monoprice.com/product?p_id=5018",
             "product_id": 5018,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 3398
-        },
-        "5023": {
-            "name": "Monoprice Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 30ft, Red",
-            "price": 7.49,
-            "url": "https://www.monoprice.com/product?p_id=5023",
-            "product_id": 5023,
             "available": false,
             "rating": 4.9,
             "num_reviews": 3398
@@ -38354,7 +38354,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=5377",
             "product_id": 5377,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 253
         },
@@ -39220,7 +39220,7 @@
             "product_id": 5829,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 311
+            "num_reviews": 312
         },
         "5831": {
             "name": "Monoprice Hook and Loop Fastening Tape, 5 yards/roll, 0.75in, Red",
@@ -39317,7 +39317,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=5901",
             "product_id": 5901,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 494
         },
@@ -40352,7 +40352,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=647",
             "product_id": 647,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 926
         },
@@ -40757,7 +40757,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=6725",
             "product_id": 6725,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 115
         },
@@ -40982,7 +40982,7 @@
             "price": 0.39,
             "url": "https://www.monoprice.com/product?p_id=6881",
             "product_id": 6881,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 46
         },
@@ -41801,7 +41801,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=7302",
             "product_id": 7302,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 80
         },
@@ -42579,6 +42579,15 @@
             "rating": 4.8,
             "num_reviews": 294
         },
+        "8106": {
+            "name": "Monoprice Cat6 1000ft Orange CMR UL Bulk Cable, Solid (w/spine), UTP, 23AWG, 550MHz, Pure Bare Copper, Reelex II Pull Box, Bulk Ethernet Cable",
+            "price": 149.99,
+            "url": "https://www.monoprice.com/product?p_id=8106",
+            "product_id": 8106,
+            "available": false,
+            "rating": 4.8,
+            "num_reviews": 294
+        },
         "8107": {
             "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 1000ft, Red, (UL)",
             "price": 129.99,
@@ -43011,6 +43020,15 @@
             "rating": 4.9,
             "num_reviews": 571
         },
+        "8526": {
+            "name": "Monoprice 10ft 28AWG DisplayPort Male to HDMI Female Adapter - White",
+            "price": 9.44,
+            "url": "https://www.monoprice.com/product?p_id=8526",
+            "product_id": 8526,
+            "available": false,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "8532": {
             "name": "Monoprice 3ft MIDI Cable with 5 Pin DIN Plugs - Black",
             "price": 0.77,
@@ -43324,7 +43342,7 @@
             "product_id": 8627,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 70
+            "num_reviews": 71
         },
         "8628": {
             "name": "Monoprice Wall Mount Bracket, 12.25in x 19in x 12in, 7U",
@@ -43812,6 +43830,15 @@
             "rating": 3.8,
             "num_reviews": 5
         },
+        "90": {
+            "name": "Monoprice VGA HD-15 to 5 BNC RGB Video Cable for HDTV Monitor cable - 6FT",
+            "price": 7.5,
+            "url": "https://www.monoprice.com/product?p_id=90",
+            "product_id": 90,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 3
+        },
         "9194": {
             "name": "Monoprice Wireless Dual Band IR Remote Control Extender up to 328ft",
             "price": 37.99,
@@ -43997,7 +44024,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=9356",
             "product_id": 9356,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 10
         },
@@ -44150,7 +44177,7 @@
             "price": 7.49,
             "url": "https://www.monoprice.com/product?p_id=9440",
             "product_id": 9440,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 139
         },
@@ -44186,7 +44213,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=9444",
             "product_id": 9444,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 139
         },
@@ -44258,7 +44285,7 @@
             "price": 209.99,
             "url": "https://www.monoprice.com/product?p_id=9480",
             "product_id": 9480,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 8
         },
@@ -44285,7 +44312,7 @@
             "price": 32.99,
             "url": "https://www.monoprice.com/product?p_id=952",
             "product_id": 952,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 11
         },
@@ -44394,6 +44421,15 @@
             "url": "https://www.monoprice.com/product?p_id=9553",
             "product_id": 9553,
             "available": true,
+            "rating": 4.9,
+            "num_reviews": 183
+        },
+        "9554": {
+            "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Flat, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 30AWG, 30ft, Black",
+            "price": 4.99,
+            "url": "https://www.monoprice.com/product?p_id=9554",
+            "product_id": 9554,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 183
         },
@@ -45327,6 +45363,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-24T17:18:17Z"
+        "timestamp": "2023-04-24T18:23:46Z"
     }
 }
