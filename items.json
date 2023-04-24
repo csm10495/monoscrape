@@ -16304,7 +16304,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=31079",
             "product_id": 31079,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 69
         },
@@ -18794,7 +18794,7 @@
         },
         "34184": {
             "name": "Monoprice Consul Series USB-C HDMI Adapter with VGA, Gigabit Ethernet, 2-Port USB 3.0, USB-C 100W PD 3.0",
-            "price": 49.99,
+            "price": 34.64,
             "url": "https://www.monoprice.com/product?p_id=34184",
             "product_id": 34184,
             "available": true,
@@ -23640,8 +23640,8 @@
             "url": "https://www.monoprice.com/product?p_id=38391",
             "product_id": 38391,
             "available": true,
-            "rating": 4.6,
-            "num_reviews": 37
+            "rating": 4.7,
+            "num_reviews": 38
         },
         "38393": {
             "name": "Monoprice Nylon Braided USB-C To Lightning Cable - 3 Feet - Red ( MFI Certified ) Flexible, Durable, Fast Charging, Compatible with Apple iPhone 13 / Pro / Pro Max / AirPods Pro - AtlasFlex Series",
@@ -24532,7 +24532,7 @@
             "product_id": 38828,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 77
+            "num_reviews": 78
         },
         "38831": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 3ft, Black, 3-Pack",
@@ -24914,7 +24914,7 @@
         },
         "38902": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-A Charge and Sync Nylon-Braid Cable, 10ft, Black",
-            "price": 9.99,
+            "price": 11.49,
             "url": "https://www.monoprice.com/product?p_id=38902",
             "product_id": 38902,
             "available": false,
@@ -26372,7 +26372,7 @@
         },
         "39531": {
             "name": "Monoprice 4K No Logo High Speed HDMI Cable 20ft - CL2 In Wall Rated 18 Gbps Black - 3 Pack",
-            "price": 66.99,
+            "price": 38.85,
             "url": "https://www.monoprice.com/product?p_id=39531",
             "product_id": 39531,
             "available": true,
@@ -26872,7 +26872,7 @@
             "product_id": 39653,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 56
+            "num_reviews": 57
         },
         "39654": {
             "name": "Monoprice Motorized Above Fireplace Mantel Pull-down, Full-Motion, Articulating TV Wall Mount Bracket - For LED TVs between 50in and 100in, Max Weight 110lbs, VESA Patterns up to 800x600",
@@ -26903,7 +26903,7 @@
         },
         "39657": {
             "name": "Monoprice Commercial Series Height Adjustable Tilt TV Mount and Stand with Component Shelf for LED Displays 37in to 70in, Max Weight 88lbs., VESA Patterns up to 600x400, Brown",
-            "price": 119.99,
+            "price": 83.99,
             "url": "https://www.monoprice.com/product?p_id=39657",
             "product_id": 39657,
             "available": true,
@@ -45255,6 +45255,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-24T08:23:46Z"
+        "timestamp": "2023-04-24T09:19:18Z"
     }
 }
