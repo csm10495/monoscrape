@@ -383,7 +383,7 @@
             "price": 15.24,
             "url": "https://www.monoprice.com/product?p_id=10496",
             "product_id": 10496,
-            "available": true,
+            "available": false,
             "rating": 3.6,
             "num_reviews": 5
         },
@@ -794,7 +794,7 @@
         },
         "11233": {
             "name": "Monoprice Cat6 100ft White Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
-            "price": 26.99,
+            "price": 22.94,
             "url": "https://www.monoprice.com/product?p_id=11233",
             "product_id": 11233,
             "available": true,
@@ -1060,7 +1060,7 @@
             "product_id": 11273,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1459
         },
         "11274": {
             "name": "Monoprice Cat6 1ft Orange Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -4970,7 +4970,7 @@
         },
         "13719": {
             "name": "Monoprice Nimbus Series 14AWG 4-Conductor CMP-Rated Speaker Wire, 100ft",
-            "price": 61.19,
+            "price": 71.99,
             "url": "https://www.monoprice.com/product?p_id=13719",
             "product_id": 13719,
             "available": true,
@@ -5299,7 +5299,7 @@
             "product_id": 13759,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 218
+            "num_reviews": 219
         },
         "13760": {
             "name": "Monoprice 4K Braided High Speed HDMI Cable 50ft - CL3 In Wall Rated 18Gbps Active Gray",
@@ -7900,7 +7900,7 @@
             "product_id": 15830,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 213
+            "num_reviews": 214
         },
         "15833": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Black",
@@ -7918,7 +7918,7 @@
             "product_id": 15835,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 213
+            "num_reviews": 214
         },
         "15848": {
             "name": "Monoprice MP Select ABS Plus+ Premium 3D Filament, 1kg 1.75mm, Black",
@@ -8237,7 +8237,7 @@
         },
         "15989": {
             "name": "Pure Outdoor by Monoprice IPx4 Weatherproof 4-mode USB Rechargeable High-power Headlamp",
-            "price": 9.99,
+            "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=15989",
             "product_id": 15989,
             "available": false,
@@ -8552,7 +8552,7 @@
         },
         "16124": {
             "name": "Monoprice EZ Series Low Profile Full-Motion Articulating TV Wall Mount Bracket For TVs 23in to 55in, Max Weight 77lbs, Extension Range of 1.9in to 12in, VESA Patterns Up to 400x400 V2",
-            "price": 29.99,
+            "price": 22.49,
             "url": "https://www.monoprice.com/product?p_id=16124",
             "product_id": 16124,
             "available": true,
@@ -45255,6 +45255,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-24T06:24:00Z"
+        "timestamp": "2023-04-24T07:18:17Z"
     }
 }
