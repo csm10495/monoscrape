@@ -473,7 +473,7 @@
             "price": 89.99,
             "url": "https://www.monoprice.com/product?p_id=10621",
             "product_id": 10621,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 65
         },
@@ -1103,7 +1103,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=11278",
             "product_id": 11278,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1458
         },
@@ -1247,7 +1247,7 @@
             "price": 1.29,
             "url": "https://www.monoprice.com/product?p_id=11302",
             "product_id": 11302,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 460
         },
@@ -1472,7 +1472,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=11338",
             "product_id": 11338,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1458
         },
@@ -2336,7 +2336,7 @@
             "price": 174.99,
             "url": "https://www.monoprice.com/product?p_id=12181",
             "product_id": 12181,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 19
         },
@@ -2696,7 +2696,7 @@
             "price": 36.99,
             "url": "https://www.monoprice.com/product?p_id=12735",
             "product_id": 12735,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 425
         },
@@ -2804,7 +2804,7 @@
             "price": 119.99,
             "url": "https://www.monoprice.com/product?p_id=12759",
             "product_id": 12759,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 5
         },
@@ -2903,7 +2903,7 @@
             "price": 14.49,
             "url": "https://www.monoprice.com/product?p_id=12800",
             "product_id": 12800,
-            "available": true,
+            "available": false,
             "rating": 3.2,
             "num_reviews": 19
         },
@@ -2930,7 +2930,7 @@
             "price": 299.99,
             "url": "https://www.monoprice.com/product?p_id=12807",
             "product_id": 12807,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 15
         },
@@ -2975,7 +2975,7 @@
             "price": 9.49,
             "url": "https://www.monoprice.com/product?p_id=12842",
             "product_id": 12842,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 2056
         },
@@ -3587,7 +3587,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=13252",
             "product_id": 13252,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 165
         },
@@ -3650,7 +3650,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=13268",
             "product_id": 13268,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 165
         },
@@ -3992,7 +3992,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=13406",
             "product_id": 13406,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 165
         },
@@ -4343,7 +4343,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=13535",
             "product_id": 13535,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -5524,7 +5524,7 @@
             "product_id": 13919,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 659
+            "num_reviews": 661
         },
         "13920": {
             "name": "Monoprice Select Series USB-A to Micro B Cable, 2.4A, 22/30AWG, White, 0.5ft",
@@ -5612,7 +5612,7 @@
             "price": 0.99,
             "url": "https://www.monoprice.com/product?p_id=13930",
             "product_id": 13930,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 659
         },
@@ -6062,7 +6062,7 @@
             "price": 21.99,
             "url": "https://www.monoprice.com/product?p_id=14560",
             "product_id": 14560,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 14
         },
@@ -6182,24 +6182,6 @@
             "available": false,
             "rating": 4.9,
             "num_reviews": 3040
-        },
-        "14760": {
-            "name": "Monoprice Cat6 Ethernet Bulk Cable - Stranded, 550MHz, UTP, CM, Pure Bare Copper Wire, 24AWG, 250ft, Black",
-            "price": 35.99,
-            "url": "https://www.monoprice.com/product?p_id=14760",
-            "product_id": 14760,
-            "available": true,
-            "rating": 4.5,
-            "num_reviews": 60
-        },
-        "14767": {
-            "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Black, (UL)",
-            "price": 39.99,
-            "url": "https://www.monoprice.com/product?p_id=14767",
-            "product_id": 14767,
-            "available": true,
-            "rating": 4.7,
-            "num_reviews": 91
         },
         "14771": {
             "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Green, (UL)",
@@ -6368,7 +6350,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=14807",
             "product_id": 14807,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -6603,8 +6585,8 @@
             "url": "https://www.monoprice.com/product?p_id=14908",
             "product_id": 14908,
             "available": true,
-            "rating": 4.4,
-            "num_reviews": 20
+            "rating": 4.5,
+            "num_reviews": 19
         },
         "14909": {
             "name": "Monoprice SuperSpeed 7-Port USB-C Hub, Gray",
@@ -6667,7 +6649,7 @@
             "product_id": 15125,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 519
+            "num_reviews": 520
         },
         "15126": {
             "name": "Monoprice Cat6A 1ft Blue 5-Pk Patch Cable,  UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -7007,7 +6989,7 @@
             "price": 33.99,
             "url": "https://www.monoprice.com/product?p_id=15170",
             "product_id": 15170,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 519
         },
@@ -7421,7 +7403,7 @@
             "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=15526",
             "product_id": 15526,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 170
         },
@@ -7673,7 +7655,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=15696",
             "product_id": 15696,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 14
         },
@@ -7916,7 +7898,7 @@
             "price": 20.59,
             "url": "https://www.monoprice.com/product?p_id=15835",
             "product_id": 15835,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 214
         },
@@ -8042,7 +8024,7 @@
             "price": 18.99,
             "url": "https://www.monoprice.com/product?p_id=15876",
             "product_id": 15876,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 66
         },
@@ -8593,7 +8575,7 @@
             "product_id": 16150,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 273
+            "num_reviews": 274
         },
         "16153": {
             "name": "Monoprice 50-Watt Stereo Hybrid Tube Amplifier with Bluetooth, Line Output, and Qualcomm aptX Audio",
@@ -8789,7 +8771,7 @@
             "price": 27.99,
             "url": "https://www.monoprice.com/product?p_id=16219",
             "product_id": 16219,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 455
         },
@@ -8843,7 +8825,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=16249",
             "product_id": 16249,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 60
         },
@@ -9167,7 +9149,7 @@
             "price": 19.97,
             "url": "https://www.monoprice.com/product?p_id=16344",
             "product_id": 16344,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 519
         },
@@ -9250,7 +9232,7 @@
             "product_id": 16359,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 92
+            "num_reviews": 93
         },
         "16360": {
             "name": "Workstream by Monoprice Medium Multimedia Desktop Monitor Stand, 25.6in x 11.0in, Max Weight Capacity 80lbs, Black Tempered Glass",
@@ -9347,7 +9329,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=18519",
             "product_id": 18519,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -45363,6 +45345,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-24T18:23:46Z"
+        "timestamp": "2023-04-24T19:18:51Z"
     }
 }
