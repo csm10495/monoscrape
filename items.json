@@ -14684,7 +14684,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=2832",
             "product_id": 2832,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 2358
         },
@@ -37688,7 +37688,7 @@
             "price": 7.49,
             "url": "https://www.monoprice.com/product?p_id=5023",
             "product_id": 5023,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -38824,7 +38824,7 @@
             "product_id": 5583,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 1087
+            "num_reviews": 1088
         },
         "5586": {
             "name": "Monoprice 3ft Premium 3.5mm Stereo Male to 3.5mm Stereo Female 22AWG Extension Cable (Gold Plated) - Black",
@@ -39292,7 +39292,7 @@
             "product_id": 5907,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 494
+            "num_reviews": 495
         },
         "5915": {
             "name": "Monoprice EZ Series Low Profile Tilt TV Wall Mount Bracket for LED TVs 32in to 70in, Max Weight 154 lbs, VESA Patterns Up to 400x400, UL Certified",
@@ -45255,6 +45255,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-24T05:18:07Z"
+        "timestamp": "2023-04-24T06:24:00Z"
     }
 }
