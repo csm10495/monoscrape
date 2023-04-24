@@ -10103,7 +10103,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=2137",
             "product_id": 2137,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3040
         },
@@ -13883,7 +13883,7 @@
             "price": 24.49,
             "url": "https://www.monoprice.com/product?p_id=2748",
             "product_id": 2748,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1536
         },
@@ -14686,7 +14686,7 @@
             "product_id": 2832,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 2358
+            "num_reviews": 2359
         },
         "2842": {
             "name": "Monoprice Standard HDMI Cable to DVI Adapter Cable 25ft - CL2 In Wall Rated with Ferrite Cores Black",
@@ -28231,7 +28231,7 @@
             "product_id": 4021,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13602
+            "num_reviews": 13603
         },
         "4022": {
             "name": "Monoprice 4K High Speed HDMI Cable 3ft - 18Gbps Purple",
@@ -28303,7 +28303,7 @@
             "product_id": 4026,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13602
+            "num_reviews": 13603
         },
         "4027": {
             "name": "Monoprice 4K High Speed HDMI Cable 10ft - 18Gbps Red",
@@ -37247,7 +37247,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=4794",
             "product_id": 4794,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 422
         },
@@ -40307,7 +40307,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=648",
             "product_id": 648,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 874
         },
@@ -41009,7 +41009,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=6985",
             "product_id": 6985,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 65
         },
@@ -41213,7 +41213,7 @@
         },
         "7139": {
             "name": "Monoprice 1/4in (6.35mm) TRS Stereo Plug to 3.5mm TRS Stereo Jack Adapter, Gold Plated",
-            "price": 0.99,
+            "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=7139",
             "product_id": 7139,
             "available": true,
@@ -41729,7 +41729,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=7302",
             "product_id": 7302,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 80
         },
@@ -44195,7 +44195,7 @@
             "price": 299.99,
             "url": "https://www.monoprice.com/product?p_id=9482",
             "product_id": 9482,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 15
         },
@@ -44249,7 +44249,7 @@
             "price": 1.29,
             "url": "https://www.monoprice.com/product?p_id=9545",
             "product_id": 9545,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 183
         },
@@ -45255,6 +45255,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-24T11:17:29Z"
+        "timestamp": "2023-04-24T12:36:23Z"
     }
 }
