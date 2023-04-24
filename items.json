@@ -28751,7 +28751,7 @@
             "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=40539",
             "product_id": 40539,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 251
         },
@@ -28931,9 +28931,9 @@
             "price": 188.99,
             "url": "https://www.monoprice.com/product?p_id=40778",
             "product_id": 40778,
-            "available": false,
+            "available": true,
             "rating": 4.8,
-            "num_reviews": 18
+            "num_reviews": 19
         },
         "40782": {
             "name": "DisplayPort 1.4 EasyPlug Nylon Braided Cable, 3ft, Gray",
@@ -28985,7 +28985,7 @@
             "price": 104.99,
             "url": "https://www.monoprice.com/product?p_id=40788",
             "product_id": 40788,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 13
         },
@@ -29345,7 +29345,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=41023",
             "product_id": 41023,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 36
         },
@@ -29624,7 +29624,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=41096",
             "product_id": 41096,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 3
         },
@@ -30013,7 +30013,7 @@
             "product_id": 41374,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1848
+            "num_reviews": 1849
         },
         "41375": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 2-Conductor Speaker Wire, 50ft, Black",
@@ -30247,7 +30247,7 @@
             "product_id": 41400,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1848
+            "num_reviews": 1849
         },
         "41401": {
             "name": "Monoprice Access Series 18AWG CL2 Rated 2-Conductor Speaker Wire, 500ft, Black",
@@ -30500,6 +30500,15 @@
             "available": false,
             "rating": 0,
             "num_reviews": 0
+        },
+        "41626": {
+            "name": "Monolith by Monoprice THX-265B THX Select Certified Dolby Atmos Enabled Bookshelf Speaker (Each) (open box)",
+            "price": 259,
+            "url": "https://www.monoprice.com/product?p_id=41626",
+            "product_id": 41626,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 1
         },
         "41639": {
             "name": "Monoprice Cat5e 100ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
@@ -30911,7 +30920,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=41812",
             "product_id": 41812,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1458
         },
@@ -31264,7 +31273,7 @@
             "product_id": 42014,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 106
+            "num_reviews": 107
         },
         "42015": {
             "name": "Pure Outdoor by Monoprice Heavy Duty All Terrain Collapsible Outdoor Wagon, Red",
@@ -32281,7 +32290,7 @@
             "product_id": 42531,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 260
+            "num_reviews": 261
         },
         "42532": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft/3ft/6ft, Red - 3 Pack",
@@ -32308,7 +32317,7 @@
             "product_id": 42534,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 392
+            "num_reviews": 393
         },
         "42535": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Red - 3 Pack",
@@ -32859,23 +32868,14 @@
             "rating": 4.6,
             "num_reviews": 7
         },
-        "42771": {
-            "name": "Dark Matter by Monoprice 27in Gaming Monitor - 16:9, 1920x1080p, FHD, 165Hz",
-            "price": 149.99,
-            "url": "https://www.monoprice.com/product?p_id=42771",
-            "product_id": 42771,
-            "available": false,
-            "rating": 4.4,
-            "num_reviews": 9
-        },
         "42772": {
             "name": "Dark Matter by Monoprice 34in Curved Ultrawide Gaming Monitor - 21:9, 3440x1440p, UWQHD, 144Hz, 1500R, VA",
             "price": 499.99,
             "url": "https://www.monoprice.com/product?p_id=42772",
             "product_id": 42772,
             "available": false,
-            "rating": 4.8,
-            "num_reviews": 29
+            "rating": 4.7,
+            "num_reviews": 30
         },
         "42824": {
             "name": "Monoprice M5 x 16mm Rack Mount Cage Nuts, Screws and Washers, 50 sets, Zinc Plated, Black",
@@ -32954,7 +32954,7 @@
             "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=42833",
             "product_id": 42833,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 263
         },
@@ -33137,15 +33137,6 @@
             "available": false,
             "rating": 4.3,
             "num_reviews": 31
-        },
-        "42891": {
-            "name": "Monoprice 32in Zero-G Curved Gaming Monitor - 1500R, 16:9, 2560x1440p, WQHD, 165Hz, HDMI, DisplayPort, VA",
-            "price": 197.99,
-            "url": "https://www.monoprice.com/product?p_id=42891",
-            "product_id": 42891,
-            "available": false,
-            "rating": 4.7,
-            "num_reviews": 19
         },
         "42892": {
             "name": "Dark Matter by Monoprice 27in Gaming Monitor - 16:9, 2560x1440p, QHD, 180Hz, IGZO",
@@ -34286,7 +34277,7 @@
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=43208",
             "product_id": 43208,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 10
         },
@@ -34378,7 +34369,7 @@
             "product_id": 43219,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 264
+            "num_reviews": 267
         },
         "43220": {
             "name": "Monoprice 8K Ultra High Speed HDMI Cable, 48Gbps, Black, 15ft",
@@ -34504,7 +34495,7 @@
             "product_id": 43243,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 8
+            "num_reviews": 9
         },
         "43244": {
             "name": "Monoprice Bluetooth 5 Transmitter and Receiver with aptX Low Latency, Wireless Bluetooth Audio Streaming Adapter for TV, PC, PS4, Xbox, Headphones, Home Sound Car Stereo Speaker with 3.5mm AUX or RCA",
@@ -34512,8 +34503,8 @@
             "url": "https://www.monoprice.com/product?p_id=43244",
             "product_id": 43244,
             "available": false,
-            "rating": 4.5,
-            "num_reviews": 8
+            "rating": 4.6,
+            "num_reviews": 9
         },
         "43245": {
             "name": "Monoprice Bluetooth 5 Receiver with Mic Input",
@@ -34628,7 +34619,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=43303",
             "product_id": 43303,
-            "available": true,
+            "available": false,
             "rating": 1.8,
             "num_reviews": 14
         },
@@ -35060,7 +35051,7 @@
             "price": 139.99,
             "url": "https://www.monoprice.com/product?p_id=43449",
             "product_id": 43449,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 8
         },
@@ -35825,7 +35816,7 @@
             "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=44028",
             "product_id": 44028,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -35880,8 +35871,8 @@
             "url": "https://www.monoprice.com/product?p_id=44091",
             "product_id": 44091,
             "available": true,
-            "rating": 4.5,
-            "num_reviews": 2
+            "rating": 4.7,
+            "num_reviews": 3
         },
         "44092": {
             "name": "Pure Outdoor Multi Functional Hammer with Fabric Bag   18CM",
@@ -36042,8 +36033,8 @@
             "url": "https://www.monoprice.com/product?p_id=44268",
             "product_id": 44268,
             "available": true,
-            "rating": 5,
-            "num_reviews": 4
+            "rating": 4.8,
+            "num_reviews": 5
         },
         "443": {
             "name": "Monoprice 10ft DB 9 M/F Molded Cable",
@@ -36554,7 +36545,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=44498",
             "product_id": 44498,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 520
         },
@@ -36617,7 +36608,7 @@
             "price": 2.89,
             "url": "https://www.monoprice.com/product?p_id=44504",
             "product_id": 44504,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 519
         },
@@ -36653,7 +36644,7 @@
             "price": 3.69,
             "url": "https://www.monoprice.com/product?p_id=44508",
             "product_id": 44508,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 519
         },
@@ -36680,7 +36671,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=44511",
             "product_id": 44511,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 519
         },
@@ -36698,7 +36689,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=44513",
             "product_id": 44513,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 519
         },
@@ -36851,6 +36842,15 @@
             "price": 209.99,
             "url": "https://www.monoprice.com/product?p_id=44608",
             "product_id": 44608,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "44610": {
+            "name": "Monolith by Monoprice M518HT THX Certified 5.1 Home Theater System (Open Box)",
+            "price": 439.99,
+            "url": "https://www.monoprice.com/product?p_id=44610",
+            "product_id": 44610,
             "available": true,
             "rating": 0,
             "num_reviews": 0
@@ -45372,6 +45372,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-24T21:18:06Z"
+        "timestamp": "2023-04-24T22:18:56Z"
     }
 }
