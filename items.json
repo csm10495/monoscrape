@@ -15944,7 +15944,7 @@
             "price": 4.79,
             "url": "https://www.monoprice.com/product?p_id=30768",
             "product_id": 30768,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 198
         },
@@ -16594,7 +16594,7 @@
             "product_id": 31230,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 265
+            "num_reviews": 266
         },
         "31231": {
             "name": "Monoprice 8K Ultra High Speed HDMI Cable 6ft - 48Gbps Black",
@@ -16637,7 +16637,7 @@
             "price": 116.99,
             "url": "https://www.monoprice.com/product?p_id=31236",
             "product_id": 31236,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 193
         },
@@ -16954,7 +16954,7 @@
             "product_id": 33049,
             "available": true,
             "rating": 3.9,
-            "num_reviews": 40
+            "num_reviews": 41
         },
         "33085": {
             "name": "Monoprice 3-piece Desktop for Motorized and Manual-Crank Height Adjustable Desks, Black",
@@ -17357,7 +17357,7 @@
             "price": 95.99,
             "url": "https://www.monoprice.com/product?p_id=33393",
             "product_id": 33393,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 54
         },
@@ -17807,7 +17807,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=33656",
             "product_id": 33656,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 7
         },
@@ -18329,7 +18329,7 @@
             "price": 48.99,
             "url": "https://www.monoprice.com/product?p_id=33835",
             "product_id": 33835,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 67
         },
@@ -19121,7 +19121,7 @@
             "price": 2.29,
             "url": "https://www.monoprice.com/product?p_id=34230",
             "product_id": 34230,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 76
         },
@@ -20732,7 +20732,7 @@
             "price": 0.99,
             "url": "https://www.monoprice.com/product?p_id=35044",
             "product_id": 35044,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 8
         },
@@ -20885,7 +20885,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=35099",
             "product_id": 35099,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 12
         },
@@ -21921,8 +21921,8 @@
             "url": "https://www.monoprice.com/product?p_id=36230",
             "product_id": 36230,
             "available": true,
-            "rating": 4.6,
-            "num_reviews": 14
+            "rating": 4.5,
+            "num_reviews": 15
         },
         "36231": {
             "name": "Monoprice Cat6 Outdoor Rated Ethernet Patch Cable - Molded RJ45 Connectors, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 75ft, White",
@@ -22028,7 +22028,7 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=36287",
             "product_id": 36287,
-            "available": false,
+            "available": true,
             "rating": 3.9,
             "num_reviews": 21
         },
@@ -22425,8 +22425,8 @@
             "url": "https://www.monoprice.com/product?p_id=36740",
             "product_id": 36740,
             "available": false,
-            "rating": 4.2,
-            "num_reviews": 33
+            "rating": 4.3,
+            "num_reviews": 34
         },
         "36742": {
             "name": "Blackbird 4K 1x4 HDMI Splitter, Supports HDMI 2.0, HDCP 2.2, 4K@60Hz, YCbCr 4:4:4, Featuring 4K to 1080p Downscaling",
@@ -22541,7 +22541,7 @@
             "price": 199.99,
             "url": "https://www.monoprice.com/product?p_id=37882",
             "product_id": 37882,
-            "available": true,
+            "available": false,
             "rating": 4.1,
             "num_reviews": 19
         },
@@ -22640,7 +22640,7 @@
             "price": 399.99,
             "url": "https://www.monoprice.com/product?p_id=38035",
             "product_id": 38035,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 217
         },
@@ -22902,8 +22902,8 @@
             "url": "https://www.monoprice.com/product?p_id=38129",
             "product_id": 38129,
             "available": false,
-            "rating": 3.8,
-            "num_reviews": 14
+            "rating": 3.6,
+            "num_reviews": 15
         },
         "38134": {
             "name": "Monoprice Qi Certified Dual Device Fast Wireless Charging Pad, 7.5W/10W Output, White",
@@ -23342,7 +23342,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=38314",
             "product_id": 38314,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 260
         },
@@ -23623,7 +23623,7 @@
             "product_id": 38384,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 47
+            "num_reviews": 48
         },
         "38390": {
             "name": "Monoprice Nylon Braided USB-C To Lightning Cable - 3 Feet - Black ( MFI Certified ) Flexible, Durable, Fast Charging, Compatible with Apple iPhone 13 / Pro / Pro Max / AirPods Pro - AtlasFlex Series",
@@ -23666,7 +23666,7 @@
             "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=38401",
             "product_id": 38401,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 15
         },
@@ -23677,7 +23677,7 @@
             "product_id": 38403,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 16
+            "num_reviews": 17
         },
         "38415": {
             "name": "Monoprice OM4 Fiber Optic Cable - SC/SC, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 15m",
@@ -23792,7 +23792,7 @@
             "price": 2499.99,
             "url": "https://www.monoprice.com/product?p_id=38543",
             "product_id": 38543,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 19
         },
@@ -24235,7 +24235,7 @@
             "product_id": 38789,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 632
+            "num_reviews": 633
         },
         "38791": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 1.5ft, Black",
@@ -24424,7 +24424,7 @@
             "product_id": 38814,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 75
+            "num_reviews": 79
         },
         "38815": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 1.5ft, Blue",
@@ -24523,7 +24523,7 @@
             "product_id": 38827,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 77
+            "num_reviews": 79
         },
         "38828": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 6ft, White, 3-Pack",
@@ -24604,7 +24604,7 @@
             "product_id": 38844,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 57
+            "num_reviews": 58
         },
         "38845": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 3A/60W, 1.5ft, Blue",
@@ -24647,7 +24647,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=38849",
             "product_id": 38849,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 58
         },
@@ -24665,7 +24665,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=38851",
             "product_id": 38851,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 58
         },
@@ -25531,7 +25531,7 @@
             "product_id": 39165,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 140
+            "num_reviews": 141
         },
         "39166": {
             "name": "Monolith by Monoprice 4 Tier Audio Stand XL, Maple",
@@ -25629,8 +25629,8 @@
             "url": "https://www.monoprice.com/product?p_id=39240",
             "product_id": 39240,
             "available": true,
-            "rating": 4,
-            "num_reviews": 17
+            "rating": 4.1,
+            "num_reviews": 18
         },
         "39241": {
             "name": "Monoprice Ultra Compact USB Type-C 3.2 Gen2 Cable, 10Gbps, 5A, Black 1m (3.3ft)",
@@ -26071,7 +26071,7 @@
             "product_id": 39483,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 265
+            "num_reviews": 266
         },
         "39488": {
             "name": "Monoprice Adjustable 22 lb. Capacity Speaker Wall Mount Brackets (Pair) Black",
@@ -27045,6 +27045,24 @@
             "rating": 0,
             "num_reviews": 0
         },
+        "39693": {
+            "name": "Monolith by Monoprice M12-S 12\" THX Certified Sealed 500 Watt Powered Subwoofer (Open Box)",
+            "price": 679.99,
+            "url": "https://www.monoprice.com/product?p_id=39693",
+            "product_id": 39693,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "39694": {
+            "name": "Monolith by Monoprice M10-S 10\" THX Certified Sealed 500 Watt Powered Subwoofer (Open Box)",
+            "price": 399.99,
+            "url": "https://www.monoprice.com/product?p_id=39694",
+            "product_id": 39694,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "39752": {
             "name": "Monoprice Entegrade Series Cat6A 19in 1U Patch Panel, Shielded, 24-port Dual IDC",
             "price": 54.99,
@@ -27439,7 +27457,7 @@
             "product_id": 39914,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1008
+            "num_reviews": 1009
         },
         "39915": {
             "name": "Monoprice USB Type-A to USB Type-B 2.0 Cable - 28/24AWG Gold Plated Black 3ft, 3-Pack",
@@ -27484,7 +27502,7 @@
             "product_id": 39919,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1008
+            "num_reviews": 1009
         },
         "3992": {
             "name": "Monoprice 4K High Speed HDMI Cable 6ft - 18Gbps Black",
@@ -27511,7 +27529,7 @@
             "product_id": 39921,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1584
+            "num_reviews": 1586
         },
         "39922": {
             "name": "Monoprice USB Type-A to USB Type-A Female 2.0 Extension Cable - 28/24AWG Gold Plated Black 1.5ft, 5-Pack",
@@ -27547,7 +27565,7 @@
             "product_id": 39925,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1585
+            "num_reviews": 1586
         },
         "39926": {
             "name": "Monoprice USB Type-A to USB Type-A Female 2.0 Extension Cable - 28/24AWG Gold Plated Black 6ft, 5-Pack",
@@ -45354,6 +45372,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-24T20:21:42Z"
+        "timestamp": "2023-04-24T21:18:06Z"
     }
 }
