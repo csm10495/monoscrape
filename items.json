@@ -13185,6 +13185,15 @@
             "rating": 4.5,
             "num_reviews": 11
         },
+        "30711": {
+            "name": "Workstream by Monoprice Light-Weight Rocking Footrest, Fidget Foot Rocker",
+            "price": 14.99,
+            "url": "https://www.monoprice.com/product?p_id=30711",
+            "product_id": 30711,
+            "available": true,
+            "rating": 3,
+            "num_reviews": 1
+        },
         "30712": {
             "name": "Workstream by Monoprice Height-Adjustable Standing Footrest, Steel",
             "price": 36.99,
@@ -13914,15 +13923,6 @@
             "rating": 4.8,
             "num_reviews": 261
         },
-        "31219": {
-            "name": "Monoprice OM4 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, 10GB, LSZH, Purple, 2m, Corning",
-            "price": 4.49,
-            "url": "https://www.monoprice.com/product?p_id=31219",
-            "product_id": 31219,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 2
-        },
         "31229": {
             "name": "Monoprice 8K Ultra High Speed HDMI Cable 1.5ft - 48Gbps Black",
             "price": 6.36,
@@ -13982,7 +13982,7 @@
             "price": 116.99,
             "url": "https://www.monoprice.com/product?p_id=31236",
             "product_id": 31236,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 193
         },
@@ -14666,7 +14666,7 @@
             "price": 799.99,
             "url": "https://www.monoprice.com/product?p_id=33305",
             "product_id": 33305,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 38
         },
@@ -15134,7 +15134,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=33652",
             "product_id": 33652,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 7
         },
@@ -15656,7 +15656,7 @@
             "price": 88.99,
             "url": "https://www.monoprice.com/product?p_id=33833",
             "product_id": 33833,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 54
         },
@@ -17321,7 +17321,7 @@
             "price": 44.99,
             "url": "https://www.monoprice.com/product?p_id=34605",
             "product_id": 34605,
-            "available": true,
+            "available": false,
             "rating": 3.8,
             "num_reviews": 29
         },
@@ -17557,7 +17557,7 @@
             "product_id": 34774,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "34775": {
             "name": "FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 10m, White, 5 pack",
@@ -17593,7 +17593,7 @@
             "product_id": 34780,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "34782": {
             "name": "SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, S/STP, Pure Bare Copper Wire, 36AWG, 0.5m, Black, 5 pack",
@@ -18567,15 +18567,6 @@
             "rating": 2.8,
             "num_reviews": 11
         },
-        "35425": {
-            "name": "Monoprice 48 Port Cat6A Unshielded Patch Panel, 1U, Horizontal 180 degree, Dustproof Cover, with Wire Support Bar",
-            "price": 64.99,
-            "url": "https://www.monoprice.com/product?p_id=35425",
-            "product_id": 35425,
-            "available": true,
-            "rating": 4.3,
-            "num_reviews": 4
-        },
         "35429": {
             "name": "Monoprice 24 Port Cat5e UTP Patch Panel, 1U, Toolless, Rotary Type, with Wire Support Bar",
             "price": 27.99,
@@ -18662,7 +18653,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=35534",
             "product_id": 35534,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -18934,7 +18925,7 @@
             "product_id": 35914,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 23
+            "num_reviews": 24
         },
         "3593": {
             "name": "Monoprice 15ft Super VGA M/F CL2 Rated (For In-Wall Installation) Cable with Ferrites (Gold Plated)",
@@ -19679,7 +19670,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=36644",
             "product_id": 36644,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 4
         },
@@ -20599,7 +20590,7 @@
             "product_id": 38302,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 392
+            "num_reviews": 393
         },
         "38303": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, White",
@@ -20689,7 +20680,7 @@
             "product_id": 38314,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 260
+            "num_reviews": 261
         },
         "38315": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, White",
@@ -21634,7 +21625,7 @@
             "product_id": 38797,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 76
+            "num_reviews": 79
         },
         "38799": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 1.5ft, Blue",
@@ -22001,7 +21992,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=38851",
             "product_id": 38851,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 58
         },
@@ -22516,7 +22507,7 @@
             "product_id": 39019,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 60
+            "num_reviews": 61
         },
         "39020": {
             "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam, 22 x 14 x 8 in, Orange",
@@ -22721,7 +22712,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=39113",
             "product_id": 39113,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -22912,7 +22903,7 @@
             "product_id": 39170,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 20
+            "num_reviews": 21
         },
         "39172": {
             "name": "Monoprice Replacement Door Open Sensor for the Maker Ultimate 2 3D Printer (36045)",
@@ -23072,7 +23063,7 @@
             "price": 9.59,
             "url": "https://www.monoprice.com/product?p_id=39300",
             "product_id": 39300,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 5
         },
@@ -23405,7 +23396,7 @@
             "price": 58.99,
             "url": "https://www.monoprice.com/product?p_id=39483",
             "product_id": 39483,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 266
         },
@@ -23902,7 +23893,7 @@
             "product_id": 39554,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13602
+            "num_reviews": 13603
         },
         "39555": {
             "name": "Monoprice 4K High Speed HDMI Cable 20ft - 18Gbps Black - 3 Pack",
@@ -24611,7 +24602,7 @@
             "price": 9.29,
             "url": "https://www.monoprice.com/product?p_id=39838",
             "product_id": 39838,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 163
         },
@@ -24629,7 +24620,7 @@
             "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=39840",
             "product_id": 39840,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 163
         },
@@ -42717,6 +42708,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-25T15:38:00Z"
+        "timestamp": "2023-04-25T16:25:15Z"
     }
 }
