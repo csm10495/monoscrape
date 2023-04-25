@@ -13858,7 +13858,7 @@
             "product_id": 2747,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1537
+            "num_reviews": 1538
         },
         "27471": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, S/STP, Pure Bare Copper Wire, 36AWG, 3ft, Red",
@@ -14569,7 +14569,7 @@
             "product_id": 2795,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1537
+            "num_reviews": 1538
         },
         "2801": {
             "name": "Monoprice 1 PAIR OF High-Quality Gold Plated Speaker Banana Plugs, Closed Screw Type",
@@ -25972,7 +25972,7 @@
             "product_id": 3945,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13602
+            "num_reviews": 13603
         },
         "39450": {
             "name": "Monoprice OM1 Fiber Optic Cable - SC/ST, 62.5/125 Type, Multi-Mode, Duplex, Orange, 3m",
@@ -25990,7 +25990,7 @@
             "product_id": 3947,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13602
+            "num_reviews": 13603
         },
         "39475": {
             "name": "Monoprice 8K Slim Ultra High Speed HDMI Cable 1ft - 48Gbps Black",
@@ -45354,6 +45354,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-25T06:23:25Z"
+        "timestamp": "2023-04-25T07:17:29Z"
     }
 }
