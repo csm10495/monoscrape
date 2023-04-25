@@ -27824,7 +27824,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=40068",
             "product_id": 40068,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 8
         },
@@ -27869,7 +27869,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=40073",
             "product_id": 40073,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 3
         },
@@ -29120,7 +29120,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=40886",
             "product_id": 40886,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 56
         },
@@ -29453,7 +29453,7 @@
             "price": 8.49,
             "url": "https://www.monoprice.com/product?p_id=41037",
             "product_id": 41037,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 12
         },
@@ -29624,7 +29624,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=41096",
             "product_id": 41096,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 3
         },
@@ -30031,7 +30031,7 @@
             "product_id": 41376,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1849
+            "num_reviews": 1850
         },
         "41377": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 2-Conductor Speaker Wire, 250ft, Black",
@@ -30389,7 +30389,7 @@
             "price": 1699.99,
             "url": "https://www.monoprice.com/product?p_id=41496",
             "product_id": 41496,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 19
         },
@@ -30443,7 +30443,7 @@
             "price": 58.99,
             "url": "https://www.monoprice.com/product?p_id=41527",
             "product_id": 41527,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 6
         },
@@ -30452,7 +30452,7 @@
             "price": 23.99,
             "url": "https://www.monoprice.com/product?p_id=41528",
             "product_id": 41528,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 10
         },
@@ -30922,7 +30922,7 @@
             "product_id": 41812,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "41813": {
             "name": "Monoprice Cat6 1ft Blue 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -30940,7 +30940,7 @@
             "product_id": 41814,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "41815": {
             "name": "Monoprice Cat6 2ft Blue 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -30949,7 +30949,7 @@
             "product_id": 41815,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "41816": {
             "name": "Monoprice Cat6 3ft Black 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -30958,7 +30958,7 @@
             "product_id": 41816,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "41817": {
             "name": "Monoprice Cat6 3ft Blue 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -31082,7 +31082,7 @@
             "price": 5.09,
             "url": "https://www.monoprice.com/product?p_id=41938",
             "product_id": 41938,
-            "available": false,
+            "available": true,
             "rating": 4,
             "num_reviews": 5
         },
@@ -32353,7 +32353,7 @@
             "product_id": 42538,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 392
+            "num_reviews": 393
         },
         "42539": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C Charge and Sync Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 6ft, Red - 3 Pack",
@@ -32587,7 +32587,7 @@
             "product_id": 42673,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 126
+            "num_reviews": 127
         },
         "42674": {
             "name": "Monoprice 8K Certified Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 30AWG, 6ft, Black",
@@ -32596,7 +32596,7 @@
             "product_id": 42674,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 126
+            "num_reviews": 128
         },
         "42675": {
             "name": "Monoprice 8K Certified Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 28AWG, 10ft, Black",
@@ -32659,7 +32659,7 @@
             "product_id": 42681,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 220
+            "num_reviews": 221
         },
         "42682": {
             "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 30AWG, 6ft, Black",
@@ -32821,7 +32821,7 @@
             "product_id": 42763,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 35
+            "num_reviews": 36
         },
         "42764": {
             "name": "Monoprice WFH Single Motor Height Adjustable Motorized Sit-Stand Desk with Solid-core Natural Wood Top, White",
@@ -33135,8 +33135,8 @@
             "url": "https://www.monoprice.com/product?p_id=42892",
             "product_id": 42892,
             "available": false,
-            "rating": 4.2,
-            "num_reviews": 33
+            "rating": 4.3,
+            "num_reviews": 32
         },
         "42897": {
             "name": "Folding Table 4 Foot Adjustable Height Portable Lightweight Aluminum Camping Table, Small Folding Table with Carry Handle, for Outdoor/Indoor",
@@ -33665,7 +33665,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=43049",
             "product_id": 43049,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 4
         },
@@ -34182,15 +34182,6 @@
             "rating": 5,
             "num_reviews": 8
         },
-        "43194": {
-            "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 14AWG, 15A, SJT, 100-250V, White, 6ft",
-            "price": 4.49,
-            "url": "https://www.monoprice.com/product?p_id=43194",
-            "product_id": 43194,
-            "available": true,
-            "rating": 5,
-            "num_reviews": 8
-        },
         "43197": {
             "name": "Monoprice Commercial Series Low Profile Extra Wide Tilt TV Wall Mount Bracket for LED TVs 43in to 90in, Max Weight 154 lbs, VESA Patterns up to 800x400, Fits Curved Screens",
             "price": 29.99,
@@ -34268,7 +34259,7 @@
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=43208",
             "product_id": 43208,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 10
         },
@@ -34430,7 +34421,7 @@
             "price": 509.99,
             "url": "https://www.monoprice.com/product?p_id=43237",
             "product_id": 43237,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 10
         },
@@ -34720,7 +34711,7 @@
             "product_id": 43339,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "43340": {
             "name": "Monoprice Cat6 1ft White 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -34738,7 +34729,7 @@
             "product_id": 43341,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "43343": {
             "name": "Monoprice Cat6 3ft White 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -34747,7 +34738,7 @@
             "product_id": 43343,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "43344": {
             "name": "Monoprice Cat6 5ft White 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -34756,7 +34747,7 @@
             "product_id": 43344,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "43345": {
             "name": "Monoprice Cat6 7ft White 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -34765,7 +34756,7 @@
             "product_id": 43345,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "43347": {
             "name": "Monoprice Cat6 10ft Black 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -34783,7 +34774,7 @@
             "product_id": 43348,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "43349": {
             "name": "Monoprice Cat6 10ft White 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -34792,7 +34783,7 @@
             "product_id": 43349,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "43351": {
             "name": "Pure Outdoor by Monoprice 50L Zippered Waterproof Dry Bag Backpack Duffel",
@@ -35051,7 +35042,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=43450",
             "product_id": 43450,
-            "available": false,
+            "available": true,
             "rating": 4,
             "num_reviews": 2
         },
@@ -35483,7 +35474,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=43672",
             "product_id": 43672,
-            "available": false,
+            "available": true,
             "rating": 4,
             "num_reviews": 3
         },
@@ -36041,7 +36032,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=44317",
             "product_id": 44317,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 1
         },
@@ -36554,7 +36545,7 @@
             "price": 2.19,
             "url": "https://www.monoprice.com/product?p_id=44501",
             "product_id": 44501,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 519
         },
@@ -36563,7 +36554,7 @@
             "price": 2.59,
             "url": "https://www.monoprice.com/product?p_id=44502",
             "product_id": 44502,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 519
         },
@@ -36572,7 +36563,7 @@
             "price": 2.59,
             "url": "https://www.monoprice.com/product?p_id=44503",
             "product_id": 44503,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 519
         },
@@ -36680,6 +36671,15 @@
             "price": 949.99,
             "url": "https://www.monoprice.com/product?p_id=44575",
             "product_id": 44575,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "44576": {
+            "name": "Monolith by Monoprice M-12 V2 12in THX Certified Ultra 500-Watt Powered Subwoofer (Open Box)",
+            "price": 899.99,
+            "url": "https://www.monoprice.com/product?p_id=44576",
+            "product_id": 44576,
             "available": true,
             "rating": 0,
             "num_reviews": 0
@@ -45372,6 +45372,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-25T22:18:20Z"
+        "timestamp": "2023-04-25T23:19:12Z"
     }
 }
