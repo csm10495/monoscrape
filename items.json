@@ -610,7 +610,7 @@
             "product_id": 11043,
             "available": false,
             "rating": 4.3,
-            "num_reviews": 572
+            "num_reviews": 573
         },
         "11044": {
             "name": "Monoprice Premium 3D Printer Filament PLA 1.75mm 1kg/spool, Bright Green",
@@ -745,14 +745,14 @@
             "product_id": 11219,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "11220": {
             "name": "Monoprice Cat6A 6in Blue Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Molded RJ45, Entegrade Series Ethernet Cable",
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=11220",
             "product_id": 11220,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 64
         },
@@ -961,7 +961,7 @@
             "product_id": 11256,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "11257": {
             "name": "Monoprice Cat6 14ft Orange Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -970,7 +970,7 @@
             "product_id": 11257,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "11258": {
             "name": "Monoprice Cat6 14ft Yellow Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -979,7 +979,7 @@
             "product_id": 11258,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "11259": {
             "name": "Monoprice Cat6A 14ft Blue Patch Cable,  Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Molded RJ45, Entegrade Series Ethernet Cable",
@@ -1078,7 +1078,7 @@
             "product_id": 11275,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "11276": {
             "name": "Monoprice Cat6A 1ft Blue Patch Cable,  Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Molded RJ45, Entegrade Series Ethernet Cable",
@@ -1096,7 +1096,7 @@
             "product_id": 11277,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "11278": {
             "name": "Monoprice Cat6 20ft Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -1114,7 +1114,7 @@
             "product_id": 11279,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "11280": {
             "name": "Monoprice FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 20ft, Orange",
@@ -1222,7 +1222,7 @@
             "product_id": 11294,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "11295": {
             "name": "Monoprice Cat6 25ft Gray Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -1231,7 +1231,7 @@
             "product_id": 11295,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "11297": {
             "name": "Monoprice Cat6A 25ft Blue Patch Cable,  Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Molded RJ45, Entegrade Series Ethernet Cable",
@@ -1276,7 +1276,7 @@
             "product_id": 11308,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "11309": {
             "name": "Monoprice Cat6A 2ft Blue Patch Cable,  Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Molded RJ45, Entegrade Series Ethernet Cable",
@@ -1357,7 +1357,7 @@
             "product_id": 11320,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "11322": {
             "name": "Monoprice FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 30ft, Green",
@@ -1366,7 +1366,7 @@
             "product_id": 11322,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "11325": {
             "name": "Monoprice Cat6 30ft White Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -1375,7 +1375,7 @@
             "product_id": 11325,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "11326": {
             "name": "Monoprice Entegrade Cat6A Ethernet Patch Cable - ZEROboot RJ45, Stranded, 550MHz, STP, Pure Bare Copper Wire, 10G, 26AWG, 30ft, Blue",
@@ -1474,7 +1474,7 @@
             "product_id": 11338,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "11339": {
             "name": "Monoprice Cat6A 3ft Blue Patch Cable,  Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Molded RJ45, Entegrade Series Ethernet Cable",
@@ -1636,7 +1636,7 @@
             "product_id": 11362,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "11363": {
             "name": "Monoprice Cat6A 5ft Blue Patch Cable,  Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Molded RJ45, Entegrade Series Ethernet Cable",
@@ -1690,7 +1690,7 @@
             "product_id": 11374,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "11375": {
             "name": "Monoprice FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 75ft, Gray",
@@ -1708,7 +1708,7 @@
             "product_id": 11378,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "11379": {
             "name": "Monoprice FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 75ft, White",
@@ -1717,7 +1717,7 @@
             "product_id": 11379,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "11381": {
             "name": "Monoprice Cat5e 10ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -1816,7 +1816,7 @@
             "product_id": 11392,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "11393": {
             "name": "Monoprice Cat6A 7ft Blue Patch Cable,  Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Molded RJ45, Entegrade Series Ethernet Cable",
@@ -2193,8 +2193,8 @@
             "url": "https://www.monoprice.com/product?p_id=11948",
             "product_id": 11948,
             "available": true,
-            "rating": 4.4,
-            "num_reviews": 43
+            "rating": 4.5,
+            "num_reviews": 44
         },
         "11995": {
             "name": "Monoprice Z-Wave Plugin On/Off, NO LOGO (Works with Alexa \u0026 Google Home with Hub)",
@@ -2347,7 +2347,7 @@
             "product_id": 12182,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 60
+            "num_reviews": 61
         },
         "12183": {
             "name": "Pure Outdoor by Monoprice Weatherproof Wheeled Transport Hard Case with Customizable Foam, Fits Phantom 3/2 Drone + Accessories, 25 x 19 x 11 in",
@@ -2390,7 +2390,7 @@
             "price": 315.99,
             "url": "https://www.monoprice.com/product?p_id=12277",
             "product_id": 12277,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 7
         },
@@ -2804,7 +2804,7 @@
             "price": 119.99,
             "url": "https://www.monoprice.com/product?p_id=12759",
             "product_id": 12759,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 5
         },
@@ -2966,7 +2966,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=12841",
             "product_id": 12841,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 2056
         },
@@ -3506,7 +3506,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=13238",
             "product_id": 13238,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 165
         },
@@ -4118,7 +4118,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=13507",
             "product_id": 13507,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 72
         },
@@ -4325,7 +4325,7 @@
             "price": 3.29,
             "url": "https://www.monoprice.com/product?p_id=13533",
             "product_id": 13533,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -4370,7 +4370,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=13538",
             "product_id": 13538,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -4517,15 +4517,6 @@
             "available": false,
             "rating": 4.7,
             "num_reviews": 272
-        },
-        "13560": {
-            "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, U/FTP, CM, Pure Bare Copper Wire, 23AWG, 1000ft, Gray",
-            "price": 132.29,
-            "url": "https://www.monoprice.com/product?p_id=13560",
-            "product_id": 13560,
-            "available": true,
-            "rating": 3.9,
-            "num_reviews": 42
         },
         "13561": {
             "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, U/FTP, CM, Pure Bare Copper Wire, 23AWG, 500ft, Gray",
@@ -5288,7 +5279,7 @@
             "price": 67.99,
             "url": "https://www.monoprice.com/product?p_id=13758",
             "product_id": 13758,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 219
         },
@@ -5603,7 +5594,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=13929",
             "product_id": 13929,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 660
         },
@@ -5677,7 +5668,7 @@
             "product_id": 13937,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 659
+            "num_reviews": 661
         },
         "13938": {
             "name": "Monoprice Select Series USB-A to Micro B Cable, 2.4A, 22/30AWG, Black, 15ft",
@@ -5711,7 +5702,7 @@
             "price": 303.99,
             "url": "https://www.monoprice.com/product?p_id=14104",
             "product_id": 14104,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 1
         },
@@ -5831,6 +5822,15 @@
             "available": true,
             "rating": 4.9,
             "num_reviews": 127
+        },
+        "14287": {
+            "name": "Monoprice ZEROboot Cat6 Ethernet Patch Cable - RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 2ft, Gray",
+            "price": 0.89,
+            "url": "https://www.monoprice.com/product?p_id=14287",
+            "product_id": 14287,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 166
         },
         "14288": {
             "name": "Monoprice Cat6 3ft Gray Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
@@ -6062,7 +6062,7 @@
             "price": 21.99,
             "url": "https://www.monoprice.com/product?p_id=14560",
             "product_id": 14560,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 14
         },
@@ -6182,6 +6182,15 @@
             "available": false,
             "rating": 4.9,
             "num_reviews": 3040
+        },
+        "14760": {
+            "name": "Monoprice Cat6 Ethernet Bulk Cable - Stranded, 550MHz, UTP, CM, Pure Bare Copper Wire, 24AWG, 250ft, Black",
+            "price": 35.99,
+            "url": "https://www.monoprice.com/product?p_id=14760",
+            "product_id": 14760,
+            "available": true,
+            "rating": 4.5,
+            "num_reviews": 60
         },
         "14771": {
             "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Green, (UL)",
@@ -6350,7 +6359,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=14807",
             "product_id": 14807,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -6836,7 +6845,7 @@
             "price": 18.99,
             "url": "https://www.monoprice.com/product?p_id=15153",
             "product_id": 15153,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 519
         },
@@ -6973,7 +6982,7 @@
             "product_id": 15168,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 519
+            "num_reviews": 520
         },
         "15169": {
             "name": "Monoprice Cat6A 14ft Black 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -7655,7 +7664,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=15696",
             "product_id": 15696,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 14
         },
@@ -7871,7 +7880,7 @@
             "price": 5.39,
             "url": "https://www.monoprice.com/product?p_id=15827",
             "product_id": 15827,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -8350,7 +8359,7 @@
             "product_id": 16075,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1848
+            "num_reviews": 1850
         },
         "16077": {
             "name": "Monoprice Access Series 18AWG CL2 Rated 4-Conductor Speaker Wire, 1000ft, White",
@@ -8771,7 +8780,7 @@
             "price": 27.99,
             "url": "https://www.monoprice.com/product?p_id=16219",
             "product_id": 16219,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 455
         },
@@ -9158,7 +9167,7 @@
             "price": 19.97,
             "url": "https://www.monoprice.com/product?p_id=16344",
             "product_id": 16344,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 519
         },
@@ -9459,15 +9468,6 @@
             "rating": 4.5,
             "num_reviews": 11
         },
-        "18604": {
-            "name": "Monoprice Cat6A Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 10G, 23AWG, No Logo, 1000ft, Green",
-            "price": 209.99,
-            "url": "https://www.monoprice.com/product?p_id=18604",
-            "product_id": 18604,
-            "available": true,
-            "rating": 4.5,
-            "num_reviews": 11
-        },
         "18608": {
             "name": "Monoprice Cat6 1000ft Blue CMR Bulk Cable, Shielded (F/UTP), Solid (w/spine), 23AWG, 550MHz, Pure Bare Copper, Reel in Box, No Logo, Bulk Ethernet Cable",
             "price": 199.99,
@@ -9518,7 +9518,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=18628",
             "product_id": 18628,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 100
         },
@@ -42690,6 +42690,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-25T19:17:49Z"
+        "timestamp": "2023-04-25T20:21:29Z"
     }
 }
