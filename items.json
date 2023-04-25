@@ -16196,7 +16196,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=31017",
             "product_id": 31017,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 17
         },
@@ -16549,7 +16549,7 @@
             "product_id": 31199,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 260
+            "num_reviews": 261
         },
         "31200": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Red",
@@ -16595,6 +16595,15 @@
             "available": true,
             "rating": 4.8,
             "num_reviews": 261
+        },
+        "31220": {
+            "name": "Monoprice OM4 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, 10GB, LSZH, Purple, 3m, Corning",
+            "price": 5.49,
+            "url": "https://www.monoprice.com/product?p_id=31220",
+            "product_id": 31220,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 2
         },
         "31229": {
             "name": "Monoprice 8K Ultra High Speed HDMI Cable 1.5ft - 48Gbps Black",
@@ -16655,7 +16664,7 @@
             "price": 116.99,
             "url": "https://www.monoprice.com/product?p_id=31236",
             "product_id": 31236,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 193
         },
@@ -18509,7 +18518,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=33881",
             "product_id": 33881,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -19247,7 +19256,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=34267",
             "product_id": 34267,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 76
         },
@@ -20239,7 +20248,7 @@
             "product_id": 34775,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "34778": {
             "name": "FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 15m, Black, 5 pack",
@@ -20257,7 +20266,7 @@
             "product_id": 34779,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "34780": {
             "name": "FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 15m, Gray, 5 pack",
@@ -21020,7 +21029,7 @@
             "price": 89.99,
             "url": "https://www.monoprice.com/product?p_id=35124",
             "product_id": 35124,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 59
         },
@@ -21623,7 +21632,7 @@
             "price": 32.99,
             "url": "https://www.monoprice.com/product?p_id=35940",
             "product_id": 35940,
-            "available": false,
+            "available": true,
             "rating": 1.7,
             "num_reviews": 3
         },
@@ -21705,8 +21714,8 @@
             "url": "https://www.monoprice.com/product?p_id=36079",
             "product_id": 36079,
             "available": false,
-            "rating": 4.8,
-            "num_reviews": 9
+            "rating": 4.4,
+            "num_reviews": 10
         },
         "36080": {
             "name": "Workstream by Monoprice Electric Height Adjustable One-Touch Ergonomic Sit-Stand Compact Workstation Desk Converter with Built-in Wireless Charging Pad, 37in",
@@ -22577,7 +22586,7 @@
             "price": 3999.99,
             "url": "https://www.monoprice.com/product?p_id=37887",
             "product_id": 37887,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 18
         },
@@ -22911,8 +22920,8 @@
             "url": "https://www.monoprice.com/product?p_id=38129",
             "product_id": 38129,
             "available": false,
-            "rating": 3.6,
-            "num_reviews": 15
+            "rating": 3.4,
+            "num_reviews": 16
         },
         "38134": {
             "name": "Monoprice Qi Certified Dual Device Fast Wireless Charging Pad, 7.5W/10W Output, White",
@@ -23180,7 +23189,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=38274",
             "product_id": 38274,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 4
         },
@@ -23290,7 +23299,7 @@
             "product_id": 38305,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 392
+            "num_reviews": 393
         },
         "38306": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Blue",
@@ -23407,7 +23416,7 @@
             "product_id": 38321,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 260
+            "num_reviews": 261
         },
         "38322": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Purple",
@@ -23614,7 +23623,7 @@
             "product_id": 38383,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 47
+            "num_reviews": 48
         },
         "38384": {
             "name": "Monoprice USB C To Lightning Cable - 6 Feet - White ( MFI Certified ) Fast Charging, Compatible with Apple iPhone 13 / Pro / Pro Max / AirPods Pro - Select Series",
@@ -23775,8 +23784,8 @@
             "url": "https://www.monoprice.com/product?p_id=38540",
             "product_id": 38540,
             "available": false,
-            "rating": 2.8,
-            "num_reviews": 8
+            "rating": 2.9,
+            "num_reviews": 9
         },
         "38541": {
             "name": "Pure Outdoor by Monoprice Tailgating and Camping Collapsible Folding Table with Insulated Cooler",
@@ -24404,9 +24413,9 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=38812",
             "product_id": 38812,
-            "available": false,
+            "available": true,
             "rating": 4.4,
-            "num_reviews": 76
+            "num_reviews": 79
         },
         "38813": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 6ft, White",
@@ -24487,7 +24496,7 @@
             "product_id": 38822,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 76
+            "num_reviews": 79
         },
         "38823": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, Black, 3ft+6ft+10ft Multipack",
@@ -24764,7 +24773,7 @@
             "price": 10.19,
             "url": "https://www.monoprice.com/product?p_id=38878",
             "product_id": 38878,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 58
         },
@@ -24917,7 +24926,7 @@
             "price": 11.49,
             "url": "https://www.monoprice.com/product?p_id=38902",
             "product_id": 38902,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 77
         },
@@ -26015,7 +26024,7 @@
             "price": 8.07,
             "url": "https://www.monoprice.com/product?p_id=39476",
             "product_id": 39476,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 56
         },
@@ -26782,7 +26791,7 @@
             "product_id": 39639,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 56
+            "num_reviews": 57
         },
         "39640": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C Charge \u0026 Sync Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 6ft, White",
@@ -26843,7 +26852,7 @@
             "price": 7.19,
             "url": "https://www.monoprice.com/product?p_id=39650",
             "product_id": 39650,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 57
         },
@@ -27275,7 +27284,7 @@
             "price": 9.29,
             "url": "https://www.monoprice.com/product?p_id=39838",
             "product_id": 39838,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 163
         },
@@ -45363,6 +45372,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-25T21:17:25Z"
+        "timestamp": "2023-04-25T22:18:20Z"
     }
 }
