@@ -25241,7 +25241,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=40079",
             "product_id": 40079,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 4
         },
@@ -26253,15 +26253,6 @@
             "rating": 2.9,
             "num_reviews": 14
         },
-        "40778": {
-            "name": "Dark Matter by Monoprice 27in Gaming Monitor - FHD, 240Hz, 1ms, DisplayHDR 400, AMD FreeSync Premium, Fast IPS-Type AHVA",
-            "price": 188.99,
-            "url": "https://www.monoprice.com/product?p_id=40778",
-            "product_id": 40778,
-            "available": false,
-            "rating": 4.8,
-            "num_reviews": 19
-        },
         "40782": {
             "name": "DisplayPort 1.4 EasyPlug Nylon Braided Cable, 3ft, Gray",
             "price": 12.73,
@@ -26447,7 +26438,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=40886",
             "product_id": 40886,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 56
         },
@@ -26789,7 +26780,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=41038",
             "product_id": 41038,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 12
         },
@@ -26888,7 +26879,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=41086",
             "product_id": 41086,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -27195,8 +27186,8 @@
             "url": "https://www.monoprice.com/product?p_id=41289",
             "product_id": 41289,
             "available": true,
-            "rating": 4.3,
-            "num_reviews": 4
+            "rating": 4.4,
+            "num_reviews": 5
         },
         "41296": {
             "name": "Monoprice Viper 12G SDI BNC Cable, 50ft, Black",
@@ -27358,7 +27349,7 @@
             "product_id": 41376,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1848
+            "num_reviews": 1849
         },
         "41377": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 2-Conductor Speaker Wire, 250ft, Black",
@@ -27421,7 +27412,7 @@
             "product_id": 41383,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1848
+            "num_reviews": 1849
         },
         "41384": {
             "name": "Monoprice Access Series 12AWG CL2 Rated 4-Conductor Speaker Wire, 100ft, Black",
@@ -27448,7 +27439,7 @@
             "product_id": 41386,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1848
+            "num_reviews": 1849
         },
         "41387": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 4-Conductor Speaker Wire, 250ft, Black",
@@ -27457,7 +27448,7 @@
             "product_id": 41387,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1848
+            "num_reviews": 1849
         },
         "41388": {
             "name": "Monoprice Access Series 16AWG CL2 Rated 4-Conductor Speaker Wire, 100ft, Black",
@@ -27520,7 +27511,7 @@
             "product_id": 41394,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1848
+            "num_reviews": 1849
         },
         "41395": {
             "name": "Monoprice Access Series 18AWG CL2 Rated 4-Conductor Speaker Wire, 1000ft, Black",
@@ -27716,7 +27707,7 @@
             "price": 1699.99,
             "url": "https://www.monoprice.com/product?p_id=41496",
             "product_id": 41496,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 19
         },
@@ -28229,9 +28220,9 @@
             "price": 13.99,
             "url": "https://www.monoprice.com/product?p_id=41810",
             "product_id": 41810,
-            "available": false,
+            "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "41811": {
             "name": "Monoprice Cat6 6in Blue 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -28240,14 +28231,14 @@
             "product_id": 41811,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "41812": {
             "name": "Monoprice Cat6 1ft Black 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=41812",
             "product_id": 41812,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1458
         },
@@ -28258,7 +28249,7 @@
             "product_id": 41813,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "41814": {
             "name": "Monoprice Cat6 2ft Black 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -28294,7 +28285,7 @@
             "product_id": 41817,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "41818": {
             "name": "Monoprice Cat6 5ft Black 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -28312,7 +28303,7 @@
             "product_id": 41819,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "41820": {
             "name": "Monoprice Cat6 7ft Black 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -28321,7 +28312,7 @@
             "product_id": 41820,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "41821": {
             "name": "Monoprice Cat6 7ft Blue 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -29417,7 +29408,7 @@
             "price": 90.99,
             "url": "https://www.monoprice.com/product?p_id=42347",
             "product_id": 42347,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 16
         },
@@ -29871,15 +29862,6 @@
             "rating": 5,
             "num_reviews": 2
         },
-        "42652": {
-            "name": "Monoprice Self Adhesive Cable Tie Mounts with Mounting Hole, 1.09x1.09 in, 100 pcs/pack, Black, ABS Type Approval",
-            "price": 2.39,
-            "url": "https://www.monoprice.com/product?p_id=42652",
-            "product_id": 42652,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 2
-        },
         "42653": {
             "name": "Monoprice 8FE+2 Combo-Port Gigabit Ethernet SNMP Switch (open box)",
             "price": 104.99,
@@ -30049,7 +30031,7 @@
             "product_id": 42687,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 220
+            "num_reviews": 221
         },
         "42688": {
             "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 26AWG, 15ft, Black - 5 Pack",
@@ -30166,7 +30148,7 @@
             "product_id": 42764,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 35
+            "num_reviews": 36
         },
         "42766": {
             "name": "Air Purifier for Home, 215ft, H11 True HEPA Filter, Remove 99.97% Allergens Smoke Pollen Pets Hair, 3 Speed, Air Cleaner, 3 Stage Filtration, Office, Bedroom",
@@ -30471,8 +30453,8 @@
             "url": "https://www.monoprice.com/product?p_id=42892",
             "product_id": 42892,
             "available": false,
-            "rating": 4.3,
-            "num_reviews": 32
+            "rating": 4.2,
+            "num_reviews": 33
         },
         "42897": {
             "name": "Folding Table 4 Foot Adjustable Height Portable Lightweight Aluminum Camping Table, Small Folding Table with Carry Handle, for Outdoor/Indoor",
@@ -31946,7 +31928,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=43303",
             "product_id": 43303,
-            "available": false,
+            "available": true,
             "rating": 1.8,
             "num_reviews": 14
         },
@@ -32065,7 +32047,7 @@
             "product_id": 43340,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "43341": {
             "name": "Monoprice Cat6 2ft White 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -32110,7 +32092,7 @@
             "product_id": 43347,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "43348": {
             "name": "Monoprice Cat6 10ft Blue 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -32406,8 +32388,8 @@
             "url": "https://www.monoprice.com/product?p_id=43452",
             "product_id": 43452,
             "available": true,
-            "rating": 4.4,
-            "num_reviews": 9
+            "rating": 4.5,
+            "num_reviews": 10
         },
         "43453": {
             "name": "Monolith by Monoprice M1000ANC Bluetooth Headphones with ANC and Dirac Virtuo Spatializer, 60H Playtime, Memory Foam Pads, Ambient Mode, Touch Control",
@@ -33048,15 +33030,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "43901": {
-            "name": "Dark Matter 32\" Gaming Display, 2560x1440p, QHD, 165Hz, BOE (Open Box)",
-            "price": 249.99,
-            "url": "https://www.monoprice.com/product?p_id=43901",
-            "product_id": 43901,
-            "available": true,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "43905": {
             "name": "Monoprice Bluetooth 5.0 + USB Transmitter Wireless Web Meeting Headset with 3D Stereo Surround Sound and Detachable Boom Mic",
             "price": 50.99,
@@ -33584,7 +33557,7 @@
             "price": 27.99,
             "url": "https://www.monoprice.com/product?p_id=44343",
             "product_id": 44343,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -33593,7 +33566,7 @@
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=44344",
             "product_id": 44344,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -33658,7 +33631,7 @@
             "product_id": 44415,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "44434": {
             "name": "Blackbird 8K60 2x1 HDMI Switch, HDMI 2.1, HDCP 2.3",
@@ -33845,7 +33818,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=44496",
             "product_id": 44496,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 519
         },
@@ -33854,7 +33827,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=44497",
             "product_id": 44497,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 519
         },
@@ -33890,7 +33863,7 @@
             "price": 2.19,
             "url": "https://www.monoprice.com/product?p_id=44500",
             "product_id": 44500,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 519
         },
@@ -33953,7 +33926,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=44507",
             "product_id": 44507,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 519
         },
@@ -33971,7 +33944,7 @@
             "price": 3.69,
             "url": "https://www.monoprice.com/product?p_id=44509",
             "product_id": 44509,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 519
         },
@@ -33998,7 +33971,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=44512",
             "product_id": 44512,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 519
         },
@@ -34010,6 +33983,15 @@
             "available": true,
             "rating": 4.9,
             "num_reviews": 519
+        },
+        "44574": {
+            "name": "Monolith by Monoprice M-15 V2 15in THX Certified Ultra 1000-Watt Subwoofer Amplifier (Open Box)",
+            "price": 1499.99,
+            "url": "https://www.monoprice.com/product?p_id=44574",
+            "product_id": 44574,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
         },
         "44575": {
             "name": "Monolith by Monoprice M-12 V2 12in THX Certified Ultra 500-Watt Powered Subwoofer, Piano Black Finish (Open Box)",
@@ -34043,6 +34025,15 @@
             "price": 1699.99,
             "url": "https://www.monoprice.com/product?p_id=44579",
             "product_id": 44579,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "44580": {
+            "name": "Monolith by Monoprice M-210 Dual 10in THX Certified Ultra 1000-Watt Powered Subwoofer (Open Box)",
+            "price": 1299.99,
+            "url": "https://www.monoprice.com/product?p_id=44580",
+            "product_id": 44580,
             "available": true,
             "rating": 0,
             "num_reviews": 0
@@ -42708,6 +42699,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-25T16:25:15Z"
+        "timestamp": "2023-04-25T17:17:53Z"
     }
 }
