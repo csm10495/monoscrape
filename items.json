@@ -17114,7 +17114,7 @@
             "price": 32.49,
             "url": "https://www.monoprice.com/product?p_id=33218",
             "product_id": 33218,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 519
         },
@@ -18943,7 +18943,7 @@
             "product_id": 34204,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 502
+            "num_reviews": 503
         },
         "34205": {
             "name": "Monoprice 4K Slim Certified Premium High Speed HDMI Cable 6ft - 18Gbps Black - 3 Pack",
@@ -22768,7 +22768,7 @@
             "product_id": 38077,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 45
+            "num_reviews": 46
         },
         "38078": {
             "name": "Monoprice Onix Series - Male RCA Two Channel Stereo Audio Cable, 25ft, Black",
@@ -24766,7 +24766,7 @@
             "product_id": 38879,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 57
+            "num_reviews": 58
         },
         "38885": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-C Charge \u0026 Sync Nylon-Braid Cable, 6ft, Black",
@@ -26494,7 +26494,7 @@
             "product_id": 39547,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13602
+            "num_reviews": 13603
         },
         "39548": {
             "name": "Monoprice 4K High Speed HDMI Cable 6ft - 18Gbps Black - 3 Pack",
@@ -26727,8 +26727,8 @@
             "url": "https://www.monoprice.com/product?p_id=39632",
             "product_id": 39632,
             "available": true,
-            "rating": 4.5,
-            "num_reviews": 20
+            "rating": 4.4,
+            "num_reviews": 21
         },
         "39633": {
             "name": "Monoprice AtlasFlex Series Durable USB 3.2 Gen 2 Type-C Data \u0026 Power Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 1m, Purple",
@@ -26818,7 +26818,7 @@
             "product_id": 39648,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 56
+            "num_reviews": 57
         },
         "39649": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C Charge \u0026 Sync Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 6ft, Blue",
@@ -27439,7 +27439,7 @@
             "product_id": 39913,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1008
+            "num_reviews": 1009
         },
         "39914": {
             "name": "Monoprice USB Type-A to USB Type-B 2.0 Cable - 28/24AWG Gold Plated Black 1.5ft, 5-Pack",
@@ -45354,6 +45354,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-25T09:18:34Z"
+        "timestamp": "2023-04-25T10:19:55Z"
     }
 }
