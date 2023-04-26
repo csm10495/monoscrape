@@ -28582,7 +28582,7 @@
             "product_id": 4043,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1848
+            "num_reviews": 1850
         },
         "40430": {
             "name": "Dark Matter by Monoprice Hyper-K Ultralight Optical Wired Gaming Mouse -  16000DPI, PixArt PMW 3389, Omron, RGB, 60g Weight",
@@ -38356,7 +38356,7 @@
             "product_id": 5431,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1584
+            "num_reviews": 1586
         },
         "5432": {
             "name": "Monoprice USB Type-A to USB Type-A Female 2.0 Extension Cable - 28/24AWG, Gold Plated, Black, 3ft",
@@ -38500,7 +38500,7 @@
             "product_id": 5446,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 553
+            "num_reviews": 554
         },
         "5447": {
             "name": "Monoprice USB-A to Mini-B 2.0 Cable - 5-Pin, 28/24AWG, Gold Plated, Black, 3ft",
@@ -42838,7 +42838,7 @@
             "product_id": 8489,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 69
+            "num_reviews": 70
         },
         "8490": {
             "name": "Monoprice 2 Port USB-A to USB-A Female 2.0 Extension Cable - Active, Repeater, Black, 32ft",
@@ -43009,7 +43009,7 @@
             "product_id": 8604,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1584
+            "num_reviews": 1586
         },
         "8605": {
             "name": "Monoprice USB Type-A to USB Type-A Female 2.0 Extension Cable - 28/24AWG, Gold Plated, White, 3ft",
@@ -45192,6 +45192,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-26T07:17:26Z"
+        "timestamp": "2023-04-26T08:23:02Z"
     }
 }
