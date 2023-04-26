@@ -1103,7 +1103,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=11278",
             "product_id": 11278,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1460
         },
@@ -1247,7 +1247,7 @@
             "price": 1.29,
             "url": "https://www.monoprice.com/product?p_id=11302",
             "product_id": 11302,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 460
         },
@@ -2966,7 +2966,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=12841",
             "product_id": 12841,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 2056
         },
@@ -6667,7 +6667,7 @@
             "product_id": 15129,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 519
+            "num_reviews": 522
         },
         "15130": {
             "name": "Monoprice Cat6A 3ft Blue 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -6811,7 +6811,7 @@
             "product_id": 15150,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 519
+            "num_reviews": 522
         },
         "15151": {
             "name": "Monoprice Cat6A 1ft Gray 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -6973,7 +6973,7 @@
             "product_id": 15168,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 520
+            "num_reviews": 522
         },
         "15169": {
             "name": "Monoprice Cat6A 14ft Black 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -7614,15 +7614,6 @@
             "rating": 3.8,
             "num_reviews": 4
         },
-        "15692": {
-            "name": "Monoprice Entegrade Series Cat6 RJ-45 Fully Shielded 180-Degree Keystone",
-            "price": 1.75,
-            "url": "https://www.monoprice.com/product?p_id=15692",
-            "product_id": 15692,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 1
-        },
         "15693": {
             "name": "Monoprice Entegrade Series Cat6 RJ-45 FTP Toolless 180-Degree Slim Style Shielded Keystone Jack",
             "price": 2.99,
@@ -7880,7 +7871,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=15830",
             "product_id": 15830,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 214
         },
@@ -9509,7 +9500,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=18628",
             "product_id": 18628,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 100
         },
@@ -45291,6 +45282,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-26T02:36:23Z"
+        "timestamp": "2023-04-26T03:19:53Z"
     }
 }
