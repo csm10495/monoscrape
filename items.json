@@ -1895,7 +1895,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=1152",
             "product_id": 1152,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 17
         },
@@ -9905,7 +9905,7 @@
             "price": 1.11,
             "url": "https://www.monoprice.com/product?p_id=2081",
             "product_id": 2081,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 65
         },
@@ -14506,7 +14506,7 @@
             "product_id": 2793,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1536
+            "num_reviews": 1538
         },
         "27930": {
             "name": "Monoprice Essentials USB Type-C to USB Type-A 2.0 Cable - 480Mbps, 3A, 26AWG, Black, 1m (3.3ft)",
@@ -28663,7 +28663,7 @@
             "product_id": 4046,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1848
+            "num_reviews": 1850
         },
         "40515": {
             "name": "Monoprice Cat6A 1000ft Black CMR Bulk Cable, Solid, UTP, 23AWG, 650MHz, 10G, Pure Bare Copper, Reel in Box, Flame-Retardant, Bulk Ethernet Cable",
@@ -28762,7 +28762,7 @@
             "product_id": 4058,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 948
+            "num_reviews": 949
         },
         "4060": {
             "name": "Monoprice 25ft RG6 (18AWG) 75Ohm, Quad Shield, CL2 Coaxial Cable with F Type Connector - White",
@@ -36878,7 +36878,7 @@
             "price": 62.99,
             "url": "https://www.monoprice.com/product?p_id=4652",
             "product_id": 4652,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 154
         },
@@ -37483,7 +37483,7 @@
             "product_id": 4957,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13602
+            "num_reviews": 13603
         },
         "4958": {
             "name": "Monoprice 4K High Speed HDMI Cable 8ft - 18Gbps Black",
@@ -38318,7 +38318,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=5377",
             "product_id": 5377,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 253
         },
@@ -38372,7 +38372,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=5383",
             "product_id": 5383,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 374
         },
@@ -38689,7 +38689,7 @@
             "product_id": 5494,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 407
+            "num_reviews": 409
         },
         "5495": {
             "name": "Monoprice 3ft Premier Series 1/4in TS Male to Male Audio Cable, 16AWG (Gold Plated)",
@@ -39119,7 +39119,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=5773",
             "product_id": 5773,
-            "available": false,
+            "available": true,
             "rating": 4.2,
             "num_reviews": 369
         },
@@ -39794,7 +39794,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=6270",
             "product_id": 6270,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 2398
         },
@@ -40667,7 +40667,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=665",
             "product_id": 665,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 421
         },
@@ -41756,7 +41756,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=7304",
             "product_id": 7304,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 131
         },
@@ -42791,7 +42791,7 @@
             "price": 21.49,
             "url": "https://www.monoprice.com/product?p_id=8243",
             "product_id": 8243,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 130
         },
@@ -42863,7 +42863,7 @@
             "price": 20.99,
             "url": "https://www.monoprice.com/product?p_id=8324",
             "product_id": 8324,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 128
         },
@@ -43315,7 +43315,7 @@
             "product_id": 8632,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 553
+            "num_reviews": 554
         },
         "8633": {
             "name": "Monoprice USB-A to Mini-B 2.0 Cable - 5-Pin, 28/24AWG, Gold Plated, White, 3ft",
@@ -44096,7 +44096,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=9441",
             "product_id": 9441,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 139
         },
@@ -44141,7 +44141,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=9447",
             "product_id": 9447,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 210
         },
@@ -44456,7 +44456,7 @@
             "price": 3.19,
             "url": "https://www.monoprice.com/product?p_id=9780",
             "product_id": 9780,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 91
         },
@@ -44953,7 +44953,7 @@
             "product_id": 9844,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "9845": {
             "name": "Monoprice Cat6 10ft Purple Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -45273,6 +45273,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-26T19:18:12Z"
+        "timestamp": "2023-04-26T20:21:07Z"
     }
 }
