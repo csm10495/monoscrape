@@ -23101,7 +23101,7 @@
             "product_id": 41379,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1848
+            "num_reviews": 1850
         },
         "41380": {
             "name": "Monoprice Access Series 16AWG CL2 Rated 2-Conductor Speaker Wire, 250ft, Black",
@@ -23751,6 +23751,15 @@
             "rating": 5,
             "num_reviews": 1
         },
+        "41702": {
+            "name": "Monoprice OM4 Fiber Optic Cable - LC/LC, UL, 50/125 Type, Multi-Mode, 10GB, OFNR, Aqua, 25m, Corning",
+            "price": 29.99,
+            "url": "https://www.monoprice.com/product?p_id=41702",
+            "product_id": 41702,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 1
+        },
         "41703": {
             "name": "Monoprice OM4 Fiber Optic Cable - LC/LC, UL, 50/125 Type, Multi-Mode, 10GB, OFNR, Aqua, 30m, Corning",
             "price": 31.99,
@@ -23813,6 +23822,15 @@
             "available": false,
             "rating": 5,
             "num_reviews": 4
+        },
+        "41713": {
+            "name": "Monoprice 8-Port 10/100/1000Mbps Gigabit Ethernet Unmanaged Switch",
+            "price": 24.99,
+            "url": "https://www.monoprice.com/product?p_id=41713",
+            "product_id": 41713,
+            "available": false,
+            "rating": 5,
+            "num_reviews": 2
         },
         "41731": {
             "name": "STITCH by Monoprice Mini Wi-Fi 10A Outlet, Works with Alexa and Google Home for Touchless Voice Control, No Hub Required, ETL Certified (2-Pack)",
@@ -23882,7 +23900,7 @@
             "price": 7.19,
             "url": "https://www.monoprice.com/product?p_id=41773",
             "product_id": 41773,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 11
         },
@@ -24161,7 +24179,7 @@
             "price": 47.39,
             "url": "https://www.monoprice.com/product?p_id=41944",
             "product_id": 41944,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 2
         },
@@ -38334,6 +38352,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-26T11:16:45Z"
+        "timestamp": "2023-04-26T12:34:42Z"
     }
 }
