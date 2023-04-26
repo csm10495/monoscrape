@@ -250,7 +250,7 @@
             "product_id": 1044,
             "available": true,
             "rating": 3.7,
-            "num_reviews": 272
+            "num_reviews": 271
         },
         "10450": {
             "name": "Monoprice Commercial Series Full-Motion TV Wall Mount Bracket For LED TVs 13in to 27in, Max Weight 33 lbs, Extension Range of 3.9in to 10.2in, VESA Patterns Up to 100x100, Rotating, UL Certified",
@@ -529,7 +529,7 @@
             "product_id": 107,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 424
+            "num_reviews": 425
         },
         "10742": {
             "name": "Monoprice 24FE+2 Combo-Port Gigabit Ethernet SNMP Switch",
@@ -3437,15 +3437,6 @@
             "available": true,
             "rating": 4.4,
             "num_reviews": 8
-        },
-        "1321": {
-            "name": "Monoprice P4 to ATX Power Supply Adapter",
-            "price": 1.19,
-            "url": "https://www.monoprice.com/product?p_id=1321",
-            "product_id": 1321,
-            "available": false,
-            "rating": 4.8,
-            "num_reviews": 13
         },
         "13218": {
             "name": "Monoprice Cat6 6in Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
@@ -13257,15 +13248,6 @@
             "rating": 4.9,
             "num_reviews": 13603
         },
-        "2537": {
-            "name": "Monoprice 15ft PS/2 MDIN-6 Male to Male Cable",
-            "price": 1.79,
-            "url": "https://www.monoprice.com/product?p_id=2537",
-            "product_id": 2537,
-            "available": false,
-            "rating": 4.6,
-            "num_reviews": 30
-        },
         "2539": {
             "name": "Monoprice 50ft PS/2 MDIN-6 Male to Male Cable",
             "price": 4.99,
@@ -13885,7 +13867,7 @@
             "product_id": 2748,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1536
+            "num_reviews": 1538
         },
         "27483": {
             "name": "Monoprice Cat6A 5ft Blue Patch Cable, Double Shielded (S/FTP), 36AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -14659,7 +14641,7 @@
             "product_id": 2820,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1849
+            "num_reviews": 1850
         },
         "2821": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 2-Conductor Speaker Wire, 250ft, White",
@@ -14695,14 +14677,14 @@
             "product_id": 2824,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1848
+            "num_reviews": 1850
         },
         "2832": {
             "name": "Monoprice S/PDIF (Toslink) Digital Optical Audio Cable, 35ft",
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=2832",
             "product_id": 2832,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 2359
         },
@@ -15332,7 +15314,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=3030",
             "product_id": 3030,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 949
         },
@@ -15343,7 +15325,7 @@
             "product_id": 3031,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 948
+            "num_reviews": 949
         },
         "3032": {
             "name": "Monoprice 12ft RG6 (18AWG) 75Ohm, Quad Shield, CL2 Coaxial Cable with F Type Connector - Black",
@@ -15379,7 +15361,7 @@
             "product_id": 3034,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 948
+            "num_reviews": 949
         },
         "30345": {
             "name": "Monoprice Cornerstone Series Corner Friendly Full-Motion Articulating TV Wall Mount Bracket For LED TVs 37in to 70in, Max Weight 99 lbs., VESA Patterns Up to 600x400, Rotating",
@@ -18503,6 +18485,15 @@
             "available": false,
             "rating": 4.6,
             "num_reviews": 213
+        },
+        "3388": {
+            "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 10ft, Orange",
+            "price": 2.99,
+            "url": "https://www.monoprice.com/product?p_id=3388",
+            "product_id": 3388,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 3040
         },
         "33880": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Gold",
@@ -22122,15 +22113,6 @@
             "rating": 4.4,
             "num_reviews": 10
         },
-        "3640": {
-            "name": "Monoprice High Quality Banana Binding Post Wall Plate for 2 Speaker - Coupler Type",
-            "price": 4.79,
-            "url": "https://www.monoprice.com/product?p_id=3640",
-            "product_id": 3640,
-            "available": false,
-            "rating": 4.7,
-            "num_reviews": 98
-        },
         "3642": {
             "name": "Monoprice High Quality Banana Binding Post Wall Plate for 4 Speaker - Coupler Type",
             "price": 5.99,
@@ -24163,7 +24145,7 @@
             "product_id": 3871,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13602
+            "num_reviews": 13603
         },
         "3872": {
             "name": "Monoprice 4K High Speed HDMI Cable 1.5ft - 18Gbps Black",
@@ -25108,7 +25090,7 @@
             "product_id": 3896,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 424
+            "num_reviews": 426
         },
         "38965": {
             "name": "Monolith by Monoprice Liquid Spark DAC by Alex Cavalli (AKM4493)",
@@ -26368,7 +26350,7 @@
             "product_id": 3953,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13602
+            "num_reviews": 13603
         },
         "39530": {
             "name": "Monoprice 4K No Logo High Speed HDMI Cable 15ft - CL2 In Wall Rated 18 Gbps Black - 3 Pack",
@@ -28339,7 +28321,7 @@
             "product_id": 4027,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13602
+            "num_reviews": 13603
         },
         "40271": {
             "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam, 19 x 16 x 8in (clearance)",
@@ -36288,15 +36270,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "444": {
-            "name": "Monoprice 15ft DB-9 M/F Molded Cable",
-            "price": 4.99,
-            "url": "https://www.monoprice.com/product?p_id=444",
-            "product_id": 444,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 45
-        },
         "44415": {
             "name": "Monoprice Flexboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 8in, Orange",
             "price": 1.59,
@@ -38545,7 +38518,7 @@
             "product_id": 5438,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1008
+            "num_reviews": 1009
         },
         "5439": {
             "name": "Monoprice USB Type-A to USB Type-B 2.0 Cable - 28/24AWG, Gold Plated, Black, 10ft",
@@ -38644,7 +38617,7 @@
             "product_id": 5448,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 553
+            "num_reviews": 554
         },
         "5449": {
             "name": "Monoprice USB-A to Mini-B 2.0 Cable - 5-Pin, 28/24AWG, Gold Plated, Black, 10ft",
@@ -39164,7 +39137,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=5773",
             "product_id": 5773,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 369
         },
@@ -39335,7 +39308,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=5902",
             "product_id": 5902,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 495
         },
@@ -41130,15 +41103,6 @@
             "rating": 4.6,
             "num_reviews": 36
         },
-        "7041": {
-            "name": "Monoprice Punch-Down Impact Tool for 110/88 Type",
-            "price": 11.99,
-            "url": "https://www.monoprice.com/product?p_id=7041",
-            "product_id": 7041,
-            "available": false,
-            "rating": 4.5,
-            "num_reviews": 39
-        },
         "7043": {
             "name": "Monoprice Punch-Down Impact Tool for 66 and 110/88 Type",
             "price": 18.12,
@@ -41225,7 +41189,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=7118",
             "product_id": 7118,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 44
         },
@@ -41516,15 +41480,6 @@
             "available": true,
             "rating": 4,
             "num_reviews": 35
-        },
-        "7247": {
-            "name": "Monoprice RJ45 Strain Relief Boots, 50 pcs/pack, Red",
-            "price": 1.69,
-            "url": "https://www.monoprice.com/product?p_id=7247",
-            "product_id": 7247,
-            "available": false,
-            "rating": 4.6,
-            "num_reviews": 128
         },
         "7248": {
             "name": "Monoprice RJ45 Strain Relief Boots, 50 pcs/pack, Blue",
@@ -41819,7 +41774,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=7304",
             "product_id": 7304,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 131
         },
@@ -41909,7 +41864,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=7397",
             "product_id": 7397,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 1
         },
@@ -43135,7 +43090,7 @@
             "product_id": 8602,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 494
+            "num_reviews": 495
         },
         "8603": {
             "name": "Monoprice Cat6A 30ft Blue Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -43623,15 +43578,6 @@
             "rating": 4.8,
             "num_reviews": 161
         },
-        "8780": {
-            "name": "Monoprice 24in SATA 6Gbps Cable with Locking Latch (90 Degree to 180 Degree) - Black",
-            "price": 0.89,
-            "url": "https://www.monoprice.com/product?p_id=8780",
-            "product_id": 8780,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 230
-        },
         "8781": {
             "name": "Monoprice 36inch SATA 6Gbps Cable w/Locking Latch (90 Degree to 180 Degree) - Black",
             "price": 1.49,
@@ -43749,15 +43695,6 @@
             "rating": 4.8,
             "num_reviews": 162
         },
-        "8811": {
-            "name": "Monoprice BNC M/M RG59U - 3ft",
-            "price": 3.49,
-            "url": "https://www.monoprice.com/product?p_id=8811",
-            "product_id": 8811,
-            "available": false,
-            "rating": 4,
-            "num_reviews": 69
-        },
         "8829": {
             "name": "Monoprice OM1 Fiber Optic Cable - SC/ST, UL, 62.5/125 Type, Multi-Mode, Orange, 15m, Corning",
             "price": 4.19,
@@ -43820,15 +43757,6 @@
             "available": true,
             "rating": 3.8,
             "num_reviews": 5
-        },
-        "90": {
-            "name": "Monoprice VGA HD-15 to 5 BNC RGB Video Cable for HDTV Monitor cable - 6FT",
-            "price": 7.5,
-            "url": "https://www.monoprice.com/product?p_id=90",
-            "product_id": 90,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 3
         },
         "9194": {
             "name": "Monoprice Wireless Dual Band IR Remote Control Extender up to 328ft",
@@ -44231,7 +44159,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=9447",
             "product_id": 9447,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 210
         },
@@ -44388,15 +44316,6 @@
             "rating": 4.9,
             "num_reviews": 183
         },
-        "955": {
-            "name": "Monoprice 4 Conductor Modular Bulk Cable, UL, 26AWG, Stranded, Flat, Sliver, 1000ft",
-            "price": 73.49,
-            "url": "https://www.monoprice.com/product?p_id=955",
-            "product_id": 955,
-            "available": false,
-            "rating": 4.8,
-            "num_reviews": 16
-        },
         "9550": {
             "name": "Monoprice Cat5e 10ft Black Flat Patch Cable, UTP, 30AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
             "price": 2.29,
@@ -44519,7 +44438,7 @@
             "price": 2.19,
             "url": "https://www.monoprice.com/product?p_id=9766",
             "product_id": 9766,
-            "available": false,
+            "available": true,
             "rating": 4,
             "num_reviews": 729
         },
@@ -44566,7 +44485,7 @@
             "product_id": 9786,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "9787": {
             "name": "Monoprice Cat6 30ft Black Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -44638,7 +44557,7 @@
             "product_id": 9794,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "9795": {
             "name": "Monoprice Cat6 1ft Black Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -44710,7 +44629,7 @@
             "product_id": 9802,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "9803": {
             "name": "Monoprice Cat6 100ft Gray Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -44773,7 +44692,7 @@
             "product_id": 9809,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "9810": {
             "name": "Monoprice Cat6 2ft Gray Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -44836,7 +44755,7 @@
             "product_id": 9817,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "9818": {
             "name": "Monoprice Cat6 50ft White Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -44881,7 +44800,7 @@
             "product_id": 9822,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "9823": {
             "name": "Monoprice Cat6 14ft Black Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -44962,7 +44881,7 @@
             "product_id": 9831,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "9832": {
             "name": "Monoprice Cat6 5ft White Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -45205,7 +45124,7 @@
             "product_id": 9863,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "9864": {
             "name": "Monoprice Cat6 2ft Green Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -45223,7 +45142,7 @@
             "product_id": 9865,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1460
         },
         "9866": {
             "name": "Monoprice Cat6 5ft Green Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -45372,6 +45291,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-26T01:20:36Z"
+        "timestamp": "2023-04-26T02:36:23Z"
     }
 }
