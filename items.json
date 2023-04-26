@@ -4487,7 +4487,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=2297",
             "product_id": 2297,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -6440,7 +6440,7 @@
             "price": 5.49,
             "url": "https://www.monoprice.com/product?p_id=2617",
             "product_id": 2617,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 23
         },
@@ -6485,7 +6485,7 @@
             "price": 6.49,
             "url": "https://www.monoprice.com/product?p_id=2628",
             "product_id": 2628,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 15
         },
@@ -7702,7 +7702,7 @@
             "product_id": 2801,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 2002
+            "num_reviews": 2003
         },
         "2808": {
             "name": "Monoprice 25ft 22AWG CL2 High Speed HDMI to DVI Adapter Cable, Black",
@@ -16765,7 +16765,7 @@
             "product_id": 3844,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1848
+            "num_reviews": 1850
         },
         "3845": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 2-Conductor Speaker Wire, 500ft, White",
@@ -21328,7 +21328,7 @@
             "product_id": 4023,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13602
+            "num_reviews": 13603
         },
         "40230": {
             "name": "Monoprice 10-Inch Powered Studio Multimedia Subwoofer (clearance)",
@@ -30110,7 +30110,7 @@
             "price": 25.49,
             "url": "https://www.monoprice.com/product?p_id=4765",
             "product_id": 4765,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 290
         },
@@ -30146,7 +30146,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=4769",
             "product_id": 4769,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 201
         },
@@ -30164,7 +30164,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=4770",
             "product_id": 4770,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 201
         },
@@ -30659,7 +30659,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=4993",
             "product_id": 4993,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3040
         },
@@ -30794,7 +30794,7 @@
             "price": 9.49,
             "url": "https://www.monoprice.com/product?p_id=5017",
             "product_id": 5017,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -31291,7 +31291,7 @@
             "product_id": 5359,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 948
+            "num_reviews": 949
         },
         "5360": {
             "name": "Monoprice 1.5ft RG6 (18AWG) 75Ohm, Quad Shield, CL2 Coaxial Cable with F Type Connector - White",
@@ -31561,7 +31561,7 @@
             "product_id": 5436,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1008
+            "num_reviews": 1009
         },
         "5437": {
             "name": "Monoprice USB Type-A to USB Type-B 2.0 Cable - 28/24AWG, Gold Plated, Black, 3ft",
@@ -32722,7 +32722,7 @@
             "product_id": 6078,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13602
+            "num_reviews": 13603
         },
         "6079": {
             "name": "Monoprice 4K High Speed HDMI Cable 1.5ft - 18Gbps Black",
@@ -36887,7 +36887,7 @@
             "price": 36.54,
             "url": "https://www.monoprice.com/product?p_id=9202",
             "product_id": 9202,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 84
         },
@@ -37238,7 +37238,7 @@
             "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=9449",
             "product_id": 9449,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 210
         },
@@ -37499,7 +37499,7 @@
             "price": 2.19,
             "url": "https://www.monoprice.com/product?p_id=9766",
             "product_id": 9766,
-            "available": true,
+            "available": false,
             "rating": 4,
             "num_reviews": 729
         },
@@ -37919,7 +37919,7 @@
         },
         "9829": {
             "name": "Monoprice Cat6 100ft Red Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
-            "price": 12.99,
+            "price": 7.79,
             "url": "https://www.monoprice.com/product?p_id=9829",
             "product_id": 9829,
             "available": true,
@@ -38352,6 +38352,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-26T13:22:45Z"
+        "timestamp": "2023-04-26T14:18:27Z"
     }
 }
