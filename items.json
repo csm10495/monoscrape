@@ -28872,6 +28872,15 @@
             "rating": 2.9,
             "num_reviews": 14
         },
+        "40778": {
+            "name": "Dark Matter by Monoprice 27in Gaming Monitor - FHD, 240Hz, 1ms, DisplayHDR 400, AMD FreeSync Premium, Fast IPS-Type AHVA",
+            "price": 188.99,
+            "url": "https://www.monoprice.com/product?p_id=40778",
+            "product_id": 40778,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 20
+        },
         "40782": {
             "name": "DisplayPort 1.4 EasyPlug Nylon Braided Cable, 3ft, Gray",
             "price": 12.73,
@@ -29399,7 +29408,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=41038",
             "product_id": 41038,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 12
         },
@@ -29612,7 +29621,7 @@
         },
         "41197": {
             "name": "Pioneer Elite SC-LX901 11.2-Ch. Dolby Atmos \u0026 DTS:X 4K Ultra HD 3D Pass thru Network A/V Home Theater Receiver - Black (clearance)",
-            "price": 1699.99,
+            "price": 1599.99,
             "url": "https://www.monoprice.com/product?p_id=41197",
             "product_id": 41197,
             "available": true,
@@ -30076,7 +30085,7 @@
             "product_id": 41388,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1848
+            "num_reviews": 1850
         },
         "41389": {
             "name": "Monoprice Access Series 16AWG CL2 Rated 4-Conductor Speaker Wire, 250ft, Black",
@@ -30103,7 +30112,7 @@
             "product_id": 41391,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1848
+            "num_reviews": 1850
         },
         "41392": {
             "name": "Monoprice Access Series 18AWG CL2 Rated 2-Conductor Speaker Wire, 100ft, Black",
@@ -30148,7 +30157,7 @@
             "product_id": 41396,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1848
+            "num_reviews": 1850
         },
         "41397": {
             "name": "Monoprice Access Series 16AWG CL2 Rated 4-Conductor Speaker Wire, 1000ft, Black",
@@ -30789,15 +30798,6 @@
             "rating": 4.9,
             "num_reviews": 11
         },
-        "41773": {
-            "name": "3-Outlet SnugPlug Household Extension Cord, 16AWG, 13A/1625W, SPT-2, White, 10ft",
-            "price": 7.19,
-            "url": "https://www.monoprice.com/product?p_id=41773",
-            "product_id": 41773,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 11
-        },
         "41777": {
             "name": "Coiled Power Tool Extension Cord, 16AWG, 13A, SJT, Orange, Expands from 3ft to 10ft",
             "price": 9.59,
@@ -30831,8 +30831,8 @@
             "url": "https://www.monoprice.com/product?p_id=41809",
             "product_id": 41809,
             "available": true,
-            "rating": 4.7,
-            "num_reviews": 27
+            "rating": 4.8,
+            "num_reviews": 28
         },
         "41810": {
             "name": "Monoprice Cat6 6in Black 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -31415,7 +31415,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=42055",
             "product_id": 42055,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 353
         },
@@ -31892,7 +31892,7 @@
             "price": 267.99,
             "url": "https://www.monoprice.com/product?p_id=42272",
             "product_id": 42272,
-            "available": true,
+            "available": false,
             "rating": 3.8,
             "num_reviews": 4
         },
@@ -32121,6 +32121,15 @@
             "rating": 5,
             "num_reviews": 1
         },
+        "42483": {
+            "name": "Monolith by Monoprice THX-465T THX Ultra Certified Dolby Atmos Enabled Tower Speaker (open box)",
+            "price": 649.99,
+            "url": "https://www.monoprice.com/product?p_id=42483",
+            "product_id": 42483,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "42496": {
             "name": "Expandable Braided Cable Sock Black 1/2\"(12.7mm) x 100Ft (30.48m)",
             "price": 4.99,
@@ -32209,7 +32218,7 @@
             "product_id": 42529,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 260
+            "num_reviews": 261
         },
         "42530": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Red - 3 Pack",
@@ -32290,7 +32299,7 @@
             "product_id": 42538,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 393
+            "num_reviews": 394
         },
         "42539": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C Charge and Sync Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 6ft, Red - 3 Pack",
@@ -32402,7 +32411,7 @@
         },
         "42620": {
             "name": "Monoprice USB-C Charger, 40W 2-port PD GaN Technology Foldable Wall Charger White, Power Delivery for iPad Pro, iPhone 12/11 / Pro/Max/XR/XS/X, Pixel, Galaxy, and More",
-            "price": 24.99,
+            "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=42620",
             "product_id": 42620,
             "available": true,
@@ -32411,7 +32420,7 @@
         },
         "42621": {
             "name": "Monoprice USB-C Charger, 32W 2-port PD GaN Technology Foldable Wall Charger White, Power Delivery for iPad Pro, iPhone 12/11/Pro/Max/XR/XS/X, Pixel, Galaxy, and More",
-            "price": 24.99,
+            "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=42621",
             "product_id": 42621,
             "available": false,
@@ -32454,6 +32463,15 @@
             "rating": 3.8,
             "num_reviews": 29
         },
+        "42648": {
+            "name": "Monoprice Wire Flexible Tubing, PE Conduits, 1/2in x 10ft, Black",
+            "price": 1.99,
+            "url": "https://www.monoprice.com/product?p_id=42648",
+            "product_id": 42648,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 1
+        },
         "42649": {
             "name": "Monoprice Self Adhesive Cable Tie Mounts with Mounting Hole, 0.75x0.75 in, 100 pcs/pack, White, ABS Type Approval",
             "price": 2.09,
@@ -32477,6 +32495,15 @@
             "price": 2.39,
             "url": "https://www.monoprice.com/product?p_id=42651",
             "product_id": 42651,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 2
+        },
+        "42652": {
+            "name": "Monoprice Self Adhesive Cable Tie Mounts with Mounting Hole, 1.09x1.09 in, 100 pcs/pack, Black, ABS Type Approval",
+            "price": 2.39,
+            "url": "https://www.monoprice.com/product?p_id=42652",
+            "product_id": 42652,
             "available": true,
             "rating": 5,
             "num_reviews": 2
@@ -32641,7 +32668,7 @@
             "product_id": 42686,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 220
+            "num_reviews": 221
         },
         "42687": {
             "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 28AWG, 10ft, Black - 5 Pack",
@@ -32884,7 +32911,7 @@
             "product_id": 42833,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 263
+            "num_reviews": 264
         },
         "42834": {
             "name": "Monolith by Monoprice 18in Speaker Stands, Cherry (Each)",
@@ -32927,7 +32954,7 @@
             "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=42838",
             "product_id": 42838,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 12
         },
@@ -33072,8 +33099,8 @@
             "url": "https://www.monoprice.com/product?p_id=42892",
             "product_id": 42892,
             "available": false,
-            "rating": 4.3,
-            "num_reviews": 32
+            "rating": 4.2,
+            "num_reviews": 33
         },
         "42897": {
             "name": "Folding Table 4 Foot Adjustable Height Portable Lightweight Aluminum Camping Table, Small Folding Table with Carry Handle, for Outdoor/Indoor",
@@ -33521,7 +33548,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=43015",
             "product_id": 43015,
-            "available": false,
+            "available": true,
             "rating": 3.5,
             "num_reviews": 10
         },
@@ -33990,8 +34017,8 @@
             "url": "https://www.monoprice.com/product?p_id=43165",
             "product_id": 43165,
             "available": true,
-            "rating": 4.6,
-            "num_reviews": 13
+            "rating": 4.7,
+            "num_reviews": 11
         },
         "43166": {
             "name": "Monolith by Monoprice Double-Wide XL 3-Tier AV Stand, Maple",
@@ -34358,7 +34385,7 @@
             "price": 509.99,
             "url": "https://www.monoprice.com/product?p_id=43237",
             "product_id": 43237,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 10
         },
@@ -34538,7 +34565,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=43303",
             "product_id": 43303,
-            "available": true,
+            "available": false,
             "rating": 1.8,
             "num_reviews": 14
         },
@@ -35051,7 +35078,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=43524",
             "product_id": 43524,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 40
         },
@@ -35762,7 +35789,7 @@
             "price": 19.98,
             "url": "https://www.monoprice.com/product?p_id=44090",
             "product_id": 44090,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -36132,8 +36159,8 @@
             "url": "https://www.monoprice.com/product?p_id=44336",
             "product_id": 44336,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 5,
+            "num_reviews": 1
         },
         "44337": {
             "name": "Monoprice Access Series 16AWG CL3 Rated 4-Conductor Speaker Wire  250ft  White",
@@ -36410,7 +36437,7 @@
             "price": 299.99,
             "url": "https://www.monoprice.com/product?p_id=44494",
             "product_id": 44494,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -36421,7 +36448,7 @@
             "product_id": 44496,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 519
+            "num_reviews": 522
         },
         "44497": {
             "name": "Monoprice Cat6A 6in Blue Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -36430,7 +36457,7 @@
             "product_id": 44497,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 519
+            "num_reviews": 522
         },
         "44498": {
             "name": "Monoprice Cat6A 1ft Black Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -36439,16 +36466,16 @@
             "product_id": 44498,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 520
+            "num_reviews": 522
         },
         "44499": {
             "name": "Monoprice Cat6A 1ft Blue Patch Cable,  UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=44499",
             "product_id": 44499,
-            "available": false,
+            "available": true,
             "rating": 4.9,
-            "num_reviews": 519
+            "num_reviews": 522
         },
         "445": {
             "name": "Monoprice 25ft DB 9 M/F Molded Cable",
@@ -36466,7 +36493,7 @@
             "product_id": 44500,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 519
+            "num_reviews": 522
         },
         "44501": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, 550Mhz, UTP, Pure Bare Copper Wire, 10G, 30AWG, 3ft, Blue, 1-Pack",
@@ -36475,7 +36502,7 @@
             "product_id": 44501,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 519
+            "num_reviews": 522
         },
         "44502": {
             "name": "Monoprice Cat6A 5ft Black Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -36484,7 +36511,7 @@
             "product_id": 44502,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 519
+            "num_reviews": 522
         },
         "44503": {
             "name": "Monoprice Cat6A 5ft Blue Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -36493,7 +36520,7 @@
             "product_id": 44503,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 519
+            "num_reviews": 522
         },
         "44504": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, 550Mhz, UTP, Pure Bare Copper Wire, 10G, 30AWG, 7ft, Black, 1-Pack",
@@ -36502,25 +36529,25 @@
             "product_id": 44504,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 519
+            "num_reviews": 522
         },
         "44505": {
             "name": "Monoprice Cat6A 7ft Blue Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
             "price": 2.89,
             "url": "https://www.monoprice.com/product?p_id=44505",
             "product_id": 44505,
-            "available": false,
+            "available": true,
             "rating": 4.9,
-            "num_reviews": 519
+            "num_reviews": 522
         },
         "44506": {
             "name": "Monoprice Cat6A 10ft Black Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=44506",
             "product_id": 44506,
-            "available": false,
+            "available": true,
             "rating": 4.9,
-            "num_reviews": 519
+            "num_reviews": 522
         },
         "44507": {
             "name": "Monoprice Cat6A 10ft Blue Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -36529,7 +36556,7 @@
             "product_id": 44507,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 519
+            "num_reviews": 522
         },
         "44508": {
             "name": "Monoprice Cat6A 14ft Black Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -36538,7 +36565,7 @@
             "product_id": 44508,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 519
+            "num_reviews": 522
         },
         "44509": {
             "name": "Monoprice Cat6A 14ft Blue Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -36547,16 +36574,16 @@
             "product_id": 44509,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 519
+            "num_reviews": 522
         },
         "44510": {
             "name": "Monoprice Cat6A 25ft Black Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=44510",
             "product_id": 44510,
-            "available": false,
+            "available": true,
             "rating": 4.9,
-            "num_reviews": 519
+            "num_reviews": 522
         },
         "44511": {
             "name": "Monoprice Cat6A 25ft Blue Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -36565,7 +36592,7 @@
             "product_id": 44511,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 519
+            "num_reviews": 522
         },
         "44512": {
             "name": "Monoprice Cat6A 50ft Black Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -36574,7 +36601,7 @@
             "product_id": 44512,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 519
+            "num_reviews": 522
         },
         "44513": {
             "name": "Monoprice Cat6A 50ft Blue Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -36583,7 +36610,7 @@
             "product_id": 44513,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 519
+            "num_reviews": 522
         },
         "44574": {
             "name": "Monolith by Monoprice M-15 V2 15in THX Certified Ultra 1000-Watt Subwoofer Amplifier (Open Box)",
@@ -45246,6 +45273,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-26T17:18:52Z"
+        "timestamp": "2023-04-26T18:23:46Z"
     }
 }
