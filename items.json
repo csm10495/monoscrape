@@ -28656,15 +28656,6 @@
             "rating": 4.9,
             "num_reviews": 230
         },
-        "40538": {
-            "name": "Monoprice 10in SATA 6Gbps Cable with Locking Latch (90 Degree to 180 Degree) - Red 10-Pack",
-            "price": 3.59,
-            "url": "https://www.monoprice.com/product?p_id=40538",
-            "product_id": 40538,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 230
-        },
         "40539": {
             "name": "Monoprice 36in SATA 6Gbps Cable with Locking Latch - Black 10-Pack",
             "price": 10.99,
@@ -30618,15 +30609,6 @@
             "rating": 5,
             "num_reviews": 1
         },
-        "41702": {
-            "name": "Monoprice OM4 Fiber Optic Cable - LC/LC, UL, 50/125 Type, Multi-Mode, 10GB, OFNR, Aqua, 25m, Corning",
-            "price": 29.99,
-            "url": "https://www.monoprice.com/product?p_id=41702",
-            "product_id": 41702,
-            "available": true,
-            "rating": 5,
-            "num_reviews": 1
-        },
         "41703": {
             "name": "Monoprice OM4 Fiber Optic Cable - LC/LC, UL, 50/125 Type, Multi-Mode, 10GB, OFNR, Aqua, 30m, Corning",
             "price": 31.99,
@@ -30689,15 +30671,6 @@
             "available": false,
             "rating": 5,
             "num_reviews": 4
-        },
-        "41713": {
-            "name": "Monoprice 8-Port 10/100/1000Mbps Gigabit Ethernet Unmanaged Switch",
-            "price": 24.99,
-            "url": "https://www.monoprice.com/product?p_id=41713",
-            "product_id": 41713,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 2
         },
         "41731": {
             "name": "STITCH by Monoprice Mini Wi-Fi 10A Outlet, Works with Alexa and Google Home for Touchless Voice Control, No Hub Required, ETL Certified (2-Pack)",
@@ -32380,7 +32353,7 @@
             "product_id": 42620,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 13
+            "num_reviews": 14
         },
         "42621": {
             "name": "Monoprice USB-C Charger, 32W 2-port PD GaN Technology Foldable Wall Charger White, Power Delivery for iPad Pro, iPhone 12/11/Pro/Max/XR/XS/X, Pixel, Galaxy, and More",
@@ -36069,8 +36042,8 @@
             "url": "https://www.monoprice.com/product?p_id=44332",
             "product_id": 44332,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 5,
+            "num_reviews": 1
         },
         "44333": {
             "name": "Monoprice Access Series 12AWG CL3 Rated 4-Conductor Speaker Wire  250ft  White",
@@ -36132,8 +36105,8 @@
             "url": "https://www.monoprice.com/product?p_id=44339",
             "product_id": 44339,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 5,
+            "num_reviews": 1
         },
         "44343": {
             "name": "Monoprice DisplayPort 1.4 to 8K HDMI Cable, 8K 60Hz, 32AWG, 3ft",
@@ -45219,6 +45192,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-26T05:18:10Z"
+        "timestamp": "2023-04-26T06:23:22Z"
     }
 }
