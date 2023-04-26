@@ -9664,7 +9664,7 @@
             "product_id": 31200,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 260
+            "num_reviews": 261
         },
         "31201": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Red",
@@ -16315,7 +16315,7 @@
             "product_id": 38301,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 392
+            "num_reviews": 393
         },
         "38302": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, White",
@@ -16360,7 +16360,7 @@
             "product_id": 38306,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 392
+            "num_reviews": 393
         },
         "38308": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Pink",
@@ -16639,7 +16639,7 @@
             "product_id": 38378,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 47
+            "num_reviews": 48
         },
         "38379": {
             "name": "Monoprice USB C To Lightning Cable - 3 Feet - Black ( MFI Certified ) Fast Charging, Compatible with Apple iPhone 13 / Pro / Pro Max / AirPods Pro - Select Series",
@@ -17305,7 +17305,7 @@
             "product_id": 38791,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 76
+            "num_reviews": 79
         },
         "38792": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 3ft, Black",
@@ -17404,7 +17404,7 @@
             "product_id": 38803,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 76
+            "num_reviews": 79
         },
         "38805": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 6ft, Red",
@@ -17413,7 +17413,7 @@
             "product_id": 38805,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 76
+            "num_reviews": 79
         },
         "38806": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 10ft, Red",
@@ -17521,7 +17521,7 @@
             "product_id": 38819,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 76
+            "num_reviews": 79
         },
         "38820": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 3ft, Red",
@@ -19519,7 +19519,7 @@
             "product_id": 39542,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13602
+            "num_reviews": 13603
         },
         "39543": {
             "name": "Monoprice 4K High Speed HDMI Cable 3ft - 18Gbps Black - 5 Pack",
@@ -19591,7 +19591,7 @@
             "product_id": 39550,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13602
+            "num_reviews": 13603
         },
         "39551": {
             "name": "Monoprice 4K High Speed HDMI Cable 8ft - 18Gbps Black - 5 Pack",
@@ -38334,6 +38334,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-26T10:19:43Z"
+        "timestamp": "2023-04-26T11:16:45Z"
     }
 }
