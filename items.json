@@ -122,7 +122,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=10147",
             "product_id": 10147,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 159
         },
@@ -1472,7 +1472,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=11338",
             "product_id": 11338,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1460
         },
@@ -1922,7 +1922,7 @@
             "price": 14.41,
             "url": "https://www.monoprice.com/product?p_id=11551",
             "product_id": 11551,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 571
         },
@@ -2390,7 +2390,7 @@
             "price": 315.99,
             "url": "https://www.monoprice.com/product?p_id=12277",
             "product_id": 12277,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 7
         },
@@ -2975,7 +2975,7 @@
             "price": 9.49,
             "url": "https://www.monoprice.com/product?p_id=12842",
             "product_id": 12842,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 2056
         },
@@ -3290,7 +3290,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=13121",
             "product_id": 13121,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 127
         },
@@ -4001,7 +4001,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=13408",
             "product_id": 13408,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 165
         },
@@ -4316,7 +4316,7 @@
             "price": 3.29,
             "url": "https://www.monoprice.com/product?p_id=13533",
             "product_id": 13533,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -4590,6 +4590,15 @@
             "rating": 4.8,
             "num_reviews": 250
         },
+        "13589": {
+            "name": "Monoprice 4K Slim High Speed HDMI Cable 3ft - 18Gbps Active Silver",
+            "price": 15.99,
+            "url": "https://www.monoprice.com/product?p_id=13589",
+            "product_id": 13589,
+            "available": true,
+            "rating": 4.2,
+            "num_reviews": 384
+        },
         "13590": {
             "name": "Monoprice 4K Slim High Speed HDMI Cable 6ft - 18Gbps Active Black",
             "price": 18.99,
@@ -4794,8 +4803,8 @@
             "url": "https://www.monoprice.com/product?p_id=13677",
             "product_id": 13677,
             "available": true,
-            "rating": 4.7,
-            "num_reviews": 91
+            "rating": 4.6,
+            "num_reviews": 92
         },
         "13678": {
             "name": "Monoprice Cat5e 500ft Blue CMR UL Bulk Cable, UTP, Solid, 24AWG, 350MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
@@ -6368,7 +6377,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=14808",
             "product_id": 14808,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -7115,7 +7124,7 @@
             "price": 126.99,
             "url": "https://www.monoprice.com/product?p_id=15260",
             "product_id": 15260,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 5
         },
@@ -7169,7 +7178,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=15379",
             "product_id": 15379,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 94
         },
@@ -7412,7 +7421,7 @@
             "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=15526",
             "product_id": 15526,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 170
         },
@@ -7565,7 +7574,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=15664",
             "product_id": 15664,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 41
         },
@@ -7655,7 +7664,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=15696",
             "product_id": 15696,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 14
         },
@@ -7772,7 +7781,7 @@
             "price": 191.99,
             "url": "https://www.monoprice.com/product?p_id=15722",
             "product_id": 15722,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 201
         },
@@ -7898,7 +7907,7 @@
             "price": 20.59,
             "url": "https://www.monoprice.com/product?p_id=15835",
             "product_id": 15835,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 214
         },
@@ -7970,7 +7979,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=15870",
             "product_id": 15870,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 48
         },
@@ -8015,7 +8024,7 @@
             "price": 36.99,
             "url": "https://www.monoprice.com/product?p_id=15875",
             "product_id": 15875,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 34
         },
@@ -9257,7 +9266,7 @@
             "price": 27.99,
             "url": "https://www.monoprice.com/product?p_id=16363",
             "product_id": 16363,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 12
         },
@@ -9692,6 +9701,15 @@
             "available": false,
             "rating": 4.7,
             "num_reviews": 118
+        },
+        "18682": {
+            "name": "Monolith by Monoprice 7x200 Watts Per Channel Multi-Channel Home Theater Amplifier with XLR Inputs - Factory Refurbished/B-Stock",
+            "price": 1499,
+            "url": "https://www.monoprice.com/product?p_id=18682",
+            "product_id": 18682,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 13
         },
         "18734": {
             "name": "Strata Home by Monoprice Portable Induction Cooktop 1800W",
@@ -45273,6 +45291,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-26T20:21:07Z"
+        "timestamp": "2023-04-26T21:17:28Z"
     }
 }
