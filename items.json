@@ -680,7 +680,7 @@
             "price": 3.19,
             "url": "https://www.monoprice.com/product?p_id=11201",
             "product_id": 11201,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 461
         },
@@ -2822,7 +2822,7 @@
             "price": 119.99,
             "url": "https://www.monoprice.com/product?p_id=12763",
             "product_id": 12763,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 5
         },
@@ -3499,7 +3499,7 @@
             "product_id": 13238,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 165
+            "num_reviews": 166
         },
         "13239": {
             "name": "Monoprice Cat6 1ft Orange Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
@@ -3794,7 +3794,7 @@
             "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=13356",
             "product_id": 13356,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 7
         },
@@ -5841,15 +5841,6 @@
             "rating": 4.9,
             "num_reviews": 127
         },
-        "14287": {
-            "name": "Monoprice ZEROboot Cat6 Ethernet Patch Cable - RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 2ft, Gray",
-            "price": 0.89,
-            "url": "https://www.monoprice.com/product?p_id=14287",
-            "product_id": 14287,
-            "available": false,
-            "rating": 4.8,
-            "num_reviews": 166
-        },
         "14288": {
             "name": "Monoprice Cat6 3ft Gray Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
             "price": 1.99,
@@ -6244,7 +6235,7 @@
             "product_id": 14775,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 33
+            "num_reviews": 34
         },
         "14785": {
             "name": "Monoprice Cat6 6in Red Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -7430,7 +7421,7 @@
             "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=15526",
             "product_id": 15526,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 170
         },
@@ -8015,7 +8006,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=15873",
             "product_id": 15873,
-            "available": true,
+            "available": false,
             "rating": 3.9,
             "num_reviews": 11
         },
@@ -8843,7 +8834,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=16249",
             "product_id": 16249,
-            "available": false,
+            "available": true,
             "rating": 4.2,
             "num_reviews": 60
         },
@@ -8852,7 +8843,7 @@
             "price": 26.99,
             "url": "https://www.monoprice.com/product?p_id=16250",
             "product_id": 16250,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 42
         },
@@ -9716,7 +9707,7 @@
             "price": 1499,
             "url": "https://www.monoprice.com/product?p_id=18682",
             "product_id": 18682,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 13
         },
@@ -45345,6 +45336,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-27T16:55:05Z"
+        "timestamp": "2023-04-27T17:05:55Z"
     }
 }
