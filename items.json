@@ -16585,7 +16585,7 @@
             "product_id": 31201,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 260
+            "num_reviews": 261
         },
         "31202": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft, Black",
@@ -16902,15 +16902,6 @@
             "rating": 4.9,
             "num_reviews": 231
         },
-        "31376": {
-            "name": "Monoprice Entegrade Series Cat7 Double Shielded (S/FTP) Ethernet Patch Cable - Snagless RJ45, 600MHz, 10G, 26AWG, 50ft, Purple",
-            "price": 19.99,
-            "url": "https://www.monoprice.com/product?p_id=31376",
-            "product_id": 31376,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 231
-        },
         "31377": {
             "name": "Monoprice Cat7 100ft Black Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
             "price": 40.36,
@@ -17123,7 +17114,7 @@
             "price": 28.99,
             "url": "https://www.monoprice.com/product?p_id=33199",
             "product_id": 33199,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 522
         },
@@ -18621,6 +18612,15 @@
             "rating": 2,
             "num_reviews": 1
         },
+        "33898": {
+            "name": "Monoprice MP Specialty 3D Printer Filament Bronze Fill 1.75, 0.5kg/spool",
+            "price": 34.99,
+            "url": "https://www.monoprice.com/product?p_id=33898",
+            "product_id": 33898,
+            "available": true,
+            "rating": 4,
+            "num_reviews": 1
+        },
         "33899": {
             "name": "Monoprice MP Specialty 3D Printer Filament Steel Fill 1.75, 0.5kg/spool",
             "price": 29.39,
@@ -19847,7 +19847,7 @@
         },
         "34539": {
             "name": "Workstream by Monoprice Computer Case CPU Holder, Thin Client Mini PC Multi-Mount",
-            "price": 4,
+            "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=34539",
             "product_id": 34539,
             "available": true,
@@ -22541,7 +22541,7 @@
             "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=37883",
             "product_id": 37883,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 35
         },
@@ -22723,7 +22723,7 @@
             "product_id": 38071,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 100
+            "num_reviews": 101
         },
         "38074": {
             "name": "Monoprice Onix Series - Male RCA to 2 Male RCA Pigtail Cable, 3ft, Black",
@@ -23254,7 +23254,7 @@
             "product_id": 38303,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 392
+            "num_reviews": 394
         },
         "38304": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft, Blue",
@@ -23587,7 +23587,7 @@
             "product_id": 38382,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 47
+            "num_reviews": 48
         },
         "38383": {
             "name": "Monoprice USB C To Lightning Cable - 3 Feet - White ( MFI Certified ) Fast Charging, Compatible with Apple iPhone 13 / Pro / Pro Max / AirPods Pro - Select Series",
@@ -24755,7 +24755,7 @@
             "price": 10.19,
             "url": "https://www.monoprice.com/product?p_id=38878",
             "product_id": 38878,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 58
         },
@@ -25947,15 +25947,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "39430": {
-            "name": "Monoprice OM4 Fiber Optic Cable - LC/ST, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 1m",
-            "price": 2.27,
-            "url": "https://www.monoprice.com/product?p_id=39430",
-            "product_id": 39430,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 1
-        },
         "39431": {
             "name": "Monoprice OM4 Fiber Optic Cable - LC/ST, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 2m",
             "price": 1.04,
@@ -27095,7 +27086,7 @@
             "price": 64.99,
             "url": "https://www.monoprice.com/product?p_id=39759",
             "product_id": 39759,
-            "available": true,
+            "available": false,
             "rating": 3.5,
             "num_reviews": 2
         },
@@ -45363,6 +45354,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-27T16:09:31Z"
+        "timestamp": "2023-04-27T16:28:13Z"
     }
 }
