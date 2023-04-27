@@ -28843,7 +28843,7 @@
             "product_id": 40658,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 91
+            "num_reviews": 92
         },
         "40660": {
             "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser-Rated, Pure Bare Copper Wire, 23AWG, 500ft, Gray, (UL)",
@@ -30380,7 +30380,7 @@
             "price": 299.99,
             "url": "https://www.monoprice.com/product?p_id=41499",
             "product_id": 41499,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 42
         },
@@ -32641,7 +32641,7 @@
             "product_id": 42682,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 221
+            "num_reviews": 222
         },
         "42683": {
             "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 28AWG, 10ft, Black",
@@ -33746,15 +33746,6 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=43083",
             "product_id": 43083,
-            "available": true,
-            "rating": 4.7,
-            "num_reviews": 56
-        },
-        "43084": {
-            "name": "Monoprice Flexboot Cat6 Ethernet Patch Cable - Snagless RJ45, Flat, 550MHz, UTP, Pure Bare Copper Wire, 30AWG, 75ft, White",
-            "price": 9.99,
-            "url": "https://www.monoprice.com/product?p_id=43084",
-            "product_id": 43084,
             "available": true,
             "rating": 4.7,
             "num_reviews": 56
@@ -36428,6 +36419,15 @@
             "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=44485",
             "product_id": 44485,
+            "available": false,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "44486": {
+            "name": "Monoprice Commercial Series Heavy Duty XL Full-Motion Articulating Extra Long Reach TV Wall Mount Bracket for TVs 60in to 110in, Max Weight 275 lbs, Extension Range 4.3in to 38.6in, VESA up to 800x600",
+            "price": 179.99,
+            "url": "https://www.monoprice.com/product?p_id=44486",
+            "product_id": 44486,
             "available": false,
             "rating": 0,
             "num_reviews": 0
@@ -45318,6 +45318,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-27T19:46:45Z"
+        "timestamp": "2023-04-27T19:56:34Z"
     }
 }
