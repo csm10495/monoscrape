@@ -32254,7 +32254,7 @@
             "product_id": 42527,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 260
+            "num_reviews": 261
         },
         "42528": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Black - 3 Pack",
@@ -32641,7 +32641,7 @@
             "product_id": 42677,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 126
+            "num_reviews": 128
         },
         "42678": {
             "name": "Monoprice 8K Certified Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 30AWG, 6ft, Black - 5 Pack",
@@ -32659,7 +32659,7 @@
             "product_id": 42679,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 126
+            "num_reviews": 128
         },
         "42680": {
             "name": "Monoprice 8K Certified Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 26AWG, 15ft, Black - 5 Pack",
@@ -45363,6 +45363,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-27T06:44:20Z"
+        "timestamp": "2023-04-27T06:53:54Z"
     }
 }
