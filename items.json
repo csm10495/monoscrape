@@ -16295,7 +16295,7 @@
             "price": 199.99,
             "url": "https://www.monoprice.com/product?p_id=31035",
             "product_id": 31035,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 19
         },
@@ -18626,7 +18626,7 @@
             "price": 29.39,
             "url": "https://www.monoprice.com/product?p_id=33899",
             "product_id": 33899,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -21822,8 +21822,8 @@
             "url": "https://www.monoprice.com/product?p_id=36209",
             "product_id": 36209,
             "available": true,
-            "rating": 4.6,
-            "num_reviews": 14
+            "rating": 4.5,
+            "num_reviews": 15
         },
         "3621": {
             "name": "Monoprice 25ft Super VGA M/M CL2 Rated (For In-Wall Installation) Cable with Ferrites (Gold Plated)",
@@ -21930,8 +21930,8 @@
             "url": "https://www.monoprice.com/product?p_id=36231",
             "product_id": 36231,
             "available": true,
-            "rating": 4.6,
-            "num_reviews": 14
+            "rating": 4.5,
+            "num_reviews": 15
         },
         "36232": {
             "name": "Monoprice Cat6 Outdoor Rated Ethernet Patch Cable - Molded RJ45 Connectors, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 100ft, White",
@@ -26006,7 +26006,7 @@
             "price": 8.49,
             "url": "https://www.monoprice.com/product?p_id=39475",
             "product_id": 39475,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 56
         },
@@ -27592,7 +27592,7 @@
             "product_id": 39928,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1584
+            "num_reviews": 1586
         },
         "3993": {
             "name": "Monoprice 4K High Speed HDMI Cable 10ft - 18Gbps Black",
@@ -45363,6 +45363,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-27T15:06:58Z"
+        "timestamp": "2023-04-27T15:22:53Z"
     }
 }
