@@ -24415,7 +24415,7 @@
             "product_id": 38815,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 76
+            "num_reviews": 79
         },
         "38816": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 3ft, Blue",
@@ -24865,7 +24865,7 @@
             "product_id": 38896,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 20
+            "num_reviews": 21
         },
         "38898": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-C Charge \u0026 Sync Nylon-Braid Cable, 10ft, Blue",
@@ -45363,6 +45363,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-27T08:10:13Z"
+        "timestamp": "2023-04-27T08:43:55Z"
     }
 }
