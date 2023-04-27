@@ -16092,6 +16092,15 @@
             "rating": 3.8,
             "num_reviews": 29
         },
+        "30877": {
+            "name": "Monolith by Monoprice 3x200 Watts Per Channel Multi-Channel Home Theater Power Amplifier with XLR Inputs - Factory Refurbished/B-Stock",
+            "price": 1049.99,
+            "url": "https://www.monoprice.com/product?p_id=30877",
+            "product_id": 30877,
+            "available": false,
+            "rating": 4.7,
+            "num_reviews": 3
+        },
         "30905": {
             "name": "Monoprice Gas-Lift Height Adjustable Sit-Stand Mobile Rolling Workstation Laptop and Computer Desk V2",
             "price": 149.99,
@@ -16441,7 +16450,7 @@
             "product_id": 31188,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 392
+            "num_reviews": 394
         },
         "31189": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Red",
@@ -16586,15 +16595,6 @@
             "available": true,
             "rating": 4.8,
             "num_reviews": 261
-        },
-        "31220": {
-            "name": "Monoprice OM4 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, 10GB, LSZH, Purple, 3m, Corning",
-            "price": 5.49,
-            "url": "https://www.monoprice.com/product?p_id=31220",
-            "product_id": 31220,
-            "available": true,
-            "rating": 5,
-            "num_reviews": 2
         },
         "31229": {
             "name": "Monoprice 8K Ultra High Speed HDMI Cable 1.5ft - 48Gbps Black",
@@ -18989,6 +18989,15 @@
             "available": true,
             "rating": 4.8,
             "num_reviews": 502
+        },
+        "34207": {
+            "name": "Monoprice 4K Certified Premium High Speed HDMI Cable 3ft - 18Gbps Black - 2 Pack",
+            "price": 17.29,
+            "url": "https://www.monoprice.com/product?p_id=34207",
+            "product_id": 34207,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 1705
         },
         "34208": {
             "name": "Monoprice 4K Certified Premium High Speed HDMI Cable 3ft - 18Gbps Black - 3 Pack",
@@ -21786,8 +21795,8 @@
             "url": "https://www.monoprice.com/product?p_id=36208",
             "product_id": 36208,
             "available": false,
-            "rating": 4.6,
-            "num_reviews": 14
+            "rating": 4.5,
+            "num_reviews": 15
         },
         "36209": {
             "name": "Monoprice Cat6 5ft Black Outdoor Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Molded Snagless RJ45, Zeroboot Series Ethernet Cable",
@@ -21831,8 +21840,8 @@
             "url": "https://www.monoprice.com/product?p_id=36212",
             "product_id": 36212,
             "available": true,
-            "rating": 4.6,
-            "num_reviews": 14
+            "rating": 4.5,
+            "num_reviews": 15
         },
         "36213": {
             "name": "Monoprice Cat6 20ft Black Outdoor Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Molded Snagless RJ45, Zeroboot Series Ethernet Cable",
@@ -21840,8 +21849,8 @@
             "url": "https://www.monoprice.com/product?p_id=36213",
             "product_id": 36213,
             "available": true,
-            "rating": 4.6,
-            "num_reviews": 14
+            "rating": 4.5,
+            "num_reviews": 15
         },
         "36214": {
             "name": "Monoprice Cat6 25ft Black Outdoor Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Molded Snagless RJ45, Zeroboot Series Ethernet Cable",
@@ -22466,7 +22475,7 @@
         },
         "37877": {
             "name": "Workstream by Monoprice Rolling Round Corner 3-Drawer File Cabinet, White",
-            "price": 159.99,
+            "price": 189.99,
             "url": "https://www.monoprice.com/product?p_id=37877",
             "product_id": 37877,
             "available": true,
@@ -22475,7 +22484,7 @@
         },
         "37878": {
             "name": "Workstream by Monoprice Rolling Round Corner 3-Drawer File Cabinet, Gray",
-            "price": 159.99,
+            "price": 189.99,
             "url": "https://www.monoprice.com/product?p_id=37878",
             "product_id": 37878,
             "available": true,
@@ -24775,7 +24784,7 @@
             "product_id": 38890,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 20
+            "num_reviews": 21
         },
         "38891": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-C Charge \u0026 Sync Nylon-Braid Cable, 1.5ft, Red",
@@ -25961,7 +25970,7 @@
             "price": 8.49,
             "url": "https://www.monoprice.com/product?p_id=39475",
             "product_id": 39475,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 56
         },
@@ -45309,6 +45318,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-27T19:37:00Z"
+        "timestamp": "2023-04-27T19:46:45Z"
     }
 }
