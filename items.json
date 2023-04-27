@@ -122,7 +122,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=10147",
             "product_id": 10147,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 159
         },
@@ -664,7 +664,7 @@
             "product_id": 11196,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 460
+            "num_reviews": 461
         },
         "11197": {
             "name": "Monoprice Cat5e 20ft Blue Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -673,7 +673,7 @@
             "product_id": 11197,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 460
+            "num_reviews": 461
         },
         "11201": {
             "name": "Monoprice FLEXboot Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 20ft, Purple",
@@ -700,7 +700,7 @@
             "product_id": 11206,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 460
+            "num_reviews": 461
         },
         "11207": {
             "name": "Monoprice Cat5e 6in Blue Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -763,7 +763,7 @@
             "product_id": 11221,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 460
+            "num_reviews": 461
         },
         "11222": {
             "name": "Monoprice FLEXboot Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 100ft, Blue",
@@ -772,7 +772,7 @@
             "product_id": 11222,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 460
+            "num_reviews": 461
         },
         "11229": {
             "name": "Monoprice Cat5e 100ft White Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -817,7 +817,7 @@
             "product_id": 11235,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 460
+            "num_reviews": 461
         },
         "11236": {
             "name": "Monoprice Cat5e 10ft Blue Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -880,7 +880,7 @@
             "product_id": 11244,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 460
+            "num_reviews": 461
         },
         "11245": {
             "name": "Monoprice Cat6A 10ft Blue Patch Cable,  Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Molded RJ45, Entegrade Series Ethernet Cable",
@@ -1033,7 +1033,7 @@
             "product_id": 11268,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 460
+            "num_reviews": 461
         },
         "11270": {
             "name": "Monoprice Cat5e 1ft White Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -1195,7 +1195,7 @@
             "product_id": 11288,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 460
+            "num_reviews": 461
         },
         "11292": {
             "name": "Monoprice FLEXboot Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 25ft, White",
@@ -1204,7 +1204,7 @@
             "product_id": 11292,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 460
+            "num_reviews": 461
         },
         "11293": {
             "name": "Monoprice FLEXboot Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 25ft, Yellow",
@@ -1258,7 +1258,7 @@
             "product_id": 11303,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 460
+            "num_reviews": 461
         },
         "11306": {
             "name": "Monoprice FLEXboot Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 2ft, White",
@@ -1267,7 +1267,7 @@
             "product_id": 11306,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 460
+            "num_reviews": 461
         },
         "11308": {
             "name": "Monoprice Cat6 2ft Yellow Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -1348,7 +1348,7 @@
             "product_id": 11319,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 460
+            "num_reviews": 461
         },
         "11320": {
             "name": "Monoprice Cat6 30ft Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -1411,7 +1411,7 @@
             "product_id": 11329,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 460
+            "num_reviews": 461
         },
         "11330": {
             "name": "Monoprice Cat5e 3ft Green Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -1609,7 +1609,7 @@
             "product_id": 11359,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 460
+            "num_reviews": 461
         },
         "11360": {
             "name": "Monoprice Cat5e 5ft White Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -1744,7 +1744,7 @@
             "product_id": 11383,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 460
+            "num_reviews": 461
         },
         "11384": {
             "name": "Monoprice FLEXboot Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 7ft, Green",
@@ -2453,7 +2453,7 @@
             "price": 12.59,
             "url": "https://www.monoprice.com/product?p_id=12299",
             "product_id": 12299,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 573
         },
@@ -3641,7 +3641,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=13268",
             "product_id": 13268,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 165
         },
@@ -6557,7 +6557,7 @@
             "price": 229.99,
             "url": "https://www.monoprice.com/product?p_id=14886",
             "product_id": 14886,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 27
         },
@@ -7574,7 +7574,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=15664",
             "product_id": 15664,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 41
         },
@@ -7781,7 +7781,7 @@
             "price": 191.99,
             "url": "https://www.monoprice.com/product?p_id=15722",
             "product_id": 15722,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 201
         },
@@ -7880,7 +7880,7 @@
             "price": 5.39,
             "url": "https://www.monoprice.com/product?p_id=15827",
             "product_id": 15827,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -45363,6 +45363,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-27T03:22:48Z"
+        "timestamp": "2023-04-27T03:44:31Z"
     }
 }
