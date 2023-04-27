@@ -16209,15 +16209,6 @@
             "rating": 4.3,
             "num_reviews": 59
         },
-        "31028": {
-            "name": "Monoprice 6 Zone Home Audio Multizone 12-channel Amplifier with RS232 and 70V and 4-Ohm Output",
-            "price": 411.99,
-            "url": "https://www.monoprice.com/product?p_id=31028",
-            "product_id": 31028,
-            "available": false,
-            "rating": 4.5,
-            "num_reviews": 153
-        },
         "31029": {
             "name": "Monoprice SWA-400 400-watt Subwoofer Amplifier with DSP and Presets",
             "price": 279.99,
@@ -21876,8 +21867,8 @@
             "url": "https://www.monoprice.com/product?p_id=36218",
             "product_id": 36218,
             "available": true,
-            "rating": 4.6,
-            "num_reviews": 14
+            "rating": 4.5,
+            "num_reviews": 15
         },
         "3622": {
             "name": "Monoprice 15ft Super VGA M/M CL2 Rated (For In-Wall Installation) Cable with Ferrites (Gold Plated)",
@@ -22514,7 +22505,7 @@
             "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=37883",
             "product_id": 37883,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 35
         },
@@ -24262,7 +24253,7 @@
             "product_id": 38800,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 77
+            "num_reviews": 79
         },
         "38801": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 6ft, Blue",
@@ -25640,15 +25631,6 @@
             "available": false,
             "rating": 4.4,
             "num_reviews": 7
-        },
-        "39261": {
-            "name": "Monoprice 6 Zone Home Audio Passive Multizone Controller Preamp Kit, NO LOGO",
-            "price": 399.99,
-            "url": "https://www.monoprice.com/product?p_id=39261",
-            "product_id": 39261,
-            "available": false,
-            "rating": 4,
-            "num_reviews": 3
         },
         "39262": {
             "name": "Monoprice Multizone Source Keypad with Wi-Fi Receiver and Line In",
@@ -45309,6 +45291,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-27T22:44:37Z"
+        "timestamp": "2023-04-27T22:54:42Z"
     }
 }
