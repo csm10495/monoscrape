@@ -11471,7 +11471,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=2308",
             "product_id": 2308,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -37643,7 +37643,7 @@
             "price": 5.49,
             "url": "https://www.monoprice.com/product?p_id=4985",
             "product_id": 4985,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3040
         },
@@ -40217,7 +40217,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=6397",
             "product_id": 6397,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 3
         },
@@ -40703,7 +40703,7 @@
             "price": 1.19,
             "url": "https://www.monoprice.com/product?p_id=659",
             "product_id": 659,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 143
         },
@@ -43297,7 +43297,7 @@
             "product_id": 8618,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1008
+            "num_reviews": 1009
         },
         "8621": {
             "name": "Monoprice 10/32 19mm Screw for Rack, 50 pcs, Carbon Steel, Black",
@@ -45363,6 +45363,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-27T14:36:22Z"
+        "timestamp": "2023-04-27T14:44:59Z"
     }
 }
