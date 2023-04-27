@@ -14461,7 +14461,7 @@
             "product_id": 2792,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1536
+            "num_reviews": 1538
         },
         "27920": {
             "name": "Monoprice Essentials USB Type-C to Type-C 2.0 Cable - 480Mbps, 3A, 30/26AWG, White, 0.5m (1.6 ft)",
@@ -38158,7 +38158,7 @@
             "product_id": 5300,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 632
+            "num_reviews": 633
         },
         "5301": {
             "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R, 16AWG, 13A/1625W, 3-Prong, Black, 15ft",
@@ -45363,6 +45363,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-27T09:05:39Z"
+        "timestamp": "2023-04-27T09:21:33Z"
     }
 }
