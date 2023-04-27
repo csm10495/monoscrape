@@ -29202,8 +29202,8 @@
             "url": "https://www.monoprice.com/product?p_id=4101",
             "product_id": 4101,
             "available": true,
-            "rating": 4.8,
-            "num_reviews": 303
+            "rating": 4.7,
+            "num_reviews": 304
         },
         "41010": {
             "name": "Monoprice Entegrade Series Cat8 26AWG S/FTP Ethernet Network Cable, 2GHz, 40G, 2ft, Black",
@@ -37719,15 +37719,6 @@
             "rating": 4.9,
             "num_reviews": 3398
         },
-        "5010": {
-            "name": "Monoprice Cat6 20ft Gray Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
-            "price": 2.59,
-            "url": "https://www.monoprice.com/product?p_id=5010",
-            "product_id": 5010,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 3398
-        },
         "5011": {
             "name": "Monoprice Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 20ft, Green",
             "price": 6.99,
@@ -40775,7 +40766,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=6725",
             "product_id": 6725,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 115
         },
@@ -42215,7 +42206,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=7670",
             "product_id": 7670,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 3
         },
@@ -45336,6 +45327,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-27T17:45:01Z"
+        "timestamp": "2023-04-27T17:55:01Z"
     }
 }
