@@ -1904,7 +1904,7 @@
             "price": 0.79,
             "url": "https://www.monoprice.com/product?p_id=1153",
             "product_id": 1153,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 14
         },
@@ -11489,7 +11489,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=2310",
             "product_id": 2310,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -14416,7 +14416,7 @@
             "product_id": 2791,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1537
+            "num_reviews": 1538
         },
         "27910": {
             "name": "Monoprice Essentials USB Type-C to Type-C 2.0 Cable - 480Mbps, 5A, 30/26AWG, White, 2m (6.6 ft)",
@@ -14587,7 +14587,7 @@
             "product_id": 2794,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1536
+            "num_reviews": 1538
         },
         "2795": {
             "name": "Monoprice Choice Series 18AWG Oxygen-Free Pure Bare Copper Speaker Wire, 100ft",
@@ -15370,7 +15370,7 @@
             "product_id": 3033,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 948
+            "num_reviews": 949
         },
         "30339": {
             "name": "Monoprice 8 Channel 4K NVR, Quad-core, Supports Live View, Storage, and Playback, up to 8MP, 8 PoE, H.265+ Zip+",
@@ -28697,7 +28697,7 @@
             "price": 11.89,
             "url": "https://www.monoprice.com/product?p_id=4045",
             "product_id": 4045,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1848
         },
@@ -37366,7 +37366,7 @@
             "product_id": 4793,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 421
+            "num_reviews": 422
         },
         "4794": {
             "name": "Monoprice 10ft Premier Series 1/4in TRS Male to Male Cable, 16AWG (Gold Plated)",
@@ -37656,15 +37656,6 @@
             "rating": 4.9,
             "num_reviews": 3040
         },
-        "4991": {
-            "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350Mhz, UTP, Pure Bare Copper Wire, 24AWG, 20ft, White",
-            "price": 4.99,
-            "url": "https://www.monoprice.com/product?p_id=4991",
-            "product_id": 4991,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 3040
-        },
         "4992": {
             "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 20ft, Yellow",
             "price": 3.19,
@@ -37814,7 +37805,7 @@
             "price": 9.49,
             "url": "https://www.monoprice.com/product?p_id=5017",
             "product_id": 5017,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -38131,7 +38122,7 @@
             "product_id": 5296,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 632
+            "num_reviews": 633
         },
         "5297": {
             "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R, 16AWG, 13A/1625W, 3-Prong, Black, 2ft",
@@ -38140,7 +38131,7 @@
             "product_id": 5297,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 632
+            "num_reviews": 633
         },
         "5298": {
             "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R, 16AWG, 13A/1625W, 3-Prong, Black, 3ft",
@@ -38149,7 +38140,7 @@
             "product_id": 5298,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 632
+            "num_reviews": 633
         },
         "5299": {
             "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R, 16AWG, 13A/1625W, 3-Prong, Black, 6ft",
@@ -38158,7 +38149,7 @@
             "product_id": 5299,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 632
+            "num_reviews": 633
         },
         "5300": {
             "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R, 16AWG, 13A/1625W, 3-Prong, Black, 10ft",
@@ -38176,7 +38167,7 @@
             "product_id": 5301,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 632
+            "num_reviews": 633
         },
         "5302": {
             "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R, 16AWG, 13A/1625W, 3-Prong, Black, 25ft",
@@ -38185,7 +38176,7 @@
             "product_id": 5302,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 632
+            "num_reviews": 633
         },
         "5303": {
             "name": "Monoprice Extension Cord - Indoor \u0026 Outdoor NEMA 5-15P to NEMA 5-15R, 14AWG, 15A/1875W, 3-Prong, Black, 25ft",
@@ -40021,7 +40012,7 @@
             "product_id": 6315,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 948
+            "num_reviews": 949
         },
         "6329": {
             "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 18AWG, 10A/1250W, 3-Prong, SVT, Black, 3ft",
@@ -40226,7 +40217,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=6397",
             "product_id": 6397,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 3
         },
@@ -42217,7 +42208,7 @@
             "product_id": 7643,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 190
+            "num_reviews": 191
         },
         "7644": {
             "name": "Monoprice USB Type-A to Type-A Female 2.0 Extension Cable - Active, 26/22AWG, Repeater, Kinect and PS3 Move Compatible, Black, 82ft",
@@ -43027,7 +43018,7 @@
             "product_id": 8490,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 69
+            "num_reviews": 70
         },
         "8492": {
             "name": "Monoprice 19inch eSATAp to SATA 22pin Cable - Black",
@@ -45372,6 +45363,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-27T02:36:37Z"
+        "timestamp": "2023-04-27T03:22:48Z"
     }
 }
