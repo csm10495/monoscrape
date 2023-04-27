@@ -31680,6 +31680,15 @@
             "rating": 5,
             "num_reviews": 1
         },
+        "42126": {
+            "name": "Creative Metal STEM toys metal crane, Windmill, frame crane 3 in 1 273pcs construction building",
+            "price": 17.99,
+            "url": "https://www.monoprice.com/product?p_id=42126",
+            "product_id": 42126,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "42128": {
             "name": "Battle rope for exercise traning rope gym workout heavy duty 30 Foot x 1.5 inch",
             "price": 25.99,
@@ -32816,7 +32825,7 @@
         },
         "42766": {
             "name": "Air Purifier for Home, 215ft, H11 True HEPA Filter, Remove 99.97% Allergens Smoke Pollen Pets Hair, 3 Speed, Air Cleaner, 3 Stage Filtration, Office, Bedroom",
-            "price": 19.99,
+            "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=42766",
             "product_id": 42766,
             "available": false,
@@ -32825,7 +32834,7 @@
         },
         "42768": {
             "name": "Portable Air Purifer filter for 42766 - Portable Air Purifier True HEPA H11 4 speed for bedroom office remove Pollen Dust Mold",
-            "price": 8.99,
+            "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=42768",
             "product_id": 42768,
             "available": true,
@@ -33083,6 +33092,15 @@
             "available": false,
             "rating": 4.4,
             "num_reviews": 5
+        },
+        "42866": {
+            "name": "Mini Portable UV Ultraviolet Instant Sterilizing LED Light for iPhone - Silver",
+            "price": 3.99,
+            "url": "https://www.monoprice.com/product?p_id=42866",
+            "product_id": 42866,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
         },
         "42867": {
             "name": "Mini Portable UV Ultraviolet Instant Sterilizing LED Light for iPhone - Black",
@@ -34601,7 +34619,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=43303",
             "product_id": 43303,
-            "available": false,
+            "available": true,
             "rating": 1.8,
             "num_reviews": 14
         },
@@ -35070,8 +35088,8 @@
             "url": "https://www.monoprice.com/product?p_id=43453",
             "product_id": 43453,
             "available": false,
-            "rating": 3.7,
-            "num_reviews": 20
+            "rating": 3.6,
+            "num_reviews": 21
         },
         "43462": {
             "name": "4Pack 4inch 27W Flood Round Pods Led Work Light Driving Fog Light Offroad Light for Tractor Off-Road SUV Boat Truck",
@@ -35253,6 +35271,15 @@
             "rating": 4.7,
             "num_reviews": 9
         },
+        "43573": {
+            "name": "Garden Lawn Sprinkler, Automatic Yard Water Sprinklers, 360 Degree Rotating, 3000 Sq. Ft Large Area Coverage, Adjustable Angle Water Sprinkler for Lawn, Plants, Garden Hose Sprinklers Heavy Duty",
+            "price": 4.99,
+            "url": "https://www.monoprice.com/product?p_id=43573",
+            "product_id": 43573,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "43574": {
             "name": "5 Gallon Plant Grow Bags 5-Pack Heavy Duty Thickened Non-Woven Aeration Planting Fabric Pot Container with 2 Strap Handles Felt Fabric for Garden and Planting, Black",
             "price": 21.99,
@@ -35406,15 +35433,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "43642": {
-            "name": "Galaxy Projector Star Lights Projector, Bluetooth Speaker, Starry Night Light, Remote Control, Bedroom, Party Room Decoration for Kids and Adults",
-            "price": 22.99,
-            "url": "https://www.monoprice.com/product?p_id=43642",
-            "product_id": 43642,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "43646": {
             "name": "Solar Mason Jar Lights,8 Pack 30 Led Hanging String Fairy Jar Solar Lantern Lights for Outdoor Patio Garden Yard and Lawn Decoration",
             "price": 29.99,
@@ -35429,15 +35447,6 @@
             "price": 13.99,
             "url": "https://www.monoprice.com/product?p_id=43655",
             "product_id": 43655,
-            "available": true,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "43663": {
-            "name": "MPM Foldable Dog Crate, Dog Metal Kennel 36 Inch Double Door Cage, Handle, Plastic Tray for Pet Animals Indoor Outdoor",
-            "price": 59.99,
-            "url": "https://www.monoprice.com/product?p_id=43663",
-            "product_id": 43663,
             "available": true,
             "rating": 0,
             "num_reviews": 0
@@ -45327,6 +45336,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-27T17:31:43Z"
+        "timestamp": "2023-04-27T17:37:45Z"
     }
 }
