@@ -39758,7 +39758,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=6168",
             "product_id": 6168,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 519
         },
@@ -40685,7 +40685,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=6576",
             "product_id": 6576,
-            "available": false,
+            "available": true,
             "rating": 3.9,
             "num_reviews": 41
         },
@@ -43270,7 +43270,7 @@
             "product_id": 8615,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1008
+            "num_reviews": 1009
         },
         "8616": {
             "name": "Monoprice USB Type-A to USB Type-B 2.0 Cable - 28/24AWG, Gold Plated, White, 6ft",
@@ -43441,7 +43441,7 @@
             "product_id": 8636,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 553
+            "num_reviews": 554
         },
         "8640": {
             "name": "Monoprice USB-A to Micro B 2.0 Cable - 5-Pin, 28/24AWG, Gold Plated, White, 3ft",
@@ -45363,6 +45363,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-27T15:35:12Z"
+        "timestamp": "2023-04-27T15:45:30Z"
     }
 }
