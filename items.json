@@ -28535,7 +28535,7 @@
             "price": 0.59,
             "url": "https://www.monoprice.com/product?p_id=40405",
             "product_id": 40405,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 230
         },
@@ -28733,7 +28733,7 @@
             "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=40539",
             "product_id": 40539,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 251
         },
@@ -29093,7 +29093,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=40885",
             "product_id": 40885,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 56
         },
@@ -29444,7 +29444,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=41038",
             "product_id": 41038,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 12
         },
@@ -29768,7 +29768,7 @@
             "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=41278",
             "product_id": 41278,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 238
         },
@@ -30344,7 +30344,7 @@
             "price": 329.99,
             "url": "https://www.monoprice.com/product?p_id=41483",
             "product_id": 41483,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 3
         },
@@ -31937,7 +31937,7 @@
             "price": 267.99,
             "url": "https://www.monoprice.com/product?p_id=42272",
             "product_id": 42272,
-            "available": true,
+            "available": false,
             "rating": 3.8,
             "num_reviews": 4
         },
@@ -32508,15 +32508,6 @@
             "rating": 3.8,
             "num_reviews": 29
         },
-        "42648": {
-            "name": "Monoprice Wire Flexible Tubing, PE Conduits, 1/2in x 10ft, Black",
-            "price": 1.99,
-            "url": "https://www.monoprice.com/product?p_id=42648",
-            "product_id": 42648,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 1
-        },
         "42649": {
             "name": "Monoprice Self Adhesive Cable Tie Mounts with Mounting Hole, 0.75x0.75 in, 100 pcs/pack, White, ABS Type Approval",
             "price": 2.09,
@@ -32549,7 +32540,7 @@
             "price": 2.39,
             "url": "https://www.monoprice.com/product?p_id=42652",
             "product_id": 42652,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 2
         },
@@ -32999,7 +32990,7 @@
             "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=42838",
             "product_id": 42838,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 12
         },
@@ -45354,6 +45345,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-27T16:28:13Z"
+        "timestamp": "2023-04-27T16:39:13Z"
     }
 }
