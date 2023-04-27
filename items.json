@@ -826,7 +826,7 @@
             "product_id": 11236,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 460
+            "num_reviews": 461
         },
         "11237": {
             "name": "Monoprice Cat5e 10ft Gray Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -844,7 +844,7 @@
             "product_id": 11238,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 460
+            "num_reviews": 461
         },
         "11241": {
             "name": "Monoprice Cat5e 10ft Purple Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -853,7 +853,7 @@
             "product_id": 11241,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 460
+            "num_reviews": 461
         },
         "11242": {
             "name": "Monoprice FLEXboot Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 10ft, Red",
@@ -1006,7 +1006,7 @@
             "product_id": 11261,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 460
+            "num_reviews": 461
         },
         "11264": {
             "name": "Monoprice Cat5e 1ft Gray Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -1339,7 +1339,7 @@
             "product_id": 11315,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 460
+            "num_reviews": 461
         },
         "11319": {
             "name": "Monoprice FLEXboot Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 30ft, Yellow",
@@ -1456,7 +1456,7 @@
             "product_id": 11336,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 460
+            "num_reviews": 461
         },
         "11337": {
             "name": "Monoprice Cat6 3ft Green Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -2975,7 +2975,7 @@
             "price": 9.49,
             "url": "https://www.monoprice.com/product?p_id=12842",
             "product_id": 12842,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 2056
         },
@@ -45363,6 +45363,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-27T07:34:15Z"
+        "timestamp": "2023-04-27T07:53:55Z"
     }
 }
