@@ -31650,8 +31650,8 @@
             "url": "https://www.monoprice.com/product?p_id=42111",
             "product_id": 42111,
             "available": true,
-            "rating": 2,
-            "num_reviews": 1
+            "rating": 3,
+            "num_reviews": 2
         },
         "42114": {
             "name": "Workstream by Monoprice Low-Profile Spill-Resistant Silent Keyboard - Membrane, Water-Resistant Coating, 10 Million Keystrokes",
@@ -32992,7 +32992,7 @@
             "product_id": 42842,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 11
+            "num_reviews": 12
         },
         "42843": {
             "name": "Monolith by Monoprice M-10 V2 10in THX Certified Select 500 Watt Powered Subwoofer",
@@ -35457,8 +35457,8 @@
             "url": "https://www.monoprice.com/product?p_id=43672",
             "product_id": 43672,
             "available": false,
-            "rating": 3.3,
-            "num_reviews": 4
+            "rating": 4,
+            "num_reviews": 3
         },
         "43685": {
             "name": "Folding Pet Dog Stairs Steps for high Bed Indoor Outdoor, with Siderails, Non-Slip Pads Foldable Plastic, Support up to 150 lbs",
@@ -35755,7 +35755,7 @@
             "product_id": 43963,
             "available": false,
             "rating": 4.2,
-            "num_reviews": 5
+            "num_reviews": 6
         },
         "44028": {
             "name": "Dark Matter Hyper-K Wireless Ultralight Gaming Mouse",
@@ -45309,6 +45309,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-27T21:54:56Z"
+        "timestamp": "2023-04-27T22:06:01Z"
     }
 }
