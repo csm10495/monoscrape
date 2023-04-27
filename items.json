@@ -16594,7 +16594,7 @@
             "product_id": 31202,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 260
+            "num_reviews": 261
         },
         "31203": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Black",
@@ -21840,8 +21840,8 @@
             "url": "https://www.monoprice.com/product?p_id=36210",
             "product_id": 36210,
             "available": true,
-            "rating": 4.6,
-            "num_reviews": 14
+            "rating": 4.5,
+            "num_reviews": 15
         },
         "36211": {
             "name": "Monoprice Cat6 10ft Black Outdoor Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Molded Snagless RJ45, Zeroboot Series Ethernet Cable",
@@ -26062,7 +26062,7 @@
             "product_id": 39481,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 264
+            "num_reviews": 267
         },
         "39483": {
             "name": "Monoprice 8K Ultra High Speed HDMI Cable 6ft - 48Gbps Black - 5 Pack",
@@ -26800,7 +26800,7 @@
             "product_id": 39641,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 56
+            "num_reviews": 57
         },
         "39643": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C Charge \u0026 Sync Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 6ft, Red",
@@ -45363,6 +45363,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-27T12:42:00Z"
+        "timestamp": "2023-04-27T13:11:39Z"
     }
 }
