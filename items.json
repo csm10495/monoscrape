@@ -10004,7 +10004,7 @@
             "price": 26.99,
             "url": "https://www.monoprice.com/product?p_id=2119",
             "product_id": 2119,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -37112,7 +37112,7 @@
             "price": 25.49,
             "url": "https://www.monoprice.com/product?p_id=4765",
             "product_id": 4765,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 290
         },
@@ -37814,7 +37814,7 @@
             "price": 7.19,
             "url": "https://www.monoprice.com/product?p_id=5031",
             "product_id": 5031,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -38536,7 +38536,7 @@
             "product_id": 5434,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1584
+            "num_reviews": 1586
         },
         "5435": {
             "name": "Monoprice USB Type-A to USB Type-A Female 2.0 Extension Cable - 28/24AWG, Gold Plated, Black, 15ft",
@@ -39470,7 +39470,7 @@
             "price": 89.99,
             "url": "https://www.monoprice.com/product?p_id=5979",
             "product_id": 5979,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 63
         },
@@ -44303,7 +44303,7 @@
             "price": 46.49,
             "url": "https://www.monoprice.com/product?p_id=953",
             "product_id": 953,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 16
         },
@@ -45345,6 +45345,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-27T16:45:26Z"
+        "timestamp": "2023-04-27T16:55:05Z"
     }
 }
