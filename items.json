@@ -28699,7 +28699,7 @@
             "product_id": 4045,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1848
+            "num_reviews": 1850
         },
         "4046": {
             "name": "Monoprice Access Series 18AWG CL2 Rated 2-Conductor Speaker Wire, 250ft, White",
@@ -38797,7 +38797,7 @@
             "product_id": 5496,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 408
+            "num_reviews": 409
         },
         "5497": {
             "name": "Monoprice 10ft Premier Series 1/4in TS Male to Male Audio Cable, 16AWG (Gold Plated)",
@@ -45363,6 +45363,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-27T05:36:11Z"
+        "timestamp": "2023-04-27T05:44:04Z"
     }
 }
