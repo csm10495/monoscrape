@@ -9923,7 +9923,7 @@
             "price": 1.11,
             "url": "https://www.monoprice.com/product?p_id=2081",
             "product_id": 2081,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 65
         },
@@ -11453,7 +11453,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=2306",
             "product_id": 2306,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -28573,7 +28573,7 @@
             "product_id": 4042,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1848
+            "num_reviews": 1850
         },
         "40424": {
             "name": "Monoprice 4K UltraFlex Small Diameter High Speed HDMI Female to Mini HDMI Male Passive Cable - 4K@60Hz 18Gbps 40AWG, 6in Black",
@@ -37312,7 +37312,7 @@
             "product_id": 4791,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 421
+            "num_reviews": 422
         },
         "4792": {
             "name": "Monoprice 3ft Premier Series 1/4in TRS Male to Male Cable, 16AWG (Gold Plated)",
@@ -38500,7 +38500,7 @@
             "product_id": 5433,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1584
+            "num_reviews": 1586
         },
         "5434": {
             "name": "Monoprice USB Type-A to USB Type-A Female 2.0 Extension Cable - 28/24AWG, Gold Plated, Black, 10ft",
@@ -39119,7 +39119,7 @@
             "price": 1.29,
             "url": "https://www.monoprice.com/product?p_id=5762",
             "product_id": 5762,
-            "available": false,
+            "available": true,
             "rating": 4.2,
             "num_reviews": 369
         },
@@ -40757,7 +40757,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=6725",
             "product_id": 6725,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 115
         },
@@ -43378,7 +43378,7 @@
             "product_id": 8634,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 553
+            "num_reviews": 554
         },
         "8635": {
             "name": "Monoprice USB-A to Mini-B 2.0 Cable - 5-Pin, 28/24AWG, Gold Plated, White, 10ft",
@@ -45318,6 +45318,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-27T20:08:20Z"
+        "timestamp": "2023-04-27T20:25:46Z"
     }
 }
