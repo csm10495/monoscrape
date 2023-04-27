@@ -38833,7 +38833,7 @@
             "product_id": 5500,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 408
+            "num_reviews": 409
         },
         "5557": {
             "name": "Monoprice Blackbird 4x1 HDMI 1.4 Switch HDCP 1.4 with Toslink and Analog Audio Extractor, 1080p@60Hz",
@@ -43414,7 +43414,7 @@
             "product_id": 8633,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 553
+            "num_reviews": 554
         },
         "8634": {
             "name": "Monoprice USB-A to Mini-B 2.0 Cable - 5-Pin, 28/24AWG, Gold Plated, White, 6ft",
@@ -43603,7 +43603,7 @@
             "product_id": 877,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 161
+            "num_reviews": 162
         },
         "8770": {
             "name": "Monoprice 25ft 2-conductor NL4 Female to NL4 Female 12AWG Speaker Twist Connector Cable",
@@ -43817,7 +43817,7 @@
             "price": 167.99,
             "url": "https://www.monoprice.com/product?p_id=894",
             "product_id": 894,
-            "available": true,
+            "available": false,
             "rating": 3.8,
             "num_reviews": 5
         },
@@ -45363,6 +45363,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-27T04:35:45Z"
+        "timestamp": "2023-04-27T04:44:26Z"
     }
 }
