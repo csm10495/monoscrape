@@ -3508,7 +3508,7 @@
             "product_id": 13239,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 165
+            "num_reviews": 166
         },
         "13240": {
             "name": "Monoprice Cat6 1ft Purple Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
@@ -3589,7 +3589,7 @@
             "product_id": 13253,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 165
+            "num_reviews": 166
         },
         "13256": {
             "name": "Monoprice Cat6 5ft Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
@@ -3607,7 +3607,7 @@
             "product_id": 13258,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 165
+            "num_reviews": 166
         },
         "13265": {
             "name": "Monoprice Cat6 7ft White Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
@@ -3616,7 +3616,7 @@
             "product_id": 13265,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 165
+            "num_reviews": 166
         },
         "13266": {
             "name": "Monoprice Cat6 7ft Yellow Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
@@ -3661,7 +3661,7 @@
             "product_id": 13275,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 165
+            "num_reviews": 166
         },
         "13276": {
             "name": "Monoprice Cat6 15ft Green Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
@@ -3733,7 +3733,7 @@
             "product_id": 13298,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 165
+            "num_reviews": 166
         },
         "133": {
             "name": "Monoprice Cat5e 3ft White Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -3751,7 +3751,7 @@
             "product_id": 13300,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 165
+            "num_reviews": 166
         },
         "13342": {
             "name": "Monoprice Toslink S/PDIF 1x2 Splitter",
@@ -3985,7 +3985,7 @@
             "product_id": 13406,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 165
+            "num_reviews": 166
         },
         "13407": {
             "name": "Monoprice Cat6 10ft Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
@@ -4012,7 +4012,7 @@
             "product_id": 13409,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 165
+            "num_reviews": 166
         },
         "13410": {
             "name": "Monoprice Cat6 20ft Black Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
@@ -5893,7 +5893,7 @@
             "product_id": 14305,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 165
+            "num_reviews": 166
         },
         "14307": {
             "name": "Monoprice Cat6 5ft White Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
@@ -5920,7 +5920,7 @@
             "product_id": 14311,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 165
+            "num_reviews": 166
         },
         "14312": {
             "name": "Monoprice Cat6 5ft Yellow Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
@@ -6368,7 +6368,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=14806",
             "product_id": 14806,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -7673,7 +7673,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=15696",
             "product_id": 15696,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 14
         },
@@ -41349,6 +41349,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-27T21:26:34Z"
+        "timestamp": "2023-04-27T21:34:55Z"
     }
 }
