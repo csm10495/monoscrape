@@ -28022,7 +28022,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=40101",
             "product_id": 40101,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -28922,7 +28922,7 @@
             "price": 188.99,
             "url": "https://www.monoprice.com/product?p_id=40778",
             "product_id": 40778,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 20
         },
@@ -29628,6 +29628,15 @@
             "rating": 5,
             "num_reviews": 7
         },
+        "41111": {
+            "name": "Monolith by Monoprice 2x200 Watts Per Channel Two Channel Home Theater Stereo Power Amplifier with XLR Inputs (Factory Refurbished/B Stock))",
+            "price": 899.99,
+            "url": "https://www.monoprice.com/product?p_id=41111",
+            "product_id": 41111,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 1
+        },
         "41118": {
             "name": "Strata Home by Monoprice Pro Blender (clearance)",
             "price": 22.9,
@@ -30013,7 +30022,7 @@
             "product_id": 41375,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1848
+            "num_reviews": 1850
         },
         "41376": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 2-Conductor Speaker Wire, 100ft, Black",
@@ -30148,7 +30157,7 @@
             "product_id": 41390,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1848
+            "num_reviews": 1850
         },
         "41391": {
             "name": "Monoprice Access Series 18AWG CL2 Rated 2-Conductor Speaker Wire, 50ft, Black",
@@ -30229,7 +30238,7 @@
             "product_id": 41399,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1848
+            "num_reviews": 1850
         },
         "41400": {
             "name": "Monoprice Access Series 12AWG CL2 Rated 2-Conductor Speaker Wire, 1000ft, Black",
@@ -31064,7 +31073,7 @@
             "price": 5.09,
             "url": "https://www.monoprice.com/product?p_id=41938",
             "product_id": 41938,
-            "available": true,
+            "available": false,
             "rating": 4,
             "num_reviews": 5
         },
@@ -31344,8 +31353,8 @@
             "url": "https://www.monoprice.com/product?p_id=42024",
             "product_id": 42024,
             "available": false,
-            "rating": 5,
-            "num_reviews": 4
+            "rating": 4.9,
+            "num_reviews": 6
         },
         "42025": {
             "name": "Monoprice Clear Acrylic Plexiglass Sneeze Guard Protective Shield Desk Barrier Small Size 27.6in x 9.8in x 23.6in",
@@ -31937,7 +31946,7 @@
             "price": 267.99,
             "url": "https://www.monoprice.com/product?p_id=42272",
             "product_id": 42272,
-            "available": false,
+            "available": true,
             "rating": 3.8,
             "num_reviews": 4
         },
@@ -34083,6 +34092,24 @@
             "rating": 4.8,
             "num_reviews": 10
         },
+        "43177": {
+            "name": "Monoprice Heavy Duty Power Cable - IEC 60320 C14 to IEC 60320 C15, 14AWG, 15A, SJT, 125V, White, 3ft",
+            "price": 2.69,
+            "url": "https://www.monoprice.com/product?p_id=43177",
+            "product_id": 43177,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 7
+        },
+        "43178": {
+            "name": "Monoprice Heavy Duty Power Cable - IEC 60320 C14 to IEC 60320 C15, 14AWG, 15A, SJT, 125V, White, 6ft",
+            "price": 2.26,
+            "url": "https://www.monoprice.com/product?p_id=43178",
+            "product_id": 43178,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 7
+        },
         "43180": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A, 125V, 3-Prong, White, 3ft",
             "price": 2.99,
@@ -35483,7 +35510,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=43672",
             "product_id": 43672,
-            "available": true,
+            "available": false,
             "rating": 4,
             "num_reviews": 3
         },
@@ -36306,6 +36333,24 @@
             "rating": 4.9,
             "num_reviews": 1460
         },
+        "44418": {
+            "name": "3-Layer Folding Mobile Steel Shelving Unit",
+            "price": 79.99,
+            "url": "https://www.monoprice.com/product?p_id=44418",
+            "product_id": 44418,
+            "available": false,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "44419": {
+            "name": "Aluminum Foldable Hand Truck - Black",
+            "price": 58.99,
+            "url": "https://www.monoprice.com/product?p_id=44419",
+            "product_id": 44419,
+            "available": false,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "44434": {
             "name": "Blackbird 8K60 2x1 HDMI Switch, HDMI 2.1, HDCP 2.3",
             "price": 39.99,
@@ -36356,6 +36401,15 @@
             "price": 1359.99,
             "url": "https://www.monoprice.com/product?p_id=44463",
             "product_id": 44463,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "44464": {
+            "name": "Monolith by Monoprice M8250x 8x200 Watts Per Channel Class-D (B-Stock)",
+            "price": 2399.99,
+            "url": "https://www.monoprice.com/product?p_id=44464",
+            "product_id": 44464,
             "available": true,
             "rating": 0,
             "num_reviews": 0
@@ -45318,6 +45372,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-26T23:19:17Z"
+        "timestamp": "2023-04-27T01:22:02Z"
     }
 }
