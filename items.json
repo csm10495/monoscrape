@@ -3454,7 +3454,7 @@
             "product_id": 13219,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 165
+            "num_reviews": 166
         },
         "13234": {
             "name": "Monoprice Select Series USB-C to DisplayPort Adapter",
@@ -3587,7 +3587,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=13253",
             "product_id": 13253,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 165
         },
@@ -3625,7 +3625,7 @@
             "product_id": 13266,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 165
+            "num_reviews": 166
         },
         "13267": {
             "name": "Monoprice Cat6 7ft Gray Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
@@ -3634,7 +3634,7 @@
             "product_id": 13267,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 165
+            "num_reviews": 166
         },
         "13268": {
             "name": "Monoprice Cat6 10ft Gray Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
@@ -3688,7 +3688,7 @@
             "product_id": 13283,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 165
+            "num_reviews": 166
         },
         "13288": {
             "name": "Monoprice Cat6 25ft Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
@@ -4030,7 +4030,7 @@
             "product_id": 13411,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 165
+            "num_reviews": 166
         },
         "13412": {
             "name": "Monoprice Select Plus USB Car Charger, 2-Port, 4.8A Output for iPhone, Android, and Galaxy Devices",
@@ -4048,7 +4048,7 @@
             "product_id": 13413,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 165
+            "num_reviews": 166
         },
         "13414": {
             "name": "Monoprice Cat6 50ft Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
@@ -4118,7 +4118,7 @@
             "price": 2.29,
             "url": "https://www.monoprice.com/product?p_id=13508",
             "product_id": 13508,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -5857,7 +5857,7 @@
             "product_id": 14289,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 165
+            "num_reviews": 166
         },
         "14291": {
             "name": "Monoprice ZEROboot Cat6 Ethernet Patch Cable - RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 75ft, Green",
@@ -6201,6 +6201,15 @@
             "rating": 4.5,
             "num_reviews": 60
         },
+        "14767": {
+            "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Black, (UL)",
+            "price": 39.99,
+            "url": "https://www.monoprice.com/product?p_id=14767",
+            "product_id": 14767,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 92
+        },
         "14771": {
             "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Green, (UL)",
             "price": 39.99,
@@ -6269,7 +6278,7 @@
             "price": 2.29,
             "url": "https://www.monoprice.com/product?p_id=14788",
             "product_id": 14788,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -7324,7 +7333,7 @@
             "product_id": 15429,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1705
+            "num_reviews": 1706
         },
         "15430": {
             "name": "Monoprice 4K Certified Premium High Speed HDMI Cable 15ft - 18Gbps Black",
@@ -9221,7 +9230,7 @@
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=16356",
             "product_id": 16356,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 38
         },
@@ -9701,15 +9710,6 @@
             "available": false,
             "rating": 4.7,
             "num_reviews": 118
-        },
-        "18682": {
-            "name": "Monolith by Monoprice 7x200 Watts Per Channel Multi-Channel Home Theater Amplifier with XLR Inputs - Factory Refurbished/B-Stock",
-            "price": 1499,
-            "url": "https://www.monoprice.com/product?p_id=18682",
-            "product_id": 18682,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 13
         },
         "18734": {
             "name": "Strata Home by Monoprice Portable Induction Cooktop 1800W",
@@ -45327,6 +45327,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-27T17:55:01Z"
+        "timestamp": "2023-04-27T18:10:14Z"
     }
 }
