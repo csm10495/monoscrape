@@ -1418,7 +1418,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=11330",
             "product_id": 11330,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 461
         },
@@ -1472,7 +1472,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=11338",
             "product_id": 11338,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1460
         },
@@ -3290,7 +3290,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=13121",
             "product_id": 13121,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 127
         },
@@ -3299,7 +3299,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=13122",
             "product_id": 13122,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 127
         },
@@ -3490,7 +3490,7 @@
             "product_id": 13237,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 165
+            "num_reviews": 166
         },
         "13238": {
             "name": "Monoprice Cat6 1ft Green Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
@@ -3562,7 +3562,7 @@
             "product_id": 13249,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 165
+            "num_reviews": 166
         },
         "13251": {
             "name": "Monoprice Cat6 3ft Red Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
@@ -3598,7 +3598,7 @@
             "product_id": 13256,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 165
+            "num_reviews": 166
         },
         "13258": {
             "name": "Monoprice Cat6 5ft Green Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
@@ -3679,7 +3679,7 @@
             "product_id": 13280,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 165
+            "num_reviews": 166
         },
         "13283": {
             "name": "Monoprice Cat6 20ft Green Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
@@ -3706,7 +3706,7 @@
             "product_id": 13291,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 165
+            "num_reviews": 166
         },
         "13293": {
             "name": "Monoprice Cat6 25ft White Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
@@ -3949,7 +3949,7 @@
             "product_id": 13402,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 165
+            "num_reviews": 166
         },
         "13403": {
             "name": "Monoprice Cat6 5ft Black Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
@@ -3994,7 +3994,7 @@
             "product_id": 13407,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 165
+            "num_reviews": 166
         },
         "13408": {
             "name": "Monoprice Cat6 15ft Black Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
@@ -4325,7 +4325,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=13534",
             "product_id": 13534,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -5848,7 +5848,7 @@
             "product_id": 14288,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 165
+            "num_reviews": 166
         },
         "14289": {
             "name": "Monoprice Cat6 3ft Green Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
@@ -6216,8 +6216,8 @@
             "url": "https://www.monoprice.com/product?p_id=14771",
             "product_id": 14771,
             "available": false,
-            "rating": 4.7,
-            "num_reviews": 91
+            "rating": 4.6,
+            "num_reviews": 92
         },
         "14772": {
             "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Orange, (UL)",
@@ -45318,6 +45318,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-27T20:25:46Z"
+        "timestamp": "2023-04-27T20:31:07Z"
     }
 }
