@@ -24548,7 +24548,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=40072",
             "product_id": 40072,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 3
         },
@@ -27059,7 +27059,7 @@
             "price": 129.99,
             "url": "https://www.monoprice.com/product?p_id=41484",
             "product_id": 41484,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 16
         },
@@ -30227,7 +30227,7 @@
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=42997",
             "product_id": 42997,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 7
         },
@@ -32677,7 +32677,7 @@
             "product_id": 44117,
             "available": true,
             "rating": 5,
-            "num_reviews": 1
+            "num_reviews": 2
         },
         "44167": {
             "name": "Monoprice Spring Assisted Above Fireplace Mantel Pull-Down Full-Motion TV Wall Mount for TVs 43in to 70in, Weight Capacity 28.6lbs to 72.6lbs, VESA up to 600x400, Height Adjustable",
@@ -42051,6 +42051,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-28T13:34:47Z"
+        "timestamp": "2023-04-28T13:44:49Z"
     }
 }
