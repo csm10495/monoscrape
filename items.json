@@ -13878,15 +13878,6 @@
             "rating": 4.8,
             "num_reviews": 67
         },
-        "27489": {
-            "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, S/STP, Pure Bare Copper Wire, 36AWG, 5ft, Yellow",
-            "price": 4.99,
-            "url": "https://www.monoprice.com/product?p_id=27489",
-            "product_id": 27489,
-            "available": true,
-            "rating": 4.8,
-            "num_reviews": 67
-        },
         "2749": {
             "name": "Monoprice Choice Series 16AWG Oxygen-Free Pure Bare Copper Speaker Wire, 50ft",
             "price": 15.74,
@@ -45255,6 +45246,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-28T16:38:55Z"
+        "timestamp": "2023-04-28T16:45:53Z"
     }
 }
