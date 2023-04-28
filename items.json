@@ -11696,7 +11696,7 @@
             "price": 11.49,
             "url": "https://www.monoprice.com/product?p_id=2388",
             "product_id": 2388,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 97
         },
@@ -13253,7 +13253,7 @@
             "price": 5.49,
             "url": "https://www.monoprice.com/product?p_id=2601",
             "product_id": 2601,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 7
         },
@@ -14722,7 +14722,7 @@
             "product_id": 2867,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 1298
+            "num_reviews": 1299
         },
         "2868": {
             "name": "Monoprice 50ft Premium 2 RCA Plug/2 RCA Plug M/M 22AWG Cable - Black",
@@ -37575,6 +37575,15 @@
             "rating": 4.9,
             "num_reviews": 3040
         },
+        "4977": {
+            "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 0.5ft, Gray",
+            "price": 0.29,
+            "url": "https://www.monoprice.com/product?p_id=4977",
+            "product_id": 4977,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 3040
+        },
         "4982": {
             "name": "Monoprice Cat5e 0.5ft White Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 0.34,
@@ -37742,7 +37751,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=5016",
             "product_id": 5016,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -38129,7 +38138,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=5303",
             "product_id": 5303,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 93
         },
@@ -38660,7 +38669,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=5450",
             "product_id": 5450,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 553
         },
@@ -39137,7 +39146,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=5767",
             "product_id": 5767,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 369
         },
@@ -39175,7 +39184,7 @@
             "product_id": 5795,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 68
+            "num_reviews": 69
         },
         "5797": {
             "name": "Monoprice Releasable Cable Tie 8in 50 lbs, 100 pcs/pack, Black",
@@ -39419,6 +39428,15 @@
             "available": true,
             "rating": 4.5,
             "num_reviews": 165
+        },
+        "5976": {
+            "name": "Monoprice 1 PAIR OF High-Quality Gold Plated Speaker Pin Plugs, Pin Screw Type",
+            "price": 0.99,
+            "url": "https://www.monoprice.com/product?p_id=5976",
+            "product_id": 5976,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 40
         },
         "5978": {
             "name": "Monoprice 8.0mm Professional Microphone Bulk Cable, 100ft",
@@ -40343,7 +40361,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=647",
             "product_id": 647,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 926
         },
@@ -42863,7 +42881,7 @@
             "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=8247",
             "product_id": 8247,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 259
         },
@@ -43135,7 +43153,7 @@
             "product_id": 8605,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1585
+            "num_reviews": 1586
         },
         "8606": {
             "name": "Monoprice USB Type-A to USB Type-A Female 2.0 Extension Cable - 28/24AWG, Gold Plated, White, 6ft",
@@ -43799,7 +43817,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=9196",
             "product_id": 9196,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 87
         },
@@ -43961,7 +43979,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=9356",
             "product_id": 9356,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 10
         },
@@ -45300,6 +45318,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-28T20:44:33Z"
+        "timestamp": "2023-04-28T20:54:52Z"
     }
 }
