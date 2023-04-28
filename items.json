@@ -12769,7 +12769,7 @@
             "product_id": 24436,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 137
+            "num_reviews": 138
         },
         "24437": {
             "name": "Monoprice Onyx Series Auxiliary 3.5mm TRRS Audio \u0026 Microphone Cable, 1ft",
@@ -13878,6 +13878,15 @@
             "rating": 4.8,
             "num_reviews": 67
         },
+        "27487": {
+            "name": "Monoprice Cat6A 5ft Red Patch Cable,  Double Shielded (S/FTP), 36AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 1.19,
+            "url": "https://www.monoprice.com/product?p_id=27487",
+            "product_id": 27487,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 67
+        },
         "27488": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, S/STP, Pure Bare Copper Wire, 36AWG, 5ft, Green",
             "price": 2.69,
@@ -14252,7 +14261,7 @@
             "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=27850",
             "product_id": 27850,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 17
         },
@@ -45318,6 +45327,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-28T21:06:01Z"
+        "timestamp": "2023-04-28T21:25:35Z"
     }
 }
