@@ -10319,7 +10319,7 @@
             "price": 50.99,
             "url": "https://www.monoprice.com/product?p_id=21550",
             "product_id": 21550,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 29
         },
@@ -11067,8 +11067,8 @@
             "url": "https://www.monoprice.com/product?p_id=21917",
             "product_id": 21917,
             "available": true,
-            "rating": 4.6,
-            "num_reviews": 132
+            "rating": 4.7,
+            "num_reviews": 133
         },
         "21918": {
             "name": "Monoprice 5 Pair Affinity Series 24k Gold Speaker Banana Plug",
@@ -12551,7 +12551,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=24376",
             "product_id": 24376,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 495
         },
@@ -13937,7 +13937,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=27502",
             "product_id": 27502,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 67
         },
@@ -45291,6 +45291,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-28T19:57:16Z"
+        "timestamp": "2023-04-28T20:09:02Z"
     }
 }
