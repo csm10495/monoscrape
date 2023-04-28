@@ -4518,15 +4518,6 @@
             "rating": 3.9,
             "num_reviews": 42
         },
-        "13565": {
-            "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, U/FTP, CM, Pure Bare Copper Wire, 23AWG, 250ft, Blue",
-            "price": 37.62,
-            "url": "https://www.monoprice.com/product?p_id=13565",
-            "product_id": 13565,
-            "available": true,
-            "rating": 3.9,
-            "num_reviews": 42
-        },
         "13574": {
             "name": "Monoprice 4K Slim High Speed HDMI Cable 0.5ft - 18Gbps Black",
             "price": 5.49,
@@ -6368,7 +6359,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=14808",
             "product_id": 14808,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -8825,7 +8816,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=16249",
             "product_id": 16249,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 60
         },
@@ -9241,7 +9232,7 @@
             "product_id": 16359,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 93
+            "num_reviews": 94
         },
         "16360": {
             "name": "Workstream by Monoprice Medium Multimedia Desktop Monitor Stand, 25.6in x 11.0in, Max Weight Capacity 80lbs, Black Tempered Glass",
@@ -9365,7 +9356,7 @@
             "price": 16.69,
             "url": "https://www.monoprice.com/product?p_id=18534",
             "product_id": 18534,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 100
         },
@@ -45255,6 +45246,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-28T17:28:43Z"
+        "timestamp": "2023-04-28T17:34:40Z"
     }
 }
