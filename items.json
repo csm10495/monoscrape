@@ -24739,7 +24739,7 @@
             "product_id": 38886,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 20
+            "num_reviews": 21
         },
         "38887": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-C Charge \u0026 Sync Nylon-Braid Cable, 1.5ft, White",
@@ -45291,6 +45291,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-28T03:24:04Z"
+        "timestamp": "2023-04-28T03:34:37Z"
     }
 }
