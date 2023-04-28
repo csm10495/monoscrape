@@ -675,15 +675,6 @@
             "rating": 4.8,
             "num_reviews": 461
         },
-        "11201": {
-            "name": "Monoprice FLEXboot Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 20ft, Purple",
-            "price": 3.19,
-            "url": "https://www.monoprice.com/product?p_id=11201",
-            "product_id": 11201,
-            "available": false,
-            "rating": 4.8,
-            "num_reviews": 461
-        },
         "11204": {
             "name": "Monoprice FLEXboot Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 20ft, Yellow",
             "price": 3.99,
@@ -8539,7 +8530,7 @@
             "product_id": 16120,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1705
+            "num_reviews": 1706
         },
         "16122": {
             "name": "Monoprice Commercial Series Under Cabinet and RV Tilt TV Wall Mount Bracket For TVs Up to 27in, Max Weight 44lbs, VESA Patterns Up to 100x100",
@@ -45291,6 +45282,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-28T15:23:47Z"
+        "timestamp": "2023-04-28T15:30:05Z"
     }
 }
