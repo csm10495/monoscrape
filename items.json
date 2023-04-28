@@ -4057,7 +4057,7 @@
             "product_id": 13414,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 165
+            "num_reviews": 166
         },
         "13415": {
             "name": "Monoprice Select Plus USB Car Charger, 4-Port, 9.6A/48W Output for iPhone, Android, and Galaxy Devices",
@@ -7916,7 +7916,7 @@
             "price": 20.59,
             "url": "https://www.monoprice.com/product?p_id=15835",
             "product_id": 15835,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 214
         },
@@ -8377,7 +8377,7 @@
             "product_id": 16077,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1848
+            "num_reviews": 1850
         },
         "16079": {
             "name": "Monoprice Access Series 16AWG CL2 Rated 2-Conductor Speaker Wire, 1000ft, White",
@@ -45291,6 +45291,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-28T04:09:45Z"
+        "timestamp": "2023-04-28T04:27:30Z"
     }
 }
