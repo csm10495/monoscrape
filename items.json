@@ -1094,7 +1094,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=11278",
             "product_id": 11278,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1460
         },
@@ -2455,7 +2455,7 @@
             "product_id": 12300,
             "available": false,
             "rating": 4.3,
-            "num_reviews": 571
+            "num_reviews": 573
         },
         "12343": {
             "name": "Monoprice PC+TPU Edge Bumper for 5.5in iPhone 6 Plus and 6s Plus, Black",
@@ -6192,15 +6192,6 @@
             "rating": 4.5,
             "num_reviews": 60
         },
-        "14767": {
-            "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Black, (UL)",
-            "price": 39.99,
-            "url": "https://www.monoprice.com/product?p_id=14767",
-            "product_id": 14767,
-            "available": false,
-            "rating": 4.6,
-            "num_reviews": 92
-        },
         "14771": {
             "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Green, (UL)",
             "price": 39.99,
@@ -6647,7 +6638,7 @@
             "price": 17.1,
             "url": "https://www.monoprice.com/product?p_id=14918",
             "product_id": 14918,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 67
         },
@@ -7907,7 +7898,7 @@
             "price": 20.59,
             "url": "https://www.monoprice.com/product?p_id=15835",
             "product_id": 15835,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 214
         },
@@ -9338,7 +9329,7 @@
             "price": 203.99,
             "url": "https://www.monoprice.com/product?p_id=18514",
             "product_id": 18514,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 59
         },
@@ -45264,6 +45255,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-28T16:28:49Z"
+        "timestamp": "2023-04-28T16:38:55Z"
     }
 }
