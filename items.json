@@ -790,7 +790,7 @@
             "product_id": 11233,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1463
         },
         "11234": {
             "name": "Monoprice Cat6A 100ft Blue Patch Cable,  Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Molded RJ45, Entegrade Series Ethernet Cable",
@@ -1238,7 +1238,7 @@
             "price": 1.29,
             "url": "https://www.monoprice.com/product?p_id=11302",
             "product_id": 11302,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 461
         },
@@ -1400,7 +1400,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=11329",
             "product_id": 11329,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 461
         },
@@ -1616,7 +1616,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=11361",
             "product_id": 11361,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 461
         },
@@ -1751,7 +1751,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=11385",
             "product_id": 11385,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 461
         },
@@ -3605,7 +3605,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=13265",
             "product_id": 13265,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 166
         },
@@ -4352,7 +4352,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=13538",
             "product_id": 13538,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -5486,7 +5486,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=13838",
             "product_id": 13838,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 17
         },
@@ -6431,7 +6431,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=14817",
             "product_id": 14817,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -6458,7 +6458,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=14820",
             "product_id": 14820,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -7160,7 +7160,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=15379",
             "product_id": 15379,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 94
         },
@@ -7306,7 +7306,7 @@
             "product_id": 15429,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1706
+            "num_reviews": 1707
         },
         "15430": {
             "name": "Monoprice 4K Certified Premium High Speed HDMI Cable 15ft - 18Gbps Black",
@@ -7403,7 +7403,7 @@
             "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=15526",
             "product_id": 15526,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 170
         },
@@ -7556,7 +7556,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=15664",
             "product_id": 15664,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 41
         },
@@ -8006,7 +8006,7 @@
             "price": 36.99,
             "url": "https://www.monoprice.com/product?p_id=15875",
             "product_id": 15875,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 34
         },
@@ -45237,6 +45237,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-28T18:35:04Z"
+        "timestamp": "2023-04-28T18:44:43Z"
     }
 }
