@@ -30294,15 +30294,6 @@
             "rating": 4.9,
             "num_reviews": 69
         },
-        "41483": {
-            "name": "Monoprice Entegrade 500FT Cat8.2 2GHz S/FTP Solid, PoE+ (IEEE 802.3at) 22AWG, Bulk Bare Copper Network Cable, 40G, Blue (UL) (TAA)",
-            "price": 329.99,
-            "url": "https://www.monoprice.com/product?p_id=41483",
-            "product_id": 41483,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 3
-        },
         "41484": {
             "name": "Monoprice Cat6A 500ft Black CMR UL Bulk Cable, TAA, Shielded (F/UTP), Solid, 23AWG, 550MHz, 10G, Pure Bare Copper, Reel in Box, Bulk Ethernet Cable",
             "price": 129.99,
@@ -32009,7 +32000,7 @@
             "price": 129.99,
             "url": "https://www.monoprice.com/product?p_id=42344",
             "product_id": 42344,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 16
         },
@@ -34484,7 +34475,7 @@
             "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=43247",
             "product_id": 43247,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 7
         },
@@ -34493,7 +34484,7 @@
             "price": 79.99,
             "url": "https://www.monoprice.com/product?p_id=43248",
             "product_id": 43248,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 14
         },
@@ -45282,6 +45273,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-28T15:44:50Z"
+        "timestamp": "2023-04-28T15:54:52Z"
     }
 }
