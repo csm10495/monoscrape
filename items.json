@@ -32254,7 +32254,7 @@
             "product_id": 42533,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 392
+            "num_reviews": 394
         },
         "42534": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Black - 3 Pack",
@@ -32281,7 +32281,7 @@
             "product_id": 42536,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 392
+            "num_reviews": 394
         },
         "42537": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft/3ft/6ft, Black - 3 Pack",
@@ -34459,7 +34459,7 @@
             "product_id": 43244,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 9
+            "num_reviews": 10
         },
         "43245": {
             "name": "Monoprice Bluetooth 5 Receiver with Mic Input",
@@ -45291,6 +45291,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-28T00:33:24Z"
+        "timestamp": "2023-04-28T01:52:12Z"
     }
 }
