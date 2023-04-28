@@ -17231,7 +17231,7 @@
             "price": 54.99,
             "url": "https://www.monoprice.com/product?p_id=33270",
             "product_id": 33270,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 522
         },
@@ -17613,15 +17613,6 @@
             "rating": 4.9,
             "num_reviews": 13603
         },
-        "33603": {
-            "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A/1250W, 125V, 3-Prong, Green, 6ft",
-            "price": 2.99,
-            "url": "https://www.monoprice.com/product?p_id=33603",
-            "product_id": 33603,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 353
-        },
         "33604": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A/1250W, 125V, 3-Prong, Blue, 6ft",
             "price": 3.99,
@@ -17772,6 +17763,15 @@
             "url": "https://www.monoprice.com/product?p_id=33656",
             "product_id": 33656,
             "available": false,
+            "rating": 5,
+            "num_reviews": 7
+        },
+        "33657": {
+            "name": "Monoprice Heavy Duty Power Cable - IEC 60320 C14 to IEC 60320 C15, 14AWG, 15A/1875W, SJT, 125V, Green, 6ft",
+            "price": 4.1,
+            "url": "https://www.monoprice.com/product?p_id=33657",
+            "product_id": 33657,
+            "available": true,
             "rating": 5,
             "num_reviews": 7
         },
@@ -18428,7 +18428,7 @@
             "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=33878",
             "product_id": 33878,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -20777,7 +20777,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=35059",
             "product_id": 35059,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -21092,7 +21092,7 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=35322",
             "product_id": 35322,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 33
         },
@@ -45246,6 +45246,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-28T17:45:03Z"
+        "timestamp": "2023-04-28T17:55:05Z"
     }
 }
