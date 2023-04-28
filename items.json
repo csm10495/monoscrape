@@ -853,7 +853,7 @@
             "product_id": 11242,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 461
+            "num_reviews": 462
         },
         "11243": {
             "name": "Monoprice Cat5e 10ft White Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -1114,7 +1114,7 @@
             "product_id": 11280,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1459
+            "num_reviews": 1463
         },
         "11281": {
             "name": "Monoprice Cat6 20ft Purple Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -2966,7 +2966,7 @@
             "price": 9.49,
             "url": "https://www.monoprice.com/product?p_id=12842",
             "product_id": 12842,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 2056
         },
@@ -4145,7 +4145,7 @@
             "price": 2.29,
             "url": "https://www.monoprice.com/product?p_id=13512",
             "product_id": 13512,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -5495,7 +5495,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=13839",
             "product_id": 13839,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 17
         },
@@ -8789,7 +8789,7 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=16245",
             "product_id": 16245,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 94
         },
@@ -9241,7 +9241,7 @@
             "product_id": 16359,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 94
+            "num_reviews": 95
         },
         "16360": {
             "name": "Workstream by Monoprice Medium Multimedia Desktop Monitor Stand, 25.6in x 11.0in, Max Weight Capacity 80lbs, Black Tempered Glass",
@@ -9338,7 +9338,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=18519",
             "product_id": 18519,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -45291,6 +45291,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-28T19:46:21Z"
+        "timestamp": "2023-04-28T19:57:16Z"
     }
 }
