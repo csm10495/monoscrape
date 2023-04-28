@@ -27869,7 +27869,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=40085",
             "product_id": 40085,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -28970,15 +28970,6 @@
             "available": false,
             "rating": 4.1,
             "num_reviews": 90
-        },
-        "40879": {
-            "name": "Monoprice FLEXboot Flat Cat6 Ethernet Patch Cable - Snagless RJ45, Flat, 550MHz, UTP, Pure Bare Copper Wire, 30AWG, 0.5ft, Black",
-            "price": 0.74,
-            "url": "https://www.monoprice.com/product?p_id=40879",
-            "product_id": 40879,
-            "available": true,
-            "rating": 4.7,
-            "num_reviews": 56
         },
         "40880": {
             "name": "Monoprice Cat6 1ft Black Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series  Ethernet Cable",
@@ -30335,7 +30326,7 @@
             "price": 299.99,
             "url": "https://www.monoprice.com/product?p_id=41499",
             "product_id": 41499,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 42
         },
@@ -30886,7 +30877,7 @@
             "product_id": 41818,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1459
+            "num_reviews": 1462
         },
         "41819": {
             "name": "Monoprice Cat6 5ft Blue 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -31480,7 +31471,7 @@
             "product_id": 42078,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 28
+            "num_reviews": 29
         },
         "42079": {
             "name": "Monoprice 8K No Logo Ultra High Speed HDMI Cable, 48Gbps, 10ft, Black",
@@ -33449,7 +33440,7 @@
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=42997",
             "product_id": 42997,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 7
         },
@@ -35370,6 +35361,15 @@
             "rating": 0,
             "num_reviews": 0
         },
+        "43642": {
+            "name": "Galaxy Projector Star Lights Projector, Bluetooth Speaker, Starry Night Light, Remote Control, Bedroom, Party Room Decoration for Kids and Adults",
+            "price": 22.99,
+            "url": "https://www.monoprice.com/product?p_id=43642",
+            "product_id": 43642,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "43646": {
             "name": "Solar Mason Jar Lights,8 Pack 30 Led Hanging String Fairy Jar Solar Lantern Lights for Outdoor Patio Garden Yard and Lawn Decoration",
             "price": 29.99,
@@ -35495,6 +35495,15 @@
             "available": true,
             "rating": 4,
             "num_reviews": 7
+        },
+        "43749": {
+            "name": "4 Piece Drill Brush Cleaning Attachments Set, All Purpose Clean Power Scrubber Brush, with Extend Long Attachment for Grout, Tiles, Sinks, Bathtub, Bathroom, Kitchen, Tub, Car",
+            "price": 9.99,
+            "url": "https://www.monoprice.com/product?p_id=43749",
+            "product_id": 43749,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
         },
         "43765": {
             "name": "MPM Lightweight Folding Cane with Seat, Walking Stick, Walking Cane, Crutch Chair, Travel Aid",
@@ -45246,6 +45255,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-28T16:55:00Z"
+        "timestamp": "2023-04-28T17:06:26Z"
     }
 }
