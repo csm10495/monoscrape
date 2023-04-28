@@ -22145,7 +22145,7 @@
             "price": 4.79,
             "url": "https://www.monoprice.com/product?p_id=3651",
             "product_id": 3651,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 16
         },
@@ -25108,7 +25108,7 @@
             "product_id": 3898,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 424
+            "num_reviews": 426
         },
         "38995": {
             "name": "Pure Outdoor by Monoprice Insulated and Waterproof Premium Soft Backpack Cooler with 42-Can Capacity",
@@ -37773,15 +37773,6 @@
             "rating": 4.9,
             "num_reviews": 3398
         },
-        "5031": {
-            "name": "Monoprice Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 75ft, Red",
-            "price": 7.19,
-            "url": "https://www.monoprice.com/product?p_id=5031",
-            "product_id": 5031,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 3398
-        },
         "5032": {
             "name": "Monoprice Cat6 75ft White Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 16.99,
@@ -38012,7 +38003,7 @@
             "price": 3.29,
             "url": "https://www.monoprice.com/product?p_id=5290",
             "product_id": 5290,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 304
         },
@@ -39011,7 +39002,7 @@
             "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=5601",
             "product_id": 5601,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 1347
         },
@@ -39193,7 +39184,7 @@
             "product_id": 5799,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 68
+            "num_reviews": 69
         },
         "5801": {
             "name": "Monoprice Releasable Cable Tie 12in 50 lbs, 100 pcs/pack, Black",
@@ -40379,7 +40370,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=6483",
             "product_id": 6483,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 74
         },
@@ -41990,7 +41981,7 @@
             "price": 26.49,
             "url": "https://www.monoprice.com/product?p_id=7533",
             "product_id": 7533,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 598
         },
@@ -44748,15 +44739,6 @@
             "rating": 4.9,
             "num_reviews": 1460
         },
-        "9814": {
-            "name": "Monoprice FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 20ft, White",
-            "price": 6.99,
-            "url": "https://www.monoprice.com/product?p_id=9814",
-            "product_id": 9814,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 1460
-        },
         "9816": {
             "name": "Monoprice Cat6 6in Red Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
             "price": 1.49,
@@ -45309,6 +45291,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-28T15:06:33Z"
+        "timestamp": "2023-04-28T15:23:47Z"
     }
 }
