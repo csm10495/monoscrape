@@ -37994,7 +37994,7 @@
             "price": 3.29,
             "url": "https://www.monoprice.com/product?p_id=5290",
             "product_id": 5290,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 304
         },
@@ -39940,7 +39940,7 @@
             "product_id": 6315,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 949
+            "num_reviews": 950
         },
         "6329": {
             "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 18AWG, 10A/1250W, 3-Prong, SVT, Black, 3ft",
@@ -40160,7 +40160,7 @@
         },
         "6421": {
             "name": "Monoprice Single Arm Full Motion Articulating Adjustable Desk Monitor Mount Arm V2 for 17~32 inch LCD Displays up to 17 lbs.",
-            "price": 27.99,
+            "price": 20.99,
             "url": "https://www.monoprice.com/product?p_id=6421",
             "product_id": 6421,
             "available": true,
@@ -42809,7 +42809,7 @@
             "price": 21.49,
             "url": "https://www.monoprice.com/product?p_id=8243",
             "product_id": 8243,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 130
         },
@@ -43207,7 +43207,7 @@
             "product_id": 8616,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1008
+            "num_reviews": 1009
         },
         "8617": {
             "name": "Monoprice USB Type-A to USB Type-B 2.0 Cable - 28/24AWG, Gold Plated, White, 10ft",
@@ -43493,7 +43493,7 @@
             "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=8766",
             "product_id": 8766,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 157
         },
@@ -43517,7 +43517,7 @@
         },
         "8769": {
             "name": "Monoprice 10ft 2-conductor NL4 Female to NL4 Female 12AWG Speaker Twist Connector Cable",
-            "price": 9.99,
+            "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=8769",
             "product_id": 8769,
             "available": true,
@@ -44071,7 +44071,7 @@
             "product_id": 9436,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 2002
+            "num_reviews": 2003
         },
         "9437": {
             "name": "Monoprice 5 PAIRS OF High-Quality Gold Plated Speaker Banana Plugs, Open Screw Type",
@@ -44249,7 +44249,7 @@
             "price": 46.49,
             "url": "https://www.monoprice.com/product?p_id=953",
             "product_id": 953,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 16
         },
@@ -44276,7 +44276,7 @@
             "price": 1.29,
             "url": "https://www.monoprice.com/product?p_id=9545",
             "product_id": 9545,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 183
         },
@@ -45291,6 +45291,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-28T12:12:37Z"
+        "timestamp": "2023-04-28T12:40:32Z"
     }
 }
