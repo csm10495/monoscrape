@@ -5697,6 +5697,15 @@
             "rating": 4.9,
             "num_reviews": 3040
         },
+        "141": {
+            "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 25ft, Gray",
+            "price": 5.99,
+            "url": "https://www.monoprice.com/product?p_id=141",
+            "product_id": 141,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 3040
+        },
         "14104": {
             "name": "HDFury3",
             "price": 303.99,
@@ -15278,7 +15287,7 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=3021",
             "product_id": 3021,
-            "available": true,
+            "available": false,
             "rating": 4.1,
             "num_reviews": 789
         },
@@ -22058,6 +22067,15 @@
             "available": true,
             "rating": 4.4,
             "num_reviews": 10
+        },
+        "3640": {
+            "name": "Monoprice High Quality Banana Binding Post Wall Plate for 2 Speaker - Coupler Type",
+            "price": 4.79,
+            "url": "https://www.monoprice.com/product?p_id=3640",
+            "product_id": 3640,
+            "available": false,
+            "rating": 4.7,
+            "num_reviews": 98
         },
         "3642": {
             "name": "Monoprice High Quality Banana Binding Post Wall Plate for 4 Speaker - Coupler Type",
@@ -37195,7 +37213,7 @@
             "product_id": 4779,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 205
+            "num_reviews": 206
         },
         "478": {
             "name": "Monoprice 10ft Null Modem DB9 F/F Molded Cable",
@@ -37734,6 +37752,15 @@
             "url": "https://www.monoprice.com/product?p_id=5018",
             "product_id": 5018,
             "available": false,
+            "rating": 4.9,
+            "num_reviews": 3398
+        },
+        "5023": {
+            "name": "Monoprice Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 30ft, Red",
+            "price": 7.49,
+            "url": "https://www.monoprice.com/product?p_id=5023",
+            "product_id": 5023,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -38669,7 +38696,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=5459",
             "product_id": 5459,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 2581
         },
@@ -39110,6 +39137,15 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=5773",
             "product_id": 5773,
+            "available": true,
+            "rating": 4.2,
+            "num_reviews": 369
+        },
+        "5774": {
+            "name": "Monoprice Cable Tie 14in 50 lbs, 100 pcs/pack, White",
+            "price": 1.79,
+            "url": "https://www.monoprice.com/product?p_id=5774",
+            "product_id": 5774,
             "available": true,
             "rating": 4.2,
             "num_reviews": 369
@@ -45255,6 +45291,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-28T19:36:56Z"
+        "timestamp": "2023-04-28T19:46:21Z"
     }
 }
