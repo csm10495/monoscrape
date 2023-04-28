@@ -22034,7 +22034,7 @@
         },
         "36378": {
             "name": "Monoprice Commercial Audio Metro Wall Mount Speaker Quad Hanging Bracket for 360-degree Coverage",
-            "price": 11.99,
+            "price": 18.99,
             "url": "https://www.monoprice.com/product?p_id=36378",
             "product_id": 36378,
             "available": true,
@@ -22169,7 +22169,7 @@
         },
         "36571": {
             "name": "Monoprice DT-3 50-Watt Multimedia Desktop Powered Speakers",
-            "price": 63.74,
+            "price": 67.99,
             "url": "https://www.monoprice.com/product?p_id=36571",
             "product_id": 36571,
             "available": true,
@@ -25751,7 +25751,7 @@
         },
         "39359": {
             "name": "Monolith by Monoprice THX AAA Balanced Headphone Amplifier featuring THX AAA 887 Technology",
-            "price": 209.99,
+            "price": 254.99,
             "url": "https://www.monoprice.com/product?p_id=39359",
             "product_id": 39359,
             "available": true,
@@ -45291,6 +45291,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-28T11:34:43Z"
+        "timestamp": "2023-04-28T11:45:02Z"
     }
 }
