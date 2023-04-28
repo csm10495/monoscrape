@@ -27623,7 +27623,7 @@
         },
         "40003": {
             "name": "Monoprice 14 Outlet Metal 1U Rackmount PDU Power Distribution Unit with Ampere Meter, 8 Rear 6 Front NEMA 5-15R Outlets, 15A Circuit Breaker, 6ft Cord",
-            "price": 55.99,
+            "price": 63.99,
             "url": "https://www.monoprice.com/product?p_id=40003",
             "product_id": 40003,
             "available": true,
@@ -30962,7 +30962,7 @@
         },
         "41841": {
             "name": "Monoprice 4in Indoor/Outdoor Weather Resistant 70V/100V/8-Ohm Pendant Speaker (Pair)",
-            "price": 99.99,
+            "price": 79.99,
             "url": "https://www.monoprice.com/product?p_id=41841",
             "product_id": 41841,
             "available": true,
@@ -31628,7 +31628,7 @@
         },
         "42111": {
             "name": "Workstream by Monoprice Mechanical Keyboard with Kailh Box Brown Switches - Backlit, Aluminum Top Plate, 80 Million Keystrokes",
-            "price": 49.99,
+            "price": 38.99,
             "url": "https://www.monoprice.com/product?p_id=42111",
             "product_id": 42111,
             "available": true,
@@ -32951,7 +32951,7 @@
         },
         "42840": {
             "name": "Monolith by Monoprice 24in Cherry Wood Speaker Stand with Adjustable Top Plate, Cherry (Each)",
-            "price": 69.99,
+            "price": 52.49,
             "url": "https://www.monoprice.com/product?p_id=42840",
             "product_id": 42840,
             "available": true,
@@ -34553,7 +34553,7 @@
         },
         "43261": {
             "name": "Monoprice Harmony Capsule 100 Portable Bluetooth Speaker",
-            "price": 19.98,
+            "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=43261",
             "product_id": 43261,
             "available": true,
@@ -36437,7 +36437,7 @@
             "price": 299.99,
             "url": "https://www.monoprice.com/product?p_id=44490",
             "product_id": 44490,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -45291,6 +45291,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-28T11:45:02Z"
+        "timestamp": "2023-04-28T11:55:03Z"
     }
 }
