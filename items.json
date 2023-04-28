@@ -39751,7 +39751,7 @@
             "product_id": 619,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 537
+            "num_reviews": 538
         },
         "6198": {
             "name": "Monoprice EZ Series Full-Motion Articulating TV Wall Mount Bracket for TVs 32in to 55in, Max Weight 88 lbs, Extension Range of 3.7in to 20.1in, VESA Patterns Up to 400x200, Works with Concrete \u0026 Brick",
@@ -40370,7 +40370,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=647",
             "product_id": 647,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 926
         },
@@ -41389,7 +41389,7 @@
             "product_id": 7179,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 24
+            "num_reviews": 25
         },
         "7185": {
             "name": "Monoprice Metal 3.5mm TRS Stereo Jack to 3.5mm TRS Stereo Jack Adapter, Gold Plated",
@@ -43871,7 +43871,7 @@
             "price": 36.54,
             "url": "https://www.monoprice.com/product?p_id=9202",
             "product_id": 9202,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 84
         },
@@ -45327,6 +45327,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-28T22:54:24Z"
+        "timestamp": "2023-04-28T23:06:01Z"
     }
 }
