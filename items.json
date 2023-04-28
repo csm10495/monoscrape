@@ -20111,7 +20111,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=34663",
             "product_id": 34663,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 10
         },
@@ -21254,7 +21254,7 @@
             "price": 68.99,
             "url": "https://www.monoprice.com/product?p_id=35510",
             "product_id": 35510,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 38
         },
@@ -21299,7 +21299,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=35535",
             "product_id": 35535,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -22919,7 +22919,7 @@
             "price": 15.44,
             "url": "https://www.monoprice.com/product?p_id=38162",
             "product_id": 38162,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 1
         },
@@ -24719,7 +24719,7 @@
             "price": 10.19,
             "url": "https://www.monoprice.com/product?p_id=38878",
             "product_id": 38878,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 58
         },
@@ -26015,7 +26015,7 @@
             "price": 58.99,
             "url": "https://www.monoprice.com/product?p_id=39483",
             "product_id": 39483,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 266
         },
@@ -27491,7 +27491,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=39923",
             "product_id": 39923,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1586
         },
@@ -45291,6 +45291,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-28T20:09:02Z"
+        "timestamp": "2023-04-28T20:25:25Z"
     }
 }
