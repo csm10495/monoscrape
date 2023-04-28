@@ -16794,6 +16794,15 @@
             "rating": 4.9,
             "num_reviews": 231
         },
+        "31349": {
+            "name": "Monoprice Entegrade Series Cat7 Double Shielded (S/FTP) Ethernet Patch Cable - Snagless RJ45, 600MHz, 10G, 26AWG, 10ft, Green",
+            "price": 7.49,
+            "url": "https://www.monoprice.com/product?p_id=31349",
+            "product_id": 31349,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 231
+        },
         "31353": {
             "name": "Monoprice Cat7 15ft Black Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
             "price": 9.99,
@@ -20782,7 +20791,7 @@
             "num_reviews": 121
         },
         "35057": {
-            "name": "Monoprice Heavy Duty Extension Cord - IEC 60320 C14 to IEC 60320 C13, 14AWG, 15A/1875W, SJT, 100-250V, Black, 2ft",
+            "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 14AWG, 15A/1875W, 3-Prong, Black, 2ft",
             "price": 2.39,
             "url": "https://www.monoprice.com/product?p_id=35057",
             "product_id": 35057,
@@ -24433,7 +24442,7 @@
             "product_id": 38821,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 78
+            "num_reviews": 79
         },
         "38822": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 10ft, Red",
@@ -25881,8 +25890,8 @@
             "url": "https://www.monoprice.com/product?p_id=39414",
             "product_id": 39414,
             "available": true,
-            "rating": 4.6,
-            "num_reviews": 23
+            "rating": 4.5,
+            "num_reviews": 24
         },
         "39416": {
             "name": "Monolith by Monoprice M1570 Over Ear Open Back Balanced Planar Headphones",
@@ -45327,6 +45336,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-28T21:25:35Z"
+        "timestamp": "2023-04-28T21:34:41Z"
     }
 }
