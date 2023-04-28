@@ -37688,7 +37688,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=5015",
             "product_id": 5015,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -38606,7 +38606,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=5450",
             "product_id": 5450,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 553
         },
@@ -38651,7 +38651,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=5459",
             "product_id": 5459,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 2581
         },
@@ -38669,7 +38669,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=5494",
             "product_id": 5494,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 409
         },
@@ -40568,7 +40568,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=6576",
             "product_id": 6576,
-            "available": false,
+            "available": true,
             "rating": 3.9,
             "num_reviews": 41
         },
@@ -43628,7 +43628,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=8799",
             "product_id": 8799,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 11
         },
@@ -44134,7 +44134,7 @@
             "product_id": 9449,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 210
+            "num_reviews": 211
         },
         "945": {
             "name": "Monoprice Phone Cable, RJ45 (8P8C), Reverse for Voice - 7ft",
@@ -45086,7 +45086,7 @@
             "price": 1.79,
             "url": "https://www.monoprice.com/product?p_id=9865",
             "product_id": 9865,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1460
         },
@@ -45237,6 +45237,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-28T18:26:53Z"
+        "timestamp": "2023-04-28T18:35:04Z"
     }
 }
