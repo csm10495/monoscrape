@@ -21813,8 +21813,8 @@
             "url": "https://www.monoprice.com/product?p_id=36211",
             "product_id": 36211,
             "available": false,
-            "rating": 4.6,
-            "num_reviews": 14
+            "rating": 4.5,
+            "num_reviews": 15
         },
         "36212": {
             "name": "Monoprice Cat6 14ft Black Outdoor Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Molded Snagless RJ45, Zeroboot Series Ethernet Cable",
@@ -26728,7 +26728,7 @@
             "product_id": 39640,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 56
+            "num_reviews": 57
         },
         "39641": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C Charge \u0026 Sync Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 10ft, White",
@@ -45291,6 +45291,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-27T23:54:21Z"
+        "timestamp": "2023-04-28T00:33:24Z"
     }
 }
