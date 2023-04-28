@@ -36851,7 +36851,7 @@
             "price": 1.67,
             "url": "https://www.monoprice.com/product?p_id=448",
             "product_id": 448,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 11
         },
@@ -39105,15 +39105,6 @@
             "rating": 4.2,
             "num_reviews": 369
         },
-        "5766": {
-            "name": "Monoprice Cable Tie 8in 40 lbs, 100 pcs/pack, Green",
-            "price": 1.79,
-            "url": "https://www.monoprice.com/product?p_id=5766",
-            "product_id": 5766,
-            "available": true,
-            "rating": 4.2,
-            "num_reviews": 369
-        },
         "5767": {
             "name": "Monoprice Cable Tie 11in 50 lbs, 100 pcs/pack, Black",
             "price": 2.49,
@@ -39175,7 +39166,7 @@
             "product_id": 5801,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 68
+            "num_reviews": 69
         },
         "5828": {
             "name": "Monoprice Hook and Loop Fastening Tape, 5 yards/roll, 0.75in, Black",
@@ -39695,7 +39686,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=619",
             "product_id": 619,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 537
         },
@@ -40496,7 +40487,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=6539",
             "product_id": 6539,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 89
         },
@@ -44294,7 +44285,7 @@
             "price": 1.79,
             "url": "https://www.monoprice.com/product?p_id=9548",
             "product_id": 9548,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 183
         },
@@ -45273,6 +45264,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-28T16:09:42Z"
+        "timestamp": "2023-04-28T16:28:49Z"
     }
 }
