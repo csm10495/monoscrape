@@ -27752,7 +27752,7 @@
             "price": 5.59,
             "url": "https://www.monoprice.com/product?p_id=40065",
             "product_id": 40065,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -28027,7 +28027,7 @@
             "num_reviews": 21
         },
         "40111": {
-            "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 14AWG, 15A/1875W, SJT, 100-250V, Blue, 3ft",
+            "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 14AWG, 15A/1875W, 3-Prong, Blue, 3ft",
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=40111",
             "product_id": 40111,
@@ -28036,7 +28036,7 @@
             "num_reviews": 8
         },
         "40113": {
-            "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 14AWG, 15A/1875W, SJT, 100-250V, Red, 3ft",
+            "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 14AWG, 15A/1875W, 3-Prong, Red, 3ft",
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=40113",
             "product_id": 40113,
@@ -28044,17 +28044,8 @@
             "rating": 5,
             "num_reviews": 8
         },
-        "40118": {
-            "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 14AWG, 15A/1875W, SJT, 100-250V, Green, 6ft",
-            "price": 7.49,
-            "url": "https://www.monoprice.com/product?p_id=40118",
-            "product_id": 40118,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 8
-        },
         "40119": {
-            "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 14AWG, 15A/1875W, SJT, 100-250V, Red, 6ft",
+            "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 14AWG, 15A/1875W, 3-Prong, Red, 6ft",
             "price": 5.61,
             "url": "https://www.monoprice.com/product?p_id=40119",
             "product_id": 40119,
@@ -28072,7 +28063,7 @@
             "num_reviews": 121
         },
         "40120": {
-            "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 14AWG, 15A/1875W, SJT, 100-250V, Black, 8ft",
+            "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 14AWG, 15A/1875W, 3-Prong, Black, 8ft",
             "price": 8.49,
             "url": "https://www.monoprice.com/product?p_id=40120",
             "product_id": 40120,
@@ -28081,7 +28072,7 @@
             "num_reviews": 8
         },
         "40123": {
-            "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 14AWG, 15A, 3-Prong, Black, 12ft",
+            "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 14AWG, 15A/1875W, 3-Prong, Black, 12ft",
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=40123",
             "product_id": 40123,
@@ -29995,7 +29986,7 @@
             "product_id": 41377,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1848
+            "num_reviews": 1850
         },
         "41378": {
             "name": "Monoprice Access Series 16AWG CL2 Rated 2-Conductor Speaker Wire, 50ft, Black",
@@ -45336,6 +45327,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-28T21:34:41Z"
+        "timestamp": "2023-04-28T21:44:19Z"
     }
 }
