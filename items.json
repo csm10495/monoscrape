@@ -29768,7 +29768,7 @@
             "price": 499.99,
             "url": "https://www.monoprice.com/product?p_id=41285",
             "product_id": 41285,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 4
         },
@@ -31401,6 +31401,15 @@
             "rating": 4.9,
             "num_reviews": 353
         },
+        "42059": {
+            "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 14AWG, 15A, 3-Prong, Green, 1ft",
+            "price": 1.13,
+            "url": "https://www.monoprice.com/product?p_id=42059",
+            "product_id": 42059,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 304
+        },
         "42060": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 14AWG, 15A/1875W, 3-Prong, Red, 1ft",
             "price": 2.99,
@@ -33000,8 +33009,8 @@
             "url": "https://www.monoprice.com/product?p_id=42848",
             "product_id": 42848,
             "available": false,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 5,
+            "num_reviews": 1
         },
         "42851": {
             "name": "Monolith by Monoprice M-15 V2 15in THX Certified Ultra 1000-Watt Subwoofer Amplifier",
@@ -34333,7 +34342,7 @@
             "product_id": 43221,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 28
+            "num_reviews": 29
         },
         "43222": {
             "name": "Monoprice 8K Ultra High Speed HDMI Cable - No Logo - 8K@60Hz, 48Gbps, 10ft, Black - 5 Pack",
@@ -35564,7 +35573,7 @@
             "price": 29.74,
             "url": "https://www.monoprice.com/product?p_id=43791",
             "product_id": 43791,
-            "available": false,
+            "available": true,
             "rating": 3.9,
             "num_reviews": 9
         },
@@ -36347,7 +36356,7 @@
             "price": 2399.99,
             "url": "https://www.monoprice.com/product?p_id=44464",
             "product_id": 44464,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -45291,6 +45300,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-28T20:25:25Z"
+        "timestamp": "2023-04-28T20:35:21Z"
     }
 }
