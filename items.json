@@ -25378,7 +25378,7 @@
             "product_id": 4044,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1848
+            "num_reviews": 1850
         },
         "40440": {
             "name": "Rustic Torched Wood Tabletop Chalkboard with Legs/Vintage Wedding Table Sign/Small Kitchen Antique Wooden Frame (9.5” x 14” Inches)",
@@ -33665,7 +33665,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=4629",
             "product_id": 4629,
-            "available": false,
+            "available": true,
             "rating": 3.8,
             "num_reviews": 117
         },
@@ -34412,7 +34412,7 @@
             "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=5001",
             "product_id": 5001,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3040
         },
@@ -36113,7 +36113,7 @@
             "price": 27.99,
             "url": "https://www.monoprice.com/product?p_id=5915",
             "product_id": 5915,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 611
         },
@@ -36329,7 +36329,7 @@
             "price": 15.49,
             "url": "https://www.monoprice.com/product?p_id=6017",
             "product_id": 6017,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 262
         },
@@ -37121,7 +37121,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=6483",
             "product_id": 6483,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 74
         },
@@ -37526,7 +37526,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=6729",
             "product_id": 6729,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 65
         },
@@ -39263,7 +39263,7 @@
             "price": 149.99,
             "url": "https://www.monoprice.com/product?p_id=8102",
             "product_id": 8102,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 294
         },
@@ -40541,7 +40541,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=9196",
             "product_id": 9196,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 87
         },
@@ -40586,7 +40586,7 @@
             "price": 36.54,
             "url": "https://www.monoprice.com/product?p_id=9202",
             "product_id": 9202,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 84
         },
@@ -41045,7 +41045,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=9546",
             "product_id": 9546,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 183
         },
@@ -41569,7 +41569,7 @@
             "product_id": 9823,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1462
         },
         "9824": {
             "name": "Monoprice Cat6 14ft Red Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -42051,6 +42051,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-28T13:54:30Z"
+        "timestamp": "2023-04-28T14:05:58Z"
     }
 }
