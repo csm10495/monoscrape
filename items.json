@@ -30022,7 +30022,7 @@
             "product_id": 41384,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1848
+            "num_reviews": 1850
         },
         "41385": {
             "name": "Monoprice Access Series 12AWG CL2 Rated 4-Conductor Speaker Wire, 250ft, Black",
@@ -32281,7 +32281,7 @@
             "product_id": 42539,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 56
+            "num_reviews": 57
         },
         "42541": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C Charge and Sync Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 6ft, Black - 3 Pack",
@@ -32459,6 +32459,15 @@
             "price": 2.39,
             "url": "https://www.monoprice.com/product?p_id=42651",
             "product_id": 42651,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 2
+        },
+        "42652": {
+            "name": "Monoprice Self Adhesive Cable Tie Mounts with Mounting Hole, 1.09x1.09 in, 100 pcs/pack, Black, ABS Type Approval",
+            "price": 2.39,
+            "url": "https://www.monoprice.com/product?p_id=42652",
+            "product_id": 42652,
             "available": true,
             "rating": 5,
             "num_reviews": 2
@@ -32938,7 +32947,7 @@
             "product_id": 42841,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 11
+            "num_reviews": 12
         },
         "42842": {
             "name": "Monolith by Monoprice 32in Cherry Wood Speaker Stand with Adjustable Top Plate, Cherry (Each)",
@@ -45246,6 +45255,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-28T19:14:19Z"
+        "timestamp": "2023-04-28T19:22:34Z"
     }
 }
