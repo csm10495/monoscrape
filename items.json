@@ -37915,7 +37915,7 @@
             "product_id": 5277,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 353
+            "num_reviews": 354
         },
         "5278": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A/1250W, 125V, 3-Prong, Black, 3ft",
@@ -37951,7 +37951,7 @@
             "product_id": 5281,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 353
+            "num_reviews": 354
         },
         "5282": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 16AWG, 13A/1625W, 3-Prong, Black, 1ft",
@@ -42919,7 +42919,7 @@
             "product_id": 8323,
             "available": false,
             "rating": 4.5,
-            "num_reviews": 2039
+            "num_reviews": 2040
         },
         "8324": {
             "name": "Monoprice Hi-Fi Light Weight Over-the-Ear Headphones",
@@ -44035,7 +44035,7 @@
             "product_id": 9396,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 342
+            "num_reviews": 343
         },
         "94": {
             "name": "Monoprice 10ft PS/2 MDIN-6 Male to Male Cable",
@@ -45327,6 +45327,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-29T18:34:21Z"
+        "timestamp": "2023-04-29T18:44:46Z"
     }
 }
