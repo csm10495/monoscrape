@@ -24586,7 +24586,7 @@
             "product_id": 38845,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 58
+            "num_reviews": 59
         },
         "38846": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 3A/60W, 3ft, Blue",
@@ -45327,6 +45327,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-29T07:21:44Z"
+        "timestamp": "2023-04-29T07:27:17Z"
     }
 }
