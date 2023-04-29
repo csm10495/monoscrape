@@ -37249,7 +37249,7 @@
             "product_id": 4780,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 205
+            "num_reviews": 206
         },
         "4783": {
             "name": "Monoprice 1.5ft Premier Series XLR Female to RCA Male Cable, 16AWG (Gold Plated)",
@@ -44764,7 +44764,7 @@
             "product_id": 9812,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1463
         },
         "9813": {
             "name": "Monoprice Flexboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 20ft, Red",
@@ -45327,6 +45327,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-29T05:21:25Z"
+        "timestamp": "2023-04-29T05:28:46Z"
     }
 }
