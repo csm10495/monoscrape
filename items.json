@@ -21904,7 +21904,7 @@
             "product_id": 38820,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 78
+            "num_reviews": 79
         },
         "38821": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 6ft, Red",
@@ -24991,7 +24991,7 @@
             "product_id": 39924,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1585
+            "num_reviews": 1586
         },
         "39925": {
             "name": "Monoprice USB Type-A to USB Type-A Female 2.0 Extension Cable - 28/24AWG Gold Plated Black 6ft, 3-Pack",
@@ -42798,6 +42798,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-29T08:33:58Z"
+        "timestamp": "2023-04-29T08:53:46Z"
     }
 }
