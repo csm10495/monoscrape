@@ -28753,7 +28753,7 @@
             "product_id": 4057,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 948
+            "num_reviews": 950
         },
         "4058": {
             "name": "Monoprice 6ft RG6 (18AWG) 75Ohm, Quad Shield, CL2 Coaxial Cable with F Type Connector - White",
@@ -39857,7 +39857,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=6270",
             "product_id": 6270,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 2398
         },
@@ -40550,7 +40550,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=6539",
             "product_id": 6539,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 89
         },
@@ -45327,6 +45327,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-28T23:54:52Z"
+        "timestamp": "2023-04-29T00:31:34Z"
     }
 }
