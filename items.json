@@ -13903,7 +13903,7 @@
             "product_id": 2749,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1536
+            "num_reviews": 1538
         },
         "27492": {
             "name": "Monoprice Cat6A 7ft Blue Patch Cable, Double Shielded (S/FTP), 36AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -25108,7 +25108,7 @@
             "product_id": 3897,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 424
+            "num_reviews": 426
         },
         "3898": {
             "name": "Monoprice USB-A to Mini-B Cable - 5-Pin, 28/28AWG, Black, 15ft",
@@ -45327,6 +45327,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-29T10:36:40Z"
+        "timestamp": "2023-04-29T10:43:53Z"
     }
 }
