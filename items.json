@@ -3634,7 +3634,7 @@
             "product_id": 13268,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 165
+            "num_reviews": 166
         },
         "13273": {
             "name": "Monoprice Cat6 10ft White Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
@@ -4811,7 +4811,7 @@
             "price": 44.99,
             "url": "https://www.monoprice.com/product?p_id=13679",
             "product_id": 13679,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 34
         },
@@ -45327,6 +45327,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-29T17:27:57Z"
+        "timestamp": "2023-04-29T17:34:37Z"
     }
 }
