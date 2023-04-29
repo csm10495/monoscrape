@@ -30022,7 +30022,7 @@
             "product_id": 41381,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1848
+            "num_reviews": 1850
         },
         "41382": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 2-Conductor Speaker Wire, 500ft, Black",
@@ -30200,7 +30200,7 @@
             "price": 77.49,
             "url": "https://www.monoprice.com/product?p_id=41401",
             "product_id": 41401,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1850
         },
@@ -31210,7 +31210,7 @@
             "product_id": 42015,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 106
+            "num_reviews": 107
         },
         "42016": {
             "name": "Monoprice Desktop Folding Polyester Fiber Privacy Divider Partition Panel Desk Barrier Medium Size 28in x 17in",
@@ -31471,7 +31471,7 @@
             "product_id": 42074,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 28
+            "num_reviews": 29
         },
         "42075": {
             "name": "Monoprice 8K No Logo Ultra High Speed HDMI Cable, 48Gbps, 4ft, Black",
@@ -45327,6 +45327,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-29T14:34:30Z"
+        "timestamp": "2023-04-29T14:44:09Z"
     }
 }
