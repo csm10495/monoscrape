@@ -1112,7 +1112,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=11280",
             "product_id": 11280,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1463
         },
@@ -2365,7 +2365,7 @@
             "product_id": 12235,
             "available": true,
             "rating": 4,
-            "num_reviews": 589
+            "num_reviews": 590
         },
         "12239": {
             "name": "Monoprice 4.5ft USB 2.0 A Male to Micro B Male 30/20 AWG Fast Charge / Security Cable",
@@ -9421,7 +9421,7 @@
             "product_id": 18591,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 267
+            "num_reviews": 268
         },
         "18592": {
             "name": "Monoprice Cat6A 1000ft Black CMR UL Bulk Cable, TAA, Shielded (F/UTP), Solid, 23AWG, 550MHz, 10G, Pure Bare Copper, Reel in Box, Bulk Ethernet Cable",
@@ -45327,6 +45327,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-29T18:44:46Z"
+        "timestamp": "2023-04-29T18:54:37Z"
     }
 }
