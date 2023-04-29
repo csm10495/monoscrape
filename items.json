@@ -32650,7 +32650,7 @@
             "product_id": 42684,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 221
+            "num_reviews": 222
         },
         "42685": {
             "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 30AWG, 3ft, Black - 5 Pack",
@@ -34072,7 +34072,7 @@
             "product_id": 43180,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 353
+            "num_reviews": 354
         },
         "43181": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A, 125V, 3-Prong, White, 6ft",
@@ -45327,6 +45327,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-29T19:20:07Z"
+        "timestamp": "2023-04-29T19:26:11Z"
     }
 }
