@@ -16540,7 +16540,7 @@
             "product_id": 31201,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 261
+            "num_reviews": 262
         },
         "31202": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft, Black",
@@ -17575,7 +17575,7 @@
             "product_id": 33564,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 353
+            "num_reviews": 354
         },
         "33566": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A/1250W, 125V, 3-Prong, Blue, 3ft",
@@ -24343,7 +24343,7 @@
             "product_id": 38808,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 78
+            "num_reviews": 79
         },
         "38809": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 6ft, Black",
@@ -27142,7 +27142,7 @@
             "product_id": 39780,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 353
+            "num_reviews": 354
         },
         "39781": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A/1250W, 125V, 3-Prong, Black, 6ft, 6-Pack",
@@ -45327,6 +45327,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-29T19:06:28Z"
+        "timestamp": "2023-04-29T19:20:07Z"
     }
 }
