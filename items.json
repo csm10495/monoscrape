@@ -1177,7 +1177,7 @@
             "product_id": 11287,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 460
+            "num_reviews": 461
         },
         "11288": {
             "name": "Monoprice FLEXboot Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 25ft, Orange",
@@ -5533,7 +5533,7 @@
             "product_id": 13921,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 660
+            "num_reviews": 661
         },
         "13922": {
             "name": "Monoprice Select Series USB-A to Micro B Cable, 2.4A, 22/30AWG, White, 3ft",
@@ -45327,6 +45327,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-29T06:44:10Z"
+        "timestamp": "2023-04-29T06:54:06Z"
     }
 }
