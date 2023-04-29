@@ -17548,7 +17548,7 @@
             "product_id": 33557,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 353
+            "num_reviews": 354
         },
         "33558": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A/1250W, 125V, 3-Prong, Red, 2ft",
@@ -20995,7 +20995,7 @@
             "product_id": 35121,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 353
+            "num_reviews": 354
         },
         "35124": {
             "name": "Monoprice MP-T65RT Tower Home Theater Speakers with Ribbon Tweeter (Pair)",
@@ -27133,7 +27133,7 @@
             "product_id": 39779,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 353
+            "num_reviews": 354
         },
         "39780": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A/1250W, 125V, 3-Prong, Black, 3ft, 6-Pack",
@@ -27151,7 +27151,7 @@
             "product_id": 39781,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 353
+            "num_reviews": 354
         },
         "39782": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A/1250W, 125V, 3-Prong, Black, 10ft, 6-Pack",
@@ -27160,7 +27160,7 @@
             "product_id": 39782,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 353
+            "num_reviews": 354
         },
         "39783": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 16AWG, 13A/1625W, 3-Prong, Black, 2ft, 6-Pack",
@@ -45327,6 +45327,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-29T14:27:49Z"
+        "timestamp": "2023-04-29T14:34:30Z"
     }
 }
