@@ -17566,7 +17566,7 @@
             "product_id": 33560,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 353
+            "num_reviews": 354
         },
         "33564": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A/1250W, 125V, 3-Prong, Red, 3ft",
@@ -17584,7 +17584,7 @@
             "product_id": 33566,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 353
+            "num_reviews": 354
         },
         "33570": {
             "name": "Monoprice Mobile Series USB-C to 4-Port USB 3.0 hub adapter with Folding USB Type-C Connector",
@@ -24253,7 +24253,7 @@
             "product_id": 38796,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 78
+            "num_reviews": 79
         },
         "38797": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 6ft, White",
@@ -45327,6 +45327,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-29T15:27:39Z"
+        "timestamp": "2023-04-29T15:44:27Z"
     }
 }
