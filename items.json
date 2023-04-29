@@ -31498,7 +31498,7 @@
             "product_id": 42077,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 28
+            "num_reviews": 29
         },
         "42078": {
             "name": "Monoprice 8K No Logo Ultra High Speed HDMI Cable, 48Gbps, 8ft, Black",
@@ -31516,7 +31516,7 @@
             "product_id": 42079,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 28
+            "num_reviews": 29
         },
         "42080": {
             "name": "Monoprice 8K No Logo Ultra High Speed HDMI Cable, 48Gbps, 3ft, Black - 10 Pack",
@@ -45327,6 +45327,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-29T17:54:27Z"
+        "timestamp": "2023-04-29T18:24:00Z"
     }
 }
