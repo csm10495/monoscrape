@@ -24694,7 +24694,7 @@
             "product_id": 38862,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 58
+            "num_reviews": 59
         },
         "38865": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 5A/100W, 1.5ft, Red",
@@ -45327,6 +45327,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-29T20:09:58Z"
+        "timestamp": "2023-04-29T20:24:20Z"
     }
 }
