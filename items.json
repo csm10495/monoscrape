@@ -24640,7 +24640,7 @@
             "product_id": 38851,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 58
+            "num_reviews": 59
         },
         "38853": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 5A/100W, 1.5ft, Black",
@@ -27457,7 +27457,7 @@
             "product_id": 39918,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1008
+            "num_reviews": 1009
         },
         "39919": {
             "name": "Monoprice USB Type-A to USB Type-B 2.0 Cable - 28/24AWG Gold Plated Black 10ft, 3-Pack",
@@ -45327,6 +45327,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-29T11:18:59Z"
+        "timestamp": "2023-04-29T11:24:48Z"
     }
 }
