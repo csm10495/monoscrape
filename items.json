@@ -5677,7 +5677,7 @@
             "product_id": 13938,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 660
+            "num_reviews": 661
         },
         "13939": {
             "name": "Monoprice Select Series USB-A to Micro B Cable, 2.4A, 22/30AWG, White, 15ft",
@@ -45327,6 +45327,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-29T16:27:58Z"
+        "timestamp": "2023-04-29T16:38:03Z"
     }
 }
