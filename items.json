@@ -17557,7 +17557,7 @@
             "product_id": 33558,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 353
+            "num_reviews": 354
         },
         "33560": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A/1250W, 125V, 3-Prong, Blue, 2ft",
@@ -22685,7 +22685,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=38068",
             "product_id": 38068,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 59
         },
@@ -45327,6 +45327,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-29T16:44:25Z"
+        "timestamp": "2023-04-29T16:54:29Z"
     }
 }
