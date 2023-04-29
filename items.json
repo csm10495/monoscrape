@@ -11941,7 +11941,7 @@
             "product_id": 24196,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 353
+            "num_reviews": 354
         },
         "24197": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A/1250W, 3-Prong, Black, 25ft",
@@ -45327,6 +45327,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-29T14:05:21Z"
+        "timestamp": "2023-04-29T14:27:49Z"
     }
 }
