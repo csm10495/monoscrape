@@ -5711,7 +5711,7 @@
             "price": 303.99,
             "url": "https://www.monoprice.com/product?p_id=14104",
             "product_id": 14104,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -6350,7 +6350,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=14806",
             "product_id": 14806,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -7324,7 +7324,7 @@
             "product_id": 15430,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1705
+            "num_reviews": 1707
         },
         "15431": {
             "name": "Monoprice 4K Certified Premium High Speed HDMI Cable 20ft - 18Gbps Black",
@@ -45327,6 +45327,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-30T13:44:22Z"
+        "timestamp": "2023-04-30T13:54:16Z"
     }
 }
