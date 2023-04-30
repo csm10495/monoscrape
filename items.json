@@ -23560,7 +23560,7 @@
             "product_id": 38380,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 47
+            "num_reviews": 48
         },
         "38382": {
             "name": "Monoprice USB C To Lightning Cable - 1.5 Feet - White ( MFI Certified ) Fast Charging, Compatible with Apple iPhone 13 / Pro / Pro Max / AirPods Pro - Select Series",
@@ -24334,7 +24334,7 @@
             "product_id": 38807,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 78
+            "num_reviews": 79
         },
         "38808": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 3ft, Black",
@@ -24379,7 +24379,7 @@
             "product_id": 38813,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 78
+            "num_reviews": 79
         },
         "38814": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 10ft, White",
@@ -45327,6 +45327,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-30T08:25:20Z"
+        "timestamp": "2023-04-30T08:33:58Z"
     }
 }
