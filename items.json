@@ -30148,7 +30148,7 @@
             "product_id": 41395,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1848
+            "num_reviews": 1850
         },
         "41396": {
             "name": "Monoprice Access Series 16AWG CL2 Rated 2-Conductor Speaker Wire, 1000ft, Black",
@@ -31462,7 +31462,7 @@
             "product_id": 42073,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 28
+            "num_reviews": 29
         },
         "42074": {
             "name": "Monoprice 8K No Logo Ultra High Speed HDMI Cable, 48Gbps, 3ft, Black",
@@ -45327,6 +45327,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-30T15:28:02Z"
+        "timestamp": "2023-04-30T15:34:42Z"
     }
 }
