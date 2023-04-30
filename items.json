@@ -36060,8 +36060,8 @@
             "url": "https://www.monoprice.com/product?p_id=44322",
             "product_id": 44322,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 5,
+            "num_reviews": 1
         },
         "44323": {
             "name": "MPM Digger Interactive Pet Toy, Play Cat Treat Puzzle, Slow Eating Maze Food Bowl",
@@ -45318,6 +45318,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-30T22:05:53Z"
+        "timestamp": "2023-04-30T22:22:41Z"
     }
 }
