@@ -11833,7 +11833,7 @@
             "product_id": 24182,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 502
+            "num_reviews": 503
         },
         "24183": {
             "name": "Monoprice 4K Slim Certified Premium High Speed HDMI Cable 2ft - 18Gbps Black",
@@ -45318,6 +45318,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-30T22:44:47Z"
+        "timestamp": "2023-04-30T22:54:36Z"
     }
 }
