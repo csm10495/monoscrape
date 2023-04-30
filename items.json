@@ -28384,7 +28384,7 @@
             "product_id": 4037,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1848
+            "num_reviews": 1850
         },
         "40370": {
             "name": "Monoprice Spiral Wrapping Bands - 15mm x 1.5m, Black, 3-Pack",
@@ -37222,7 +37222,7 @@
             "product_id": 4778,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 205
+            "num_reviews": 206
         },
         "4779": {
             "name": "Monoprice 15ft Premier Series XLR Male to RCA Male Cable, 16AWG (Gold Plated)",
@@ -38680,7 +38680,7 @@
             "product_id": 5450,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 553
+            "num_reviews": 554
         },
         "5451": {
             "name": "Monoprice USB-A to Mini-B 2.0 Cable - 4-Pin, 28/24AWG, Gold Plated, Black, 1.5ft",
@@ -39976,7 +39976,7 @@
             "product_id": 6314,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 948
+            "num_reviews": 950
         },
         "6315": {
             "name": "Monoprice 10ft RG6 (18AWG) 75Ohm, Quad Shield, CL2 Coaxial Cable with F Type Connector - White",
@@ -43342,7 +43342,7 @@
             "product_id": 8628,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 70
+            "num_reviews": 71
         },
         "8629": {
             "name": "Monoprice Single Sided Shelf, 3.5(H) x 14.5(D) x 19(W), 50 lbs.",
@@ -45327,6 +45327,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-30T11:44:53Z"
+        "timestamp": "2023-04-30T11:54:53Z"
     }
 }
