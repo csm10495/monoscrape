@@ -34369,7 +34369,7 @@
             "product_id": 43223,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 28
+            "num_reviews": 29
         },
         "43224": {
             "name": "Monoprice 8K Ultra High Speed HDMI Cable - 8K@60Hz, 48Gbps, 15ft, Black - 5 Pack",
@@ -45327,6 +45327,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-30T10:23:30Z"
+        "timestamp": "2023-04-30T10:34:13Z"
     }
 }
