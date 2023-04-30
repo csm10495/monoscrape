@@ -14605,7 +14605,7 @@
             "product_id": 2816,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1848
+            "num_reviews": 1850
         },
         "2817": {
             "name": "Monoprice Access Series 12AWG CL2 Rated 2-Conductor Speaker Wire, 100ft, White",
@@ -38212,7 +38212,7 @@
             "product_id": 5347,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 1298
+            "num_reviews": 1299
         },
         "5348": {
             "name": "Monoprice 15ft Premium 2 RCA Plug/2 RCA Plug M/M 22AWG Cable - Black",
@@ -38732,7 +38732,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=5494",
             "product_id": 5494,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 409
         },
@@ -45318,6 +45318,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-30T23:27:52Z"
+        "timestamp": "2023-04-30T23:35:05Z"
     }
 }
