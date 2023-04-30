@@ -16799,7 +16799,7 @@
             "price": 7.49,
             "url": "https://www.monoprice.com/product?p_id=31349",
             "product_id": 31349,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 231
         },
@@ -17564,7 +17564,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=33560",
             "product_id": 33560,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 354
         },
@@ -17708,7 +17708,7 @@
             "price": 2.29,
             "url": "https://www.monoprice.com/product?p_id=33618",
             "product_id": 33618,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 59
         },
@@ -19042,7 +19042,7 @@
             "product_id": 34212,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1706
+            "num_reviews": 1707
         },
         "34213": {
             "name": "Monoprice Cat6 6in White Patch Cable, UTP, 32AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Micro SlimRun Series Ethernet Cable",
@@ -20536,7 +20536,7 @@
             "product_id": 34836,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1705
+            "num_reviews": 1707
         },
         "34837": {
             "name": "Monoprice 4K Certified Premium High Speed HDMI Cable 10m - 18Gbps Black - 2 Pack",
@@ -25709,7 +25709,7 @@
             "price": 9.59,
             "url": "https://www.monoprice.com/product?p_id=39300",
             "product_id": 39300,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 5
         },
@@ -45327,6 +45327,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-30T17:29:30Z"
+        "timestamp": "2023-04-30T17:35:32Z"
     }
 }
