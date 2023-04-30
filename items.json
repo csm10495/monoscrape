@@ -25171,7 +25171,7 @@
             "product_id": 39021,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 60
+            "num_reviews": 61
         },
         "39028": {
             "name": "Monoprice Select Series DisplayPort to HDTV Cable, 2m (6.6ft), 4K@60Hz",
@@ -45327,6 +45327,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-30T07:05:08Z"
+        "timestamp": "2023-04-30T07:19:28Z"
     }
 }
