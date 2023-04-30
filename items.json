@@ -31308,8 +31308,8 @@
             "url": "https://www.monoprice.com/product?p_id=42026",
             "product_id": 42026,
             "available": false,
-            "rating": 5,
-            "num_reviews": 5
+            "rating": 4.9,
+            "num_reviews": 6
         },
         "42027": {
             "name": "Monoprice Mountable Frosted Acrylic Plexiglass Sneeze Guard Protective Shield Desk Barrier Large Size 30.0in x 17.7in x 0.3in (Set of 2)",
@@ -33008,7 +33008,7 @@
             "price": 899.99,
             "url": "https://www.monoprice.com/product?p_id=42847",
             "product_id": 42847,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 30
         },
@@ -45327,6 +45327,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-04-30T17:35:32Z"
+        "timestamp": "2023-04-30T17:45:01Z"
     }
 }
