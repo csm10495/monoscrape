@@ -19526,7 +19526,7 @@
             "price": 239.99,
             "url": "https://www.monoprice.com/product?p_id=34438",
             "product_id": 34438,
-            "available": true,
+            "available": false,
             "rating": 4,
             "num_reviews": 23
         },
@@ -23967,6 +23967,15 @@
             "rating": 3.9,
             "num_reviews": 55
         },
+        "38626": {
+            "name": "Monoprice 8K SlimRun AV Ultra High Speed HDMI Cable 20ft - AOC 48Gbps Black",
+            "price": 114.29,
+            "url": "https://www.monoprice.com/product?p_id=38626",
+            "product_id": 38626,
+            "available": true,
+            "rating": 4.3,
+            "num_reviews": 42
+        },
         "38627": {
             "name": "Monoprice 8K SlimRun AV Ultra High Speed HDMI Cable 30ft - AOC 48Gbps Black",
             "price": 83.5,
@@ -24602,7 +24611,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=38858",
             "product_id": 38858,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 58
         },
@@ -25945,7 +25954,7 @@
             "product_id": 39480,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 267
+            "num_reviews": 268
         },
         "39481": {
             "name": "Monoprice 8K Ultra High Speed HDMI Cable 6ft - 48Gbps Black - 3 Pack",
@@ -45210,6 +45219,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-01T19:07:51Z"
+        "timestamp": "2023-05-01T19:20:58Z"
     }
 }
