@@ -14668,7 +14668,7 @@
             "product_id": 2822,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1848
+            "num_reviews": 1850
         },
         "2823": {
             "name": "Monoprice Access Series 16AWG CL2 Rated 2-Conductor Speaker Wire, 100ft, White",
@@ -45327,6 +45327,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-01T11:06:04Z"
+        "timestamp": "2023-05-01T11:20:11Z"
     }
 }
