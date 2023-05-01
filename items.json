@@ -28690,7 +28690,7 @@
             "product_id": 4060,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 949
+            "num_reviews": 950
         },
         "4061": {
             "name": "Monoprice 50ft RG6 (18AWG) 75Ohm, Quad Shield, CL2 Coaxial Cable with F Type Connector - White",
@@ -37175,7 +37175,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=4784",
             "product_id": 4784,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 83
         },
@@ -38048,7 +38048,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=5303",
             "product_id": 5303,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 93
         },
@@ -42919,7 +42919,7 @@
             "product_id": 8532,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 117
+            "num_reviews": 118
         },
         "8533": {
             "name": "Monoprice 10ft MIDI Cable with 5 Pin DIN Plugs - Black",
@@ -45210,6 +45210,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-01T18:34:55Z"
+        "timestamp": "2023-05-01T18:44:53Z"
     }
 }
