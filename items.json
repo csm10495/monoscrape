@@ -3384,15 +3384,6 @@
             "rating": 4.6,
             "num_reviews": 10
         },
-        "132": {
-            "name": "Monoprice Cat5e 3ft Gray Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
-            "price": 1.26,
-            "url": "https://www.monoprice.com/product?p_id=132",
-            "product_id": 132,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 3040
-        },
         "13207": {
             "name": "Monoprice PC Case with Soft Sand Finish for Samsung Galaxy S6, Pumice Black",
             "price": 7,
@@ -14045,7 +14036,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=2767",
             "product_id": 2767,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 2398
         },
@@ -17402,7 +17393,7 @@
             "price": 11.75,
             "url": "https://www.monoprice.com/product?p_id=3350",
             "product_id": 3350,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 49
         },
@@ -40793,7 +40784,7 @@
             "price": 1.24,
             "url": "https://www.monoprice.com/product?p_id=6835",
             "product_id": 6835,
-            "available": true,
+            "available": false,
             "rating": 3.1,
             "num_reviews": 44
         },
@@ -43529,7 +43520,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=8781",
             "product_id": 8781,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 230
         },
@@ -44222,7 +44213,7 @@
             "price": 1.29,
             "url": "https://www.monoprice.com/product?p_id=9545",
             "product_id": 9545,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 183
         },
@@ -45219,6 +45210,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-01T19:47:10Z"
+        "timestamp": "2023-05-01T19:56:20Z"
     }
 }
