@@ -29887,7 +29887,7 @@
             "product_id": 41374,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1849
+            "num_reviews": 1851
         },
         "41375": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 2-Conductor Speaker Wire, 50ft, Black",
@@ -30121,7 +30121,7 @@
             "product_id": 41400,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1849
+            "num_reviews": 1851
         },
         "41401": {
             "name": "Monoprice Access Series 18AWG CL2 Rated 2-Conductor Speaker Wire, 500ft, Black",
@@ -33680,7 +33680,7 @@
         },
         "43105": {
             "name": "Monoprice OM3 Fiber Optic Cable - Reverse Polarity LC/LC Uniboot, UL, 50/125 Type, 10GB, Aqua, 3m, Corning",
-            "price": 13.99,
+            "price": 11.19,
             "url": "https://www.monoprice.com/product?p_id=43105",
             "product_id": 43105,
             "available": true,
@@ -34252,7 +34252,7 @@
             "product_id": 43219,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 267
+            "num_reviews": 268
         },
         "43220": {
             "name": "Monoprice 8K Ultra High Speed HDMI Cable, 48Gbps, Black, 15ft",
@@ -34499,7 +34499,7 @@
         },
         "43303": {
             "name": "Monoprice Z-Wave Plus Series 700 Door/Window Sensor",
-            "price": 39.99,
+            "price": 23.99,
             "url": "https://www.monoprice.com/product?p_id=43303",
             "product_id": 43303,
             "available": false,
@@ -34719,8 +34719,8 @@
             "url": "https://www.monoprice.com/product?p_id=43354",
             "product_id": 43354,
             "available": false,
-            "rating": 4.5,
-            "num_reviews": 8
+            "rating": 5,
+            "num_reviews": 7
         },
         "43355": {
             "name": "Pure Outdoor by Monoprice RV Leveling Blocks",
@@ -45210,6 +45210,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-01T22:31:31Z"
+        "timestamp": "2023-05-01T22:36:50Z"
     }
 }
