@@ -27565,7 +27565,7 @@
             "product_id": 40001,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 8
+            "num_reviews": 9
         },
         "40002": {
             "name": "Monoprice 14 Outlet Metal 1U Rackmount PDU Power Distribution Unit Surge Protector, 6ft Cord, 1050 Joules",
@@ -30596,7 +30596,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=41705",
             "product_id": 41705,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -31253,7 +31253,7 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=42029",
             "product_id": 42029,
-            "available": true,
+            "available": false,
             "rating": 3.7,
             "num_reviews": 11
         },
@@ -34016,7 +34016,7 @@
             "price": 3.29,
             "url": "https://www.monoprice.com/product?p_id=43183",
             "product_id": 43183,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 304
         },
@@ -34981,7 +34981,7 @@
             "product_id": 43453,
             "available": false,
             "rating": 3.6,
-            "num_reviews": 21
+            "num_reviews": 22
         },
         "43462": {
             "name": "4Pack 4inch 27W Flood Round Pods Led Work Light Driving Fog Light Offroad Light for Tractor Off-Road SUV Boat Truck",
@@ -45219,6 +45219,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-01T19:20:58Z"
+        "timestamp": "2023-05-01T19:36:34Z"
     }
 }
