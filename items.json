@@ -24791,7 +24791,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=40136",
             "product_id": 40136,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -27862,7 +27862,7 @@
             "product_id": 42014,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 107
+            "num_reviews": 108
         },
         "42015": {
             "name": "Pure Outdoor by Monoprice Heavy Duty All Terrain Collapsible Outdoor Wagon, Red",
@@ -28112,7 +28112,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=42066",
             "product_id": 42066,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 304
         },
@@ -29230,7 +29230,7 @@
             "product_id": 42675,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 126
+            "num_reviews": 128
         },
         "42676": {
             "name": "Monoprice 8K Certified Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 26AWG, 15ft, Black",
@@ -29275,7 +29275,7 @@
             "product_id": 42680,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 126
+            "num_reviews": 128
         },
         "42681": {
             "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 30AWG, 3ft, Black",
@@ -30544,7 +30544,7 @@
             "product_id": 43149,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 10
+            "num_reviews": 11
         },
         "43150": {
             "name": "Monolith by Monoprice Encore B6 Bookshelf Speaker (Each)",
@@ -41979,6 +41979,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-01T13:34:40Z"
+        "timestamp": "2023-05-01T13:54:42Z"
     }
 }
