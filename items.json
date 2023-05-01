@@ -833,7 +833,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=11238",
             "product_id": 11238,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 461
         },
@@ -1535,7 +1535,7 @@
             "price": 7.49,
             "url": "https://www.monoprice.com/product?p_id=11349",
             "product_id": 11349,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 461
         },
@@ -2516,7 +2516,7 @@
             "price": 5.49,
             "url": "https://www.monoprice.com/product?p_id=12572",
             "product_id": 12572,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 57
         },
@@ -2786,7 +2786,7 @@
             "price": 119.99,
             "url": "https://www.monoprice.com/product?p_id=12757",
             "product_id": 12757,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 5
         },
@@ -3218,7 +3218,7 @@
             "price": 1.29,
             "url": "https://www.monoprice.com/product?p_id=13104",
             "product_id": 13104,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 127
         },
@@ -3434,7 +3434,7 @@
             "price": 1.29,
             "url": "https://www.monoprice.com/product?p_id=13218",
             "product_id": 13218,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 166
         },
@@ -4100,7 +4100,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=13507",
             "product_id": 13507,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 72
         },
@@ -4307,7 +4307,7 @@
             "price": 3.29,
             "url": "https://www.monoprice.com/product?p_id=13533",
             "product_id": 13533,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -5477,7 +5477,7 @@
             "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=13833",
             "product_id": 13833,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 17
         },
@@ -6341,7 +6341,7 @@
             "price": 2.79,
             "url": "https://www.monoprice.com/product?p_id=14804",
             "product_id": 14804,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -6377,7 +6377,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=14808",
             "product_id": 14808,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -6422,7 +6422,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=14813",
             "product_id": 14813,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -6431,7 +6431,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=14814",
             "product_id": 14814,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -6449,7 +6449,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=14817",
             "product_id": 14817,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -6773,7 +6773,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=15141",
             "product_id": 15141,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 522
         },
@@ -7891,7 +7891,7 @@
             "product_id": 15830,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 214
+            "num_reviews": 213
         },
         "15833": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Black",
@@ -8276,7 +8276,7 @@
             "price": 17.99,
             "url": "https://www.monoprice.com/product?p_id=16052",
             "product_id": 16052,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 14
         },
@@ -8431,7 +8431,7 @@
             "product_id": 16086,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1848
+            "num_reviews": 1850
         },
         "16088": {
             "name": "Monoprice 2 x 2 ft. Locking Suspended False Ceiling A/V Equipment Storage Enclosure and Gearbox",
@@ -8861,7 +8861,7 @@
             "price": 10.49,
             "url": "https://www.monoprice.com/product?p_id=16294",
             "product_id": 16294,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 522
         },
@@ -9167,7 +9167,7 @@
             "price": 19.97,
             "url": "https://www.monoprice.com/product?p_id=16344",
             "product_id": 16344,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 522
         },
@@ -9221,7 +9221,7 @@
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=16356",
             "product_id": 16356,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 38
         },
@@ -45318,6 +45318,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-01T12:41:46Z"
+        "timestamp": "2023-05-01T12:58:29Z"
     }
 }
