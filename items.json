@@ -3526,7 +3526,7 @@
             "product_id": 13242,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 165
+            "num_reviews": 166
         },
         "13247": {
             "name": "Monoprice Cat6 3ft Black Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
@@ -45327,6 +45327,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-01T08:44:13Z"
+        "timestamp": "2023-05-01T09:06:34Z"
     }
 }
