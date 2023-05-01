@@ -19994,7 +19994,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=34624",
             "product_id": 34624,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -22115,7 +22115,7 @@
         },
         "36571": {
             "name": "Monoprice DT-3 50-Watt Multimedia Desktop Powered Speakers",
-            "price": 67.99,
+            "price": 63.73,
             "url": "https://www.monoprice.com/product?p_id=36571",
             "product_id": 36571,
             "available": true,
@@ -24514,7 +24514,7 @@
             "product_id": 38844,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 58
+            "num_reviews": 59
         },
         "38845": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 3A/60W, 1.5ft, Blue",
@@ -26975,7 +26975,7 @@
         },
         "39758": {
             "name": "Monoprice Cat6 19in 1U Patch Panel with Loaded Keystone, 24 ports",
-            "price": 56.52,
+            "price": 66.49,
             "url": "https://www.monoprice.com/product?p_id=39758",
             "product_id": 39758,
             "available": true,
@@ -45210,6 +45210,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-01T21:20:39Z"
+        "timestamp": "2023-05-01T21:26:45Z"
     }
 }
