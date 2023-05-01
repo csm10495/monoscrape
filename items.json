@@ -14560,7 +14560,7 @@
             "product_id": 2817,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1848
+            "num_reviews": 1850
         },
         "2818": {
             "name": "Monoprice Access Series 12AWG CL2 Rated 2-Conductor Speaker Wire, 500ft, White",
@@ -19211,7 +19211,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=3428",
             "product_id": 3428,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -38079,15 +38079,6 @@
             "rating": 4.9,
             "num_reviews": 93
         },
-        "5306": {
-            "name": "Monoprice Outdoor Extension Cord - NEMA 5-15P to NEMA 5-15R, 12AWG, 20A, SJTW, Black, 100ft",
-            "price": 152.49,
-            "url": "https://www.monoprice.com/product?p_id=5306",
-            "product_id": 5306,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 29
-        },
         "5308": {
             "name": "Monoprice Power Cord Splitter - NEMA 5-15P to 2x NEMA 5-15R, 16AWG, 13A/1625W, 3-Prong, Black, 1.2ft",
             "price": 5.99,
@@ -45246,6 +45237,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-01T16:10:35Z"
+        "timestamp": "2023-05-01T16:30:33Z"
     }
 }
