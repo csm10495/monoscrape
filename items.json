@@ -19888,7 +19888,7 @@
             "product_id": 34602,
             "available": true,
             "rating": 3.8,
-            "num_reviews": 30
+            "num_reviews": 31
         },
         "34604": {
             "name": "Monoprice MP Rapid UV 3D Printer Resin, 500ml, Gray",
@@ -19933,7 +19933,7 @@
             "product_id": 34608,
             "available": true,
             "rating": 3.8,
-            "num_reviews": 29
+            "num_reviews": 31
         },
         "34609": {
             "name": "Monoprice MP Rapid UV 3D Printer Resin, 1000ml, Yellow",
@@ -45210,6 +45210,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-01T23:24:36Z"
+        "timestamp": "2023-05-01T23:34:46Z"
     }
 }
