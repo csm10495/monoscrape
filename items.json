@@ -16740,15 +16740,6 @@
             "rating": 4.9,
             "num_reviews": 231
         },
-        "31349": {
-            "name": "Monoprice Entegrade Series Cat7 Double Shielded (S/FTP) Ethernet Patch Cable - Snagless RJ45, 600MHz, 10G, 26AWG, 10ft, Green",
-            "price": 7.49,
-            "url": "https://www.monoprice.com/product?p_id=31349",
-            "product_id": 31349,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 231
-        },
         "31353": {
             "name": "Monoprice Cat7 15ft Black Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
             "price": 9.99,
@@ -16808,6 +16799,15 @@
             "price": 40.36,
             "url": "https://www.monoprice.com/product?p_id=31377",
             "product_id": 31377,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 231
+        },
+        "31380": {
+            "name": "Monoprice Entegrade Series Cat7 Double Shielded (S/FTP) Ethernet Patch Cable - Snagless RJ45, 600MHz, 10G, 26AWG, 100ft, Red",
+            "price": 39.99,
+            "url": "https://www.monoprice.com/product?p_id=31380",
+            "product_id": 31380,
             "available": true,
             "rating": 4.9,
             "num_reviews": 231
@@ -17258,7 +17258,7 @@
             "price": 799.99,
             "url": "https://www.monoprice.com/product?p_id=33305",
             "product_id": 33305,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 38
         },
@@ -18329,7 +18329,7 @@
             "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=33840",
             "product_id": 33840,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 37
         },
@@ -24343,7 +24343,7 @@
             "product_id": 38816,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 78
+            "num_reviews": 79
         },
         "38818": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 10ft, Blue",
@@ -25857,6 +25857,15 @@
             "rating": 0,
             "num_reviews": 0
         },
+        "39430": {
+            "name": "Monoprice OM4 Fiber Optic Cable - LC/ST, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 1m",
+            "price": 3.79,
+            "url": "https://www.monoprice.com/product?p_id=39430",
+            "product_id": 39430,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 1
+        },
         "39431": {
             "name": "Monoprice OM4 Fiber Optic Cable - LC/ST, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 2m",
             "price": 1.04,
@@ -26069,7 +26078,7 @@
             "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=39499",
             "product_id": 39499,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 6
         },
@@ -45237,6 +45246,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-01T14:36:05Z"
+        "timestamp": "2023-05-01T14:44:34Z"
     }
 }
