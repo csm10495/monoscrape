@@ -31034,7 +31034,7 @@
         },
         "41985": {
             "name": "Monoprice USB-C Charger, 100W 1-port PD, GaN Technology, Foldable Wall Plug, Power Delivery for MacBook Pro/Air, iPad Pro, iPhone 12/11/Pro/Max/XR/XS/X, Pixel, Galaxy S, and More",
-            "price": 40.99,
+            "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=41985",
             "product_id": 41985,
             "available": true,
@@ -31043,7 +31043,7 @@
         },
         "41986": {
             "name": "Monoprice USB-C Charger, 100W 4-port PD GaN Technology Foldable Wall Charger, Power Delivery for MacBook Pro/Air, iPad Pro, iPhone 12/11/Pro/Max/XR/XS/X, Pixel, Galaxy, and More",
-            "price": 64.99,
+            "price": 44.99,
             "url": "https://www.monoprice.com/product?p_id=41986",
             "product_id": 41986,
             "available": true,
@@ -32164,7 +32164,7 @@
             "product_id": 42531,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 261
+            "num_reviews": 262
         },
         "42532": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft/3ft/6ft, Red - 3 Pack",
@@ -33589,7 +33589,7 @@
             "num_reviews": 56
         },
         "43074": {
-            "name": "Monoprice Flexboot Cat6 Ethernet Patch Cable - Snagless RJ45, Flat, 550MHz, UTP, Pure Bare Copper Wire, 30AWG, 2ft, White",
+            "name": "Monoprice Cat6 2ft White Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series  Ethernet Cable",
             "price": 0.89,
             "url": "https://www.monoprice.com/product?p_id=43074",
             "product_id": 43074,
@@ -33977,7 +33977,7 @@
         },
         "43178": {
             "name": "Monoprice Heavy Duty Power Cable - IEC 60320 C14 to IEC 60320 C15, 14AWG, 15A, SJT, 125V, White, 6ft",
-            "price": 2.26,
+            "price": 2.25,
             "url": "https://www.monoprice.com/product?p_id=43178",
             "product_id": 43178,
             "available": true,
@@ -45210,6 +45210,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-01T21:26:45Z"
+        "timestamp": "2023-05-01T21:34:49Z"
     }
 }
