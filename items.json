@@ -16648,7 +16648,7 @@
             "product_id": 31293,
             "available": true,
             "rating": 4.1,
-            "num_reviews": 15
+            "num_reviews": 16
         },
         "31294": {
             "name": "Monoprice Cat7 6in Blue Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
@@ -16781,7 +16781,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=31371",
             "product_id": 31371,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 231
         },
@@ -18925,7 +18925,7 @@
             "product_id": 34206,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 502
+            "num_reviews": 503
         },
         "34207": {
             "name": "Monoprice 4K Certified Premium High Speed HDMI Cable 3ft - 18Gbps Black - 2 Pack",
@@ -19094,7 +19094,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=34238",
             "product_id": 34238,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 76
         },
@@ -19175,7 +19175,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=34258",
             "product_id": 34258,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 76
         },
@@ -19193,7 +19193,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=34267",
             "product_id": 34267,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 76
         },
@@ -21992,7 +21992,7 @@
             "price": 119.99,
             "url": "https://www.monoprice.com/product?p_id=36375",
             "product_id": 36375,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 19
         },
@@ -22497,8 +22497,8 @@
             "url": "https://www.monoprice.com/product?p_id=37887",
             "product_id": 37887,
             "available": false,
-            "rating": 4.8,
-            "num_reviews": 19
+            "rating": 5,
+            "num_reviews": 18
         },
         "37893": {
             "name": "Wireless LED Multi-color Led Night light decoration Light Dream Star 25\" x 25\" Extra Large, Holiday Party Decorations Patio Front yard Backyard",
@@ -24307,7 +24307,7 @@
             "product_id": 38811,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 78
+            "num_reviews": 79
         },
         "38812": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 3ft, White",
@@ -26116,7 +26116,7 @@
             "product_id": 39511,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 265
+            "num_reviews": 268
         },
         "39512": {
             "name": "Monoprice PTZ Video Conference Camera, Pan Tilt Zoom with Remote, Full HD 1080p Webcam, USB 3.0, 3x Optical Zoom",
@@ -27430,7 +27430,7 @@
             "product_id": 39920,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1008
+            "num_reviews": 1009
         },
         "39921": {
             "name": "Monoprice USB Type-A to USB Type-A Female 2.0 Extension Cable - 28/24AWG Gold Plated Black 1.5ft, 3-Pack",
@@ -45246,6 +45246,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-01T15:35:58Z"
+        "timestamp": "2023-05-01T15:45:06Z"
     }
 }
