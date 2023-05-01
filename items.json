@@ -19625,7 +19625,7 @@
             "price": 25.74,
             "url": "https://www.monoprice.com/product?p_id=38164",
             "product_id": 38164,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 1
         },
@@ -23595,8 +23595,8 @@
             "url": "https://www.monoprice.com/product?p_id=39663",
             "product_id": 39663,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 5,
+            "num_reviews": 1
         },
         "39664": {
             "name": "Monoprice Commercial Series 3x1 Panel Menu Board Ceiling TV Mount for Displays Between 32in to 65in, Max Weight 66 lbs. ea., VESA Patterns up to 600x400",
@@ -41979,6 +41979,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-01T13:29:45Z"
+        "timestamp": "2023-05-01T13:34:40Z"
     }
 }
