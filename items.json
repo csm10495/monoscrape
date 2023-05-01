@@ -29003,7 +29003,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=40886",
             "product_id": 40886,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 56
         },
@@ -29867,7 +29867,7 @@
             "price": 159.99,
             "url": "https://www.monoprice.com/product?p_id=41360",
             "product_id": 41360,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 2
         },
@@ -30735,15 +30735,6 @@
             "rating": 4.9,
             "num_reviews": 11
         },
-        "41777": {
-            "name": "Coiled Power Tool Extension Cord, 16AWG, 13A, SJT, Orange, Expands from 3ft to 10ft",
-            "price": 9.59,
-            "url": "https://www.monoprice.com/product?p_id=41777",
-            "product_id": 41777,
-            "available": false,
-            "rating": 4,
-            "num_reviews": 1
-        },
         "41779": {
             "name": "UVC Sterilizer Cell Phone Cleaner, Portable Smart Phone Cleaner Cleaning Device Disinfection Tool Sterilization for Cellphone Jewelry Watches",
             "price": 5.99,
@@ -31505,7 +31496,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=42085",
             "product_id": 42085,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 41
         },
@@ -31517,6 +31508,15 @@
             "available": false,
             "rating": 4.5,
             "num_reviews": 8
+        },
+        "42087": {
+            "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 16AWG, 13A/1625W, 125V, 3-Prong, SJT, Black, 1ft",
+            "price": 1.24,
+            "url": "https://www.monoprice.com/product?p_id=42087",
+            "product_id": 42087,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 38
         },
         "42089": {
             "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 16AWG, 13A/1625W, 125V, 3-Prong, SJT, Red, 1ft",
@@ -34422,8 +34422,8 @@
             "url": "https://www.monoprice.com/product?p_id=43245",
             "product_id": 43245,
             "available": true,
-            "rating": 5,
-            "num_reviews": 2
+            "rating": 4.3,
+            "num_reviews": 3
         },
         "43247": {
             "name": "Monoprice Harmony Boombox Portable Bluetooth Speaker, Waterproof, TWS",
@@ -45246,6 +45246,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-01T15:45:06Z"
+        "timestamp": "2023-05-01T15:54:46Z"
     }
 }
