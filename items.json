@@ -1742,7 +1742,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=11388",
             "product_id": 11388,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 461
         },
@@ -3321,15 +3321,6 @@
             "rating": 4.9,
             "num_reviews": 127
         },
-        "13141": {
-            "name": "Monoprice ZEROboot Cat5e Ethernet Patch Cable - RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 15ft, Gray",
-            "price": 4.49,
-            "url": "https://www.monoprice.com/product?p_id=13141",
-            "product_id": 13141,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 127
-        },
         "1316": {
             "name": "Monoprice Molex Internal DC Power Extension Cable, 1x 5.25in Male to 1x 5.25in Female, 12in",
             "price": 1.19,
@@ -4289,7 +4280,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=13534",
             "product_id": 13534,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -6314,7 +6305,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=14808",
             "product_id": 14808,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -6368,7 +6359,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=14814",
             "product_id": 14814,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -6440,7 +6431,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=14823",
             "product_id": 14823,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -7351,7 +7342,7 @@
             "product_id": 15525,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 167
+            "num_reviews": 168
         },
         "15526": {
             "name": "Workstream by Monoprice Single Monitor Adjustable Gas Spring Desk Mount for 15~34in Monitors",
@@ -45219,6 +45210,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-01T20:54:44Z"
+        "timestamp": "2023-05-01T21:06:36Z"
     }
 }
