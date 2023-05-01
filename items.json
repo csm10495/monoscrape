@@ -16927,7 +16927,7 @@
             "product_id": 33041,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 88
+            "num_reviews": 89
         },
         "33044": {
             "name": "Monoprice USB-C Digital to 3.5mm Auxiliary Audio Adapter, Black",
@@ -18448,7 +18448,7 @@
             "product_id": 33871,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 214
+            "num_reviews": 213
         },
         "33875": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Pink",
@@ -18952,7 +18952,7 @@
             "product_id": 34202,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 502
+            "num_reviews": 503
         },
         "34203": {
             "name": "Monoprice 4K Slim Certified Premium High Speed HDMI Cable 3ft - 18Gbps Black - 5 Pack",
@@ -23317,7 +23317,7 @@
             "product_id": 38313,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 261
+            "num_reviews": 262
         },
         "38314": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, White",
@@ -23560,7 +23560,7 @@
             "product_id": 38379,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 47
+            "num_reviews": 48
         },
         "38380": {
             "name": "Monoprice USB C To Lightning Cable - 6 Feet - Black ( MFI Certified ) Fast Charging, Compatible with Apple iPhone 13 / Pro / Pro Max / AirPods Pro - Select Series",
@@ -45327,6 +45327,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-01T03:08:26Z"
+        "timestamp": "2023-05-01T03:25:21Z"
     }
 }
