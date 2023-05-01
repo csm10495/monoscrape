@@ -495,15 +495,6 @@
             "rating": 4.6,
             "num_reviews": 28
         },
-        "10646": {
-            "name": "4U 600mm Depth Simple Server Rack - GSA Approved",
-            "price": 182.69,
-            "url": "https://www.monoprice.com/product?p_id=10646",
-            "product_id": 10646,
-            "available": false,
-            "rating": 4.7,
-            "num_reviews": 3
-        },
         "10663": {
             "name": "Monoprice 7U 700mm Depth Audio/Video Rackmount Cabinet - GSA Approved",
             "price": 635.99,
@@ -4469,7 +4460,7 @@
             "price": 8.49,
             "url": "https://www.monoprice.com/product?p_id=13553",
             "product_id": 13553,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -7610,7 +7601,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=15696",
             "product_id": 15696,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 14
         },
@@ -8501,7 +8492,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=16131",
             "product_id": 16131,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 21
         },
@@ -9484,7 +9475,7 @@
             "product_id": 18631,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 137
+            "num_reviews": 138
         },
         "18632": {
             "name": "Monoprice Onyx Series Auxiliary 3.5mm TRRS Audio \u0026 Microphone Cable, 3ft",
@@ -45237,6 +45228,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-01T16:30:33Z"
+        "timestamp": "2023-05-01T16:40:28Z"
     }
 }
