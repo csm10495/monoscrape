@@ -583,7 +583,7 @@
             "product_id": 10934,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 114
+            "num_reviews": 115
         },
         "11040": {
             "name": "Monoprice Premium 3D Printer Filament ABS 1.75mm 1kg/spool, Blue",
@@ -2417,7 +2417,7 @@
             "price": 20.99,
             "url": "https://www.monoprice.com/product?p_id=12299",
             "product_id": 12299,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 573
         },
@@ -4271,7 +4271,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=13532",
             "product_id": 13532,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -6350,7 +6350,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=14812",
             "product_id": 14812,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -6467,7 +6467,7 @@
             "price": 8.49,
             "url": "https://www.monoprice.com/product?p_id=14828",
             "product_id": 14828,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -45210,6 +45210,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-01T17:31:23Z"
+        "timestamp": "2023-05-01T17:45:14Z"
     }
 }
