@@ -16758,15 +16758,6 @@
             "rating": 4.9,
             "num_reviews": 231
         },
-        "31371": {
-            "name": "Monoprice Entegrade Series Cat7 Double Shielded (S/FTP) Ethernet Patch Cable - Snagless RJ45, 600MHz, 10G, 26AWG, 50ft, White",
-            "price": 15.99,
-            "url": "https://www.monoprice.com/product?p_id=31371",
-            "product_id": 31371,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 231
-        },
         "31375": {
             "name": "Monoprice Entegrade Series Cat7 Double Shielded (S/FTP) Ethernet Patch Cable - Snagless RJ45, 600MHz, 10G, 26AWG, 50ft, Yellow",
             "price": 20.99,
@@ -19535,7 +19526,7 @@
             "price": 239.99,
             "url": "https://www.monoprice.com/product?p_id=34438",
             "product_id": 34438,
-            "available": false,
+            "available": true,
             "rating": 4,
             "num_reviews": 23
         },
@@ -23272,7 +23263,7 @@
             "product_id": 38317,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 261
+            "num_reviews": 262
         },
         "38318": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Blue",
@@ -45219,6 +45210,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-01T16:46:07Z"
+        "timestamp": "2023-05-01T16:55:05Z"
     }
 }
