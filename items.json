@@ -1033,7 +1033,7 @@
             "product_id": 11272,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1459
+            "num_reviews": 1464
         },
         "11273": {
             "name": "Monoprice Cat6 1ft Gray Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -4298,7 +4298,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=13536",
             "product_id": 13536,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -7711,7 +7711,7 @@
             "product_id": 15722,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 201
+            "num_reviews": 202
         },
         "15723": {
             "name": "Monoprice Height Adjustable PC Workstation Cart for Sit-Stand",
@@ -8195,7 +8195,7 @@
             "price": 269.99,
             "url": "https://www.monoprice.com/product?p_id=16050",
             "product_id": 16050,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 244
         },
@@ -9512,6 +9512,15 @@
             "available": true,
             "rating": 4.8,
             "num_reviews": 8
+        },
+        "18653": {
+            "name": "Datacomm Hole Saw Plate",
+            "price": 5.99,
+            "url": "https://www.monoprice.com/product?p_id=18653",
+            "product_id": 18653,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 37
         },
         "18660": {
             "name": "Monoprice Recessed Media Box II with 15A 125V Duplex Receptacle",
@@ -45210,6 +45219,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-01T19:56:20Z"
+        "timestamp": "2023-05-01T20:09:06Z"
     }
 }
