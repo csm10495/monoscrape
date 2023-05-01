@@ -32515,7 +32515,7 @@
             "product_id": 42678,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 126
+            "num_reviews": 128
         },
         "42679": {
             "name": "Monoprice 8K Certified Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 28AWG, 10ft, Black - 5 Pack",
@@ -45210,6 +45210,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-01T23:34:46Z"
+        "timestamp": "2023-05-01T23:44:32Z"
     }
 }
