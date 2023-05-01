@@ -19888,7 +19888,7 @@
             "product_id": 34602,
             "available": true,
             "rating": 3.8,
-            "num_reviews": 29
+            "num_reviews": 30
         },
         "34604": {
             "name": "Monoprice MP Rapid UV 3D Printer Resin, 500ml, Gray",
@@ -20801,7 +20801,7 @@
         },
         "35099": {
             "name": "Monoprice Heavy Duty 4 Outlet Metal Surge Protector Power Box, 180 Joules, with 6ft Cord, Black",
-            "price": 24.99,
+            "price": 18.74,
             "url": "https://www.monoprice.com/product?p_id=35099",
             "product_id": 35099,
             "available": true,
@@ -22403,7 +22403,7 @@
         },
         "37877": {
             "name": "Workstream by Monoprice Rolling Round Corner 3-Drawer File Cabinet, White",
-            "price": 189.99,
+            "price": 119.99,
             "url": "https://www.monoprice.com/product?p_id=37877",
             "product_id": 37877,
             "available": true,
@@ -22412,7 +22412,7 @@
         },
         "37878": {
             "name": "Workstream by Monoprice Rolling Round Corner 3-Drawer File Cabinet, Gray",
-            "price": 189.99,
+            "price": 95.99,
             "url": "https://www.monoprice.com/product?p_id=37878",
             "product_id": 37878,
             "available": true,
@@ -22421,7 +22421,7 @@
         },
         "37880": {
             "name": "Workstream by Monoprice Rolling Round Corner 2-Drawer File Cabinet with Seat Cushion, Black",
-            "price": 149.99,
+            "price": 112.49,
             "url": "https://www.monoprice.com/product?p_id=37880",
             "product_id": 37880,
             "available": true,
@@ -22430,7 +22430,7 @@
         },
         "37881": {
             "name": "Workstream by Monoprice Rolling Round Corner 2-Drawer File Cabinet with Seat Cushion, White",
-            "price": 149.99,
+            "price": 112.49,
             "url": "https://www.monoprice.com/product?p_id=37881",
             "product_id": 37881,
             "available": true,
@@ -22601,7 +22601,7 @@
         },
         "38068": {
             "name": "Monoprice Bluetooth 5 Receiver/Car Kit, Portable Wireless Audio Adapter 3.5mm Aux Stereo Output (Bluetooth 5, A2DP, Built-in Microphone) for Home Audio Music Streaming Sound System",
-            "price": 14.99,
+            "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=38068",
             "product_id": 38068,
             "available": false,
@@ -24509,7 +24509,7 @@
         },
         "38844": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 3A/60W, 10ft, White",
-            "price": 9.98,
+            "price": 9.97,
             "url": "https://www.monoprice.com/product?p_id=38844",
             "product_id": 38844,
             "available": true,
@@ -25382,7 +25382,7 @@
         },
         "39158": {
             "name": "Monolith by Monoprice THX-460T THX Certified Ultra Tower Speaker (Each)",
-            "price": 849.99,
+            "price": 764.99,
             "url": "https://www.monoprice.com/product?p_id=39158",
             "product_id": 39158,
             "available": true,
@@ -26888,7 +26888,7 @@
             "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=39666",
             "product_id": 39666,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 13
         },
@@ -26975,7 +26975,7 @@
         },
         "39758": {
             "name": "Monoprice Cat6 19in 1U Patch Panel with Loaded Keystone, 24 ports",
-            "price": 66.49,
+            "price": 56.51,
             "url": "https://www.monoprice.com/product?p_id=39758",
             "product_id": 39758,
             "available": true,
@@ -45210,6 +45210,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-01T22:23:26Z"
+        "timestamp": "2023-05-01T22:31:31Z"
     }
 }
