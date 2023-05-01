@@ -15147,15 +15147,6 @@
             "rating": 4.6,
             "num_reviews": 213
         },
-        "3388": {
-            "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 10ft, Orange",
-            "price": 2.99,
-            "url": "https://www.monoprice.com/product?p_id=3388",
-            "product_id": 3388,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 3040
-        },
         "33880": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Gold",
             "price": 30.99,
@@ -34434,15 +34425,6 @@
             "rating": 4.9,
             "num_reviews": 3398
         },
-        "5023": {
-            "name": "Monoprice Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 30ft, Red",
-            "price": 7.49,
-            "url": "https://www.monoprice.com/product?p_id=5023",
-            "product_id": 5023,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 3398
-        },
         "5027": {
             "name": "Monoprice Cat6 75ft Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 19.99,
@@ -34760,7 +34742,7 @@
         },
         "5299": {
             "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R, 16AWG, 13A/1625W, 3-Prong, Black, 6ft",
-            "price": 4.99,
+            "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=5299",
             "product_id": 5299,
             "available": true,
@@ -37328,7 +37310,7 @@
             "price": 1.19,
             "url": "https://www.monoprice.com/product?p_id=659",
             "product_id": 659,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 143
         },
@@ -38831,7 +38813,7 @@
             "price": 17.49,
             "url": "https://www.monoprice.com/product?p_id=7643",
             "product_id": 7643,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 191
         },
@@ -39206,7 +39188,7 @@
         },
         "8103": {
             "name": "Monoprice Cat6 1000ft Blue CMR UL Bulk Cable, Solid (w/spine), UTP, 23AWG, 550MHz, Pure Bare Copper, Reelex II Pull Box, Bulk Ethernet Cable",
-            "price": 139.99,
+            "price": 124.99,
             "url": "https://www.monoprice.com/product?p_id=8103",
             "product_id": 8103,
             "available": true,
@@ -40370,7 +40352,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=8799",
             "product_id": 8799,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 11
         },
@@ -41979,6 +41961,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-01T14:06:00Z"
+        "timestamp": "2023-05-01T14:22:28Z"
     }
 }
