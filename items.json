@@ -16340,7 +16340,7 @@
             "price": 5.59,
             "url": "https://www.monoprice.com/product?p_id=31187",
             "product_id": 31187,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 393
         },
@@ -17492,7 +17492,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=33560",
             "product_id": 33560,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 354
         },
@@ -19094,7 +19094,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=34240",
             "product_id": 34240,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 76
         },
@@ -20075,7 +20075,7 @@
             "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=34706",
             "product_id": 34706,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 546
         },
@@ -20419,7 +20419,7 @@
             "product_id": 34832,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1705
+            "num_reviews": 1707
         },
         "34833": {
             "name": "Monoprice 4K Certified Premium High Speed HDMI Cable 2m - 18Gbps Black - 2 Pack",
@@ -20867,7 +20867,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=35114",
             "product_id": 35114,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 7
         },
@@ -20876,7 +20876,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=35115",
             "product_id": 35115,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 8
         },
@@ -23063,6 +23063,15 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=38274",
             "product_id": 38274,
+            "available": true,
+            "rating": 4.3,
+            "num_reviews": 4
+        },
+        "38275": {
+            "name": "Monoprice OM3 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 5m",
+            "price": 4.29,
+            "url": "https://www.monoprice.com/product?p_id=38275",
+            "product_id": 38275,
             "available": true,
             "rating": 4.3,
             "num_reviews": 4
@@ -25650,15 +25659,6 @@
             "rating": 3.4,
             "num_reviews": 5
         },
-        "39305": {
-            "name": "Monoprice Above Fireplace Pull-Down Full-Motion Articulating TV Wall Mount with Floating Soundbar Mount For TVs 42in ~ 65in, Max Weight 62 lbs, VESA Patterns Up to 600x500, Rotating, Height Adjustable",
-            "price": 33.99,
-            "url": "https://www.monoprice.com/product?p_id=39305",
-            "product_id": 39305,
-            "available": false,
-            "rating": 4.3,
-            "num_reviews": 27
-        },
         "39324": {
             "name": "Dark Matter by Monoprice Launch Gaming Mouse Pad - Premium Cloth, Stitched Edges, 450x400mm",
             "price": 5.24,
@@ -25963,7 +25963,7 @@
             "product_id": 39483,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 266
+            "num_reviews": 268
         },
         "39488": {
             "name": "Monoprice Adjustable 22 lb. Capacity Speaker Wall Mount Brackets (Pair) Black",
@@ -45210,6 +45210,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-01T17:55:12Z"
+        "timestamp": "2023-05-01T18:09:37Z"
     }
 }
