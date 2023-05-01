@@ -227,7 +227,7 @@
         },
         "1039": {
             "name": "Monoprice Cat6 RJ-45 Toolless Keystone - Black",
-            "price": 1.49,
+            "price": 1.11,
             "url": "https://www.monoprice.com/product?p_id=1039",
             "product_id": 1039,
             "available": true,
@@ -28393,7 +28393,7 @@
             "product_id": 4040,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1849
+            "num_reviews": 1851
         },
         "40401": {
             "name": "Monoprice 36in SATA 6Gbps Cable with Locking Latch (90 Degree to 180 Degree), Blue",
@@ -36920,7 +36920,7 @@
         },
         "4756": {
             "name": "Monoprice 50ft Premier Series XLR Male to XLR Female 16AWG Cable (Gold Plated) [Microphone and Interconnect]",
-            "price": 22.99,
+            "price": 17.24,
             "url": "https://www.monoprice.com/product?p_id=4756",
             "product_id": 4756,
             "available": true,
@@ -41690,7 +41690,7 @@
         },
         "7302": {
             "name": "Monoprice 8P8C RJ45 Cat5e Inline Coupler Type Keystone Jack, White",
-            "price": 2.49,
+            "price": 1.86,
             "url": "https://www.monoprice.com/product?p_id=7302",
             "product_id": 7302,
             "available": true,
@@ -41699,7 +41699,7 @@
         },
         "7303": {
             "name": "Monoprice 8P8C RJ45 Cat6 Inline Coupler Type Keystone Jack, White",
-            "price": 3.49,
+            "price": 2.61,
             "url": "https://www.monoprice.com/product?p_id=7303",
             "product_id": 7303,
             "available": true,
@@ -42793,7 +42793,7 @@
             "product_id": 8248,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 276
+            "num_reviews": 277
         },
         "8321": {
             "name": "Monoprice Button Design Noise Isolating Earbuds Headphones, Black \u0026 White",
@@ -42815,7 +42815,7 @@
         },
         "8324": {
             "name": "Monoprice Hi-Fi Light Weight Over-the-Ear Headphones",
-            "price": 20.99,
+            "price": 12.59,
             "url": "https://www.monoprice.com/product?p_id=8324",
             "product_id": 8324,
             "available": true,
@@ -43823,7 +43823,7 @@
         },
         "9321": {
             "name": "Monoprice Keystone Jack - Modular F Type (White) - (No Logo)",
-            "price": 1.49,
+            "price": 1.11,
             "url": "https://www.monoprice.com/product?p_id=9321",
             "product_id": 9321,
             "available": true,
@@ -44440,7 +44440,7 @@
             "product_id": 9788,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1464
         },
         "9789": {
             "name": "Monoprice Cat6 6in Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -45210,6 +45210,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-01T22:44:34Z"
+        "timestamp": "2023-05-01T22:54:43Z"
     }
 }
