@@ -30717,6 +30717,15 @@
             "rating": 4.9,
             "num_reviews": 11
         },
+        "41777": {
+            "name": "Coiled Power Tool Extension Cord, 16AWG, 13A, SJT, Orange, Expands from 3ft to 10ft",
+            "price": 9.59,
+            "url": "https://www.monoprice.com/product?p_id=41777",
+            "product_id": 41777,
+            "available": true,
+            "rating": 4,
+            "num_reviews": 1
+        },
         "41779": {
             "name": "UVC Sterilizer Cell Phone Cleaner, Portable Smart Phone Cleaner Cleaning Device Disinfection Tool Sterilization for Cellphone Jewelry Watches",
             "price": 5.99,
@@ -30787,7 +30796,7 @@
             "product_id": 41814,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1464
         },
         "41815": {
             "name": "Monoprice Cat6 2ft Blue 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -30805,7 +30814,7 @@
             "product_id": 41816,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1464
         },
         "41817": {
             "name": "Monoprice Cat6 3ft Blue 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -31946,7 +31955,7 @@
             "price": 90.99,
             "url": "https://www.monoprice.com/product?p_id=42345",
             "product_id": 42345,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 16
         },
@@ -32479,7 +32488,7 @@
             "product_id": 42673,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 127
+            "num_reviews": 128
         },
         "42674": {
             "name": "Monoprice 8K Certified Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 30AWG, 6ft, Black",
@@ -32551,7 +32560,7 @@
             "product_id": 42681,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 221
+            "num_reviews": 223
         },
         "42682": {
             "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 30AWG, 6ft, Black",
@@ -32569,7 +32578,7 @@
             "product_id": 42683,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 222
+            "num_reviews": 223
         },
         "42684": {
             "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 26AWG, 15ft, Black",
@@ -34675,7 +34684,7 @@
             "product_id": 43348,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1464
         },
         "43349": {
             "name": "Monoprice Cat6 10ft White 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -45210,6 +45219,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-02T19:56:35Z"
+        "timestamp": "2023-05-02T20:08:15Z"
     }
 }
