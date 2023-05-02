@@ -29885,7 +29885,7 @@
             "price": 159.99,
             "url": "https://www.monoprice.com/product?p_id=41360",
             "product_id": 41360,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 2
         },
@@ -30031,7 +30031,7 @@
             "product_id": 41386,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1849
+            "num_reviews": 1851
         },
         "41387": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 4-Conductor Speaker Wire, 250ft, Black",
@@ -31514,7 +31514,7 @@
             "price": 3.79,
             "url": "https://www.monoprice.com/product?p_id=42086",
             "product_id": 42086,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 8
         },
@@ -34070,7 +34070,7 @@
             "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=43188",
             "product_id": 43188,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 8
         },
@@ -45282,6 +45282,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-02T13:44:34Z"
+        "timestamp": "2023-05-02T13:54:19Z"
     }
 }
