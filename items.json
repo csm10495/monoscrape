@@ -29085,8 +29085,8 @@
             "url": "https://www.monoprice.com/product?p_id=4100",
             "product_id": 4100,
             "available": true,
-            "rating": 4.8,
-            "num_reviews": 303
+            "rating": 4.7,
+            "num_reviews": 304
         },
         "41007": {
             "name": "Monoprice Entegrade 1000FT Cat8 2GHz S/FTP Solid, 22AWG, Bare Copper Network Cable, 40G, White",
@@ -41801,7 +41801,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=7397",
             "product_id": 7397,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 1
         },
@@ -44411,7 +44411,7 @@
             "price": 3.19,
             "url": "https://www.monoprice.com/product?p_id=9780",
             "product_id": 9780,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 91
         },
@@ -44629,7 +44629,7 @@
             "product_id": 9809,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1464
         },
         "9810": {
             "name": "Monoprice Cat6 2ft Gray Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -44800,7 +44800,7 @@
             "product_id": 9830,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1464
         },
         "9831": {
             "name": "Monoprice Cat6 5ft Red Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -45219,6 +45219,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-02T21:44:52Z"
+        "timestamp": "2023-05-02T21:55:07Z"
     }
 }
