@@ -16652,7 +16652,7 @@
         },
         "31292": {
             "name": "Monoprice Sit-Stand Single Motor Height Adjustable Table Desk Frame, Electric, Gray",
-            "price": 279.99,
+            "price": 251.99,
             "url": "https://www.monoprice.com/product?p_id=31292",
             "product_id": 31292,
             "available": true,
@@ -17033,7 +17033,7 @@
             "price": 32.49,
             "url": "https://www.monoprice.com/product?p_id=33215",
             "product_id": 33215,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 522
         },
@@ -21548,7 +21548,7 @@
         },
         "35943": {
             "name": "Monoprice Obsidian Speed USB Wall Charger, 1-Port, 65W PD Output for Laptops, iPhone, Android, and Galaxy Devices Package, 6ft USB Type-C Cable Included",
-            "price": 47.99,
+            "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=35943",
             "product_id": 35943,
             "available": true,
@@ -23299,7 +23299,7 @@
             "product_id": 38321,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 261
+            "num_reviews": 262
         },
         "38322": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Purple",
@@ -24003,6 +24003,15 @@
             "rating": 4.3,
             "num_reviews": 42
         },
+        "38629": {
+            "name": "Monoprice 8K SlimRun AV Ultra High Speed HDMI Cable 50ft - AOC 48Gbps Black",
+            "price": 129.29,
+            "url": "https://www.monoprice.com/product?p_id=38629",
+            "product_id": 38629,
+            "available": true,
+            "rating": 4.3,
+            "num_reviews": 42
+        },
         "38631": {
             "name": "Monoprice 8K SlimRun AV Ultra High Speed HDMI Cable 100ft - AOC 48Gbps Black",
             "price": 139.99,
@@ -24514,7 +24523,7 @@
             "product_id": 38842,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 58
+            "num_reviews": 59
         },
         "38844": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 3A/60W, 10ft, White",
@@ -24631,7 +24640,7 @@
             "product_id": 38861,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 58
+            "num_reviews": 59
         },
         "38862": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 5A/100W, 3ft, Blue",
@@ -24680,7 +24689,7 @@
         },
         "38878": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 5A/100W, 6ft, Black, 3 Pack",
-            "price": 16.99,
+            "price": 12.74,
             "url": "https://www.monoprice.com/product?p_id=38878",
             "product_id": 38878,
             "available": true,
@@ -45219,6 +45228,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-02T22:23:17Z"
+        "timestamp": "2023-05-02T22:31:05Z"
     }
 }
