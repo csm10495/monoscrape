@@ -39184,7 +39184,7 @@
             "product_id": 5872,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1457
+            "num_reviews": 1458
         },
         "5887": {
             "name": "Monoprice USB 2.0 A Male/A Male Cable, 28/24 AWG 10ft - White",
@@ -43999,7 +43999,7 @@
             "product_id": 9435,
             "available": true,
             "rating": 5,
-            "num_reviews": 134
+            "num_reviews": 135
         },
         "9436": {
             "name": "Monoprice 5 PAIRS Of High-Quality Gold Plated Speaker Banana Plugs, Closed Screw Type",
@@ -45210,6 +45210,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-02T04:34:35Z"
+        "timestamp": "2023-05-02T04:44:13Z"
     }
 }
