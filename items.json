@@ -28328,7 +28328,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=40371",
             "product_id": 40371,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 36
         },
@@ -28619,15 +28619,6 @@
             "available": true,
             "rating": 4.9,
             "num_reviews": 230
-        },
-        "40539": {
-            "name": "Monoprice 36in SATA 6Gbps Cable with Locking Latch - Black 10-Pack",
-            "price": 10.99,
-            "url": "https://www.monoprice.com/product?p_id=40539",
-            "product_id": 40539,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 251
         },
         "40540": {
             "name": "Monoprice 36in SATA 6Gbps Cable with Locking Latch - Blue 10-Pack",
@@ -30227,7 +30218,7 @@
             "price": 129.99,
             "url": "https://www.monoprice.com/product?p_id=41484",
             "product_id": 41484,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 16
         },
@@ -30742,7 +30733,7 @@
             "product_id": 41811,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1464
         },
         "41812": {
             "name": "Monoprice Cat6 1ft Black 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -30796,7 +30787,7 @@
             "product_id": 41817,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1464
         },
         "41818": {
             "name": "Monoprice Cat6 5ft Black 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -30859,7 +30850,7 @@
             "product_id": 41840,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 56
+            "num_reviews": 57
         },
         "41841": {
             "name": "Monoprice 4in Indoor/Outdoor Weather Resistant 70V/100V/8-Ohm Pendant Speaker (Pair)",
@@ -31307,7 +31298,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=42055",
             "product_id": 42055,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 354
         },
@@ -34648,7 +34639,7 @@
             "product_id": 43347,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1464
         },
         "43348": {
             "name": "Monoprice Cat6 10ft Blue 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -34799,7 +34790,7 @@
             "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=43387",
             "product_id": 43387,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -45192,6 +45183,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-02T18:34:39Z"
+        "timestamp": "2023-05-02T18:54:39Z"
     }
 }
