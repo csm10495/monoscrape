@@ -9995,7 +9995,7 @@
             "price": 1.29,
             "url": "https://www.monoprice.com/product?p_id=2132",
             "product_id": 2132,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3040
         },
@@ -11390,7 +11390,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=2306",
             "product_id": 2306,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -11534,7 +11534,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=2323",
             "product_id": 2323,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -13381,7 +13381,7 @@
             "product_id": 2682,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1457
+            "num_reviews": 1458
         },
         "2683": {
             "name": "Monoprice 25ft High-quality Coaxial Audio/Video RCA CL2 Rated Cable - RG6/U 75ohm (for S/PDIF, Digital Coax, Subwoofer \u0026 Composite Video)",
@@ -19382,7 +19382,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=3434",
             "product_id": 3434,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -29570,7 +29570,7 @@
             "price": 1.79,
             "url": "https://www.monoprice.com/product?p_id=4113",
             "product_id": 4113,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -36988,7 +36988,7 @@
             "product_id": 4759,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 290
+            "num_reviews": 291
         },
         "476": {
             "name": "Monoprice 10ft Null Modem DB9 M/F Molded Cable",
@@ -39110,7 +39110,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=5767",
             "product_id": 5767,
-            "available": false,
+            "available": true,
             "rating": 4.2,
             "num_reviews": 369
         },
@@ -43403,7 +43403,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=8643",
             "product_id": 8643,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 2581
         },
@@ -44285,7 +44285,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=9546",
             "product_id": 9546,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 183
         },
@@ -44465,7 +44465,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=9769",
             "product_id": 9769,
-            "available": true,
+            "available": false,
             "rating": 4,
             "num_reviews": 397
         },
@@ -44494,7 +44494,7 @@
             "product_id": 9787,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1464
         },
         "9788": {
             "name": "Monoprice Cat6 75ft Black Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -44674,7 +44674,7 @@
             "product_id": 9807,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1464
         },
         "9808": {
             "name": "Monoprice Cat6 10ft Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -45282,6 +45282,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-02T14:06:01Z"
+        "timestamp": "2023-05-02T14:22:58Z"
     }
 }
