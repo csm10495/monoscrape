@@ -30713,7 +30713,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=41769",
             "product_id": 41769,
-            "available": true,
+            "available": false,
             "rating": 4,
             "num_reviews": 26
         },
@@ -30841,7 +30841,7 @@
             "product_id": 41819,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1464
         },
         "41820": {
             "name": "Monoprice Cat6 7ft Black 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -33494,7 +33494,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=43015",
             "product_id": 43015,
-            "available": false,
+            "available": true,
             "rating": 3.5,
             "num_reviews": 10
         },
@@ -33990,15 +33990,6 @@
             "url": "https://www.monoprice.com/product?p_id=43177",
             "product_id": 43177,
             "available": true,
-            "rating": 5,
-            "num_reviews": 7
-        },
-        "43178": {
-            "name": "Monoprice Heavy Duty Power Cable - IEC 60320 C14 to IEC 60320 C15, 14AWG, 15A, SJT, 125V, White, 6ft",
-            "price": 2.25,
-            "url": "https://www.monoprice.com/product?p_id=43178",
-            "product_id": 43178,
-            "available": false,
             "rating": 5,
             "num_reviews": 7
         },
@@ -45264,6 +45255,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-02T15:54:59Z"
+        "timestamp": "2023-05-02T16:09:59Z"
     }
 }
