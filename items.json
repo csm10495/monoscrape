@@ -27842,7 +27842,7 @@
             "price": 5.39,
             "url": "https://www.monoprice.com/product?p_id=40082",
             "product_id": 40082,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -29986,7 +29986,7 @@
             "product_id": 41383,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1849
+            "num_reviews": 1851
         },
         "41384": {
             "name": "Monoprice Access Series 12AWG CL2 Rated 4-Conductor Speaker Wire, 100ft, Black",
@@ -30022,7 +30022,7 @@
             "product_id": 41387,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1849
+            "num_reviews": 1851
         },
         "41388": {
             "name": "Monoprice Access Series 16AWG CL2 Rated 4-Conductor Speaker Wire, 100ft, Black",
@@ -30085,7 +30085,7 @@
             "product_id": 41394,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1849
+            "num_reviews": 1851
         },
         "41395": {
             "name": "Monoprice Access Series 18AWG CL2 Rated 4-Conductor Speaker Wire, 1000ft, Black",
@@ -30708,15 +30708,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "41769": {
-            "name": "Non-Contact Infrared digital Thermometer with LCD Display, safe for baby, Kids and Adults",
-            "price": 5.99,
-            "url": "https://www.monoprice.com/product?p_id=41769",
-            "product_id": 41769,
-            "available": false,
-            "rating": 4,
-            "num_reviews": 26
-        },
         "41772": {
             "name": "3-Outlet SnugPlug Household Extension Cord, 16AWG, 13A/1625W, SPT-2, Black, 10ft",
             "price": 11.99,
@@ -30760,7 +30751,7 @@
             "product_id": 41810,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1464
         },
         "41811": {
             "name": "Monoprice Cat6 6in Blue 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -30787,7 +30778,7 @@
             "product_id": 41813,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1464
         },
         "41814": {
             "name": "Monoprice Cat6 2ft Black 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -30850,7 +30841,7 @@
             "product_id": 41820,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1464
         },
         "41821": {
             "name": "Monoprice Cat6 7ft Blue 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -31070,7 +31061,7 @@
         },
         "41987": {
             "name": "Monoprice USB-C Charger, 45W 1-port PD GaN Technology Flat Slim Foldable Wall Charger, Power Delivery for MacBook Pro/Air, iPad Pro, iPhone 12/11/Pro/Max/XR/XS/X, Pixel, Galaxy, and More",
-            "price": 21.99,
+            "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=41987",
             "product_id": 41987,
             "available": true,
@@ -31097,7 +31088,7 @@
         },
         "41990": {
             "name": "Monoprice USB-C Charger, 30W 1-port PD GaN Technology Foldable Wall Charger White, Power Delivery for MacBook Pro/Air, iPad Pro, iPhone 12/11/Pro/Max/XR/XS/X, Pixel, Galaxy, and More",
-            "price": 21.99,
+            "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=41990",
             "product_id": 41990,
             "available": true,
@@ -31334,7 +31325,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=42055",
             "product_id": 42055,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 354
         },
@@ -31772,7 +31763,7 @@
         },
         "42263": {
             "name": "Monoprice USB-C Charger, 20W 1-port PD GaN Technology Foldable Wall Charger White, Power Delivery for MacBook Pro/Air, iPad Pro, iPhone 12/11/Pro/Max/XR/XS/X, Pixel, Galaxy, and More",
-            "price": 18.99,
+            "price": 13.99,
             "url": "https://www.monoprice.com/product?p_id=42263",
             "product_id": 42263,
             "available": true,
@@ -31781,7 +31772,7 @@
         },
         "42264": {
             "name": "Monoprice iPhone Pro Charging Bundle - MFi Certified 1.2m (4ft) Rapid Charge Cable and 20W 1-port PD GaN Technology Foldable Wall Charger White, Power Delivery for iPad, iPhone 12/11/Pro/Max/XR/XS/X",
-            "price": 26.49,
+            "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=42264",
             "product_id": 42264,
             "available": true,
@@ -32306,7 +32297,7 @@
             "price": 1499.99,
             "url": "https://www.monoprice.com/product?p_id=42565",
             "product_id": 42565,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -32321,7 +32312,7 @@
         },
         "42588": {
             "name": "Monoprice Fiber Optic Cable Bulk - 9/125 Type, Single Mode, Duplex, 8.0mm w/o Armor or Steel Wire LSZH G657A1, 12 Strand, Black, 4000FT, Corning",
-            "price": 1599.99,
+            "price": 959.99,
             "url": "https://www.monoprice.com/product?p_id=42588",
             "product_id": 42588,
             "available": true,
@@ -32614,7 +32605,7 @@
             "product_id": 42687,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 221
+            "num_reviews": 222
         },
         "42688": {
             "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 26AWG, 15ft, Black - 5 Pack",
@@ -32864,7 +32855,7 @@
             "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=42835",
             "product_id": 42835,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 12
         },
@@ -33761,7 +33752,7 @@
         },
         "43124": {
             "name": "Indio by Monoprice Low Profile 6in Guitar Effects Pedal \u0026 Pedalboard Patch Cable 6-Pack",
-            "price": 19.99,
+            "price": 13.99,
             "url": "https://www.monoprice.com/product?p_id=43124",
             "product_id": 43124,
             "available": true,
@@ -33779,7 +33770,7 @@
         },
         "43130": {
             "name": "Monoprice 20W USB-C Fast Wall Charger",
-            "price": 10.99,
+            "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=43130",
             "product_id": 43130,
             "available": true,
@@ -34121,7 +34112,7 @@
         },
         "43200": {
             "name": "Monoprice Cornerstone Series Corner Friendly Full-Motion Articulating TV Wall Mount Bracket For TVs 32in to 70in, Max Weight 99lbs, VESA Patterns Up to 600x400, Fits Curved Screens",
-            "price": 34.99,
+            "price": 44.99,
             "url": "https://www.monoprice.com/product?p_id=43200",
             "product_id": 43200,
             "available": true,
@@ -34920,15 +34911,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "43440": {
-            "name": "Inflatable Rainbow Cloud Drink Holder Floating Beverage Salad Fruit Serving Bar Pool Float Party Accessories Summer Beach Leisure Cup Bottle Holder Water Fun Decorations Toys Kids Adults",
-            "price": 4.99,
-            "url": "https://www.monoprice.com/product?p_id=43440",
-            "product_id": 43440,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "43448": {
             "name": "Workstream by Monoprice Heavy-Duty Single-Monitor Full-Motion Adjustable Gas-Spring Desk Mount for 32~49in Monitors",
             "price": 99.99,
@@ -35066,7 +35048,7 @@
         },
         "43529": {
             "name": "Monoprice 2-Port 30W USB-C Wall Charger",
-            "price": 16.99,
+            "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=43529",
             "product_id": 43529,
             "available": false,
@@ -36214,7 +36196,7 @@
             "product_id": 44415,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1464
         },
         "44418": {
             "name": "3-Layer Folding Mobile Steel Shelving Unit",
@@ -36326,7 +36308,7 @@
         },
         "44468": {
             "name": "Monoprice 30W USB-C Fast Wall Charger",
-            "price": 14.99,
+            "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=44468",
             "product_id": 44468,
             "available": false,
@@ -45246,6 +45228,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-02T17:29:33Z"
+        "timestamp": "2023-05-02T17:35:43Z"
     }
 }
