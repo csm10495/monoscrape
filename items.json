@@ -15504,8 +15504,8 @@
             "url": "https://www.monoprice.com/product?p_id=30483",
             "product_id": 30483,
             "available": false,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 1,
+            "num_reviews": 1
         },
         "30486": {
             "name": "Monoprice Caliber In-Wall Speaker 10in Fiber 300W Subwoofer (each)",
@@ -27200,7 +27200,7 @@
         },
         "39839": {
             "name": "Monoprice Obsidian Plus Pocket USB Power Bank, White, 5,000mAh, 2-Port Up to 2.1A Output for iPhone, Android, and Galaxy Devices",
-            "price": 15.49,
+            "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=39839",
             "product_id": 39839,
             "available": true,
@@ -45228,6 +45228,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-02T23:22:08Z"
+        "timestamp": "2023-05-02T23:28:09Z"
     }
 }
