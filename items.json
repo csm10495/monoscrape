@@ -709,7 +709,7 @@
             "product_id": 11216,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1464
         },
         "11217": {
             "name": "Monoprice Cat6 6in Gray Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -1078,7 +1078,7 @@
             "product_id": 11277,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1464
         },
         "11278": {
             "name": "Monoprice Cat6 20ft Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -1672,7 +1672,7 @@
             "product_id": 11375,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1464
         },
         "11378": {
             "name": "Monoprice FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 75ft, Red",
@@ -2729,7 +2729,7 @@
         },
         "12742": {
             "name": "Monoprice Mini DisplayPort 1.1 to HDMI Adapter with Audio Support, Black",
-            "price": 8.99,
+            "price": 7.19,
             "url": "https://www.monoprice.com/product?p_id=12742",
             "product_id": 12742,
             "available": true,
@@ -4761,6 +4761,15 @@
             "rating": 4.9,
             "num_reviews": 34
         },
+        "13679": {
+            "name": "Monoprice Cat5e Ethernet Bulk Cable - Solid, 350MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 24AWG, 500ft, White (UL)",
+            "price": 44.99,
+            "url": "https://www.monoprice.com/product?p_id=13679",
+            "product_id": 13679,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 34
+        },
         "13680": {
             "name": "Monoprice Cat5e 250ft Blue CMR UL Bulk Cable, UTP, Solid, 24AWG, 350MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
             "price": 34.99,
@@ -5861,7 +5870,7 @@
         },
         "14312": {
             "name": "Monoprice Cat6 5ft Yellow Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
-            "price": 1.86,
+            "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=14312",
             "product_id": 14312,
             "available": true,
@@ -8147,7 +8156,7 @@
         },
         "15968": {
             "name": "Monoprice Cat5e RJ-45 FTP 90-Degree Shielded Keystone, 110 IDC, Black",
-            "price": 1.01,
+            "price": 0.85,
             "url": "https://www.monoprice.com/product?p_id=15968",
             "product_id": 15968,
             "available": true,
@@ -9187,7 +9196,7 @@
             "product_id": 16359,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 95
+            "num_reviews": 96
         },
         "16360": {
             "name": "Workstream by Monoprice Medium Multimedia Desktop Monitor Stand, 25.6in x 11.0in, Max Weight Capacity 80lbs, Black Tempered Glass",
@@ -9686,7 +9695,7 @@
         },
         "18801": {
             "name": "Monoprice Commercial Audio 120W 2ch Mixer Amp (No Logo)",
-            "price": 149.99,
+            "price": 134.99,
             "url": "https://www.monoprice.com/product?p_id=18801",
             "product_id": 18801,
             "available": true,
@@ -45237,6 +45246,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-02T16:54:48Z"
+        "timestamp": "2023-05-02T17:06:08Z"
     }
 }
