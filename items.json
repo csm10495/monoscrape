@@ -14711,7 +14711,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=2875",
             "product_id": 2875,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 6
         },
@@ -23623,7 +23623,7 @@
             "product_id": 3845,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1849
+            "num_reviews": 1851
         },
         "38450": {
             "name": "Monoprice Single-Mode Fiber Optic Cable - LC/LC, 9/125 Type, Duplex, Yellow, 2m",
@@ -38088,6 +38088,15 @@
             "rating": 4.9,
             "num_reviews": 93
         },
+        "5306": {
+            "name": "Monoprice Outdoor Extension Cord - NEMA 5-15P to NEMA 5-15R, 12AWG, 20A, SJTW, Black, 100ft",
+            "price": 152.49,
+            "url": "https://www.monoprice.com/product?p_id=5306",
+            "product_id": 5306,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 29
+        },
         "5308": {
             "name": "Monoprice Power Cord Splitter - NEMA 5-15P to 2x NEMA 5-15R, 16AWG, 13A/1625W, 3-Prong, Black, 1.2ft",
             "price": 5.99,
@@ -39075,6 +39084,15 @@
             "url": "https://www.monoprice.com/product?p_id=5765",
             "product_id": 5765,
             "available": false,
+            "rating": 4.2,
+            "num_reviews": 369
+        },
+        "5766": {
+            "name": "Monoprice Cable Tie 8in 40 lbs, 100 pcs/pack, Green",
+            "price": 1.79,
+            "url": "https://www.monoprice.com/product?p_id=5766",
+            "product_id": 5766,
+            "available": true,
             "rating": 4.2,
             "num_reviews": 369
         },
@@ -40199,7 +40217,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=6449",
             "product_id": 6449,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 59
         },
@@ -40901,7 +40919,7 @@
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=6877",
             "product_id": 6877,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 97
         },
@@ -44125,7 +44143,7 @@
             "product_id": 9446,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 210
+            "num_reviews": 211
         },
         "9447": {
             "name": "Monoprice 3ft Premier Series 1/4-inch (TS) Right Angle Male to Right Angle Male 16AWG Audio Cable (Gold Plated)",
@@ -44629,7 +44647,7 @@
             "product_id": 9805,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1464
         },
         "9806": {
             "name": "Monoprice Cat6 5ft Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -44656,7 +44674,7 @@
             "product_id": 9808,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1464
         },
         "9809": {
             "name": "Monoprice Cat6 10ft Gray Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -44819,6 +44837,15 @@
             "available": true,
             "rating": 4.9,
             "num_reviews": 1463
+        },
+        "9829": {
+            "name": "Monoprice Cat6 100ft Red Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
+            "price": 7.79,
+            "url": "https://www.monoprice.com/product?p_id=9829",
+            "product_id": 9829,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 1460
         },
         "9830": {
             "name": "Monoprice Cat6 2ft Red Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -45246,6 +45273,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-02T13:03:01Z"
+        "timestamp": "2023-05-02T13:20:25Z"
     }
 }
