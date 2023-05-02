@@ -10265,7 +10265,7 @@
             "price": 39.54,
             "url": "https://www.monoprice.com/product?p_id=21548",
             "product_id": 21548,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 29
         },
@@ -11963,7 +11963,7 @@
         },
         "24215": {
             "name": "Monoprice Commercial Audio Metro 30W 8-inch Coax Ceiling Speaker 70V Pair (No Logo)",
-            "price": 56.69,
+            "price": 48.99,
             "url": "https://www.monoprice.com/product?p_id=24215",
             "product_id": 24215,
             "available": true,
@@ -12470,7 +12470,7 @@
             "price": 9.49,
             "url": "https://www.monoprice.com/product?p_id=24368",
             "product_id": 24368,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 495
         },
@@ -12506,7 +12506,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=24376",
             "product_id": 24376,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 495
         },
@@ -12974,7 +12974,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=24721",
             "product_id": 24721,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 39
         },
@@ -13847,7 +13847,7 @@
             "price": 5.49,
             "url": "https://www.monoprice.com/product?p_id=27492",
             "product_id": 27492,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 67
         },
@@ -45246,6 +45246,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-02T17:06:08Z"
+        "timestamp": "2023-05-02T17:22:19Z"
     }
 }
