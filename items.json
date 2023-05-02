@@ -16205,7 +16205,7 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=31037",
             "product_id": 31037,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 15
         },
@@ -17762,7 +17762,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=33658",
             "product_id": 33658,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 7
         },
@@ -17978,7 +17978,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=33724",
             "product_id": 33724,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -18041,7 +18041,7 @@
             "price": 4.59,
             "url": "https://www.monoprice.com/product?p_id=33741",
             "product_id": 33741,
-            "available": false,
+            "available": true,
             "rating": 3.6,
             "num_reviews": 5
         },
@@ -18977,7 +18977,7 @@
             "price": 33.29,
             "url": "https://www.monoprice.com/product?p_id=34212",
             "product_id": 34212,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 1707
         },
@@ -18986,7 +18986,7 @@
             "price": 1.79,
             "url": "https://www.monoprice.com/product?p_id=34213",
             "product_id": 34213,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 76
         },
@@ -20867,7 +20867,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=35112",
             "product_id": 35112,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 7
         },
@@ -21065,7 +21065,7 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=35322",
             "product_id": 35322,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 33
         },
@@ -21776,7 +21776,7 @@
             "price": 7.64,
             "url": "https://www.monoprice.com/product?p_id=36212",
             "product_id": 36212,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 15
         },
@@ -24665,7 +24665,7 @@
             "price": 4.19,
             "url": "https://www.monoprice.com/product?p_id=38866",
             "product_id": 38866,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 58
         },
@@ -24703,7 +24703,7 @@
             "product_id": 38879,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 58
+            "num_reviews": 59
         },
         "38885": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-C Charge \u0026 Sync Nylon-Braid Cable, 6ft, Black",
@@ -24773,7 +24773,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=38893",
             "product_id": 38893,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 21
         },
@@ -25430,7 +25430,7 @@
             "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=39162",
             "product_id": 39162,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 55
         },
@@ -25685,6 +25685,15 @@
             "available": true,
             "rating": 3.4,
             "num_reviews": 5
+        },
+        "39305": {
+            "name": "Monoprice Above Fireplace Pull-Down Full-Motion Articulating TV Wall Mount with Floating Soundbar Mount For TVs 42in ~ 65in, Max Weight 62 lbs, VESA Patterns Up to 600x500, Rotating, Height Adjustable",
+            "price": 33.99,
+            "url": "https://www.monoprice.com/product?p_id=39305",
+            "product_id": 39305,
+            "available": true,
+            "rating": 4.3,
+            "num_reviews": 27
         },
         "39324": {
             "name": "Dark Matter by Monoprice Launch Gaming Mouse Pad - Premium Cloth, Stitched Edges, 450x400mm",
@@ -45228,6 +45237,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-02T11:54:51Z"
+        "timestamp": "2023-05-02T12:13:58Z"
     }
 }
