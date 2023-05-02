@@ -16022,7 +16022,7 @@
         },
         "30905": {
             "name": "Monoprice Gas-Lift Height Adjustable Sit-Stand Mobile Rolling Workstation Laptop and Computer Desk V2",
-            "price": 149.99,
+            "price": 142.49,
             "url": "https://www.monoprice.com/product?p_id=30905",
             "product_id": 30905,
             "available": true,
@@ -16178,7 +16178,7 @@
             "price": 249.99,
             "url": "https://www.monoprice.com/product?p_id=31034",
             "product_id": 31034,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 21
         },
@@ -17177,7 +17177,7 @@
             "price": 54.99,
             "url": "https://www.monoprice.com/product?p_id=33269",
             "product_id": 33269,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 522
         },
@@ -17186,7 +17186,7 @@
             "price": 54.99,
             "url": "https://www.monoprice.com/product?p_id=33270",
             "product_id": 33270,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 522
         },
@@ -19121,7 +19121,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=34248",
             "product_id": 34248,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 76
         },
@@ -20149,7 +20149,7 @@
             "product_id": 34774,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1464
         },
         "34775": {
             "name": "FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 10m, White, 5 pack",
@@ -20185,7 +20185,7 @@
             "product_id": 34780,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1464
         },
         "34782": {
             "name": "SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, S/STP, Pure Bare Copper Wire, 36AWG, 0.5m, Black, 5 pack",
@@ -20252,7 +20252,7 @@
         },
         "34801": {
             "name": "SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, S/STP, Pure Bare Copper Wire, 36AWG, 7m, Blue, 5 pack",
-            "price": 37.1,
+            "price": 37.11,
             "url": "https://www.monoprice.com/product?p_id=34801",
             "product_id": 34801,
             "available": true,
@@ -21056,7 +21056,7 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=35322",
             "product_id": 35322,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 33
         },
@@ -21236,7 +21236,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=35534",
             "product_id": 35534,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -21245,7 +21245,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=35535",
             "product_id": 35535,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -22883,7 +22883,7 @@
             "price": 25.74,
             "url": "https://www.monoprice.com/product?p_id=38164",
             "product_id": 38164,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -24568,7 +24568,7 @@
             "product_id": 38849,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 58
+            "num_reviews": 59
         },
         "38850": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 3A/60W, 3ft, Red",
@@ -25787,7 +25787,7 @@
         },
         "39391": {
             "name": "15-Piece Electrical Training Tool Kit",
-            "price": 36.74,
+            "price": 41.64,
             "url": "https://www.monoprice.com/product?p_id=39391",
             "product_id": 39391,
             "available": true,
@@ -26087,7 +26087,7 @@
             "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=39499",
             "product_id": 39499,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 6
         },
@@ -45246,6 +45246,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-02T17:22:19Z"
+        "timestamp": "2023-05-02T17:29:33Z"
     }
 }
