@@ -25027,7 +25027,7 @@
             "product_id": 3896,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 426
+            "num_reviews": 427
         },
         "38965": {
             "name": "Monolith by Monoprice Liquid Spark DAC by Alex Cavalli (AKM4493)",
@@ -28379,7 +28379,7 @@
         },
         "4038": {
             "name": "Monoprice Access Series 12AWG CL2 Rated 4-Conductor Speaker Wire, 250ft, White",
-            "price": 212.65,
+            "price": 159.49,
             "url": "https://www.monoprice.com/product?p_id=4038",
             "product_id": 4038,
             "available": true,
@@ -40451,7 +40451,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=6539",
             "product_id": 6539,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 89
         },
@@ -44575,7 +44575,7 @@
             "product_id": 9802,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1464
         },
         "9803": {
             "name": "Monoprice Cat6 100ft Gray Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -45061,7 +45061,7 @@
             "product_id": 9863,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1464
         },
         "9864": {
             "name": "Monoprice Cat6 2ft Green Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -45228,6 +45228,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-02T22:44:35Z"
+        "timestamp": "2023-05-02T22:54:31Z"
     }
 }
