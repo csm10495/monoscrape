@@ -20318,7 +20318,7 @@
             "price": 15.74,
             "url": "https://www.monoprice.com/product?p_id=34806",
             "product_id": 34806,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 67
         },
@@ -21429,15 +21429,6 @@
             "rating": 3.8,
             "num_reviews": 8
         },
-        "35799": {
-            "name": "Stage Right by Monoprice On Tour Cables - XLR Male to 1/8in TRS Male Connector, 24AWG, Black, 6ft",
-            "price": 5.99,
-            "url": "https://www.monoprice.com/product?p_id=35799",
-            "product_id": 35799,
-            "available": false,
-            "rating": 3.8,
-            "num_reviews": 8
-        },
         "35802": {
             "name": "Stage Right by Monoprice On Tour Cables - XLR Female to 1/8in TRS Male Connector, 24AWG, Black, 3ft",
             "price": 2.99,
@@ -21992,7 +21983,7 @@
             "price": 119.99,
             "url": "https://www.monoprice.com/product?p_id=36375",
             "product_id": 36375,
-            "available": false,
+            "available": true,
             "rating": 4.2,
             "num_reviews": 19
         },
@@ -22803,8 +22794,8 @@
             "url": "https://www.monoprice.com/product?p_id=38129",
             "product_id": 38129,
             "available": false,
-            "rating": 3.4,
-            "num_reviews": 16
+            "rating": 3.6,
+            "num_reviews": 15
         },
         "38134": {
             "name": "Monoprice Qi Certified Dual Device Fast Wireless Charging Pad, 7.5W/10W Output, White",
@@ -24694,7 +24685,7 @@
             "product_id": 38878,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 58
+            "num_reviews": 59
         },
         "38879": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 5A/100W, 3ft, White, 3 Pack",
@@ -26510,7 +26501,7 @@
             "price": 78.99,
             "url": "https://www.monoprice.com/product?p_id=39556",
             "product_id": 39556,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 13603
         },
@@ -27464,7 +27455,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=39923",
             "product_id": 39923,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1586
         },
@@ -45219,6 +45210,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-02T21:06:29Z"
+        "timestamp": "2023-05-02T21:21:07Z"
     }
 }
