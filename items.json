@@ -16124,7 +16124,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=31017",
             "product_id": 31017,
-            "available": false,
+            "available": true,
             "rating": 4.2,
             "num_reviews": 17
         },
@@ -17159,7 +17159,7 @@
             "price": 60.99,
             "url": "https://www.monoprice.com/product?p_id=33257",
             "product_id": 33257,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 522
         },
@@ -20435,7 +20435,7 @@
             "price": 31.99,
             "url": "https://www.monoprice.com/product?p_id=34831",
             "product_id": 34831,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 10
         },
@@ -23272,7 +23272,7 @@
             "product_id": 38314,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 261
+            "num_reviews": 262
         },
         "38315": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, White",
@@ -25439,7 +25439,7 @@
             "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=39162",
             "product_id": 39162,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 55
         },
@@ -45282,6 +45282,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-02T14:37:03Z"
+        "timestamp": "2023-05-02T14:44:30Z"
     }
 }
