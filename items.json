@@ -14281,7 +14281,7 @@
             "product_id": 2790,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1537
+            "num_reviews": 1538
         },
         "27906": {
             "name": "Monoprice Essentials USB Type-C to Type-C 2.0 Cable - 480Mbps, 5A, 30/26AWG, White, 4m (13.1 ft)",
@@ -14641,7 +14641,7 @@
             "product_id": 2865,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 1298
+            "num_reviews": 1299
         },
         "2866": {
             "name": "Monoprice 25ft Premium 2 RCA Plug/2 RCA Plug M/M 22AWG Cable - Black",
@@ -15190,7 +15190,7 @@
             "product_id": 2982,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 537
+            "num_reviews": 538
         },
         "3005": {
             "name": "Monoprice Tilt TV Wall Mount Bracket, For TVs 13in to 27in, Max Weight 66lbs, VESA Patterns Up to 100x100, Works with Concrete and Brick",
@@ -15244,7 +15244,7 @@
             "product_id": 3030,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 949
+            "num_reviews": 950
         },
         "3031": {
             "name": "Monoprice 6ft RG6 (18AWG) 75Ohm, Quad Shield, CL2 Coaxial Cable with F Type Connector - Black",
@@ -15316,7 +15316,7 @@
             "product_id": 3035,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 949
+            "num_reviews": 950
         },
         "30359": {
             "name": "Monoprice Commercial Series Mobile Tripod Tilt TV Wall Mount Bracket Stand - For LED TVs 32in to 55in, Max Weight 77 lbs., VESA Patterns up to 400x400",
@@ -28366,7 +28366,7 @@
             "product_id": 4039,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1849
+            "num_reviews": 1851
         },
         "40394": {
             "name": "Pure Outdoor by Monoprice Emperor 50 Rotomolded Portable Wheeled Cooler 13.2 Gal, White",
@@ -38167,7 +38167,7 @@
             "product_id": 5360,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 949
+            "num_reviews": 950
         },
         "5361": {
             "name": "Monoprice 1.5ft SVGA Super VGA M/M Monitor Cable with Ferrites (Gold Plated)",
@@ -40280,7 +40280,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=6476",
             "product_id": 6476,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 359
         },
@@ -40568,7 +40568,7 @@
             "price": 1.19,
             "url": "https://www.monoprice.com/product?p_id=659",
             "product_id": 659,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 143
         },
@@ -45210,6 +45210,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-02T03:06:53Z"
+        "timestamp": "2023-05-02T03:24:01Z"
     }
 }
