@@ -16785,15 +16785,6 @@
             "rating": 4.9,
             "num_reviews": 231
         },
-        "31380": {
-            "name": "Monoprice Entegrade Series Cat7 Double Shielded (S/FTP) Ethernet Patch Cable - Snagless RJ45, 600MHz, 10G, 26AWG, 100ft, Red",
-            "price": 39.99,
-            "url": "https://www.monoprice.com/product?p_id=31380",
-            "product_id": 31380,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 231
-        },
         "31384": {
             "name": "Monoprice Entegrade Series Cat7 Double Shielded (S/FTP) Ethernet Patch Cable - Snagless RJ45, 600MHz, 10G, 26AWG, 100ft, Purple",
             "price": 35.08,
@@ -16997,7 +16988,7 @@
             "price": 28.99,
             "url": "https://www.monoprice.com/product?p_id=33199",
             "product_id": 33199,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 522
         },
@@ -17744,7 +17735,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=33656",
             "product_id": 33656,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 7
         },
@@ -18509,7 +18500,7 @@
             "price": 44.99,
             "url": "https://www.monoprice.com/product?p_id=33897",
             "product_id": 33897,
-            "available": false,
+            "available": true,
             "rating": 2,
             "num_reviews": 1
         },
@@ -20768,7 +20759,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=35062",
             "product_id": 35062,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 1
         },
@@ -21580,7 +21571,7 @@
             "product_id": 36045,
             "available": true,
             "rating": 3.7,
-            "num_reviews": 17
+            "num_reviews": 18
         },
         "36058": {
             "name": "Monoprice MP Voxel 3D Printer, Fully Enclosed, Assisted Level, Easy Wi-Fi, Touch Screen, 8GB On-Board Memory [Polar 3D]",
@@ -45273,6 +45264,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-02T15:45:14Z"
+        "timestamp": "2023-05-02T15:54:59Z"
     }
 }
