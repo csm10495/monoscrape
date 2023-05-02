@@ -4109,7 +4109,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=13509",
             "product_id": 13509,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -4862,7 +4862,7 @@
         },
         "13710": {
             "name": "Monoprice Nimbus Series 12AWG 2-Conductor CMP-Rated Speaker Wire, 500ft",
-            "price": 218.61,
+            "price": 247.77,
             "url": "https://www.monoprice.com/product?p_id=13710",
             "product_id": 13710,
             "available": true,
@@ -45219,6 +45219,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-02T21:55:07Z"
+        "timestamp": "2023-05-02T22:06:14Z"
     }
 }
