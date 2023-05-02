@@ -718,7 +718,7 @@
             "product_id": 11217,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1464
         },
         "11219": {
             "name": "Monoprice Cat6 6in Purple Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -1438,7 +1438,7 @@
             "product_id": 11337,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1464
         },
         "11338": {
             "name": "Monoprice Cat6 3ft Yellow Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -1769,7 +1769,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=11390",
             "product_id": 11390,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 461
         },
@@ -1780,7 +1780,7 @@
             "product_id": 11391,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1464
         },
         "11392": {
             "name": "Monoprice Cat6 7ft White Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -4262,7 +4262,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=13531",
             "product_id": 13531,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -4298,7 +4298,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=13535",
             "product_id": 13535,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -4370,7 +4370,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=13542",
             "product_id": 13542,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -4397,7 +4397,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=13545",
             "product_id": 13545,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -5468,7 +5468,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=13920",
             "product_id": 13920,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 661
         },
@@ -45282,6 +45282,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-02T14:22:58Z"
+        "timestamp": "2023-05-02T14:31:10Z"
     }
 }
