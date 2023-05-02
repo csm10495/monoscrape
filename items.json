@@ -28346,7 +28346,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=40371",
             "product_id": 40371,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 36
         },
@@ -30839,7 +30839,7 @@
             "price": 27.99,
             "url": "https://www.monoprice.com/product?p_id=41820",
             "product_id": 41820,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1464
         },
@@ -32855,7 +32855,7 @@
             "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=42835",
             "product_id": 42835,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 12
         },
@@ -33050,7 +33050,7 @@
         },
         "42898": {
             "name": "Folding Camping Table Chair Set, Aluminum Suitcase Portable Camping Picnic Table with 4 Seats,Umbrella Hole for Party, BBQ, Beach(Silver)",
-            "price": 62.99,
+            "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=42898",
             "product_id": 42898,
             "available": true,
@@ -35900,6 +35900,15 @@
             "available": true,
             "rating": 4.7,
             "num_reviews": 7
+        },
+        "44293": {
+            "name": "VIVO Universal LED Computer Monitor Light Bar, USB Powered Screen Lamp for Home Office, 5 Level Adjustable Brightness and Temperature Reading Light, Black, Desk-LTSB1",
+            "price": 29.99,
+            "url": "https://www.monoprice.com/product?p_id=44293",
+            "product_id": 44293,
+            "available": false,
+            "rating": 4,
+            "num_reviews": 1
         },
         "443": {
             "name": "Monoprice 10ft DB 9 M/F Molded Cable",
@@ -45210,6 +45219,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-02T21:21:07Z"
+        "timestamp": "2023-05-02T21:35:04Z"
     }
 }
