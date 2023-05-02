@@ -17246,7 +17246,7 @@
         },
         "33305": {
             "name": "Monolith by Monoprice Liquid Platinum Balanced Headphone Amplifier by Alex Cavalli",
-            "price": 799.99,
+            "price": 479.99,
             "url": "https://www.monoprice.com/product?p_id=33305",
             "product_id": 33305,
             "available": true,
@@ -17655,6 +17655,15 @@
             "url": "https://www.monoprice.com/product?p_id=33618",
             "product_id": 33618,
             "available": false,
+            "rating": 4.9,
+            "num_reviews": 59
+        },
+        "33619": {
+            "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 18AWG, 10A/1250W, 3-Prong, SJT, Green, 6ft",
+            "price": 3.99,
+            "url": "https://www.monoprice.com/product?p_id=33619",
+            "product_id": 33619,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 59
         },
@@ -19130,7 +19139,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=34248",
             "product_id": 34248,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 76
         },
@@ -19712,7 +19721,7 @@
         },
         "34517": {
             "name": "Décor Insert for Keystone, 4 Hole, Black",
-            "price": 0.79,
+            "price": 0.47,
             "url": "https://www.monoprice.com/product?p_id=34517",
             "product_id": 34517,
             "available": true,
@@ -20876,7 +20885,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=35113",
             "product_id": 35113,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 7
         },
@@ -24568,7 +24577,7 @@
             "product_id": 38848,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 58
+            "num_reviews": 59
         },
         "38849": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 3A/60W, 1.5ft, Red",
@@ -24755,7 +24764,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=38891",
             "product_id": 38891,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 21
         },
@@ -45273,6 +45282,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-02T13:36:24Z"
+        "timestamp": "2023-05-02T13:44:34Z"
     }
 }
