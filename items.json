@@ -15455,7 +15455,7 @@
         },
         "30483": {
             "name": "Pure Outdoor by Monoprice Stackable Rotomolded Weatherproof Case, 32 x 18 x 13 in",
-            "price": 191.99,
+            "price": 319.99,
             "url": "https://www.monoprice.com/product?p_id=30483",
             "product_id": 30483,
             "available": false,
@@ -21089,7 +21089,7 @@
         },
         "35377": {
             "name": "Monoprice Height Adjustable Single Motor Back to Basics Electric Sit-Stand Desk Frame, Black",
-            "price": 199.99,
+            "price": 149.99,
             "url": "https://www.monoprice.com/product?p_id=35377",
             "product_id": 35377,
             "available": true,
@@ -26741,7 +26741,7 @@
         },
         "39650": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C Charge \u0026 Sync Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 10ft, Blue",
-            "price": 7.19,
+            "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=39650",
             "product_id": 39650,
             "available": false,
@@ -38028,6 +38028,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-02T07:53:59Z"
+        "timestamp": "2023-05-02T08:27:06Z"
     }
 }
