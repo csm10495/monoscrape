@@ -28004,7 +28004,7 @@
             "price": 5.61,
             "url": "https://www.monoprice.com/product?p_id=40119",
             "product_id": 40119,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 8
         },
@@ -28355,7 +28355,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=40371",
             "product_id": 40371,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 36
         },
@@ -28643,7 +28643,7 @@
             "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=40531",
             "product_id": 40531,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 230
         },
@@ -29453,7 +29453,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=41086",
             "product_id": 41086,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -29597,7 +29597,7 @@
             "price": 9.29,
             "url": "https://www.monoprice.com/product?p_id=41218",
             "product_id": 41218,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 56
         },
@@ -30013,7 +30013,7 @@
             "product_id": 41385,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1849
+            "num_reviews": 1851
         },
         "41386": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 4-Conductor Speaker Wire, 100ft, Black",
@@ -30722,7 +30722,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=41769",
             "product_id": 41769,
-            "available": false,
+            "available": true,
             "rating": 4,
             "num_reviews": 26
         },
@@ -31271,7 +31271,7 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=42029",
             "product_id": 42029,
-            "available": false,
+            "available": true,
             "rating": 3.7,
             "num_reviews": 11
         },
@@ -32189,7 +32189,7 @@
             "price": 17.99,
             "url": "https://www.monoprice.com/product?p_id=42531",
             "product_id": 42531,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 262
         },
@@ -32245,7 +32245,7 @@
             "product_id": 42537,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 393
+            "num_reviews": 395
         },
         "42538": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft/3ft/6ft, Red - 3 Pack",
@@ -32524,7 +32524,7 @@
             "product_id": 42676,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 126
+            "num_reviews": 128
         },
         "42677": {
             "name": "Monoprice 8K Certified Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 30AWG, 3ft, Black - 5 Pack",
@@ -32891,7 +32891,7 @@
             "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=42837",
             "product_id": 42837,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 12
         },
@@ -33908,7 +33908,7 @@
             "price": 111.98,
             "url": "https://www.monoprice.com/product?p_id=43158",
             "product_id": 43158,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 1
         },
@@ -34007,7 +34007,7 @@
             "price": 2.25,
             "url": "https://www.monoprice.com/product?p_id=43178",
             "product_id": 43178,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 7
         },
@@ -34133,7 +34133,7 @@
             "price": 33.99,
             "url": "https://www.monoprice.com/product?p_id=43199",
             "product_id": 43199,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 1
         },
@@ -34151,7 +34151,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=43202",
             "product_id": 43202,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -34322,7 +34322,7 @@
             "price": 98.99,
             "url": "https://www.monoprice.com/product?p_id=43224",
             "product_id": 43224,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 268
         },
@@ -35240,7 +35240,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=43588",
             "product_id": 43588,
-            "available": false,
+            "available": true,
             "rating": 1,
             "num_reviews": 1
         },
@@ -35951,7 +35951,7 @@
             "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=44315",
             "product_id": 44315,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 1
         },
@@ -36428,7 +36428,7 @@
             "price": 299.99,
             "url": "https://www.monoprice.com/product?p_id=44492",
             "product_id": 44492,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -36626,6 +36626,15 @@
             "price": 1499.99,
             "url": "https://www.monoprice.com/product?p_id=44574",
             "product_id": 44574,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "44575": {
+            "name": "Monolith by Monoprice M-12 V2 12in THX Certified Ultra 500-Watt Powered Subwoofer, Piano Black Finish (Open Box)",
+            "price": 949.99,
+            "url": "https://www.monoprice.com/product?p_id=44575",
+            "product_id": 44575,
             "available": true,
             "rating": 0,
             "num_reviews": 0
@@ -45237,6 +45246,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-02T12:13:58Z"
+        "timestamp": "2023-05-02T12:43:55Z"
     }
 }
