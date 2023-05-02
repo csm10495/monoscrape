@@ -35979,8 +35979,8 @@
             "url": "https://www.monoprice.com/product?p_id=44321",
             "product_id": 44321,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 5,
+            "num_reviews": 1
         },
         "44322": {
             "name": "Monoprice Outdoor Extension Cord - NEMA 5-15P to NEMA 5-15R, 14AWG, 15A, SJTW, Yellow, 100ft",
@@ -45210,6 +45210,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-02T05:30:03Z"
+        "timestamp": "2023-05-02T05:36:03Z"
     }
 }
