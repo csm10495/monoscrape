@@ -28843,7 +28843,7 @@
             "product_id": 40778,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 20
+            "num_reviews": 21
         },
         "40782": {
             "name": "DisplayPort 1.4 EasyPlug Nylon Braided Cable, 3ft, Gray",
@@ -29941,7 +29941,7 @@
             "product_id": 41376,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1850
+            "num_reviews": 1851
         },
         "41377": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 2-Conductor Speaker Wire, 250ft, Black",
@@ -30794,7 +30794,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=41812",
             "product_id": 41812,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1460
         },
@@ -45282,6 +45282,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-02T14:44:30Z"
+        "timestamp": "2023-05-02T14:54:35Z"
     }
 }
