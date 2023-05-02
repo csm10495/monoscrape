@@ -8440,7 +8440,7 @@
             "product_id": 16117,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1705
+            "num_reviews": 1707
         },
         "16118": {
             "name": "Monoprice 4K Certified Premium High Speed HDMI Cable 6ft - 18Gbps White",
@@ -9601,7 +9601,7 @@
             "product_id": 18676,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 118
+            "num_reviews": 119
         },
         "18677": {
             "name": "Stage Right by Monoprice 50ft XLR Male to XLR Female 16AWG Microphone Cable w/ Gold Plated Connectors",
@@ -45210,6 +45210,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-02T04:44:13Z"
+        "timestamp": "2023-05-02T04:54:12Z"
     }
 }
