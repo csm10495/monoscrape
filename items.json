@@ -16486,7 +16486,7 @@
             "product_id": 31199,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 261
+            "num_reviews": 262
         },
         "31200": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Red",
@@ -17260,7 +17260,7 @@
             "product_id": 33305,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 38
+            "num_reviews": 39
         },
         "33306": {
             "name": "Monolith by Monoprice 9-Channel (3x200 Watts + 6x100 Watts) Multi-Channel Home Theater Power Amplifier with XLR Inputs",
@@ -20948,7 +20948,7 @@
             "price": 89.99,
             "url": "https://www.monoprice.com/product?p_id=35124",
             "product_id": 35124,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 59
         },
@@ -23432,6 +23432,15 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=38354",
             "product_id": 38354,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 3
+        },
+        "38355": {
+            "name": "Monoprice OM4 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 3m",
+            "price": 2.29,
+            "url": "https://www.monoprice.com/product?p_id=38355",
+            "product_id": 38355,
             "available": true,
             "rating": 4.7,
             "num_reviews": 3
@@ -45201,6 +45210,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-02T19:46:53Z"
+        "timestamp": "2023-05-02T19:56:35Z"
     }
 }
