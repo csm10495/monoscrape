@@ -10289,7 +10289,7 @@
         },
         "21548": {
             "name": "Monoprice Origin Series 16AWG 2-Conductor Burial Rated Speaker Wire, 250ft Gray",
-            "price": 39.54,
+            "price": 48.02,
             "url": "https://www.monoprice.com/product?p_id=21548",
             "product_id": 21548,
             "available": true,
@@ -10640,7 +10640,7 @@
         },
         "21664": {
             "name": "Monoprice RG-6 Quad Universal F-Connector, 25 Pack",
-            "price": 27.99,
+            "price": 20.99,
             "url": "https://www.monoprice.com/product?p_id=21664",
             "product_id": 21664,
             "available": true,
@@ -11921,7 +11921,7 @@
             "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=24196",
             "product_id": 24196,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 354
         },
@@ -14798,7 +14798,7 @@
         },
         "29407": {
             "name": "Workstream by Monoprice Triple Monitor Gas Spring Mount for up to 32in Screens, Fully Adjustable Center Mount",
-            "price": 159.99,
+            "price": 135.99,
             "url": "https://www.monoprice.com/product?p_id=29407",
             "product_id": 29407,
             "available": true,
@@ -45219,6 +45219,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-02T22:06:14Z"
+        "timestamp": "2023-05-02T22:23:17Z"
     }
 }
