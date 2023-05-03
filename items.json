@@ -27612,15 +27612,6 @@
             "rating": 5,
             "num_reviews": 1
         },
-        "40049": {
-            "name": "Monoprice Power Cord - IEC 60320 C14 to IEC 60320 C19, 14AWG, 15A/1875W, SJT, 100-250V, Blue, 6ft",
-            "price": 5.39,
-            "url": "https://www.monoprice.com/product?p_id=40049",
-            "product_id": 40049,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 1
-        },
         "40052": {
             "name": "Monoprice Power Cord - IEC 60320 C14 to IEC 60320 C19, 14AWG, 15A/1875W, SJT, 100-250V, Blue, 8ft",
             "price": 7.19,
@@ -30094,7 +30085,7 @@
             "product_id": 41399,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1850
+            "num_reviews": 1851
         },
         "41400": {
             "name": "Monoprice Access Series 12AWG CL2 Rated 2-Conductor Speaker Wire, 1000ft, Black",
@@ -30524,7 +30515,7 @@
             "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=41698",
             "product_id": 41698,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 1
         },
@@ -30767,7 +30758,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=41815",
             "product_id": 41815,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1464
         },
@@ -32128,14 +32119,14 @@
             "product_id": 42529,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 261
+            "num_reviews": 262
         },
         "42530": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Red - 3 Pack",
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=42530",
             "product_id": 42530,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 261
         },
@@ -32551,7 +32542,7 @@
             "product_id": 42684,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 222
+            "num_reviews": 223
         },
         "42685": {
             "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 30AWG, 3ft, Black - 5 Pack",
@@ -45210,6 +45201,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-03T20:25:19Z"
+        "timestamp": "2023-05-03T20:29:45Z"
     }
 }
