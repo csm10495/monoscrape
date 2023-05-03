@@ -15334,7 +15334,7 @@
             "product_id": 3034,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 949
+            "num_reviews": 950
         },
         "30345": {
             "name": "Monoprice Cornerstone Series Corner Friendly Full-Motion Articulating TV Wall Mount Bracket For LED TVs 37in to 70in, Max Weight 99 lbs., VESA Patterns Up to 600x400, Rotating",
@@ -39515,7 +39515,7 @@
             "price": 15.49,
             "url": "https://www.monoprice.com/product?p_id=6017",
             "product_id": 6017,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 262
         },
@@ -40696,7 +40696,7 @@
             "product_id": 6727,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 158
+            "num_reviews": 159
         },
         "6728": {
             "name": "Monoprice Wall Plate for Keystone, 2 Hole - Ivory",
@@ -40723,7 +40723,7 @@
             "product_id": 6731,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 101
+            "num_reviews": 102
         },
         "6732": {
             "name": "Monoprice Wall Plate for Keystone, 4 Hole - Ivory",
@@ -41038,7 +41038,7 @@
             "product_id": 7013,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 398
+            "num_reviews": 399
         },
         "7028": {
             "name": "Monoprice Spiral Wrapping Bands - 30mm x 1.5m, Black",
@@ -45228,6 +45228,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-02T23:54:27Z"
+        "timestamp": "2023-05-03T00:31:48Z"
     }
 }
