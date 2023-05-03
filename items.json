@@ -1094,7 +1094,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=11278",
             "product_id": 11278,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1464
         },
@@ -2984,7 +2984,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=12844",
             "product_id": 12844,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 2056
         },
@@ -4370,7 +4370,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=13540",
             "product_id": 13540,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -8341,7 +8341,7 @@
             "product_id": 16079,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1850
+            "num_reviews": 1851
         },
         "16080": {
             "name": "Monoprice Entegrade Series Cat6 Shielded 19in 1U Patch Panel Dual Krone IDC, 24-port",
@@ -9428,7 +9428,7 @@
             "price": 199.99,
             "url": "https://www.monoprice.com/product?p_id=18608",
             "product_id": 18608,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 10
         },
@@ -45210,6 +45210,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-03T15:24:11Z"
+        "timestamp": "2023-05-03T15:30:30Z"
     }
 }
