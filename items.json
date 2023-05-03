@@ -16205,7 +16205,7 @@
             "price": 199.99,
             "url": "https://www.monoprice.com/product?p_id=31035",
             "product_id": 31035,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 19
         },
@@ -17287,7 +17287,7 @@
             "product_id": 33393,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 54
+            "num_reviews": 55
         },
         "33394": {
             "name": "Monoprice Soundstage3 120 Watt TrueWireless Stereo (TWS) Bluetooth Speaker with Qualcomm aptX Audio, White",
@@ -18986,7 +18986,7 @@
             "price": 1.79,
             "url": "https://www.monoprice.com/product?p_id=34213",
             "product_id": 34213,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 76
         },
@@ -19879,7 +19879,7 @@
             "product_id": 34599,
             "available": true,
             "rating": 3.8,
-            "num_reviews": 29
+            "num_reviews": 31
         },
         "34600": {
             "name": "Monoprice MP Rapid UV 3D Printer Resin, 500ml, Orange",
@@ -22433,7 +22433,7 @@
             "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=37883",
             "product_id": 37883,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 35
         },
@@ -24487,7 +24487,7 @@
             "product_id": 38838,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 58
+            "num_reviews": 60
         },
         "38841": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 3A/60W, 1.5ft, White",
@@ -45210,6 +45210,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-03T20:08:41Z"
+        "timestamp": "2023-05-03T20:25:19Z"
     }
 }
