@@ -2210,7 +2210,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=1203",
             "product_id": 1203,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 15
         },
@@ -23605,7 +23605,7 @@
             "product_id": 3844,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1850
+            "num_reviews": 1851
         },
         "3845": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 2-Conductor Speaker Wire, 500ft, White",
@@ -36770,7 +36770,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=446",
             "product_id": 446,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 45
         },
@@ -38176,7 +38176,7 @@
             "product_id": 5359,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 949
+            "num_reviews": 950
         },
         "5360": {
             "name": "Monoprice 1.5ft RG6 (18AWG) 75Ohm, Quad Shield, CL2 Coaxial Cable with F Type Connector - White",
@@ -42802,7 +42802,7 @@
             "product_id": 8248,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 277
+            "num_reviews": 278
         },
         "8321": {
             "name": "Monoprice Button Design Noise Isolating Earbuds Headphones, Black \u0026 White",
@@ -44798,7 +44798,7 @@
             "price": 7.79,
             "url": "https://www.monoprice.com/product?p_id=9829",
             "product_id": 9829,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1464
         },
@@ -45041,7 +45041,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=9861",
             "product_id": 9861,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1464
         },
@@ -45228,6 +45228,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-03T12:59:24Z"
+        "timestamp": "2023-05-03T13:12:37Z"
     }
 }
