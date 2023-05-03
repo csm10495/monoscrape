@@ -11408,7 +11408,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=2305",
             "product_id": 2305,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -13307,7 +13307,7 @@
             "price": 5.49,
             "url": "https://www.monoprice.com/product?p_id=2626",
             "product_id": 2626,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 15
         },
@@ -13325,7 +13325,7 @@
             "price": 6.49,
             "url": "https://www.monoprice.com/product?p_id=2628",
             "product_id": 2628,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 15
         },
@@ -25070,7 +25070,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=3898",
             "product_id": 3898,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 426
         },
@@ -37571,7 +37571,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=4993",
             "product_id": 4993,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3040
         },
@@ -37706,7 +37706,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=5027",
             "product_id": 5027,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -39193,7 +39193,7 @@
             "product_id": 5871,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1457
+            "num_reviews": 1458
         },
         "5872": {
             "name": "Monoprice 100ft High-quality Coaxial Audio/Video RCA CL2 Rated Cable - RG6/U 75ohm (for S/PDIF, Digital Coax, Subwoofer \u0026 Composite Video)",
@@ -44793,15 +44793,6 @@
             "rating": 4.9,
             "num_reviews": 1463
         },
-        "9829": {
-            "name": "Monoprice Cat6 100ft Red Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
-            "price": 7.79,
-            "url": "https://www.monoprice.com/product?p_id=9829",
-            "product_id": 9829,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 1464
-        },
         "9830": {
             "name": "Monoprice Cat6 2ft Red Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
             "price": 1.79,
@@ -44969,7 +44960,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=9853",
             "product_id": 9853,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1464
         },
@@ -45228,6 +45219,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-03T14:05:37Z"
+        "timestamp": "2023-05-03T14:22:59Z"
     }
 }
