@@ -15495,8 +15495,8 @@
             "url": "https://www.monoprice.com/product?p_id=30483",
             "product_id": 30483,
             "available": false,
-            "rating": 1,
-            "num_reviews": 1
+            "rating": 0,
+            "num_reviews": 0
         },
         "30486": {
             "name": "Monoprice Caliber In-Wall Speaker 10in Fiber 300W Subwoofer (each)",
@@ -45201,6 +45201,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-03T21:05:39Z"
+        "timestamp": "2023-05-03T21:21:10Z"
     }
 }
