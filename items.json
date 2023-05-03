@@ -30283,7 +30283,7 @@
             "product_id": 41497,
             "available": false,
             "rating": 4.3,
-            "num_reviews": 12
+            "num_reviews": 13
         },
         "41498": {
             "name": "Monoprice SW-12 12\" 400 Watt RMS (600 Watt Peak) Powered Subwoofer",
@@ -30778,7 +30778,7 @@
             "product_id": 41812,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1464
         },
         "41813": {
             "name": "Monoprice Cat6 1ft Blue 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -34693,7 +34693,7 @@
             "product_id": 43349,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1464
         },
         "43351": {
             "name": "Pure Outdoor by Monoprice 50L Zippered Waterproof Dry Bag Backpack Duffel",
@@ -45228,6 +45228,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-03T02:44:10Z"
+        "timestamp": "2023-05-03T02:54:18Z"
     }
 }
