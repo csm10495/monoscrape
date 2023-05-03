@@ -28742,7 +28742,7 @@
             "price": 33.49,
             "url": "https://www.monoprice.com/product?p_id=40646",
             "product_id": 40646,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 5
         },
@@ -28762,7 +28762,7 @@
             "product_id": 40660,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 91
+            "num_reviews": 94
         },
         "40711": {
             "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam, 13\" x 12\" x 6\" (clearance)",
@@ -45210,6 +45210,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-03T23:28:08Z"
+        "timestamp": "2023-05-03T23:34:30Z"
     }
 }
