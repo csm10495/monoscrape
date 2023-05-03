@@ -16495,7 +16495,7 @@
             "product_id": 31200,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 261
+            "num_reviews": 262
         },
         "31201": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Red",
@@ -16522,7 +16522,7 @@
             "product_id": 31203,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 261
+            "num_reviews": 262
         },
         "31204": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Black",
@@ -17213,7 +17213,7 @@
             "price": 54.99,
             "url": "https://www.monoprice.com/product?p_id=33270",
             "product_id": 33270,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 522
         },
@@ -23432,7 +23432,7 @@
             "price": 2.29,
             "url": "https://www.monoprice.com/product?p_id=38355",
             "product_id": 38355,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 3
         },
@@ -24604,7 +24604,7 @@
             "product_id": 38853,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 58
+            "num_reviews": 59
         },
         "38854": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 5A/100W, 3ft, Black",
@@ -27401,7 +27401,7 @@
             "price": 3.39,
             "url": "https://www.monoprice.com/product?p_id=39917",
             "product_id": 39917,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1009
         },
@@ -45228,6 +45228,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-03T11:55:00Z"
+        "timestamp": "2023-05-03T12:13:54Z"
     }
 }
