@@ -14837,7 +14837,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=2943",
             "product_id": 2943,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 618
         },
@@ -37022,7 +37022,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=4769",
             "product_id": 4769,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 201
         },
@@ -40622,7 +40622,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=665",
             "product_id": 665,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 421
         },
@@ -41801,7 +41801,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=7397",
             "product_id": 7397,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -44890,7 +44890,7 @@
             "product_id": 9844,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1464
         },
         "9845": {
             "name": "Monoprice Cat6 10ft Purple Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -45210,6 +45210,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-03T19:36:09Z"
+        "timestamp": "2023-05-03T19:46:31Z"
     }
 }
