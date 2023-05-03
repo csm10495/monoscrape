@@ -16179,8 +16179,8 @@
             "url": "https://www.monoprice.com/product?p_id=31031",
             "product_id": 31031,
             "available": false,
-            "rating": 4.2,
-            "num_reviews": 5
+            "rating": 4.3,
+            "num_reviews": 6
         },
         "31032": {
             "name": "Monoprice Aria Ceiling Speaker 8-inch Subwoofer with Dual Voice Coil (each)",
@@ -16382,7 +16382,7 @@
         },
         "31189": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Red",
-            "price": 15.49,
+            "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=31189",
             "product_id": 31189,
             "available": true,
@@ -16436,7 +16436,7 @@
         },
         "31195": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Micro B to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Red",
-            "price": 8.99,
+            "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=31195",
             "product_id": 31195,
             "available": true,
@@ -16490,7 +16490,7 @@
         },
         "31201": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Red",
-            "price": 9.49,
+            "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=31201",
             "product_id": 31201,
             "available": true,
@@ -16976,7 +16976,7 @@
         },
         "33191": {
             "name": "Monoprice Cat6A 20ft White 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 24.99,
+            "price": 21.24,
             "url": "https://www.monoprice.com/product?p_id=33191",
             "product_id": 33191,
             "available": true,
@@ -16994,7 +16994,7 @@
         },
         "33198": {
             "name": "Monoprice Cat6A 25ft Blue 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 28.99,
+            "price": 24.64,
             "url": "https://www.monoprice.com/product?p_id=33198",
             "product_id": 33198,
             "available": true,
@@ -17057,7 +17057,7 @@
         },
         "33226": {
             "name": "Monoprice Cat6A 50ft Black 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 46.99,
+            "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=33226",
             "product_id": 33226,
             "available": true,
@@ -17066,7 +17066,7 @@
         },
         "33228": {
             "name": "Monoprice Cat6A 50ft White 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 46.99,
+            "price": 39.94,
             "url": "https://www.monoprice.com/product?p_id=33228",
             "product_id": 33228,
             "available": true,
@@ -17129,7 +17129,7 @@
         },
         "33247": {
             "name": "Monoprice Cat6A 50ft Black 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 88.49,
+            "price": 74.99,
             "url": "https://www.monoprice.com/product?p_id=33247",
             "product_id": 33247,
             "available": true,
@@ -17210,7 +17210,7 @@
         },
         "33271": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, 550MHz, UTP, Pure Bare Copper Wire, 10G, 30AWG, 25ft, Green, 10-Pack",
-            "price": 54.99,
+            "price": 45.99,
             "url": "https://www.monoprice.com/product?p_id=33271",
             "product_id": 33271,
             "available": true,
@@ -17345,7 +17345,7 @@
         },
         "33456": {
             "name": "Monoprice 2.0 USB-C to USB Type-B Printer Cable, 480 Mbps, 3.3ft, Black",
-            "price": 9.49,
+            "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=33456",
             "product_id": 33456,
             "available": true,
@@ -17570,7 +17570,7 @@
         },
         "33598": {
             "name": "Monoprice 4K High Speed HDMI Cable 25ft - 18Gbps Black",
-            "price": 28.49,
+            "price": 24.22,
             "url": "https://www.monoprice.com/product?p_id=33598",
             "product_id": 33598,
             "available": true,
@@ -17579,7 +17579,7 @@
         },
         "33599": {
             "name": "Monoprice 4K High Speed HDMI Cable 30ft - 18Gbps Black",
-            "price": 38.99,
+            "price": 33.14,
             "url": "https://www.monoprice.com/product?p_id=33599",
             "product_id": 33599,
             "available": true,
@@ -17780,7 +17780,7 @@
             "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=33662",
             "product_id": 33662,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 7
         },
@@ -18722,7 +18722,7 @@
         },
         "34181": {
             "name": "Monoprice Consul Series USB-C 5G Hub Adapter with 4-Port USB 3.0",
-            "price": 18.99,
+            "price": 16.14,
             "url": "https://www.monoprice.com/product?p_id=34181",
             "product_id": 34181,
             "available": true,
@@ -18731,7 +18731,7 @@
         },
         "34183": {
             "name": "Monoprice Consul Series USB-C HDMI Adapter with USB 3.0, USB-C 100W PD 3.0",
-            "price": 54.99,
+            "price": 46.74,
             "url": "https://www.monoprice.com/product?p_id=34183",
             "product_id": 34183,
             "available": true,
@@ -18821,7 +18821,7 @@
         },
         "34195": {
             "name": "Monoprice Commercial Series Adjustable Triple Sided Ceiling TV Mount Bracket, For LED Displays 32in to 65in, Max Weight 66lbs per Screen",
-            "price": 449.99,
+            "price": 381.99,
             "url": "https://www.monoprice.com/product?p_id=34195",
             "product_id": 34195,
             "available": true,
@@ -19487,7 +19487,7 @@
         },
         "34414": {
             "name": "8P8C RJ45 Plug with EZ Passthrough for Cat6 Ethernet Cable 100 pcs/pack",
-            "price": 35.99,
+            "price": 30.59,
             "url": "https://www.monoprice.com/product?p_id=34414",
             "product_id": 34414,
             "available": true,
@@ -19832,7 +19832,7 @@
             "price": 151.98,
             "url": "https://www.monoprice.com/product?p_id=34549",
             "product_id": 34549,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 193
         },
@@ -20054,7 +20054,7 @@
         },
         "34642": {
             "name": "Monoprice Cat6 50ft White Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 15.99,
+            "price": 13.59,
             "url": "https://www.monoprice.com/product?p_id=34642",
             "product_id": 34642,
             "available": true,
@@ -20504,7 +20504,7 @@
         },
         "34841": {
             "name": "Monoprice 4K Slim Certified Premium High Speed HDMI Cable 3m - 18Gbps Black - 2 Pack",
-            "price": 31.89,
+            "price": 27.11,
             "url": "https://www.monoprice.com/product?p_id=34841",
             "product_id": 34841,
             "available": true,
@@ -21150,6 +21150,15 @@
             "rating": 2.8,
             "num_reviews": 11
         },
+        "35425": {
+            "name": "Monoprice 48 Port Cat6A Unshielded Patch Panel, 1U, Horizontal 180 degree, Dustproof Cover, with Wire Support Bar",
+            "price": 64.99,
+            "url": "https://www.monoprice.com/product?p_id=35425",
+            "product_id": 35425,
+            "available": true,
+            "rating": 4.3,
+            "num_reviews": 4
+        },
         "35429": {
             "name": "Monoprice 24 Port Cat5e UTP Patch Panel, 1U, Toolless, Rotary Type, with Wire Support Bar",
             "price": 27.99,
@@ -21485,7 +21494,7 @@
         },
         "35914": {
             "name": "Heavy Duty 13-Port USB 3.0 Hub, With AC Adapter",
-            "price": 71.99,
+            "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=35914",
             "product_id": 35914,
             "available": true,
@@ -21674,7 +21683,7 @@
         },
         "36200": {
             "name": "Monoprice Cat6A 3ft Pink 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 10.49,
+            "price": 8.92,
             "url": "https://www.monoprice.com/product?p_id=36200",
             "product_id": 36200,
             "available": true,
@@ -21683,7 +21692,7 @@
         },
         "36201": {
             "name": "Monoprice Cat6A 5ft Pink 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 12.99,
+            "price": 11.04,
             "url": "https://www.monoprice.com/product?p_id=36201",
             "product_id": 36201,
             "available": true,
@@ -21755,7 +21764,7 @@
         },
         "36213": {
             "name": "Monoprice Cat6 20ft Black Outdoor Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Molded Snagless RJ45, Zeroboot Series Ethernet Cable",
-            "price": 11.99,
+            "price": 10.19,
             "url": "https://www.monoprice.com/product?p_id=36213",
             "product_id": 36213,
             "available": true,
@@ -21764,7 +21773,7 @@
         },
         "36214": {
             "name": "Monoprice Cat6 25ft Black Outdoor Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Molded Snagless RJ45, Zeroboot Series Ethernet Cable",
-            "price": 14.49,
+            "price": 12.32,
             "url": "https://www.monoprice.com/product?p_id=36214",
             "product_id": 36214,
             "available": true,
@@ -21773,7 +21782,7 @@
         },
         "36216": {
             "name": "Monoprice Cat6 50ft Black Outdoor Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Molded Snagless RJ45, Zeroboot Series Ethernet Cable",
-            "price": 24.99,
+            "price": 21.24,
             "url": "https://www.monoprice.com/product?p_id=36216",
             "product_id": 36216,
             "available": true,
@@ -21791,7 +21800,7 @@
         },
         "36218": {
             "name": "Monoprice Cat6 100ft Black Outdoor Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Molded Snagless RJ45, Zeroboot Series Ethernet Cable",
-            "price": 39.99,
+            "price": 33.99,
             "url": "https://www.monoprice.com/product?p_id=36218",
             "product_id": 36218,
             "available": true,
@@ -22592,7 +22601,7 @@
         },
         "38071": {
             "name": "Monoprice Premium Bluetooth 5 Transmitter and Receiver with Qualcomm aptX Audio, Qualcomm aptx HD Audio, Qualcomm aptX Low Latency Audio, AAC, and SBC Codecs, and Optical and Aux Inputs",
-            "price": 39.99,
+            "price": 33.99,
             "url": "https://www.monoprice.com/product?p_id=38071",
             "product_id": 38071,
             "available": true,
@@ -22691,7 +22700,7 @@
         },
         "38085": {
             "name": "Monoprice Onix Series - Male RCA Two Channel Stereo Audio Cable, 15ft, Black",
-            "price": 23.99,
+            "price": 20.39,
             "url": "https://www.monoprice.com/product?p_id=38085",
             "product_id": 38085,
             "available": true,
@@ -22871,7 +22880,7 @@
         },
         "38167": {
             "name": "Monoprice 300-Watt Slider Impedance Matching Volume Control with Color Kit",
-            "price": 24.99,
+            "price": 21.24,
             "url": "https://www.monoprice.com/product?p_id=38167",
             "product_id": 38167,
             "available": true,
@@ -22889,7 +22898,7 @@
         },
         "38169": {
             "name": "Monoprice 120-Watt Slider Resistance Speaker Volume Control",
-            "price": 29.99,
+            "price": 25.49,
             "url": "https://www.monoprice.com/product?p_id=38169",
             "product_id": 38169,
             "available": true,
@@ -23060,7 +23069,7 @@
         },
         "38291": {
             "name": "Monoprice EZ Series Outdoor Full Motion TV Wall Mount Bracket for LED TVs 32in to 100in, Max Weight 110 lbs., VESA Patterns 75x75 to 400x400, Waterproof, Corrosion-Resistant Finish",
-            "price": 79.99,
+            "price": 67.99,
             "url": "https://www.monoprice.com/product?p_id=38291",
             "product_id": 38291,
             "available": true,
@@ -23290,7 +23299,7 @@
             "product_id": 38323,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 261
+            "num_reviews": 262
         },
         "38324": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Micro B to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft, White",
@@ -23492,7 +23501,7 @@
         },
         "38384": {
             "name": "Monoprice USB C To Lightning Cable - 6 Feet - White ( MFI Certified ) Fast Charging, Compatible with Apple iPhone 13 / Pro / Pro Max / AirPods Pro - Select Series",
-            "price": 14.99,
+            "price": 12.74,
             "url": "https://www.monoprice.com/product?p_id=38384",
             "product_id": 38384,
             "available": true,
@@ -24487,7 +24496,7 @@
             "product_id": 38841,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 58
+            "num_reviews": 60
         },
         "38842": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 3A/60W, 3ft, White",
@@ -24707,7 +24716,7 @@
         },
         "38889": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-C Charge \u0026 Sync Nylon-Braid Cable, 6ft, White",
-            "price": 9.49,
+            "price": 8.07,
             "url": "https://www.monoprice.com/product?p_id=38889",
             "product_id": 38889,
             "available": true,
@@ -24833,7 +24842,7 @@
         },
         "38904": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-A Charge and Sync Nylon-Braid Cable, 3ft, White",
-            "price": 9.49,
+            "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=38904",
             "product_id": 38904,
             "available": true,
@@ -25931,7 +25940,7 @@
         },
         "39479": {
             "name": "Monoprice 8K Slim Ultra High Speed HDMI Cable 3ft - 48Gbps Black - 5 Pack",
-            "price": 47.99,
+            "price": 40.99,
             "url": "https://www.monoprice.com/product?p_id=39479",
             "product_id": 39479,
             "available": true,
@@ -26084,7 +26093,7 @@
         },
         "39511": {
             "name": "Monoprice 8K Ultra High Speed HDMI Cable 8ft - 48Gbps Black",
-            "price": 14.99,
+            "price": 12.74,
             "url": "https://www.monoprice.com/product?p_id=39511",
             "product_id": 39511,
             "available": true,
@@ -26111,7 +26120,7 @@
         },
         "39516": {
             "name": "Monoprice 4K No Logo High Speed HDMI Cable 1.5ft - CL2 In Wall Rated 18 Gbps Black - 3 Pack",
-            "price": 15.99,
+            "price": 13.59,
             "url": "https://www.monoprice.com/product?p_id=39516",
             "product_id": 39516,
             "available": true,
@@ -26201,7 +26210,7 @@
         },
         "39525": {
             "name": "Monoprice 4K No Logo High Speed HDMI Cable 6ft - CL2 In Wall Rated 18 Gbps Black - 5 Pack",
-            "price": 44.99,
+            "price": 38.24,
             "url": "https://www.monoprice.com/product?p_id=39525",
             "product_id": 39525,
             "available": true,
@@ -26237,7 +26246,7 @@
         },
         "39529": {
             "name": "Monoprice 4K No Logo High Speed HDMI Cable 10ft - CL2 In Wall Rated 18 Gbps Black - 5 Pack",
-            "price": 62.99,
+            "price": 53.54,
             "url": "https://www.monoprice.com/product?p_id=39529",
             "product_id": 39529,
             "available": true,
@@ -26255,7 +26264,7 @@
         },
         "39530": {
             "name": "Monoprice 4K No Logo High Speed HDMI Cable 15ft - CL2 In Wall Rated 18 Gbps Black - 3 Pack",
-            "price": 52.99,
+            "price": 45.04,
             "url": "https://www.monoprice.com/product?p_id=39530",
             "product_id": 39530,
             "available": true,
@@ -26282,7 +26291,7 @@
         },
         "39533": {
             "name": "Monoprice 1080p No Logo High Speed HDMI Cable 30ft - CL2 In Wall Rated 10.2 Gbps Black - 3 Pack",
-            "price": 82.99,
+            "price": 70.54,
             "url": "https://www.monoprice.com/product?p_id=39533",
             "product_id": 39533,
             "available": true,
@@ -26372,7 +26381,7 @@
         },
         "39545": {
             "name": "Monoprice 4K High Speed HDMI Cable 4ft - 18Gbps Black - 5 Pack",
-            "price": 33.99,
+            "price": 28.89,
             "url": "https://www.monoprice.com/product?p_id=39545",
             "product_id": 39545,
             "available": true,
@@ -26840,7 +26849,7 @@
         },
         "39662": {
             "name": "Monoprice Commercial Series 2x1 Panel Menu Board Adjustable Tilt Ceiling TV Mount for Displays Between 32in and 65in, Max Weight 66 lbs. ea., VESA Patterns up to 600x400",
-            "price": 399.99,
+            "price": 339.99,
             "url": "https://www.monoprice.com/product?p_id=39662",
             "product_id": 39662,
             "available": true,
@@ -26858,7 +26867,7 @@
         },
         "39664": {
             "name": "Monoprice Commercial Series 3x1 Panel Menu Board Ceiling TV Mount for Displays Between 32in to 65in, Max Weight 66 lbs. ea., VESA Patterns up to 600x400",
-            "price": 499.99,
+            "price": 424.99,
             "url": "https://www.monoprice.com/product?p_id=39664",
             "product_id": 39664,
             "available": true,
@@ -27227,7 +27236,7 @@
         },
         "39903": {
             "name": "Monoprice USB Type-A to Micro Type-B 2.0 Cable - 5-Pin 28/28AWG  Black 3ft , 3-Pack",
-            "price": 5.49,
+            "price": 4.67,
             "url": "https://www.monoprice.com/product?p_id=39903",
             "product_id": 39903,
             "available": true,
@@ -27245,7 +27254,7 @@
         },
         "39905": {
             "name": "Monoprice USB Type-A to Micro Type-B 2.0 Cable - 5-Pin 28/28AWG Black 6ft, 3-Pack",
-            "price": 6.49,
+            "price": 5.52,
             "url": "https://www.monoprice.com/product?p_id=39905",
             "product_id": 39905,
             "available": true,
@@ -45192,6 +45201,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-03T18:54:40Z"
+        "timestamp": "2023-05-03T19:07:04Z"
     }
 }
