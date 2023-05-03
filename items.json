@@ -29867,7 +29867,7 @@
             "price": 159.99,
             "url": "https://www.monoprice.com/product?p_id=41360",
             "product_id": 41360,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 2
         },
@@ -29950,7 +29950,7 @@
             "product_id": 41379,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1850
+            "num_reviews": 1851
         },
         "41380": {
             "name": "Monoprice Access Series 16AWG CL2 Rated 2-Conductor Speaker Wire, 250ft, Black",
@@ -31334,7 +31334,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=42055",
             "product_id": 42055,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 354
         },
@@ -34115,7 +34115,7 @@
             "price": 33.99,
             "url": "https://www.monoprice.com/product?p_id=43199",
             "product_id": 43199,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 1
         },
@@ -35915,7 +35915,7 @@
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=44293",
             "product_id": 44293,
-            "available": false,
+            "available": true,
             "rating": 4,
             "num_reviews": 1
         },
@@ -45228,6 +45228,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-03T12:13:54Z"
+        "timestamp": "2023-05-03T12:42:47Z"
     }
 }
