@@ -13311,6 +13311,15 @@
             "rating": 4.9,
             "num_reviews": 15
         },
+        "2630": {
+            "name": "Monoprice OM1 Fiber Optic Cable - LC/SC, UL, 62.5/125 Type, Multi-Mode, Orange, 10m, Corning",
+            "price": 10.49,
+            "url": "https://www.monoprice.com/product?p_id=2630",
+            "product_id": 2630,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 15
+        },
         "2661": {
             "name": "Monoprice High Speed HDMI Cable to DVI Adapter Cable 3ft - with Ferrite Cores Black",
             "price": 3.51,
@@ -37683,6 +37692,15 @@
             "rating": 4.9,
             "num_reviews": 3398
         },
+        "5031": {
+            "name": "Monoprice Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 75ft, Red",
+            "price": 11.99,
+            "url": "https://www.monoprice.com/product?p_id=5031",
+            "product_id": 5031,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 3398
+        },
         "5032": {
             "name": "Monoprice Cat6 75ft White Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 16.99,
@@ -44438,7 +44456,7 @@
             "price": 1.79,
             "url": "https://www.monoprice.com/product?p_id=9790",
             "product_id": 9790,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1464
         },
@@ -45041,7 +45059,7 @@
             "price": 1.79,
             "url": "https://www.monoprice.com/product?p_id=9865",
             "product_id": 9865,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1464
         },
@@ -45192,6 +45210,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-03T15:06:56Z"
+        "timestamp": "2023-05-03T15:24:11Z"
     }
 }
