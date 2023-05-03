@@ -6147,6 +6147,15 @@
             "rating": 4.9,
             "num_reviews": 3040
         },
+        "14760": {
+            "name": "Monoprice Cat6 Ethernet Bulk Cable - Stranded, 550MHz, UTP, CM, Pure Bare Copper Wire, 24AWG, 250ft, Black",
+            "price": 35.99,
+            "url": "https://www.monoprice.com/product?p_id=14760",
+            "product_id": 14760,
+            "available": true,
+            "rating": 4.5,
+            "num_reviews": 60
+        },
         "14767": {
             "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Black, (UL)",
             "price": 39.99,
@@ -9664,7 +9673,7 @@
             "product_id": 18679,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 118
+            "num_reviews": 119
         },
         "18734": {
             "name": "Strata Home by Monoprice Portable Induction Cooktop 1800W",
@@ -45201,6 +45210,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-03T21:44:39Z"
+        "timestamp": "2023-05-03T21:54:30Z"
     }
 }
