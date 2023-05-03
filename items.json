@@ -16027,7 +16027,7 @@
             "product_id": 30830,
             "available": true,
             "rating": 3.8,
-            "num_reviews": 29
+            "num_reviews": 31
         },
         "30832": {
             "name": "Monoprice MP Rapid UV 3D Printer Resin, 250ml, Gray",
@@ -16036,7 +16036,7 @@
             "product_id": 30832,
             "available": true,
             "rating": 3.8,
-            "num_reviews": 29
+            "num_reviews": 31
         },
         "30834": {
             "name": "Monoprice MP Rapid UV 3D Printer Resin, 250ml, Red",
@@ -20500,7 +20500,7 @@
             "product_id": 34837,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1705
+            "num_reviews": 1707
         },
         "34839": {
             "name": "Monoprice 4K Slim Certified Premium High Speed HDMI Cable 1m - 18Gbps Black - 2 Pack",
@@ -23182,7 +23182,7 @@
             "product_id": 38305,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 393
+            "num_reviews": 395
         },
         "38306": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Blue",
@@ -24008,7 +24008,7 @@
             "price": 129.29,
             "url": "https://www.monoprice.com/product?p_id=38629",
             "product_id": 38629,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 42
         },
@@ -25099,7 +25099,7 @@
             "product_id": 39000,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 4
+            "num_reviews": 5
         },
         "39019": {
             "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam, 22 x 14 x 8 in, Yellow",
@@ -45228,6 +45228,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-03T02:25:14Z"
+        "timestamp": "2023-05-03T02:44:10Z"
     }
 }
