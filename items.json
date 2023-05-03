@@ -27617,7 +27617,7 @@
             "price": 5.39,
             "url": "https://www.monoprice.com/product?p_id=40049",
             "product_id": 40049,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -28847,7 +28847,7 @@
         },
         "40788": {
             "name": "DisplayPort 1.4 EasyPlug Nylon Braided Cable, 6ft, Gray (10 Pack)",
-            "price": 104.99,
+            "price": 89.24,
             "url": "https://www.monoprice.com/product?p_id=40788",
             "product_id": 40788,
             "available": true,
@@ -28865,7 +28865,7 @@
         },
         "40790": {
             "name": "DisplayPort 1.4 EasyPlug Nylon Braided Cable, 12ft, Gray (10 Pack)",
-            "price": 99.99,
+            "price": 84.99,
             "url": "https://www.monoprice.com/product?p_id=40790",
             "product_id": 40790,
             "available": true,
@@ -29153,7 +29153,7 @@
         },
         "41018": {
             "name": "Monoprice Cat8 30ft Black Patch Cable, Double Shielded (S/FTP), 26AWG, 2GHz, 40G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
-            "price": 23.99,
+            "price": 20.39,
             "url": "https://www.monoprice.com/product?p_id=41018",
             "product_id": 41018,
             "available": true,
@@ -29234,7 +29234,7 @@
         },
         "41029": {
             "name": "Monoprice Cat8 25ft Blue Patch Cable, Double Shielded (S/FTP), 26AWG, 2GHz, 40G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
-            "price": 20.99,
+            "price": 17.84,
             "url": "https://www.monoprice.com/product?p_id=41029",
             "product_id": 41029,
             "available": true,
@@ -29324,7 +29324,7 @@
         },
         "41039": {
             "name": "Monoprice Cat6 50ft Black PoE Patch Cable, 30W, PoE+ (IEEE 802.3at), Shielded (U/FTP), 24AWG, 500MHz, Solid Pure Bare Copper, Shielded RJ45, Ethernet Cable",
-            "price": 26.99,
+            "price": 22.94,
             "url": "https://www.monoprice.com/product?p_id=41039",
             "product_id": 41039,
             "available": true,
@@ -29693,7 +29693,7 @@
         },
         "41286": {
             "name": "Monolith by Monoprice M-OW3 THX Certified LCR/Soundbar On Wall Speaker (Each)",
-            "price": 499.99,
+            "price": 424.99,
             "url": "https://www.monoprice.com/product?p_id=41286",
             "product_id": 41286,
             "available": true,
@@ -29702,7 +29702,7 @@
         },
         "41287": {
             "name": "Monolith by Monoprice M518HT THX Certified 5.1 Home Theater System",
-            "price": 799.99,
+            "price": 679.99,
             "url": "https://www.monoprice.com/product?p_id=41287",
             "product_id": 41287,
             "available": true,
@@ -29995,7 +29995,7 @@
             "product_id": 41388,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1850
+            "num_reviews": 1851
         },
         "41389": {
             "name": "Monoprice Access Series 16AWG CL2 Rated 4-Conductor Speaker Wire, 250ft, Black",
@@ -30022,7 +30022,7 @@
             "product_id": 41391,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1850
+            "num_reviews": 1851
         },
         "41392": {
             "name": "Monoprice Access Series 18AWG CL2 Rated 2-Conductor Speaker Wire, 100ft, Black",
@@ -30067,7 +30067,7 @@
             "product_id": 41396,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1850
+            "num_reviews": 1851
         },
         "41397": {
             "name": "Monoprice Access Series 16AWG CL2 Rated 4-Conductor Speaker Wire, 1000ft, Black",
@@ -30686,7 +30686,7 @@
             "price": 9.59,
             "url": "https://www.monoprice.com/product?p_id=41777",
             "product_id": 41777,
-            "available": true,
+            "available": false,
             "rating": 4,
             "num_reviews": 1
         },
@@ -30773,7 +30773,7 @@
         },
         "41816": {
             "name": "Monoprice Cat6 3ft Black 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
-            "price": 20.99,
+            "price": 17.84,
             "url": "https://www.monoprice.com/product?p_id=41816",
             "product_id": 41816,
             "available": true,
@@ -30782,7 +30782,7 @@
         },
         "41817": {
             "name": "Monoprice Cat6 3ft Blue 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
-            "price": 19.99,
+            "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=41817",
             "product_id": 41817,
             "available": true,
@@ -30926,7 +30926,7 @@
         },
         "41941": {
             "name": "Monoprice Flat USB Type-C to Type-A 3.2 Gen1 Charge and Sync Cable, 5Gbps, 3A, Black, 6ft",
-            "price": 14.49,
+            "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=41941",
             "product_id": 41941,
             "available": true,
@@ -30944,7 +30944,7 @@
         },
         "41943": {
             "name": "Monoprice Flat USB Type-C to Type-C 3.2 Gen1 Charge and Sync Cable, 5Gbps, 3A, Black, 6ft, 10 Pack",
-            "price": 89.49,
+            "price": 76.07,
             "url": "https://www.monoprice.com/product?p_id=41943",
             "product_id": 41943,
             "available": true,
@@ -30980,7 +30980,7 @@
         },
         "41947": {
             "name": "Office ergonomic Mesh Chair High Back Seat with Adjustable Back",
-            "price": 36.99,
+            "price": 31.44,
             "url": "https://www.monoprice.com/product?p_id=41947",
             "product_id": 41947,
             "available": true,
@@ -31592,7 +31592,7 @@
         },
         "42153": {
             "name": "Flat Adhesive Super Slim Speaker Wire - Two 16AWG Conductors, 25ft",
-            "price": 20.99,
+            "price": 17.84,
             "url": "https://www.monoprice.com/product?p_id=42153",
             "product_id": 42153,
             "available": true,
@@ -31628,7 +31628,7 @@
         },
         "42157": {
             "name": "Flat Adhesive Super Slim Micro Speaker Wire - Four 18AWG Conductors, 25ft",
-            "price": 31.49,
+            "price": 26.77,
             "url": "https://www.monoprice.com/product?p_id=42157",
             "product_id": 42157,
             "available": true,
@@ -32177,7 +32177,7 @@
         },
         "42535": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Red - 3 Pack",
-            "price": 30.49,
+            "price": 25.99,
             "url": "https://www.monoprice.com/product?p_id=42535",
             "product_id": 42535,
             "available": true,
@@ -32267,7 +32267,7 @@
         },
         "42565": {
             "name": "Monolith by Monoprice M8125x 8x100 Watts Per Channel Class-D Multi-Channel Home Theater Power Amplifier with XLR Inputs Hypex NC252MP",
-            "price": 1499.99,
+            "price": 1999.99,
             "url": "https://www.monoprice.com/product?p_id=42565",
             "product_id": 42565,
             "available": true,
@@ -32366,7 +32366,7 @@
         },
         "42646": {
             "name": "Blackbird 4K DisplayPort 1.4 USB 3.0 4x1 KVM Switch, 4K@60Hz, HDR, YCbCr 4:4:4, HDCP 2.2",
-            "price": 144.99,
+            "price": 122.99,
             "url": "https://www.monoprice.com/product?p_id=42646",
             "product_id": 42646,
             "available": true,
@@ -32456,7 +32456,7 @@
         },
         "42674": {
             "name": "Monoprice 8K Certified Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 30AWG, 6ft, Black",
-            "price": 14.99,
+            "price": 12.74,
             "url": "https://www.monoprice.com/product?p_id=42674",
             "product_id": 42674,
             "available": true,
@@ -32465,7 +32465,7 @@
         },
         "42675": {
             "name": "Monoprice 8K Certified Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 28AWG, 10ft, Black",
-            "price": 18.99,
+            "price": 16.14,
             "url": "https://www.monoprice.com/product?p_id=42675",
             "product_id": 42675,
             "available": true,
@@ -32492,7 +32492,7 @@
         },
         "42678": {
             "name": "Monoprice 8K Certified Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 30AWG, 6ft, Black - 5 Pack",
-            "price": 67.99,
+            "price": 57.99,
             "url": "https://www.monoprice.com/product?p_id=42678",
             "product_id": 42678,
             "available": true,
@@ -32537,7 +32537,7 @@
         },
         "42683": {
             "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 28AWG, 10ft, Black",
-            "price": 19.99,
+            "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=42683",
             "product_id": 42683,
             "available": true,
@@ -32555,7 +32555,7 @@
         },
         "42685": {
             "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 30AWG, 3ft, Black - 5 Pack",
-            "price": 58.99,
+            "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=42685",
             "product_id": 42685,
             "available": true,
@@ -32564,7 +32564,7 @@
         },
         "42686": {
             "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 30AWG, 6ft, Black - 5 Pack",
-            "price": 71.99,
+            "price": 60.99,
             "url": "https://www.monoprice.com/product?p_id=42686",
             "product_id": 42686,
             "available": true,
@@ -32573,7 +32573,7 @@
         },
         "42687": {
             "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 28AWG, 10ft, Black - 5 Pack",
-            "price": 89.99,
+            "price": 75.99,
             "url": "https://www.monoprice.com/product?p_id=42687",
             "product_id": 42687,
             "available": true,
@@ -32582,7 +32582,7 @@
         },
         "42688": {
             "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 26AWG, 15ft, Black - 5 Pack",
-            "price": 112.99,
+            "price": 95.99,
             "url": "https://www.monoprice.com/product?p_id=42688",
             "product_id": 42688,
             "available": true,
@@ -32789,7 +32789,7 @@
         },
         "42831": {
             "name": "Monolith by Monoprice M-IWSUB8 8in In-Wall Subwoofer",
-            "price": 399.99,
+            "price": 339.99,
             "url": "https://www.monoprice.com/product?p_id=42831",
             "product_id": 42831,
             "available": true,
@@ -33329,7 +33329,7 @@
         },
         "42991": {
             "name": "Monoprice Cat6A 25ft White Component Level Patch Cable, Double Shielded (S/FTP), 30AWG, 10G, CM Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 18.99,
+            "price": 16.14,
             "url": "https://www.monoprice.com/product?p_id=42991",
             "product_id": 42991,
             "available": true,
@@ -33356,7 +33356,7 @@
         },
         "42994": {
             "name": "Monoprice 8K DisplayPort 2.0 Cable, 6ft",
-            "price": 15.99,
+            "price": 13.59,
             "url": "https://www.monoprice.com/product?p_id=42994",
             "product_id": 42994,
             "available": true,
@@ -33545,7 +33545,7 @@
         },
         "43063": {
             "name": "Wireless Bluetooth Audio Adaptor/Receiver for car , speakers and DVD players",
-            "price": 19.99,
+            "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=43063",
             "product_id": 43063,
             "available": true,
@@ -33887,7 +33887,7 @@
         },
         "43161": {
             "name": "Monolith by Monoprice Double-Wide 3-Tier AV Stand, Black",
-            "price": 249.99,
+            "price": 211.99,
             "url": "https://www.monoprice.com/product?p_id=43161",
             "product_id": 43161,
             "available": true,
@@ -33905,7 +33905,7 @@
         },
         "43163": {
             "name": "Monolith by Monoprice Double-Wide 3-Tier AV Stand, Maple",
-            "price": 249.99,
+            "price": 211.99,
             "url": "https://www.monoprice.com/product?p_id=43163",
             "product_id": 43163,
             "available": true,
@@ -33923,7 +33923,7 @@
         },
         "43165": {
             "name": "Monolith by Monoprice Double-Wide XL 3-Tier AV Stand, Espresso",
-            "price": 349.99,
+            "price": 296.99,
             "url": "https://www.monoprice.com/product?p_id=43165",
             "product_id": 43165,
             "available": true,
@@ -33953,6 +33953,15 @@
             "price": 2.69,
             "url": "https://www.monoprice.com/product?p_id=43177",
             "product_id": 43177,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 7
+        },
+        "43178": {
+            "name": "Monoprice Heavy Duty Power Cable - IEC 60320 C14 to IEC 60320 C15, 14AWG, 15A, SJT, 125V, White, 6ft",
+            "price": 2.25,
+            "url": "https://www.monoprice.com/product?p_id=43178",
+            "product_id": 43178,
             "available": true,
             "rating": 5,
             "num_reviews": 7
@@ -34220,7 +34229,7 @@
         },
         "43219": {
             "name": "Monoprice 8K Ultra High Speed HDMI Cable, 48Gbps, Black, 10ft",
-            "price": 16.99,
+            "price": 14.44,
             "url": "https://www.monoprice.com/product?p_id=43219",
             "product_id": 43219,
             "available": true,
@@ -34274,7 +34283,7 @@
         },
         "43235": {
             "name": "Monolith by Monoprice AMT Headphone",
-            "price": 999.99,
+            "price": 849.99,
             "url": "https://www.monoprice.com/product?p_id=43235",
             "product_id": 43235,
             "available": true,
@@ -34283,7 +34292,7 @@
         },
         "43236": {
             "name": "Monolith by Monoprice M1070C Over the Ear Closed Back Planar Headphones",
-            "price": 399.99,
+            "price": 339.99,
             "url": "https://www.monoprice.com/product?p_id=43236",
             "product_id": 43236,
             "available": true,
@@ -34292,7 +34301,7 @@
         },
         "43237": {
             "name": "Monolith by Monoprice M1570C Over the Ear Closed Back Planar Headphones",
-            "price": 509.99,
+            "price": 599.99,
             "url": "https://www.monoprice.com/product?p_id=43237",
             "product_id": 43237,
             "available": false,
@@ -34373,7 +34382,7 @@
         },
         "43247": {
             "name": "Monoprice Harmony Boombox Portable Bluetooth Speaker, Waterproof, TWS",
-            "price": 49.99,
+            "price": 41.99,
             "url": "https://www.monoprice.com/product?p_id=43247",
             "product_id": 43247,
             "available": true,
@@ -34517,7 +34526,7 @@
         },
         "43326": {
             "name": "Monoprice SlimRun AV 8K Certified Ultra High Speed Active HDMI Cable, HDMI 2.1, AOC, 7.5m, 24ft",
-            "price": 74.99,
+            "price": 63.99,
             "url": "https://www.monoprice.com/product?p_id=43326",
             "product_id": 43326,
             "available": true,
@@ -34526,7 +34535,7 @@
         },
         "43327": {
             "name": "Monoprice SlimRun AV 8K Certified Ultra High Speed Active HDMI Cable, HDMI 2.1, AOC, 10m, 32ft",
-            "price": 82.99,
+            "price": 70.99,
             "url": "https://www.monoprice.com/product?p_id=43327",
             "product_id": 43327,
             "available": true,
@@ -34616,7 +34625,7 @@
         },
         "43344": {
             "name": "Monoprice Cat6 5ft White 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
-            "price": 24.99,
+            "price": 21.24,
             "url": "https://www.monoprice.com/product?p_id=43344",
             "product_id": 43344,
             "available": true,
@@ -34625,7 +34634,7 @@
         },
         "43345": {
             "name": "Monoprice Cat6 7ft White 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
-            "price": 29.99,
+            "price": 25.49,
             "url": "https://www.monoprice.com/product?p_id=43345",
             "product_id": 43345,
             "available": true,
@@ -34814,7 +34823,7 @@
         },
         "43392": {
             "name": "Monoprice Blackbird PRO Toslink S/PDIF 4x1 Switch with Remote",
-            "price": 24.99,
+            "price": 21.24,
             "url": "https://www.monoprice.com/product?p_id=43392",
             "product_id": 43392,
             "available": true,
@@ -35897,7 +35906,7 @@
             "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=44315",
             "product_id": 44315,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -35915,7 +35924,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=44317",
             "product_id": 44317,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -45201,6 +45210,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-03T19:07:04Z"
+        "timestamp": "2023-05-03T19:21:14Z"
     }
 }
