@@ -34621,7 +34621,7 @@
             "product_id": 43339,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1464
         },
         "43340": {
             "name": "Monoprice Cat6 1ft White 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -34666,7 +34666,7 @@
             "product_id": 43345,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1464
         },
         "43347": {
             "name": "Monoprice Cat6 10ft Black 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -45228,6 +45228,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-03T03:54:25Z"
+        "timestamp": "2023-05-03T04:08:59Z"
     }
 }
