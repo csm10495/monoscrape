@@ -18365,7 +18365,7 @@
             "price": 5.49,
             "url": "https://www.monoprice.com/product?p_id=33868",
             "product_id": 33868,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 3
         },
@@ -23937,8 +23937,8 @@
             "url": "https://www.monoprice.com/product?p_id=38619",
             "product_id": 38619,
             "available": true,
-            "rating": 4.4,
-            "num_reviews": 16
+            "rating": 4.5,
+            "num_reviews": 17
         },
         "38620": {
             "name": "Monolith by Monoprice MM-5R Powered Multimedia Speakers Ribbon Tweeter with Bluetooth with Qualcomm aptX HD Audio, USB DAC, Optical Inputs, Subwoofer Output, and Remote Control (Pair), Black",
@@ -25667,15 +25667,6 @@
             "available": true,
             "rating": 3.4,
             "num_reviews": 5
-        },
-        "39305": {
-            "name": "Monoprice Above Fireplace Pull-Down Full-Motion Articulating TV Wall Mount with Floating Soundbar Mount For TVs 42in ~ 65in, Max Weight 62 lbs, VESA Patterns Up to 600x500, Rotating, Height Adjustable",
-            "price": 33.99,
-            "url": "https://www.monoprice.com/product?p_id=39305",
-            "product_id": 39305,
-            "available": true,
-            "rating": 4.3,
-            "num_reviews": 27
         },
         "39324": {
             "name": "Dark Matter by Monoprice Launch Gaming Mouse Pad - Premium Cloth, Stitched Edges, 450x400mm",
@@ -27437,7 +27428,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=39922",
             "product_id": 39922,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1586
         },
@@ -45210,6 +45201,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-03T16:45:51Z"
+        "timestamp": "2023-05-03T16:54:50Z"
     }
 }
