@@ -20147,7 +20147,7 @@
             "price": 25.71,
             "url": "https://www.monoprice.com/product?p_id=34774",
             "product_id": 34774,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1464
         },
@@ -20162,7 +20162,7 @@
         },
         "34778": {
             "name": "FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 15m, Black, 5 pack",
-            "price": 22.49,
+            "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=34778",
             "product_id": 34778,
             "available": true,
@@ -20291,15 +20291,6 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=34805",
             "product_id": 34805,
-            "available": false,
-            "rating": 4.8,
-            "num_reviews": 67
-        },
-        "34806": {
-            "name": "SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, S/STP, Pure Bare Copper Wire, 36AWG, 10m, Black, 5 pack",
-            "price": 15.74,
-            "url": "https://www.monoprice.com/product?p_id=34806",
-            "product_id": 34806,
             "available": false,
             "rating": 4.8,
             "num_reviews": 67
@@ -22799,7 +22790,7 @@
         },
         "38158": {
             "name": "Monoprice SS-6 Premium 6-Channel Speaker Selector",
-            "price": 37.49,
+            "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=38158",
             "product_id": 38158,
             "available": true,
@@ -24577,7 +24568,7 @@
             "product_id": 38851,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 59
+            "num_reviews": 60
         },
         "38853": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 5A/100W, 1.5ft, Black",
@@ -25099,7 +25090,7 @@
             "product_id": 39020,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 61
+            "num_reviews": 62
         },
         "39021": {
             "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam, 22 x 14 x 8 in, OD Green",
@@ -26753,7 +26744,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=39650",
             "product_id": 39650,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 57
         },
@@ -45201,6 +45192,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-03T14:36:53Z"
+        "timestamp": "2023-05-03T14:44:21Z"
     }
 }
