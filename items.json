@@ -13421,7 +13421,7 @@
         },
         "2688": {
             "name": "Monoprice 15ft 24AWG CL2 Dual Link DVI-D Cable - Black",
-            "price": 24.99,
+            "price": 21.24,
             "url": "https://www.monoprice.com/product?p_id=2688",
             "product_id": 2688,
             "available": true,
@@ -14312,7 +14312,7 @@
         },
         "2790": {
             "name": "Monoprice Choice Series 12AWG Oxygen-Free Pure Bare Copper Speaker Wire, 300ft",
-            "price": 149.99,
+            "price": 127.49,
             "url": "https://www.monoprice.com/product?p_id=2790",
             "product_id": 2790,
             "available": true,
@@ -14564,7 +14564,7 @@
         },
         "2816": {
             "name": "Monoprice Access Series 12AWG CL2 Rated 2-Conductor Speaker Wire, 50ft, White",
-            "price": 34.49,
+            "price": 29.32,
             "url": "https://www.monoprice.com/product?p_id=2816",
             "product_id": 2816,
             "available": true,
@@ -15221,7 +15221,7 @@
         },
         "2982": {
             "name": "Monoprice 50ft Coaxial Audio/Video RCA Cable M/M RG59U 75ohm (for S/PDIF, Digital Coax, Subwoofer \u0026 Composite Video)",
-            "price": 11.49,
+            "price": 9.77,
             "url": "https://www.monoprice.com/product?p_id=2982",
             "product_id": 2982,
             "available": true,
@@ -17327,7 +17327,7 @@
         },
         "3342": {
             "name": "Monoprice Commercial Series High Speed HDMI Extension Cable - 4K@24Hz, 10.2Gbps, 24AWG, CL2, 6ft, Black",
-            "price": 14.99,
+            "price": 12.74,
             "url": "https://www.monoprice.com/product?p_id=3342",
             "product_id": 3342,
             "available": true,
@@ -21638,7 +21638,7 @@
         },
         "3613": {
             "name": "Monoprice SlimSelect Series Ultra Low Profile Fixed TV Wall Mount Bracket for TVs 13in to 27in, Max Weight 66 lbs., VESA Patterns Up to 100x100",
-            "price": 19.99,
+            "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=3613",
             "product_id": 3613,
             "available": true,
@@ -28379,7 +28379,7 @@
         },
         "4040": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 4-Conductor Speaker Wire, 250ft, White",
-            "price": 159.99,
+            "price": 135.99,
             "url": "https://www.monoprice.com/product?p_id=4040",
             "product_id": 4040,
             "available": true,
@@ -28478,7 +28478,7 @@
         },
         "4042": {
             "name": "Monoprice Access Series 16AWG CL2 Rated 4-Conductor Speaker Wire, 250ft, White",
-            "price": 109.99,
+            "price": 93.49,
             "url": "https://www.monoprice.com/product?p_id=4042",
             "product_id": 4042,
             "available": true,
@@ -28672,7 +28672,7 @@
             "product_id": 4058,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 949
+            "num_reviews": 950
         },
         "4060": {
             "name": "Monoprice 25ft RG6 (18AWG) 75Ohm, Quad Shield, CL2 Coaxial Cable with F Type Connector - White",
@@ -29615,7 +29615,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=4127",
             "product_id": 4127,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 27
         },
@@ -38090,7 +38090,7 @@
         },
         "5348": {
             "name": "Monoprice 15ft Premium 2 RCA Plug/2 RCA Plug M/M 22AWG Cable - Black",
-            "price": 9.49,
+            "price": 8.07,
             "url": "https://www.monoprice.com/product?p_id=5348",
             "product_id": 5348,
             "available": true,
@@ -38664,6 +38664,15 @@
             "rating": 4.4,
             "num_reviews": 409
         },
+        "5544": {
+            "name": "Monoprice VGA HD-15 to 5 BNC RGB Video Cable for HDTV Monitor cable - 10FT (Black)",
+            "price": 14.49,
+            "url": "https://www.monoprice.com/product?p_id=5544",
+            "product_id": 5544,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 13
+        },
         "5557": {
             "name": "Monoprice Blackbird 4x1 HDMI 1.4 Switch HDCP 1.4 with Toslink and Analog Audio Extractor, 1080p@60Hz",
             "price": 29.99,
@@ -38942,6 +38951,15 @@
             "available": true,
             "rating": 3.7,
             "num_reviews": 271
+        },
+        "566": {
+            "name": "Monoprice VGA HD-15 to 5 BNC RGB Video Cable for HDTV Monitor cable - 6FT (Black)",
+            "price": 12.99,
+            "url": "https://www.monoprice.com/product?p_id=566",
+            "product_id": 566,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 13
         },
         "5695": {
             "name": "Monoprice Fiber Optic Cable, MTRJ (Female)/MTRJ (Female), Multi Mode, Duplex - 15 meter (62.5/125 Type)",
@@ -40322,7 +40340,7 @@
         },
         "6520": {
             "name": "Monoprice SlimSelect Series Low Profile Fixed TV Wall Mount Bracket - For LED TVs 10in to 26in, Max Weight 30 lbs, VESA Patterns Up to 100x100",
-            "price": 19.99,
+            "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=6520",
             "product_id": 6520,
             "available": true,
@@ -41906,7 +41924,7 @@
         },
         "7559": {
             "name": "Monoprice High Speed HDMI Cable with HDMI Micro Connector - 4K@60Hz HDR 18Gbps YCbCr 4:4:4 34AWG 15ft Black",
-            "price": 13.99,
+            "price": 11.89,
             "url": "https://www.monoprice.com/product?p_id=7559",
             "product_id": 7559,
             "available": true,
@@ -42482,7 +42500,7 @@
         },
         "8132": {
             "name": "Monoprice Multifunction RJ-45, BNC, and Speaker Wire Tone Generator, Tracer, Tester",
-            "price": 99.99,
+            "price": 84.99,
             "url": "https://www.monoprice.com/product?p_id=8132",
             "product_id": 8132,
             "available": true,
@@ -42773,7 +42791,7 @@
             "price": 12.74,
             "url": "https://www.monoprice.com/product?p_id=8323",
             "product_id": 8323,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 2040
         },
@@ -44534,7 +44552,7 @@
         },
         "9803": {
             "name": "Monoprice Cat6 100ft Gray Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
-            "price": 26.99,
+            "price": 22.94,
             "url": "https://www.monoprice.com/product?p_id=9803",
             "product_id": 9803,
             "available": true,
@@ -44651,7 +44669,7 @@
         },
         "9818": {
             "name": "Monoprice Cat6 50ft White Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
-            "price": 11.99,
+            "price": 10.19,
             "url": "https://www.monoprice.com/product?p_id=9818",
             "product_id": 9818,
             "available": true,
@@ -45146,7 +45164,7 @@
         },
         "9910": {
             "name": "Monoprice [10pcs] Male BNC Compression Connector for RG-59",
-            "price": 14.99,
+            "price": 12.74,
             "url": "https://www.monoprice.com/product?p_id=9910",
             "product_id": 9910,
             "available": true,
@@ -45174,6 +45192,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-03T18:27:16Z"
+        "timestamp": "2023-05-03T18:35:19Z"
     }
 }
