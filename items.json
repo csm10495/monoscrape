@@ -11,7 +11,7 @@
         },
         "10014": {
             "name": "Monoprice 3-Way Coaxial Splitter",
-            "price": 5.99,
+            "price": 5.09,
             "url": "https://www.monoprice.com/product?p_id=10014",
             "product_id": 10014,
             "available": true,
@@ -38,7 +38,7 @@
         },
         "10017": {
             "name": "Monoprice 8-Way Coaxial Splitter",
-            "price": 9.99,
+            "price": 8.49,
             "url": "https://www.monoprice.com/product?p_id=10017",
             "product_id": 10017,
             "available": true,
@@ -1352,7 +1352,7 @@
         },
         "11325": {
             "name": "Monoprice Cat6 30ft White Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
-            "price": 9.49,
+            "price": 8.07,
             "url": "https://www.monoprice.com/product?p_id=11325",
             "product_id": 11325,
             "available": true,
@@ -1532,7 +1532,7 @@
         },
         "11350": {
             "name": "Monoprice FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 50ft, Red",
-            "price": 14.99,
+            "price": 12.74,
             "url": "https://www.monoprice.com/product?p_id=11350",
             "product_id": 11350,
             "available": true,
@@ -1631,7 +1631,7 @@
         },
         "11364": {
             "name": "Monoprice Cat5e 75ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
-            "price": 16.99,
+            "price": 14.44,
             "url": "https://www.monoprice.com/product?p_id=11364",
             "product_id": 11364,
             "available": true,
@@ -1694,7 +1694,7 @@
         },
         "11379": {
             "name": "Monoprice FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 75ft, White",
-            "price": 19.99,
+            "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=11379",
             "product_id": 11379,
             "available": true,
@@ -1811,7 +1811,7 @@
         },
         "11410": {
             "name": "Monoprice Low Profile 22 lb. Capacity Speaker Wall Mount Brackets (Pair), Black",
-            "price": 17.49,
+            "price": 14.87,
             "url": "https://www.monoprice.com/product?p_id=11410",
             "product_id": 11410,
             "available": true,
@@ -2531,7 +2531,7 @@
         },
         "12575": {
             "name": "Monoprice Split Plate with Flexible Opening, Black",
-            "price": 7.99,
+            "price": 6.79,
             "url": "https://www.monoprice.com/product?p_id=12575",
             "product_id": 12575,
             "available": true,
@@ -2603,7 +2603,7 @@
         },
         "12678": {
             "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam, 8 x 7 x 4 in",
-            "price": 29.99,
+            "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=12678",
             "product_id": 12678,
             "available": true,
@@ -2702,7 +2702,7 @@
         },
         "12737": {
             "name": "Monoprice 4K High Speed HDMI Cable 45ft - CL2 In Wall Rated 18Gbps Active Black",
-            "price": 56.99,
+            "price": 48.44,
             "url": "https://www.monoprice.com/product?p_id=12737",
             "product_id": 12737,
             "available": true,
@@ -2711,7 +2711,7 @@
         },
         "12738": {
             "name": "Monoprice 4K High Speed HDMI Cable 60ft - CL2 In Wall Rated 18Gbps Active Black",
-            "price": 71.99,
+            "price": 61.19,
             "url": "https://www.monoprice.com/product?p_id=12738",
             "product_id": 12738,
             "available": true,
@@ -2720,7 +2720,7 @@
         },
         "12739": {
             "name": "Monoprice 4K High Speed HDMI Cable 75ft - CL2 In Wall Rated 18Gbps Active Black",
-            "price": 86.99,
+            "price": 73.94,
             "url": "https://www.monoprice.com/product?p_id=12739",
             "product_id": 12739,
             "available": true,
@@ -2729,7 +2729,7 @@
         },
         "12740": {
             "name": "Monoprice 4K High Speed HDMI Cable 100ft - CL2 In Wall Rated 18Gbps Active Black",
-            "price": 111.99,
+            "price": 95.19,
             "url": "https://www.monoprice.com/product?p_id=12740",
             "product_id": 12740,
             "available": true,
@@ -3071,7 +3071,7 @@
         },
         "12959": {
             "name": "Monoprice 4K High Speed HDMI Cable 30ft - CL2 In Wall Rated 18Gbps Active Black",
-            "price": 41.99,
+            "price": 35.69,
             "url": "https://www.monoprice.com/product?p_id=12959",
             "product_id": 12959,
             "available": true,
@@ -3461,7 +3461,7 @@
             "price": 1.29,
             "url": "https://www.monoprice.com/product?p_id=13236",
             "product_id": 13236,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 166
         },
@@ -3965,7 +3965,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=13406",
             "product_id": 13406,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 166
         },
@@ -4565,7 +4565,7 @@
         },
         "13590": {
             "name": "Monoprice 4K Slim High Speed HDMI Cable 6ft - 18Gbps Active Black",
-            "price": 18.99,
+            "price": 16.14,
             "url": "https://www.monoprice.com/product?p_id=13590",
             "product_id": 13590,
             "available": true,
@@ -5213,7 +5213,7 @@
         },
         "13755": {
             "name": "Monoprice 4K Braided High Speed HDMI Cable 20ft - CL3 In Wall Rated 18Gbps Active Gray",
-            "price": 33.99,
+            "price": 28.89,
             "url": "https://www.monoprice.com/product?p_id=13755",
             "product_id": 13755,
             "available": true,
@@ -5231,7 +5231,7 @@
         },
         "13757": {
             "name": "Monoprice 4K Braided High Speed HDMI Cable 30ft - CL3 In Wall Rated 18Gbps Active Gray",
-            "price": 43.99,
+            "price": 37.39,
             "url": "https://www.monoprice.com/product?p_id=13757",
             "product_id": 13757,
             "available": true,
@@ -5249,7 +5249,7 @@
         },
         "13759": {
             "name": "Monoprice 4K Braided High Speed HDMI Cable 40ft - CL3 In Wall Rated 18Gbps Active Gray",
-            "price": 53.99,
+            "price": 45.89,
             "url": "https://www.monoprice.com/product?p_id=13759",
             "product_id": 13759,
             "available": true,
@@ -5276,7 +5276,7 @@
         },
         "13762": {
             "name": "Monoprice 4K Braided High Speed HDMI Cable 75ft - CL3 In Wall Rated 18Gbps Active Gray",
-            "price": 88.99,
+            "price": 75.64,
             "url": "https://www.monoprice.com/product?p_id=13762",
             "product_id": 13762,
             "available": true,
@@ -5357,7 +5357,7 @@
         },
         "13783": {
             "name": "Monoprice 4K No Logo High Speed HDMI Cable 20ft - CL2 In Wall Rated 18 Gbps Black",
-            "price": 23.99,
+            "price": 20.39,
             "url": "https://www.monoprice.com/product?p_id=13783",
             "product_id": 13783,
             "available": true,
@@ -6626,7 +6626,7 @@
         },
         "15126": {
             "name": "Monoprice Cat6A 1ft Blue 5-Pk Patch Cable,  UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 9.49,
+            "price": 8.07,
             "url": "https://www.monoprice.com/product?p_id=15126",
             "product_id": 15126,
             "available": true,
@@ -6644,7 +6644,7 @@
         },
         "15130": {
             "name": "Monoprice Cat6A 3ft Blue 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 10.49,
+            "price": 8.92,
             "url": "https://www.monoprice.com/product?p_id=15130",
             "product_id": 15130,
             "available": true,
@@ -6680,7 +6680,7 @@
         },
         "15134": {
             "name": "Monoprice Cat6A 5ft Blue 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 12.99,
+            "price": 11.04,
             "url": "https://www.monoprice.com/product?p_id=15134",
             "product_id": 15134,
             "available": true,
@@ -6707,7 +6707,7 @@
         },
         "15138": {
             "name": "Monoprice Cat6A 7ft Blue 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 13.99,
+            "price": 11.89,
             "url": "https://www.monoprice.com/product?p_id=15138",
             "product_id": 15138,
             "available": true,
@@ -6842,7 +6842,7 @@
         },
         "15157": {
             "name": "Monoprice Cat6A 5ft Black 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 20.99,
+            "price": 17.84,
             "url": "https://www.monoprice.com/product?p_id=15157",
             "product_id": 15157,
             "available": true,
@@ -6851,7 +6851,7 @@
         },
         "15158": {
             "name": "Monoprice Cat6A 5ft Blue 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 20.99,
+            "price": 17.84,
             "url": "https://www.monoprice.com/product?p_id=15158",
             "product_id": 15158,
             "available": true,
@@ -6860,7 +6860,7 @@
         },
         "15159": {
             "name": "Monoprice Cat6A 5ft Gray 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 19.99,
+            "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=15159",
             "product_id": 15159,
             "available": true,
@@ -6887,7 +6887,7 @@
         },
         "15162": {
             "name": "Monoprice Cat6A 7ft Blue 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 23.99,
+            "price": 20.39,
             "url": "https://www.monoprice.com/product?p_id=15162",
             "product_id": 15162,
             "available": true,
@@ -6896,7 +6896,7 @@
         },
         "15163": {
             "name": "Monoprice Cat6A 7ft Gray 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 25.49,
+            "price": 21.67,
             "url": "https://www.monoprice.com/product?p_id=15163",
             "product_id": 15163,
             "available": true,
@@ -6905,7 +6905,7 @@
         },
         "15164": {
             "name": "Monoprice Cat6A 7ft White 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 25.49,
+            "price": 21.67,
             "url": "https://www.monoprice.com/product?p_id=15164",
             "product_id": 15164,
             "available": true,
@@ -6977,7 +6977,7 @@
         },
         "15172": {
             "name": "Monoprice Cat6A 14ft White 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 33.99,
+            "price": 28.89,
             "url": "https://www.monoprice.com/product?p_id=15172",
             "product_id": 15172,
             "available": true,
@@ -7130,7 +7130,7 @@
         },
         "15379": {
             "name": "Monoprice Blackbird 4K 1x2 HDMI Amplifier Splitter",
-            "price": 19.99,
+            "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=15379",
             "product_id": 15379,
             "available": true,
@@ -7265,7 +7265,7 @@
         },
         "15428": {
             "name": "Monoprice 4K Certified Premium High Speed HDMI Cable 6ft - 18Gbps Black",
-            "price": 9.99,
+            "price": 8.49,
             "url": "https://www.monoprice.com/product?p_id=15428",
             "product_id": 15428,
             "available": true,
@@ -7652,7 +7652,7 @@
         },
         "15700": {
             "name": "Monoprice Amber In-Wall Speaker 6.5in 3-way Carbon Fiber Column with Ribbon Tweeter (each)",
-            "price": 129.99,
+            "price": 109.99,
             "url": "https://www.monoprice.com/product?p_id=15700",
             "product_id": 15700,
             "available": true,
@@ -8831,7 +8831,7 @@
         },
         "16295": {
             "name": "Monoprice Cat6A 3ft Yellow 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 10.49,
+            "price": 8.92,
             "url": "https://www.monoprice.com/product?p_id=16295",
             "product_id": 16295,
             "available": true,
@@ -8849,7 +8849,7 @@
         },
         "16298": {
             "name": "Monoprice Cat6A 7ft Red 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 13.99,
+            "price": 11.89,
             "url": "https://www.monoprice.com/product?p_id=16298",
             "product_id": 16298,
             "available": true,
@@ -8912,7 +8912,7 @@
         },
         "16318": {
             "name": "Monoprice Cat6A 1ft Purple 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 17.99,
+            "price": 15.29,
             "url": "https://www.monoprice.com/product?p_id=16318",
             "product_id": 16318,
             "available": true,
@@ -9029,7 +9029,7 @@
         },
         "16331": {
             "name": "Monoprice Cat6A 10ft Orange 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 27.49,
+            "price": 23.37,
             "url": "https://www.monoprice.com/product?p_id=16331",
             "product_id": 16331,
             "available": true,
@@ -9038,7 +9038,7 @@
         },
         "16332": {
             "name": "Monoprice Cat6A 10ft Yellow 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 27.49,
+            "price": 23.37,
             "url": "https://www.monoprice.com/product?p_id=16332",
             "product_id": 16332,
             "available": true,
@@ -9047,7 +9047,7 @@
         },
         "16333": {
             "name": "Monoprice Cat6A 10ft Purple 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 27.49,
+            "price": 23.37,
             "url": "https://www.monoprice.com/product?p_id=16333",
             "product_id": 16333,
             "available": true,
@@ -9065,7 +9065,7 @@
         },
         "16335": {
             "name": "Monoprice Cat6A 14ft Green 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 33.99,
+            "price": 28.89,
             "url": "https://www.monoprice.com/product?p_id=16335",
             "product_id": 16335,
             "available": true,
@@ -9074,7 +9074,7 @@
         },
         "16336": {
             "name": "Monoprice Cat6A 14ft Orange 10-Pk Patch Cable,  UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 33.99,
+            "price": 28.89,
             "url": "https://www.monoprice.com/product?p_id=16336",
             "product_id": 16336,
             "available": true,
@@ -9092,7 +9092,7 @@
         },
         "16338": {
             "name": "Monoprice Cat6A 14ft Purple 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 33.99,
+            "price": 28.89,
             "url": "https://www.monoprice.com/product?p_id=16338",
             "product_id": 16338,
             "available": true,
@@ -45192,6 +45192,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-03T18:35:19Z"
+        "timestamp": "2023-05-03T18:44:33Z"
     }
 }
