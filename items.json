@@ -31354,7 +31354,7 @@
             "product_id": 42080,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 28
+            "num_reviews": 29
         },
         "42081": {
             "name": "Monoprice 8K No Logo Ultra High Speed HDMI Cable, 48Gbps, 6ft, Black - 10 Pack",
@@ -33557,6 +33557,15 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=43079",
             "product_id": 43079,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 56
+        },
+        "43080": {
+            "name": "Monoprice Flexboot Cat6 Ethernet Patch Cable - Snagless RJ45, Flat, 550MHz, UTP, Pure Bare Copper Wire, 30AWG, 20ft, White",
+            "price": 3.99,
+            "url": "https://www.monoprice.com/product?p_id=43080",
+            "product_id": 43080,
             "available": true,
             "rating": 4.7,
             "num_reviews": 56
@@ -35843,7 +35852,7 @@
             "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=44315",
             "product_id": 44315,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 1
         },
@@ -45156,6 +45165,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-04T21:06:02Z"
+        "timestamp": "2023-05-04T21:20:36Z"
     }
 }
