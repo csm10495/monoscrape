@@ -9833,7 +9833,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=195",
             "product_id": 195,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 146
         },
@@ -14090,7 +14090,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=2767",
             "product_id": 2767,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 2398
         },
@@ -14677,7 +14677,7 @@
             "product_id": 2864,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 1298
+            "num_reviews": 1300
         },
         "2865": {
             "name": "Monoprice 12ft Premium 2 RCA Plug/2 RCA Plug M/M 22AWG Cable - Black",
@@ -14722,7 +14722,7 @@
             "product_id": 2869,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 1298
+            "num_reviews": 1300
         },
         "287": {
             "name": "Monoprice Cat5e 3ft Gray Crossover Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -17681,7 +17681,7 @@
             "price": 1.29,
             "url": "https://www.monoprice.com/product?p_id=3363",
             "product_id": 3363,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3040
         },
@@ -29624,7 +29624,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=4127",
             "product_id": 4127,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 27
         },
@@ -37040,7 +37040,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=4770",
             "product_id": 4770,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 201
         },
@@ -37076,7 +37076,7 @@
             "price": 22.99,
             "url": "https://www.monoprice.com/product?p_id=4774",
             "product_id": 4774,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 201
         },
@@ -37247,7 +37247,7 @@
             "price": 22.99,
             "url": "https://www.monoprice.com/product?p_id=4796",
             "product_id": 4796,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 422
         },
@@ -37508,7 +37508,7 @@
             "price": 5.49,
             "url": "https://www.monoprice.com/product?p_id=4985",
             "product_id": 4985,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3040
         },
@@ -38131,7 +38131,7 @@
             "product_id": 5350,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 1298
+            "num_reviews": 1300
         },
         "5355": {
             "name": "Monoprice 1.5ft 22AWG 5-RCA Component Video/Audio Coaxial Cable (RG-59/U) - Black",
@@ -38642,7 +38642,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=5496",
             "product_id": 5496,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 409
         },
@@ -39339,6 +39339,15 @@
             "rating": 4.5,
             "num_reviews": 165
         },
+        "5973": {
+            "name": "Monoprice 1 PAIR OF High-Quality Gold Plated Speaker Pin Plugs, Pin Crimp Type",
+            "price": 1.29,
+            "url": "https://www.monoprice.com/product?p_id=5973",
+            "product_id": 5973,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 28
+        },
         "5978": {
             "name": "Monoprice 8.0mm Professional Microphone Bulk Cable, 100ft",
             "price": 44.99,
@@ -39821,7 +39830,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=6304",
             "product_id": 6304,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 538
         },
@@ -40388,7 +40397,7 @@
             "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=6526",
             "product_id": 6526,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 226
         },
@@ -42937,7 +42946,7 @@
             "product_id": 8534,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 117
+            "num_reviews": 118
         },
         "8535": {
             "name": "Monoprice 20ft MIDI Cable with 5 Pin DIN Plugs - Black",
@@ -43340,7 +43349,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=8643",
             "product_id": 8643,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 2581
         },
@@ -44177,7 +44186,7 @@
             "price": 32.99,
             "url": "https://www.monoprice.com/product?p_id=952",
             "product_id": 952,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 11
         },
@@ -44186,7 +44195,7 @@
             "price": 46.49,
             "url": "https://www.monoprice.com/product?p_id=953",
             "product_id": 953,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 16
         },
@@ -45167,7 +45176,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=9907",
             "product_id": 9907,
-            "available": true,
+            "available": false,
             "rating": 3.6,
             "num_reviews": 40
         },
@@ -45210,6 +45219,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-04T15:45:04Z"
+        "timestamp": "2023-05-04T16:19:39Z"
     }
 }
