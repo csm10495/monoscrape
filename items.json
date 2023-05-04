@@ -16205,7 +16205,7 @@
             "price": 249.99,
             "url": "https://www.monoprice.com/product?p_id=31034",
             "product_id": 31034,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 21
         },
@@ -16414,7 +16414,7 @@
             "product_id": 31191,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 394
+            "num_reviews": 395
         },
         "31192": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Black",
@@ -20473,7 +20473,7 @@
             "product_id": 34835,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1705
+            "num_reviews": 1707
         },
         "34836": {
             "name": "Monoprice 4K Certified Premium High Speed HDMI Cable 7.5m - 18Gbps Black - 2 Pack",
@@ -22442,7 +22442,7 @@
             "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=37883",
             "product_id": 37883,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 35
         },
@@ -23675,7 +23675,7 @@
             "price": 18.99,
             "url": "https://www.monoprice.com/product?p_id=38541",
             "product_id": 38541,
-            "available": false,
+            "available": true,
             "rating": 4.2,
             "num_reviews": 15
         },
@@ -26943,8 +26943,8 @@
             "url": "https://www.monoprice.com/product?p_id=39671",
             "product_id": 39671,
             "available": true,
-            "rating": 4.2,
-            "num_reviews": 5
+            "rating": 3.7,
+            "num_reviews": 6
         },
         "39673": {
             "name": "Blackbird USB 2.0 2-Port Extender Over Cat5e/6 - 50m /164ft",
@@ -45210,6 +45210,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-04T01:48:16Z"
+        "timestamp": "2023-05-04T02:25:11Z"
     }
 }
