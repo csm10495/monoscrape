@@ -10186,7 +10186,7 @@
             "product_id": 21511,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1705
+            "num_reviews": 1707
         },
         "21513": {
             "name": "Netis 24GE+4 SFP-Port Gigabit Ethernet SNMP PoE Switch, 300W",
@@ -45210,6 +45210,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-04T10:44:07Z"
+        "timestamp": "2023-05-04T11:06:00Z"
     }
 }
