@@ -29311,7 +29311,7 @@
             "product_id": 41372,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1850
+            "num_reviews": 1851
         },
         "41373": {
             "name": "Monoprice Access Series 12AWG CL2 Rated 2-Conductor Speaker Wire, 100ft, Black",
@@ -29572,7 +29572,7 @@
             "product_id": 41401,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1850
+            "num_reviews": 1851
         },
         "41402": {
             "name": "Monoprice Access Series 18AWG CL2 Rated 2-Conductor Speaker Wire, 500ft, White",
@@ -31579,7 +31579,7 @@
             "product_id": 42528,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 261
+            "num_reviews": 262
         },
         "42529": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Red - 3 Pack",
@@ -31597,7 +31597,7 @@
             "product_id": 42530,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 261
+            "num_reviews": 262
         },
         "42531": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft/3ft/6ft, Black - 3 Pack",
@@ -44670,6 +44670,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-04T14:23:24Z"
+        "timestamp": "2023-05-04T14:31:20Z"
     }
 }
