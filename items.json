@@ -24127,7 +24127,7 @@
             "product_id": 38787,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 633
+            "num_reviews": 634
         },
         "38788": {
             "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R, 16AWG, 13A, 3-Prong, Black, 3ft, 10-Pack",
@@ -24622,7 +24622,7 @@
             "product_id": 38858,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 58
+            "num_reviews": 60
         },
         "38861": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 5A/100W, 1.5ft, Blue",
@@ -45210,6 +45210,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-04T05:36:00Z"
+        "timestamp": "2023-05-04T05:54:02Z"
     }
 }
