@@ -36970,7 +36970,7 @@
             "product_id": 4763,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 290
+            "num_reviews": 291
         },
         "4764": {
             "name": "Monoprice 25ft Premier Series XLR Male to 1/4in TRS Male Cable, 16AWG (Gold Plated)",
@@ -36988,7 +36988,7 @@
             "product_id": 4765,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 290
+            "num_reviews": 291
         },
         "4766": {
             "name": "Monoprice 50ft Premier Series XLR Male to 1/4in TRS Male Cable, 16AWG (Gold Plated)",
@@ -37969,7 +37969,7 @@
             "product_id": 5296,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 633
+            "num_reviews": 634
         },
         "5297": {
             "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R, 16AWG, 13A/1625W, 3-Prong, Black, 2ft",
@@ -37987,7 +37987,7 @@
             "product_id": 5298,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 633
+            "num_reviews": 634
         },
         "5299": {
             "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R, 16AWG, 13A/1625W, 3-Prong, Black, 6ft",
@@ -37996,7 +37996,7 @@
             "product_id": 5299,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 633
+            "num_reviews": 634
         },
         "5300": {
             "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R, 16AWG, 13A/1625W, 3-Prong, Black, 10ft",
@@ -38122,7 +38122,7 @@
             "product_id": 5349,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 1298
+            "num_reviews": 1300
         },
         "5350": {
             "name": "Monoprice 100ft Premium 2 RCA Plug/2 RCA Plug M/M 22AWG Cable - Black",
@@ -39823,7 +39823,7 @@
             "product_id": 6304,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 537
+            "num_reviews": 538
         },
         "6305": {
             "name": "Monoprice 10ft High-quality Coaxial Audio/Video RCA CL2 Rated Cable - RG6/U 75ohm (for S/PDIF, Digital Coax, Subwoofer, and Composite Video)",
@@ -45210,6 +45210,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-04T03:54:03Z"
+        "timestamp": "2023-05-04T04:09:39Z"
     }
 }
