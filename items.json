@@ -15973,7 +15973,7 @@
             "product_id": 31202,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 261
+            "num_reviews": 262
         },
         "31203": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Black",
@@ -17834,7 +17834,7 @@
             "price": 5.49,
             "url": "https://www.monoprice.com/product?p_id=33868",
             "product_id": 33868,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 3
         },
@@ -18403,7 +18403,7 @@
             "product_id": 34208,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1705
+            "num_reviews": 1707
         },
         "34209": {
             "name": "Monoprice Cat6 6in Blue Patch Cable, UTP, 32AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Micro SlimRun Series Ethernet Cable",
@@ -25432,7 +25432,7 @@
             "product_id": 39481,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 267
+            "num_reviews": 268
         },
         "39483": {
             "name": "Monoprice 8K Ultra High Speed HDMI Cable 6ft - 48Gbps Black - 5 Pack",
@@ -26170,7 +26170,7 @@
             "product_id": 39641,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 57
+            "num_reviews": 58
         },
         "39643": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C Charge \u0026 Sync Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 6ft, Red",
@@ -26582,7 +26582,7 @@
             "price": 23.99,
             "url": "https://www.monoprice.com/product?p_id=39785",
             "product_id": 39785,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 159
         },
@@ -44670,6 +44670,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-04T14:05:38Z"
+        "timestamp": "2023-05-04T14:23:24Z"
     }
 }
