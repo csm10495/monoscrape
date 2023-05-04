@@ -26610,8 +26610,8 @@
             "url": "https://www.monoprice.com/product?p_id=41731",
             "product_id": 41731,
             "available": false,
-            "rating": 4.2,
-            "num_reviews": 89
+            "rating": 4.3,
+            "num_reviews": 90
         },
         "41732": {
             "name": "STITCH by Monoprice Mini Wi-Fi 10A Outlet, Works with Alexa and Google Home for Touchless Voice Control, No Hub Required, ETL Certified (4-Pack)",
@@ -28087,7 +28087,7 @@
             "product_id": 42527,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 261
+            "num_reviews": 262
         },
         "42528": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Black - 3 Pack",
@@ -41187,6 +41187,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-04T09:44:10Z"
+        "timestamp": "2023-05-04T10:07:01Z"
     }
 }
