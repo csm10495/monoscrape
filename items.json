@@ -23200,7 +23200,7 @@
             "product_id": 38309,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 394
+            "num_reviews": 395
         },
         "38310": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft, Purple",
@@ -24136,7 +24136,7 @@
             "product_id": 38788,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 633
+            "num_reviews": 634
         },
         "38789": {
             "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R, 16AWG, 13A, 3-Prong, Black, 6ft, 6-Pack",
@@ -45021,6 +45021,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-04T07:05:15Z"
+        "timestamp": "2023-05-04T07:21:08Z"
     }
 }
