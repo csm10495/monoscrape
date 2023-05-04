@@ -29831,7 +29831,7 @@
             "price": 159.99,
             "url": "https://www.monoprice.com/product?p_id=41360",
             "product_id": 41360,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 2
         },
@@ -30796,7 +30796,7 @@
             "product_id": 41818,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1463
+            "num_reviews": 1464
         },
         "41819": {
             "name": "Monoprice Cat6 5ft Blue 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -30823,7 +30823,7 @@
             "product_id": 41821,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1463
+            "num_reviews": 1464
         },
         "41822": {
             "name": "UVC Sterilizer with wireless charging Disinfection Tool for Sterilization",
@@ -32271,8 +32271,8 @@
             "url": "https://www.monoprice.com/product?p_id=42565",
             "product_id": 42565,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 5,
+            "num_reviews": 1
         },
         "42579": {
             "name": "Monolith by Monoprice M-215 Dual 15\" THX Ultra Certified 2000-Watt Powered Subwoofer (open box)",
@@ -35393,7 +35393,7 @@
             "price": 329.99,
             "url": "https://www.monoprice.com/product?p_id=43704",
             "product_id": 43704,
-            "available": true,
+            "available": false,
             "rating": 4,
             "num_reviews": 1
         },
@@ -35834,7 +35834,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=44117",
             "product_id": 44117,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 2
         },
@@ -45210,6 +45210,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-04T12:59:23Z"
+        "timestamp": "2023-05-04T13:13:06Z"
     }
 }
