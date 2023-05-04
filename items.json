@@ -16495,7 +16495,7 @@
             "product_id": 31201,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 262
+            "num_reviews": 263
         },
         "31202": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft, Black",
@@ -18259,7 +18259,7 @@
             "product_id": 33832,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 31
+            "num_reviews": 32
         },
         "33833": {
             "name": "Monoprice Premium Immersive Satellite Speakers, Pair",
@@ -23119,7 +23119,7 @@
             "product_id": 38303,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 394
+            "num_reviews": 395
         },
         "38304": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft, Blue",
@@ -26611,7 +26611,7 @@
             "product_id": 39632,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 21
+            "num_reviews": 22
         },
         "39633": {
             "name": "Monoprice AtlasFlex Series Durable USB 3.2 Gen 2 Type-C Data \u0026 Power Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 1m, Purple",
@@ -45147,6 +45147,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-04T17:44:43Z"
+        "timestamp": "2023-05-04T17:54:42Z"
     }
 }
