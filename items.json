@@ -10778,7 +10778,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=2296",
             "product_id": 2296,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -36338,7 +36338,7 @@
             "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=4753",
             "product_id": 4753,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 1354
         },
@@ -39139,7 +39139,7 @@
             "product_id": 621,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 537
+            "num_reviews": 538
         },
         "6210": {
             "name": "Monoprice 3-Pin XLR Male Mic Connector, Gold Plated Pins",
@@ -41657,7 +41657,7 @@
             "price": 5.49,
             "url": "https://www.monoprice.com/product?p_id=7680",
             "product_id": 7680,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 24
         },
@@ -43790,7 +43790,7 @@
             "price": 139.99,
             "url": "https://www.monoprice.com/product?p_id=9723",
             "product_id": 9723,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 477
         },
@@ -44670,6 +44670,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-04T14:36:51Z"
+        "timestamp": "2023-05-04T14:44:32Z"
     }
 }
