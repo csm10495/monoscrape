@@ -16378,7 +16378,7 @@
             "product_id": 31188,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 394
+            "num_reviews": 395
         },
         "31189": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Red",
@@ -17667,6 +17667,15 @@
             "rating": 4.9,
             "num_reviews": 59
         },
+        "33627": {
+            "name": "Monoprice Heavy Duty Extension Cord - IEC 60320 C20 to IEC 60320 C19, 12AWG, 20A/2500W, SJT, 250V, Red, 2ft",
+            "price": 3.99,
+            "url": "https://www.monoprice.com/product?p_id=33627",
+            "product_id": 33627,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "3363": {
             "name": "Monoprice Cat5e 2ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 1.29,
@@ -17781,15 +17790,6 @@
             "url": "https://www.monoprice.com/product?p_id=33660",
             "product_id": 33660,
             "available": true,
-            "rating": 5,
-            "num_reviews": 7
-        },
-        "33662": {
-            "name": "Monoprice Heavy Duty Power Cable - IEC 60320 C14 to IEC 60320 C15, 14AWG, 15A/1875W, SJT, 100-250V, Blue, 10ft",
-            "price": 10.99,
-            "url": "https://www.monoprice.com/product?p_id=33662",
-            "product_id": 33662,
-            "available": false,
             "rating": 5,
             "num_reviews": 7
         },
@@ -18374,7 +18374,7 @@
             "price": 5.49,
             "url": "https://www.monoprice.com/product?p_id=33868",
             "product_id": 33868,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 3
         },
@@ -19751,7 +19751,7 @@
             "price": 2.09,
             "url": "https://www.monoprice.com/product?p_id=34524",
             "product_id": 34524,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -20160,29 +20160,11 @@
             "rating": 4.9,
             "num_reviews": 69
         },
-        "34774": {
-            "name": "FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 10m, Black, 5 pack",
-            "price": 25.71,
-            "url": "https://www.monoprice.com/product?p_id=34774",
-            "product_id": 34774,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 1464
-        },
         "34775": {
             "name": "FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 10m, White, 5 pack",
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=34775",
             "product_id": 34775,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 1464
-        },
-        "34778": {
-            "name": "FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 15m, Black, 5 pack",
-            "price": 29.99,
-            "url": "https://www.monoprice.com/product?p_id=34778",
-            "product_id": 34778,
             "available": false,
             "rating": 4.9,
             "num_reviews": 1464
@@ -20193,15 +20175,6 @@
             "url": "https://www.monoprice.com/product?p_id=34779",
             "product_id": 34779,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 1464
-        },
-        "34780": {
-            "name": "FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 15m, Gray, 5 pack",
-            "price": 23.74,
-            "url": "https://www.monoprice.com/product?p_id=34780",
-            "product_id": 34780,
-            "available": false,
             "rating": 4.9,
             "num_reviews": 1464
         },
@@ -20283,15 +20256,6 @@
             "url": "https://www.monoprice.com/product?p_id=34802",
             "product_id": 34802,
             "available": true,
-            "rating": 4.8,
-            "num_reviews": 67
-        },
-        "34803": {
-            "name": "SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, S/STP, Pure Bare Copper Wire, 36AWG, 7m, Gray, 5 pack",
-            "price": 17.99,
-            "url": "https://www.monoprice.com/product?p_id=34803",
-            "product_id": 34803,
-            "available": false,
             "rating": 4.8,
             "num_reviews": 67
         },
@@ -21112,7 +21076,7 @@
             "product_id": 35377,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 255
+            "num_reviews": 256
         },
         "3538": {
             "name": "Monoprice High Quality Banana Binding Post Two-Piece Inset Wall Plate for 3 Speakers - Coupler Type",
@@ -21263,7 +21227,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=35557",
             "product_id": 35557,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 32
         },
@@ -21443,7 +21407,7 @@
             "price": 1.59,
             "url": "https://www.monoprice.com/product?p_id=35806",
             "product_id": 35806,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 12
         },
@@ -22847,7 +22811,7 @@
             "price": 15.44,
             "url": "https://www.monoprice.com/product?p_id=38162",
             "product_id": 38162,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -22865,7 +22829,7 @@
             "price": 25.74,
             "url": "https://www.monoprice.com/product?p_id=38164",
             "product_id": 38164,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -23972,7 +23936,7 @@
             "price": 114.29,
             "url": "https://www.monoprice.com/product?p_id=38626",
             "product_id": 38626,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 42
         },
@@ -45210,6 +45174,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-04T16:53:22Z"
+        "timestamp": "2023-05-04T16:59:14Z"
     }
 }
