@@ -13226,7 +13226,7 @@
             "price": 6.49,
             "url": "https://www.monoprice.com/product?p_id=2602",
             "product_id": 2602,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 7
         },
@@ -14614,7 +14614,7 @@
             "product_id": 2820,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1852
+            "num_reviews": 1853
         },
         "2821": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 2-Conductor Speaker Wire, 250ft, White",
@@ -36833,7 +36833,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=4755",
             "product_id": 4755,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 1354
         },
@@ -37778,7 +37778,7 @@
             "price": 2.69,
             "url": "https://www.monoprice.com/product?p_id=5282",
             "product_id": 5282,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 159
         },
@@ -37832,7 +37832,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=5288",
             "product_id": 5288,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 159
         },
@@ -40388,7 +40388,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=6539",
             "product_id": 6539,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 89
         },
@@ -41747,7 +41747,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=7397",
             "product_id": 7397,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -42008,7 +42008,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=7642",
             "product_id": 7642,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 31
         },
@@ -42161,7 +42161,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=7683",
             "product_id": 7683,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 41
         },
@@ -44456,7 +44456,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=9796",
             "product_id": 9796,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1464
         },
@@ -45156,6 +45156,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-04T20:29:30Z"
+        "timestamp": "2023-05-04T20:35:31Z"
     }
 }
