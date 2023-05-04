@@ -11903,7 +11903,7 @@
             "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=24196",
             "product_id": 24196,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 354
         },
@@ -12182,7 +12182,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=24327",
             "product_id": 24327,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 495
         },
@@ -12751,7 +12751,7 @@
             "product_id": 24438,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 137
+            "num_reviews": 138
         },
         "24439": {
             "name": "Monoprice Onyx Series Auxiliary 3.5mm TRRS Audio \u0026 Microphone Cable, 15ft",
@@ -12893,7 +12893,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=24463",
             "product_id": 24463,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 44
         },
@@ -14819,7 +14819,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=29427",
             "product_id": 29427,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 523
         },
@@ -15008,7 +15008,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=29456",
             "product_id": 29456,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 522
         },
@@ -45210,6 +45210,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-04T16:44:01Z"
+        "timestamp": "2023-05-04T16:53:22Z"
     }
 }
