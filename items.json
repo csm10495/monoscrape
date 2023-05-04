@@ -18860,7 +18860,7 @@
             "price": 149.99,
             "url": "https://www.monoprice.com/product?p_id=34198",
             "product_id": 34198,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 22
         },
@@ -23155,7 +23155,7 @@
             "product_id": 38308,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 394
+            "num_reviews": 395
         },
         "38309": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Pink",
@@ -23209,7 +23209,7 @@
             "product_id": 38315,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 261
+            "num_reviews": 263
         },
         "38316": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft, Blue",
@@ -23973,8 +23973,8 @@
             "url": "https://www.monoprice.com/product?p_id=38631",
             "product_id": 38631,
             "available": true,
-            "rating": 4.3,
-            "num_reviews": 42
+            "rating": 4.4,
+            "num_reviews": 43
         },
         "38640": {
             "name": "Monoprice 4K SlimRun AV High Speed HDMI Cable 10ft - AOC 18Gbps Metal Black",
@@ -45147,6 +45147,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-04T18:54:38Z"
+        "timestamp": "2023-05-04T19:07:53Z"
     }
 }
