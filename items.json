@@ -1702,7 +1702,7 @@
             "num_reviews": 1464
         },
         "11381": {
-            "name": "Monoprice Cat5e 10ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
+            "name": "Monoprice Cat5e 7ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=11381",
             "product_id": 11381,
@@ -3965,7 +3965,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=13406",
             "product_id": 13406,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 167
         },
@@ -4073,6 +4073,15 @@
             "price": 18.99,
             "url": "https://www.monoprice.com/product?p_id=1347",
             "product_id": 1347,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "13478": {
+            "name": "Monoprice Ironlink CIsco SFP-H10GB-CU3M-IL Compatible 10GBASE-CR Twinax Cable",
+            "price": 113.99,
+            "url": "https://www.monoprice.com/product?p_id=13478",
+            "product_id": 13478,
             "available": true,
             "rating": 0,
             "num_reviews": 0
@@ -5450,7 +5459,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=13838",
             "product_id": 13838,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 17
         },
@@ -45147,6 +45156,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-04T19:36:37Z"
+        "timestamp": "2023-05-04T19:46:23Z"
     }
 }
