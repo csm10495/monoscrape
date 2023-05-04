@@ -995,7 +995,7 @@
             "price": 0.99,
             "url": "https://www.monoprice.com/product?p_id=11261",
             "product_id": 11261,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 461
         },
@@ -2365,7 +2365,7 @@
             "product_id": 12235,
             "available": true,
             "rating": 4,
-            "num_reviews": 590
+            "num_reviews": 591
         },
         "12239": {
             "name": "Monoprice 4.5ft USB 2.0 A Male to Micro B Male 30/20 AWG Fast Charge / Security Cable",
@@ -5207,7 +5207,7 @@
             "price": 2.89,
             "url": "https://www.monoprice.com/product?p_id=13754",
             "product_id": 13754,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 99
         },
@@ -7538,7 +7538,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=15666",
             "product_id": 15666,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 41
         },
@@ -7862,7 +7862,7 @@
             "price": 20.59,
             "url": "https://www.monoprice.com/product?p_id=15835",
             "product_id": 15835,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -9329,7 +9329,7 @@
             "price": 16.69,
             "url": "https://www.monoprice.com/product?p_id=18534",
             "product_id": 18534,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 100
         },
@@ -9583,7 +9583,7 @@
             "product_id": 18670,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 119
+            "num_reviews": 120
         },
         "18671": {
             "name": "Stage Right by Monoprice 3ft XLR Male to XLR Female 16AWG Cable (Gold Plated) [Microphone \u0026 Interconnect]",
@@ -9619,7 +9619,7 @@
             "product_id": 18674,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 119
+            "num_reviews": 120
         },
         "18675": {
             "name": "Stage Right by Monoprice 25ft XLR Male to XLR Female 16AWG Cable (Gold Plated) [Microphone \u0026 Interconnect]",
@@ -45147,6 +45147,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-04T17:29:54Z"
+        "timestamp": "2023-05-04T17:35:37Z"
     }
 }
