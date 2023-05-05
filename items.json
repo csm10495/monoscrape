@@ -23189,7 +23189,7 @@
             "price": 8.49,
             "url": "https://www.monoprice.com/product?p_id=38310",
             "product_id": 38310,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 395
         },
@@ -24523,7 +24523,7 @@
             "product_id": 38846,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 58
+            "num_reviews": 60
         },
         "38847": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 3A/60W, 6ft, Blue",
@@ -24863,7 +24863,7 @@
             "price": 6.49,
             "url": "https://www.monoprice.com/product?p_id=38907",
             "product_id": 38907,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 77
         },
@@ -26656,7 +26656,7 @@
             "product_id": 39636,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 57
+            "num_reviews": 58
         },
         "39637": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C Charge \u0026 Sync Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 6ft, Black",
@@ -45174,6 +45174,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-05T13:44:18Z"
+        "timestamp": "2023-05-05T13:54:35Z"
     }
 }
