@@ -734,7 +734,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=11219",
             "product_id": 11219,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1464
         },
@@ -995,7 +995,7 @@
             "price": 0.99,
             "url": "https://www.monoprice.com/product?p_id=11261",
             "product_id": 11261,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 461
         },
@@ -2984,7 +2984,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=12844",
             "product_id": 12844,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 2056
         },
@@ -5063,7 +5063,7 @@
             "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=13732",
             "product_id": 13732,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 156
         },
@@ -6800,7 +6800,7 @@
             "price": 17.99,
             "url": "https://www.monoprice.com/product?p_id=15151",
             "product_id": 15151,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 523
         },
@@ -8384,7 +8384,7 @@
             "price": 329.99,
             "url": "https://www.monoprice.com/product?p_id=16083",
             "product_id": 16083,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1850
         },
@@ -9644,7 +9644,7 @@
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=18676",
             "product_id": 18676,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 119
         },
@@ -45174,6 +45174,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-05T13:26:39Z"
+        "timestamp": "2023-05-05T13:34:44Z"
     }
 }
