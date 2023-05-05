@@ -11453,7 +11453,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=2309",
             "product_id": 2309,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -37607,7 +37607,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=5016",
             "product_id": 5016,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -37635,15 +37635,6 @@
             "url": "https://www.monoprice.com/product?p_id=5027",
             "product_id": 5027,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 3398
-        },
-        "5031": {
-            "name": "Monoprice Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 75ft, Red",
-            "price": 11.99,
-            "url": "https://www.monoprice.com/product?p_id=5031",
-            "product_id": 5031,
-            "available": false,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -40163,7 +40154,7 @@
             "price": 2.29,
             "url": "https://www.monoprice.com/product?p_id=6451",
             "product_id": 6451,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 38
         },
@@ -42008,7 +41999,7 @@
             "price": 5.49,
             "url": "https://www.monoprice.com/product?p_id=7628",
             "product_id": 7628,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 16
         },
@@ -42919,7 +42910,7 @@
             "product_id": 8535,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 117
+            "num_reviews": 118
         },
         "8536": {
             "name": "Monoprice 25ft MIDI Cable with 5 Pin DIN Plugs - Black",
@@ -43367,7 +43358,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=8760",
             "product_id": 8760,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 61
         },
@@ -45183,6 +45174,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-05T17:29:24Z"
+        "timestamp": "2023-05-05T17:35:17Z"
     }
 }
