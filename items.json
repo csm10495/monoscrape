@@ -17946,6 +17946,15 @@
             "rating": 4.8,
             "num_reviews": 17
         },
+        "35510": {
+            "name": "Monoprice Consul Series USB-C Travel Dock with HDMI, VGA, Gigabit Ethernet, 2-Port USB 3.0, SD/MicroSD Reader, USB-C 100W PD 3.0",
+            "price": 68.99,
+            "url": "https://www.monoprice.com/product?p_id=35510",
+            "product_id": 35510,
+            "available": true,
+            "rating": 4.2,
+            "num_reviews": 38
+        },
         "35519": {
             "name": "Monoprice All-in-One Portable Business Meeting Wide Angle USB Video Conference Camera Webcam, Mic, and Speaker, 1080p",
             "price": 124.99,
@@ -41925,6 +41934,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-05T07:53:24Z"
+        "timestamp": "2023-05-05T08:10:28Z"
     }
 }
