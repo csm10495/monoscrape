@@ -27605,7 +27605,7 @@
         },
         "40049": {
             "name": "Monoprice Power Cord - IEC 60320 C14 to IEC 60320 C19, 14AWG, 15A/1875W, SJT, 100-250V, Blue, 6ft",
-            "price": 5.39,
+            "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=40049",
             "product_id": 40049,
             "available": true,
@@ -27839,7 +27839,7 @@
         },
         "40091": {
             "name": "Monoprice Heavy Duty Power Cord - Locking NEMA L5-20P to IEC 60320 C19, 12AWG, 20A/2500W, 3-Prong, Black, 10ft",
-            "price": 11.39,
+            "price": 18.99,
             "url": "https://www.monoprice.com/product?p_id=40091",
             "product_id": 40091,
             "available": true,
@@ -31007,7 +31007,7 @@
         },
         "41989": {
             "name": "Monoprice USB-C Car Charger, 45W 2-port PD White, Power Delivery for MacBook Pro/Air, iPad Pro, iPhone 12/11/ Pro/Max/XR/XS/X, Pixel, Galaxy, and More",
-            "price": 8.24,
+            "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=41989",
             "product_id": 41989,
             "available": true,
@@ -33050,7 +33050,7 @@
         },
         "42963": {
             "name": "Monoprice Cat6A 1ft White Component Level Patch Cable,  Double Shielded (S/FTP), 30AWG, 10G, CM Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 3.19,
+            "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=42963",
             "product_id": 42963,
             "available": true,
@@ -34637,7 +34637,7 @@
             "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=43351",
             "product_id": 43351,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 2
         },
@@ -45165,6 +45165,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-05T22:44:45Z"
+        "timestamp": "2023-05-05T22:54:33Z"
     }
 }
