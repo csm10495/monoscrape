@@ -1856,7 +1856,7 @@
         },
         "11506": {
             "name": "Monoprice 3.5mm Flat TRS Audio Patch Cable, 6ft Black",
-            "price": 4.19,
+            "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=11506",
             "product_id": 11506,
             "available": true,
@@ -2846,7 +2846,7 @@
         },
         "12789": {
             "name": "Monoprice DisplayPort 1.2a to VGA Active Adapter, White",
-            "price": 12.49,
+            "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=12789",
             "product_id": 12789,
             "available": true,
@@ -3017,7 +3017,7 @@
         },
         "12859": {
             "name": "Monoprice Cabernet Series Apple MFi Certified Flat Lightning to USB Charge and Sync Cable, 4ft Black",
-            "price": 9.99,
+            "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=12859",
             "product_id": 12859,
             "available": true,
@@ -3872,7 +3872,7 @@
         },
         "13371": {
             "name": "Monoprice Select Series DisplayPort 1.2a to HDTV Cable, 6ft",
-            "price": 15.49,
+            "price": 12.39,
             "url": "https://www.monoprice.com/product?p_id=13371",
             "product_id": 13371,
             "available": true,
@@ -4775,7 +4775,7 @@
             "price": 44.99,
             "url": "https://www.monoprice.com/product?p_id=13679",
             "product_id": 13679,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 34
         },
@@ -4880,7 +4880,7 @@
         },
         "13713": {
             "name": "Monoprice Nimbus Series 12AWG 4-Conductor CMP-Rated Speaker Wire, 250ft",
-            "price": 309.99,
+            "price": 232.49,
             "url": "https://www.monoprice.com/product?p_id=13713",
             "product_id": 13713,
             "available": true,
@@ -6500,7 +6500,7 @@
         },
         "14850": {
             "name": "Monoprice Palette Series 2.0 USB-C Female to Micro Type-B Cable, 1.5 ft Black",
-            "price": 2.09,
+            "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=14850",
             "product_id": 14850,
             "available": true,
@@ -7589,7 +7589,7 @@
         },
         "15680": {
             "name": "Monoprice Entegrade Series Cat6A RJ-45 FTP Toolless 180-Degree Die Cast Shielded Keystone",
-            "price": 2.24,
+            "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=15680",
             "product_id": 15680,
             "available": true,
@@ -8066,7 +8066,7 @@
         },
         "15887": {
             "name": "Monoprice Select Series Mini DisplayPort 1.2 to DisplayPort 4K Capable Cable, 15ft",
-            "price": 8.99,
+            "price": 8.54,
             "url": "https://www.monoprice.com/product?p_id=15887",
             "product_id": 15887,
             "available": true,
@@ -9380,7 +9380,7 @@
         },
         "18590": {
             "name": "Monoprice Aria In-Wall Speakers 6.5-inch Polypropylene 2-Way (pair)",
-            "price": 34.99,
+            "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=18590",
             "product_id": 18590,
             "available": true,
@@ -9497,7 +9497,7 @@
         },
         "18630": {
             "name": "Monoprice Onyx Series Auxiliary 3.5mm TRS Audio Cable, 6ft",
-            "price": 2.61,
+            "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=18630",
             "product_id": 18630,
             "available": true,
@@ -9533,7 +9533,7 @@
         },
         "18634": {
             "name": "Monoprice Onyx Series Auxiliary 3.5mm TRRS Audio \u0026 Microphone Cable, 10ft",
-            "price": 2.99,
+            "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=18634",
             "product_id": 18634,
             "available": true,
@@ -45165,6 +45165,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-05T22:22:22Z"
+        "timestamp": "2023-05-05T22:30:17Z"
     }
 }
