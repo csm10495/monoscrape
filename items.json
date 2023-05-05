@@ -1850,7 +1850,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=1150",
             "product_id": 1150,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 2
         },
@@ -9977,7 +9977,7 @@
             "price": 1.09,
             "url": "https://www.monoprice.com/product?p_id=2124",
             "product_id": 2124,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3040
         },
@@ -10746,6 +10746,15 @@
             "rating": 4.8,
             "num_reviews": 158
         },
+        "2169": {
+            "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 100ft, Purple",
+            "price": 19.99,
+            "url": "https://www.monoprice.com/product?p_id=2169",
+            "product_id": 2169,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 3040
+        },
         "2170": {
             "name": "Monoprice 6ft VGA to 3 RCA Component Video Cable (HD15 - 3-RCA)",
             "price": 4.49,
@@ -11192,7 +11201,7 @@
             "price": 139.99,
             "url": "https://www.monoprice.com/product?p_id=2268",
             "product_id": 2268,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 60
         },
@@ -14648,7 +14657,7 @@
             "price": 57.49,
             "url": "https://www.monoprice.com/product?p_id=2824",
             "product_id": 2824,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1851
         },
@@ -23603,7 +23612,7 @@
             "price": 114.99,
             "url": "https://www.monoprice.com/product?p_id=3846",
             "product_id": 3846,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1853
         },
@@ -28528,7 +28537,7 @@
             "product_id": 4044,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1850
+            "num_reviews": 1853
         },
         "40440": {
             "name": "Rustic Torched Wood Tabletop Chalkboard with Legs/Vintage Wedding Table Sign/Small Kitchen Antique Wooden Frame (9.5” x 14” Inches)",
@@ -42710,7 +42719,7 @@
             "price": 21.49,
             "url": "https://www.monoprice.com/product?p_id=8243",
             "product_id": 8243,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 130
         },
@@ -43367,7 +43376,7 @@
             "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=8761",
             "product_id": 8761,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 61
         },
@@ -45174,6 +45183,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-05T14:22:09Z"
+        "timestamp": "2023-05-05T14:30:17Z"
     }
 }
