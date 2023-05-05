@@ -19942,7 +19942,7 @@
             "product_id": 34604,
             "available": true,
             "rating": 3.8,
-            "num_reviews": 29
+            "num_reviews": 31
         },
         "34605": {
             "name": "Monoprice MP Rapid UV 3D Printer Resin, 1000ml, Black",
@@ -21533,7 +21533,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=35943",
             "product_id": 35943,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 3
         },
@@ -21543,8 +21543,8 @@
             "url": "https://www.monoprice.com/product?p_id=35944",
             "product_id": 35944,
             "available": true,
-            "rating": 4.3,
-            "num_reviews": 106
+            "rating": 4.2,
+            "num_reviews": 107
         },
         "35995": {
             "name": "Monoprice 19in Blank Fiber Patch Panel 3LGX Cassettes 1U",
@@ -24595,7 +24595,7 @@
             "product_id": 38854,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 58
+            "num_reviews": 60
         },
         "38857": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 5A/100W, 1.5ft, White",
@@ -45174,6 +45174,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-05T17:59:02Z"
+        "timestamp": "2023-05-05T18:16:21Z"
     }
 }
