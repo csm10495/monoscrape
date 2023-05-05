@@ -17467,7 +17467,7 @@
             "product_id": 33536,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 167
+            "num_reviews": 168
         },
         "3354": {
             "name": "Monoprice Universal Cable Jacket Stripper",
@@ -19211,7 +19211,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=34267",
             "product_id": 34267,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 76
         },
@@ -19915,7 +19915,7 @@
             "product_id": 34600,
             "available": true,
             "rating": 3.8,
-            "num_reviews": 29
+            "num_reviews": 31
         },
         "34601": {
             "name": "Monoprice MP Rapid UV 3D Printer Resin, 500ml, Yellow",
@@ -20014,7 +20014,7 @@
             "product_id": 34612,
             "available": true,
             "rating": 3.8,
-            "num_reviews": 29
+            "num_reviews": 31
         },
         "34621": {
             "name": "Monoprice Cat6 25ft Blue Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -20120,7 +20120,7 @@
             "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=34706",
             "product_id": 34706,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 546
         },
@@ -45183,6 +45183,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-05T16:54:23Z"
+        "timestamp": "2023-05-05T17:05:51Z"
     }
 }
