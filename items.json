@@ -19942,7 +19942,7 @@
             "product_id": 34606,
             "available": true,
             "rating": 3.8,
-            "num_reviews": 29
+            "num_reviews": 31
         },
         "34607": {
             "name": "Monoprice MP Rapid UV 3D Printer Resin, 1000ml, White",
@@ -22289,7 +22289,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=36740",
             "product_id": 36740,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 34
         },
@@ -45156,6 +45156,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-05T23:34:19Z"
+        "timestamp": "2023-05-05T23:44:24Z"
     }
 }
