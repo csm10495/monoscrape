@@ -17690,7 +17690,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=33627",
             "product_id": 33627,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -19951,7 +19951,7 @@
             "product_id": 34605,
             "available": false,
             "rating": 3.8,
-            "num_reviews": 29
+            "num_reviews": 31
         },
         "34606": {
             "name": "Monoprice MP Rapid UV 3D Printer Resin, 1000ml, Gray",
@@ -19969,7 +19969,7 @@
             "product_id": 34607,
             "available": true,
             "rating": 3.8,
-            "num_reviews": 29
+            "num_reviews": 31
         },
         "34608": {
             "name": "Monoprice MP Rapid UV 3D Printer Resin, 1000ml, Green",
@@ -20903,7 +20903,7 @@
             "price": 7.49,
             "url": "https://www.monoprice.com/product?p_id=35118",
             "product_id": 35118,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 1
         },
@@ -24442,7 +24442,7 @@
             "product_id": 38828,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 82
+            "num_reviews": 83
         },
         "38831": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 3ft, Black, 3-Pack",
@@ -27347,7 +27347,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=39914",
             "product_id": 39914,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1009
         },
@@ -27383,7 +27383,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=39918",
             "product_id": 39918,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1009
         },
@@ -45174,6 +45174,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-05T19:21:06Z"
+        "timestamp": "2023-05-05T19:36:37Z"
     }
 }
