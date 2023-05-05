@@ -15518,7 +15518,7 @@
         },
         "30486": {
             "name": "Monoprice Caliber In-Wall Speaker 10in Fiber 300W Subwoofer (each)",
-            "price": 79.99,
+            "price": 67.99,
             "url": "https://www.monoprice.com/product?p_id=30486",
             "product_id": 30486,
             "available": true,
@@ -16409,7 +16409,7 @@
         },
         "31190": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft, Black",
-            "price": 10.79,
+            "price": 9.17,
             "url": "https://www.monoprice.com/product?p_id=31190",
             "product_id": 31190,
             "available": true,
@@ -17168,7 +17168,7 @@
             "price": 60.99,
             "url": "https://www.monoprice.com/product?p_id=33257",
             "product_id": 33257,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 522
         },
@@ -19888,7 +19888,7 @@
             "product_id": 34597,
             "available": true,
             "rating": 3.8,
-            "num_reviews": 29
+            "num_reviews": 31
         },
         "34599": {
             "name": "MP Rapid UV 3D Printer Resin, 500ml, Red",
@@ -19987,7 +19987,7 @@
             "product_id": 34610,
             "available": false,
             "rating": 3.8,
-            "num_reviews": 29
+            "num_reviews": 31
         },
         "34611": {
             "name": "Monoprice MP Rapid UV 3D Printer Resin, 1000ml, Red",
@@ -21170,7 +21170,7 @@
         },
         "35503": {
             "name": "Monoprice Consul Series USB-C DisplayPort Adapter",
-            "price": 19.99,
+            "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=35503",
             "product_id": 35503,
             "available": true,
@@ -22025,7 +22025,7 @@
         },
         "36444": {
             "name": "Monoprice MFi Certified Lightning to 3.5mm Audio Adapter, Nylon Braid, Black",
-            "price": 18.99,
+            "price": 16.14,
             "url": "https://www.monoprice.com/product?p_id=36444",
             "product_id": 36444,
             "available": true,
@@ -22817,7 +22817,7 @@
         },
         "38161": {
             "name": "Monoprice 8-Zone Single Input Speaker Distribution Hub",
-            "price": 15.44,
+            "price": 13.12,
             "url": "https://www.monoprice.com/product?p_id=38161",
             "product_id": 38161,
             "available": true,
@@ -24370,7 +24370,7 @@
             "product_id": 38821,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 79
+            "num_reviews": 83
         },
         "38822": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 10ft, Red",
@@ -24482,7 +24482,7 @@
         },
         "38841": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 3A/60W, 1.5ft, White",
-            "price": 5.39,
+            "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=38841",
             "product_id": 38841,
             "available": true,
@@ -24518,7 +24518,7 @@
         },
         "38846": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 3A/60W, 3ft, Blue",
-            "price": 5.99,
+            "price": 5.39,
             "url": "https://www.monoprice.com/product?p_id=38846",
             "product_id": 38846,
             "available": true,
@@ -24896,7 +24896,7 @@
         },
         "38911": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-A Charge and Sync Nylon-Braid Cable, 1.5ft, Blue",
-            "price": 4.19,
+            "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=38911",
             "product_id": 38911,
             "available": true,
@@ -25454,7 +25454,7 @@
         },
         "39168": {
             "name": "Monolith by Monoprice 24in Speaker Stand, Cherry (Each)",
-            "price": 69.99,
+            "price": 59.49,
             "url": "https://www.monoprice.com/product?p_id=39168",
             "product_id": 39168,
             "available": true,
@@ -26737,7 +26737,7 @@
             "product_id": 39650,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 57
+            "num_reviews": 58
         },
         "39651": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C Charge \u0026 Sync Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 3ft, Pink",
@@ -26750,7 +26750,7 @@
         },
         "39652": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C Charge \u0026 Sync Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 6ft, Pink",
-            "price": 7.79,
+            "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=39652",
             "product_id": 39652,
             "available": true,
@@ -45165,6 +45165,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-05T22:35:59Z"
+        "timestamp": "2023-05-05T22:44:45Z"
     }
 }
