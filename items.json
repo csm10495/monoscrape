@@ -25036,7 +25036,7 @@
             "product_id": 3898,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 426
+            "num_reviews": 427
         },
         "38995": {
             "name": "Pure Outdoor by Monoprice Insulated and Waterproof Premium Soft Backpack Cooler with 42-Can Capacity",
@@ -35843,7 +35843,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=443",
             "product_id": 443,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 8
         },
@@ -37625,7 +37625,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=5031",
             "product_id": 5031,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -38012,7 +38012,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=5313",
             "product_id": 5313,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 24
         },
@@ -40055,7 +40055,7 @@
             "price": 20.99,
             "url": "https://www.monoprice.com/product?p_id=6421",
             "product_id": 6421,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 64
         },
@@ -40595,7 +40595,7 @@
             "price": 0.89,
             "url": "https://www.monoprice.com/product?p_id=667",
             "product_id": 667,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 247
         },
@@ -45165,6 +45165,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-05T16:28:51Z"
+        "timestamp": "2023-05-05T16:39:55Z"
     }
 }
