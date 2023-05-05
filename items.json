@@ -30980,7 +30980,7 @@
         },
         "41985": {
             "name": "Monoprice USB-C Charger, 100W 1-port PD, GaN Technology, Foldable Wall Plug, Power Delivery for MacBook Pro/Air, iPad Pro, iPhone 12/11/Pro/Max/XR/XS/X, Pixel, Galaxy S, and More",
-            "price": 29.99,
+            "price": 40.99,
             "url": "https://www.monoprice.com/product?p_id=41985",
             "product_id": 41985,
             "available": true,
@@ -30989,7 +30989,7 @@
         },
         "41986": {
             "name": "Monoprice USB-C Charger, 100W 4-port PD GaN Technology Foldable Wall Charger, Power Delivery for MacBook Pro/Air, iPad Pro, iPhone 12/11/Pro/Max/XR/XS/X, Pixel, Galaxy, and More",
-            "price": 44.99,
+            "price": 64.99,
             "url": "https://www.monoprice.com/product?p_id=41986",
             "product_id": 41986,
             "available": true,
@@ -30998,7 +30998,7 @@
         },
         "41987": {
             "name": "Monoprice USB-C Charger, 45W 1-port PD GaN Technology Flat Slim Foldable Wall Charger, Power Delivery for MacBook Pro/Air, iPad Pro, iPhone 12/11/Pro/Max/XR/XS/X, Pixel, Galaxy, and More",
-            "price": 19.99,
+            "price": 21.99,
             "url": "https://www.monoprice.com/product?p_id=41987",
             "product_id": 41987,
             "available": true,
@@ -31691,7 +31691,7 @@
         },
         "42263": {
             "name": "Monoprice USB-C Charger, 20W 1-port PD GaN Technology Foldable Wall Charger White, Power Delivery for MacBook Pro/Air, iPad Pro, iPhone 12/11/Pro/Max/XR/XS/X, Pixel, Galaxy, and More",
-            "price": 13.99,
+            "price": 18.99,
             "url": "https://www.monoprice.com/product?p_id=42263",
             "product_id": 42263,
             "available": true,
@@ -32276,7 +32276,7 @@
         },
         "42620": {
             "name": "Monoprice USB-C Charger, 40W 2-port PD GaN Technology Foldable Wall Charger White, Power Delivery for iPad Pro, iPhone 12/11 / Pro/Max/XR/XS/X, Pixel, Galaxy, and More",
-            "price": 19.99,
+            "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=42620",
             "product_id": 42620,
             "available": true,
@@ -32885,6 +32885,15 @@
             "available": true,
             "rating": 4.8,
             "num_reviews": 22
+        },
+        "42852": {
+            "name": "Monolith by Monoprice M-15 V2 15in THX Certified Ultra 1000-Watt Subwoofer Amplifier, Piano Black Finish",
+            "price": 1699.99,
+            "url": "https://www.monoprice.com/product?p_id=42852",
+            "product_id": 42852,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 1
         },
         "42862": {
             "name": "Facial Massager, High Frequency Facial Machine, Face Tightening \u0026 Lifting Machine , Face Lifting Tightening Remover Wrinkle",
@@ -33707,7 +33716,7 @@
         },
         "43130": {
             "name": "Monoprice 20W USB-C Fast Wall Charger",
-            "price": 9.99,
+            "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=43130",
             "product_id": 43130,
             "available": true,
@@ -34994,7 +35003,7 @@
         },
         "43529": {
             "name": "Monoprice 2-Port 30W USB-C Wall Charger",
-            "price": 14.99,
+            "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=43529",
             "product_id": 43529,
             "available": false,
@@ -45174,6 +45183,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-05T20:45:10Z"
+        "timestamp": "2023-05-05T20:54:45Z"
     }
 }
