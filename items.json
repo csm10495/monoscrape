@@ -19996,7 +19996,7 @@
             "product_id": 34611,
             "available": true,
             "rating": 3.8,
-            "num_reviews": 29
+            "num_reviews": 31
         },
         "34612": {
             "name": "Monoprice MP Rapid UV 3D Printer Resin, 1000ml, Clear",
@@ -24289,7 +24289,7 @@
             "product_id": 38812,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 79
+            "num_reviews": 82
         },
         "38813": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 6ft, White",
@@ -24352,7 +24352,7 @@
             "product_id": 38820,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 79
+            "num_reviews": 82
         },
         "38821": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 6ft, Red",
@@ -24424,7 +24424,7 @@
             "product_id": 38828,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 79
+            "num_reviews": 82
         },
         "38831": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 3ft, Black, 3-Pack",
@@ -45165,6 +45165,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-05T04:54:10Z"
+        "timestamp": "2023-05-05T05:06:20Z"
     }
 }
