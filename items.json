@@ -32225,7 +32225,7 @@
             "price": 1999.99,
             "url": "https://www.monoprice.com/product?p_id=42565",
             "product_id": 42565,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -33323,7 +33323,7 @@
             "price": 18.99,
             "url": "https://www.monoprice.com/product?p_id=42995",
             "product_id": 42995,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 7
         },
@@ -33397,7 +33397,7 @@
             "product_id": 43004,
             "available": true,
             "rating": 5,
-            "num_reviews": 7
+            "num_reviews": 8
         },
         "43005": {
             "name": "Monoprice 8K DisplayPort 2.0 Cable, 3m, 5 Pack",
@@ -33413,7 +33413,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=43015",
             "product_id": 43015,
-            "available": true,
+            "available": false,
             "rating": 3.5,
             "num_reviews": 10
         },
@@ -34880,7 +34880,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=43450",
             "product_id": 43450,
-            "available": true,
+            "available": false,
             "rating": 4,
             "num_reviews": 2
         },
@@ -45183,6 +45183,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-05T17:05:51Z"
+        "timestamp": "2023-05-05T17:21:36Z"
     }
 }
