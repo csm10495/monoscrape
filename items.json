@@ -24217,7 +24217,7 @@
             "product_id": 38802,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 79
+            "num_reviews": 83
         },
         "38803": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 1.5ft, Red",
@@ -24406,7 +24406,7 @@
             "product_id": 38826,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 79
+            "num_reviews": 83
         },
         "38827": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 3ft, White, 3-Pack",
@@ -24433,7 +24433,7 @@
             "product_id": 38831,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 79
+            "num_reviews": 83
         },
         "38833": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 3ft, White, 3-Pack",
@@ -26629,7 +26629,7 @@
             "product_id": 39633,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 21
+            "num_reviews": 22
         },
         "39635": {
             "name": "Monoprice AtlasFlex Series Durable USB 3.2 Gen 2 Type-C Data \u0026 Power Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 1m, White",
@@ -45156,6 +45156,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-06T03:54:10Z"
+        "timestamp": "2023-05-06T04:07:39Z"
     }
 }
