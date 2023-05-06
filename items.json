@@ -32429,7 +32429,7 @@
         },
         "43130": {
             "name": "Monoprice 20W USB-C Fast Wall Charger",
-            "price": 10.99,
+            "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=43130",
             "product_id": 43130,
             "available": true,
@@ -33045,8 +33045,8 @@
             "url": "https://www.monoprice.com/product?p_id=43243",
             "product_id": 43243,
             "available": true,
-            "rating": 4.3,
-            "num_reviews": 9
+            "rating": 4.4,
+            "num_reviews": 10
         },
         "43244": {
             "name": "Monoprice Bluetooth 5 Transmitter and Receiver with aptX Low Latency, Wireless Bluetooth Audio Streaming Adapter for TV, PC, PS4, Xbox, Headphones, Home Sound Car Stereo Speaker with 3.5mm AUX or RCA",
@@ -43887,6 +43887,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-06T07:05:02Z"
+        "timestamp": "2023-05-06T07:25:47Z"
     }
 }
