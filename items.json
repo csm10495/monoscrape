@@ -11615,7 +11615,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=2375",
             "product_id": 2375,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 97
         },
@@ -25027,7 +25027,7 @@
             "product_id": 3897,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 426
+            "num_reviews": 427
         },
         "3898": {
             "name": "Monoprice USB-A to Mini-B Cable - 5-Pin, 28/28AWG, Black, 15ft",
@@ -27284,7 +27284,7 @@
             "price": 5.29,
             "url": "https://www.monoprice.com/product?p_id=3991",
             "product_id": 3991,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 6599
         },
@@ -37823,7 +37823,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=5287",
             "product_id": 5287,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 159
         },
@@ -45156,6 +45156,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-06T12:38:34Z"
+        "timestamp": "2023-05-06T12:54:16Z"
     }
 }
