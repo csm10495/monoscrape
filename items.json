@@ -16819,7 +16819,7 @@
             "product_id": 320,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 662
+            "num_reviews": 663
         },
         "32983": {
             "name": "Monoprice Power Cord - CEE 7/16 (Europlug) to IEC 60320 C7 (non-polarized), 18AWG, 2-Prong, Black, 6ft",
@@ -42179,7 +42179,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=7686",
             "product_id": 7686,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 41
         },
@@ -45156,6 +45156,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-06T21:44:27Z"
+        "timestamp": "2023-05-06T21:54:20Z"
     }
 }
