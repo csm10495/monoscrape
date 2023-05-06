@@ -9860,7 +9860,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=2067",
             "product_id": 2067,
-            "available": true,
+            "available": false,
             "rating": 4.1,
             "num_reviews": 72
         },
@@ -11192,7 +11192,7 @@
             "price": 139.99,
             "url": "https://www.monoprice.com/product?p_id=2268",
             "product_id": 2268,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 60
         },
@@ -13838,7 +13838,7 @@
             "price": 24.49,
             "url": "https://www.monoprice.com/product?p_id=2748",
             "product_id": 2748,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1538
         },
@@ -37463,7 +37463,7 @@
             "price": 1.19,
             "url": "https://www.monoprice.com/product?p_id=4986",
             "product_id": 4986,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3040
         },
@@ -38041,7 +38041,7 @@
             "product_id": 5347,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 1299
+            "num_reviews": 1300
         },
         "5348": {
             "name": "Monoprice 15ft Premium 2 RCA Plug/2 RCA Plug M/M 22AWG Cable - Black",
@@ -40217,7 +40217,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=6476",
             "product_id": 6476,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 359
         },
@@ -40577,7 +40577,7 @@
             "price": 0.89,
             "url": "https://www.monoprice.com/product?p_id=667",
             "product_id": 667,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 247
         },
@@ -45156,6 +45156,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-06T18:44:09Z"
+        "timestamp": "2023-05-06T18:55:28Z"
     }
 }
