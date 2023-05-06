@@ -24136,7 +24136,7 @@
             "product_id": 38792,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 79
+            "num_reviews": 83
         },
         "38793": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 6ft, Black",
@@ -24334,7 +24334,7 @@
             "product_id": 38818,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 79
+            "num_reviews": 83
         },
         "38819": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 1.5ft, Red",
@@ -45156,6 +45156,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-06T14:34:27Z"
+        "timestamp": "2023-05-06T14:44:17Z"
     }
 }
