@@ -36932,7 +36932,7 @@
             "price": 25.49,
             "url": "https://www.monoprice.com/product?p_id=4765",
             "product_id": 4765,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 291
         },
@@ -39668,7 +39668,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=6262",
             "product_id": 6262,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 24
         },
@@ -39795,8 +39795,8 @@
             "url": "https://www.monoprice.com/product?p_id=6313",
             "product_id": 6313,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 950
+            "rating": 4.8,
+            "num_reviews": 951
         },
         "6314": {
             "name": "Monoprice 15ft RG6 (18AWG) 75Ohm, Quad Shield, CL2 Coaxial Cable with F Type Connector - Black",
@@ -40217,7 +40217,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=6476",
             "product_id": 6476,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 359
         },
@@ -45156,6 +45156,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-07T19:45:08Z"
+        "timestamp": "2023-05-07T19:55:57Z"
     }
 }
