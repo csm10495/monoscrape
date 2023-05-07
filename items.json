@@ -10852,7 +10852,7 @@
             "product_id": 2182,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 662
+            "num_reviews": 663
         },
         "21820": {
             "name": "Monoprice 10 PAIRS Of High-Quality Gold Plated Speaker Banana Plugs, Closed Screw Type",
@@ -39804,8 +39804,8 @@
             "url": "https://www.monoprice.com/product?p_id=6314",
             "product_id": 6314,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 950
+            "rating": 4.8,
+            "num_reviews": 951
         },
         "6315": {
             "name": "Monoprice 10ft RG6 (18AWG) 75Ohm, Quad Shield, CL2 Coaxial Cable with F Type Connector - White",
@@ -45156,6 +45156,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-07T12:53:48Z"
+        "timestamp": "2023-05-07T13:06:57Z"
     }
 }
