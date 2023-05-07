@@ -12992,7 +12992,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=24721",
             "product_id": 24721,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 39
         },
@@ -45156,6 +45156,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-07T15:44:41Z"
+        "timestamp": "2023-05-07T15:54:21Z"
     }
 }
