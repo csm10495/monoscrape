@@ -16558,7 +16558,7 @@
             "product_id": 31231,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 268
+            "num_reviews": 269
         },
         "31233": {
             "name": "Pure Outdoor by Monoprice Emperor 25 Rotomolded Portable Cooler 6.6 Gal, White",
@@ -21524,7 +21524,7 @@
             "price": 16.79,
             "url": "https://www.monoprice.com/product?p_id=35944",
             "product_id": 35944,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 107
         },
@@ -45156,6 +45156,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-07T03:29:24Z"
+        "timestamp": "2023-05-07T03:35:04Z"
     }
 }
