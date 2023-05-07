@@ -32524,7 +32524,7 @@
             "product_id": 42688,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 222
+            "num_reviews": 224
         },
         "42701": {
             "name": "PowerCache by Monoprice Lithium Car Jump Starter Power Bank - 12V, 800A, 8000mAh/29.6Wh, QC 3.0, USB Type-C, ETL Certified, Up To 4.0L Gas/2.4L Diesel Engines (open box)",
@@ -33698,7 +33698,7 @@
         },
         "43130": {
             "name": "Monoprice 20W USB-C Fast Wall Charger",
-            "price": 7.99,
+            "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=43130",
             "product_id": 43130,
             "available": true,
@@ -45156,6 +45156,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-07T07:05:30Z"
+        "timestamp": "2023-05-07T07:19:34Z"
     }
 }
