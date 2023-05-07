@@ -10859,7 +10859,7 @@
             "price": 17.99,
             "url": "https://www.monoprice.com/product?p_id=21820",
             "product_id": 21820,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 2003
         },
@@ -10879,7 +10879,7 @@
             "product_id": 21822,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 2003
+            "num_reviews": 2004
         },
         "21829": {
             "name": "Monoprice Blackbird 4K 6G-SDI to HDMI Converter with SDI Loopout",
@@ -37398,6 +37398,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-07T00:33:30Z"
+        "timestamp": "2023-05-07T01:57:03Z"
     }
 }
