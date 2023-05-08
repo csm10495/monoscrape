@@ -27878,7 +27878,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=40101",
             "product_id": 40101,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 1
         },
@@ -29588,7 +29588,7 @@
             "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=41278",
             "product_id": 41278,
-            "available": false,
+            "available": true,
             "rating": 4.2,
             "num_reviews": 238
         },
@@ -29819,7 +29819,7 @@
         },
         "41374": {
             "name": "Monoprice Access Series 12AWG CL2 Rated 2-Conductor Speaker Wire, 500ft, Black",
-            "price": 179.76,
+            "price": 190.34,
             "url": "https://www.monoprice.com/product?p_id=41374",
             "product_id": 41374,
             "available": true,
@@ -30071,7 +30071,7 @@
         },
         "41402": {
             "name": "Monoprice Access Series 18AWG CL2 Rated 2-Conductor Speaker Wire, 500ft, White",
-            "price": 58.11,
+            "price": 65.87,
             "url": "https://www.monoprice.com/product?p_id=41402",
             "product_id": 41402,
             "available": true,
@@ -30758,7 +30758,7 @@
             "price": 27.99,
             "url": "https://www.monoprice.com/product?p_id=41820",
             "product_id": 41820,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1464
         },
@@ -31286,7 +31286,7 @@
         },
         "42073": {
             "name": "Monoprice 8K No Logo Ultra High Speed HDMI Cable, 48Gbps, 1.5ft, Black",
-            "price": 5.09,
+            "price": 7.22,
             "url": "https://www.monoprice.com/product?p_id=42073",
             "product_id": 42073,
             "available": true,
@@ -31304,7 +31304,7 @@
         },
         "42075": {
             "name": "Monoprice 8K No Logo Ultra High Speed HDMI Cable, 48Gbps, 4ft, Black",
-            "price": 5.07,
+            "price": 7.69,
             "url": "https://www.monoprice.com/product?p_id=42075",
             "product_id": 42075,
             "available": true,
@@ -31344,8 +31344,8 @@
             "url": "https://www.monoprice.com/product?p_id=42079",
             "product_id": 42079,
             "available": true,
-            "rating": 4.7,
-            "num_reviews": 29
+            "rating": 4.8,
+            "num_reviews": 30
         },
         "42080": {
             "name": "Monoprice 8K No Logo Ultra High Speed HDMI Cable, 48Gbps, 3ft, Black - 10 Pack",
@@ -31470,8 +31470,8 @@
             "url": "https://www.monoprice.com/product?p_id=42110",
             "product_id": 42110,
             "available": false,
-            "rating": 3.8,
-            "num_reviews": 12
+            "rating": 4.1,
+            "num_reviews": 11
         },
         "42111": {
             "name": "Workstream by Monoprice Mechanical Keyboard with Kailh Box Brown Switches - Backlit, Aluminum Top Plate, 80 Million Keystrokes",
@@ -33307,7 +33307,7 @@
             "product_id": 42994,
             "available": true,
             "rating": 5,
-            "num_reviews": 7
+            "num_reviews": 8
         },
         "42995": {
             "name": "Monoprice 8K DisplayPort 2.0 Cable, 10ft",
@@ -33374,7 +33374,7 @@
         },
         "43003": {
             "name": "Monoprice 8K DisplayPort 2.0 Cable, 1m, 5 Pack",
-            "price": 25.99,
+            "price": 29.25,
             "url": "https://www.monoprice.com/product?p_id=43003",
             "product_id": 43003,
             "available": true,
@@ -33800,7 +33800,7 @@
             "price": 106.24,
             "url": "https://www.monoprice.com/product?p_id=43156",
             "product_id": 43156,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -34364,7 +34364,7 @@
         },
         "43250": {
             "name": "Monoprice Bluetooth Headphone with Transmitter Charger Base and aptX Low Latency",
-            "price": 41.99,
+            "price": 48.99,
             "url": "https://www.monoprice.com/product?p_id=43250",
             "product_id": 43250,
             "available": true,
@@ -34457,7 +34457,7 @@
             "price": 209.99,
             "url": "https://www.monoprice.com/product?p_id=43316",
             "product_id": 43316,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 7
         },
@@ -34531,7 +34531,7 @@
             "product_id": 43332,
             "available": false,
             "rating": 5,
-            "num_reviews": 5
+            "num_reviews": 6
         },
         "43333": {
             "name": "Monoprice 4K SlimRun AV High Speed HDMI Cable 30m, 98ft - AOC 18Gbps Black",
@@ -35538,8 +35538,8 @@
             "url": "https://www.monoprice.com/product?p_id=43905",
             "product_id": 43905,
             "available": true,
-            "rating": 4.3,
-            "num_reviews": 3
+            "rating": 3.8,
+            "num_reviews": 4
         },
         "43906": {
             "name": "Dark Matter Sentry Streaming Microphone",
@@ -35700,8 +35700,8 @@
             "url": "https://www.monoprice.com/product?p_id=44095",
             "product_id": 44095,
             "available": true,
-            "rating": 4,
-            "num_reviews": 1
+            "rating": 4.5,
+            "num_reviews": 2
         },
         "44096": {
             "name": "Pure Outdoor by Monoprice Compact 33 function Survival Gear Kit with Multi-functional Knife with compact carry case",
@@ -36293,7 +36293,7 @@
             "price": 299.99,
             "url": "https://www.monoprice.com/product?p_id=44489",
             "product_id": 44489,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -45156,6 +45156,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-08T15:36:17Z"
+        "timestamp": "2023-05-08T15:44:57Z"
     }
 }
