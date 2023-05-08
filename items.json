@@ -16061,7 +16061,7 @@
             "price": 53.99,
             "url": "https://www.monoprice.com/product?p_id=30909",
             "product_id": 30909,
-            "available": true,
+            "available": false,
             "rating": 3.8,
             "num_reviews": 6
         },
@@ -16423,7 +16423,7 @@
             "product_id": 31192,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 395
+            "num_reviews": 396
         },
         "31193": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Micro B to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft, Red",
@@ -18410,7 +18410,7 @@
             "price": 13.99,
             "url": "https://www.monoprice.com/product?p_id=33877",
             "product_id": 33877,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -18419,7 +18419,7 @@
             "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=33878",
             "product_id": 33878,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -18446,7 +18446,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=33881",
             "product_id": 33881,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -21506,9 +21506,9 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=35943",
             "product_id": 35943,
-            "available": true,
+            "available": false,
             "rating": 4.8,
-            "num_reviews": 4
+            "num_reviews": 5
         },
         "35944": {
             "name": "Monoprice Obsidian Speed USB Wall Charger, 1-Port, 85W PD Output for iPhone, Android, and Galaxy Devices, 6ft USB Type-C® Cable Included",
@@ -21839,7 +21839,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=36279",
             "product_id": 36279,
-            "available": false,
+            "available": true,
             "rating": 3.9,
             "num_reviews": 21
         },
@@ -21857,7 +21857,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=36282",
             "product_id": 36282,
-            "available": false,
+            "available": true,
             "rating": 3.9,
             "num_reviews": 21
         },
@@ -23182,7 +23182,7 @@
             "product_id": 38312,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 395
+            "num_reviews": 396
         },
         "38313": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft, White",
@@ -23227,7 +23227,7 @@
             "product_id": 38317,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 262
+            "num_reviews": 263
         },
         "38318": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Blue",
@@ -23936,7 +23936,7 @@
             "price": 114.29,
             "url": "https://www.monoprice.com/product?p_id=38626",
             "product_id": 38626,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 42
         },
@@ -24271,7 +24271,7 @@
             "product_id": 38811,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 83
+            "num_reviews": 84
         },
         "38812": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 3ft, White",
@@ -24316,7 +24316,7 @@
             "product_id": 38816,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 83
+            "num_reviews": 84
         },
         "38818": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 10ft, Blue",
@@ -24415,7 +24415,7 @@
             "product_id": 38828,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 83
+            "num_reviews": 84
         },
         "38831": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 3ft, Black, 3-Pack",
@@ -45129,6 +45129,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-08T17:45:06Z"
+        "timestamp": "2023-05-08T17:54:59Z"
     }
 }
