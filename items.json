@@ -17296,7 +17296,7 @@
             "product_id": 33394,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 54
+            "num_reviews": 55
         },
         "3340": {
             "name": "Monoprice 35ft Super VGA HD15 M/M CL2 Rated Cable with Stereo Audio and Triple Shielding (Gold Plated)",
@@ -18898,7 +18898,7 @@
             "product_id": 34202,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 503
+            "num_reviews": 504
         },
         "34203": {
             "name": "Monoprice 4K Slim Certified Premium High Speed HDMI Cable 3ft - 18Gbps Black - 5 Pack",
@@ -21515,7 +21515,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=35943",
             "product_id": 35943,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 3
         },
@@ -45156,6 +45156,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-08T05:36:51Z"
+        "timestamp": "2023-05-08T05:44:06Z"
     }
 }
