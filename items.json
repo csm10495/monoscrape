@@ -3328,7 +3328,7 @@
             "product_id": 1313,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 29
+            "num_reviews": 30
         },
         "13135": {
             "name": "Monoprice Cat5e 10ft Blue Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
@@ -37796,7 +37796,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=5287",
             "product_id": 5287,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 159
         },
@@ -37901,7 +37901,7 @@
         },
         "5299": {
             "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R, 16AWG, 13A/1625W, 3-Prong, Black, 6ft",
-            "price": 4.99,
+            "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=5299",
             "product_id": 5299,
             "available": true,
@@ -38851,7 +38851,7 @@
             "product_id": 5612,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 294
+            "num_reviews": 295
         },
         "5614": {
             "name": "Monoprice 7in Premium 3.5mm Stereo Male to 2x 3.5mm Stereo Female Cable, Gold Plated, Black",
@@ -40820,7 +40820,7 @@
             "price": 27.99,
             "url": "https://www.monoprice.com/product?p_id=6907",
             "product_id": 6907,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 75
         },
@@ -42692,7 +42692,7 @@
             "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=8247",
             "product_id": 8247,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 260
         },
@@ -45129,6 +45129,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-08T18:27:23Z"
+        "timestamp": "2023-05-08T18:35:18Z"
     }
 }
