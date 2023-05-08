@@ -31210,7 +31210,7 @@
             "product_id": 42034,
             "available": true,
             "rating": 4.1,
-            "num_reviews": 41
+            "num_reviews": 42
         },
         "42052": {
             "name": "Monoprice Heavy Duty Power Cable - IEC 60320 C14 to IEC 60320 C15, 14AWG, 15A, SJT, 125V, Black, 1ft",
@@ -35951,7 +35951,7 @@
             "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=44326",
             "product_id": 44326,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -45156,6 +45156,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-08T03:09:22Z"
+        "timestamp": "2023-05-08T03:23:56Z"
     }
 }
