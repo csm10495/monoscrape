@@ -2590,7 +2590,7 @@
             "product_id": 126,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 385
+            "num_reviews": 386
         },
         "12627": {
             "name": "Monoprice USB 3.0 to VGA Adapter",
@@ -27527,7 +27527,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=3997",
             "product_id": 3997,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 519
         },
@@ -28644,8 +28644,8 @@
             "url": "https://www.monoprice.com/product?p_id=4060",
             "product_id": 4060,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 950
+            "rating": 4.8,
+            "num_reviews": 951
         },
         "4061": {
             "name": "Monoprice 50ft RG6 (18AWG) 75Ohm, Quad Shield, CL2 Coaxial Cable with F Type Connector - White",
@@ -38014,7 +38014,7 @@
             "product_id": 5347,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 1300
+            "num_reviews": 1301
         },
         "5348": {
             "name": "Monoprice 15ft Premium 2 RCA Plug/2 RCA Plug M/M 22AWG Cable - Black",
@@ -41711,7 +41711,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=7397",
             "product_id": 7397,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 1
         },
@@ -45129,6 +45129,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-08T19:47:06Z"
+        "timestamp": "2023-05-08T19:57:17Z"
     }
 }
