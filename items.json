@@ -3092,7 +3092,7 @@
             "price": 61.99,
             "url": "https://www.monoprice.com/product?p_id=12962",
             "product_id": 12962,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 425
         },
@@ -4565,7 +4565,7 @@
         },
         "13589": {
             "name": "Monoprice 4K Slim High Speed HDMI Cable 3ft - 18Gbps Active Silver",
-            "price": 15.99,
+            "price": 12.79,
             "url": "https://www.monoprice.com/product?p_id=13589",
             "product_id": 13589,
             "available": true,
@@ -4862,7 +4862,7 @@
         },
         "13710": {
             "name": "Monoprice Nimbus Series 12AWG 2-Conductor CMP-Rated Speaker Wire, 500ft",
-            "price": 291.49,
+            "price": 233.19,
             "url": "https://www.monoprice.com/product?p_id=13710",
             "product_id": 13710,
             "available": true,
@@ -6146,15 +6146,6 @@
             "available": false,
             "rating": 4.9,
             "num_reviews": 3040
-        },
-        "14760": {
-            "name": "Monoprice Cat6 Ethernet Bulk Cable - Stranded, 550MHz, UTP, CM, Pure Bare Copper Wire, 24AWG, 250ft, Black",
-            "price": 21.59,
-            "url": "https://www.monoprice.com/product?p_id=14760",
-            "product_id": 14760,
-            "available": false,
-            "rating": 4.5,
-            "num_reviews": 60
         },
         "14767": {
             "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Black, (UL)",
@@ -7619,7 +7610,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=15695",
             "product_id": 15695,
-            "available": false,
+            "available": true,
             "rating": 4,
             "num_reviews": 12
         },
@@ -7747,7 +7738,7 @@
             "product_id": 15722,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 202
+            "num_reviews": 204
         },
         "15723": {
             "name": "Monoprice Height Adjustable PC Workstation Cart for Sit-Stand",
@@ -7871,7 +7862,7 @@
             "price": 20.59,
             "url": "https://www.monoprice.com/product?p_id=15835",
             "product_id": 15835,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -36174,6 +36165,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-08T16:26:34Z"
+        "timestamp": "2023-05-08T16:41:28Z"
     }
 }
