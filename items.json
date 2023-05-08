@@ -11783,7 +11783,7 @@
         },
         "24176": {
             "name": "Monoprice USB-C to HDMI, VGA, USB 3.0, RJ45 Gigabit Ethernet, and USB-C Female Travel Dock",
-            "price": 70.49,
+            "price": 42.29,
             "url": "https://www.monoprice.com/product?p_id=24176",
             "product_id": 24176,
             "available": true,
@@ -11891,7 +11891,7 @@
         },
         "24193": {
             "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 14AWG, 15A/1875W, 3-Prong, Black, 6ft",
-            "price": 6.99,
+            "price": 6.29,
             "url": "https://www.monoprice.com/product?p_id=24193",
             "product_id": 24193,
             "available": true,
@@ -12251,7 +12251,7 @@
         },
         "24337": {
             "name": "Monoprice Cat6A 3ft Gray Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
-            "price": 4.49,
+            "price": 3.36,
             "url": "https://www.monoprice.com/product?p_id=24337",
             "product_id": 24337,
             "available": true,
@@ -12974,7 +12974,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=24587",
             "product_id": 24587,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 22
         },
@@ -13565,7 +13565,7 @@
         },
         "27311": {
             "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 16AWG, 13A/1625W, 3-Prong, SJT, Black, 5ft",
-            "price": 4.99,
+            "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=27311",
             "product_id": 27311,
             "available": true,
@@ -14270,7 +14270,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=27854",
             "product_id": 27854,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 10
         },
@@ -45165,6 +45165,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-08T14:06:17Z"
+        "timestamp": "2023-05-08T14:23:10Z"
     }
 }
