@@ -10384,7 +10384,7 @@
             "product_id": 21591,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 202
+            "num_reviews": 205
         },
         "21594": {
             "name": "Strata Home by Monoprice Sous Vide Immersion Cooker 800W",
@@ -45120,6 +45120,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-08T22:23:33Z"
+        "timestamp": "2023-05-08T22:31:16Z"
     }
 }
