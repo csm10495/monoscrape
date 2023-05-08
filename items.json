@@ -21058,7 +21058,7 @@
             "product_id": 35375,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 46
+            "num_reviews": 47
         },
         "35376": {
             "name": "Monoprice SlimSelect Series No Stud Hanger Low Profile Fixed TV Mount with Tilting Spacers for LED TVs 37in to 80in, Max Weight 110 lbs., VESA Patterns up to 600x400",
@@ -25414,7 +25414,7 @@
             "product_id": 39164,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 55
+            "num_reviews": 56
         },
         "39165": {
             "name": "Monolith by Monoprice 4 Tier Audio Stand XL, Black",
@@ -45156,6 +45156,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-08T06:44:08Z"
+        "timestamp": "2023-05-08T06:54:16Z"
     }
 }
