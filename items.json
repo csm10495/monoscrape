@@ -623,7 +623,7 @@
         },
         "1107": {
             "name": "Monoprice T-Adapter Cat5e 1M/2F, 6 in",
-            "price": 3.49,
+            "price": 2.09,
             "url": "https://www.monoprice.com/product?p_id=1107",
             "product_id": 1107,
             "available": true,
@@ -14666,7 +14666,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=2832",
             "product_id": 2832,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 2359
         },
@@ -40214,7 +40214,7 @@
         },
         "6470": {
             "name": "Monoprice Hook and Loop Fastening Cable Ties, 13in, 50 pcs/pack, Black",
-            "price": 15.49,
+            "price": 9.29,
             "url": "https://www.monoprice.com/product?p_id=6470",
             "product_id": 6470,
             "available": true,
@@ -40586,7 +40586,7 @@
             "price": 0.89,
             "url": "https://www.monoprice.com/product?p_id=667",
             "product_id": 667,
-            "available": false,
+            "available": true,
             "rating": 4.2,
             "num_reviews": 247
         },
@@ -41708,7 +41708,7 @@
         },
         "7329": {
             "name": "Monoprice High Speed HDMI Cable with HDMI Mini Connector - 4K@60Hz HDR 18Gbps YCbCr 4:4:4 30AWG 6ft Black",
-            "price": 7.99,
+            "price": 4.79,
             "url": "https://www.monoprice.com/product?p_id=7329",
             "product_id": 7329,
             "available": true,
@@ -42017,7 +42017,7 @@
             "price": 17.49,
             "url": "https://www.monoprice.com/product?p_id=7643",
             "product_id": 7643,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 191
         },
@@ -42599,7 +42599,7 @@
         },
         "8191": {
             "name": "Monoprice 1m 30AWG Internal Mini SAS 36pin (SFF-8087) Male to SAS 32pin (SFF-8484) Female Cable, Black",
-            "price": 10.99,
+            "price": 3.84,
             "url": "https://www.monoprice.com/product?p_id=8191",
             "product_id": 8191,
             "available": true,
@@ -42728,7 +42728,7 @@
             "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=8247",
             "product_id": 8247,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 261
         },
@@ -44111,7 +44111,7 @@
         },
         "95": {
             "name": "Monoprice 10ft PS/2 MDIN-6 Male to Female Extension Cable",
-            "price": 2.99,
+            "price": 1.79,
             "url": "https://www.monoprice.com/product?p_id=95",
             "product_id": 95,
             "available": true,
@@ -45165,6 +45165,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-08T13:44:43Z"
+        "timestamp": "2023-05-08T13:54:51Z"
     }
 }
