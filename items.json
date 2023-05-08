@@ -18419,7 +18419,7 @@
             "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=33878",
             "product_id": 33878,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -18446,7 +18446,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=33881",
             "product_id": 33881,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -20808,15 +20808,6 @@
             "rating": 4.3,
             "num_reviews": 11
         },
-        "35111": {
-            "name": "Monoprice Heavy Duty Power Cable - IEC 60320 C14 to IEC 60320 C15, 14AWG, 15A/1875W, SJT, 125V, Black, 2ft",
-            "price": 2.39,
-            "url": "https://www.monoprice.com/product?p_id=35111",
-            "product_id": 35111,
-            "available": true,
-            "rating": 5,
-            "num_reviews": 7
-        },
         "35112": {
             "name": "Monoprice Heavy Duty Power Cable - IEC 60320 C14 to IEC 60320 C15, 14AWG, 15A/1875W, SJT, 125V, Black, 3ft",
             "price": 4.49,
@@ -22838,7 +22829,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=38165",
             "product_id": 38165,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 3
         },
@@ -23937,8 +23928,8 @@
             "url": "https://www.monoprice.com/product?p_id=38626",
             "product_id": 38626,
             "available": true,
-            "rating": 4.3,
-            "num_reviews": 42
+            "rating": 4.4,
+            "num_reviews": 43
         },
         "38627": {
             "name": "Monoprice 8K SlimRun AV Ultra High Speed HDMI Cable 30ft - AOC 48Gbps Black",
@@ -24406,7 +24397,7 @@
             "product_id": 38827,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 79
+            "num_reviews": 84
         },
         "38828": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 6ft, White, 3-Pack",
@@ -25160,7 +25151,7 @@
             "price": 599.99,
             "url": "https://www.monoprice.com/product?p_id=39075",
             "product_id": 39075,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 7
         },
@@ -45129,6 +45120,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-08T20:25:32Z"
+        "timestamp": "2023-05-08T20:35:31Z"
     }
 }
