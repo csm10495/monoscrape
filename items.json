@@ -2900,7 +2900,7 @@
         },
         "12802": {
             "name": "Monoprice DisplayPort 1.2a to 4K HDMI, Dual Link DVI, and VGA Passive Adapter, Black",
-            "price": 12.49,
+            "price": 17.42,
             "url": "https://www.monoprice.com/product?p_id=12802",
             "product_id": 12802,
             "available": true,
@@ -3440,7 +3440,7 @@
         },
         "13234": {
             "name": "Monoprice Select Series USB-C to DisplayPort Adapter",
-            "price": 7.86,
+            "price": 15.74,
             "url": "https://www.monoprice.com/product?p_id=13234",
             "product_id": 13234,
             "available": true,
@@ -3791,7 +3791,7 @@
         },
         "13359": {
             "name": "Monoprice Select Series DisplayPort 1.2 Cable, 3ft",
-            "price": 5.24,
+            "price": 6.29,
             "url": "https://www.monoprice.com/product?p_id=13359",
             "product_id": 13359,
             "available": true,
@@ -3872,7 +3872,7 @@
         },
         "13370": {
             "name": "Monoprice Select Series DisplayPort 1.2a to HDTV Cable, 3ft",
-            "price": 10.86,
+            "price": 11.59,
             "url": "https://www.monoprice.com/product?p_id=13370",
             "product_id": 13370,
             "available": true,
@@ -4565,7 +4565,7 @@
         },
         "13589": {
             "name": "Monoprice 4K Slim High Speed HDMI Cable 3ft - 18Gbps Active Silver",
-            "price": 9.59,
+            "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=13589",
             "product_id": 13589,
             "available": true,
@@ -4862,7 +4862,7 @@
         },
         "13710": {
             "name": "Monoprice Nimbus Series 12AWG 2-Conductor CMP-Rated Speaker Wire, 500ft",
-            "price": 247.77,
+            "price": 291.49,
             "url": "https://www.monoprice.com/product?p_id=13710",
             "product_id": 13710,
             "available": true,
@@ -7040,7 +7040,7 @@
         },
         "15248": {
             "name": "Monoprice Select Series USB Type-C to 4x USB Type-A 3.0 Adapter",
-            "price": 11.61,
+            "price": 14.72,
             "url": "https://www.monoprice.com/product?p_id=15248",
             "product_id": 15248,
             "available": true,
@@ -7679,7 +7679,7 @@
         },
         "15707": {
             "name": "Monoprice Triple Monitor Pyramid Free Standing Desk Mount for 15~30in Monitors",
-            "price": 72.58,
+            "price": 86.99,
             "url": "https://www.monoprice.com/product?p_id=15707",
             "product_id": 15707,
             "available": true,
@@ -7855,7 +7855,7 @@
             "product_id": 15830,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 213
+            "num_reviews": 214
         },
         "15833": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Black",
@@ -7916,7 +7916,7 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=15868",
             "product_id": 15868,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 103
         },
@@ -8606,7 +8606,7 @@
         },
         "16176": {
             "name": "Monoprice Nimbus Series 14AWG 2-Conductor CMP-Rated Speaker Wire, 1000ft",
-            "price": 269.24,
+            "price": 287.19,
             "url": "https://www.monoprice.com/product?p_id=16176",
             "product_id": 16176,
             "available": true,
@@ -8795,7 +8795,7 @@
         },
         "16248": {
             "name": "Monoprice Essential Quad Monitor Articulating Arm Desk Mount",
-            "price": 52.49,
+            "price": 66.49,
             "url": "https://www.monoprice.com/product?p_id=16248",
             "product_id": 16248,
             "available": true,
@@ -8807,7 +8807,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=16249",
             "product_id": 16249,
-            "available": false,
+            "available": true,
             "rating": 4.2,
             "num_reviews": 60
         },
@@ -9131,7 +9131,7 @@
             "price": 19.97,
             "url": "https://www.monoprice.com/product?p_id=16344",
             "product_id": 16344,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 523
         },
@@ -45165,6 +45165,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-08T14:54:56Z"
+        "timestamp": "2023-05-08T15:07:08Z"
     }
 }
