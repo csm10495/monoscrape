@@ -1913,7 +1913,7 @@
             "price": 14.41,
             "url": "https://www.monoprice.com/product?p_id=11551",
             "product_id": 11551,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 573
         },
@@ -2616,8 +2616,8 @@
             "url": "https://www.monoprice.com/product?p_id=12679",
             "product_id": 12679,
             "available": true,
-            "rating": 4.7,
-            "num_reviews": 11
+            "rating": 4.8,
+            "num_reviews": 12
         },
         "12680": {
             "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam, 10 x 8 x 4 in",
@@ -2855,7 +2855,7 @@
         },
         "12789": {
             "name": "Monoprice DisplayPort 1.2a to VGA Active Adapter, White",
-            "price": 9.99,
+            "price": 12.49,
             "url": "https://www.monoprice.com/product?p_id=12789",
             "product_id": 12789,
             "available": true,
@@ -3026,7 +3026,7 @@
         },
         "12859": {
             "name": "Monoprice Cabernet Series Apple MFi Certified Flat Lightning to USB Charge and Sync Cable, 4ft Black",
-            "price": 8.99,
+            "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=12859",
             "product_id": 12859,
             "available": true,
@@ -3881,7 +3881,7 @@
         },
         "13371": {
             "name": "Monoprice Select Series DisplayPort 1.2a to HDTV Cable, 6ft",
-            "price": 12.39,
+            "price": 15.49,
             "url": "https://www.monoprice.com/product?p_id=13371",
             "product_id": 13371,
             "available": true,
@@ -4880,7 +4880,7 @@
         },
         "13713": {
             "name": "Monoprice Nimbus Series 12AWG 4-Conductor CMP-Rated Speaker Wire, 250ft",
-            "price": 232.49,
+            "price": 309.99,
             "url": "https://www.monoprice.com/product?p_id=13713",
             "product_id": 13713,
             "available": true,
@@ -6962,7 +6962,7 @@
             "price": 33.99,
             "url": "https://www.monoprice.com/product?p_id=15170",
             "product_id": 15170,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 523
         },
@@ -7772,7 +7772,7 @@
             "price": 389.99,
             "url": "https://www.monoprice.com/product?p_id=15750",
             "product_id": 15750,
-            "available": false,
+            "available": true,
             "rating": 4.1,
             "num_reviews": 7
         },
@@ -8057,7 +8057,7 @@
         },
         "15887": {
             "name": "Monoprice Select Series Mini DisplayPort 1.2 to DisplayPort 4K Capable Cable, 15ft",
-            "price": 8.54,
+            "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=15887",
             "product_id": 15887,
             "available": true,
@@ -8213,7 +8213,7 @@
             "price": 53.99,
             "url": "https://www.monoprice.com/product?p_id=16048",
             "product_id": 16048,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 37
         },
@@ -45129,6 +45129,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-08T17:28:51Z"
+        "timestamp": "2023-05-08T17:34:58Z"
     }
 }
