@@ -10271,7 +10271,7 @@
         },
         "21547": {
             "name": "Monoprice Origin Series 12AWG 2-Conductor Burial Rated Speaker Wire, 1000ft Gray",
-            "price": 322.49,
+            "price": 343.99,
             "url": "https://www.monoprice.com/product?p_id=21547",
             "product_id": 21547,
             "available": true,
@@ -10658,7 +10658,7 @@
         },
         "21670": {
             "name": "Monoprice USB 3.0 4-port Aluminum Hub",
-            "price": 13.11,
+            "price": 16.62,
             "url": "https://www.monoprice.com/product?p_id=21670",
             "product_id": 21670,
             "available": true,
@@ -11129,7 +11129,7 @@
             "price": 54.99,
             "url": "https://www.monoprice.com/product?p_id=21962",
             "product_id": 21962,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 35
         },
@@ -11851,7 +11851,7 @@
             "product_id": 24187,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 504
+            "num_reviews": 503
         },
         "24188": {
             "name": "Monoprice 4K Slim Certified Premium High Speed HDMI Cable 8ft - 18Gbps Black",
@@ -12335,7 +12335,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=24349",
             "product_id": 24349,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 495
         },
@@ -12710,7 +12710,7 @@
         },
         "24432": {
             "name": "Monoprice Amber In-Wall Speakers 6.5in 2-way Carbon Fiber with Ribbon Tweeter (pair)",
-            "price": 90.99,
+            "price": 116.99,
             "url": "https://www.monoprice.com/product?p_id=24432",
             "product_id": 24432,
             "available": true,
@@ -13007,7 +13007,7 @@
         },
         "24727": {
             "name": "Monoprice Thunderbolt 3 (40 Gbps) USB-C Cable, 100W, 1.0m",
-            "price": 32.99,
+            "price": 43.99,
             "url": "https://www.monoprice.com/product?p_id=24727",
             "product_id": 24727,
             "available": true,
@@ -45165,6 +45165,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-08T15:07:08Z"
+        "timestamp": "2023-05-08T15:23:44Z"
     }
 }
