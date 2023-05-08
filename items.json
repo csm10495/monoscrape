@@ -4595,7 +4595,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=136",
             "product_id": 136,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3040
         },
@@ -11201,7 +11201,7 @@
             "price": 139.99,
             "url": "https://www.monoprice.com/product?p_id=2268",
             "product_id": 2268,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 60
         },
@@ -14618,7 +14618,7 @@
         },
         "2820": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 2-Conductor Speaker Wire, 100ft, White",
-            "price": 29.61,
+            "price": 31.59,
             "url": "https://www.monoprice.com/product?p_id=2820",
             "product_id": 2820,
             "available": true,
@@ -27290,7 +27290,7 @@
         },
         "3991": {
             "name": "Monoprice 4K High Speed HDMI Cable 3ft - CL2 In Wall Rated 10.2Gbps Black (Commercial Series)",
-            "price": 5.29,
+            "price": 3.17,
             "url": "https://www.monoprice.com/product?p_id=3991",
             "product_id": 3991,
             "available": false,
@@ -28109,7 +28109,7 @@
         },
         "4022": {
             "name": "Monoprice 4K High Speed HDMI Cable 3ft - 18Gbps Purple",
-            "price": 3.89,
+            "price": 5.84,
             "url": "https://www.monoprice.com/product?p_id=4022",
             "product_id": 4022,
             "available": false,
@@ -28334,7 +28334,7 @@
         },
         "4039": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 4-Conductor Speaker Wire, 100ft, White",
-            "price": 67.12,
+            "price": 53.7,
             "url": "https://www.monoprice.com/product?p_id=4039",
             "product_id": 4039,
             "available": true,
@@ -29027,7 +29027,7 @@
         },
         "4100": {
             "name": "Monoprice Caliber In-Wall Speakers, 6.5in Fiber 2-Way (pair)",
-            "price": 69.99,
+            "price": 66.49,
             "url": "https://www.monoprice.com/product?p_id=4100",
             "product_id": 4100,
             "available": true,
@@ -39452,7 +39452,7 @@
             "price": 15.49,
             "url": "https://www.monoprice.com/product?p_id=6017",
             "product_id": 6017,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 262
         },
@@ -39773,7 +39773,7 @@
         },
         "6305": {
             "name": "Monoprice 10ft High-quality Coaxial Audio/Video RCA CL2 Rated Cable - RG6/U 75ohm (for S/PDIF, Digital Coax, Subwoofer, and Composite Video)",
-            "price": 8.49,
+            "price": 7.64,
             "url": "https://www.monoprice.com/product?p_id=6305",
             "product_id": 6305,
             "available": true,
@@ -40388,7 +40388,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=6539",
             "product_id": 6539,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 89
         },
@@ -41627,7 +41627,7 @@
         },
         "7301": {
             "name": "Monoprice 8P8C RJ45 Shielded Plug for Stranded Cat6 Ethernet Cable, 100 pcs/pack",
-            "price": 11.24,
+            "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=7301",
             "product_id": 7301,
             "available": true,
@@ -41999,7 +41999,7 @@
             "price": 13.99,
             "url": "https://www.monoprice.com/product?p_id=7630",
             "product_id": 7630,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 16
         },
@@ -42752,7 +42752,7 @@
         },
         "8323": {
             "name": "Monoprice Premium Hi-Fi DJ Style Over-the-Ear Pro Headphones with Mic",
-            "price": 12.74,
+            "price": 16.14,
             "url": "https://www.monoprice.com/product?p_id=8323",
             "product_id": 8323,
             "available": true,
@@ -45165,6 +45165,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-08T14:45:04Z"
+        "timestamp": "2023-05-08T14:54:56Z"
     }
 }
