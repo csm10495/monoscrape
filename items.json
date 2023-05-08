@@ -556,7 +556,7 @@
             "product_id": 10761,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 153
+            "num_reviews": 154
         },
         "10782": {
             "name": "Monoprice Polycarbonate Case for HTC One - Clear",
@@ -4235,7 +4235,7 @@
             "price": 2.79,
             "url": "https://www.monoprice.com/product?p_id=13525",
             "product_id": 13525,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -7736,7 +7736,7 @@
             "price": 319.99,
             "url": "https://www.monoprice.com/product?p_id=15722",
             "product_id": 15722,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 204
         },
@@ -8798,7 +8798,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=16249",
             "product_id": 16249,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 60
         },
@@ -9158,7 +9158,7 @@
             "price": 23.49,
             "url": "https://www.monoprice.com/product?p_id=16348",
             "product_id": 16348,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 523
         },
@@ -45129,6 +45129,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-08T19:57:17Z"
+        "timestamp": "2023-05-08T20:11:11Z"
     }
 }
