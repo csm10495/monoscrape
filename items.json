@@ -32024,7 +32024,7 @@
         },
         "42520": {
             "name": "Monoprice Wireless Charger, Qi-Certified 15W Fast Wireless Charging Stand with QC3.0 AC Adapter for iPhone 12/12 Pro/11/11 Pro/XR/XS/X/8/8+/Airpods, Galaxy S21/S20/Note 10/Note 10+/S10/S10+/S9/S8",
-            "price": 11.99,
+            "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=42520",
             "product_id": 42520,
             "available": false,
@@ -33698,7 +33698,7 @@
         },
         "43130": {
             "name": "Monoprice 20W USB-C Fast Wall Charger",
-            "price": 9.99,
+            "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=43130",
             "product_id": 43130,
             "available": true,
@@ -34445,7 +34445,7 @@
         },
         "43305": {
             "name": "Dark Matter by Monoprice 49in Curved Gaming Monitor - 32:9, 1800R, 5120x1440p, DQHD, 120Hz, Adaptive Sync, VA",
-            "price": 999.99,
+            "price": 789.99,
             "url": "https://www.monoprice.com/product?p_id=43305",
             "product_id": 43305,
             "available": true,
@@ -45156,6 +45156,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-08T06:54:16Z"
+        "timestamp": "2023-05-08T07:06:00Z"
     }
 }
