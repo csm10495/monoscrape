@@ -22977,15 +22977,6 @@
             "rating": 4.5,
             "num_reviews": 48
         },
-        "38201": {
-            "name": "Monolith by Monoprice 10\" THX Select Certified 500 Watt Powered Subwoofer (Open Box)",
-            "price": 257.99,
-            "url": "https://www.monoprice.com/product?p_id=38201",
-            "product_id": 38201,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 2
-        },
         "38202": {
             "name": "Monolith by Monoprice 12\" THX Ultra Certified 500 Watt Powered Subwoofer (Open Box)",
             "price": 407.99,
@@ -24478,7 +24469,7 @@
             "product_id": 38844,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 59
+            "num_reviews": 60
         },
         "38845": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 3A/60W, 1.5ft, Blue",
@@ -27158,7 +27149,7 @@
             "price": 4.54,
             "url": "https://www.monoprice.com/product?p_id=39841",
             "product_id": 39841,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 163
         },
@@ -45120,6 +45111,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-08T22:31:16Z"
+        "timestamp": "2023-05-08T22:36:59Z"
     }
 }
