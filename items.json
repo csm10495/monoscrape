@@ -15892,7 +15892,7 @@
             "product_id": 30763,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 198
+            "num_reviews": 199
         },
         "30764": {
             "name": "Monoprice Palette Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 1.5ft White",
@@ -18403,7 +18403,7 @@
             "product_id": 33875,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 214
+            "num_reviews": 213
         },
         "33877": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Red",
@@ -20822,7 +20822,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=35112",
             "product_id": 35112,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 7
         },
@@ -21173,7 +21173,7 @@
             "price": 68.99,
             "url": "https://www.monoprice.com/product?p_id=35510",
             "product_id": 35510,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 38
         },
@@ -21517,7 +21517,7 @@
             "product_id": 35944,
             "available": true,
             "rating": 4.2,
-            "num_reviews": 107
+            "num_reviews": 108
         },
         "35995": {
             "name": "Monoprice 19in Blank Fiber Patch Panel 3LGX Cassettes 1U",
@@ -21893,7 +21893,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=36286",
             "product_id": 36286,
-            "available": false,
+            "available": true,
             "rating": 3.9,
             "num_reviews": 21
         },
@@ -21911,7 +21911,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=36288",
             "product_id": 36288,
-            "available": false,
+            "available": true,
             "rating": 3.9,
             "num_reviews": 21
         },
@@ -21920,7 +21920,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=36300",
             "product_id": 36300,
-            "available": false,
+            "available": true,
             "rating": 3.9,
             "num_reviews": 21
         },
@@ -23946,8 +23946,8 @@
             "url": "https://www.monoprice.com/product?p_id=38627",
             "product_id": 38627,
             "available": true,
-            "rating": 4.3,
-            "num_reviews": 42
+            "rating": 4.4,
+            "num_reviews": 43
         },
         "38628": {
             "name": "Monoprice 8K SlimRun AV Ultra High Speed HDMI Cable 40ft - AOC 48Gbps Black",
@@ -25945,7 +25945,7 @@
             "product_id": 39483,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 268
+            "num_reviews": 270
         },
         "39488": {
             "name": "Monoprice Adjustable 22 lb. Capacity Speaker Wall Mount Brackets (Pair) Black",
@@ -45129,6 +45129,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-08T19:07:57Z"
+        "timestamp": "2023-05-08T19:22:05Z"
     }
 }
