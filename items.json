@@ -31299,8 +31299,8 @@
             "url": "https://www.monoprice.com/product?p_id=42077",
             "product_id": 42077,
             "available": true,
-            "rating": 4.7,
-            "num_reviews": 29
+            "rating": 4.8,
+            "num_reviews": 30
         },
         "42078": {
             "name": "Monoprice 8K No Logo Ultra High Speed HDMI Cable, 48Gbps, 8ft, Black",
@@ -31847,7 +31847,7 @@
             "price": 90.99,
             "url": "https://www.monoprice.com/product?p_id=42347",
             "product_id": 42347,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 16
         },
@@ -32056,7 +32056,7 @@
             "product_id": 42531,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 262
+            "num_reviews": 263
         },
         "42532": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft/3ft/6ft, Red - 3 Pack",
@@ -34162,7 +34162,7 @@
             "product_id": 43219,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 268
+            "num_reviews": 270
         },
         "43220": {
             "name": "Monoprice 8K Ultra High Speed HDMI Cable, 48Gbps, Black, 15ft",
@@ -45111,6 +45111,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-08T22:36:59Z"
+        "timestamp": "2023-05-08T22:44:48Z"
     }
 }
