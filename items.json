@@ -272,7 +272,7 @@
         },
         "10456": {
             "name": "Monoprice Full-Motion Articulating TV Wall Mount Bracket TVs 23in to 42in, Max Weight 44 lbs, Extends from 4.1in to 16.7in, VESA Up to 200x200, Rotating , Concrete and Brick, UL Certified",
-            "price": 47.99,
+            "price": 28.79,
             "url": "https://www.monoprice.com/product?p_id=10456",
             "product_id": 10456,
             "available": true,
@@ -569,7 +569,7 @@
         },
         "10880": {
             "name": "Monoprice Screen Protector (3-Pack) w/ Cleaning Cloth for Samsung S®4 Mini - Transparent Finish",
-            "price": 0.3,
+            "price": 0.17,
             "url": "https://www.monoprice.com/product?p_id=10880",
             "product_id": 10880,
             "available": true,
@@ -1820,7 +1820,7 @@
         },
         "11431": {
             "name": "Monoprice OM3 Fiber Optic Cable - SC/SC, UL, 50/125 Type, Multi-Mode, 10GB, Aqua, 15m, Corning",
-            "price": 12.99,
+            "price": 7.79,
             "url": "https://www.monoprice.com/product?p_id=11431",
             "product_id": 11431,
             "available": true,
@@ -2117,7 +2117,7 @@
         },
         "11885": {
             "name": "Monoprice 1.5ft USB 2.0 A Male to A Female Extension 28/24AWG Cable (Gold Plated) - WHITE (OEM)",
-            "price": 1.49,
+            "price": 0.89,
             "url": "https://www.monoprice.com/product?p_id=11885",
             "product_id": 11885,
             "available": true,
@@ -2369,7 +2369,7 @@
         },
         "12239": {
             "name": "Monoprice 4.5ft USB 2.0 A Male to Micro B Male 30/20 AWG Fast Charge / Security Cable",
-            "price": 6.49,
+            "price": 2.27,
             "url": "https://www.monoprice.com/product?p_id=12239",
             "product_id": 12239,
             "available": true,
@@ -4520,7 +4520,7 @@
         },
         "13575": {
             "name": "Monoprice 4K Slim High Speed HDMI Cable 0.5ft - 18Gbps Silver",
-            "price": 10.99,
+            "price": 3.84,
             "url": "https://www.monoprice.com/product?p_id=13575",
             "product_id": 13575,
             "available": true,
@@ -5906,7 +5906,7 @@
         },
         "14385": {
             "name": "Monoprice Premium 3D Printer Filament PETG 1.75mm, 1kg/Spool Blue",
-            "price": 30.99,
+            "price": 18.59,
             "url": "https://www.monoprice.com/product?p_id=14385",
             "product_id": 14385,
             "available": true,
@@ -6014,7 +6014,7 @@
         },
         "14559": {
             "name": "Stage Right by Monoprice 16 AWG NEMA 5-15P to powerCON Connector 6FT",
-            "price": 18.99,
+            "price": 18.04,
             "url": "https://www.monoprice.com/product?p_id=14559",
             "product_id": 14559,
             "available": true,
@@ -6149,7 +6149,7 @@
         },
         "14760": {
             "name": "Monoprice Cat6 Ethernet Bulk Cable - Stranded, 550MHz, UTP, CM, Pure Bare Copper Wire, 24AWG, 250ft, Black",
-            "price": 35.99,
+            "price": 21.59,
             "url": "https://www.monoprice.com/product?p_id=14760",
             "product_id": 14760,
             "available": false,
@@ -6161,7 +6161,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=14767",
             "product_id": 14767,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 92
         },
@@ -7022,7 +7022,7 @@
         },
         "15244": {
             "name": "Monoprice Select Series USB-C to HDMI and USB-C (F) Dual Port Adapter",
-            "price": 21.49,
+            "price": 17.19,
             "url": "https://www.monoprice.com/product?p_id=15244",
             "product_id": 15244,
             "available": true,
@@ -7058,7 +7058,7 @@
         },
         "15250": {
             "name": "Monoprice Select Series USB Type-C to 3x USB Type-A 3.0, Gigabit Ethernet, and USB-C (F) Adapter",
-            "price": 29.99,
+            "price": 25.49,
             "url": "https://www.monoprice.com/product?p_id=15250",
             "product_id": 15250,
             "available": true,
@@ -9740,7 +9740,7 @@
         },
         "18805": {
             "name": "Monoprice Commercial Audio 240W 5ch 100/70V Mixer Amp with Microphone Priority (NO LOGO)",
-            "price": 282.99,
+            "price": 268.84,
             "url": "https://www.monoprice.com/product?p_id=18805",
             "product_id": 18805,
             "available": true,
@@ -45165,6 +45165,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-08T13:54:51Z"
+        "timestamp": "2023-05-08T14:06:17Z"
     }
 }
