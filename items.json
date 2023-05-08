@@ -22973,7 +22973,7 @@
             "price": 407.99,
             "url": "https://www.monoprice.com/product?p_id=38202",
             "product_id": 38202,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 6
         },
@@ -24811,7 +24811,7 @@
             "product_id": 38906,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 77
+            "num_reviews": 78
         },
         "38907": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-A Charge and Sync Nylon-Braid Cable, 1.5ft, Red",
@@ -27167,7 +27167,7 @@
             "price": 4.54,
             "url": "https://www.monoprice.com/product?p_id=39844",
             "product_id": 39844,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 163
         },
@@ -45102,6 +45102,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-08T23:29:36Z"
+        "timestamp": "2023-05-08T23:36:00Z"
     }
 }
