@@ -33271,7 +33271,7 @@
             "product_id": 42995,
             "available": false,
             "rating": 5,
-            "num_reviews": 7
+            "num_reviews": 8
         },
         "42996": {
             "name": "Monoprice 8K DisplayPort 2.0 Cable, 15ft",
@@ -45084,6 +45084,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-09T09:06:03Z"
+        "timestamp": "2023-05-09T09:27:52Z"
     }
 }
