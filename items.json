@@ -16207,7 +16207,7 @@
             "product_id": 31034,
             "available": false,
             "rating": 4.5,
-            "num_reviews": 21
+            "num_reviews": 22
         },
         "31035": {
             "name": "Monoprice Sycamore Outdoor Burial 8in Subwoofer with Dual Voice Coil (each)",
@@ -16486,7 +16486,7 @@
             "product_id": 31199,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 262
+            "num_reviews": 263
         },
         "31200": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Red",
@@ -17654,7 +17654,7 @@
             "price": 2.29,
             "url": "https://www.monoprice.com/product?p_id=33618",
             "product_id": 33618,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 59
         },
@@ -18500,7 +18500,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=33887",
             "product_id": 33887,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -18995,7 +18995,7 @@
             "price": 1.79,
             "url": "https://www.monoprice.com/product?p_id=34213",
             "product_id": 34213,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 76
         },
@@ -20903,7 +20903,7 @@
             "price": 89.99,
             "url": "https://www.monoprice.com/product?p_id=35124",
             "product_id": 35124,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 59
         },
@@ -21506,7 +21506,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=35943",
             "product_id": 35943,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 5
         },
@@ -21515,7 +21515,7 @@
             "price": 16.79,
             "url": "https://www.monoprice.com/product?p_id=35944",
             "product_id": 35944,
-            "available": false,
+            "available": true,
             "rating": 4.2,
             "num_reviews": 108
         },
@@ -22415,7 +22415,7 @@
             "price": 51.99,
             "url": "https://www.monoprice.com/product?p_id=37884",
             "product_id": 37884,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 20
         },
@@ -23083,7 +23083,7 @@
             "product_id": 38302,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 395
+            "num_reviews": 396
         },
         "38303": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, White",
@@ -24145,7 +24145,7 @@
             "product_id": 38797,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 79
+            "num_reviews": 84
         },
         "38799": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 1.5ft, Blue",
@@ -25036,7 +25036,7 @@
             "product_id": 39019,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 61
+            "num_reviews": 62
         },
         "39020": {
             "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam, 22 x 14 x 8 in, Orange",
@@ -26546,7 +26546,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=39617",
             "product_id": 39617,
-            "available": false,
+            "available": true,
             "rating": 4.1,
             "num_reviews": 22
         },
@@ -45156,6 +45156,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-09T20:35:03Z"
+        "timestamp": "2023-05-09T20:55:31Z"
     }
 }
