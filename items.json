@@ -10834,7 +10834,7 @@
             "product_id": 2181,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 385
+            "num_reviews": 386
         },
         "2182": {
             "name": "Monoprice 3ft 22AWG 5-RCA Component Video/Audio Coaxial Cable (RG-59/U) - Black",
@@ -13829,7 +13829,7 @@
             "price": 24.49,
             "url": "https://www.monoprice.com/product?p_id=2748",
             "product_id": 2748,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1538
         },
@@ -14317,7 +14317,7 @@
             "product_id": 2790,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1538
+            "num_reviews": 1539
         },
         "27906": {
             "name": "Monoprice Essentials USB Type-C to Type-C 2.0 Cable - 480Mbps, 5A, 30/26AWG, White, 4m (13.1 ft)",
@@ -14677,7 +14677,7 @@
             "product_id": 2865,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 1299
+            "num_reviews": 1301
         },
         "2866": {
             "name": "Monoprice 25ft Premium 2 RCA Plug/2 RCA Plug M/M 22AWG Cable - Black",
@@ -14686,7 +14686,7 @@
             "product_id": 2866,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 1300
+            "num_reviews": 1301
         },
         "2867": {
             "name": "Monoprice 35ft Premium 2 RCA Plug/2 RCA Plug M/M 22AWG Cable - Black",
@@ -15351,8 +15351,8 @@
             "url": "https://www.monoprice.com/product?p_id=3035",
             "product_id": 3035,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 950
+            "rating": 4.8,
+            "num_reviews": 951
         },
         "30359": {
             "name": "Monoprice Commercial Series Mobile Tripod Tilt TV Wall Mount Bracket Stand - For LED TVs 32in to 55in, Max Weight 77 lbs., VESA Patterns up to 400x400",
@@ -28276,7 +28276,7 @@
             "product_id": 4039,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1851
+            "num_reviews": 1854
         },
         "40394": {
             "name": "Pure Outdoor by Monoprice Emperor 50 Rotomolded Portable Wheeled Cooler 13.2 Gal, White",
@@ -38022,8 +38022,8 @@
             "url": "https://www.monoprice.com/product?p_id=5360",
             "product_id": 5360,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 950
+            "rating": 4.8,
+            "num_reviews": 951
         },
         "5361": {
             "name": "Monoprice 1.5ft SVGA Super VGA M/M Monitor Cable with Ferrites (Gold Plated)",
@@ -39697,7 +39697,7 @@
             "product_id": 6305,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1459
         },
         "6306": {
             "name": "Monoprice 15ft High-quality Coaxial Audio/Video RCA CL2 Rated Cable - RG6/U 75ohm (for S/PDIF, Digital Coax, Subwoofer, and Composite Video)",
@@ -45084,6 +45084,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-09T03:07:26Z"
+        "timestamp": "2023-05-09T03:24:17Z"
     }
 }
