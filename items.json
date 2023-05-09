@@ -10539,15 +10539,6 @@
             "rating": 3,
             "num_reviews": 2
         },
-        "21628": {
-            "name": "Monoprice Decor Insert with Flexible Opening, White",
-            "price": 5.99,
-            "url": "https://www.monoprice.com/product?p_id=21628",
-            "product_id": 21628,
-            "available": false,
-            "rating": 3.7,
-            "num_reviews": 3
-        },
         "21629": {
             "name": "Monoprice 1-Gang Brush Wall Plate, White",
             "price": 6.79,
@@ -10628,15 +10619,6 @@
             "available": false,
             "rating": 0,
             "num_reviews": 0
-        },
-        "21659": {
-            "name": "Monoprice Décor Wall Plate Insert with 90-degree HDMI Connector, White",
-            "price": 5.14,
-            "url": "https://www.monoprice.com/product?p_id=21659",
-            "product_id": 21659,
-            "available": false,
-            "rating": 3.7,
-            "num_reviews": 3
         },
         "21664": {
             "name": "Monoprice RG-6 Quad Universal F-Connector, 25 Pack",
@@ -45057,6 +45039,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-09T23:34:32Z"
+        "timestamp": "2023-05-09T23:44:26Z"
     }
 }
