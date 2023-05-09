@@ -17276,7 +17276,7 @@
             "price": 95.99,
             "url": "https://www.monoprice.com/product?p_id=33393",
             "product_id": 33393,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 55
         },
@@ -17483,15 +17483,6 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=33558",
             "product_id": 33558,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 354
-        },
-        "33559": {
-            "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A/1250W, 125V, 3-Prong, Green, 2ft",
-            "price": 2.49,
-            "url": "https://www.monoprice.com/product?p_id=33559",
-            "product_id": 33559,
             "available": false,
             "rating": 4.9,
             "num_reviews": 354
@@ -19528,7 +19519,7 @@
             "product_id": 34437,
             "available": true,
             "rating": 3.5,
-            "num_reviews": 41
+            "num_reviews": 42
         },
         "34438": {
             "name": "Monoprice MP10 Mini 200x200mm 3D Printer, Magnetic Heated Build Plate, Resume Printing Function, Assisted Leveling, and Touchscreen",
@@ -20156,6 +20147,15 @@
             "price": 37.1,
             "url": "https://www.monoprice.com/product?p_id=34779",
             "product_id": 34779,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 1464
+        },
+        "34780": {
+            "name": "FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 15m, Gray, 5 pack",
+            "price": 23.74,
+            "url": "https://www.monoprice.com/product?p_id=34780",
+            "product_id": 34780,
             "available": true,
             "rating": 4.9,
             "num_reviews": 1464
@@ -21095,15 +21095,6 @@
             "available": true,
             "rating": 2.8,
             "num_reviews": 11
-        },
-        "35425": {
-            "name": "Monoprice 48 Port Cat6A Unshielded Patch Panel, 1U, Horizontal 180 degree, Dustproof Cover, with Wire Support Bar",
-            "price": 38.99,
-            "url": "https://www.monoprice.com/product?p_id=35425",
-            "product_id": 35425,
-            "available": false,
-            "rating": 4.3,
-            "num_reviews": 4
         },
         "35429": {
             "name": "Monoprice 24 Port Cat5e UTP Patch Panel, 1U, Toolless, Rotary Type, with Wire Support Bar",
@@ -22967,15 +22958,6 @@
             "available": true,
             "rating": 4.5,
             "num_reviews": 48
-        },
-        "38203": {
-            "name": "Monolith by Monoprice 15\" THX Ultra Certified 1000 Watt Powered Subwoofer (Open Box)",
-            "price": 599.99,
-            "url": "https://www.monoprice.com/product?p_id=38203",
-            "product_id": 38203,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 5
         },
         "38274": {
             "name": "Monoprice OM3 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 3m",
@@ -45111,6 +45093,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-09T17:06:17Z"
+        "timestamp": "2023-05-09T17:22:46Z"
     }
 }
