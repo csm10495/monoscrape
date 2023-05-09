@@ -16214,7 +16214,7 @@
             "price": 249.99,
             "url": "https://www.monoprice.com/product?p_id=31034",
             "product_id": 31034,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 21
         },
@@ -19004,7 +19004,7 @@
             "price": 1.79,
             "url": "https://www.monoprice.com/product?p_id=34213",
             "product_id": 34213,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 76
         },
@@ -20903,7 +20903,7 @@
             "price": 89.99,
             "url": "https://www.monoprice.com/product?p_id=35124",
             "product_id": 35124,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 59
         },
@@ -21128,7 +21128,7 @@
             "price": 38.99,
             "url": "https://www.monoprice.com/product?p_id=35425",
             "product_id": 35425,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 4
         },
@@ -22995,6 +22995,15 @@
             "rating": 4.5,
             "num_reviews": 48
         },
+        "38203": {
+            "name": "Monolith by Monoprice 15\" THX Ultra Certified 1000 Watt Powered Subwoofer (Open Box)",
+            "price": 599.99,
+            "url": "https://www.monoprice.com/product?p_id=38203",
+            "product_id": 38203,
+            "available": false,
+            "rating": 5,
+            "num_reviews": 5
+        },
         "38274": {
             "name": "Monoprice OM3 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 3m",
             "price": 3.99,
@@ -23182,7 +23191,7 @@
             "product_id": 38314,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 262
+            "num_reviews": 263
         },
         "38315": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, White",
@@ -25063,7 +25072,7 @@
             "product_id": 39021,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 61
+            "num_reviews": 62
         },
         "39028": {
             "name": "Monoprice Select Series DisplayPort to HDTV Cable, 2m (6.6ft), 4K@60Hz",
@@ -25136,15 +25145,6 @@
             "available": true,
             "rating": 4.6,
             "num_reviews": 49
-        },
-        "39075": {
-            "name": "Monoprice Entegrade 1000FT Cat8 2GHz S/FTP Solid, 22AWG, Bulk Bare Copper Network Cable, 40G, Blue",
-            "price": 599.99,
-            "url": "https://www.monoprice.com/product?p_id=39075",
-            "product_id": 39075,
-            "available": true,
-            "rating": 4.3,
-            "num_reviews": 7
         },
         "39078": {
             "name": "Monoprice Cat6 50ft Black Patch Cable, UTP, 32AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Micro SlimRun Series Ethernet Cable",
@@ -26061,8 +26061,8 @@
             "url": "https://www.monoprice.com/product?p_id=39512",
             "product_id": 39512,
             "available": true,
-            "rating": 4.4,
-            "num_reviews": 5
+            "rating": 4.3,
+            "num_reviews": 6
         },
         "39513": {
             "name": "Monoprice PTZ Video Conference Camera, Pan Tilt Zoom with Remote, Full HD 1080p Webcam, USB 2.0, 10x Optical Zoom",
@@ -26438,7 +26438,7 @@
             "price": 78.99,
             "url": "https://www.monoprice.com/product?p_id=39556",
             "product_id": 39556,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 13603
         },
@@ -27086,7 +27086,7 @@
             "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=39787",
             "product_id": 39787,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 304
         },
@@ -45129,6 +45129,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-09T15:55:22Z"
+        "timestamp": "2023-05-09T16:10:23Z"
     }
 }
