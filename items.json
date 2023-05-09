@@ -29860,7 +29860,7 @@
             "product_id": 41383,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1851
+            "num_reviews": 1854
         },
         "41384": {
             "name": "Monoprice Access Series 12AWG CL2 Rated 4-Conductor Speaker Wire, 100ft, Black",
@@ -29896,7 +29896,7 @@
             "product_id": 41387,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1851
+            "num_reviews": 1854
         },
         "41388": {
             "name": "Monoprice Access Series 16AWG CL2 Rated 4-Conductor Speaker Wire, 100ft, Black",
@@ -29959,7 +29959,7 @@
             "product_id": 41394,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1851
+            "num_reviews": 1854
         },
         "41395": {
             "name": "Monoprice Access Series 18AWG CL2 Rated 4-Conductor Speaker Wire, 1000ft, Black",
@@ -30977,15 +30977,6 @@
             "available": false,
             "rating": 5,
             "num_reviews": 9
-        },
-        "42000": {
-            "name": "Monolith by Monoprice MM-5R Powered Multimedia Speakers Ribbon Tweeter with Bluetooth with Qualcomm aptX HD Audio, USB DAC, Optical Inputs (open box)",
-            "price": 197.99,
-            "url": "https://www.monoprice.com/product?p_id=42000",
-            "product_id": 42000,
-            "available": true,
-            "rating": 0,
-            "num_reviews": 0
         },
         "42011": {
             "name": "Monoprice SB-500 Dolby Digital 5.1 Soundbar with Wireless Surround Speakers and Wireless Subwoofer, 2 HDMI Inputs, 4K HDR Pass-Through, Optical, Coax, ARC, Remote",
@@ -32497,7 +32488,7 @@
             "product_id": 42687,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 222
+            "num_reviews": 224
         },
         "42688": {
             "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 26AWG, 15ft, Black - 5 Pack",
@@ -33386,7 +33377,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=43015",
             "product_id": 43015,
-            "available": true,
+            "available": false,
             "rating": 3.5,
             "num_reviews": 10
         },
@@ -33885,6 +33876,15 @@
             "rating": 4.8,
             "num_reviews": 10
         },
+        "43177": {
+            "name": "Monoprice Heavy Duty Power Cable - IEC 60320 C14 to IEC 60320 C15, 14AWG, 15A, SJT, 125V, White, 3ft",
+            "price": 2.69,
+            "url": "https://www.monoprice.com/product?p_id=43177",
+            "product_id": 43177,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 7
+        },
         "43178": {
             "name": "Monoprice Heavy Duty Power Cable - IEC 60320 C14 to IEC 60320 C15, 14AWG, 15A, SJT, 125V, White, 6ft",
             "price": 2.25,
@@ -34016,7 +34016,7 @@
             "price": 33.99,
             "url": "https://www.monoprice.com/product?p_id=43199",
             "product_id": 43199,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -34513,7 +34513,7 @@
             "product_id": 43333,
             "available": true,
             "rating": 5,
-            "num_reviews": 5
+            "num_reviews": 6
         },
         "43339": {
             "name": "Monoprice Cat6 6in White 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -36329,7 +36329,7 @@
             "price": 299.99,
             "url": "https://www.monoprice.com/product?p_id=44492",
             "product_id": 44492,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -45156,6 +45156,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-09T19:37:14Z"
+        "timestamp": "2023-05-09T19:47:05Z"
     }
 }
