@@ -21759,8 +21759,8 @@
             "url": "https://www.monoprice.com/product?p_id=42111",
             "product_id": 42111,
             "available": true,
-            "rating": 3,
-            "num_reviews": 2
+            "rating": 3.7,
+            "num_reviews": 3
         },
         "42114": {
             "name": "Workstream by Monoprice Low-Profile Spill-Resistant Silent Keyboard - Membrane, Water-Resistant Coating, 10 Million Keystrokes",
@@ -22777,7 +22777,7 @@
             "product_id": 42684,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 223
+            "num_reviews": 224
         },
         "42685": {
             "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 30AWG, 3ft, Black - 5 Pack",
@@ -35418,6 +35418,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-09T11:03:28Z"
+        "timestamp": "2023-05-09T11:20:23Z"
     }
 }
