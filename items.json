@@ -28886,7 +28886,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=40886",
             "product_id": 40886,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 56
         },
@@ -29372,7 +29372,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=41094",
             "product_id": 41094,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 3
         },
@@ -29833,7 +29833,7 @@
             "product_id": 41380,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1851
+            "num_reviews": 1854
         },
         "41381": {
             "name": "Monoprice Access Series 12AWG CL2 Rated 2-Conductor Speaker Wire, 250ft, Black",
@@ -30114,6 +30114,15 @@
             "rating": 4.9,
             "num_reviews": 69
         },
+        "41483": {
+            "name": "Monoprice Entegrade 500FT Cat8.2 2GHz S/FTP Solid, PoE+ (IEEE 802.3at) 22AWG, Bulk Bare Copper Network Cable, 40G, Blue (UL) (TAA)",
+            "price": 329.99,
+            "url": "https://www.monoprice.com/product?p_id=41483",
+            "product_id": 41483,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 3
+        },
         "41484": {
             "name": "Monoprice Cat6A 500ft Black CMR UL Bulk Cable, TAA, Shielded (F/UTP), Solid, 23AWG, 550MHz, 10G, Pure Bare Copper, Reel in Box, Bulk Ethernet Cable",
             "price": 129.99,
@@ -30173,7 +30182,7 @@
             "price": 299.99,
             "url": "https://www.monoprice.com/product?p_id=41499",
             "product_id": 41499,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 42
         },
@@ -30551,7 +30560,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=41732",
             "product_id": 41732,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 90
         },
@@ -30992,7 +31001,7 @@
             "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=42014",
             "product_id": 42014,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 108
         },
@@ -31127,7 +31136,7 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=42029",
             "product_id": 42029,
-            "available": true,
+            "available": false,
             "rating": 3.7,
             "num_reviews": 11
         },
@@ -31442,7 +31451,7 @@
             "price": 14.44,
             "url": "https://www.monoprice.com/product?p_id=42114",
             "product_id": 42114,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -31586,7 +31595,7 @@
             "price": 7.49,
             "url": "https://www.monoprice.com/product?p_id=42164",
             "product_id": 42164,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -32056,7 +32065,7 @@
             "product_id": 42532,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 262
+            "num_reviews": 263
         },
         "42533": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Black - 3 Pack",
@@ -32101,7 +32110,7 @@
             "product_id": 42537,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 395
+            "num_reviews": 396
         },
         "42538": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft/3ft/6ft, Red - 3 Pack",
@@ -32171,7 +32180,7 @@
             "price": 1999.99,
             "url": "https://www.monoprice.com/product?p_id=42565",
             "product_id": 42565,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 1
         },
@@ -33260,7 +33269,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=42993",
             "product_id": 42993,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 8
         },
@@ -33278,7 +33287,7 @@
             "price": 18.99,
             "url": "https://www.monoprice.com/product?p_id=42995",
             "product_id": 42995,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 8
         },
@@ -33325,7 +33334,7 @@
             "product_id": 43000,
             "available": true,
             "rating": 5,
-            "num_reviews": 7
+            "num_reviews": 8
         },
         "43002": {
             "name": "Monoprice 8K DisplayPort 2.0 Cable, 3m",
@@ -33361,7 +33370,7 @@
             "product_id": 43005,
             "available": true,
             "rating": 5,
-            "num_reviews": 7
+            "num_reviews": 8
         },
         "43015": {
             "name": "Monoprice 2MP 1080p Full HD USB Webcam Online Web Meeting Camera with Privacy Lens Cover",
@@ -33872,7 +33881,7 @@
             "price": 2.69,
             "url": "https://www.monoprice.com/product?p_id=43177",
             "product_id": 43177,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 7
         },
@@ -34007,7 +34016,7 @@
             "price": 33.99,
             "url": "https://www.monoprice.com/product?p_id=43199",
             "product_id": 43199,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 1
         },
@@ -34196,7 +34205,7 @@
             "price": 98.99,
             "url": "https://www.monoprice.com/product?p_id=43224",
             "product_id": 43224,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 269
         },
@@ -36077,7 +36086,7 @@
             "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=44372",
             "product_id": 44372,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -45093,6 +45102,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-09T13:54:31Z"
+        "timestamp": "2023-05-09T14:06:24Z"
     }
 }
