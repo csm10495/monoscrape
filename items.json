@@ -29201,7 +29201,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=41035",
             "product_id": 41035,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 12
         },
@@ -31499,15 +31499,6 @@
             "available": true,
             "rating": 5,
             "num_reviews": 3
-        },
-        "42155": {
-            "name": "Flat Adhesive Super Slim Micro Speaker Wire - Two 18AWG Conductors, 25ft",
-            "price": 15.99,
-            "url": "https://www.monoprice.com/product?p_id=42155",
-            "product_id": 42155,
-            "available": false,
-            "rating": 3,
-            "num_reviews": 1
         },
         "42156": {
             "name": "Flat Adhesive Super Slim Micro Speaker Wire - Two 18AWG Conductors, 50ft",
@@ -45156,6 +45147,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-09T20:55:31Z"
+        "timestamp": "2023-05-09T21:05:53Z"
     }
 }
