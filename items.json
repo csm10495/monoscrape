@@ -1895,7 +1895,7 @@
             "price": 0.79,
             "url": "https://www.monoprice.com/product?p_id=1153",
             "product_id": 1153,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 14
         },
@@ -2210,7 +2210,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=1203",
             "product_id": 1203,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 15
         },
@@ -10922,7 +10922,7 @@
             "price": 68.49,
             "url": "https://www.monoprice.com/product?p_id=2185",
             "product_id": 2185,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 879
         },
@@ -11417,7 +11417,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=2308",
             "product_id": 2308,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -13190,7 +13190,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=2522",
             "product_id": 2522,
-            "available": false,
+            "available": true,
             "rating": 2.8,
             "num_reviews": 208
         },
@@ -13217,7 +13217,7 @@
             "price": 6.49,
             "url": "https://www.monoprice.com/product?p_id=2602",
             "product_id": 2602,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 7
         },
@@ -13390,7 +13390,7 @@
             "product_id": 2682,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1459
         },
         "2683": {
             "name": "Monoprice 25ft High-quality Coaxial Audio/Video RCA CL2 Rated Cable - RG6/U 75ohm (for S/PDIF, Digital Coax, Subwoofer \u0026 Composite Video)",
@@ -23533,7 +23533,7 @@
             "product_id": 3845,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1851
+            "num_reviews": 1854
         },
         "38450": {
             "name": "Monoprice Single-Mode Fiber Optic Cable - LC/LC, 9/125 Type, Duplex, Yellow, 2m",
@@ -35816,7 +35816,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=443",
             "product_id": 443,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 8
         },
@@ -38633,7 +38633,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=5577",
             "product_id": 5577,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 1088
         },
@@ -39524,7 +39524,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=619",
             "product_id": 619,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 538
         },
@@ -39704,7 +39704,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=6304",
             "product_id": 6304,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 538
         },
@@ -40028,7 +40028,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=644",
             "product_id": 644,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 926
         },
@@ -40118,7 +40118,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=6457",
             "product_id": 6457,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 359
         },
@@ -40145,7 +40145,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=647",
             "product_id": 647,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 926
         },
@@ -40325,7 +40325,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=6539",
             "product_id": 6539,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 89
         },
@@ -40388,7 +40388,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=655",
             "product_id": 655,
-            "available": false,
+            "available": true,
             "rating": 4.1,
             "num_reviews": 82
         },
@@ -40451,7 +40451,7 @@
             "price": 1.19,
             "url": "https://www.monoprice.com/product?p_id=659",
             "product_id": 659,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 143
         },
@@ -40505,7 +40505,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=665",
             "product_id": 665,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 421
         },
@@ -40514,7 +40514,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=666",
             "product_id": 666,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 155
         },
@@ -40523,7 +40523,7 @@
             "price": 0.89,
             "url": "https://www.monoprice.com/product?p_id=667",
             "product_id": 667,
-            "available": false,
+            "available": true,
             "rating": 4.2,
             "num_reviews": 247
         },
@@ -40874,7 +40874,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=6985",
             "product_id": 6985,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 65
         },
@@ -42782,7 +42782,7 @@
             "price": 5.49,
             "url": "https://www.monoprice.com/product?p_id=85",
             "product_id": 85,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 571
         },
@@ -43376,7 +43376,7 @@
             "price": 0.89,
             "url": "https://www.monoprice.com/product?p_id=8778",
             "product_id": 8778,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 251
         },
@@ -43970,7 +43970,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=9447",
             "product_id": 9447,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 211
         },
@@ -45102,6 +45102,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-09T14:23:48Z"
+        "timestamp": "2023-05-09T14:32:24Z"
     }
 }
