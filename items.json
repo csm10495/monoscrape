@@ -2356,7 +2356,7 @@
             "product_id": 12235,
             "available": true,
             "rating": 4,
-            "num_reviews": 591
+            "num_reviews": 592
         },
         "12239": {
             "name": "Monoprice 4.5ft USB 2.0 A Male to Micro B Male 30/20 AWG Fast Charge / Security Cable",
@@ -9566,15 +9566,6 @@
             "available": true,
             "rating": 4.8,
             "num_reviews": 8
-        },
-        "18653": {
-            "name": "Datacomm Hole Saw Plate",
-            "price": 5.99,
-            "url": "https://www.monoprice.com/product?p_id=18653",
-            "product_id": 18653,
-            "available": false,
-            "rating": 4.7,
-            "num_reviews": 37
         },
         "18660": {
             "name": "Monoprice Recessed Media Box II with 15A 125V Duplex Receptacle",
@@ -45066,6 +45057,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-09T23:28:19Z"
+        "timestamp": "2023-05-09T23:34:32Z"
     }
 }
