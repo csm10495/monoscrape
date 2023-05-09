@@ -29318,7 +29318,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=41089",
             "product_id": 41089,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 7
         },
@@ -29327,7 +29327,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=41091",
             "product_id": 41091,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 4
         },
@@ -30155,7 +30155,7 @@
             "price": 299.99,
             "url": "https://www.monoprice.com/product?p_id=41499",
             "product_id": 41499,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 42
         },
@@ -31739,7 +31739,7 @@
             "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=42305",
             "product_id": 42305,
-            "available": false,
+            "available": true,
             "rating": 4,
             "num_reviews": 14
         },
@@ -33350,7 +33350,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=43015",
             "product_id": 43015,
-            "available": false,
+            "available": true,
             "rating": 3.5,
             "num_reviews": 10
         },
@@ -33848,15 +33848,6 @@
             "available": false,
             "rating": 4.8,
             "num_reviews": 10
-        },
-        "43177": {
-            "name": "Monoprice Heavy Duty Power Cable - IEC 60320 C14 to IEC 60320 C15, 14AWG, 15A, SJT, 125V, White, 3ft",
-            "price": 2.69,
-            "url": "https://www.monoprice.com/product?p_id=43177",
-            "product_id": 43177,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 7
         },
         "43178": {
             "name": "Monoprice Heavy Duty Power Cable - IEC 60320 C14 to IEC 60320 C15, 14AWG, 15A, SJT, 125V, White, 6ft",
@@ -35901,6 +35892,15 @@
             "rating": 0,
             "num_reviews": 0
         },
+        "44327": {
+            "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 24AWG, 20ft, Black",
+            "price": 34.99,
+            "url": "https://www.monoprice.com/product?p_id=44327",
+            "product_id": 44327,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 224
+        },
         "44328": {
             "name": "Monoprice SlimRun AV 8K Certified Ultra High Speed Active HDMI Cable, CMP Plenum rated, HDMI 2.1, AOC, 7.5m, 24ft",
             "price": 99.99,
@@ -36008,6 +36008,33 @@
             "available": true,
             "rating": 5,
             "num_reviews": 1
+        },
+        "44340": {
+            "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 24AWG, 25ft, Black",
+            "price": 39.99,
+            "url": "https://www.monoprice.com/product?p_id=44340",
+            "product_id": 44340,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 224
+        },
+        "44341": {
+            "name": "Monoprice 8K Certified Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 24AWG, 20ft, Black",
+            "price": 32.99,
+            "url": "https://www.monoprice.com/product?p_id=44341",
+            "product_id": 44341,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 128
+        },
+        "44342": {
+            "name": "Monoprice 8K Certified Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 24AWG, 25ft, Black",
+            "price": 37.99,
+            "url": "https://www.monoprice.com/product?p_id=44342",
+            "product_id": 44342,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 128
         },
         "44343": {
             "name": "Monoprice DisplayPort 1.4 to 8K HDMI Cable, 8K 60Hz, 32AWG, 3ft",
@@ -45093,6 +45120,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-09T17:22:46Z"
+        "timestamp": "2023-05-09T17:30:09Z"
     }
 }
