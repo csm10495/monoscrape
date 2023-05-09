@@ -14072,7 +14072,7 @@
             "price": 11.49,
             "url": "https://www.monoprice.com/product?p_id=2766",
             "product_id": 2766,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 2398
         },
@@ -28321,7 +28321,7 @@
             "product_id": 4040,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1851
+            "num_reviews": 1854
         },
         "40401": {
             "name": "Monoprice 36in SATA 6Gbps Cable with Locking Latch (90 Degree to 180 Degree), Blue",
@@ -45093,6 +45093,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-08T23:54:45Z"
+        "timestamp": "2023-05-09T00:32:53Z"
     }
 }
