@@ -32416,7 +32416,7 @@
             "product_id": 42681,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 223
+            "num_reviews": 224
         },
         "42682": {
             "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 30AWG, 6ft, Black",
@@ -34377,8 +34377,8 @@
             "url": "https://www.monoprice.com/product?p_id=43261",
             "product_id": 43261,
             "available": true,
-            "rating": 4.1,
-            "num_reviews": 12
+            "rating": 4.2,
+            "num_reviews": 13
         },
         "43262": {
             "name": "Monoprice Harmony Capsule 200 Portable Bluetooth Speaker",
@@ -45138,6 +45138,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-09T21:55:09Z"
+        "timestamp": "2023-05-09T22:06:04Z"
     }
 }
