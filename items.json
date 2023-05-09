@@ -851,7 +851,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=11242",
             "product_id": 11242,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 461
         },
@@ -1913,7 +1913,7 @@
             "price": 14.41,
             "url": "https://www.monoprice.com/product?p_id=11551",
             "product_id": 11551,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 573
         },
@@ -2777,7 +2777,7 @@
             "price": 119.99,
             "url": "https://www.monoprice.com/product?p_id=12756",
             "product_id": 12756,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 5
         },
@@ -2813,7 +2813,7 @@
             "price": 119.99,
             "url": "https://www.monoprice.com/product?p_id=12763",
             "product_id": 12763,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 5
         },
@@ -2939,7 +2939,7 @@
             "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=12839",
             "product_id": 12839,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 2056
         },
@@ -3965,7 +3965,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=13406",
             "product_id": 13406,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 167
         },
@@ -7063,7 +7063,7 @@
             "product_id": 15252,
             "available": true,
             "rating": 4.1,
-            "num_reviews": 96
+            "num_reviews": 97
         },
         "15260": {
             "name": "Blackbird 4K Pro 1x8 HDMI Splitter HDR 18Gbps 4K@60Hz YCbCr 4:4:4 with HDCP 2.2 and EDID Support",
@@ -8510,7 +8510,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=16131",
             "product_id": 16131,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 21
         },
@@ -8798,7 +8798,7 @@
             "price": 26.99,
             "url": "https://www.monoprice.com/product?p_id=16250",
             "product_id": 16250,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 42
         },
@@ -9293,7 +9293,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=18519",
             "product_id": 18519,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -9464,7 +9464,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=18628",
             "product_id": 18628,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 100
         },
@@ -35418,6 +35418,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-09T12:53:37Z"
+        "timestamp": "2023-05-09T13:31:41Z"
     }
 }
