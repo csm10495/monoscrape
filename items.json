@@ -10283,7 +10283,7 @@
             "price": 50.99,
             "url": "https://www.monoprice.com/product?p_id=21550",
             "product_id": 21550,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 29
         },
@@ -10364,7 +10364,7 @@
             "price": 319.99,
             "url": "https://www.monoprice.com/product?p_id=21590",
             "product_id": 21590,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 205
         },
@@ -10706,7 +10706,7 @@
             "price": 15.49,
             "url": "https://www.monoprice.com/product?p_id=21682",
             "product_id": 21682,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 158
         },
@@ -10852,7 +10852,7 @@
             "product_id": 21820,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 2003
+            "num_reviews": 2004
         },
         "21821": {
             "name": "Monoprice 12 PAIRS Of High-Quality Gold Plated Speaker Banana Plugs, Closed Screw Type",
@@ -11815,7 +11815,7 @@
             "product_id": 24184,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 503
+            "num_reviews": 504
         },
         "24186": {
             "name": "Monoprice 4K Slim Certified Premium High Speed HDMI Cable 5ft - 18Gbps Black",
@@ -12776,7 +12776,7 @@
             "price": 20.39,
             "url": "https://www.monoprice.com/product?p_id=24441",
             "product_id": 24441,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 61
         },
@@ -12956,7 +12956,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=24587",
             "product_id": 24587,
-            "available": false,
+            "available": true,
             "rating": 4.2,
             "num_reviews": 22
         },
@@ -13856,7 +13856,7 @@
             "price": 2.69,
             "url": "https://www.monoprice.com/product?p_id=27488",
             "product_id": 27488,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 67
         },
@@ -35418,6 +35418,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-09T13:31:41Z"
+        "timestamp": "2023-05-09T13:47:20Z"
     }
 }
