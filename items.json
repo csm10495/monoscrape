@@ -29414,7 +29414,7 @@
         },
         "41197": {
             "name": "Pioneer Elite SC-LX901 11.2-Ch. Dolby Atmos \u0026 DTS:X 4K Ultra HD 3D Pass thru Network A/V Home Theater Receiver - Black (clearance)",
-            "price": 1599.99,
+            "price": 1399.99,
             "url": "https://www.monoprice.com/product?p_id=41197",
             "product_id": 41197,
             "available": true,
@@ -31649,7 +31649,7 @@
             "price": 11.19,
             "url": "https://www.monoprice.com/product?p_id=42267",
             "product_id": 42267,
-            "available": true,
+            "available": false,
             "rating": 3.5,
             "num_reviews": 31
         },
@@ -31688,6 +31688,15 @@
             "available": false,
             "rating": 5,
             "num_reviews": 2
+        },
+        "42290": {
+            "name": "Waterproof Gardening Gloves with Hand Sturdy Claws,Quick \u0026 Easy to Dig \u0026 Plant Safe for Rose Pruning",
+            "price": 4.99,
+            "url": "https://www.monoprice.com/product?p_id=42290",
+            "product_id": 42290,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
         },
         "42300": {
             "name": "Dark Matter by Monoprice Supernova Universal 3.5mm Gaming Headset - 53mm Driver, Detachable Unidirectional Mic, PU Leather/Aluminum",
@@ -33298,7 +33307,7 @@
             "product_id": 42999,
             "available": true,
             "rating": 5,
-            "num_reviews": 7
+            "num_reviews": 8
         },
         "43000": {
             "name": "Monoprice 8K DisplayPort 2.0 Cable, 1m",
@@ -33325,7 +33334,7 @@
             "product_id": 43003,
             "available": true,
             "rating": 5,
-            "num_reviews": 7
+            "num_reviews": 8
         },
         "43004": {
             "name": "Monoprice 8K DisplayPort 2.0 Cable, 2m, 5 Pack",
@@ -35199,6 +35208,15 @@
             "rating": 0,
             "num_reviews": 0
         },
+        "43663": {
+            "name": "MPM Foldable Dog Crate, Dog Metal Kennel 36 Inch Double Door Cage, Handle, Plastic Tray for Pet Animals Indoor Outdoor",
+            "price": 59.99,
+            "url": "https://www.monoprice.com/product?p_id=43663",
+            "product_id": 43663,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "43664": {
             "name": "Portable Folding Dog Car Ramp, Pet Ramp Stairs Step Ladder for Large Dogs with Siderails, Non-Slip, Supports 150 lb, Easy Storage, Foldable for Truck, SUV, Bed, Boat",
             "price": 49.99,
@@ -35306,15 +35324,6 @@
             "available": true,
             "rating": 4,
             "num_reviews": 7
-        },
-        "43749": {
-            "name": "4 Piece Drill Brush Cleaning Attachments Set, All Purpose Clean Power Scrubber Brush, with Extend Long Attachment for Grout, Tiles, Sinks, Bathtub, Bathroom, Kitchen, Tub, Car",
-            "price": 5.99,
-            "url": "https://www.monoprice.com/product?p_id=43749",
-            "product_id": 43749,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
         },
         "43765": {
             "name": "MPM Lightweight Folding Cane with Seat, Walking Stick, Walking Cane, Crutch Chair, Travel Aid",
@@ -45120,6 +45129,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-09T18:28:34Z"
+        "timestamp": "2023-05-09T18:35:48Z"
     }
 }
