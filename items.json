@@ -15892,7 +15892,7 @@
             "product_id": 30764,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 198
+            "num_reviews": 199
         },
         "30765": {
             "name": "Monoprice Palette Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 3ft White",
@@ -24613,7 +24613,7 @@
             "product_id": 38878,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 59
+            "num_reviews": 60
         },
         "38879": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 5A/100W, 3ft, White, 3 Pack",
@@ -45138,6 +45138,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-09T21:45:06Z"
+        "timestamp": "2023-05-09T21:55:09Z"
     }
 }
