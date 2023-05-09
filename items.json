@@ -18324,15 +18324,6 @@
             "rating": 4.9,
             "num_reviews": 3040
         },
-        "33868": {
-            "name": "Monoprice 8P8C RJ45 Cat6a Shielded Inline Coupler",
-            "price": 5.49,
-            "url": "https://www.monoprice.com/product?p_id=33868",
-            "product_id": 33868,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 3
-        },
         "33869": {
             "name": "Monoprice 8P8C RJ45 Cat6a Shielded Inline Coupler Type Keystone Jack",
             "price": 5.49,
@@ -19665,15 +19656,6 @@
             "rating": 4.8,
             "num_reviews": 9
         },
-        "34512": {
-            "name": "Décor Insert for Keystone, 3 Hole, White",
-            "price": 0.47,
-            "url": "https://www.monoprice.com/product?p_id=34512",
-            "product_id": 34512,
-            "available": false,
-            "rating": 2.5,
-            "num_reviews": 4
-        },
         "34515": {
             "name": "Décor Insert for Keystone, 4 Hole, White",
             "price": 0.59,
@@ -19709,15 +19691,6 @@
             "available": true,
             "rating": 4.1,
             "num_reviews": 7
-        },
-        "34524": {
-            "name": "Wall Plate for Keystone with Label Window, 2 Hole, White",
-            "price": 2.09,
-            "url": "https://www.monoprice.com/product?p_id=34524",
-            "product_id": 34524,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
         },
         "34534": {
             "name": "Décor Insert with Combo Phone/Video, Ivory",
@@ -23191,7 +23164,7 @@
             "product_id": 38321,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 262
+            "num_reviews": 263
         },
         "38322": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Purple",
@@ -23895,15 +23868,6 @@
             "rating": 4.4,
             "num_reviews": 43
         },
-        "38629": {
-            "name": "Monoprice 8K SlimRun AV Ultra High Speed HDMI Cable 50ft - AOC 48Gbps Black",
-            "price": 129.29,
-            "url": "https://www.monoprice.com/product?p_id=38629",
-            "product_id": 38629,
-            "available": false,
-            "rating": 4.4,
-            "num_reviews": 43
-        },
         "38631": {
             "name": "Monoprice 8K SlimRun AV Ultra High Speed HDMI Cable 100ft - AOC 48Gbps Black",
             "price": 139.99,
@@ -24415,7 +24379,7 @@
             "product_id": 38842,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 59
+            "num_reviews": 60
         },
         "38844": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 3A/60W, 10ft, White",
@@ -24532,7 +24496,7 @@
             "product_id": 38861,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 59
+            "num_reviews": 60
         },
         "38862": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 5A/100W, 3ft, Blue",
@@ -45039,6 +45003,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-09T23:44:26Z"
+        "timestamp": "2023-05-09T23:54:48Z"
     }
 }
