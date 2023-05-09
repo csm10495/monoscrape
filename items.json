@@ -1391,7 +1391,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=11329",
             "product_id": 11329,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 461
         },
@@ -1517,7 +1517,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=11348",
             "product_id": 11348,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 461
         },
@@ -2354,7 +2354,7 @@
             "price": 249.99,
             "url": "https://www.monoprice.com/product?p_id=12184",
             "product_id": 12184,
-            "available": false,
+            "available": true,
             "rating": 4.1,
             "num_reviews": 12
         },
@@ -4779,6 +4779,15 @@
             "rating": 4.9,
             "num_reviews": 34
         },
+        "13679": {
+            "name": "Monoprice Cat5e Ethernet Bulk Cable - Solid, 350MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 24AWG, 500ft, White (UL)",
+            "price": 44.99,
+            "url": "https://www.monoprice.com/product?p_id=13679",
+            "product_id": 13679,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 34
+        },
         "13680": {
             "name": "Monoprice Cat5e 250ft Blue CMR UL Bulk Cable, UTP, Solid, 24AWG, 350MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
             "price": 34.99,
@@ -7079,7 +7088,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=15262",
             "product_id": 15262,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 47
         },
@@ -45102,6 +45111,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-09T14:32:24Z"
+        "timestamp": "2023-05-09T14:38:28Z"
     }
 }
