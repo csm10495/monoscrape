@@ -18927,6 +18927,15 @@
             "rating": 4.8,
             "num_reviews": 503
         },
+        "34207": {
+            "name": "Monoprice 4K Certified Premium High Speed HDMI Cable 3ft - 18Gbps Black - 2 Pack",
+            "price": 17.29,
+            "url": "https://www.monoprice.com/product?p_id=34207",
+            "product_id": 34207,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 1707
+        },
         "34208": {
             "name": "Monoprice 4K Certified Premium High Speed HDMI Cable 3ft - 18Gbps Black - 3 Pack",
             "price": 24.99,
@@ -20894,7 +20903,7 @@
             "price": 89.99,
             "url": "https://www.monoprice.com/product?p_id=35124",
             "product_id": 35124,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 59
         },
@@ -22829,7 +22838,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=38165",
             "product_id": 38165,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 3
         },
@@ -24496,7 +24505,7 @@
             "product_id": 38849,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 59
+            "num_reviews": 60
         },
         "38850": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 3A/60W, 3ft, Red",
@@ -45147,6 +45156,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-09T19:21:05Z"
+        "timestamp": "2023-05-09T19:37:14Z"
     }
 }
