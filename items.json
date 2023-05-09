@@ -10742,7 +10742,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=2169",
             "product_id": 2169,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3040
         },
@@ -15287,7 +15287,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=3030",
             "product_id": 3030,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 951
         },
@@ -15307,7 +15307,7 @@
             "product_id": 3032,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 951
+            "num_reviews": 952
         },
         "3033": {
             "name": "Monoprice 25ft RG6 (18AWG) 75Ohm, Quad Shield, CL2 Coaxial Cable with F Type Connector - Black",
@@ -22028,7 +22028,7 @@
             "price": 4.79,
             "url": "https://www.monoprice.com/product?p_id=3651",
             "product_id": 3651,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 16
         },
@@ -37778,7 +37778,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=5287",
             "product_id": 5287,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 159
         },
@@ -38934,6 +38934,15 @@
             "rating": 4.2,
             "num_reviews": 369
         },
+        "5766": {
+            "name": "Monoprice Cable Tie 8in 40 lbs, 100 pcs/pack, Green",
+            "price": 1.79,
+            "url": "https://www.monoprice.com/product?p_id=5766",
+            "product_id": 5766,
+            "available": true,
+            "rating": 4.2,
+            "num_reviews": 369
+        },
         "5767": {
             "name": "Monoprice Cable Tie 11in 50 lbs, 100 pcs/pack, Black",
             "price": 2.49,
@@ -39760,7 +39769,7 @@
             "product_id": 6314,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 951
+            "num_reviews": 952
         },
         "6315": {
             "name": "Monoprice 10ft RG6 (18AWG) 75Ohm, Quad Shield, CL2 Coaxial Cable with F Type Connector - White",
@@ -40190,7 +40199,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=6483",
             "product_id": 6483,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 74
         },
@@ -40712,7 +40721,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=6845",
             "product_id": 6845,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 1
         },
@@ -42638,7 +42647,7 @@
             "price": 21.49,
             "url": "https://www.monoprice.com/product?p_id=8243",
             "product_id": 8243,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 130
         },
@@ -42676,7 +42685,7 @@
             "product_id": 8247,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 260
+            "num_reviews": 261
         },
         "8248": {
             "name": "Monoprice 8in 60-Watt Powered Subwoofer, Black",
@@ -44078,7 +44087,7 @@
             "price": 46.49,
             "url": "https://www.monoprice.com/product?p_id=953",
             "product_id": 953,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 16
         },
@@ -45111,6 +45120,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-09T15:24:37Z"
+        "timestamp": "2023-05-09T15:35:24Z"
     }
 }
