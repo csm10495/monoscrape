@@ -14533,7 +14533,7 @@
             "product_id": 2795,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1538
+            "num_reviews": 1539
         },
         "2801": {
             "name": "Monoprice 1 PAIR OF High-Quality Gold Plated Speaker Banana Plugs, Closed Screw Type",
@@ -45084,6 +45084,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-09T09:43:44Z"
+        "timestamp": "2023-05-09T09:54:06Z"
     }
 }
