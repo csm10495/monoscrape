@@ -15883,7 +15883,7 @@
             "product_id": 30762,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 198
+            "num_reviews": 199
         },
         "30763": {
             "name": "Monoprice Palette Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 6ft Black",
@@ -23263,7 +23263,7 @@
             "product_id": 38325,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 97
+            "num_reviews": 98
         },
         "38326": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Micro B to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, White",
@@ -23937,8 +23937,8 @@
             "url": "https://www.monoprice.com/product?p_id=38629",
             "product_id": 38629,
             "available": false,
-            "rating": 4.3,
-            "num_reviews": 42
+            "rating": 4.4,
+            "num_reviews": 43
         },
         "38631": {
             "name": "Monoprice 8K SlimRun AV Ultra High Speed HDMI Cable 100ft - AOC 48Gbps Black",
@@ -45147,6 +45147,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-09T22:44:38Z"
+        "timestamp": "2023-05-09T22:54:43Z"
     }
 }
