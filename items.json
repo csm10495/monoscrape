@@ -5788,7 +5788,7 @@
             "num_reviews": 127
         },
         "14277": {
-            "name": "Monoprice ZEROboot Cat5e Ethernet Patch Cable - RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 7ft, Orange",
+            "name": "Monoprice Cat5e 7ft Orange Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=14277",
             "product_id": 14277,
@@ -45120,6 +45120,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-09T17:45:13Z"
+        "timestamp": "2023-05-09T17:54:55Z"
     }
 }
