@@ -1922,7 +1922,7 @@
             "price": 0.99,
             "url": "https://www.monoprice.com/product?p_id=1156",
             "product_id": 1156,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -13280,7 +13280,7 @@
             "price": 5.49,
             "url": "https://www.monoprice.com/product?p_id=2617",
             "product_id": 2617,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 23
         },
@@ -14684,7 +14684,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=2865",
             "product_id": 2865,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 1301
         },
@@ -15297,8 +15297,8 @@
             "url": "https://www.monoprice.com/product?p_id=3031",
             "product_id": 3031,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 950
+            "rating": 4.8,
+            "num_reviews": 952
         },
         "3032": {
             "name": "Monoprice 12ft RG6 (18AWG) 75Ohm, Quad Shield, CL2 Coaxial Cable with F Type Connector - Black",
@@ -38840,7 +38840,7 @@
             "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=5601",
             "product_id": 5601,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 1347
         },
@@ -41972,7 +41972,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=7629",
             "product_id": 7629,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 16
         },
@@ -43961,7 +43961,7 @@
             "price": 7.49,
             "url": "https://www.monoprice.com/product?p_id=9440",
             "product_id": 9440,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 139
         },
@@ -45147,6 +45147,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-09T21:20:09Z"
+        "timestamp": "2023-05-09T21:25:55Z"
     }
 }
