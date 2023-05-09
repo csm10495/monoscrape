@@ -2345,7 +2345,7 @@
             "price": 249.99,
             "url": "https://www.monoprice.com/product?p_id=12183",
             "product_id": 12183,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 5
         },
@@ -6189,8 +6189,8 @@
             "url": "https://www.monoprice.com/product?p_id=14774",
             "product_id": 14774,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 34
+            "rating": 4.7,
+            "num_reviews": 35
         },
         "14775": {
             "name": "Monoprice Cat5e Ethernet Bulk Cable - Solid, 350MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 24AWG, 250ft, Gray (UL)",
@@ -8332,7 +8332,7 @@
             "product_id": 16075,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1851
+            "num_reviews": 1854
         },
         "16077": {
             "name": "Monoprice Access Series 18AWG CL2 Rated 4-Conductor Speaker Wire, 1000ft, White",
@@ -45147,6 +45147,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-09T21:25:55Z"
+        "timestamp": "2023-05-09T21:35:15Z"
     }
 }
