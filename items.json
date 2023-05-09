@@ -10746,15 +10746,6 @@
             "rating": 4.8,
             "num_reviews": 158
         },
-        "2169": {
-            "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 100ft, Purple",
-            "price": 19.99,
-            "url": "https://www.monoprice.com/product?p_id=2169",
-            "product_id": 2169,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 3040
-        },
         "2170": {
             "name": "Monoprice 6ft VGA to 3 RCA Component Video Cable (HD15 - 3-RCA)",
             "price": 4.49,
@@ -28627,7 +28618,7 @@
             "product_id": 4060,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 951
+            "num_reviews": 952
         },
         "4061": {
             "name": "Monoprice 50ft RG6 (18AWG) 75Ohm, Quad Shield, CL2 Coaxial Cable with F Type Connector - White",
@@ -28635,8 +28626,8 @@
             "url": "https://www.monoprice.com/product?p_id=4061",
             "product_id": 4061,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 950
+            "rating": 4.8,
+            "num_reviews": 952
         },
         "4062": {
             "name": "Monoprice 100ft RG6 (18AWG) 75Ohm, Quad Shield, CL2 Coaxial Cable with F Type Connector - White",
@@ -37521,6 +37512,15 @@
             "rating": 4.9,
             "num_reviews": 3398
         },
+        "5010": {
+            "name": "Monoprice Cat6 20ft Gray Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
+            "price": 2.59,
+            "url": "https://www.monoprice.com/product?p_id=5010",
+            "product_id": 5010,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 3398
+        },
         "5012": {
             "name": "Monoprice Cat6 20ft Orange Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 3.99,
@@ -42694,7 +42694,7 @@
             "product_id": 8247,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 261
+            "num_reviews": 260
         },
         "8248": {
             "name": "Monoprice 8in 60-Watt Powered Subwoofer, Black",
@@ -43565,7 +43565,7 @@
             "price": 77.99,
             "url": "https://www.monoprice.com/product?p_id=888",
             "product_id": 888,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 35
         },
@@ -43772,7 +43772,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=935",
             "product_id": 935,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 70
         },
@@ -45129,6 +45129,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-09T16:39:49Z"
+        "timestamp": "2023-05-09T16:46:05Z"
     }
 }
