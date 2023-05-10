@@ -14524,7 +14524,7 @@
             "product_id": 2801,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 2003
+            "num_reviews": 2004
         },
         "2808": {
             "name": "Monoprice 25ft 22AWG CL2 High Speed HDMI to DVI Adapter Cable, Black",
@@ -14693,7 +14693,7 @@
             "price": 7.49,
             "url": "https://www.monoprice.com/product?p_id=2869",
             "product_id": 2869,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 1300
         },
@@ -43268,7 +43268,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=8778",
             "product_id": 8778,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 251
         },
@@ -43819,7 +43819,7 @@
             "product_id": 9441,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 139
+            "num_reviews": 140
         },
         "9442": {
             "name": "Monoprice 10ft Premier Series 1/4-inch (TRS) Right Angle Male to Right Angle Male 16AWG Cable (Gold Plated)",
@@ -44994,6 +44994,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-10T11:55:02Z"
+        "timestamp": "2023-05-10T12:14:06Z"
     }
 }
