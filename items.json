@@ -17224,7 +17224,7 @@
             "product_id": 33305,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 39
+            "num_reviews": 40
         },
         "33306": {
             "name": "Monolith by Monoprice 9-Channel (3x200 Watts + 6x100 Watts) Multi-Channel Home Theater Power Amplifier with XLR Inputs",
@@ -18446,7 +18446,7 @@
             "price": 5.39,
             "url": "https://www.monoprice.com/product?p_id=33886",
             "product_id": 33886,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -19247,7 +19247,7 @@
             "price": 30.99,
             "url": "https://www.monoprice.com/product?p_id=34309",
             "product_id": 34309,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 202
         },
@@ -21472,7 +21472,7 @@
             "product_id": 36045,
             "available": true,
             "rating": 3.7,
-            "num_reviews": 18
+            "num_reviews": 19
         },
         "36058": {
             "name": "Monoprice MP Voxel 3D Printer, Fully Enclosed, Assisted Level, Easy Wi-Fi, Touch Screen, 8GB On-Board Memory [Polar 3D]",
@@ -22923,15 +22923,6 @@
             "rating": 4.5,
             "num_reviews": 49
         },
-        "38201": {
-            "name": "Monolith by Monoprice 10\" THX Select Certified 500 Watt Powered Subwoofer (Open Box)",
-            "price": 257.99,
-            "url": "https://www.monoprice.com/product?p_id=38201",
-            "product_id": 38201,
-            "available": true,
-            "rating": 5,
-            "num_reviews": 2
-        },
         "38274": {
             "name": "Monoprice OM3 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 3m",
             "price": 2.39,
@@ -23306,15 +23297,6 @@
             "price": 2.29,
             "url": "https://www.monoprice.com/product?p_id=38355",
             "product_id": 38355,
-            "available": false,
-            "rating": 4.7,
-            "num_reviews": 3
-        },
-        "38359": {
-            "name": "Monoprice OM4 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 15m",
-            "price": 7.78,
-            "url": "https://www.monoprice.com/product?p_id=38359",
-            "product_id": 38359,
             "available": false,
             "rating": 4.7,
             "num_reviews": 3
@@ -24136,7 +24118,7 @@
             "product_id": 38805,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 79
+            "num_reviews": 84
         },
         "38806": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 10ft, Red",
@@ -26834,15 +26816,6 @@
             "price": 54.99,
             "url": "https://www.monoprice.com/product?p_id=39752",
             "product_id": 39752,
-            "available": true,
-            "rating": 3.8,
-            "num_reviews": 5
-        },
-        "39754": {
-            "name": "Monoprice Entegrade Series Cat6A 19in 1U Patch Panel, Shielded, 48-port Dual IDC",
-            "price": 59.99,
-            "url": "https://www.monoprice.com/product?p_id=39754",
-            "product_id": 39754,
             "available": true,
             "rating": 3.8,
             "num_reviews": 5
@@ -45003,6 +44976,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-10T15:35:24Z"
+        "timestamp": "2023-05-10T15:45:23Z"
     }
 }
