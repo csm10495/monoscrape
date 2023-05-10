@@ -16110,6 +16110,15 @@
             "rating": 4.2,
             "num_reviews": 17
         },
+        "31019": {
+            "name": "Monoprice SlimRun Cat6A 90 Degree 36AWG S/STP Ethernet Network Cable, 5ft Blue",
+            "price": 5.19,
+            "url": "https://www.monoprice.com/product?p_id=31019",
+            "product_id": 31019,
+            "available": true,
+            "rating": 4.2,
+            "num_reviews": 17
+        },
         "31027": {
             "name": "Monoprice Unity 450 Watt Bridgeable Power Amp",
             "price": 246.99,
@@ -24262,7 +24271,7 @@
             "product_id": 38824,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 79
+            "num_reviews": 84
         },
         "38825": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 3ft, Black, 3-Pack",
@@ -24730,7 +24739,7 @@
             "product_id": 38907,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 77
+            "num_reviews": 78
         },
         "38908": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-A Charge and Sync Nylon-Braid Cable, 3ft, Red",
@@ -44940,6 +44949,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-10T21:29:46Z"
+        "timestamp": "2023-05-10T21:35:51Z"
     }
 }
