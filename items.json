@@ -30947,7 +30947,7 @@
             "price": 77.99,
             "url": "https://www.monoprice.com/product?p_id=42020",
             "product_id": 42020,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -31209,15 +31209,6 @@
             "url": "https://www.monoprice.com/product?p_id=42080",
             "product_id": 42080,
             "available": true,
-            "rating": 4.7,
-            "num_reviews": 29
-        },
-        "42081": {
-            "name": "Monoprice 8K No Logo Ultra High Speed HDMI Cable, 48Gbps, 6ft, Black - 10 Pack",
-            "price": 99.99,
-            "url": "https://www.monoprice.com/product?p_id=42081",
-            "product_id": 42081,
-            "available": false,
             "rating": 4.7,
             "num_reviews": 29
         },
@@ -33563,7 +33554,7 @@
         },
         "43130": {
             "name": "Monoprice 20W USB-C Fast Wall Charger",
-            "price": 10.99,
+            "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=43130",
             "product_id": 43130,
             "available": true,
@@ -36110,7 +36101,7 @@
         },
         "44466": {
             "name": "Monoprice 12-in-1 Dual-HDMI + VGA MST Dock",
-            "price": 69.99,
+            "price": 54.99,
             "url": "https://www.monoprice.com/product?p_id=44466",
             "product_id": 44466,
             "available": true,
@@ -36119,7 +36110,7 @@
         },
         "44467": {
             "name": "Monoprice 13-in-1 Dual-HDMI + DP MST Dock",
-            "price": 69.99,
+            "price": 54.99,
             "url": "https://www.monoprice.com/product?p_id=44467",
             "product_id": 44467,
             "available": true,
@@ -45003,6 +44994,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-09T23:54:48Z"
+        "timestamp": "2023-05-10T00:31:22Z"
     }
 }
