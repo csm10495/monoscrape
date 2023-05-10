@@ -15910,7 +15910,7 @@
             "product_id": 30769,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 198
+            "num_reviews": 201
         },
         "30770": {
             "name": "Monoprice Palette Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 1.5ft Blue",
@@ -18950,7 +18950,7 @@
             "price": 1.79,
             "url": "https://www.monoprice.com/product?p_id=34213",
             "product_id": 34213,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 76
         },
@@ -21443,7 +21443,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=35943",
             "product_id": 35943,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 5
         },
@@ -23128,7 +23128,7 @@
             "product_id": 38316,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 262
+            "num_reviews": 263
         },
         "38317": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Blue",
@@ -24019,7 +24019,7 @@
             "product_id": 38791,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 79
+            "num_reviews": 84
         },
         "38792": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 3ft, Black",
@@ -24262,7 +24262,7 @@
             "product_id": 38822,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 79
+            "num_reviews": 84
         },
         "38823": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, Black, 3ft+6ft+10ft Multipack",
@@ -44994,6 +44994,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-10T11:25:29Z"
+        "timestamp": "2023-05-10T11:35:10Z"
     }
 }
