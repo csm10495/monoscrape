@@ -37249,7 +37249,7 @@
             "product_id": 4957,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13603
+            "num_reviews": 13604
         },
         "4958": {
             "name": "Monoprice 4K High Speed HDMI Cable 8ft - 18Gbps Black",
@@ -39335,7 +39335,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=6026",
             "product_id": 6026,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 385
         },
@@ -40363,7 +40363,7 @@
             "product_id": 660,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 385
+            "num_reviews": 386
         },
         "6625": {
             "name": "Monoprice Easy Mount Low Voltage Cable Recessed Wall Plate - White",
@@ -44985,6 +44985,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-10T21:55:06Z"
+        "timestamp": "2023-05-10T22:06:30Z"
     }
 }
