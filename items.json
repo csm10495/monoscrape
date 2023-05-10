@@ -30101,7 +30101,7 @@
             "price": 58.99,
             "url": "https://www.monoprice.com/product?p_id=41527",
             "product_id": 41527,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 6
         },
@@ -30374,6 +30374,15 @@
             "available": true,
             "rating": 5,
             "num_reviews": 1
+        },
+        "41707": {
+            "name": "Monoprice OM4 Fiber Optic Cable - LC/ST, UL, 50/125 Type, Multi-Mode, 10GB, OFNR, Aqua, 1m, Corning",
+            "price": 2.29,
+            "url": "https://www.monoprice.com/product?p_id=41707",
+            "product_id": 41707,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
         },
         "41708": {
             "name": "Monoprice OM4 Fiber Optic Cable - LC/ST, UL, 50/125 Type, Multi-Mode, 10GB, OFNR, Aqua, 2m, Corning",
@@ -33455,7 +33464,7 @@
         },
         "43105": {
             "name": "Monoprice OM3 Fiber Optic Cable - Reverse Polarity LC/LC Uniboot, UL, 50/125 Type, 10GB, Aqua, 3m, Corning",
-            "price": 11.19,
+            "price": 11.18,
             "url": "https://www.monoprice.com/product?p_id=43105",
             "product_id": 43105,
             "available": true,
@@ -33741,15 +33750,6 @@
             "rating": 4.8,
             "num_reviews": 10
         },
-        "43178": {
-            "name": "Monoprice Heavy Duty Power Cable - IEC 60320 C14 to IEC 60320 C15, 14AWG, 15A, SJT, 125V, White, 6ft",
-            "price": 2.25,
-            "url": "https://www.monoprice.com/product?p_id=43178",
-            "product_id": 43178,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 7
-        },
         "43180": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A, 125V, 3-Prong, White, 3ft",
             "price": 1.79,
@@ -33874,7 +33874,7 @@
             "product_id": 43199,
             "available": false,
             "rating": 5,
-            "num_reviews": 1
+            "num_reviews": 2
         },
         "43200": {
             "name": "Monoprice Cornerstone Series Corner Friendly Full-Motion Articulating TV Wall Mount Bracket For TVs 32in to 70in, Max Weight 99lbs, VESA Patterns Up to 600x400, Fits Curved Screens",
@@ -34454,7 +34454,7 @@
         },
         "43351": {
             "name": "Pure Outdoor by Monoprice 50L Zippered Waterproof Dry Bag Backpack Duffel",
-            "price": 99.99,
+            "price": 59.98,
             "url": "https://www.monoprice.com/product?p_id=43351",
             "product_id": 43351,
             "available": true,
@@ -44976,6 +44976,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-10T15:45:23Z"
+        "timestamp": "2023-05-10T15:55:22Z"
     }
 }
