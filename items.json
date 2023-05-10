@@ -16549,7 +16549,7 @@
             "product_id": 31235,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 193
+            "num_reviews": 194
         },
         "31236": {
             "name": "Pure Outdoor by Monoprice Emperor 50 Rotomolded Portable Cooler 13.2 Gal, Blue",
@@ -24262,7 +24262,7 @@
             "product_id": 38823,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 79
+            "num_reviews": 84
         },
         "38824": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, White, 3ft+6ft+10ft Multipack",
@@ -25416,6 +25416,15 @@
             "rating": 5,
             "num_reviews": 2
         },
+        "39243": {
+            "name": "Monolith by Monoprice 11 Channel (3x200 + 8x100 Watts) Multi-Channel Home Theater Power Amplifier with XLR Inputs (Factory Refurbished/B Stock)",
+            "price": 1999.99,
+            "url": "https://www.monoprice.com/product?p_id=39243",
+            "product_id": 39243,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 2
+        },
         "39256": {
             "name": "Monolith by Monoprice M570 Over Ear Open Back Planar Headphone",
             "price": 239.99,
@@ -26350,7 +26359,7 @@
             "product_id": 39557,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13603
+            "num_reviews": 13604
         },
         "39572": {
             "name": "Monoprice 4K Slim High Speed HDMI Cable 6ft - 18Gbps Black - 3 Pack",
@@ -44985,6 +44994,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-10T22:36:52Z"
+        "timestamp": "2023-05-10T22:44:27Z"
     }
 }
