@@ -13102,7 +13102,7 @@
             "product_id": 31187,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 395
+            "num_reviews": 396
         },
         "31188": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Red",
@@ -13307,7 +13307,7 @@
             "price": 113.99,
             "url": "https://www.monoprice.com/product?p_id=31235",
             "product_id": 31235,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 193
         },
@@ -13318,7 +13318,7 @@
             "product_id": 31236,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 193
+            "num_reviews": 194
         },
         "31237": {
             "name": "Pure Outdoor by Monoprice Emperor 80 Rotomolded Portable Cooler 21.1 Gal, White",
@@ -19771,7 +19771,7 @@
             "product_id": 38301,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 395
+            "num_reviews": 396
         },
         "38302": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, White",
@@ -35724,6 +35724,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-10T10:24:56Z"
+        "timestamp": "2023-05-10T10:34:37Z"
     }
 }
