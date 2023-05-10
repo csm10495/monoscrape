@@ -27524,7 +27524,7 @@
         },
         "40067": {
             "name": "Monoprice Power Cord - IEC 60320 C20 to IEC 60320 C15, 14AWG, 15A/1875W, 3-Prong, Black, 10ft",
-            "price": 10.99,
+            "price": 8.24,
             "url": "https://www.monoprice.com/product?p_id=40067",
             "product_id": 40067,
             "available": true,
@@ -28778,7 +28778,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=40887",
             "product_id": 40887,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 56
         },
@@ -29779,7 +29779,7 @@
             "product_id": 41388,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1851
+            "num_reviews": 1854
         },
         "41389": {
             "name": "Monoprice Access Series 16AWG CL2 Rated 4-Conductor Speaker Wire, 250ft, Black",
@@ -29806,7 +29806,7 @@
             "product_id": 41391,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1851
+            "num_reviews": 1854
         },
         "41392": {
             "name": "Monoprice Access Series 18AWG CL2 Rated 2-Conductor Speaker Wire, 100ft, Black",
@@ -29851,7 +29851,7 @@
             "product_id": 41396,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1851
+            "num_reviews": 1854
         },
         "41397": {
             "name": "Monoprice Access Series 16AWG CL2 Rated 4-Conductor Speaker Wire, 1000ft, Black",
@@ -31115,7 +31115,7 @@
         },
         "42073": {
             "name": "Monoprice 8K No Logo Ultra High Speed HDMI Cable, 48Gbps, 1.5ft, Black",
-            "price": 7.22,
+            "price": 5.08,
             "url": "https://www.monoprice.com/product?p_id=42073",
             "product_id": 42073,
             "available": true,
@@ -31133,7 +31133,7 @@
         },
         "42075": {
             "name": "Monoprice 8K No Logo Ultra High Speed HDMI Cable, 48Gbps, 4ft, Black",
-            "price": 7.69,
+            "price": 8.24,
             "url": "https://www.monoprice.com/product?p_id=42075",
             "product_id": 42075,
             "available": true,
@@ -32222,7 +32222,7 @@
         },
         "42674": {
             "name": "Monoprice 8K Certified Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 30AWG, 6ft, Black",
-            "price": 12.74,
+            "price": 12.73,
             "url": "https://www.monoprice.com/product?p_id=42674",
             "product_id": 42674,
             "available": true,
@@ -32729,7 +32729,7 @@
             "price": 27.99,
             "url": "https://www.monoprice.com/product?p_id=42864",
             "product_id": 42864,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 5
         },
@@ -33163,7 +33163,7 @@
             "product_id": 42997,
             "available": true,
             "rating": 5,
-            "num_reviews": 7
+            "num_reviews": 8
         },
         "42998": {
             "name": "Monoprice 8K DisplayPort 2.0 Cable, 6ft, 5 Pack",
@@ -33662,7 +33662,7 @@
         },
         "43161": {
             "name": "Monolith by Monoprice Double-Wide 3-Tier AV Stand, Black",
-            "price": 211.99,
+            "price": 224.99,
             "url": "https://www.monoprice.com/product?p_id=43161",
             "product_id": 43161,
             "available": true,
@@ -33680,7 +33680,7 @@
         },
         "43163": {
             "name": "Monolith by Monoprice Double-Wide 3-Tier AV Stand, Maple",
-            "price": 211.99,
+            "price": 211.98,
             "url": "https://www.monoprice.com/product?p_id=43163",
             "product_id": 43163,
             "available": true,
@@ -35178,8 +35178,8 @@
             "url": "https://www.monoprice.com/product?p_id=43710",
             "product_id": 43710,
             "available": true,
-            "rating": 4,
-            "num_reviews": 7
+            "rating": 4.1,
+            "num_reviews": 8
         },
         "43765": {
             "name": "MPM Lightweight Folding Cane with Seat, Walking Stick, Walking Cane, Crutch Chair, Travel Aid",
@@ -35204,7 +35204,7 @@
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=43789",
             "product_id": 43789,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 10
         },
@@ -35231,7 +35231,7 @@
             "price": 44.99,
             "url": "https://www.monoprice.com/product?p_id=43792",
             "product_id": 43792,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 6
         },
@@ -36149,7 +36149,7 @@
             "price": 299.99,
             "url": "https://www.monoprice.com/product?p_id=44491",
             "product_id": 44491,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -44940,6 +44940,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-10T20:37:48Z"
+        "timestamp": "2023-05-10T20:45:14Z"
     }
 }
