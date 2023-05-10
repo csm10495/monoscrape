@@ -2507,7 +2507,7 @@
             "price": 17.99,
             "url": "https://www.monoprice.com/product?p_id=1343",
             "product_id": 1343,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 1
         },
@@ -2813,7 +2813,7 @@
             "price": 1.59,
             "url": "https://www.monoprice.com/product?p_id=2081",
             "product_id": 2081,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 65
         },
@@ -3281,7 +3281,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=2157",
             "product_id": 2157,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3040
         },
@@ -4003,7 +4003,7 @@
             "product_id": 2196,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 385
+            "num_reviews": 386
         },
         "21960": {
             "name": "Monoprice EZ Series Full-Motion Articulating TV Wall Mount Bracket - For LED TVs Up to 70in, Max Weight 77 lbs., VESA Patterns Up to 600x400, Rotating",
@@ -13741,7 +13741,7 @@
             "product_id": 3844,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1851
+            "num_reviews": 1854
         },
         "3845": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 2-Conductor Speaker Wire, 500ft, White",
@@ -17681,7 +17681,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=3997",
             "product_id": 3997,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 519
         },
@@ -18250,7 +18250,7 @@
             "product_id": 4023,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13603
+            "num_reviews": 13604
         },
         "40230": {
             "name": "Monoprice 10-Inch Powered Studio Multimedia Subwoofer (clearance)",
@@ -28212,8 +28212,8 @@
             "url": "https://www.monoprice.com/product?p_id=5359",
             "product_id": 5359,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 950
+            "rating": 4.8,
+            "num_reviews": 952
         },
         "5360": {
             "name": "Monoprice 1.5ft RG6 (18AWG) 75Ohm, Quad Shield, CL2 Coaxial Cable with F Type Connector - White",
@@ -28625,7 +28625,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=5450",
             "product_id": 5450,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 554
         },
@@ -30344,7 +30344,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=6476",
             "product_id": 6476,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 359
         },
@@ -32162,7 +32162,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=7670",
             "product_id": 7670,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 3
         },
@@ -32801,7 +32801,7 @@
             "price": 21.49,
             "url": "https://www.monoprice.com/product?p_id=8243",
             "product_id": 8243,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 130
         },
@@ -32981,7 +32981,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=8534",
             "product_id": 8534,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 118
         },
@@ -33332,7 +33332,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=8634",
             "product_id": 8634,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 554
         },
@@ -33998,7 +33998,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=942",
             "product_id": 942,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 19
         },
@@ -34081,7 +34081,7 @@
             "product_id": 9440,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 139
+            "num_reviews": 140
         },
         "9441": {
             "name": "Monoprice 6ft Premier Series 1/4-inch (TRS) Right Angle Male to Right Angle Male 16AWG Cable (Gold Plated)",
@@ -34133,7 +34133,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=9447",
             "product_id": 9447,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 211
         },
@@ -35265,6 +35265,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-10T14:49:58Z"
+        "timestamp": "2023-05-10T14:55:54Z"
     }
 }
