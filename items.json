@@ -5389,7 +5389,7 @@
             "product_id": 13801,
             "available": true,
             "rating": 4,
-            "num_reviews": 590
+            "num_reviews": 592
         },
         "13815": {
             "name": "Monoprice Dual Monitor Free Standing Adjustable Desk Mount for Monitors 15~30in",
@@ -44994,6 +44994,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-10T03:36:08Z"
+        "timestamp": "2023-05-10T03:44:16Z"
     }
 }
