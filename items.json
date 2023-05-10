@@ -6721,7 +6721,7 @@
             "product_id": 31200,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 262
+            "num_reviews": 263
         },
         "31201": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Red",
@@ -6748,7 +6748,7 @@
             "product_id": 31203,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 262
+            "num_reviews": 263
         },
         "31204": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Black",
@@ -7880,7 +7880,7 @@
             "price": 2.29,
             "url": "https://www.monoprice.com/product?p_id=33618",
             "product_id": 33618,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 59
         },
@@ -8717,7 +8717,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=33887",
             "product_id": 33887,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -9068,7 +9068,7 @@
             "price": 149.99,
             "url": "https://www.monoprice.com/product?p_id=34198",
             "product_id": 34198,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 22
         },
@@ -12830,7 +12830,7 @@
             "price": 13.99,
             "url": "https://www.monoprice.com/product?p_id=38079",
             "product_id": 38079,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 17
         },
@@ -12839,7 +12839,7 @@
             "price": 14.49,
             "url": "https://www.monoprice.com/product?p_id=38080",
             "product_id": 38080,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 14
         },
@@ -13183,7 +13183,16 @@
             "product_id": 38187,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 48
+            "num_reviews": 49
+        },
+        "38201": {
+            "name": "Monolith by Monoprice 10\" THX Select Certified 500 Watt Powered Subwoofer (Open Box)",
+            "price": 257.99,
+            "url": "https://www.monoprice.com/product?p_id=38201",
+            "product_id": 38201,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 2
         },
         "38274": {
             "name": "Monoprice OM3 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 3m",
@@ -13408,7 +13417,7 @@
             "product_id": 38318,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 262
+            "num_reviews": 263
         },
         "38320": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Pink",
@@ -13516,7 +13525,7 @@
             "product_id": 38332,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 97
+            "num_reviews": 98
         },
         "38333": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Micro B to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft, Purple",
@@ -13568,7 +13577,7 @@
             "price": 7.78,
             "url": "https://www.monoprice.com/product?p_id=38359",
             "product_id": 38359,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 3
         },
@@ -14497,7 +14506,7 @@
             "product_id": 38819,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 79
+            "num_reviews": 84
         },
         "38820": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 3ft, Red",
@@ -14722,7 +14731,7 @@
             "product_id": 38853,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 59
+            "num_reviews": 60
         },
         "38854": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 5A/100W, 3ft, Black",
@@ -14956,7 +14965,7 @@
             "product_id": 38901,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 77
+            "num_reviews": 78
         },
         "38902": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-A Charge and Sync Nylon-Braid Cable, 10ft, Black",
@@ -15046,7 +15055,7 @@
             "product_id": 38911,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 77
+            "num_reviews": 78
         },
         "38912": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-A Charge and Sync Nylon-Braid Cable, 3ft, Blue",
@@ -16558,7 +16567,7 @@
             "product_id": 39550,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13603
+            "num_reviews": 13604
         },
         "39551": {
             "name": "Monoprice 4K High Speed HDMI Cable 8ft - 18Gbps Black - 5 Pack",
@@ -16610,7 +16619,7 @@
             "price": 78.99,
             "url": "https://www.monoprice.com/product?p_id=39556",
             "product_id": 39556,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 13603
         },
@@ -16736,7 +16745,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=39617",
             "product_id": 39617,
-            "available": true,
+            "available": false,
             "rating": 4.1,
             "num_reviews": 22
         },
@@ -17249,7 +17258,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=39786",
             "product_id": 39786,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 304
         },
@@ -35256,6 +35265,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-10T13:41:23Z"
+        "timestamp": "2023-05-10T14:07:38Z"
     }
 }
