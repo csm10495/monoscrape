@@ -15818,7 +15818,7 @@
             "price": 8.63,
             "url": "https://www.monoprice.com/product?p_id=30760",
             "product_id": 30760,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 88
         },
@@ -15910,7 +15910,7 @@
             "product_id": 30770,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 198
+            "num_reviews": 201
         },
         "30771": {
             "name": "Monoprice Palette Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 3ft Blue",
@@ -16313,7 +16313,7 @@
             "price": 9.49,
             "url": "https://www.monoprice.com/product?p_id=31180",
             "product_id": 31180,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 31
         },
@@ -16346,7 +16346,7 @@
         },
         "31189": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Red",
-            "price": 12.99,
+            "price": 12.98,
             "url": "https://www.monoprice.com/product?p_id=31189",
             "product_id": 31189,
             "available": true,
@@ -16547,7 +16547,7 @@
             "price": 194.99,
             "url": "https://www.monoprice.com/product?p_id=31236",
             "product_id": 31236,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 194
         },
@@ -18491,7 +18491,7 @@
             "price": 17.99,
             "url": "https://www.monoprice.com/product?p_id=33901",
             "product_id": 33901,
-            "available": true,
+            "available": false,
             "rating": 2,
             "num_reviews": 1
         },
@@ -18677,7 +18677,7 @@
         },
         "34183": {
             "name": "Monoprice Consul Series USB-C HDMI Adapter with USB 3.0, USB-C 100W PD 3.0",
-            "price": 46.74,
+            "price": 32.99,
             "url": "https://www.monoprice.com/product?p_id=34183",
             "product_id": 34183,
             "available": true,
@@ -19616,7 +19616,7 @@
             "price": 0.99,
             "url": "https://www.monoprice.com/product?p_id=34508",
             "product_id": 34508,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 6
         },
@@ -20045,7 +20045,7 @@
         },
         "34710": {
             "name": "Monoprice SB-100 2.1-ch 36in Soundbar with Built-In Subwoofer, Bluetooth, Optical Input, and Remote Control",
-            "price": 52.99,
+            "price": 52.98,
             "url": "https://www.monoprice.com/product?p_id=34710",
             "product_id": 34710,
             "available": true,
@@ -20153,7 +20153,7 @@
         },
         "34788": {
             "name": "SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, S/STP, Pure Bare Copper Wire, 36AWG, 1m, White, 5 pack",
-            "price": 12.99,
+            "price": 12.98,
             "url": "https://www.monoprice.com/product?p_id=34788",
             "product_id": 34788,
             "available": true,
@@ -20414,7 +20414,7 @@
         },
         "34841": {
             "name": "Monoprice 4K Slim Certified Premium High Speed HDMI Cable 3m - 18Gbps Black - 2 Pack",
-            "price": 27.11,
+            "price": 27.1,
             "url": "https://www.monoprice.com/product?p_id=34841",
             "product_id": 34841,
             "available": true,
@@ -20831,7 +20831,7 @@
             "price": 149.99,
             "url": "https://www.monoprice.com/product?p_id=35124",
             "product_id": 35124,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 59
         },
@@ -21443,7 +21443,7 @@
             "price": 35.99,
             "url": "https://www.monoprice.com/product?p_id=35944",
             "product_id": 35944,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 108
         },
@@ -21998,7 +21998,7 @@
         },
         "36571": {
             "name": "Monoprice DT-3 50-Watt Multimedia Desktop Powered Speakers",
-            "price": 63.73,
+            "price": 72.24,
             "url": "https://www.monoprice.com/product?p_id=36571",
             "product_id": 36571,
             "available": true,
@@ -22064,7 +22064,7 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=36636",
             "product_id": 36636,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 19
         },
@@ -22676,7 +22676,7 @@
             "price": 79.99,
             "url": "https://www.monoprice.com/product?p_id=38129",
             "product_id": 38129,
-            "available": false,
+            "available": true,
             "rating": 3.6,
             "num_reviews": 15
         },
@@ -23666,7 +23666,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=38598",
             "product_id": 38598,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 14
         },
@@ -24037,7 +24037,7 @@
             "product_id": 38795,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 79
+            "num_reviews": 84
         },
         "38796": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 3ft, White",
@@ -24431,7 +24431,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=38851",
             "product_id": 38851,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 60
         },
@@ -25229,7 +25229,7 @@
         },
         "39158": {
             "name": "Monolith by Monoprice THX-460T THX Certified Ultra Tower Speaker (Each)",
-            "price": 764.99,
+            "price": 764.98,
             "url": "https://www.monoprice.com/product?p_id=39158",
             "product_id": 39158,
             "available": true,
@@ -26093,7 +26093,7 @@
         },
         "39529": {
             "name": "Monoprice 4K No Logo High Speed HDMI Cable 10ft - CL2 In Wall Rated 18 Gbps Black - 5 Pack",
-            "price": 53.54,
+            "price": 56.69,
             "url": "https://www.monoprice.com/product?p_id=39529",
             "product_id": 39529,
             "available": true,
@@ -26111,7 +26111,7 @@
         },
         "39530": {
             "name": "Monoprice 4K No Logo High Speed HDMI Cable 15ft - CL2 In Wall Rated 18 Gbps Black - 3 Pack",
-            "price": 45.04,
+            "price": 45.03,
             "url": "https://www.monoprice.com/product?p_id=39530",
             "product_id": 39530,
             "available": true,
@@ -26228,7 +26228,7 @@
         },
         "39545": {
             "name": "Monoprice 4K High Speed HDMI Cable 4ft - 18Gbps Black - 5 Pack",
-            "price": 28.89,
+            "price": 28.88,
             "url": "https://www.monoprice.com/product?p_id=39545",
             "product_id": 39545,
             "available": true,
@@ -27059,7 +27059,7 @@
             "price": 4.54,
             "url": "https://www.monoprice.com/product?p_id=39844",
             "product_id": 39844,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 163
         },
@@ -44949,6 +44949,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-10T18:11:24Z"
+        "timestamp": "2023-05-10T18:42:39Z"
     }
 }
