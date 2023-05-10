@@ -20005,7 +20005,7 @@
             "product_id": 41379,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1851
+            "num_reviews": 1854
         },
         "41380": {
             "name": "Monoprice Access Series 16AWG CL2 Rated 2-Conductor Speaker Wire, 250ft, Black",
@@ -20894,7 +20894,7 @@
             "price": 27.99,
             "url": "https://www.monoprice.com/product?p_id=41820",
             "product_id": 41820,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1464
         },
@@ -23497,7 +23497,7 @@
             "product_id": 43002,
             "available": true,
             "rating": 5,
-            "num_reviews": 7
+            "num_reviews": 8
         },
         "43003": {
             "name": "Monoprice 8K DisplayPort 2.0 Cable, 1m, 5 Pack",
@@ -23612,7 +23612,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=43049",
             "product_id": 43049,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 4
         },
@@ -25421,7 +25421,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=43672",
             "product_id": 43672,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 4
         },
@@ -35265,6 +35265,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-10T14:07:38Z"
+        "timestamp": "2023-05-10T14:25:22Z"
     }
 }
