@@ -15270,8 +15270,8 @@
             "url": "https://www.monoprice.com/product?p_id=3033",
             "product_id": 3033,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 950
+            "rating": 4.8,
+            "num_reviews": 952
         },
         "30339": {
             "name": "Monoprice 8 Channel 4K NVR, Quad-core, Supports Live View, Storage, and Playback, up to 8MP, 8 PoE, H.265+ Zip+",
@@ -44994,6 +44994,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-10T23:23:28Z"
+        "timestamp": "2023-05-10T23:28:53Z"
     }
 }
