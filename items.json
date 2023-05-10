@@ -23227,7 +23227,7 @@
             "product_id": 38329,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 97
+            "num_reviews": 98
         },
         "38330": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Micro B to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft, Pink",
@@ -44994,6 +44994,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-10T02:54:25Z"
+        "timestamp": "2023-05-10T03:07:21Z"
     }
 }
