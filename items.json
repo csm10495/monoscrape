@@ -23056,7 +23056,7 @@
             "product_id": 38306,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 395
+            "num_reviews": 396
         },
         "38308": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Pink",
@@ -24118,7 +24118,7 @@
             "product_id": 38803,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 79
+            "num_reviews": 84
         },
         "38805": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 6ft, Red",
@@ -24521,7 +24521,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=38866",
             "product_id": 38866,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 60
         },
@@ -44994,6 +44994,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-10T08:34:37Z"
+        "timestamp": "2023-05-10T08:54:05Z"
     }
 }
