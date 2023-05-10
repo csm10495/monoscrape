@@ -27572,7 +27572,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=40072",
             "product_id": 40072,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 3
         },
@@ -27581,7 +27581,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=40073",
             "product_id": 40073,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 3
         },
@@ -28658,7 +28658,7 @@
         },
         "40790": {
             "name": "DisplayPort 1.4 EasyPlug Nylon Braided Cable, 12ft, Gray (10 Pack)",
-            "price": 84.99,
+            "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=40790",
             "product_id": 40790,
             "available": true,
@@ -28667,7 +28667,7 @@
         },
         "40794": {
             "name": "DisplayPort 1.2 EasyPlug Nylon Braided Cable, 12ft, Gray (10 Pack)",
-            "price": 102.99,
+            "price": 61.78,
             "url": "https://www.monoprice.com/product?p_id=40794",
             "product_id": 40794,
             "available": true,
@@ -29477,7 +29477,7 @@
         },
         "41286": {
             "name": "Monolith by Monoprice M-OW3 THX Certified LCR/Soundbar On Wall Speaker (Each)",
-            "price": 424.99,
+            "price": 424.98,
             "url": "https://www.monoprice.com/product?p_id=41286",
             "product_id": 41286,
             "available": true,
@@ -29486,7 +29486,7 @@
         },
         "41287": {
             "name": "Monolith by Monoprice M518HT THX Certified 5.1 Home Theater System",
-            "price": 679.99,
+            "price": 679.98,
             "url": "https://www.monoprice.com/product?p_id=41287",
             "product_id": 41287,
             "available": true,
@@ -29597,7 +29597,7 @@
             "price": 159.99,
             "url": "https://www.monoprice.com/product?p_id=41358",
             "product_id": 41358,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 2
         },
@@ -29615,7 +29615,7 @@
             "price": 159.99,
             "url": "https://www.monoprice.com/product?p_id=41360",
             "product_id": 41360,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 2
         },
@@ -29761,7 +29761,7 @@
             "product_id": 41386,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1851
+            "num_reviews": 1854
         },
         "41387": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 4-Conductor Speaker Wire, 250ft, Black",
@@ -30170,7 +30170,7 @@
         },
         "41649": {
             "name": "Weeding \u0026 Digging Knife for gardening, Hori Hori stainless steel Knife with wood handle + sheath",
-            "price": 16.99,
+            "price": 15.29,
             "url": "https://www.monoprice.com/product?p_id=41649",
             "product_id": 41649,
             "available": true,
@@ -30425,7 +30425,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=41731",
             "product_id": 41731,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 90
         },
@@ -30494,7 +30494,7 @@
         },
         "41809": {
             "name": "Monoprice USB-C Power Strip Pad, 2 Outlets and 57W 3 USB (2x 12W USB Type-A, 1x 45W USB-C) with 5-Foot Extension Cord, Compact Travel Size, for MacBook Pro, iPad Pro, iPhone, and Galaxy",
-            "price": 29.99,
+            "price": 29.98,
             "url": "https://www.monoprice.com/product?p_id=41809",
             "product_id": 41809,
             "available": true,
@@ -30764,7 +30764,7 @@
         },
         "41947": {
             "name": "Office ergonomic Mesh Chair High Back Seat with Adjustable Back",
-            "price": 31.44,
+            "price": 22.19,
             "url": "https://www.monoprice.com/product?p_id=41947",
             "product_id": 41947,
             "available": true,
@@ -30800,7 +30800,7 @@
         },
         "41985": {
             "name": "Monoprice USB-C Charger, 100W 1-port PD, GaN Technology, Foldable Wall Plug, Power Delivery for MacBook Pro/Air, iPad Pro, iPhone 12/11/Pro/Max/XR/XS/X, Pixel, Galaxy S, and More",
-            "price": 40.99,
+            "price": 26.99,
             "url": "https://www.monoprice.com/product?p_id=41985",
             "product_id": 41985,
             "available": true,
@@ -30854,7 +30854,7 @@
         },
         "42011": {
             "name": "Monoprice SB-500 Dolby Digital 5.1 Soundbar with Wireless Surround Speakers and Wireless Subwoofer, 2 HDMI Inputs, 4K HDR Pass-Through, Optical, Coax, ARC, Remote",
-            "price": 299.99,
+            "price": 209.99,
             "url": "https://www.monoprice.com/product?p_id=42011",
             "product_id": 42011,
             "available": true,
@@ -30863,7 +30863,7 @@
         },
         "42014": {
             "name": "Pure Outdoor by Monoprice Heavy Duty All Terrain Collapsible Outdoor Wagon, Black",
-            "price": 99.99,
+            "price": 89.99,
             "url": "https://www.monoprice.com/product?p_id=42014",
             "product_id": 42014,
             "available": true,
@@ -30872,7 +30872,7 @@
         },
         "42015": {
             "name": "Pure Outdoor by Monoprice Heavy Duty All Terrain Collapsible Outdoor Wagon, Red",
-            "price": 99.99,
+            "price": 89.99,
             "url": "https://www.monoprice.com/product?p_id=42015",
             "product_id": 42015,
             "available": true,
@@ -30920,7 +30920,7 @@
             "price": 77.98,
             "url": "https://www.monoprice.com/product?p_id=42020",
             "product_id": 42020,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -31016,7 +31016,7 @@
         },
         "42031": {
             "name": "Monolith by Monoprice 16in THX Certified Ultra 2000-Watt Powered Subwoofer (Matte Black/Painted)",
-            "price": 2299.99,
+            "price": 2069.99,
             "url": "https://www.monoprice.com/product?p_id=42031",
             "product_id": 42031,
             "available": true,
@@ -31520,7 +31520,7 @@
         },
         "42267": {
             "name": "STITCH Smart Wi-Fi RGB Light Bulb, 9W LED RGB Color and Warm, Cool White, A19 E26, Compatible with Alexa and Google Home for Touchless Control, No Hub Required (2-Pack)",
-            "price": 15.99,
+            "price": 11.19,
             "url": "https://www.monoprice.com/product?p_id=42267",
             "product_id": 42267,
             "available": false,
@@ -31565,7 +31565,7 @@
         },
         "42290": {
             "name": "Waterproof Gardening Gloves with Hand Sturdy Claws,Quick \u0026 Easy to Dig \u0026 Plant Safe for Rose Pruning",
-            "price": 4.99,
+            "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=42290",
             "product_id": 42290,
             "available": true,
@@ -31601,7 +31601,7 @@
         },
         "42303": {
             "name": "Dark Matter by Monoprice Collider Membrane Gaming Keyboard - RGB Lighting, 19-Key Rollover, Spill Resistant",
-            "price": 39.99,
+            "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=42303",
             "product_id": 42303,
             "available": true,
@@ -31628,7 +31628,7 @@
         },
         "42306": {
             "name": "Dark Matter by Monoprice Collider TKL Gaming Keyboard - Cherry MX Brown, RGB Backlit, USB-C",
-            "price": 99.99,
+            "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=42306",
             "product_id": 42306,
             "available": true,
@@ -31709,7 +31709,7 @@
         },
         "42351": {
             "name": "12 Pcs Drill Brush Attachment Set for Cleaning - Power Scrubber Drill Brush Pad Sponge Kit with Extend Attachment",
-            "price": 14.99,
+            "price": 13.49,
             "url": "https://www.monoprice.com/product?p_id=42351",
             "product_id": 42351,
             "available": true,
@@ -31799,7 +31799,7 @@
         },
         "42496": {
             "name": "Expandable Braided Cable Sock Black 1/2\"(12.7mm) x 100Ft (30.48m)",
-            "price": 4.99,
+            "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=42496",
             "product_id": 42496,
             "available": true,
@@ -31817,7 +31817,7 @@
         },
         "42498": {
             "name": "Collapsing Storage Mini Trash Can",
-            "price": 3.99,
+            "price": 3.59,
             "url": "https://www.monoprice.com/product?p_id=42498",
             "product_id": 42498,
             "available": true,
@@ -31907,7 +31907,7 @@
         },
         "42531": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft/3ft/6ft, Black - 3 Pack",
-            "price": 17.99,
+            "price": 16.19,
             "url": "https://www.monoprice.com/product?p_id=42531",
             "product_id": 42531,
             "available": true,
@@ -31979,7 +31979,7 @@
         },
         "42539": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C Charge and Sync Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 6ft, Red - 3 Pack",
-            "price": 29.99,
+            "price": 17.98,
             "url": "https://www.monoprice.com/product?p_id=42539",
             "product_id": 42539,
             "available": true,
@@ -32051,7 +32051,7 @@
         },
         "42588": {
             "name": "Monoprice Fiber Optic Cable Bulk - 9/125 Type, Single Mode, Duplex, 8.0mm w/o Armor or Steel Wire LSZH G657A1, 12 Strand, Black, 4000FT, Corning",
-            "price": 1599.99,
+            "price": 959.98,
             "url": "https://www.monoprice.com/product?p_id=42588",
             "product_id": 42588,
             "available": true,
@@ -32335,7 +32335,7 @@
             "product_id": 42686,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 223
+            "num_reviews": 224
         },
         "42687": {
             "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 28AWG, 10ft, Black - 5 Pack",
@@ -32555,7 +32555,7 @@
         },
         "42831": {
             "name": "Monolith by Monoprice M-IWSUB8 8in In-Wall Subwoofer",
-            "price": 339.99,
+            "price": 339.98,
             "url": "https://www.monoprice.com/product?p_id=42831",
             "product_id": 42831,
             "available": true,
@@ -32708,7 +32708,7 @@
         },
         "42862": {
             "name": "Facial Massager, High Frequency Facial Machine, Face Tightening \u0026 Lifting Machine , Face Lifting Tightening Remover Wrinkle",
-            "price": 9.99,
+            "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=42862",
             "product_id": 42862,
             "available": true,
@@ -32738,7 +32738,7 @@
             "price": 36.99,
             "url": "https://www.monoprice.com/product?p_id=42865",
             "product_id": 42865,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 5
         },
@@ -32753,7 +32753,7 @@
         },
         "42867": {
             "name": "Mini Portable UV Ultraviolet Instant Sterilizing LED Light for iPhone - Black",
-            "price": 3.99,
+            "price": 3.59,
             "url": "https://www.monoprice.com/product?p_id=42867",
             "product_id": 42867,
             "available": true,
@@ -33143,7 +33143,7 @@
             "price": 18.99,
             "url": "https://www.monoprice.com/product?p_id=42995",
             "product_id": 42995,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 8
         },
@@ -33257,7 +33257,7 @@
         },
         "43018": {
             "name": "Monoprice WFH 3.5mm + USB Wired On-Ear Web Meeting Headset",
-            "price": 24.99,
+            "price": 22.49,
             "url": "https://www.monoprice.com/product?p_id=43018",
             "product_id": 43018,
             "available": true,
@@ -33302,7 +33302,7 @@
         },
         "43048": {
             "name": "Magnetic Phone Car Mount, Universal Stick On Mount Dashboard Magnetic Car Mount Holder, for Cell Phones and Mini Tablets with Fast Swift-snap Technology, Magnetic Cell Phone Mount",
-            "price": 1.99,
+            "price": 1.79,
             "url": "https://www.monoprice.com/product?p_id=43048",
             "product_id": 43048,
             "available": true,
@@ -33320,7 +33320,7 @@
         },
         "43063": {
             "name": "Wireless Bluetooth Audio Adaptor/Receiver for car , speakers and DVD players",
-            "price": 16.99,
+            "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=43063",
             "product_id": 43063,
             "available": true,
@@ -33356,7 +33356,7 @@
         },
         "43075": {
             "name": "Monoprice Cat6 3ft White Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
-            "price": 1.59,
+            "price": 1.43,
             "url": "https://www.monoprice.com/product?p_id=43075",
             "product_id": 43075,
             "available": true,
@@ -33399,18 +33399,9 @@
             "rating": 4.7,
             "num_reviews": 56
         },
-        "43080": {
-            "name": "Monoprice Flexboot Cat6 Ethernet Patch Cable - Snagless RJ45, Flat, 550MHz, UTP, Pure Bare Copper Wire, 30AWG, 20ft, White",
-            "price": 3.99,
-            "url": "https://www.monoprice.com/product?p_id=43080",
-            "product_id": 43080,
-            "available": true,
-            "rating": 4.7,
-            "num_reviews": 56
-        },
         "43081": {
             "name": "Monoprice Cat6 25ft White Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
-            "price": 4.49,
+            "price": 4.04,
             "url": "https://www.monoprice.com/product?p_id=43081",
             "product_id": 43081,
             "available": true,
@@ -33419,7 +33410,7 @@
         },
         "43083": {
             "name": "Monoprice Cat6 50ft White Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
-            "price": 6.99,
+            "price": 5.94,
             "url": "https://www.monoprice.com/product?p_id=43083",
             "product_id": 43083,
             "available": true,
@@ -33482,7 +33473,7 @@
         },
         "43112": {
             "name": "9 Dimmable Levels Grow Light with 3 Modes Timing Function for Indoor Plants",
-            "price": 12.99,
+            "price": 11.69,
             "url": "https://www.monoprice.com/product?p_id=43112",
             "product_id": 43112,
             "available": true,
@@ -33491,7 +33482,7 @@
         },
         "43113": {
             "name": "10 Dimmable Levels Grow Light with 3 Modes Timing Function for Indoor Plants with Remote Control",
-            "price": 14.99,
+            "price": 13.49,
             "url": "https://www.monoprice.com/product?p_id=43113",
             "product_id": 43113,
             "available": true,
@@ -33500,7 +33491,7 @@
         },
         "43114": {
             "name": "Plant Grow Lights, 10W LED Growing Lamps for Indoor Plants, Full Spectrum 9 Dimmable Levels 3 Modes Timing Function, 1 Head",
-            "price": 10.99,
+            "price": 9.89,
             "url": "https://www.monoprice.com/product?p_id=43114",
             "product_id": 43114,
             "available": true,
@@ -33541,7 +33532,7 @@
             "product_id": 43136,
             "available": true,
             "rating": 5,
-            "num_reviews": 1
+            "num_reviews": 2
         },
         "43137": {
             "name": "Commercial Series Premium High Speed HDMI Cable -4K@60Hz, HDR, 18Gbps, YCbCr 4:4:4, OD 0.22in, 30AWG, CL2, 10ft, Black",
@@ -33563,7 +33554,7 @@
         },
         "43149": {
             "name": "Monolith by Monoprice Encore T6 Tower Speaker (Each)",
-            "price": 399.99,
+            "price": 359.99,
             "url": "https://www.monoprice.com/product?p_id=43149",
             "product_id": 43149,
             "available": true,
@@ -33707,7 +33698,7 @@
         },
         "43165": {
             "name": "Monolith by Monoprice Double-Wide XL 3-Tier AV Stand, Espresso",
-            "price": 296.99,
+            "price": 296.98,
             "url": "https://www.monoprice.com/product?p_id=43165",
             "product_id": 43165,
             "available": true,
@@ -33815,7 +33806,7 @@
         },
         "43192": {
             "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 14AWG, 15A, SJT, 100-250V, White, 2ft",
-            "price": 2.99,
+            "price": 1.78,
             "url": "https://www.monoprice.com/product?p_id=43192",
             "product_id": 43192,
             "available": true,
@@ -34148,7 +34139,7 @@
         },
         "43247": {
             "name": "Monoprice Harmony Boombox Portable Bluetooth Speaker, Waterproof, TWS",
-            "price": 41.99,
+            "price": 41.98,
             "url": "https://www.monoprice.com/product?p_id=43247",
             "product_id": 43247,
             "available": true,
@@ -34211,7 +34202,7 @@
         },
         "43259": {
             "name": "Monoprice Harmony Note 100 Portable Bluetooth Speaker, IPx7, Waterproof, TWS",
-            "price": 29.99,
+            "price": 23.99,
             "url": "https://www.monoprice.com/product?p_id=43259",
             "product_id": 43259,
             "available": true,
@@ -34238,7 +34229,7 @@
         },
         "43262": {
             "name": "Monoprice Harmony Capsule 200 Portable Bluetooth Speaker",
-            "price": 69.99,
+            "price": 55.98,
             "url": "https://www.monoprice.com/product?p_id=43262",
             "product_id": 43262,
             "available": true,
@@ -34499,7 +34490,7 @@
         },
         "43358": {
             "name": "Pure Outdoor by Monoprice Six Player Croquet Set",
-            "price": 39.99,
+            "price": 31.99,
             "url": "https://www.monoprice.com/product?p_id=43358",
             "product_id": 43358,
             "available": true,
@@ -34508,7 +34499,7 @@
         },
         "43359": {
             "name": "Pure Outdoor by Monoprice Hook and Ring Toss Game",
-            "price": 19.99,
+            "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=43359",
             "product_id": 43359,
             "available": true,
@@ -34589,7 +34580,7 @@
         },
         "43392": {
             "name": "Monoprice Blackbird PRO Toslink S/PDIF 4x1 Switch with Remote",
-            "price": 21.24,
+            "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=43392",
             "product_id": 43392,
             "available": true,
@@ -34625,7 +34616,7 @@
         },
         "43425": {
             "name": "Monoprice Power Cord - CEI 23-50 (Italy) to IEC 60320 C13, H05VV-F 3G 1.0mm?, 10A, 3-Prong, Black, 6ft",
-            "price": 3.99,
+            "price": 2.38,
             "url": "https://www.monoprice.com/product?p_id=43425",
             "product_id": 43425,
             "available": true,
@@ -34715,7 +34706,7 @@
         },
         "43462": {
             "name": "4Pack 4inch 27W Flood Round Pods Led Work Light Driving Fog Light Offroad Light for Tractor Off-Road SUV Boat Truck",
-            "price": 9.99,
+            "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=43462",
             "product_id": 43462,
             "available": true,
@@ -34724,7 +34715,7 @@
         },
         "43463": {
             "name": "3\" Led Pods 2PCS 18W 1140LM Flood Led Off Road Lights Super Bright Driving Fog Light Boat Lights Driving Lights Led Work Light for Trucks",
-            "price": 12.99,
+            "price": 11.69,
             "url": "https://www.monoprice.com/product?p_id=43463",
             "product_id": 43463,
             "available": true,
@@ -34922,7 +34913,7 @@
         },
         "43582": {
             "name": "Car Headrest Mount Holder, Auto Backseat Tablets Stand Cradle, Compatible with iPad Mini, Cell Phone, Galaxy Tab, Kindle Fire HD, Other 4.7 -10.5\" Device, For Kids",
-            "price": 2.99,
+            "price": 2.69,
             "url": "https://www.monoprice.com/product?p_id=43582",
             "product_id": 43582,
             "available": true,
@@ -34940,7 +34931,7 @@
         },
         "43588": {
             "name": "Herb Saver Pod, Set of 3 Fresh Herb Keeper, Container Keeper for Freshest Produce, Herb Storage Container for Cilantro, Mint, Asparagus (White)",
-            "price": 14.99,
+            "price": 13.49,
             "url": "https://www.monoprice.com/product?p_id=43588",
             "product_id": 43588,
             "available": true,
@@ -35021,7 +35012,7 @@
         },
         "43634": {
             "name": "Rechargeable Portable LED Lantern Lamp, 1200 mAh Dimmable Multi-Functional Light, Bedside Night Lamp for Bedroom, Living Room, Outdoor, Office, Camping",
-            "price": 9.99,
+            "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=43634",
             "product_id": 43634,
             "available": true,
@@ -35057,7 +35048,7 @@
         },
         "43646": {
             "name": "Solar Mason Jar Lights,8 Pack 30 Led Hanging String Fairy Jar Solar Lantern Lights for Outdoor Patio Garden Yard and Lawn Decoration",
-            "price": 29.99,
+            "price": 26.99,
             "url": "https://www.monoprice.com/product?p_id=43646",
             "product_id": 43646,
             "available": true,
@@ -35066,7 +35057,7 @@
         },
         "43655": {
             "name": "DIY Amusement Park Large Size Kids Learning Plastic Building Block Pipeline Block Toys - 54PCS",
-            "price": 13.99,
+            "price": 12.59,
             "url": "https://www.monoprice.com/product?p_id=43655",
             "product_id": 43655,
             "available": true,
@@ -35762,7 +35753,7 @@
             "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=44326",
             "product_id": 44326,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -44949,6 +44940,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-10T18:42:39Z"
+        "timestamp": "2023-05-10T18:48:47Z"
     }
 }
