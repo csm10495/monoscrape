@@ -28701,6 +28701,15 @@
             "rating": 4.1,
             "num_reviews": 90
         },
+        "40879": {
+            "name": "Monoprice FLEXboot Flat Cat6 Ethernet Patch Cable - Snagless RJ45, Flat, 550MHz, UTP, Pure Bare Copper Wire, 30AWG, 0.5ft, Black",
+            "price": 0.74,
+            "url": "https://www.monoprice.com/product?p_id=40879",
+            "product_id": 40879,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 56
+        },
         "40880": {
             "name": "Monoprice Cat6 1ft Black Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series  Ethernet Cable",
             "price": 1.39,
@@ -32198,7 +32207,7 @@
             "price": 2.39,
             "url": "https://www.monoprice.com/product?p_id=42652",
             "product_id": 42652,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 2
         },
@@ -32441,7 +32450,7 @@
             "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=42756",
             "product_id": 42756,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 17
         },
@@ -32522,7 +32531,7 @@
             "price": 249.99,
             "url": "https://www.monoprice.com/product?p_id=42771",
             "product_id": 42771,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 9
         },
@@ -45003,6 +45012,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-11T19:36:23Z"
+        "timestamp": "2023-05-11T19:46:41Z"
     }
 }
