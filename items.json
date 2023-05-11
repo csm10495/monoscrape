@@ -10207,7 +10207,7 @@
             "num_reviews": 3040
         },
         "21543": {
-            "name": "Monoprice Origin Series 16AWG 2-Conductor Burial Rated Speaker Wire, 1000ft Gray",
+            "name": "Monoprice Speaker Wire, Burial Rated, 2-Conductor, 16AWG, 1000ft, Gray",
             "price": 199.99,
             "url": "https://www.monoprice.com/product?p_id=21543",
             "product_id": 21543,
@@ -10216,7 +10216,7 @@
             "num_reviews": 29
         },
         "21544": {
-            "name": "Monoprice Origin Series 16AWG 4-Conductor Burial Rated Speaker Wire, 1000ft Gray",
+            "name": "Monoprice Speaker Wire, Burial Rated, 4-Conductor, 16AWG, 1000ft, Gray",
             "price": 218.39,
             "url": "https://www.monoprice.com/product?p_id=21544",
             "product_id": 21544,
@@ -10225,7 +10225,7 @@
             "num_reviews": 29
         },
         "21545": {
-            "name": "Monoprice Origin Series 14AWG 2-Conductor Burial Rated Speaker Wire, 1000ft Gray",
+            "name": "Monoprice Speaker Wire, Burial Rated, 2-Conductor, 14AWG, 1000ft, Gray",
             "price": 259.99,
             "url": "https://www.monoprice.com/product?p_id=21545",
             "product_id": 21545,
@@ -10234,7 +10234,7 @@
             "num_reviews": 29
         },
         "21546": {
-            "name": "Monoprice Origin Series 14AWG 4-Conductor Burial Rated Speaker Wire, 1000ft Gray",
+            "name": "Monoprice Speaker Wire, Burial Rated, 4-Conductor, 14AWG, 1000ft, Gray",
             "price": 301.79,
             "url": "https://www.monoprice.com/product?p_id=21546",
             "product_id": 21546,
@@ -10243,7 +10243,7 @@
             "num_reviews": 29
         },
         "21547": {
-            "name": "Monoprice Origin Series 12AWG 2-Conductor Burial Rated Speaker Wire, 1000ft Gray",
+            "name": "Monoprice Speaker Wire, Burial Rated, 2-Conductor, 12AWG, 1000ft, Gray",
             "price": 343.99,
             "url": "https://www.monoprice.com/product?p_id=21547",
             "product_id": 21547,
@@ -10252,7 +10252,7 @@
             "num_reviews": 29
         },
         "21548": {
-            "name": "Monoprice Origin Series 16AWG 2-Conductor Burial Rated Speaker Wire, 250ft Gray",
+            "name": "Monoprice Speaker Wire, Burial Rated, 2-Conductor, 16AWG, 250ft, Gray",
             "price": 48.02,
             "url": "https://www.monoprice.com/product?p_id=21548",
             "product_id": 21548,
@@ -10261,7 +10261,7 @@
             "num_reviews": 29
         },
         "21549": {
-            "name": "Monoprice Origin Series 16AWG 4-Conductor Burial Rated Speaker Wire, 250ft Gray",
+            "name": "Monoprice Speaker Wire, Burial Rated, 4-Conductor, 16AWG, 250ft, Gray",
             "price": 115.49,
             "url": "https://www.monoprice.com/product?p_id=21549",
             "product_id": 21549,
@@ -10270,7 +10270,7 @@
             "num_reviews": 29
         },
         "21550": {
-            "name": "Monoprice Origin Series 14AWG 2-Conductor Burial Rated Speaker Wire, 250ft Gray",
+            "name": "Monoprice Speaker Wire, Burial Rated, 2-Conductor, 14AWG, 250ft, Gray",
             "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=21550",
             "product_id": 21550,
@@ -10279,7 +10279,7 @@
             "num_reviews": 29
         },
         "21551": {
-            "name": "Monoprice Origin Series 14AWG 4-Conductor Burial Rated Speaker Wire, 250ft Gray",
+            "name": "Monoprice Speaker Wire, Burial Rated, 4-Conductor, 14AWG, 250ft, Gray",
             "price": 188.99,
             "url": "https://www.monoprice.com/product?p_id=21551",
             "product_id": 21551,
@@ -10288,7 +10288,7 @@
             "num_reviews": 29
         },
         "21552": {
-            "name": "Monoprice Origin Series 12AWG 2-Conductor Burial Rated Speaker Wire, 250ft Gray",
+            "name": "Monoprice Speaker Wire, Burial Rated, 2-Conductor, 12AWG, 250ft, Gray",
             "price": 129.99,
             "url": "https://www.monoprice.com/product?p_id=21552",
             "product_id": 21552,
@@ -10297,7 +10297,7 @@
             "num_reviews": 29
         },
         "21553": {
-            "name": "Monoprice Origin Series 12AWG 4-Conductor Burial Rated Speaker Wire, 250ft Gray",
+            "name": "Monoprice Speaker Wire, Burial Rated, 4-Conductor, 12AWG, 250ft, Gray",
             "price": 188.99,
             "url": "https://www.monoprice.com/product?p_id=21553",
             "product_id": 21553,
@@ -44985,6 +44985,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-11T22:30:16Z"
+        "timestamp": "2023-05-11T22:36:08Z"
     }
 }
