@@ -29860,7 +29860,7 @@
             "product_id": 41397,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1853
+            "num_reviews": 1854
         },
         "41398": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 2-Conductor Speaker Wire, 1000ft, Black",
@@ -32526,6 +32526,15 @@
             "rating": 4.6,
             "num_reviews": 7
         },
+        "42771": {
+            "name": "Dark Matter by Monoprice 27in Gaming Monitor - 16:9, 1920x1080p, FHD, 165Hz",
+            "price": 249.99,
+            "url": "https://www.monoprice.com/product?p_id=42771",
+            "product_id": 42771,
+            "available": true,
+            "rating": 4.4,
+            "num_reviews": 9
+        },
         "42772": {
             "name": "Dark Matter by Monoprice 34in Curved Ultrawide Gaming Monitor - 21:9, 3440x1440p, UWQHD, 144Hz, 1500R, VA",
             "price": 499.99,
@@ -33920,15 +33929,6 @@
             "available": true,
             "rating": 4.8,
             "num_reviews": 4
-        },
-        "43202": {
-            "name": "Monoprice Power Adapter - NEMA 5-15P to IEC 60320 C13 Power Plug Adapter, Reversible, 15A/125V, Black",
-            "price": 2.49,
-            "url": "https://www.monoprice.com/product?p_id=43202",
-            "product_id": 43202,
-            "available": true,
-            "rating": 0,
-            "num_reviews": 0
         },
         "43205": {
             "name": "Monoprice EZ Series Low Profile Tilt TV Wall Mount Bracket For LED TVs 37in to 80in, Max Weight 154 lbs, VESA Patterns Up to 600x400, Fits Curved Screens",
@@ -36000,6 +36000,33 @@
             "rating": 0,
             "num_reviews": 0
         },
+        "44369": {
+            "name": "Monoprice Compact 10,000 mAh PD 20W Power Bank",
+            "price": 24.99,
+            "url": "https://www.monoprice.com/product?p_id=44369",
+            "product_id": 44369,
+            "available": false,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "44370": {
+            "name": "Monoprice Compact 20,000 mAh PD 20W Power Bank",
+            "price": 29.99,
+            "url": "https://www.monoprice.com/product?p_id=44370",
+            "product_id": 44370,
+            "available": false,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "44371": {
+            "name": "Monoprice 20,000 mAh 20W Power Bank with Wireless Charging",
+            "price": 34.99,
+            "url": "https://www.monoprice.com/product?p_id=44371",
+            "product_id": 44371,
+            "available": false,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "44372": {
             "name": "MPM 32 Inch Grabber Reacher Tool, Foldable Gripper with Rotating Jaw, Long Handy Mobility Aids, Lightweight Reaching Tool for Trash Claw Pick Up Stick, Litter Picker, Arm Extension for Elderly",
             "price": 10.99,
@@ -36028,8 +36055,8 @@
             "num_reviews": 1464
         },
         "44418": {
-            "name": "3-Layer Folding Mobile Steel Shelving Unit",
-            "price": 79.99,
+            "name": "MPM 3-Tier Foldable Shelf Storage with Wheels, Heavy Duty Casters with Lock, Organizer Rack, Multifunctional Standing Steel Cart, Perfect for Kitchen, Garage, Home Office, and Pantry",
+            "price": 64.99,
             "url": "https://www.monoprice.com/product?p_id=44418",
             "product_id": 44418,
             "available": false,
@@ -36037,7 +36064,7 @@
             "num_reviews": 0
         },
         "44419": {
-            "name": "Aluminum Foldable Hand Truck - Black",
+            "name": "MPM Foldable Hand Truck and Dolly Cart, Aluminum Luggage Trolley, Lightweight Folding Hand Cart, Multipurpose Use For Office, Travel, Moving and Indoor Outdoor Home",
             "price": 58.99,
             "url": "https://www.monoprice.com/product?p_id=44419",
             "product_id": 44419,
@@ -44994,6 +45021,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-11T18:27:47Z"
+        "timestamp": "2023-05-11T18:34:47Z"
     }
 }
