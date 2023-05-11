@@ -16369,7 +16369,7 @@
             "product_id": 31191,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 395
+            "num_reviews": 396
         },
         "31192": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Black",
@@ -18482,7 +18482,7 @@
             "price": 29.39,
             "url": "https://www.monoprice.com/product?p_id=33899",
             "product_id": 33899,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -18878,7 +18878,7 @@
             "price": 17.29,
             "url": "https://www.monoprice.com/product?p_id=34207",
             "product_id": 34207,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 1707
         },
@@ -20831,7 +20831,7 @@
             "price": 149.99,
             "url": "https://www.monoprice.com/product?p_id=35124",
             "product_id": 35124,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 59
         },
@@ -22903,7 +22903,7 @@
             "product_id": 38186,
             "available": false,
             "rating": 4.5,
-            "num_reviews": 48
+            "num_reviews": 49
         },
         "38187": {
             "name": "Monoprice Obsidian Speed Plus Power Bank USB Charger, 10,050mAh, 2-Port Up to 18W PD (3A) Output for iPhone, Android, and Galaxy Devices, Power Delivery Input/Output, Rapid Charging USB-A/USB-C Output",
@@ -23074,7 +23074,7 @@
             "product_id": 38310,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 395
+            "num_reviews": 396
         },
         "38312": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Purple",
@@ -44985,6 +44985,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-11T02:54:51Z"
+        "timestamp": "2023-05-11T03:07:34Z"
     }
 }
