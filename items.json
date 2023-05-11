@@ -5441,7 +5441,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=139",
             "product_id": 139,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3040
         },
@@ -28285,7 +28285,7 @@
             "product_id": 4042,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1853
+            "num_reviews": 1854
         },
         "40424": {
             "name": "Monoprice 4K UltraFlex Small Diameter High Speed HDMI Female to Mini HDMI Male Passive Cable - 4K@60Hz 18Gbps 40AWG, 6in Black",
@@ -39337,7 +39337,7 @@
             "product_id": 6026,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 385
+            "num_reviews": 386
         },
         "6027": {
             "name": "Monoprice 9-pin/6-pin BILINGUAL FireWire 800/FireWire 400 Cable, 15ft, Black",
@@ -44976,6 +44976,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-11T21:54:35Z"
+        "timestamp": "2023-05-11T22:06:03Z"
     }
 }
