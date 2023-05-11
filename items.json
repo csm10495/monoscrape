@@ -29210,7 +29210,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=41085",
             "product_id": 41085,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -29480,7 +29480,7 @@
             "price": 499.99,
             "url": "https://www.monoprice.com/product?p_id=41285",
             "product_id": 41285,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 4
         },
@@ -30002,7 +30002,7 @@
             "price": 329.99,
             "url": "https://www.monoprice.com/product?p_id=41483",
             "product_id": 41483,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 3
         },
@@ -30443,7 +30443,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=41731",
             "product_id": 41731,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 90
         },
@@ -31676,7 +31676,7 @@
             "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=42306",
             "product_id": 42306,
-            "available": true,
+            "available": false,
             "rating": 4,
             "num_reviews": 14
         },
@@ -33710,7 +33710,7 @@
             "price": 129.99,
             "url": "https://www.monoprice.com/product?p_id=43160",
             "product_id": 43160,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -34287,8 +34287,8 @@
             "url": "https://www.monoprice.com/product?p_id=43260",
             "product_id": 43260,
             "available": true,
-            "rating": 3.7,
-            "num_reviews": 10
+            "rating": 3.8,
+            "num_reviews": 11
         },
         "43261": {
             "name": "Monoprice Harmony Capsule 100 Portable Bluetooth Speaker",
@@ -34421,7 +34421,7 @@
             "price": 13.99,
             "url": "https://www.monoprice.com/product?p_id=43339",
             "product_id": 43339,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1464
         },
@@ -34502,7 +34502,7 @@
             "price": 59.98,
             "url": "https://www.monoprice.com/product?p_id=43351",
             "product_id": 43351,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 2
         },
@@ -34565,7 +34565,7 @@
             "price": 31.99,
             "url": "https://www.monoprice.com/product?p_id=43358",
             "product_id": 43358,
-            "available": true,
+            "available": false,
             "rating": 3.7,
             "num_reviews": 3
         },
@@ -35177,7 +35177,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=43672",
             "product_id": 43672,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 4
         },
@@ -45003,6 +45003,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-11T17:21:56Z"
+        "timestamp": "2023-05-11T17:29:30Z"
     }
 }
