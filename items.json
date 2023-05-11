@@ -4028,7 +4028,7 @@
             "price": 17.99,
             "url": "https://www.monoprice.com/product?p_id=1343",
             "product_id": 1343,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 1
         },
@@ -11372,7 +11372,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=2308",
             "product_id": 2308,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -27374,7 +27374,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=3997",
             "product_id": 3997,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 519
         },
@@ -37328,7 +37328,7 @@
             "price": 0.29,
             "url": "https://www.monoprice.com/product?p_id=4982",
             "product_id": 4982,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3040
         },
@@ -40082,7 +40082,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=647",
             "product_id": 647,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 926
         },
@@ -42604,7 +42604,7 @@
             "product_id": 8248,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 278
+            "num_reviews": 279
         },
         "8321": {
             "name": "Monoprice Button Design Noise Isolating Earbuds Headphones, Black \u0026 White",
@@ -43295,7 +43295,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=8778",
             "product_id": 8778,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 251
         },
@@ -43979,7 +43979,7 @@
             "price": 46.49,
             "url": "https://www.monoprice.com/product?p_id=953",
             "product_id": 953,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 16
         },
@@ -45012,6 +45012,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-11T19:55:55Z"
+        "timestamp": "2023-05-11T20:09:37Z"
     }
 }
