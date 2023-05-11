@@ -16468,7 +16468,7 @@
             "product_id": 31202,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 262
+            "num_reviews": 263
         },
         "31203": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Black",
@@ -24242,7 +24242,7 @@
             "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=38820",
             "product_id": 38820,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 82
         },
@@ -24685,7 +24685,7 @@
             "product_id": 38900,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 77
+            "num_reviews": 78
         },
         "38901": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-A Charge and Sync Nylon-Braid Cable, 6ft, Black",
@@ -25324,7 +25324,7 @@
             "product_id": 39167,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 141
+            "num_reviews": 142
         },
         "39168": {
             "name": "Monolith by Monoprice 24in Speaker Stand, Cherry (Each)",
@@ -26494,7 +26494,7 @@
             "product_id": 39630,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 21
+            "num_reviews": 22
         },
         "39631": {
             "name": "Monoprice AtlasFlex Series Durable USB 3.2 Gen 2 Type-C Data \u0026 Power Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 1m, Red",
@@ -45021,6 +45021,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-11T15:55:26Z"
+        "timestamp": "2023-05-11T16:10:57Z"
     }
 }
