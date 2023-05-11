@@ -2489,7 +2489,7 @@
             "price": 5.49,
             "url": "https://www.monoprice.com/product?p_id=12572",
             "product_id": 12572,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 57
         },
@@ -4758,8 +4758,8 @@
             "url": "https://www.monoprice.com/product?p_id=13680",
             "product_id": 13680,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 34
+            "rating": 4.7,
+            "num_reviews": 35
         },
         "13682": {
             "name": "Monoprice Alpha In-Wall Speakers 8in Carbon Fiber 2-way (pair)",
@@ -6134,7 +6134,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=14767",
             "product_id": 14767,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 92
         },
@@ -6748,7 +6748,7 @@
             "product_id": 15146,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 527
         },
         "15149": {
             "name": "Monoprice Cat6A 1ft Black 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -6829,7 +6829,7 @@
             "product_id": 15157,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 526
         },
         "15158": {
             "name": "Monoprice Cat6A 5ft Blue 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -7889,7 +7889,7 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=15868",
             "product_id": 15868,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 103
         },
@@ -9187,7 +9187,7 @@
             "product_id": 16359,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 96
+            "num_reviews": 97
         },
         "16360": {
             "name": "Workstream by Monoprice Medium Multimedia Desktop Monitor Stand, 25.6in x 11.0in, Max Weight Capacity 80lbs, Black Tempered Glass",
@@ -9592,7 +9592,7 @@
             "product_id": 18674,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 120
+            "num_reviews": 119
         },
         "18675": {
             "name": "Stage Right by Monoprice 25ft XLR Male to XLR Female 16AWG Cable (Gold Plated) [Microphone \u0026 Interconnect]",
@@ -44994,6 +44994,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-11T17:44:50Z"
+        "timestamp": "2023-05-11T17:54:58Z"
     }
 }
