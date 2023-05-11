@@ -16767,6 +16767,15 @@
             "rating": 4.9,
             "num_reviews": 231
         },
+        "31380": {
+            "name": "Monoprice Entegrade Series Cat7 Double Shielded (S/FTP) Ethernet Patch Cable - Snagless RJ45, 600MHz, 10G, 26AWG, 100ft, Red",
+            "price": 39.99,
+            "url": "https://www.monoprice.com/product?p_id=31380",
+            "product_id": 31380,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 231
+        },
         "31384": {
             "name": "Monoprice Entegrade Series Cat7 Double Shielded (S/FTP) Ethernet Patch Cable - Snagless RJ45, 600MHz, 10G, 26AWG, 100ft, Purple",
             "price": 26.99,
@@ -22775,7 +22784,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=38165",
             "product_id": 38165,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 3
         },
@@ -23297,7 +23306,7 @@
             "price": 2.29,
             "url": "https://www.monoprice.com/product?p_id=38355",
             "product_id": 38355,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 3
         },
@@ -24476,7 +24485,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=38858",
             "product_id": 38858,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 60
         },
@@ -24694,7 +24703,7 @@
             "product_id": 38902,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 77
+            "num_reviews": 78
         },
         "38903": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-A Charge and Sync Nylon-Braid Cable, 1.5ft, White",
@@ -25828,7 +25837,7 @@
             "product_id": 39481,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 268
+            "num_reviews": 270
         },
         "39483": {
             "name": "Monoprice 8K Ultra High Speed HDMI Cable 6ft - 48Gbps Black - 5 Pack",
@@ -26474,7 +26483,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=39617",
             "product_id": 39617,
-            "available": false,
+            "available": true,
             "rating": 4.1,
             "num_reviews": 22
         },
@@ -26609,7 +26618,7 @@
             "price": 7.19,
             "url": "https://www.monoprice.com/product?p_id=39650",
             "product_id": 39650,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 58
         },
@@ -45012,6 +45021,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-11T14:55:02Z"
+        "timestamp": "2023-05-11T15:07:04Z"
     }
 }
