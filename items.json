@@ -29093,7 +29093,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=41035",
             "product_id": 41035,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 12
         },
@@ -30248,6 +30248,15 @@
             "available": true,
             "rating": 4.9,
             "num_reviews": 59
+        },
+        "41690": {
+            "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, H05VV-F 3G 1.0 mm",
+            "price": 1.78,
+            "url": "https://www.monoprice.com/product?p_id=41690",
+            "product_id": 41690,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 38
         },
         "41691": {
             "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, H05VV-F 3G 1.0 mm",
@@ -31912,7 +31921,7 @@
             "product_id": 42527,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 262
+            "num_reviews": 263
         },
         "42528": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Black - 3 Pack",
@@ -33768,6 +33777,24 @@
             "rating": 4.8,
             "num_reviews": 10
         },
+        "43177": {
+            "name": "Monoprice Heavy Duty Power Cable - IEC 60320 C14 to IEC 60320 C15, 14AWG, 15A, SJT, 125V, White, 3ft",
+            "price": 2.69,
+            "url": "https://www.monoprice.com/product?p_id=43177",
+            "product_id": 43177,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 7
+        },
+        "43178": {
+            "name": "Monoprice Heavy Duty Power Cable - IEC 60320 C14 to IEC 60320 C15, 14AWG, 15A, SJT, 125V, White, 6ft",
+            "price": 2.25,
+            "url": "https://www.monoprice.com/product?p_id=43178",
+            "product_id": 43178,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 7
+        },
         "43180": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A, 125V, 3-Prong, White, 3ft",
             "price": 1.79,
@@ -34880,7 +34907,7 @@
             "price": 239.99,
             "url": "https://www.monoprice.com/product?p_id=43548",
             "product_id": 43548,
-            "available": false,
+            "available": true,
             "rating": 4.1,
             "num_reviews": 30
         },
@@ -44976,6 +45003,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-11T11:45:36Z"
+        "timestamp": "2023-05-11T11:55:07Z"
     }
 }
