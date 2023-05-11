@@ -1148,7 +1148,7 @@
             "price": 3.29,
             "url": "https://www.monoprice.com/product?p_id=11286",
             "product_id": 11286,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 461
         },
@@ -2088,15 +2088,6 @@
             "rating": 5,
             "num_reviews": 56
         },
-        "11881": {
-            "name": "Monoprice OM3 Fiber Optic Cable - SC/SC, UL, 50/125 Type, Multi-Mode, 10GB, Aqua, 20m, Corning",
-            "price": 8.39,
-            "url": "https://www.monoprice.com/product?p_id=11881",
-            "product_id": 11881,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 4
-        },
         "11885": {
             "name": "Monoprice 1.5ft USB 2.0 A Male to A Female Extension 28/24AWG Cable (Gold Plated) - WHITE (OEM)",
             "price": 0.89,
@@ -2336,7 +2327,7 @@
             "price": 249.99,
             "url": "https://www.monoprice.com/product?p_id=12184",
             "product_id": 12184,
-            "available": false,
+            "available": true,
             "rating": 4.1,
             "num_reviews": 12
         },
@@ -3650,7 +3641,7 @@
             "price": 6.49,
             "url": "https://www.monoprice.com/product?p_id=13283",
             "product_id": 13283,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 167
         },
@@ -4482,15 +4473,6 @@
             "rating": 4.7,
             "num_reviews": 272
         },
-        "13562": {
-            "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, U/FTP, CM, Pure Bare Copper Wire, 23AWG, 250ft, Gray",
-            "price": 47.39,
-            "url": "https://www.monoprice.com/product?p_id=13562",
-            "product_id": 13562,
-            "available": false,
-            "rating": 3.9,
-            "num_reviews": 42
-        },
         "13574": {
             "name": "Monoprice 4K Slim High Speed HDMI Cable 0.5ft - 18Gbps Black",
             "price": 5.49,
@@ -4767,8 +4749,8 @@
             "url": "https://www.monoprice.com/product?p_id=13678",
             "product_id": 13678,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 34
+            "rating": 4.7,
+            "num_reviews": 35
         },
         "13680": {
             "name": "Monoprice Cat5e 250ft Blue CMR UL Bulk Cable, UTP, Solid, 24AWG, 350MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
@@ -5477,7 +5459,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=13920",
             "product_id": 13920,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 661
         },
@@ -6197,7 +6179,7 @@
             "price": 2.29,
             "url": "https://www.monoprice.com/product?p_id=14785",
             "product_id": 14785,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -7061,7 +7043,7 @@
             "price": 13.99,
             "url": "https://www.monoprice.com/product?p_id=15251",
             "product_id": 15251,
-            "available": true,
+            "available": false,
             "rating": 3.8,
             "num_reviews": 56
         },
@@ -8141,7 +8123,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=15954",
             "product_id": 15954,
-            "available": false,
+            "available": true,
             "rating": 4,
             "num_reviews": 370
         },
@@ -8771,7 +8753,7 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=16245",
             "product_id": 16245,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 94
         },
@@ -8807,7 +8789,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=16249",
             "product_id": 16249,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 60
         },
@@ -45021,6 +45003,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-11T16:45:46Z"
+        "timestamp": "2023-05-11T16:55:01Z"
     }
 }
