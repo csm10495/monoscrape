@@ -22187,7 +22187,7 @@
         },
         "36656": {
             "name": "Monoprice Thunderbolt 3 Dual DisplayPort Docking Station with USB-C MFDP Support for non-Thunderbolt 3 Devices, with Thunderbolt 3 USB Type-C Cable (v2)",
-            "price": 139.99,
+            "price": 179.99,
             "url": "https://www.monoprice.com/product?p_id=36656",
             "product_id": 36656,
             "available": true,
@@ -44976,6 +44976,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-11T07:34:03Z"
+        "timestamp": "2023-05-11T07:44:03Z"
     }
 }
