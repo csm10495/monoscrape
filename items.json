@@ -4352,7 +4352,7 @@
             "price": 25.99,
             "url": "https://www.monoprice.com/product?p_id=1354",
             "product_id": 1354,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -9950,7 +9950,7 @@
             "price": 26.99,
             "url": "https://www.monoprice.com/product?p_id=2119",
             "product_id": 2119,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -11399,7 +11399,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=2308",
             "product_id": 2308,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -11597,7 +11597,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=2376",
             "product_id": 2376,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 97
         },
@@ -14569,7 +14569,7 @@
             "product_id": 2820,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1853
+            "num_reviews": 1854
         },
         "2821": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 2-Conductor Speaker Wire, 250ft, White",
@@ -14632,7 +14632,7 @@
             "product_id": 2864,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 1300
+            "num_reviews": 1302
         },
         "2865": {
             "name": "Monoprice 12ft Premium 2 RCA Plug/2 RCA Plug M/M 22AWG Cable - Black",
@@ -37409,7 +37409,7 @@
             "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=5001",
             "product_id": 5001,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3040
         },
@@ -37951,7 +37951,7 @@
             "product_id": 5350,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 1300
+            "num_reviews": 1302
         },
         "5355": {
             "name": "Monoprice 1.5ft 22AWG 5-RCA Component Video/Audio Coaxial Cable (RG-59/U) - Black",
@@ -42017,7 +42017,7 @@
             "price": 8.49,
             "url": "https://www.monoprice.com/product?p_id=7681",
             "product_id": 7681,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 24
         },
@@ -42739,7 +42739,7 @@
             "product_id": 8534,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 118
+            "num_reviews": 119
         },
         "8535": {
             "name": "Monoprice 20ft MIDI Cable with 5 Pin DIN Plugs - Black",
@@ -43286,7 +43286,7 @@
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=8771",
             "product_id": 8771,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 99
         },
@@ -43511,7 +43511,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=9196",
             "product_id": 9196,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 87
         },
@@ -43979,7 +43979,7 @@
             "price": 32.99,
             "url": "https://www.monoprice.com/product?p_id=952",
             "product_id": 952,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 11
         },
@@ -43988,7 +43988,7 @@
             "price": 46.49,
             "url": "https://www.monoprice.com/product?p_id=953",
             "product_id": 953,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 16
         },
@@ -45021,6 +45021,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-11T16:39:58Z"
+        "timestamp": "2023-05-11T16:45:46Z"
     }
 }
