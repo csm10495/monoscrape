@@ -29671,7 +29671,7 @@
             "product_id": 41375,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1851
+            "num_reviews": 1854
         },
         "41376": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 2-Conductor Speaker Wire, 100ft, Black",
@@ -29806,7 +29806,7 @@
             "product_id": 41390,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1851
+            "num_reviews": 1854
         },
         "41391": {
             "name": "Monoprice Access Series 18AWG CL2 Rated 2-Conductor Speaker Wire, 50ft, Black",
@@ -35360,15 +35360,6 @@
             "available": true,
             "rating": 1,
             "num_reviews": 1
-        },
-        "43889": {
-            "name": "Dark Matter by Monoprice 27in Gaming Monitor - 16:9, 1920x1080p, FHD, 165Hz (Open Box)",
-            "price": 229.99,
-            "url": "https://www.monoprice.com/product?p_id=43889",
-            "product_id": 43889,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
         },
         "43899": {
             "name": "Dark Matter by Monoprice 27in Gaming Monitor - Curved 1500R, 16:9, 1920x1080p, FHD, 240Hz, VA (Open Box)",
@@ -44985,6 +44976,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-11T03:07:34Z"
+        "timestamp": "2023-05-11T03:23:25Z"
     }
 }
