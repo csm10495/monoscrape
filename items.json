@@ -15199,7 +15199,7 @@
             "product_id": 3030,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 951
+            "num_reviews": 952
         },
         "3031": {
             "name": "Monoprice 6ft RG6 (18AWG) 75Ohm, Quad Shield, CL2 Coaxial Cable with F Type Connector - Black",
@@ -37314,15 +37314,6 @@
             "rating": 4.9,
             "num_reviews": 3040
         },
-        "4982": {
-            "name": "Monoprice Cat5e 0.5ft White Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
-            "price": 0.29,
-            "url": "https://www.monoprice.com/product?p_id=4982",
-            "product_id": 4982,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 3040
-        },
         "4984": {
             "name": "Monoprice Cat5e 20ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 5.49,
@@ -38921,15 +38912,6 @@
             "price": 5.38,
             "url": "https://www.monoprice.com/product?p_id=5799",
             "product_id": 5799,
-            "available": true,
-            "rating": 4.8,
-            "num_reviews": 69
-        },
-        "5801": {
-            "name": "Monoprice Releasable Cable Tie 12in 50 lbs, 100 pcs/pack, Black",
-            "price": 5.99,
-            "url": "https://www.monoprice.com/product?p_id=5801",
-            "product_id": 5801,
             "available": true,
             "rating": 4.8,
             "num_reviews": 69
@@ -41297,7 +41279,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=7264",
             "product_id": 7264,
-            "available": false,
+            "available": true,
             "rating": 4.1,
             "num_reviews": 71
         },
@@ -43619,7 +43601,7 @@
             "price": 2.39,
             "url": "https://www.monoprice.com/product?p_id=9324",
             "product_id": 9324,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 11
         },
@@ -45003,6 +44985,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-11T20:54:45Z"
+        "timestamp": "2023-05-11T21:06:10Z"
     }
 }
