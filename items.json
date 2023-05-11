@@ -28760,7 +28760,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=40885",
             "product_id": 40885,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 56
         },
@@ -29752,7 +29752,7 @@
             "product_id": 41385,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1853
+            "num_reviews": 1854
         },
         "41386": {
             "name": "Monoprice Access Series 14AWG CL2 Rated 4-Conductor Speaker Wire, 100ft, Black",
@@ -31685,7 +31685,7 @@
             "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=42340",
             "product_id": 42340,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 23
         },
@@ -32199,15 +32199,6 @@
             "url": "https://www.monoprice.com/product?p_id=42651",
             "product_id": 42651,
             "available": true,
-            "rating": 5,
-            "num_reviews": 2
-        },
-        "42652": {
-            "name": "Monoprice Self Adhesive Cable Tie Mounts with Mounting Hole, 1.09x1.09 in, 100 pcs/pack, Black, ABS Type Approval",
-            "price": 2.39,
-            "url": "https://www.monoprice.com/product?p_id=42652",
-            "product_id": 42652,
-            "available": false,
             "rating": 5,
             "num_reviews": 2
         },
@@ -33692,7 +33683,7 @@
             "price": 199.99,
             "url": "https://www.monoprice.com/product?p_id=43158",
             "product_id": 43158,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 1
         },
@@ -36068,7 +36059,7 @@
             "price": 58.99,
             "url": "https://www.monoprice.com/product?p_id=44419",
             "product_id": 44419,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -45012,6 +45003,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-11T20:35:40Z"
+        "timestamp": "2023-05-11T20:44:57Z"
     }
 }
