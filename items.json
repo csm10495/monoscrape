@@ -410,7 +410,7 @@
             "price": 20.59,
             "url": "https://www.monoprice.com/product?p_id=10551",
             "product_id": 10551,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 573
         },
@@ -2093,7 +2093,7 @@
             "price": 8.39,
             "url": "https://www.monoprice.com/product?p_id=11881",
             "product_id": 11881,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 4
         },
@@ -3326,7 +3326,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=13140",
             "product_id": 13140,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 127
         },
@@ -7799,7 +7799,7 @@
             "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=15760",
             "product_id": 15760,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 43
         },
@@ -7835,7 +7835,7 @@
             "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=15827",
             "product_id": 15827,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -8429,7 +8429,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=16091",
             "product_id": 16091,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 141
         },
@@ -8771,7 +8771,7 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=16245",
             "product_id": 16245,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 94
         },
@@ -9671,7 +9671,7 @@
             "price": 27.99,
             "url": "https://www.monoprice.com/product?p_id=18785",
             "product_id": 18785,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 44
         },
@@ -9716,7 +9716,7 @@
             "price": 135.99,
             "url": "https://www.monoprice.com/product?p_id=18803",
             "product_id": 18803,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 27
         },
@@ -9809,6 +9809,15 @@
             "available": false,
             "rating": 4.7,
             "num_reviews": 18
+        },
+        "19434": {
+            "name": "Ubiquiti Next-Gen 2x2 Dual Polarity MIMO Omni Antenna - Range - SHF - 5.45 GHz to 5.85 GHz - 13 dBi - Base StationPole - Omni-directional",
+            "price": 189.99,
+            "url": "https://www.monoprice.com/product?p_id=19434",
+            "product_id": 19434,
+            "available": false,
+            "rating": 0,
+            "num_reviews": 0
         },
         "195": {
             "name": "Monoprice High Quality 8P8C RJ-45 Network Cable Crimper",
@@ -45003,6 +45012,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-11T14:37:26Z"
+        "timestamp": "2023-05-11T14:44:44Z"
     }
 }
