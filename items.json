@@ -10348,7 +10348,7 @@
             "product_id": 21590,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 205
+            "num_reviews": 207
         },
         "21591": {
             "name": "Monoprice Sit-Stand Dual-Motor Height Adjustable Table Desk Frame, Electric, Gray",
@@ -10410,8 +10410,8 @@
             "url": "https://www.monoprice.com/product?p_id=21605",
             "product_id": 21605,
             "available": false,
-            "rating": 4.4,
-            "num_reviews": 49
+            "rating": 4.5,
+            "num_reviews": 50
         },
         "21606": {
             "name": "Monoprice Table Top for Sit-Stand Height-Adjustable Desk, 6ft White",
@@ -12587,7 +12587,7 @@
             "price": 20.38,
             "url": "https://www.monoprice.com/product?p_id=24409",
             "product_id": 24409,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 495
         },
@@ -44985,6 +44985,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-11T21:20:13Z"
+        "timestamp": "2023-05-11T21:25:45Z"
     }
 }
