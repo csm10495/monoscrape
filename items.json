@@ -15809,7 +15809,7 @@
             "price": 8.63,
             "url": "https://www.monoprice.com/product?p_id=30760",
             "product_id": 30760,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 88
         },
@@ -23263,7 +23263,7 @@
             "product_id": 38334,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 97
+            "num_reviews": 98
         },
         "38335": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Micro B to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Purple",
@@ -24028,7 +24028,7 @@
             "product_id": 38794,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 79
+            "num_reviews": 84
         },
         "38795": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 1.5ft, White",
@@ -24224,7 +24224,7 @@
             "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=38820",
             "product_id": 38820,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 82
         },
@@ -44976,6 +44976,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-11T11:35:23Z"
+        "timestamp": "2023-05-11T11:45:36Z"
     }
 }
