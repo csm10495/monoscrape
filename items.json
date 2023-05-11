@@ -40208,7 +40208,7 @@
             "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=6526",
             "product_id": 6526,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 226
         },
@@ -43740,15 +43740,6 @@
             "rating": 4.8,
             "num_reviews": 19
         },
-        "941": {
-            "name": "Monoprice Phone Cable, RJ12 (6P6C), Reverse for Voice - 14ft",
-            "price": 1.29,
-            "url": "https://www.monoprice.com/product?p_id=941",
-            "product_id": 941,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 15
-        },
         "942": {
             "name": "Monoprice Phone Cable, RJ12 (6P6C), Straight for Data - 25ft",
             "price": 1.99,
@@ -43889,7 +43880,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=9447",
             "product_id": 9447,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 211
         },
@@ -45021,6 +45012,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-11T18:45:03Z"
+        "timestamp": "2023-05-11T18:54:50Z"
     }
 }
