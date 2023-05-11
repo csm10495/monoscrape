@@ -2354,7 +2354,7 @@
             "price": 315.99,
             "url": "https://www.monoprice.com/product?p_id=12277",
             "product_id": 12277,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 7
         },
@@ -6820,7 +6820,7 @@
             "product_id": 15157,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 526
+            "num_reviews": 527
         },
         "15158": {
             "name": "Monoprice Cat6A 5ft Blue 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -7835,7 +7835,7 @@
             "price": 16.47,
             "url": "https://www.monoprice.com/product?p_id=15835",
             "product_id": 15835,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -44985,6 +44985,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-11T21:06:10Z"
+        "timestamp": "2023-05-11T21:20:13Z"
     }
 }
