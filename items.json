@@ -488,7 +488,7 @@
         },
         "10623": {
             "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam, 11 x 8 x 10 in",
-            "price": 22.99,
+            "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=10623",
             "product_id": 10623,
             "available": true,
@@ -3938,7 +3938,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=13406",
             "product_id": 13406,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 167
         },
@@ -8323,7 +8323,7 @@
             "product_id": 16077,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1853
+            "num_reviews": 1854
         },
         "16079": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 16AWG, 1000ft, White",
@@ -38910,6 +38910,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-12T08:09:41Z"
+        "timestamp": "2023-05-12T08:26:28Z"
     }
 }
