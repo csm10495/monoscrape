@@ -10410,8 +10410,8 @@
             "url": "https://www.monoprice.com/product?p_id=21606",
             "product_id": 21606,
             "available": false,
-            "rating": 4.4,
-            "num_reviews": 49
+            "rating": 4.5,
+            "num_reviews": 50
         },
         "21607": {
             "name": "Monoprice USB Type-C to 4K HDMI, Single Link DVI, and VGA Passive Adapter, Black",
@@ -11057,7 +11057,7 @@
             "price": 54.99,
             "url": "https://www.monoprice.com/product?p_id=21962",
             "product_id": 21962,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 35
         },
@@ -44895,6 +44895,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-12T16:38:58Z"
+        "timestamp": "2023-05-12T16:44:48Z"
     }
 }
