@@ -38365,7 +38365,7 @@
             "product_id": 5497,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 409
+            "num_reviews": 410
         },
         "5498": {
             "name": "Monoprice 15ft Premier Series 1/4in TS Male to Male Audio Cable, 16AWG (Gold Plated)",
@@ -43097,7 +43097,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=8765",
             "product_id": 8765,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 157
         },
@@ -44886,6 +44886,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-12T20:29:38Z"
+        "timestamp": "2023-05-12T20:34:34Z"
     }
 }
