@@ -12391,7 +12391,7 @@
             "product_id": 31197,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 97
+            "num_reviews": 98
         },
         "31198": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Micro B to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Black",
@@ -12983,7 +12983,7 @@
             "price": 32.49,
             "url": "https://www.monoprice.com/product?p_id=33218",
             "product_id": 33218,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 525
         },
@@ -13028,7 +13028,7 @@
             "price": 46.74,
             "url": "https://www.monoprice.com/product?p_id=33236",
             "product_id": 33236,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 525
         },
@@ -14128,7 +14128,7 @@
             "product_id": 33815,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 24
+            "num_reviews": 25
         },
         "33819": {
             "name": "Workstream by Monoprice Extra Wide Non-slip High Precision Keyboard and Mouse Pad 36x12 inches, 3mm Thick",
@@ -17600,7 +17600,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=36208",
             "product_id": 36208,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 15
         },
@@ -19168,7 +19168,7 @@
             "product_id": 38324,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 97
+            "num_reviews": 98
         },
         "38325": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Micro B to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, White",
@@ -19411,7 +19411,7 @@
             "product_id": 38403,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 17
+            "num_reviews": 18
         },
         "38415": {
             "name": "Monoprice OM4 Fiber Optic Cable - SC/SC, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 15m",
@@ -20120,7 +20120,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=38808",
             "product_id": 38808,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 83
         },
@@ -20417,7 +20417,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=38851",
             "product_id": 38851,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 60
         },
@@ -20453,7 +20453,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=38858",
             "product_id": 38858,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 60
         },
@@ -20516,7 +20516,7 @@
             "price": 12.73,
             "url": "https://www.monoprice.com/product?p_id=38878",
             "product_id": 38878,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 60
         },
@@ -21398,7 +21398,7 @@
             "price": 1999.99,
             "url": "https://www.monoprice.com/product?p_id=39243",
             "product_id": 39243,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 2
         },
@@ -22462,7 +22462,7 @@
             "product_id": 39630,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 22
+            "num_reviews": 23
         },
         "39631": {
             "name": "Monoprice AtlasFlex Series Durable USB 3.2 Gen 2 Type-C Data \u0026 Power Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 1m, Red",
@@ -22586,7 +22586,7 @@
             "price": 7.19,
             "url": "https://www.monoprice.com/product?p_id=39650",
             "product_id": 39650,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 58
         },
@@ -40980,6 +40980,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-12T13:34:45Z"
+        "timestamp": "2023-05-12T13:44:38Z"
     }
 }
