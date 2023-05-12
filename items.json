@@ -29093,7 +29093,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=41035",
             "product_id": 41035,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 12
         },
@@ -30254,7 +30254,7 @@
             "price": 1.78,
             "url": "https://www.monoprice.com/product?p_id=41690",
             "product_id": 41690,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 38
         },
@@ -31127,7 +31127,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=42066",
             "product_id": 42066,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 304
         },
@@ -33773,7 +33773,7 @@
             "price": 2.69,
             "url": "https://www.monoprice.com/product?p_id=43177",
             "product_id": 43177,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 7
         },
@@ -33782,7 +33782,7 @@
             "price": 2.25,
             "url": "https://www.monoprice.com/product?p_id=43178",
             "product_id": 43178,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 7
         },
@@ -35385,8 +35385,8 @@
             "url": "https://www.monoprice.com/product?p_id=43905",
             "product_id": 43905,
             "available": true,
-            "rating": 3.8,
-            "num_reviews": 4
+            "rating": 4,
+            "num_reviews": 5
         },
         "43906": {
             "name": "Dark Matter Sentry Streaming Microphone",
@@ -44985,6 +44985,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-12T11:55:14Z"
+        "timestamp": "2023-05-12T12:13:24Z"
     }
 }
