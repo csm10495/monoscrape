@@ -10211,7 +10211,7 @@
             "price": 301.79,
             "url": "https://www.monoprice.com/product?p_id=21546",
             "product_id": 21546,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 29
         },
@@ -10365,8 +10365,8 @@
             "url": "https://www.monoprice.com/product?p_id=21602",
             "product_id": 21602,
             "available": false,
-            "rating": 4.4,
-            "num_reviews": 49
+            "rating": 4.5,
+            "num_reviews": 50
         },
         "21603": {
             "name": "Monoprice Table Top for Sit-Stand Height-Adjustable Desk, 5ft Black",
@@ -13433,7 +13433,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=27293",
             "product_id": 27293,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 59
         },
@@ -44886,6 +44886,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-12T19:46:13Z"
+        "timestamp": "2023-05-12T19:56:17Z"
     }
 }
