@@ -34079,7 +34079,7 @@
             "price": 98.99,
             "url": "https://www.monoprice.com/product?p_id=43224",
             "product_id": 43224,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 269
         },
@@ -35656,7 +35656,7 @@
             "product_id": 44263,
             "available": true,
             "rating": 2,
-            "num_reviews": 1
+            "num_reviews": 2
         },
         "44268": {
             "name": "Pure Outdoor by Monoprice Emperor 25 Portable Refrigerator 25L  with home and car plug adapters",
@@ -44967,6 +44967,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-12T14:44:41Z"
+        "timestamp": "2023-05-12T14:54:39Z"
     }
 }
