@@ -11390,7 +11390,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=2309",
             "product_id": 2309,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -23470,7 +23470,7 @@
             "product_id": 3846,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1853
+            "num_reviews": 1854
         },
         "3850": {
             "name": "Monoprice HDMI® Port Saver (Male to Female) - 270 Degree",
@@ -25846,7 +25846,7 @@
             "product_id": 3949,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13603
+            "num_reviews": 13604
         },
         "39490": {
             "name": "Monoprice Universal Soundbar Wall Mount Bracket Aluminum Mount for Mounting Sound Bar Above or Under TV Fits Most of Sound Bars up to 33 LBS",
@@ -36770,7 +36770,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=476",
             "product_id": 476,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 7
         },
@@ -36995,7 +36995,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=4784",
             "product_id": 4784,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 83
         },
@@ -37562,7 +37562,7 @@
             "price": 3.05,
             "url": "https://www.monoprice.com/product?p_id=5176",
             "product_id": 5176,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 256
         },
@@ -41704,7 +41704,7 @@
             "product_id": 7555,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 76
+            "num_reviews": 77
         },
         "7556": {
             "name": "Monoprice High Speed HDMI Cable with HDMI Micro Connector - 4K@24Hz, 10.2Gbps, 34AWG, 3ft, Black",
@@ -44985,6 +44985,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-12T12:40:36Z"
+        "timestamp": "2023-05-12T12:57:26Z"
     }
 }
