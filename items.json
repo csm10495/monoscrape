@@ -4325,7 +4325,7 @@
             "price": 25.99,
             "url": "https://www.monoprice.com/product?p_id=1354",
             "product_id": 1354,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 1
         },
@@ -5432,7 +5432,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=139",
             "product_id": 139,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3040
         },
@@ -10321,7 +10321,7 @@
             "product_id": 2159,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3040
+            "num_reviews": 3041
         },
         "21590": {
             "name": "Monoprice Sit-Stand Dual-Motor Height Adjustable Table Desk Frame, Electric, White",
@@ -11552,7 +11552,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=2376",
             "product_id": 2376,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 97
         },
@@ -15244,7 +15244,7 @@
             "product_id": 3035,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 951
+            "num_reviews": 952
         },
         "30359": {
             "name": "Monoprice Commercial Series Mobile Tripod Tilt TV Wall Mount Bracket Stand - For LED TVs 32in to 55in, Max Weight 77 lbs., VESA Patterns up to 400x400",
@@ -18500,7 +18500,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=3402",
             "product_id": 3402,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 60
         },
@@ -28321,7 +28321,7 @@
             "product_id": 4044,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1853
+            "num_reviews": 1854
         },
         "40440": {
             "name": "Rustic Torched Wood Tabletop Chalkboard with Legs/Vintage Wedding Table Sign/Small Kitchen Antique Wooden Frame (9.5” x 14” Inches)",
@@ -37472,7 +37472,7 @@
             "price": 3.05,
             "url": "https://www.monoprice.com/product?p_id=5176",
             "product_id": 5176,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 256
         },
@@ -37509,8 +37509,8 @@
             "url": "https://www.monoprice.com/product?p_id=5277",
             "product_id": 5277,
             "available": false,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 4.9,
+            "num_reviews": 354
         },
         "5278": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A/1250W, 125V, 3-Prong, Black, 3ft",
@@ -41891,7 +41891,7 @@
             "price": 5.49,
             "url": "https://www.monoprice.com/product?p_id=7680",
             "product_id": 7680,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 24
         },
@@ -41900,7 +41900,7 @@
             "price": 8.49,
             "url": "https://www.monoprice.com/product?p_id=7681",
             "product_id": 7681,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 24
         },
@@ -44886,6 +44886,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-12T16:08:20Z"
+        "timestamp": "2023-05-12T16:28:26Z"
     }
 }
