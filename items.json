@@ -18401,7 +18401,7 @@
             "price": 5.39,
             "url": "https://www.monoprice.com/product?p_id=33886",
             "product_id": 33886,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -21569,7 +21569,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=36208",
             "product_id": 36208,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 15
         },
@@ -24280,7 +24280,7 @@
             "product_id": 38834,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 82
+            "num_reviews": 84
         },
         "38837": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 3A/60W, 1.5ft, Black",
@@ -24413,7 +24413,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=38857",
             "product_id": 38857,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 60
         },
@@ -24748,7 +24748,7 @@
             "product_id": 38914,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 77
+            "num_reviews": 78
         },
         "38915": {
             "name": "Monoprice Select Charge \u0026 Sync Type-C to Type-C Cable, USB 2.0, TPE Jacket, Up to 3A/60W, 1.5ft, Black\\",
@@ -26573,7 +26573,7 @@
             "price": 9.74,
             "url": "https://www.monoprice.com/product?p_id=39652",
             "product_id": 39652,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 58
         },
@@ -44895,6 +44895,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-12T16:44:48Z"
+        "timestamp": "2023-05-12T16:54:49Z"
     }
 }
