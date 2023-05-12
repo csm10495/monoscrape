@@ -1143,15 +1143,6 @@
             "rating": 4.8,
             "num_reviews": 461
         },
-        "11286": {
-            "name": "Monoprice FLEXboot Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 25ft, Gray",
-            "price": 3.29,
-            "url": "https://www.monoprice.com/product?p_id=11286",
-            "product_id": 11286,
-            "available": false,
-            "rating": 4.8,
-            "num_reviews": 461
-        },
         "11287": {
             "name": "Monoprice Cat5e 25ft Green Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
             "price": 2.03,
@@ -1284,15 +1275,6 @@
             "url": "https://www.monoprice.com/product?p_id=11313",
             "product_id": 11313,
             "available": false,
-            "rating": 4.8,
-            "num_reviews": 461
-        },
-        "11314": {
-            "name": "Monoprice FLEXboot Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 30ft, Orange",
-            "price": 3.99,
-            "url": "https://www.monoprice.com/product?p_id=11314",
-            "product_id": 11314,
-            "available": true,
             "rating": 4.8,
             "num_reviews": 461
         },
@@ -3938,7 +3920,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=13406",
             "product_id": 13406,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 167
         },
@@ -4136,7 +4118,7 @@
             "price": 2.29,
             "url": "https://www.monoprice.com/product?p_id=13518",
             "product_id": 13518,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -4271,7 +4253,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=13532",
             "product_id": 13532,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -5468,7 +5450,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=13920",
             "product_id": 13920,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 661
         },
@@ -6215,7 +6197,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=14794",
             "product_id": 14794,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -7034,7 +7016,7 @@
             "price": 13.99,
             "url": "https://www.monoprice.com/product?p_id=15251",
             "product_id": 15251,
-            "available": false,
+            "available": true,
             "rating": 3.8,
             "num_reviews": 56
         },
@@ -7835,7 +7817,7 @@
             "price": 16.47,
             "url": "https://www.monoprice.com/product?p_id=15835",
             "product_id": 15835,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -8177,7 +8159,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=15989",
             "product_id": 15989,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 131
         },
@@ -8780,7 +8762,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=16249",
             "product_id": 16249,
-            "available": false,
+            "available": true,
             "rating": 4.2,
             "num_reviews": 60
         },
@@ -44967,6 +44949,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-12T15:23:01Z"
+        "timestamp": "2023-05-12T15:28:44Z"
     }
 }
