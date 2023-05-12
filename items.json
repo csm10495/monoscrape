@@ -28744,7 +28744,7 @@
             "product_id": 42536,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 395
+            "num_reviews": 396
         },
         "42537": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft/3ft/6ft, Black - 3 Pack",
@@ -34023,6 +34023,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-12T05:44:24Z"
+        "timestamp": "2023-05-12T05:54:11Z"
     }
 }
