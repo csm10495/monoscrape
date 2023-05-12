@@ -18509,7 +18509,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=3402",
             "product_id": 3402,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 60
         },
@@ -38365,7 +38365,7 @@
             "product_id": 5496,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 409
+            "num_reviews": 410
         },
         "5497": {
             "name": "Monoprice 10ft Premier Series 1/4in TS Male to Male Audio Cable, 16AWG (Gold Plated)",
@@ -39589,7 +39589,7 @@
             "product_id": 6315,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 951
+            "num_reviews": 952
         },
         "6329": {
             "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 18AWG, 10A/1250W, 3-Prong, SVT, Black, 3ft",
@@ -44069,7 +44069,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=9768",
             "product_id": 9768,
-            "available": false,
+            "available": true,
             "rating": 4,
             "num_reviews": 397
         },
@@ -44895,6 +44895,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-12T17:21:27Z"
+        "timestamp": "2023-05-12T17:28:44Z"
     }
 }
