@@ -8132,7 +8132,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=1596",
             "product_id": 1596,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 12
         },
@@ -26836,7 +26836,7 @@
             "product_id": 3976,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1458
+            "num_reviews": 1459
         },
         "39765": {
             "name": "FORM by Monoprice iPhone 11 Pro 5.8 Glass Screen Protector - 2 Pack",
@@ -36770,7 +36770,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=476",
             "product_id": 476,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 7
         },
@@ -44985,6 +44985,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-12T00:31:17Z"
+        "timestamp": "2023-05-12T01:47:29Z"
     }
 }
