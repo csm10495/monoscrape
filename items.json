@@ -10004,7 +10004,7 @@
             "price": 11.49,
             "url": "https://www.monoprice.com/product?p_id=2766",
             "product_id": 2766,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 2398
         },
@@ -37256,7 +37256,7 @@
             "price": 7.49,
             "url": "https://www.monoprice.com/product?p_id=7262",
             "product_id": 7262,
-            "available": false,
+            "available": true,
             "rating": 4.1,
             "num_reviews": 71
         },
@@ -37517,7 +37517,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=7309",
             "product_id": 7309,
-            "available": false,
+            "available": true,
             "rating": 4.1,
             "num_reviews": 34
         },
@@ -38194,7 +38194,7 @@
             "product_id": 8097,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 138
+            "num_reviews": 139
         },
         "8100": {
             "name": "Monoprice Commercial Series Full-Motion Articulating TV Wall Mount Bracket For LED TVs 23in to 42in, Max Weight 44 lbs., Extension Range of 1.8in to 13.0in, VESA Patterns Up to 200x200, UL Certified",
@@ -38753,15 +38753,6 @@
             "available": true,
             "rating": 4.8,
             "num_reviews": 1362
-        },
-        "8597": {
-            "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 1000ft, Purple, (UL)",
-            "price": 119.99,
-            "url": "https://www.monoprice.com/product?p_id=8597",
-            "product_id": 8597,
-            "available": true,
-            "rating": 4.8,
-            "num_reviews": 294
         },
         "86": {
             "name": "Monoprice Super VGA (SVGA) Monitor Extension Cable, 6ft",
@@ -39760,7 +39751,7 @@
             "product_id": 9436,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 2003
+            "num_reviews": 2004
         },
         "9437": {
             "name": "Monoprice 5 PAIRS OF High-Quality Gold Plated Speaker Banana Plugs, Open Screw Type",
@@ -40980,6 +40971,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-12T14:06:01Z"
+        "timestamp": "2023-05-12T14:21:52Z"
     }
 }
