@@ -29653,7 +29653,7 @@
             "product_id": 41373,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1853
+            "num_reviews": 1854
         },
         "41374": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 12AWG, 500ft, Black",
@@ -31975,7 +31975,7 @@
             "product_id": 42533,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 395
+            "num_reviews": 396
         },
         "42534": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Black - 3 Pack",
@@ -44985,6 +44985,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-12T04:25:54Z"
+        "timestamp": "2023-05-12T04:34:18Z"
     }
 }
