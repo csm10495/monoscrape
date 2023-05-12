@@ -29707,7 +29707,7 @@
             "product_id": 41384,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1853
+            "num_reviews": 1854
         },
         "41385": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 12AWG, 250ft, Black",
@@ -32074,7 +32074,7 @@
             "product_id": 42643,
             "available": true,
             "rating": 3.8,
-            "num_reviews": 29
+            "num_reviews": 30
         },
         "42644": {
             "name": "Blackbird 4K HDMI 2.0 USB 3.0 4x1 KVM Switch, 4K@60Hz, HDR, YCbCr 4:4:4, HDCP 2.2",
@@ -32792,7 +32792,7 @@
             "price": 139.99,
             "url": "https://www.monoprice.com/product?p_id=42957",
             "product_id": 42957,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 7
         },
@@ -44886,6 +44886,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-12T20:08:28Z"
+        "timestamp": "2023-05-12T20:24:23Z"
     }
 }
