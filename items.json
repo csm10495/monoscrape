@@ -31047,8 +31047,8 @@
             "url": "https://www.monoprice.com/product?p_id=42074",
             "product_id": 42074,
             "available": true,
-            "rating": 4.7,
-            "num_reviews": 29
+            "rating": 4.8,
+            "num_reviews": 30
         },
         "42075": {
             "name": "Monoprice 8K No Logo Ultra High Speed HDMI Cable, 48Gbps, 4ft, Black",
@@ -33278,7 +33278,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=43064",
             "product_id": 43064,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 2
         },
@@ -44895,6 +44895,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-13T16:44:30Z"
+        "timestamp": "2023-05-13T16:54:22Z"
     }
 }
