@@ -16360,7 +16360,7 @@
             "product_id": 31198,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 97
+            "num_reviews": 98
         },
         "31199": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft, Red",
@@ -21362,7 +21362,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=35943",
             "product_id": 35943,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 5
         },
@@ -22842,6 +22842,15 @@
             "rating": 4.5,
             "num_reviews": 49
         },
+        "38203": {
+            "name": "Monolith by Monoprice 15\" THX Ultra Certified 1000 Watt Powered Subwoofer (Open Box)",
+            "price": 599.99,
+            "url": "https://www.monoprice.com/product?p_id=38203",
+            "product_id": 38203,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 5
+        },
         "38274": {
             "name": "Monoprice OM3 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 3m",
             "price": 2.39,
@@ -24163,7 +24172,7 @@
             "product_id": 38821,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 83
+            "num_reviews": 84
         },
         "38822": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 10ft, Red",
@@ -24953,7 +24962,7 @@
             "price": 83.99,
             "url": "https://www.monoprice.com/product?p_id=39068",
             "product_id": 39068,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 6
         },
@@ -44859,6 +44868,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-13T00:30:19Z"
+        "timestamp": "2023-05-13T01:47:07Z"
     }
 }
