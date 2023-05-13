@@ -13759,7 +13759,7 @@
             "product_id": 2749,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1538
+            "num_reviews": 1539
         },
         "27492": {
             "name": "Monoprice Cat6A 7ft Blue Patch Cable, Double Shielded (S/FTP), 36AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -27250,7 +27250,7 @@
             "product_id": 3993,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13603
+            "num_reviews": 13604
         },
         "39937": {
             "name": "Junction Box for 4MP Varifocal Dome Camera (compatible with Monoprice 18637 and Hikvision DS-2CD2742FWD-IZS)",
@@ -37206,6 +37206,15 @@
             "rating": 4.9,
             "num_reviews": 3040
         },
+        "4982": {
+            "name": "Monoprice Cat5e 0.5ft White Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
+            "price": 0.29,
+            "url": "https://www.monoprice.com/product?p_id=4982",
+            "product_id": 4982,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 3041
+        },
         "4984": {
             "name": "Monoprice Cat5e 20ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 5.49,
@@ -38804,6 +38813,15 @@
             "price": 5.38,
             "url": "https://www.monoprice.com/product?p_id=5799",
             "product_id": 5799,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 69
+        },
+        "5801": {
+            "name": "Monoprice Releasable Cable Tie 12in 50 lbs, 100 pcs/pack, Black",
+            "price": 5.99,
+            "url": "https://www.monoprice.com/product?p_id=5801",
+            "product_id": 5801,
             "available": true,
             "rating": 4.8,
             "num_reviews": 69
@@ -42651,6 +42669,15 @@
             "rating": 4.8,
             "num_reviews": 1362
         },
+        "8597": {
+            "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 1000ft, Purple, (UL)",
+            "price": 119.99,
+            "url": "https://www.monoprice.com/product?p_id=8597",
+            "product_id": 8597,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 294
+        },
         "86": {
             "name": "Monoprice Super VGA (SVGA) Monitor Extension Cable, 6ft",
             "price": 5.49,
@@ -44868,6 +44895,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-13T12:53:54Z"
+        "timestamp": "2023-05-13T13:07:15Z"
     }
 }
