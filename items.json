@@ -18790,7 +18790,7 @@
             "product_id": 39551,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13603
+            "num_reviews": 13604
         },
         "39552": {
             "name": "Monoprice 4K High Speed HDMI Cable 10ft - 18Gbps Black - 3 Pack",
@@ -37425,6 +37425,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-13T09:53:59Z"
+        "timestamp": "2023-05-13T10:05:24Z"
     }
 }
