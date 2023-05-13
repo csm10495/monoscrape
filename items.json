@@ -29725,7 +29725,7 @@
             "product_id": 41389,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1853
+            "num_reviews": 1854
         },
         "41390": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 18AWG, 100ft, Black",
@@ -44895,6 +44895,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-13T13:34:44Z"
+        "timestamp": "2023-05-13T13:44:04Z"
     }
 }
