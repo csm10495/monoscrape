@@ -20329,7 +20329,7 @@
             "product_id": 34839,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 503
+            "num_reviews": 504
         },
         "34840": {
             "name": "Monoprice 4K Slim Certified Premium High Speed HDMI Cable 2m - 18Gbps Black - 2 Pack",
@@ -24208,7 +24208,7 @@
             "product_id": 38826,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 83
+            "num_reviews": 84
         },
         "38827": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 3ft, White, 3-Pack",
@@ -24235,7 +24235,7 @@
             "product_id": 38831,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 83
+            "num_reviews": 84
         },
         "38833": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 3ft, White, 3-Pack",
@@ -26431,7 +26431,7 @@
             "product_id": 39633,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 22
+            "num_reviews": 23
         },
         "39635": {
             "name": "Monoprice AtlasFlex Series Durable USB 3.2 Gen 2 Type-C Data \u0026 Power Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 1m, White",
@@ -44859,6 +44859,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-13T05:34:52Z"
+        "timestamp": "2023-05-13T05:44:24Z"
     }
 }
