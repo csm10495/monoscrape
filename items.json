@@ -19276,7 +19276,7 @@
             "product_id": 3435,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "3436": {
             "name": "Monoprice Cat6 10ft Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -36851,7 +36851,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=4779",
             "product_id": 4779,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 206
         },
@@ -41783,7 +41783,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=7670",
             "product_id": 7670,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 3
         },
@@ -42512,7 +42512,7 @@
             "price": 1.6,
             "url": "https://www.monoprice.com/product?p_id=8434",
             "product_id": 8434,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 19
         },
@@ -44042,7 +44042,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=9768",
             "product_id": 9768,
-            "available": true,
+            "available": false,
             "rating": 4,
             "num_reviews": 397
         },
@@ -44868,6 +44868,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-13T02:42:40Z"
+        "timestamp": "2023-05-13T02:48:25Z"
     }
 }
