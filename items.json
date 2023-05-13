@@ -15802,7 +15802,7 @@
             "product_id": 30767,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 198
+            "num_reviews": 201
         },
         "30768": {
             "name": "Monoprice Palette Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 3ft Red",
@@ -22842,15 +22842,6 @@
             "rating": 4.5,
             "num_reviews": 49
         },
-        "38203": {
-            "name": "Monolith by Monoprice 15\" THX Ultra Certified 1000 Watt Powered Subwoofer (Open Box)",
-            "price": 599.99,
-            "url": "https://www.monoprice.com/product?p_id=38203",
-            "product_id": 38203,
-            "available": true,
-            "rating": 5,
-            "num_reviews": 5
-        },
         "38274": {
             "name": "Monoprice OM3 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 3m",
             "price": 2.39,
@@ -25198,7 +25189,7 @@
             "product_id": 39162,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 55
+            "num_reviews": 56
         },
         "39163": {
             "name": "Monolith by Monoprice Amplifier/Component Stand XL, Espresso",
@@ -25225,7 +25216,7 @@
             "product_id": 39165,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 141
+            "num_reviews": 142
         },
         "39166": {
             "name": "Monolith by Monoprice 4 Tier Audio Stand XL, Maple",
@@ -44868,6 +44859,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-13T03:06:51Z"
+        "timestamp": "2023-05-13T03:22:39Z"
     }
 }
