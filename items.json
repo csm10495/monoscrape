@@ -29653,7 +29653,7 @@
             "product_id": 41381,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1853
+            "num_reviews": 1854
         },
         "41382": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 14AWG, 500ft, Black",
@@ -35528,7 +35528,7 @@
             "price": 159.99,
             "url": "https://www.monoprice.com/product?p_id=44167",
             "product_id": 44167,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 13
         },
@@ -44895,6 +44895,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-13T17:44:24Z"
+        "timestamp": "2023-05-13T17:54:19Z"
     }
 }
