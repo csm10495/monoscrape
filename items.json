@@ -29788,7 +29788,7 @@
             "product_id": 41395,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1853
+            "num_reviews": 1854
         },
         "41396": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 16AWG, 1000ft, Black",
@@ -44904,6 +44904,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-14T18:34:31Z"
+        "timestamp": "2023-05-14T18:44:14Z"
     }
 }
