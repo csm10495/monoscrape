@@ -1843,7 +1843,7 @@
             "product_id": 11506,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 216
+            "num_reviews": 217
         },
         "1151": {
             "name": "Monoprice DB-9M/RJ45 Modular Adapter",
@@ -4622,7 +4622,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=13659",
             "product_id": 13659,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 231
         },
@@ -44904,6 +44904,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-14T16:54:41Z"
+        "timestamp": "2023-05-14T17:05:14Z"
     }
 }
