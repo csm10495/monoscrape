@@ -15026,7 +15026,7 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=3021",
             "product_id": 3021,
-            "available": false,
+            "available": true,
             "rating": 4.1,
             "num_reviews": 789
         },
@@ -38734,7 +38734,7 @@
             "product_id": 5831,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 312
+            "num_reviews": 313
         },
         "5834": {
             "name": "Monoprice Circle Cable Clips with Steel Nail, 10mm, 100 pcs/pack",
@@ -44778,6 +44778,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-14T07:20:39Z"
+        "timestamp": "2023-05-14T07:33:59Z"
     }
 }
