@@ -14524,7 +14524,7 @@
             "product_id": 2823,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1853
+            "num_reviews": 1854
         },
         "2824": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 16AWG, 250ft, White",
@@ -43187,7 +43187,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=8778",
             "product_id": 8778,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 251
         },
@@ -44904,6 +44904,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-14T14:27:20Z"
+        "timestamp": "2023-05-14T14:34:17Z"
     }
 }
