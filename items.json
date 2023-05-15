@@ -10978,7 +10978,7 @@
             "product_id": 21919,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 133
+            "num_reviews": 134
         },
         "21950": {
             "name": "Monoprice Full-Motion Articulating TV Wall Mount Bracket - For Flat Screen TVs 37in to 70in, Max Weight 77lbs, Extension Range of 3.3in to 17.4in, VESA Patterns Up to 600x400, Rotating",
@@ -14027,7 +14027,7 @@
             "price": 139.99,
             "url": "https://www.monoprice.com/product?p_id=27836",
             "product_id": 27836,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 66
         },
@@ -14135,7 +14135,7 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=27856",
             "product_id": 27856,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 9
         },
@@ -44895,6 +44895,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-15T16:39:17Z"
+        "timestamp": "2023-05-15T16:45:07Z"
     }
 }
