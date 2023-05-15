@@ -38165,7 +38165,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=544",
             "product_id": 544,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 9
         },
@@ -39002,7 +39002,7 @@
             "price": 27.99,
             "url": "https://www.monoprice.com/product?p_id=5915",
             "product_id": 5915,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 611
         },
@@ -39400,7 +39400,7 @@
             "product_id": 6210,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 21
+            "num_reviews": 22
         },
         "6211": {
             "name": "Monoprice 3-Pin XLR Female Mic Connector, Gold Plated Pins",
@@ -40154,7 +40154,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=6539",
             "product_id": 6539,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 89
         },
@@ -42053,7 +42053,7 @@
             "price": 17.99,
             "url": "https://www.monoprice.com/product?p_id=7847",
             "product_id": 7847,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 29
         },
@@ -42514,7 +42514,7 @@
             "product_id": 8323,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 2040
+            "num_reviews": 2041
         },
         "8324": {
             "name": "Monoprice Hi-Fi Light Weight Over-the-Ear Headphones",
@@ -42677,15 +42677,6 @@
             "available": true,
             "rating": 4.8,
             "num_reviews": 1362
-        },
-        "8597": {
-            "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 1000ft, Purple, (UL)",
-            "price": 119.99,
-            "url": "https://www.monoprice.com/product?p_id=8597",
-            "product_id": 8597,
-            "available": false,
-            "rating": 4.8,
-            "num_reviews": 294
         },
         "86": {
             "name": "Monoprice Super VGA (SVGA) Monitor Extension Cable, 6ft",
@@ -43493,7 +43484,7 @@
             "price": 1.19,
             "url": "https://www.monoprice.com/product?p_id=930",
             "product_id": 930,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 70
         },
@@ -43675,7 +43666,7 @@
             "product_id": 9435,
             "available": true,
             "rating": 5,
-            "num_reviews": 135
+            "num_reviews": 136
         },
         "9436": {
             "name": "Monoprice 5 PAIRS Of High-Quality Gold Plated Speaker Banana Plugs, Closed Screw Type",
@@ -44904,6 +44895,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-15T16:09:54Z"
+        "timestamp": "2023-05-15T16:29:33Z"
     }
 }
