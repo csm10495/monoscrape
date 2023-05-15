@@ -28868,7 +28868,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=41011",
             "product_id": 41011,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 36
         },
@@ -30589,7 +30589,7 @@
             "product_id": 41840,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 57
+            "num_reviews": 58
         },
         "41841": {
             "name": "Monoprice 4in Indoor/Outdoor Weather Resistant 70V/100V/8-Ohm Pendant Speaker (Pair)",
@@ -31083,8 +31083,8 @@
             "url": "https://www.monoprice.com/product?p_id=42075",
             "product_id": 42075,
             "available": true,
-            "rating": 4.7,
-            "num_reviews": 29
+            "rating": 4.8,
+            "num_reviews": 30
         },
         "42076": {
             "name": "Monoprice 8K No Logo Ultra High Speed HDMI Cable, 48Gbps, 5ft, Black",
@@ -32549,7 +32549,7 @@
             "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=42833",
             "product_id": 42833,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 264
         },
@@ -34304,7 +34304,7 @@
             "price": 80.99,
             "url": "https://www.monoprice.com/product?p_id=43332",
             "product_id": 43332,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 6
         },
@@ -44922,6 +44922,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-15T14:44:51Z"
+        "timestamp": "2023-05-15T14:54:28Z"
     }
 }
