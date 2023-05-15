@@ -28544,7 +28544,7 @@
             "price": 86,
             "url": "https://www.monoprice.com/product?p_id=40748",
             "product_id": 40748,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -30053,7 +30053,7 @@
         },
         "41528": {
             "name": "netis AC1200 Wireless Dual Band 2.4GHz and 5GHz USB Wi-Fi Adapter, High Gain 5dBi Antennas, Wi-Fi Hotspot Feature, WPS Button",
-            "price": 23.99,
+            "price": 21.59,
             "url": "https://www.monoprice.com/product?p_id=41528",
             "product_id": 41528,
             "available": true,
@@ -30701,7 +30701,7 @@
         },
         "41944": {
             "name": "Monoprice Flat USB Type-C to Type-A 3.2 Gen1 Charge and Sync Cable, 5Gbps, 3A, Black, 3ft, 10 Pack",
-            "price": 78.99,
+            "price": 51.34,
             "url": "https://www.monoprice.com/product?p_id=41944",
             "product_id": 41944,
             "available": true,
@@ -33005,7 +33005,7 @@
         },
         "42981": {
             "name": "Monoprice Cat6A 10ft Blue Component Level Patch Cable, Double Shielded (S/FTP), 30AWG, 10G, CM Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 9.49,
+            "price": 7.59,
             "url": "https://www.monoprice.com/product?p_id=42981",
             "product_id": 42981,
             "available": true,
@@ -33059,7 +33059,7 @@
         },
         "42987": {
             "name": "Monoprice Cat6A 15ft White Component Level Patch Cable, Double Shielded (S/FTP), 30AWG, 10G, CM Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 12.99,
+            "price": 9.09,
             "url": "https://www.monoprice.com/product?p_id=42987",
             "product_id": 42987,
             "available": true,
@@ -33518,7 +33518,7 @@
         },
         "43136": {
             "name": "Workstream by Monoprice 2-Outlet Wall Tap Power Strip with USB-C PD 50W + 20W Power Delivery",
-            "price": 39.99,
+            "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=43136",
             "product_id": 43136,
             "available": true,
@@ -34817,7 +34817,7 @@
             "price": 239.99,
             "url": "https://www.monoprice.com/product?p_id=43548",
             "product_id": 43548,
-            "available": false,
+            "available": true,
             "rating": 4.1,
             "num_reviews": 30
         },
@@ -35066,7 +35066,7 @@
         },
         "43666": {
             "name": "Monoprice Soundstage3 Portable Bluetooth Speaker with 10 Hour Playtime, Optical, Aux, RCA Inputs, Subwoofer Output",
-            "price": 249.99,
+            "price": 149.99,
             "url": "https://www.monoprice.com/product?p_id=43666",
             "product_id": 43666,
             "available": true,
@@ -44922,6 +44922,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-15T19:20:32Z"
+        "timestamp": "2023-05-15T19:26:27Z"
     }
 }
