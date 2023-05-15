@@ -15793,7 +15793,7 @@
             "product_id": 30766,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 198
+            "num_reviews": 201
         },
         "30767": {
             "name": "Monoprice Palette Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 1.5ft Red",
@@ -15935,7 +15935,7 @@
             "price": 89.99,
             "url": "https://www.monoprice.com/product?p_id=30909",
             "product_id": 30909,
-            "available": false,
+            "available": true,
             "rating": 3.8,
             "num_reviews": 6
         },
@@ -15998,7 +15998,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=31015",
             "product_id": 31015,
-            "available": false,
+            "available": true,
             "rating": 4.2,
             "num_reviews": 17
         },
@@ -16088,7 +16088,7 @@
             "price": 249.99,
             "url": "https://www.monoprice.com/product?p_id=31034",
             "product_id": 31034,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 22
         },
@@ -16342,7 +16342,7 @@
             "product_id": 31196,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 97
+            "num_reviews": 98
         },
         "31197": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Micro B to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Black",
@@ -16511,7 +16511,7 @@
             "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=31264",
             "product_id": 31264,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 264
         },
@@ -18160,7 +18160,7 @@
             "product_id": 33834,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 770
+            "num_reviews": 771
         },
         "33835": {
             "name": "Monolith by Monoprice 14AWG Oxygen Free Copper Multi-Strand Conductors PE Insulated Speaker Wire with Gold Plated Banana Plug Connectors, 10 foot - Pair",
@@ -18275,7 +18275,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=33871",
             "product_id": 33871,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -19877,7 +19877,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=34622",
             "product_id": 34622,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -20678,7 +20678,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=35106",
             "product_id": 35106,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 11
         },
@@ -21362,7 +21362,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=35943",
             "product_id": 35943,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 5
         },
@@ -22262,7 +22262,7 @@
             "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=37883",
             "product_id": 37883,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 35
         },
@@ -24046,7 +24046,7 @@
             "product_id": 38806,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 83
+            "num_reviews": 85
         },
         "38807": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 1.5ft, Black",
@@ -25502,7 +25502,7 @@
             "price": 254.99,
             "url": "https://www.monoprice.com/product?p_id=39359",
             "product_id": 39359,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 84
         },
@@ -44904,6 +44904,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-15T13:36:41Z"
+        "timestamp": "2023-05-15T13:44:45Z"
     }
 }
