@@ -10591,7 +10591,7 @@
             "product_id": 21670,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 61
+            "num_reviews": 62
         },
         "21671": {
             "name": "Monoprice USB 3.0 4-port Aluminum Hub with AC Adapter",
@@ -12254,7 +12254,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=24349",
             "product_id": 24349,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 495
         },
@@ -12683,7 +12683,7 @@
         },
         "24440": {
             "name": "Monoprice USB Type C to HDMI 3.1 Cable - 5Gbps, 4K@30Hz, Black, 3ft",
-            "price": 19.79,
+            "price": 21.99,
             "url": "https://www.monoprice.com/product?p_id=24440",
             "product_id": 24440,
             "available": true,
@@ -12866,7 +12866,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=24587",
             "product_id": 24587,
-            "available": false,
+            "available": true,
             "rating": 4.2,
             "num_reviews": 22
         },
@@ -13574,7 +13574,7 @@
         },
         "27402": {
             "name": "Monoprice Lightning to USB Cable - Apple MFi Certified, Black, 3ft",
-            "price": 5.6,
+            "price": 7.49,
             "url": "https://www.monoprice.com/product?p_id=27402",
             "product_id": 27402,
             "available": true,
@@ -44913,6 +44913,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-15T17:45:00Z"
+        "timestamp": "2023-05-15T17:54:49Z"
     }
 }
