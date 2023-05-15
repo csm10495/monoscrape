@@ -15793,7 +15793,7 @@
             "product_id": 30763,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 199
+            "num_reviews": 201
         },
         "30764": {
             "name": "Monoprice Palette Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 1.5ft White",
@@ -16139,7 +16139,7 @@
         },
         "31042": {
             "name": "Monoprice Cat6 50ft Black CMP Patch Cable, Shielded (F/UTP), Solid, 23AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
-            "price": 51.99,
+            "price": 44.19,
             "url": "https://www.monoprice.com/product?p_id=31042",
             "product_id": 31042,
             "available": true,
@@ -18443,7 +18443,7 @@
         },
         "33898": {
             "name": "Monoprice MP Specialty 3D Printer Filament Bronze Fill 1.75, 0.5kg/spool",
-            "price": 34.99,
+            "price": 20.99,
             "url": "https://www.monoprice.com/product?p_id=33898",
             "product_id": 33898,
             "available": true,
@@ -20315,7 +20315,7 @@
         },
         "34831": {
             "name": "Monoprice Cat6 RJ-45 180-Degree Punch Down Keystone Dual IDC  White  25 pack",
-            "price": 31.99,
+            "price": 19.19,
             "url": "https://www.monoprice.com/product?p_id=34831",
             "product_id": 34831,
             "available": false,
@@ -20540,7 +20540,7 @@
         },
         "35042": {
             "name": "Monoprice Desktop Computer Power Cord - IEC 60320 C14 to NEMA 5-15R, 18AWG, 10A/1250W, SVT, 125V, Black, 2ft",
-            "price": 2.99,
+            "price": 2.54,
             "url": "https://www.monoprice.com/product?p_id=35042",
             "product_id": 35042,
             "available": true,
@@ -21071,7 +21071,7 @@
         },
         "35509": {
             "name": "Monoprice Consul Series USB-C HDMI Adapter with Gigabit Ethernet, 3-Port USB 3.0, SD/MicroSD Reader, USB-C 100W PD 3.0",
-            "price": 68.99,
+            "price": 62.09,
             "url": "https://www.monoprice.com/product?p_id=35509",
             "product_id": 35509,
             "available": true,
@@ -21746,7 +21746,7 @@
         },
         "36279": {
             "name": "Monoprice Hi-Gloss 3D Printer Filament PLA 1.75mm 1kg/spool, Pale Green",
-            "price": 14.99,
+            "price": 10.49,
             "url": "https://www.monoprice.com/product?p_id=36279",
             "product_id": 36279,
             "available": true,
@@ -21755,7 +21755,7 @@
         },
         "36281": {
             "name": "Monoprice Hi-Gloss 3D Printer Filament PLA 1.75mm 1kg/spool, Orange Red",
-            "price": 34.99,
+            "price": 24.49,
             "url": "https://www.monoprice.com/product?p_id=36281",
             "product_id": 36281,
             "available": true,
@@ -21764,7 +21764,7 @@
         },
         "36282": {
             "name": "Monoprice Hi-Gloss 3D Printer Filament PLA 1.75mm 1kg/spool, Light Blue",
-            "price": 15.99,
+            "price": 9.59,
             "url": "https://www.monoprice.com/product?p_id=36282",
             "product_id": 36282,
             "available": true,
@@ -22115,7 +22115,7 @@
         },
         "36646": {
             "name": "Monoprice Switch Series HDMI USB 3.5mm Audio Combo Cable for KVM Switches 1.5ft",
-            "price": 8.99,
+            "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=36646",
             "product_id": 36646,
             "available": true,
@@ -22316,7 +22316,7 @@
             "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=37883",
             "product_id": 37883,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 35
         },
@@ -22381,7 +22381,7 @@
             "product_id": 37921,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 74
+            "num_reviews": 75
         },
         "380": {
             "name": "Monoprice IEEE 1284 , DB25 , M/M - 6ft",
@@ -22529,7 +22529,7 @@
         },
         "38078": {
             "name": "Monoprice Onix Series - Male RCA Two Channel Stereo Audio Cable, 25ft, Black",
-            "price": 29.99,
+            "price": 20.99,
             "url": "https://www.monoprice.com/product?p_id=38078",
             "product_id": 38078,
             "available": true,
@@ -22574,7 +22574,7 @@
         },
         "38084": {
             "name": "Monoprice Onix Series - 3.5mm to 2-Male RCA Adapter Cable, 25ft, Black",
-            "price": 11.44,
+            "price": 11.43,
             "url": "https://www.monoprice.com/product?p_id=38084",
             "product_id": 38084,
             "available": true,
@@ -22646,7 +22646,7 @@
         },
         "38128": {
             "name": "Pure Outdoor Bamboo Folding Table with Aluminum Legs",
-            "price": 129.99,
+            "price": 90.99,
             "url": "https://www.monoprice.com/product?p_id=38128",
             "product_id": 38128,
             "available": true,
@@ -22655,7 +22655,7 @@
         },
         "38129": {
             "name": "Pure Outdoor by Monoprice Premium Aluminum Camp Chair w/ Carrying Bag",
-            "price": 79.99,
+            "price": 47.99,
             "url": "https://www.monoprice.com/product?p_id=38129",
             "product_id": 38129,
             "available": true,
@@ -23051,7 +23051,7 @@
         },
         "38310": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft, Purple",
-            "price": 8.49,
+            "price": 5.09,
             "url": "https://www.monoprice.com/product?p_id=38310",
             "product_id": 38310,
             "available": true,
@@ -23744,7 +23744,7 @@
         },
         "38612": {
             "name": "Monoprice Select USB 3.0 Type-C to Type-B Cable, 1.5ft, Black",
-            "price": 4.99,
+            "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=38612",
             "product_id": 38612,
             "available": true,
@@ -24280,7 +24280,7 @@
             "product_id": 38828,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 84
+            "num_reviews": 85
         },
         "38831": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 3ft, Black, 3-Pack",
@@ -24431,7 +24431,7 @@
             "price": 7.18,
             "url": "https://www.monoprice.com/product?p_id=38854",
             "product_id": 38854,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 60
         },
@@ -24914,7 +24914,7 @@
         },
         "39000": {
             "name": "Pure Outdoor by Monoprice 20L Lightweight \u0026 Waterproof Dry Bag",
-            "price": 19.99,
+            "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=39000",
             "product_id": 39000,
             "available": true,
@@ -25013,7 +25013,7 @@
         },
         "39070": {
             "name": "Monoprice Obsidian Speed Plus Ultra Compact USB Power Bank, Black, 20,000mAh, 3-Port Up to 18W PD (3A) Output for iPhone, Android, and Galaxy Devices",
-            "price": 37.39,
+            "price": 39.59,
             "url": "https://www.monoprice.com/product?p_id=39070",
             "product_id": 39070,
             "available": true,
@@ -25787,7 +25787,7 @@
         },
         "39479": {
             "name": "Monoprice 8K Slim Ultra High Speed HDMI Cable 3ft - 48Gbps Black - 5 Pack",
-            "price": 40.99,
+            "price": 40.98,
             "url": "https://www.monoprice.com/product?p_id=39479",
             "product_id": 39479,
             "available": true,
@@ -26606,7 +26606,7 @@
         },
         "39652": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C Charge \u0026 Sync Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 6ft, Pink",
-            "price": 12.99,
+            "price": 9.74,
             "url": "https://www.monoprice.com/product?p_id=39652",
             "product_id": 39652,
             "available": false,
@@ -26633,7 +26633,7 @@
         },
         "39655": {
             "name": "Monoprice Commercial Series Adjustable Folding Ceiling TV Mount for LED TVs 10in to 40in, Max Weight up to 66 lbs., Max Extension 15.7in, VESA Patterns up to 100x100",
-            "price": 41.99,
+            "price": 41.98,
             "url": "https://www.monoprice.com/product?p_id=39655",
             "product_id": 39655,
             "available": true,
@@ -26975,7 +26975,7 @@
         },
         "39789": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 14AWG, 15A/1875W, 3-Prong, Black, 6ft, 6-Pack",
-            "price": 31.99,
+            "price": 28.79,
             "url": "https://www.monoprice.com/product?p_id=39789",
             "product_id": 39789,
             "available": true,
@@ -27038,7 +27038,7 @@
         },
         "39843": {
             "name": "Monoprice Obsidian Plus Pocket USB Power Bank, Blue, 5,000mAh, 2-Port Up to 2.1A Output for iPhone, Android, and Galaxy Devices",
-            "price": 15.49,
+            "price": 9.29,
             "url": "https://www.monoprice.com/product?p_id=39843",
             "product_id": 39843,
             "available": false,
@@ -27209,7 +27209,7 @@
         },
         "39919": {
             "name": "Monoprice USB Type-A to USB Type-B 2.0 Cable - 28/24AWG Gold Plated Black 10ft, 3-Pack",
-            "price": 4.99,
+            "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=39919",
             "product_id": 39919,
             "available": true,
@@ -44949,6 +44949,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-15T20:08:28Z"
+        "timestamp": "2023-05-15T20:25:37Z"
     }
 }
