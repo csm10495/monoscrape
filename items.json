@@ -272,7 +272,7 @@
         },
         "10456": {
             "name": "Monoprice Full-Motion Articulating TV Wall Mount Bracket TVs 23in to 42in, Max Weight 44 lbs, Extends from 4.1in to 16.7in, VESA Up to 200x200, Rotating , Concrete and Brick, UL Certified",
-            "price": 28.79,
+            "price": 47.99,
             "url": "https://www.monoprice.com/product?p_id=10456",
             "product_id": 10456,
             "available": false,
@@ -4898,7 +4898,7 @@
         },
         "13720": {
             "name": "Monoprice Speaker Wire, CMP Rated, 4-Conductor, 14AWG, 250ft, Black",
-            "price": 181.49,
+            "price": 117.96,
             "url": "https://www.monoprice.com/product?p_id=13720",
             "product_id": 13720,
             "available": true,
@@ -5870,7 +5870,7 @@
         },
         "14385": {
             "name": "Monoprice Premium 3D Printer Filament PETG 1.75mm, 1kg/Spool Blue",
-            "price": 18.59,
+            "price": 30.99,
             "url": "https://www.monoprice.com/product?p_id=14385",
             "product_id": 14385,
             "available": false,
@@ -6395,7 +6395,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=14820",
             "product_id": 14820,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -8555,7 +8555,7 @@
             "price": 219.99,
             "url": "https://www.monoprice.com/product?p_id=16174",
             "product_id": 16174,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 156
         },
@@ -44913,6 +44913,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-15T18:44:59Z"
+        "timestamp": "2023-05-15T18:54:45Z"
     }
 }
