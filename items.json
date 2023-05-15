@@ -189,15 +189,6 @@
             "rating": 4.3,
             "num_reviews": 15
         },
-        "10307": {
-            "name": "Monoprice Safe and Secure Wall Mount Display Stand for all 9.7in iPad, Black",
-            "price": 30.99,
-            "url": "https://www.monoprice.com/product?p_id=10307",
-            "product_id": 10307,
-            "available": false,
-            "rating": 4.4,
-            "num_reviews": 16
-        },
         "10319": {
             "name": "Monoprice 3G SDI 2x1 Switch",
             "price": 49.99,
@@ -3479,7 +3470,7 @@
             "price": 1.79,
             "url": "https://www.monoprice.com/product?p_id=13242",
             "product_id": 13242,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 167
         },
@@ -3524,7 +3515,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=13252",
             "product_id": 13252,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 167
         },
@@ -6129,15 +6120,6 @@
             "rating": 4.5,
             "num_reviews": 60
         },
-        "14767": {
-            "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Black, (UL)",
-            "price": 39.99,
-            "url": "https://www.monoprice.com/product?p_id=14767",
-            "product_id": 14767,
-            "available": true,
-            "rating": 4.7,
-            "num_reviews": 92
-        },
         "14768": {
             "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Gray, (UL)",
             "price": 39.99,
@@ -7043,7 +7025,7 @@
             "price": 8.39,
             "url": "https://www.monoprice.com/product?p_id=15251",
             "product_id": 15251,
-            "available": true,
+            "available": false,
             "rating": 3.8,
             "num_reviews": 56
         },
@@ -7712,15 +7694,6 @@
             "available": false,
             "rating": 4.5,
             "num_reviews": 62
-        },
-        "15722": {
-            "name": "Monoprice Sit-Stand Dual-Motor Height Adjustable Table Desk Frame, Electric, Black",
-            "price": 319.99,
-            "url": "https://www.monoprice.com/product?p_id=15722",
-            "product_id": 15722,
-            "available": false,
-            "rating": 4.7,
-            "num_reviews": 208
         },
         "15723": {
             "name": "Monoprice Height Adjustable PC Workstation Cart for Sit-Stand",
@@ -8654,7 +8627,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=16184",
             "product_id": 16184,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 60
         },
@@ -44922,6 +44895,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-15T22:54:43Z"
+        "timestamp": "2023-05-15T23:06:14Z"
     }
 }
