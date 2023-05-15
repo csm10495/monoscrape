@@ -27943,7 +27943,7 @@
             "product_id": 4026,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13603
+            "num_reviews": 13604
         },
         "4027": {
             "name": "Monoprice 4K High Speed HDMI Cable 10ft - 18Gbps Red",
@@ -36635,7 +36635,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=4755",
             "product_id": 4755,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 1354
         },
@@ -38831,7 +38831,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=5801",
             "product_id": 5801,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 69
         },
@@ -39965,7 +39965,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=6464",
             "product_id": 6464,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 74
         },
@@ -40262,7 +40262,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=6576",
             "product_id": 6576,
-            "available": false,
+            "available": true,
             "rating": 3.9,
             "num_reviews": 41
         },
@@ -43520,7 +43520,7 @@
             "price": 2.39,
             "url": "https://www.monoprice.com/product?p_id=9324",
             "product_id": 9324,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 11
         },
@@ -44904,6 +44904,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-15T14:06:31Z"
+        "timestamp": "2023-05-15T14:23:14Z"
     }
 }
