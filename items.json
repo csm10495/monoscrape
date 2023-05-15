@@ -17129,7 +17129,7 @@
         },
         "33304": {
             "name": "Monolith by Monoprice Liquid Spark Headphone Amplifier by Alex Cavalli",
-            "price": 77.99,
+            "price": 129.99,
             "url": "https://www.monoprice.com/product?p_id=33304",
             "product_id": 33304,
             "available": false,
@@ -17282,7 +17282,7 @@
         },
         "33465": {
             "name": "Monolith by Monoprice 14AWG Oxygen Free Copper Multi-Strand Conductors PE Insulated Speaker Wire with Gold Plated Banana Plug Connectors, 6ft - Pair",
-            "price": 34.99,
+            "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=33465",
             "product_id": 33465,
             "available": true,
@@ -18322,7 +18322,7 @@
             "product_id": 33882,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 214
+            "num_reviews": 213
         },
         "33883": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Brown",
@@ -18767,7 +18767,7 @@
         },
         "34204": {
             "name": "Monoprice 4K Slim Certified Premium High Speed HDMI Cable 6ft - 18Gbps Black - 2 Pack",
-            "price": 19.98,
+            "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=34204",
             "product_id": 34204,
             "available": true,
@@ -21368,7 +21368,7 @@
         },
         "35944": {
             "name": "Monoprice Obsidian Speed USB Wall Charger, 1-Port, 85W PD Output for iPhone, Android, and Galaxy Devices, 6ft USB Type-C® Cable Included",
-            "price": 35.99,
+            "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=35944",
             "product_id": 35944,
             "available": false,
@@ -21926,7 +21926,7 @@
         },
         "36571": {
             "name": "Monoprice DT-3 50-Watt Multimedia Desktop Powered Speakers",
-            "price": 72.24,
+            "price": 84.99,
             "url": "https://www.monoprice.com/product?p_id=36571",
             "product_id": 36571,
             "available": true,
@@ -22856,7 +22856,7 @@
             "price": 4.29,
             "url": "https://www.monoprice.com/product?p_id=38275",
             "product_id": 38275,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 4
         },
@@ -23312,7 +23312,7 @@
         },
         "38391": {
             "name": "Monoprice Nylon Braided USB-C To Lightning Cable - 6 Feet - Black ( MFI Certified ) Flexible, Durable, Fast Charging, Compatible with Apple iPhone 13 / Pro / Pro Max / AirPods Pro - AtlasFlex Series",
-            "price": 17.99,
+            "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=38391",
             "product_id": 38391,
             "available": true,
@@ -25193,7 +25193,7 @@
         },
         "39163": {
             "name": "Monolith by Monoprice Amplifier/Component Stand XL, Espresso",
-            "price": 34.99,
+            "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=39163",
             "product_id": 39163,
             "available": true,
@@ -25598,7 +25598,7 @@
         },
         "39395": {
             "name": "Monoprice 80-Watt Hot Melt Glue Gun",
-            "price": 8.55,
+            "price": 17.14,
             "url": "https://www.monoprice.com/product?p_id=39395",
             "product_id": 39395,
             "available": true,
@@ -26525,7 +26525,7 @@
         },
         "39649": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C Charge \u0026 Sync Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 6ft, Blue",
-            "price": 10.39,
+            "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=39649",
             "product_id": 39649,
             "available": true,
@@ -26534,10 +26534,10 @@
         },
         "39650": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C Charge \u0026 Sync Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 10ft, Blue",
-            "price": 7.19,
+            "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=39650",
             "product_id": 39650,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 58
         },
@@ -27038,7 +27038,7 @@
         },
         "39906": {
             "name": "Monoprice USB Type-A to Micro Type-B 2.0 Cable - 5-Pin 28/28AWG Black 6ft, 5-Pack",
-            "price": 8.09,
+            "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=39906",
             "product_id": 39906,
             "available": true,
@@ -44895,6 +44895,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-15T16:45:07Z"
+        "timestamp": "2023-05-15T16:55:06Z"
     }
 }
