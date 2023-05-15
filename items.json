@@ -27389,7 +27389,7 @@
         },
         "40052": {
             "name": "Monoprice Power Cord - IEC 60320 C14 to IEC 60320 C19, 14AWG, 15A/1875W, SJT, 100-250V, Blue, 8ft",
-            "price": 7.18,
+            "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=40052",
             "product_id": 40052,
             "available": true,
@@ -27446,15 +27446,6 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=40065",
             "product_id": 40065,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "40066": {
-            "name": "Monoprice Power Cord - IEC 60320 C20 to IEC 60320 C15, 14AWG, 15A/1875W, 3-Prong, Black, 8ft",
-            "price": 6.99,
-            "url": "https://www.monoprice.com/product?p_id=40066",
-            "product_id": 40066,
             "available": false,
             "rating": 0,
             "num_reviews": 0
@@ -27605,7 +27596,7 @@
         },
         "40087": {
             "name": "Monoprice Heavy Duty Power Cord - NEMA 6-20P to IEC 60320 C19, 12AWG, 20A/5000W, SJT, 250V, Black, 8ft",
-            "price": 10.48,
+            "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=40087",
             "product_id": 40087,
             "available": true,
@@ -28343,7 +28334,7 @@
         },
         "40520": {
             "name": "Pure Outdoor by Monoprice Large Ring Toss Game",
-            "price": 20.99,
+            "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=40520",
             "product_id": 40520,
             "available": true,
@@ -29738,7 +29729,7 @@
         },
         "41390": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 18AWG, 100ft, Black",
-            "price": 14.24,
+            "price": 18.99,
             "url": "https://www.monoprice.com/product?p_id=41390",
             "product_id": 41390,
             "available": true,
@@ -30674,7 +30665,7 @@
         },
         "41944": {
             "name": "Monoprice Flat USB Type-C to Type-A 3.2 Gen1 Charge and Sync Cable, 5Gbps, 3A, Black, 3ft, 10 Pack",
-            "price": 47.38,
+            "price": 78.99,
             "url": "https://www.monoprice.com/product?p_id=41944",
             "product_id": 41944,
             "available": true,
@@ -32879,7 +32870,7 @@
         },
         "42971": {
             "name": "Monoprice Cat6A 3ft White Component Level Patch Cable,  Double Shielded (S/FTP), 30AWG, 10G, CM Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 4.24,
+            "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=42971",
             "product_id": 42971,
             "available": true,
@@ -32969,7 +32960,7 @@
         },
         "42981": {
             "name": "Monoprice Cat6A 10ft Blue Component Level Patch Cable, Double Shielded (S/FTP), 30AWG, 10G, CM Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 7.59,
+            "price": 9.49,
             "url": "https://www.monoprice.com/product?p_id=42981",
             "product_id": 42981,
             "available": true,
@@ -33491,7 +33482,7 @@
         },
         "43136": {
             "name": "Workstream by Monoprice 2-Outlet Wall Tap Power Strip with USB-C PD 50W + 20W Power Delivery",
-            "price": 27.99,
+            "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=43136",
             "product_id": 43136,
             "available": true,
@@ -33604,7 +33595,7 @@
             "product_id": 43158,
             "available": false,
             "rating": 5,
-            "num_reviews": 2
+            "num_reviews": 3
         },
         "43159": {
             "name": "Monolith by Monoprice Audition B4 Bookshelf Speaker (Each)",
@@ -34304,7 +34295,7 @@
             "price": 13.99,
             "url": "https://www.monoprice.com/product?p_id=43339",
             "product_id": 43339,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1464
         },
@@ -35039,7 +35030,7 @@
         },
         "43666": {
             "name": "Monoprice Soundstage3 Portable Bluetooth Speaker with 10 Hour Playtime, Optical, Aux, RCA Inputs, Subwoofer Output",
-            "price": 174.99,
+            "price": 249.99,
             "url": "https://www.monoprice.com/product?p_id=43666",
             "product_id": 43666,
             "available": true,
@@ -35888,7 +35879,7 @@
             "price": 2.1,
             "url": "https://www.monoprice.com/product?p_id=44368",
             "product_id": 44368,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -44895,6 +44886,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-15T16:55:06Z"
+        "timestamp": "2023-05-15T17:21:42Z"
     }
 }
