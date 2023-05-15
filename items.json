@@ -15734,7 +15734,7 @@
         },
         "30760": {
             "name": "Monoprice Monofilament Braided Apple MFi Certified Lightning to USB Charge and Sync Cable, 6ft Black",
-            "price": 8.63,
+            "price": 14.39,
             "url": "https://www.monoprice.com/product?p_id=30760",
             "product_id": 30760,
             "available": false,
@@ -16223,6 +16223,15 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=31115",
             "product_id": 31115,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 69
+        },
+        "31151": {
+            "name": "Monoprice Entegrade Series Cat8 24AWG S/FTP Ethernet Network Cable, 2GHz, 40G, 30ft Black",
+            "price": 25.99,
+            "url": "https://www.monoprice.com/product?p_id=31151",
+            "product_id": 31151,
             "available": true,
             "rating": 4.9,
             "num_reviews": 69
@@ -17147,7 +17156,7 @@
         },
         "33304": {
             "name": "Monolith by Monoprice Liquid Spark Headphone Amplifier by Alex Cavalli",
-            "price": 129.99,
+            "price": 123.49,
             "url": "https://www.monoprice.com/product?p_id=33304",
             "product_id": 33304,
             "available": false,
@@ -18194,7 +18203,7 @@
             "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=33838",
             "product_id": 33838,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 46
         },
@@ -18785,7 +18794,7 @@
         },
         "34204": {
             "name": "Monoprice 4K Slim Certified Premium High Speed HDMI Cable 6ft - 18Gbps Black - 2 Pack",
-            "price": 24.99,
+            "price": 8.74,
             "url": "https://www.monoprice.com/product?p_id=34204",
             "product_id": 34204,
             "available": true,
@@ -21386,7 +21395,7 @@
         },
         "35944": {
             "name": "Monoprice Obsidian Speed USB Wall Charger, 1-Port, 85W PD Output for iPhone, Android, and Galaxy Devices, 6ft USB Type-C® Cable Included",
-            "price": 59.99,
+            "price": 44.99,
             "url": "https://www.monoprice.com/product?p_id=35944",
             "product_id": 35944,
             "available": false,
@@ -21944,7 +21953,7 @@
         },
         "36571": {
             "name": "Monoprice DT-3 50-Watt Multimedia Desktop Powered Speakers",
-            "price": 84.99,
+            "price": 76.49,
             "url": "https://www.monoprice.com/product?p_id=36571",
             "product_id": 36571,
             "available": true,
@@ -21980,7 +21989,7 @@
         },
         "36617": {
             "name": "HDFury - 4K Integral 2 - All-in-One -18Gbps Scaler, Matrix, Splitter with OSD and HDCP Doctor",
-            "price": 176.99,
+            "price": 294.99,
             "url": "https://www.monoprice.com/product?p_id=36617",
             "product_id": 36617,
             "available": true,
@@ -23330,7 +23339,7 @@
         },
         "38391": {
             "name": "Monoprice Nylon Braided USB-C To Lightning Cable - 6 Feet - Black ( MFI Certified ) Flexible, Durable, Fast Charging, Compatible with Apple iPhone 13 / Pro / Pro Max / AirPods Pro - AtlasFlex Series",
-            "price": 19.99,
+            "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=38391",
             "product_id": 38391,
             "available": true,
@@ -23807,7 +23816,7 @@
         },
         "38640": {
             "name": "Monoprice 4K SlimRun AV High Speed HDMI Cable 10ft - AOC 18Gbps Metal Black",
-            "price": 35.56,
+            "price": 59.29,
             "url": "https://www.monoprice.com/product?p_id=38640",
             "product_id": 38640,
             "available": false,
@@ -25031,7 +25040,7 @@
         },
         "39106": {
             "name": "Monoprice Replacement Main Board for the MP10 3D Printer (34437)",
-            "price": 38.98,
+            "price": 64.99,
             "url": "https://www.monoprice.com/product?p_id=39106",
             "product_id": 39106,
             "available": false,
@@ -25332,8 +25341,8 @@
             "url": "https://www.monoprice.com/product?p_id=39240",
             "product_id": 39240,
             "available": true,
-            "rating": 4.1,
-            "num_reviews": 19
+            "rating": 4,
+            "num_reviews": 20
         },
         "39241": {
             "name": "Monoprice Ultra Compact USB Type-C 3.2 Gen2 Cable, 10Gbps, 5A, Black 1m (3.3ft)",
@@ -25616,7 +25625,7 @@
         },
         "39395": {
             "name": "Monoprice 80-Watt Hot Melt Glue Gun",
-            "price": 17.14,
+            "price": 11.14,
             "url": "https://www.monoprice.com/product?p_id=39395",
             "product_id": 39395,
             "available": true,
@@ -26555,7 +26564,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=39650",
             "product_id": 39650,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 58
         },
@@ -26570,7 +26579,7 @@
         },
         "39652": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C Charge \u0026 Sync Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 6ft, Pink",
-            "price": 9.74,
+            "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=39652",
             "product_id": 39652,
             "available": false,
@@ -27056,7 +27065,7 @@
         },
         "39906": {
             "name": "Monoprice USB Type-A to Micro Type-B 2.0 Cable - 5-Pin 28/28AWG Black 6ft, 5-Pack",
-            "price": 8.99,
+            "price": 6.74,
             "url": "https://www.monoprice.com/product?p_id=39906",
             "product_id": 39906,
             "available": true,
@@ -44913,6 +44922,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-15T19:07:09Z"
+        "timestamp": "2023-05-15T19:20:32Z"
     }
 }
