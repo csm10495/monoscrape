@@ -29188,7 +29188,7 @@
             "num_reviews": 0
         },
         "41086": {
-            "name": "Monoprice Power Cord - CEE 7/7 (German and French) to IEC 60320 C5 18AWG, 5A/1250W, 250V, 2-Prong, Black, 6ft",
+            "name": "Monoprice Power Cord - CEE 7/7 (German and French) to IEC 60320 C5, 2.5A/250V, 2-Prong, Black, 6ft",
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=41086",
             "product_id": 41086,
@@ -44922,6 +44922,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-15T22:30:39Z"
+        "timestamp": "2023-05-15T22:36:17Z"
     }
 }
