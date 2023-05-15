@@ -10172,7 +10172,7 @@
         },
         "21531": {
             "name": "Monoprice Replacement 3D Printer Extruder for the MP Select Mini (15365 and 21711) and the MP Select Mini PRO (33012) 3D Printers",
-            "price": 37.99,
+            "price": 22.79,
             "url": "https://www.monoprice.com/product?p_id=21531",
             "product_id": 21531,
             "available": false,
@@ -11030,7 +11030,7 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=21950",
             "product_id": 21950,
-            "available": true,
+            "available": false,
             "rating": 3.9,
             "num_reviews": 32
         },
@@ -12098,7 +12098,7 @@
         },
         "24311": {
             "name": "Monoprice Cat6A 6in Black Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
-            "price": 2.99,
+            "price": 2.54,
             "url": "https://www.monoprice.com/product?p_id=24311",
             "product_id": 24311,
             "available": true,
@@ -12341,7 +12341,7 @@
         },
         "24357": {
             "name": "Monoprice Cat6A 7ft Orange Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
-            "price": 5.99,
+            "price": 5.09,
             "url": "https://www.monoprice.com/product?p_id=24357",
             "product_id": 24357,
             "available": true,
@@ -13673,7 +13673,7 @@
         },
         "27440": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, S/STP, Pure Bare Copper Wire, 36AWG, 1ft, Yellow",
-            "price": 2.99,
+            "price": 1.79,
             "url": "https://www.monoprice.com/product?p_id=27440",
             "product_id": 27440,
             "available": true,
@@ -14348,7 +14348,7 @@
         },
         "27923": {
             "name": "Monoprice Essentials USB Type-C to Type-C 3.1 Gen 2 Cable - 10Gbps, 5A, 30AWG, Black, 0.5m (1.6 ft)",
-            "price": 8.99,
+            "price": 7.64,
             "url": "https://www.monoprice.com/product?p_id=27923",
             "product_id": 27923,
             "available": true,
@@ -14375,7 +14375,7 @@
         },
         "27928": {
             "name": "Monoprice Essentials USB Type-C to USB Type-A 2.0 Cable - 480Mbps, 3A, 26AWG, Black, 2m (6.6ft)",
-            "price": 9.99,
+            "price": 8.49,
             "url": "https://www.monoprice.com/product?p_id=27928",
             "product_id": 27928,
             "available": true,
@@ -44949,6 +44949,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-15T19:56:46Z"
+        "timestamp": "2023-05-15T20:08:28Z"
     }
 }
