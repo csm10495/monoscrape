@@ -3632,7 +3632,7 @@
             "price": 6.49,
             "url": "https://www.monoprice.com/product?p_id=13283",
             "product_id": 13283,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 167
         },
@@ -3863,7 +3863,7 @@
         },
         "13373": {
             "name": "Monoprice Select Series Mini DisplayPort 1.2 to DisplayPort 1.2 Cable, 6ft",
-            "price": 6.29,
+            "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=13373",
             "product_id": 13373,
             "available": true,
@@ -4127,7 +4127,7 @@
             "price": 2.29,
             "url": "https://www.monoprice.com/product?p_id=13518",
             "product_id": 13518,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -4493,7 +4493,7 @@
         },
         "13578": {
             "name": "Monoprice 4K Slim High Speed HDMI Cable 1.5ft - 18Gbps Black",
-            "price": 5.84,
+            "price": 6.49,
             "url": "https://www.monoprice.com/product?p_id=13578",
             "product_id": 13578,
             "available": true,
@@ -4766,7 +4766,7 @@
             "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=13684",
             "product_id": 13684,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 78
         },
@@ -5132,7 +5132,7 @@
         },
         "13751": {
             "name": "Monoprice Select Series USB 3.0 Type-A to Type-A Female Extension Cable, Black, 6ft",
-            "price": 4.49,
+            "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=13751",
             "product_id": 13751,
             "available": true,
@@ -5344,7 +5344,7 @@
             "product_id": 13801,
             "available": true,
             "rating": 4,
-            "num_reviews": 592
+            "num_reviews": 593
         },
         "13815": {
             "name": "Monoprice Dual Monitor Free Standing Adjustable Desk Mount for Monitors 15~30in",
@@ -44895,6 +44895,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-15T16:29:33Z"
+        "timestamp": "2023-05-15T16:39:17Z"
     }
 }
