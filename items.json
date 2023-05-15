@@ -272,7 +272,7 @@
         },
         "10456": {
             "name": "Monoprice Full-Motion Articulating TV Wall Mount Bracket TVs 23in to 42in, Max Weight 44 lbs, Extends from 4.1in to 16.7in, VESA Up to 200x200, Rotating , Concrete and Brick, UL Certified",
-            "price": 47.99,
+            "price": 28.79,
             "url": "https://www.monoprice.com/product?p_id=10456",
             "product_id": 10456,
             "available": false,
@@ -1490,7 +1490,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=11348",
             "product_id": 11348,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 461
         },
@@ -3992,7 +3992,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=13413",
             "product_id": 13413,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 167
         },
@@ -4262,7 +4262,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=13532",
             "product_id": 13532,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -5330,7 +5330,7 @@
         },
         "13783": {
             "name": "Monoprice 4K No Logo High Speed HDMI Cable 20ft - CL2 In Wall Rated 18 Gbps Black",
-            "price": 20.38,
+            "price": 20.37,
             "url": "https://www.monoprice.com/product?p_id=13783",
             "product_id": 13783,
             "available": true,
@@ -5879,7 +5879,7 @@
         },
         "14385": {
             "name": "Monoprice Premium 3D Printer Filament PETG 1.75mm, 1kg/Spool Blue",
-            "price": 30.99,
+            "price": 18.59,
             "url": "https://www.monoprice.com/product?p_id=14385",
             "product_id": 14385,
             "available": false,
@@ -6377,7 +6377,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=14815",
             "product_id": 14815,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -7112,7 +7112,7 @@
         },
         "15379": {
             "name": "Monoprice Blackbird 4K 1x2 HDMI Amplifier Splitter",
-            "price": 16.99,
+            "price": 16.98,
             "url": "https://www.monoprice.com/product?p_id=15379",
             "product_id": 15379,
             "available": true,
@@ -8264,7 +8264,7 @@
         },
         "16057": {
             "name": "Monoprice Cat6 100ft Blue CMP Patch Cable, UTP, Solid, 23AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
-            "price": 49.48,
+            "price": 49.47,
             "url": "https://www.monoprice.com/product?p_id=16057",
             "product_id": 16057,
             "available": true,
@@ -8573,7 +8573,7 @@
             "price": 219.99,
             "url": "https://www.monoprice.com/product?p_id=16174",
             "product_id": 16174,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 156
         },
@@ -9047,7 +9047,7 @@
         },
         "16335": {
             "name": "Monoprice Cat6A 14ft Green 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 28.89,
+            "price": 28.88,
             "url": "https://www.monoprice.com/product?p_id=16335",
             "product_id": 16335,
             "available": true,
@@ -44940,6 +44940,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-15T20:54:40Z"
+        "timestamp": "2023-05-15T21:05:55Z"
     }
 }
