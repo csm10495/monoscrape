@@ -7790,7 +7790,7 @@
             "price": 2.69,
             "url": "https://www.monoprice.com/product?p_id=1582",
             "product_id": 1582,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 10
         },
@@ -10496,7 +10496,7 @@
         },
         "2164": {
             "name": "Monoprice Cat5e 100ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
-            "price": 19.99,
+            "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=2164",
             "product_id": 2164,
             "available": true,
@@ -21152,7 +21152,7 @@
         },
         "3574": {
             "name": "Monoprice 100ft Super VGA M/M CL2 Rated (For In-Wall Installation) Cable with Ferrites (Gold Plated)",
-            "price": 39.99,
+            "price": 33.99,
             "url": "https://www.monoprice.com/product?p_id=3574",
             "product_id": 3574,
             "available": true,
@@ -37199,7 +37199,7 @@
         },
         "4957": {
             "name": "Monoprice 4K High Speed HDMI Cable 5ft - 18Gbps Black",
-            "price": 8.49,
+            "price": 5.94,
             "url": "https://www.monoprice.com/product?p_id=4957",
             "product_id": 4957,
             "available": true,
@@ -37283,7 +37283,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=4993",
             "product_id": 4993,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3040
         },
@@ -37424,7 +37424,7 @@
         },
         "5032": {
             "name": "Monoprice Cat6 75ft White Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
-            "price": 19.99,
+            "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=5032",
             "product_id": 5032,
             "available": true,
@@ -38869,7 +38869,7 @@
             "product_id": 5829,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 312
+            "num_reviews": 313
         },
         "5831": {
             "name": "Monoprice Hook and Loop Fastening Tape, 5 yards/roll, 0.75in, Red",
@@ -42566,7 +42566,7 @@
             "price": 1.6,
             "url": "https://www.monoprice.com/product?p_id=8434",
             "product_id": 8434,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 19
         },
@@ -43364,7 +43364,7 @@
         },
         "888": {
             "name": "Monoprice Cat5e Ethernet Bulk Cable - Stranded, 350MHz, UTP, CM, Pure Bare Copper Wire, 24AWG, 1000ft, Blue, (UL)(TAA)",
-            "price": 129.99,
+            "price": 110.49,
             "url": "https://www.monoprice.com/product?p_id=888",
             "product_id": 888,
             "available": false,
@@ -43670,7 +43670,7 @@
         },
         "9426": {
             "name": "Monoprice Mini DisplayPort 1.1 / Thunderbolt to HDMI ACTIVE Adapter with Audio Support",
-            "price": 19.49,
+            "price": 18.52,
             "url": "https://www.monoprice.com/product?p_id=9426",
             "product_id": 9426,
             "available": true,
@@ -44922,6 +44922,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-15T19:36:26Z"
+        "timestamp": "2023-05-15T19:47:08Z"
     }
 }
