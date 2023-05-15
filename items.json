@@ -29463,8 +29463,8 @@
             "url": "https://www.monoprice.com/product?p_id=41289",
             "product_id": 41289,
             "available": true,
-            "rating": 4.4,
-            "num_reviews": 5
+            "rating": 4.5,
+            "num_reviews": 6
         },
         "41296": {
             "name": "Monoprice Viper 12G SDI BNC Cable, 50ft, Black",
@@ -31037,15 +31037,6 @@
             "price": 2.38,
             "url": "https://www.monoprice.com/product?p_id=42064",
             "product_id": 42064,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 304
-        },
-        "42065": {
-            "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 14AWG, 15A/1875W, 125V, 3-Prong, Red, 3ft",
-            "price": 2.39,
-            "url": "https://www.monoprice.com/product?p_id=42065",
-            "product_id": 42065,
             "available": true,
             "rating": 4.9,
             "num_reviews": 304
@@ -34098,8 +34089,8 @@
             "url": "https://www.monoprice.com/product?p_id=43245",
             "product_id": 43245,
             "available": true,
-            "rating": 4.3,
-            "num_reviews": 3
+            "rating": 4.5,
+            "num_reviews": 4
         },
         "43247": {
             "name": "Monoprice Harmony Boombox Portable Bluetooth Speaker, Waterproof, TWS",
@@ -44895,6 +44886,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-15T23:27:32Z"
+        "timestamp": "2023-05-15T23:34:47Z"
     }
 }
