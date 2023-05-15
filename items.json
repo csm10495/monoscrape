@@ -11381,7 +11381,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=2308",
             "product_id": 2308,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -14983,7 +14983,7 @@
             "product_id": 2947,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 146
+            "num_reviews": 147
         },
         "29470": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 5ft, Multicolor, 5-Pack",
@@ -18875,7 +18875,7 @@
         },
         "3421": {
             "name": "Monoprice Cat6 2ft Green Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
-            "price": 1.79,
+            "price": 1.61,
             "url": "https://www.monoprice.com/product?p_id=3421",
             "product_id": 3421,
             "available": true,
@@ -21008,7 +21008,7 @@
         },
         "3539": {
             "name": "Monoprice High Quality Banana Binding Post Two-Piece Inset Wall Plate for 5 Speakers - Coupler Type",
-            "price": 11.99,
+            "price": 11.98,
             "url": "https://www.monoprice.com/product?p_id=3539",
             "product_id": 3539,
             "available": true,
@@ -28451,7 +28451,7 @@
         },
         "4057": {
             "name": "Monoprice 3ft RG6 (18AWG) 75Ohm, Quad Shield, CL2 Coaxial Cable with F Type Connector - White",
-            "price": 3.49,
+            "price": 2.44,
             "url": "https://www.monoprice.com/product?p_id=4057",
             "product_id": 4057,
             "available": true,
@@ -28460,7 +28460,7 @@
         },
         "4058": {
             "name": "Monoprice 6ft RG6 (18AWG) 75Ohm, Quad Shield, CL2 Coaxial Cable with F Type Connector - White",
-            "price": 3.49,
+            "price": 2.44,
             "url": "https://www.monoprice.com/product?p_id=4058",
             "product_id": 4058,
             "available": true,
@@ -36617,7 +36617,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=4629",
             "product_id": 4629,
-            "available": true,
+            "available": false,
             "rating": 3.8,
             "num_reviews": 117
         },
@@ -36695,7 +36695,7 @@
         },
         "4756": {
             "name": "Monoprice 50ft Premier Series XLR Male to XLR Female 16AWG Cable (Gold Plated) [Microphone and Interconnect]",
-            "price": 17.24,
+            "price": 17.23,
             "url": "https://www.monoprice.com/product?p_id=4756",
             "product_id": 4756,
             "available": true,
@@ -37042,7 +37042,7 @@
             "product_id": 4796,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 422
+            "num_reviews": 423
         },
         "4797": {
             "name": "Monoprice 35ft Premier Series 1/4in TRS Male to Male Cable, 16AWG (Gold Plated)",
@@ -37667,7 +37667,7 @@
         },
         "5289": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 14AWG, 15A/1875W, 3-Prong, Black, 1ft",
-            "price": 2.99,
+            "price": 2.69,
             "url": "https://www.monoprice.com/product?p_id=5289",
             "product_id": 5289,
             "available": true,
@@ -38684,7 +38684,7 @@
         },
         "5601": {
             "name": "Monoprice 25ft Premium 3.5mm Stereo Male to 2RCA Male 22AWG Cable (Gold Plated) - Black",
-            "price": 10.99,
+            "price": 9.34,
             "url": "https://www.monoprice.com/product?p_id=5601",
             "product_id": 5601,
             "available": true,
@@ -39098,7 +39098,7 @@
         },
         "5973": {
             "name": "Monoprice 1 PAIR OF High-Quality Gold Plated Speaker Pin Plugs, Pin Crimp Type",
-            "price": 0.77,
+            "price": 0.76,
             "url": "https://www.monoprice.com/product?p_id=5973",
             "product_id": 5973,
             "available": true,
@@ -39332,7 +39332,7 @@
         },
         "6042": {
             "name": "Monoprice USB Extender over Cat5e or Cat6 Connection, up to 150ft",
-            "price": 13.49,
+            "price": 12.14,
             "url": "https://www.monoprice.com/product?p_id=6042",
             "product_id": 6042,
             "available": true,
@@ -39476,7 +39476,7 @@
         },
         "6261": {
             "name": "Monoprice 6in RCA Female to 2x RCA Male Digital Coaxial Splitter Adapter",
-            "price": 4.85,
+            "price": 4.84,
             "url": "https://www.monoprice.com/product?p_id=6261",
             "product_id": 6261,
             "available": true,
@@ -39517,7 +39517,7 @@
             "product_id": 6271,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 2398
+            "num_reviews": 2399
         },
         "6272": {
             "name": "Monoprice S/PDIF (Toslink) Digital Optical Audio Cable, 10ft",
@@ -40412,7 +40412,7 @@
         },
         "6707": {
             "name": "Monoprice 2-Gang 7.2 Surround Sound Distribution Wall Plate",
-            "price": 32.99,
+            "price": 23.09,
             "url": "https://www.monoprice.com/product?p_id=6707",
             "product_id": 6707,
             "available": true,
@@ -40538,7 +40538,7 @@
         },
         "6835": {
             "name": "Monoprice 2-Gang Wall Plate for Keystone, 8 Hole - White",
-            "price": 1.24,
+            "price": 0.86,
             "url": "https://www.monoprice.com/product?p_id=6835",
             "product_id": 6835,
             "available": true,
@@ -40664,7 +40664,7 @@
         },
         "6907": {
             "name": "Monoprice 3-Gang 7.1 Surround Sound Distribution Wall Plate with HDMI",
-            "price": 27.99,
+            "price": 19.59,
             "url": "https://www.monoprice.com/product?p_id=6907",
             "product_id": 6907,
             "available": true,
@@ -41459,7 +41459,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=7304",
             "product_id": 7304,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 131
         },
@@ -41762,7 +41762,7 @@
         },
         "7624": {
             "name": "Monoprice OM3 Fiber Optic Cable - LC/LC, UL, 50/125 Type, Multi-Mode, 10GB, Aqua, 25m, Corning",
-            "price": 13.99,
+            "price": 11.89,
             "url": "https://www.monoprice.com/product?p_id=7624",
             "product_id": 7624,
             "available": true,
@@ -41798,7 +41798,7 @@
         },
         "7630": {
             "name": "Monoprice Single-Mode Fiber Optic Cable - LC/LC, UL, 9/125 Type, Duplex, Yellow, 30m, Corning",
-            "price": 13.99,
+            "price": 11.89,
             "url": "https://www.monoprice.com/product?p_id=7630",
             "product_id": 7630,
             "available": true,
@@ -41825,7 +41825,7 @@
         },
         "7644": {
             "name": "Monoprice USB Type-A to Type-A Female 2.0 Extension Cable - Active, 26/22AWG, Repeater, Kinect and PS3 Move Compatible, Black, 82ft",
-            "price": 39.99,
+            "price": 35.99,
             "url": "https://www.monoprice.com/product?p_id=7644",
             "product_id": 7644,
             "available": true,
@@ -41915,7 +41915,7 @@
         },
         "7677": {
             "name": "Monoprice Right Angle Power Cord - NEMA 5-15P to Right Angle IEC 60320 C13, 18AWG, 10A/1250W, SVT, 125V, Black, 10ft",
-            "price": 6.99,
+            "price": 6.29,
             "url": "https://www.monoprice.com/product?p_id=7677",
             "product_id": 7677,
             "available": true,
@@ -42215,15 +42215,6 @@
             "price": 149.99,
             "url": "https://www.monoprice.com/product?p_id=8105",
             "product_id": 8105,
-            "available": true,
-            "rating": 4.8,
-            "num_reviews": 294
-        },
-        "8106": {
-            "name": "Monoprice Cat6 1000ft Orange CMR UL Bulk Cable, Solid (w/spine), UTP, 23AWG, 550MHz, Pure Bare Copper, Reelex II Pull Box, Bulk Ethernet Cable",
-            "price": 149.99,
-            "url": "https://www.monoprice.com/product?p_id=8106",
-            "product_id": 8106,
             "available": true,
             "rating": 4.8,
             "num_reviews": 294
@@ -42647,7 +42638,7 @@
             "price": 5.49,
             "url": "https://www.monoprice.com/product?p_id=85",
             "product_id": 85,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 571
         },
@@ -42680,7 +42671,7 @@
         },
         "8534": {
             "name": "Monoprice 15ft MIDI Cable with 5 Pin DIN Plugs - Black",
-            "price": 4.99,
+            "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=8534",
             "product_id": 8534,
             "available": true,
@@ -42860,7 +42851,7 @@
         },
         "8614": {
             "name": "Monoprice USB Type-A to USB Type-B 2.0 Cable - 28/24AWG, Gold Plated, White, 1.5ft",
-            "price": 0.89,
+            "price": 0.75,
             "url": "https://www.monoprice.com/product?p_id=8614",
             "product_id": 8614,
             "available": true,
@@ -43130,7 +43121,7 @@
         },
         "8760": {
             "name": "Monoprice 3ft 4-Channel TRS Male to XLR Female Snake Cable",
-            "price": 4.99,
+            "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=8760",
             "product_id": 8760,
             "available": true,
@@ -44867,7 +44858,7 @@
         },
         "9873": {
             "name": "Monoprice Cat6 2ft Purple Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
-            "price": 1.79,
+            "price": 1.52,
             "url": "https://www.monoprice.com/product?p_id=9873",
             "product_id": 9873,
             "available": true,
@@ -44949,6 +44940,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-15T20:44:31Z"
+        "timestamp": "2023-05-15T20:54:40Z"
     }
 }
