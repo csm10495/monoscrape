@@ -18320,7 +18320,7 @@
             "price": 13.99,
             "url": "https://www.monoprice.com/product?p_id=33877",
             "product_id": 33877,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -22887,15 +22887,6 @@
             "rating": 4.5,
             "num_reviews": 49
         },
-        "38203": {
-            "name": "Monolith by Monoprice 15\" THX Ultra Certified 1000 Watt Powered Subwoofer (Open Box)",
-            "price": 599.99,
-            "url": "https://www.monoprice.com/product?p_id=38203",
-            "product_id": 38203,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 5
-        },
         "38274": {
             "name": "Monoprice OM3 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 3m",
             "price": 2.39,
@@ -23261,15 +23252,6 @@
             "price": 1.79,
             "url": "https://www.monoprice.com/product?p_id=38354",
             "product_id": 38354,
-            "available": true,
-            "rating": 4.7,
-            "num_reviews": 3
-        },
-        "38355": {
-            "name": "Monoprice OM4 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 3m",
-            "price": 2.29,
-            "url": "https://www.monoprice.com/product?p_id=38355",
-            "product_id": 38355,
             "available": true,
             "rating": 4.7,
             "num_reviews": 3
@@ -24271,7 +24253,7 @@
             "product_id": 38827,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 84
+            "num_reviews": 85
         },
         "38828": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 6ft, White, 3-Pack",
@@ -25405,7 +25387,7 @@
             "product_id": 39256,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 30
+            "num_reviews": 31
         },
         "39257": {
             "name": "Monoprice SlimSelect Series Low Profile Full-Motion Articulating TV Wall Mount Bracket for TVs 37in to 80in, Max Weight 99 lbs., Extension Range from 1.9in to 19in, VESA Patterns up to 600X400",
@@ -44940,6 +44922,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-15T22:22:55Z"
+        "timestamp": "2023-05-15T22:30:39Z"
     }
 }
