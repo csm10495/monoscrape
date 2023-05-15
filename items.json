@@ -28121,7 +28121,7 @@
             "price": 159.97,
             "url": "https://www.monoprice.com/product?p_id=40394",
             "product_id": 40394,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 13
         },
@@ -28529,6 +28529,15 @@
             "available": false,
             "rating": 2.9,
             "num_reviews": 14
+        },
+        "40748": {
+            "name": "Monoprice 27in Zero-G Gaming Monitor – 2560x1440p, WQHD, 144Hz, 1ms, FreeSync, HDR Support, 400nits, HDMI, DisplayPort, TN (clearance)",
+            "price": 86,
+            "url": "https://www.monoprice.com/product?p_id=40748",
+            "product_id": 40748,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
         },
         "40778": {
             "name": "Dark Matter by Monoprice 27in Gaming Monitor - FHD, 240Hz, 1ms, DisplayHDR 400, AMD FreeSync Premium, Fast IPS-Type AHVA",
@@ -30012,8 +30021,8 @@
             "url": "https://www.monoprice.com/product?p_id=41500",
             "product_id": 41500,
             "available": true,
-            "rating": 4.3,
-            "num_reviews": 101
+            "rating": 4.2,
+            "num_reviews": 102
         },
         "41523": {
             "name": "Sports Speed Chute for Training and Resistance Running - Black",
@@ -32742,6 +32751,15 @@
             "rating": 4.3,
             "num_reviews": 31
         },
+        "42891": {
+            "name": "Monoprice 32in Zero-G Curved Gaming Monitor - 1500R, 16:9, 2560x1440p, WQHD, 165Hz, HDMI, DisplayPort, VA",
+            "price": 329.99,
+            "url": "https://www.monoprice.com/product?p_id=42891",
+            "product_id": 42891,
+            "available": true,
+            "rating": 4.5,
+            "num_reviews": 21
+        },
         "42892": {
             "name": "Dark Matter by Monoprice 27in Gaming Monitor - 16:9, 2560x1440p, QHD, 180Hz, IGZO",
             "price": 349.99,
@@ -32762,7 +32780,7 @@
         },
         "42898": {
             "name": "Folding Camping Table Chair Set, Aluminum Suitcase Portable Camping Picnic Table with 4 Seats,Umbrella Hole for Party, BBQ, Beach(Silver)",
-            "price": 62.99,
+            "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=42898",
             "product_id": 42898,
             "available": true,
@@ -33318,15 +33336,6 @@
             "rating": 4.7,
             "num_reviews": 56
         },
-        "43074": {
-            "name": "Monoprice Cat6 2ft White Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series  Ethernet Cable",
-            "price": 0.89,
-            "url": "https://www.monoprice.com/product?p_id=43074",
-            "product_id": 43074,
-            "available": true,
-            "rating": 4.7,
-            "num_reviews": 56
-        },
         "43075": {
             "name": "Monoprice Cat6 3ft White Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
             "price": 1.43,
@@ -33836,7 +33845,7 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=43205",
             "product_id": 43205,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 12
         },
@@ -34144,7 +34153,7 @@
             "product_id": 43251,
             "available": true,
             "rating": 4.2,
-            "num_reviews": 18
+            "num_reviews": 19
         },
         "43252": {
             "name": "Monoprice Sync Bluetooth Headphone with aptX Low Latency",
@@ -34395,8 +34404,8 @@
             "url": "https://www.monoprice.com/product?p_id=43351",
             "product_id": 43351,
             "available": false,
-            "rating": 4.5,
-            "num_reviews": 2
+            "rating": 4.3,
+            "num_reviews": 3
         },
         "43352": {
             "name": "Pure Outdoor by Monoprice 30L Waterproof Dry Backpack",
@@ -34517,7 +34526,7 @@
         },
         "43387": {
             "name": "Pure Outdoor by Monoprice Vacuum-Sealed 12 oz. Wide-Mouth Kids' Water Bottle with Straw Lid, Blue",
-            "price": 8.98,
+            "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=43387",
             "product_id": 43387,
             "available": false,
@@ -35957,7 +35966,7 @@
         },
         "44418": {
             "name": "MPM 3-Tier Foldable Shelf Storage with Wheels, Heavy Duty Casters with Lock, Organizer Rack, Multifunctional Standing Steel Cart, Perfect for Kitchen, Garage, Home Office, and Pantry",
-            "price": 64.99,
+            "price": 79.99,
             "url": "https://www.monoprice.com/product?p_id=44418",
             "product_id": 44418,
             "available": false,
@@ -44913,6 +44922,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-15T18:10:32Z"
+        "timestamp": "2023-05-15T18:28:03Z"
     }
 }
