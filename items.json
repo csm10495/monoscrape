@@ -11239,7 +11239,7 @@
             "product_id": 2299,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "2300": {
             "name": "Monoprice Cat6 3ft Purple Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -11338,7 +11338,7 @@
             "product_id": 2310,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "2311": {
             "name": "Monoprice Cat6 14ft Red Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -11347,7 +11347,7 @@
             "product_id": 2311,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "2312": {
             "name": "Monoprice Cat6 14ft Yellow Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -11419,7 +11419,7 @@
             "product_id": 2320,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "2321": {
             "name": "Monoprice Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 25ft, Purple",
@@ -11428,7 +11428,7 @@
             "product_id": 2321,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "2323": {
             "name": "Monoprice Cat6 50ft Black Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -11446,7 +11446,7 @@
             "product_id": 2324,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "2326": {
             "name": "Monoprice Cat6 50ft Yellow Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -14141,7 +14141,7 @@
         },
         "2790": {
             "name": "Monoprice Speaker Wire, Oxygen-Free CL2 Rated, 2-Conductor, 12AWG, 300ft",
-            "price": 127.49,
+            "price": 149.99,
             "url": "https://www.monoprice.com/product?p_id=2790",
             "product_id": 2790,
             "available": true,
@@ -14393,7 +14393,7 @@
         },
         "2816": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 12AWG, 50ft, White",
-            "price": 29.32,
+            "price": 34.49,
             "url": "https://www.monoprice.com/product?p_id=2816",
             "product_id": 2816,
             "available": true,
@@ -18511,7 +18511,7 @@
             "product_id": 3414,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "34148": {
             "name": "Monoprice MP Maker Pro Mk.1 Lower Bed Assembly",
@@ -18835,7 +18835,7 @@
             "product_id": 3422,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "34220": {
             "name": "Monoprice Cat6 1ft Blue Patch Cable, UTP, 32AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Micro SlimRun Series Ethernet Cable",
@@ -18943,7 +18943,7 @@
             "product_id": 3424,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "34240": {
             "name": "Monoprice Cat6 3ft White Patch Cable, UTP, 32AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Micro SlimRun Series Ethernet Cable",
@@ -19132,7 +19132,7 @@
             "product_id": 3431,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "34310": {
             "name": "Monoprice Speaker Wire, Braided with Banana Plugs, 2-Conductor, 14AWG, 15ft",
@@ -19321,7 +19321,7 @@
             "product_id": 3441,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "34414": {
             "name": "8P8C RJ45 Plug with EZ Passthrough for Cat6 Ethernet Cable 100 pcs/pack",
@@ -28082,7 +28082,7 @@
         },
         "4040": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 14AWG, 250ft, White",
-            "price": 135.98,
+            "price": 159.99,
             "url": "https://www.monoprice.com/product?p_id=4040",
             "product_id": 4040,
             "available": true,
@@ -28181,7 +28181,7 @@
         },
         "4042": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 16AWG, 250ft, White",
-            "price": 93.49,
+            "price": 109.99,
             "url": "https://www.monoprice.com/product?p_id=4042",
             "product_id": 4042,
             "available": true,
@@ -37222,7 +37222,7 @@
             "product_id": 5016,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "5017": {
             "name": "Monoprice Cat6 30ft Black Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -44724,6 +44724,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-16T22:44:32Z"
+        "timestamp": "2023-05-16T22:54:50Z"
     }
 }
