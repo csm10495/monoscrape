@@ -10356,8 +10356,8 @@
             "url": "https://www.monoprice.com/product?p_id=21601",
             "product_id": 21601,
             "available": false,
-            "rating": 4.4,
-            "num_reviews": 49
+            "rating": 4.5,
+            "num_reviews": 50
         },
         "21602": {
             "name": "Monoprice Table Top for Sit-Stand Height-Adjustable Desk, 4ft White",
@@ -44886,6 +44886,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-16T04:35:34Z"
+        "timestamp": "2023-05-16T04:44:16Z"
     }
 }
