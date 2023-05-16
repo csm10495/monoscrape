@@ -29097,15 +29097,6 @@
             "rating": 4.9,
             "num_reviews": 148
         },
-        "41085": {
-            "name": "Monoprice Power Cord - BS 1363 (UK) to IEC 60320 C5, 18AWG, 5A/1250W, 250V, 3-Prong with Fuse, Black, 6ft",
-            "price": 4.49,
-            "url": "https://www.monoprice.com/product?p_id=41085",
-            "product_id": 41085,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "41086": {
             "name": "Monoprice Power Cord - CEE 7/7 (German and French) to IEC 60320 C5, 2.5A/250V, 2-Prong, Black, 6ft",
             "price": 3.49,
@@ -34135,7 +34126,7 @@
             "product_id": 43328,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 24
+            "num_reviews": 25
         },
         "43329": {
             "name": "Monoprice SlimRun AV 8K Certified Ultra High Speed Active HDMI Cable, HDMI 2.1 , AOC, 20m, 65ft",
@@ -44733,6 +44724,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-16T18:55:09Z"
+        "timestamp": "2023-05-16T19:07:22Z"
     }
 }
