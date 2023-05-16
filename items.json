@@ -11185,7 +11185,7 @@
             "product_id": 2288,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "2289": {
             "name": "Monoprice Cat6 1ft Green Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -13208,7 +13208,7 @@
             "price": 6.49,
             "url": "https://www.monoprice.com/product?p_id=2628",
             "product_id": 2628,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 15
         },
@@ -13217,7 +13217,7 @@
             "price": 10.49,
             "url": "https://www.monoprice.com/product?p_id=2630",
             "product_id": 2630,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 15
         },
@@ -13991,7 +13991,7 @@
             "price": 27.99,
             "url": "https://www.monoprice.com/product?p_id=2771",
             "product_id": 2771,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 219
         },
@@ -25693,7 +25693,7 @@
             "product_id": 3945,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13603
+            "num_reviews": 13604
         },
         "39450": {
             "name": "Monoprice OM1 Fiber Optic Cable - SC/ST, 62.5/125 Type, Multi-Mode, Duplex, Orange, 3m",
@@ -36725,7 +36725,7 @@
             "price": 25.49,
             "url": "https://www.monoprice.com/product?p_id=4765",
             "product_id": 4765,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 291
         },
@@ -42530,7 +42530,7 @@
             "price": 1.6,
             "url": "https://www.monoprice.com/product?p_id=8434",
             "product_id": 8434,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 19
         },
@@ -44886,6 +44886,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-16T14:54:38Z"
+        "timestamp": "2023-05-16T15:06:44Z"
     }
 }
