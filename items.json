@@ -24036,8 +24036,8 @@
             "url": "https://www.monoprice.com/product?p_id=38802",
             "product_id": 38802,
             "available": true,
-            "rating": 4.4,
-            "num_reviews": 84
+            "rating": 4.5,
+            "num_reviews": 86
         },
         "38803": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 1.5ft, Red",
@@ -26962,7 +26962,7 @@
             "product_id": 39838,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 163
+            "num_reviews": 164
         },
         "39839": {
             "name": "Monoprice Obsidian Plus Pocket USB Power Bank, White, 5,000mAh, 2-Port Up to 2.1A Output for iPhone, Android, and Galaxy Devices",
@@ -44886,6 +44886,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-16T11:35:02Z"
+        "timestamp": "2023-05-16T11:45:09Z"
     }
 }
