@@ -13966,7 +13966,7 @@
             "product_id": 2766,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 2398
+            "num_reviews": 2399
         },
         "2767": {
             "name": "Monoprice Premium S/PDIF (Toslink) Digital Optical Audio Cable, 50ft",
@@ -27934,7 +27934,7 @@
             "product_id": 4024,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13603
+            "num_reviews": 13604
         },
         "40259": {
             "name": "LED Tailgate fire strip Light for trunk and SUV rear light for 48\" and 60\" configurations",
@@ -37703,7 +37703,7 @@
         },
         "5299": {
             "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R, 16AWG, 13A/1625W, 3-Prong, Black, 6ft",
-            "price": 4.49,
+            "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=5299",
             "product_id": 5299,
             "available": true,
@@ -44886,6 +44886,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-16T07:34:05Z"
+        "timestamp": "2023-05-16T07:44:16Z"
     }
 }
