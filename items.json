@@ -7844,7 +7844,7 @@
             "price": 17.99,
             "url": "https://www.monoprice.com/product?p_id=1586",
             "product_id": 1586,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 10
         },
@@ -11156,7 +11156,7 @@
             "price": 6.49,
             "url": "https://www.monoprice.com/product?p_id=2274",
             "product_id": 2274,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 71
         },
@@ -14108,7 +14108,7 @@
             "price": 8.39,
             "url": "https://www.monoprice.com/product?p_id=2785",
             "product_id": 2785,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 4
         },
@@ -25684,7 +25684,7 @@
             "product_id": 3944,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13603
+            "num_reviews": 13604
         },
         "3945": {
             "name": "Monoprice 4K High Speed HDMI Cable 1.5ft - 18Gbps Green",
@@ -25711,7 +25711,7 @@
             "product_id": 3947,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13603
+            "num_reviews": 13604
         },
         "39475": {
             "name": "Monoprice 8K Slim Ultra High Speed HDMI Cable 1ft - 48Gbps Black",
@@ -37220,7 +37220,7 @@
             "price": 0.29,
             "url": "https://www.monoprice.com/product?p_id=4982",
             "product_id": 4982,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3041
         },
@@ -38759,7 +38759,7 @@
             "price": 1.79,
             "url": "https://www.monoprice.com/product?p_id=5766",
             "product_id": 5766,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 369
         },
@@ -43844,7 +43844,7 @@
             "price": 32.99,
             "url": "https://www.monoprice.com/product?p_id=952",
             "product_id": 952,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 11
         },
@@ -44886,6 +44886,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-16T12:13:32Z"
+        "timestamp": "2023-05-16T12:45:45Z"
     }
 }
