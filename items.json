@@ -10184,7 +10184,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=2154",
             "product_id": 2154,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3040
         },
@@ -10310,7 +10310,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=2157",
             "product_id": 2157,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3040
         },
@@ -11239,7 +11239,7 @@
             "product_id": 2295,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "2296": {
             "name": "Monoprice Cat6 3ft Green Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -11527,7 +11527,7 @@
             "product_id": 2332,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "2333": {
             "name": "Monoprice Cat6 100ft White Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -11644,7 +11644,7 @@
             "product_id": 2405,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1099
+            "num_reviews": 1100
         },
         "2407": {
             "name": "Monoprice 3ft 28AWG CL2 Dual Link DVI-D Cable - Black",
@@ -13291,7 +13291,7 @@
             "product_id": 2682,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1459
+            "num_reviews": 1460
         },
         "2683": {
             "name": "Monoprice 25ft High-quality Coaxial Audio/Video RCA CL2 Rated Cable - RG6/U 75ohm (for S/PDIF, Digital Coax, Subwoofer \u0026 Composite Video)",
@@ -25900,7 +25900,7 @@
             "product_id": 3950,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13603
+            "num_reviews": 13604
         },
         "39508": {
             "name": "Monoprice Replacement Build Platform for the Voxel 3D Printer (33820, 35880, and 35881)",
@@ -36518,7 +36518,7 @@
             "price": 2.79,
             "url": "https://www.monoprice.com/product?p_id=448",
             "product_id": 448,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 11
         },
@@ -36988,7 +36988,7 @@
             "product_id": 4795,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 422
+            "num_reviews": 423
         },
         "4796": {
             "name": "Monoprice 25ft Premier Series 1/4in TRS Male to Male Cable, 16AWG (Gold Plated)",
@@ -37481,7 +37481,7 @@
             "price": 3.05,
             "url": "https://www.monoprice.com/product?p_id=5176",
             "product_id": 5176,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 256
         },
@@ -41560,7 +41560,7 @@
             "product_id": 7499,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "7505": {
             "name": "Monoprice Cat6 6in Red Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -44895,6 +44895,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-16T15:54:36Z"
+        "timestamp": "2023-05-16T16:10:48Z"
     }
 }
