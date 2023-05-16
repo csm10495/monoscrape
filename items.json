@@ -10564,7 +10564,7 @@
             "product_id": 21671,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 61
+            "num_reviews": 63
         },
         "21672": {
             "name": "Monoprice USB 3.0 7-port Aluminum Hub with AC Adapter",
@@ -44724,6 +44724,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-16T22:05:56Z"
+        "timestamp": "2023-05-16T22:22:56Z"
     }
 }
