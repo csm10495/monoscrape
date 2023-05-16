@@ -11338,7 +11338,7 @@
             "product_id": 2309,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "2310": {
             "name": "Monoprice Cat6 14ft Green Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -11401,7 +11401,7 @@
             "product_id": 2316,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "2317": {
             "name": "Monoprice Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 25ft, Green",
@@ -13082,7 +13082,7 @@
             "price": 5.49,
             "url": "https://www.monoprice.com/product?p_id=2601",
             "product_id": 2601,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 7
         },
@@ -19042,7 +19042,7 @@
             "product_id": 3427,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "3428": {
             "name": "Monoprice Cat6 5ft Gray Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -40487,7 +40487,7 @@
             "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=6971",
             "product_id": 6971,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 132
         },
@@ -41243,7 +41243,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=7304",
             "product_id": 7304,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 131
         },
@@ -41407,7 +41407,7 @@
             "product_id": 7506,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "7507": {
             "name": "Monoprice Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 0.5ft, Yellow",
@@ -41882,7 +41882,7 @@
             "price": 17.99,
             "url": "https://www.monoprice.com/product?p_id=7847",
             "product_id": 7847,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 29
         },
@@ -44724,6 +44724,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-16T19:21:16Z"
+        "timestamp": "2023-05-16T19:36:44Z"
     }
 }
