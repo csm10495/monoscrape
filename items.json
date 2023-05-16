@@ -9826,7 +9826,7 @@
             "product_id": 2113,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "2114": {
             "name": "Monoprice Cat6 3ft Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -9835,7 +9835,7 @@
             "product_id": 2114,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "2115": {
             "name": "Monoprice Cat6 7ft Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -9844,7 +9844,7 @@
             "product_id": 2115,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "2116": {
             "name": "Monoprice Cat6 14ft Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -11411,15 +11411,6 @@
             "available": false,
             "rating": 4.9,
             "num_reviews": 3399
-        },
-        "2319": {
-            "name": "Monoprice Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 25ft, Yellow",
-            "price": 2.99,
-            "url": "https://www.monoprice.com/product?p_id=2319",
-            "product_id": 2319,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 3398
         },
         "2320": {
             "name": "Monoprice Cat6 25ft White Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -17546,7 +17537,7 @@
             "price": 1.29,
             "url": "https://www.monoprice.com/product?p_id=3364",
             "product_id": 3364,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3040
         },
@@ -18410,7 +18401,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=3391",
             "product_id": 3391,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3040
         },
@@ -37112,7 +37103,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=4993",
             "product_id": 4993,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3040
         },
@@ -38417,7 +38408,7 @@
             "price": 7.49,
             "url": "https://www.monoprice.com/product?p_id=5591",
             "product_id": 5591,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 601
         },
@@ -44733,6 +44724,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-16T18:10:14Z"
+        "timestamp": "2023-05-16T18:27:51Z"
     }
 }
