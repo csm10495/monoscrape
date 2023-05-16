@@ -16070,7 +16070,7 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=31037",
             "product_id": 31037,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 15
         },
@@ -18133,7 +18133,7 @@
             "product_id": 33834,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 771
+            "num_reviews": 772
         },
         "33835": {
             "name": "Monolith by Monoprice 14AWG Oxygen Free Copper Multi-Strand Conductors PE Insulated Speaker Wire with Gold Plated Banana Plug Connectors, 10 foot - Pair",
@@ -18716,7 +18716,7 @@
             "price": 129.99,
             "url": "https://www.monoprice.com/product?p_id=34199",
             "product_id": 34199,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 20
         },
@@ -19949,7 +19949,7 @@
             "price": 62.99,
             "url": "https://www.monoprice.com/product?p_id=34706",
             "product_id": 34706,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 546
         },
@@ -22838,7 +22838,7 @@
             "price": 599.99,
             "url": "https://www.monoprice.com/product?p_id=38203",
             "product_id": 38203,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 6
         },
@@ -23164,7 +23164,7 @@
             "product_id": 38331,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 97
+            "num_reviews": 98
         },
         "38332": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Micro B to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Pink",
@@ -26188,7 +26188,7 @@
             "product_id": 39547,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13603
+            "num_reviews": 13604
         },
         "39548": {
             "name": "Monoprice 4K High Speed HDMI Cable 6ft - 18Gbps Black - 3 Pack",
@@ -44859,6 +44859,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-16T16:40:20Z"
+        "timestamp": "2023-05-16T16:46:00Z"
     }
 }
