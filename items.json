@@ -29957,7 +29957,7 @@
             "price": 129.99,
             "url": "https://www.monoprice.com/product?p_id=41497",
             "product_id": 41497,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 13
         },
@@ -30699,15 +30699,6 @@
             "rating": 5,
             "num_reviews": 4
         },
-        "41953": {
-            "name": "Selfie Ring Light with 24\" Gooseneck Stand \u0026 Cell Phone Holder, clip on for Live-Streaming Phone Mount and Light Kit",
-            "price": 7.19,
-            "url": "https://www.monoprice.com/product?p_id=41953",
-            "product_id": 41953,
-            "available": false,
-            "rating": 4.7,
-            "num_reviews": 3
-        },
         "41955": {
             "name": "All Purpose Magnetic Mount for cellphone tablet in kitchen car bathroom on fridge includes 2 metal plates with 3m adhesive",
             "price": 1.04,
@@ -30770,6 +30761,15 @@
             "available": false,
             "rating": 5,
             "num_reviews": 9
+        },
+        "41991": {
+            "name": "Solar Ground Lights,Solar Disk Lights Outdoor Waterproof 8 LED Solar Garden Lights for Pathway Warm White (4 Pack)",
+            "price": 5.99,
+            "url": "https://www.monoprice.com/product?p_id=41991",
+            "product_id": 41991,
+            "available": true,
+            "rating": 4,
+            "num_reviews": 20
         },
         "42011": {
             "name": "Monoprice SB-500 Dolby Digital 5.1 Soundbar with Wireless Surround Speakers and Wireless Subwoofer, 2 HDMI Inputs, 4K HDR Pass-Through, Optical, Coax, ARC, Remote",
@@ -31149,15 +31149,6 @@
             "rating": 4.7,
             "num_reviews": 38
         },
-        "42091": {
-            "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 16AWG, 13A/1625W, 125V, 3-Prong, SJT, Red, 3ft",
-            "price": 1.25,
-            "url": "https://www.monoprice.com/product?p_id=42091",
-            "product_id": 42091,
-            "available": false,
-            "rating": 4.7,
-            "num_reviews": 38
-        },
         "42093": {
             "name": "Monoprice Power Cord - BS 1363 (UK) to IEC 60320 C13, 18AWG, 10A, 250V, with 13A fuse, 3-Prong, Black, 3ft",
             "price": 3.99,
@@ -31184,15 +31175,6 @@
             "available": true,
             "rating": 5,
             "num_reviews": 4
-        },
-        "42106": {
-            "name": "8'' Bluetooth Speaker Aux input - RGB lighting - 1500mAh battery built in battery - 8W Amplifier RMS",
-            "price": 12.99,
-            "url": "https://www.monoprice.com/product?p_id=42106",
-            "product_id": 42106,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 1
         },
         "42110": {
             "name": "Workstream by Monoprice Mechanical Keyboard with Kailh Box Red Switches - Backlit, Aluminum Top Plate, 80 Million Keystrokes",
@@ -31221,15 +31203,6 @@
             "rating": 5,
             "num_reviews": 1
         },
-        "42118": {
-            "name": "ELECTRIC CONTROL TRACK RACING W/2PCS CAR WINDOW BOX",
-            "price": 12.99,
-            "url": "https://www.monoprice.com/product?p_id=42118",
-            "product_id": 42118,
-            "available": false,
-            "rating": 3,
-            "num_reviews": 2
-        },
         "42126": {
             "name": "Creative Metal STEM toys metal crane, Windmill, frame crane 3 in 1 273pcs construction building",
             "price": 10.79,
@@ -31254,15 +31227,6 @@
             "url": "https://www.monoprice.com/product?p_id=42136",
             "product_id": 42136,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "42149": {
-            "name": "Tilting Footrest Under Desk Ergonomic Office Foot Rest Adjustable Computer Desk Foot Support Elevated Office Footrest",
-            "price": 12.99,
-            "url": "https://www.monoprice.com/product?p_id=42149",
-            "product_id": 42149,
-            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -31491,15 +31455,6 @@
             "rating": 5,
             "num_reviews": 2
         },
-        "42290": {
-            "name": "Waterproof Gardening Gloves with Hand Sturdy Claws,Quick \u0026 Easy to Dig \u0026 Plant Safe for Rose Pruning",
-            "price": 2.98,
-            "url": "https://www.monoprice.com/product?p_id=42290",
-            "product_id": 42290,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "42300": {
             "name": "Dark Matter by Monoprice Supernova Universal 3.5mm Gaming Headset - 53mm Driver, Detachable Unidirectional Mic, PU Leather/Aluminum",
             "price": 39.99,
@@ -31572,15 +31527,6 @@
             "rating": 4,
             "num_reviews": 14
         },
-        "42340": {
-            "name": "33 LED Solar Outdoor Torch Lights Landscape Lighting 24\" Path Lights Waterproof Flame Lights Auto On/Off  4 Pack",
-            "price": 8.99,
-            "url": "https://www.monoprice.com/product?p_id=42340",
-            "product_id": 42340,
-            "available": false,
-            "rating": 4.3,
-            "num_reviews": 23
-        },
         "42342": {
             "name": "Food Scale Kitchen Scale 22lb Weight Grams and 1g/0.1oz for Cooking Baking, Candle Making, Silver,Stainless Steel Platform",
             "price": 8.39,
@@ -31622,7 +31568,7 @@
             "price": 129.99,
             "url": "https://www.monoprice.com/product?p_id=42347",
             "product_id": 42347,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 16
         },
@@ -32082,15 +32028,6 @@
             "url": "https://www.monoprice.com/product?p_id=42651",
             "product_id": 42651,
             "available": true,
-            "rating": 5,
-            "num_reviews": 2
-        },
-        "42652": {
-            "name": "Monoprice Self Adhesive Cable Tie Mounts with Mounting Hole, 1.09x1.09 in, 100 pcs/pack, Black, ABS Type Approval",
-            "price": 2.39,
-            "url": "https://www.monoprice.com/product?p_id=42652",
-            "product_id": 42652,
-            "available": false,
             "rating": 5,
             "num_reviews": 2
         },
@@ -33264,15 +33201,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "43064": {
-            "name": "Hydration Backpack with BPA Free Bladder Unisex, Water Resistant, Durable, Light Weight, Adjustable Sizing. Great for Hiking, Running, Biking, Camping (Blue)",
-            "price": 9.99,
-            "url": "https://www.monoprice.com/product?p_id=43064",
-            "product_id": 43064,
-            "available": false,
-            "rating": 4.5,
-            "num_reviews": 2
-        },
         "43072": {
             "name": "Monoprice Cat6 6in White Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series  Ethernet Cable",
             "price": 0.94,
@@ -33782,7 +33710,7 @@
             "price": 33.99,
             "url": "https://www.monoprice.com/product?p_id=43199",
             "product_id": 43199,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 2
         },
@@ -35549,15 +35477,6 @@
             "available": true,
             "rating": 4.8,
             "num_reviews": 6
-        },
-        "44293": {
-            "name": "VIVO Universal LED Computer Monitor Light Bar, USB Powered Screen Lamp for Home Office, 5 Level Adjustable Brightness and Temperature Reading Light, Black, Desk-LTSB1",
-            "price": 17.99,
-            "url": "https://www.monoprice.com/product?p_id=44293",
-            "product_id": 44293,
-            "available": false,
-            "rating": 4,
-            "num_reviews": 1
         },
         "443": {
             "name": "Monoprice 10ft DB 9 M/F Molded Cable",
@@ -44859,6 +44778,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-16T16:46:00Z"
+        "timestamp": "2023-05-16T16:54:37Z"
     }
 }
