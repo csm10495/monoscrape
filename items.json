@@ -2129,7 +2129,7 @@
             "price": 32.99,
             "url": "https://www.monoprice.com/product?p_id=11942",
             "product_id": 11942,
-            "available": false,
+            "available": true,
             "rating": 4.2,
             "num_reviews": 52
         },
@@ -9746,15 +9746,6 @@
             "available": false,
             "rating": 4.7,
             "num_reviews": 18
-        },
-        "19434": {
-            "name": "Ubiquiti Next-Gen 2x2 Dual Polarity MIMO Omni Antenna - Range - SHF - 5.45 GHz to 5.85 GHz - 13 dBi - Base StationPole - Omni-directional",
-            "price": 189.99,
-            "url": "https://www.monoprice.com/product?p_id=19434",
-            "product_id": 19434,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
         },
         "195": {
             "name": "Monoprice High Quality 8P8C RJ-45 Network Cable Crimper",
@@ -44751,6 +44742,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-16T17:21:43Z"
+        "timestamp": "2023-05-16T17:29:24Z"
     }
 }
