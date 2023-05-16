@@ -20759,7 +20759,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=35117",
             "product_id": 35117,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -23182,7 +23182,7 @@
             "product_id": 38330,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 97
+            "num_reviews": 98
         },
         "38331": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Micro B to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Pink",
@@ -24323,7 +24323,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=38845",
             "product_id": 38845,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 60
         },
@@ -44895,6 +44895,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-16T02:29:45Z"
+        "timestamp": "2023-05-16T02:45:51Z"
     }
 }
