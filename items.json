@@ -15694,7 +15694,7 @@
             "product_id": 30762,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 199
+            "num_reviews": 201
         },
         "30763": {
             "name": "Monoprice Palette Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 6ft Black",
@@ -16466,7 +16466,7 @@
             "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=31264",
             "product_id": 31264,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 264
         },
@@ -18610,7 +18610,7 @@
             "product_id": 34188,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 15
+            "num_reviews": 16
         },
         "34189": {
             "name": "Monolith by Monoprice THX-365C THX Certified Ultra Center Channel Speaker (Each)",
@@ -44724,6 +44724,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-16T23:21:56Z"
+        "timestamp": "2023-05-16T23:34:38Z"
     }
 }
