@@ -10085,7 +10085,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=2148",
             "product_id": 2148,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3040
         },
@@ -11284,7 +11284,7 @@
             "product_id": 2303,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "2304": {
             "name": "Monoprice Cat6 7ft Red Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -13181,15 +13181,6 @@
             "price": 6.49,
             "url": "https://www.monoprice.com/product?p_id=2628",
             "product_id": 2628,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 15
-        },
-        "2630": {
-            "name": "Monoprice OM1 Fiber Optic Cable - LC/SC, UL, 62.5/125 Type, Multi-Mode, Orange, 10m, Corning",
-            "price": 10.49,
-            "url": "https://www.monoprice.com/product?p_id=2630",
-            "product_id": 2630,
             "available": false,
             "rating": 4.9,
             "num_reviews": 15
@@ -19330,7 +19321,7 @@
             "product_id": 3439,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "3440": {
             "name": "Monoprice Cat6 10ft Purple Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -37107,15 +37098,6 @@
             "rating": 4.9,
             "num_reviews": 3040
         },
-        "4982": {
-            "name": "Monoprice Cat5e 0.5ft White Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
-            "price": 0.29,
-            "url": "https://www.monoprice.com/product?p_id=4982",
-            "product_id": 4982,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 3041
-        },
         "4984": {
             "name": "Monoprice Cat5e 20ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 5.49,
@@ -38642,15 +38624,6 @@
             "price": 1.15,
             "url": "https://www.monoprice.com/product?p_id=5765",
             "product_id": 5765,
-            "available": false,
-            "rating": 4.2,
-            "num_reviews": 369
-        },
-        "5766": {
-            "name": "Monoprice Cable Tie 8in 40 lbs, 100 pcs/pack, Green",
-            "price": 1.79,
-            "url": "https://www.monoprice.com/product?p_id=5766",
-            "product_id": 5766,
             "available": false,
             "rating": 4.2,
             "num_reviews": 369
@@ -41063,7 +41036,7 @@
             "price": 7.49,
             "url": "https://www.monoprice.com/product?p_id=7262",
             "product_id": 7262,
-            "available": true,
+            "available": false,
             "rating": 4.1,
             "num_reviews": 71
         },
@@ -44778,6 +44751,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-16T17:06:11Z"
+        "timestamp": "2023-05-16T17:21:43Z"
     }
 }
