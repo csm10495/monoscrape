@@ -18221,7 +18221,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=33871",
             "product_id": 33871,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -18725,7 +18725,7 @@
             "price": 44.29,
             "url": "https://www.monoprice.com/product?p_id=34203",
             "product_id": 34203,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 504
         },
@@ -24920,6 +24920,15 @@
             "available": true,
             "rating": 4.6,
             "num_reviews": 49
+        },
+        "39075": {
+            "name": "Monoprice Entegrade 1000FT Cat8 2GHz S/FTP Solid, 22AWG, Bulk Bare Copper Network Cable, 40G, Blue",
+            "price": 599.99,
+            "url": "https://www.monoprice.com/product?p_id=39075",
+            "product_id": 39075,
+            "available": true,
+            "rating": 4.3,
+            "num_reviews": 7
         },
         "39078": {
             "name": "Monoprice Cat6 50ft Black Patch Cable, UTP, 32AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Micro SlimRun Series Ethernet Cable",
@@ -44715,6 +44724,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-16T19:56:54Z"
+        "timestamp": "2023-05-16T20:08:52Z"
     }
 }
