@@ -15989,7 +15989,7 @@
             "price": 199.99,
             "url": "https://www.monoprice.com/product?p_id=31035",
             "product_id": 31035,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 19
         },
@@ -17960,7 +17960,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=33810",
             "product_id": 33810,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 23
         },
@@ -18709,7 +18709,7 @@
             "product_id": 34205,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 504
+            "num_reviews": 505
         },
         "34206": {
             "name": "Monoprice 4K Slim Certified Premium High Speed HDMI Cable 6ft - 18Gbps Black - 5 Pack",
@@ -20237,9 +20237,9 @@
             "price": 25.89,
             "url": "https://www.monoprice.com/product?p_id=34840",
             "product_id": 34840,
-            "available": true,
+            "available": false,
             "rating": 4.8,
-            "num_reviews": 504
+            "num_reviews": 505
         },
         "34841": {
             "name": "Monoprice 4K Slim Certified Premium High Speed HDMI Cable 3m - 18Gbps Black - 2 Pack",
@@ -20806,7 +20806,7 @@
             "product_id": 35375,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 47
+            "num_reviews": 48
         },
         "35376": {
             "name": "Monoprice SlimSelect Series No Stud Hanger Low Profile Fixed TV Mount with Tilting Spacers for LED TVs 37in to 80in, Max Weight 110 lbs., VESA Patterns up to 600x400",
@@ -22734,15 +22734,6 @@
             "rating": 4.5,
             "num_reviews": 49
         },
-        "38203": {
-            "name": "Monolith by Monoprice 15\" THX Ultra Certified 1000 Watt Powered Subwoofer (Open Box)",
-            "price": 599.99,
-            "url": "https://www.monoprice.com/product?p_id=38203",
-            "product_id": 38203,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 6
-        },
         "38274": {
             "name": "Monoprice OM3 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 3m",
             "price": 2.39,
@@ -22984,7 +22975,7 @@
             "product_id": 38321,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 264
+            "num_reviews": 265
         },
         "38322": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Purple",
@@ -23002,7 +22993,7 @@
             "product_id": 38323,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 263
+            "num_reviews": 265
         },
         "38324": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Micro B to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft, White",
@@ -24018,8 +24009,8 @@
             "url": "https://www.monoprice.com/product?p_id=38818",
             "product_id": 38818,
             "available": false,
-            "rating": 4.4,
-            "num_reviews": 84
+            "rating": 4.5,
+            "num_reviews": 86
         },
         "38819": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 1.5ft, Red",
@@ -24126,8 +24117,8 @@
             "url": "https://www.monoprice.com/product?p_id=38833",
             "product_id": 38833,
             "available": true,
-            "rating": 4.4,
-            "num_reviews": 84
+            "rating": 4.5,
+            "num_reviews": 86
         },
         "38834": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 6ft, White, 3-Pack",
@@ -44616,6 +44607,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-17T20:35:04Z"
+        "timestamp": "2023-05-17T20:44:42Z"
     }
 }
