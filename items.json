@@ -1872,15 +1872,6 @@
             "rating": 4.3,
             "num_reviews": 573
         },
-        "1156": {
-            "name": "Monoprice DB25M/RJ-12,Modular Adapter",
-            "price": 0.99,
-            "url": "https://www.monoprice.com/product?p_id=1156",
-            "product_id": 1156,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "11566": {
             "name": "Monoprice HDMI to VGA Kit",
             "price": 29.99,
@@ -7758,15 +7749,6 @@
             "rating": 4.2,
             "num_reviews": 10
         },
-        "1582": {
-            "name": "Monoprice 3ft DB25 M/M Molded Cable",
-            "price": 2.69,
-            "url": "https://www.monoprice.com/product?p_id=1582",
-            "product_id": 1582,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 10
-        },
         "15827": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 0.5kg/spool, Black",
             "price": 8.99,
@@ -11167,7 +11149,7 @@
             "product_id": 2290,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "2291": {
             "name": "Monoprice Cat6 1ft Yellow Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -11176,7 +11158,7 @@
             "product_id": 2291,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "2292": {
             "name": "Monoprice Cat6 1ft White Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -11185,7 +11167,7 @@
             "product_id": 2292,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "2293": {
             "name": "Monoprice Cat6 1ft Purple Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -11248,7 +11230,7 @@
             "product_id": 2300,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "2301": {
             "name": "Monoprice Cat6 7ft Gray Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -11374,7 +11356,7 @@
             "product_id": 2314,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "2315": {
             "name": "Monoprice Cat6 25ft Gray Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -13922,15 +13904,6 @@
             "available": true,
             "rating": 4.9,
             "num_reviews": 92
-        },
-        "2771": {
-            "name": "Monoprice 25ft 18AWG CL2 Premium 3-RCA Component Video Coaxial Cable (RG-6/U) - Black",
-            "price": 27.99,
-            "url": "https://www.monoprice.com/product?p_id=2771",
-            "product_id": 2771,
-            "available": false,
-            "rating": 4.7,
-            "num_reviews": 219
         },
         "27774": {
             "name": "Workstream by Monoprice Electric Height Adjustable Sit-Stand Workstation Desk Converter, 36in",
@@ -18493,7 +18466,7 @@
             "product_id": 3412,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "3413": {
             "name": "Monoprice Cat6 3ft Orange Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -19051,7 +19024,7 @@
             "product_id": 3429,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "3430": {
             "name": "Monoprice Cat6 5ft Orange Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -19060,7 +19033,7 @@
             "product_id": 3430,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "34302": {
             "name": "Workstream by Monoprice Single Monitor Low Profile Flat-Clamp Mount for Screens Up to 32in",
@@ -36396,15 +36369,6 @@
             "rating": 4.5,
             "num_reviews": 158
         },
-        "4568": {
-            "name": "Monoprice VGA Wall Plate - 1 Port (Gold Plated)",
-            "price": 2.79,
-            "url": "https://www.monoprice.com/product?p_id=4568",
-            "product_id": 4568,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 29
-        },
         "4619": {
             "name": "Monoprice Aria In-Ceiling Speakers, 6.5in Dual Input Stereo 2-Way (pair)",
             "price": 89.99,
@@ -36530,15 +36494,6 @@
             "available": false,
             "rating": 4.7,
             "num_reviews": 291
-        },
-        "476": {
-            "name": "Monoprice 10ft Null Modem DB9 M/F Molded Cable",
-            "price": 4.99,
-            "url": "https://www.monoprice.com/product?p_id=476",
-            "product_id": 476,
-            "available": false,
-            "rating": 4.3,
-            "num_reviews": 7
         },
         "4760": {
             "name": "Monoprice 3ft Premier Series XLR Male to 1/4in TRS Male Cable, 16AWG (Gold Plated)",
@@ -37177,7 +37132,7 @@
             "product_id": 5008,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "5009": {
             "name": "Monoprice Cat6 20ft Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -37231,7 +37186,7 @@
             "product_id": 5017,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "5018": {
             "name": "Monoprice Cat6 30ft Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -38016,15 +37971,6 @@
             "rating": 4.9,
             "num_reviews": 1009
         },
-        "544": {
-            "name": "Monoprice 6ft DB15 M/F 1:1 Molded Cable - Beige",
-            "price": 3.99,
-            "url": "https://www.monoprice.com/product?p_id=544",
-            "product_id": 544,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 9
-        },
         "5440": {
             "name": "Monoprice USB Type-A to USB Type-B 2.0 Cable - 28/24AWG, Gold Plated, Black, 15ft",
             "price": 2.99,
@@ -38249,15 +38195,6 @@
             "available": true,
             "rating": 4.4,
             "num_reviews": 409
-        },
-        "5544": {
-            "name": "Monoprice VGA HD-15 to 5 BNC RGB Video Cable for HDTV Monitor cable - 10FT (Black)",
-            "price": 14.49,
-            "url": "https://www.monoprice.com/product?p_id=5544",
-            "product_id": 5544,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 13
         },
         "5557": {
             "name": "Monoprice Blackbird 4x1 HDMI 1.4 Switch HDCP 1.4 with Toslink and Analog Audio Extractor, 1080p@60Hz",
@@ -39285,15 +39222,6 @@
             "rating": 4.9,
             "num_reviews": 24
         },
-        "627": {
-            "name": "Monoprice BNC M/M RG59U - 12ft",
-            "price": 4.99,
-            "url": "https://www.monoprice.com/product?p_id=627",
-            "product_id": 627,
-            "available": false,
-            "rating": 4,
-            "num_reviews": 69
-        },
         "6270": {
             "name": "Monoprice Premium S/PDIF (Toslink) Digital Optical Audio Cable, 10ft",
             "price": 6.99,
@@ -40077,15 +40005,6 @@
             "rating": 4.4,
             "num_reviews": 28
         },
-        "6568": {
-            "name": "Monoprice Keystone Jack - Modular RCA w/White Center, Flush Type (White)",
-            "price": 0.77,
-            "url": "https://www.monoprice.com/product?p_id=6568",
-            "product_id": 6568,
-            "available": false,
-            "rating": 4.7,
-            "num_reviews": 6
-        },
         "657": {
             "name": "Monoprice 12ft RCA Plug/Jack M/F Cable - Black",
             "price": 1.49,
@@ -40130,15 +40049,6 @@
             "available": false,
             "rating": 4.8,
             "num_reviews": 386
-        },
-        "6625": {
-            "name": "Monoprice Easy Mount Low Voltage Cable Recessed Wall Plate - White",
-            "price": 2.99,
-            "url": "https://www.monoprice.com/product?p_id=6625",
-            "product_id": 6625,
-            "available": false,
-            "rating": 4.6,
-            "num_reviews": 65
         },
         "6627": {
             "name": "Monoprice Easy Mount Low Voltage Cable Recessed Wall Plate, Slim Fit - White",
@@ -42362,15 +42272,6 @@
             "available": true,
             "rating": 4.3,
             "num_reviews": 128
-        },
-        "843": {
-            "name": "Monoprice HPDB68 F/F, External Gender Changer",
-            "price": 11.99,
-            "url": "https://www.monoprice.com/product?p_id=843",
-            "product_id": 843,
-            "available": false,
-            "rating": 4,
-            "num_reviews": 2
         },
         "8434": {
             "name": "Monoprice Keystone Jack - Banana Jack w/Black Ring (Screw Type) - White",
@@ -44724,6 +44625,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-16T23:54:34Z"
+        "timestamp": "2023-05-17T00:34:55Z"
     }
 }
