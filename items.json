@@ -11356,7 +11356,7 @@
             "product_id": 2317,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "2318": {
             "name": "Monoprice Cat6 25ft Red Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -25918,7 +25918,7 @@
             "product_id": 3953,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13603
+            "num_reviews": 13604
         },
         "39530": {
             "name": "Monoprice 4K No Logo High Speed HDMI Cable 15ft - CL2 In Wall Rated 18 Gbps Black - 3 Pack",
@@ -43736,7 +43736,7 @@
             "price": 3.19,
             "url": "https://www.monoprice.com/product?p_id=9780",
             "product_id": 9780,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 91
         },
@@ -44544,6 +44544,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-17T03:08:38Z"
+        "timestamp": "2023-05-17T03:23:54Z"
     }
 }
