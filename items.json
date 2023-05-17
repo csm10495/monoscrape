@@ -16270,7 +16270,7 @@
             "product_id": 31200,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 263
+            "num_reviews": 265
         },
         "31201": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Red",
@@ -16412,7 +16412,7 @@
             "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=31264",
             "product_id": 31264,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 264
         },
@@ -18824,7 +18824,7 @@
             "price": 1.19,
             "url": "https://www.monoprice.com/product?p_id=34224",
             "product_id": 34224,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 76
         },
@@ -20384,15 +20384,6 @@
             "available": true,
             "rating": 5,
             "num_reviews": 42
-        },
-        "35044": {
-            "name": "Monoprice Heavy Duty Extension Cord - IEC 60320 C14 to IEC 60320 C13, 14AWG, 15A/1875W, SJT, 100-250V, Black, 1ft",
-            "price": 0.99,
-            "url": "https://www.monoprice.com/product?p_id=35044",
-            "product_id": 35044,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 8
         },
         "35046": {
             "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R, 14AWG, 15A/1875W, SJT, 125V, Black, 3ft",
@@ -24323,7 +24314,7 @@
             "price": 12.73,
             "url": "https://www.monoprice.com/product?p_id=38878",
             "product_id": 38878,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 60
         },
@@ -44562,6 +44553,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-17T13:54:26Z"
+        "timestamp": "2023-05-17T14:05:34Z"
     }
 }
