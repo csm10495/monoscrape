@@ -4748,7 +4748,7 @@
             "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=13684",
             "product_id": 13684,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 78
         },
@@ -9263,7 +9263,7 @@
         },
         "18591": {
             "name": "Monoprice Premium 3.5mm Wired Earbuds Headphones with Mic for Apple and Android Devices",
-            "price": 5.33,
+            "price": 5.79,
             "url": "https://www.monoprice.com/product?p_id=18591",
             "product_id": 18591,
             "available": true,
@@ -44544,6 +44544,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-17T07:20:17Z"
+        "timestamp": "2023-05-17T07:25:58Z"
     }
 }
