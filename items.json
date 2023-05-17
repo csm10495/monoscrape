@@ -608,7 +608,7 @@
             "price": 23.68,
             "url": "https://www.monoprice.com/product?p_id=11045",
             "product_id": 11045,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 573
         },
@@ -3425,7 +3425,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=13240",
             "product_id": 13240,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 167
         },
@@ -4704,15 +4704,6 @@
             "url": "https://www.monoprice.com/product?p_id=13678",
             "product_id": 13678,
             "available": true,
-            "rating": 4.7,
-            "num_reviews": 35
-        },
-        "13679": {
-            "name": "Monoprice Cat5e Ethernet Bulk Cable - Solid, 350MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 24AWG, 500ft, White (UL)",
-            "price": 44.99,
-            "url": "https://www.monoprice.com/product?p_id=13679",
-            "product_id": 13679,
-            "available": false,
             "rating": 4.7,
             "num_reviews": 35
         },
@@ -6170,7 +6161,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=14794",
             "product_id": 14794,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -6323,7 +6314,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=14815",
             "product_id": 14815,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -7763,7 +7754,7 @@
             "price": 16.47,
             "url": "https://www.monoprice.com/product?p_id=15835",
             "product_id": 15835,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -8609,7 +8600,7 @@
             "price": 74.49,
             "url": "https://www.monoprice.com/product?p_id=16189",
             "product_id": 16189,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 60
         },
@@ -9356,7 +9347,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=18628",
             "product_id": 18628,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 100
         },
@@ -44553,6 +44544,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-17T14:36:43Z"
+        "timestamp": "2023-05-17T14:44:31Z"
     }
 }
