@@ -16655,7 +16655,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=32983",
             "product_id": 32983,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -21254,7 +21254,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=35943",
             "product_id": 35943,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 6
         },
@@ -22739,7 +22739,7 @@
             "price": 599.99,
             "url": "https://www.monoprice.com/product?p_id=38203",
             "product_id": 38203,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 6
         },
@@ -23847,8 +23847,8 @@
             "url": "https://www.monoprice.com/product?p_id=38795",
             "product_id": 38795,
             "available": true,
-            "rating": 4.4,
-            "num_reviews": 84
+            "rating": 4.5,
+            "num_reviews": 86
         },
         "38796": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 3ft, White",
@@ -23919,8 +23919,8 @@
             "url": "https://www.monoprice.com/product?p_id=38805",
             "product_id": 38805,
             "available": false,
-            "rating": 4.4,
-            "num_reviews": 84
+            "rating": 4.5,
+            "num_reviews": 86
         },
         "38806": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 10ft, Red",
@@ -24341,7 +24341,7 @@
             "price": 12.73,
             "url": "https://www.monoprice.com/product?p_id=38878",
             "product_id": 38878,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 60
         },
@@ -44607,6 +44607,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-17T19:26:32Z"
+        "timestamp": "2023-05-17T19:36:33Z"
     }
 }
