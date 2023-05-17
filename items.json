@@ -27374,7 +27374,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=40072",
             "product_id": 40072,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 3
         },
@@ -27617,7 +27617,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=40123",
             "product_id": 40123,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 8
         },
@@ -28391,7 +28391,7 @@
             "price": 299.99,
             "url": "https://www.monoprice.com/product?p_id=40778",
             "product_id": 40778,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 21
         },
@@ -33386,7 +33386,7 @@
             "price": 129.99,
             "url": "https://www.monoprice.com/product?p_id=43160",
             "product_id": 43160,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -33909,8 +33909,8 @@
             "url": "https://www.monoprice.com/product?p_id=43252",
             "product_id": 43252,
             "available": true,
-            "rating": 3.6,
-            "num_reviews": 5
+            "rating": 3.2,
+            "num_reviews": 6
         },
         "43257": {
             "name": "Monoprice Harmony Puck Portable Bluetooth Speaker IPx4, Waterproof, TWS",
@@ -34538,7 +34538,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=43543",
             "product_id": 43543,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -35926,7 +35926,7 @@
             "product_id": 44496,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "44497": {
             "name": "Monoprice Cat6A 6in Blue Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -35935,7 +35935,7 @@
             "product_id": 44497,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "44498": {
             "name": "Monoprice Cat6A 1ft Black Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -35944,7 +35944,7 @@
             "product_id": 44498,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "44499": {
             "name": "Monoprice Cat6A 1ft Blue Patch Cable,  UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -35953,7 +35953,7 @@
             "product_id": 44499,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "445": {
             "name": "Monoprice 25ft DB 9 M/F Molded Cable",
@@ -35971,7 +35971,7 @@
             "product_id": 44500,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "44501": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, 550Mhz, UTP, Pure Bare Copper Wire, 10G, 30AWG, 3ft, Blue, 1-Pack",
@@ -35980,7 +35980,7 @@
             "product_id": 44501,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "44502": {
             "name": "Monoprice Cat6A 5ft Black Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -35989,7 +35989,7 @@
             "product_id": 44502,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "44503": {
             "name": "Monoprice Cat6A 5ft Blue Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -35998,7 +35998,7 @@
             "product_id": 44503,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "44504": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, 550Mhz, UTP, Pure Bare Copper Wire, 10G, 30AWG, 7ft, Black, 1-Pack",
@@ -36007,7 +36007,7 @@
             "product_id": 44504,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "44505": {
             "name": "Monoprice Cat6A 7ft Blue Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -36016,7 +36016,7 @@
             "product_id": 44505,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "44506": {
             "name": "Monoprice Cat6A 10ft Black Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -36025,7 +36025,7 @@
             "product_id": 44506,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "44507": {
             "name": "Monoprice Cat6A 10ft Blue Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -36034,7 +36034,7 @@
             "product_id": 44507,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "44508": {
             "name": "Monoprice Cat6A 14ft Black Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -36043,7 +36043,7 @@
             "product_id": 44508,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "44509": {
             "name": "Monoprice Cat6A 14ft Blue Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -36052,7 +36052,7 @@
             "product_id": 44509,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "44510": {
             "name": "Monoprice Cat6A 25ft Black Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -36061,7 +36061,7 @@
             "product_id": 44510,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "44511": {
             "name": "Monoprice Cat6A 25ft Blue Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -36070,7 +36070,7 @@
             "product_id": 44511,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "44512": {
             "name": "Monoprice Cat6A 50ft Black Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -36079,7 +36079,7 @@
             "product_id": 44512,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "44513": {
             "name": "Monoprice Cat6A 50ft Blue Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -36088,7 +36088,7 @@
             "product_id": 44513,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "44574": {
             "name": "Monolith by Monoprice M-15 V2 15in THX Certified Ultra 1000-Watt Subwoofer Amplifier (Open Box)",
@@ -44553,6 +44553,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-17T12:59:26Z"
+        "timestamp": "2023-05-17T13:12:28Z"
     }
 }
