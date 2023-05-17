@@ -12076,7 +12076,7 @@
             "product_id": 3440,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "3441": {
             "name": "Monoprice Cat6 10ft Red Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -37371,6 +37371,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-17T10:43:45Z"
+        "timestamp": "2023-05-17T10:54:13Z"
     }
 }
