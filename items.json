@@ -3416,7 +3416,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=13239",
             "product_id": 13239,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 167
         },
@@ -6881,7 +6881,7 @@
             "price": 33.99,
             "url": "https://www.monoprice.com/product?p_id=15170",
             "product_id": 15170,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 529
         },
@@ -7466,6 +7466,15 @@
             "price": 1.86,
             "url": "https://www.monoprice.com/product?p_id=15668",
             "product_id": 15668,
+            "available": true,
+            "rating": 4.4,
+            "num_reviews": 41
+        },
+        "15669": {
+            "name": "Monoprice Cat6A RJ-45 Toolless 180-Degree Keystone, Orange",
+            "price": 2.49,
+            "url": "https://www.monoprice.com/product?p_id=15669",
+            "product_id": 15669,
             "available": true,
             "rating": 4.4,
             "num_reviews": 41
@@ -8132,7 +8141,7 @@
             "price": 17.99,
             "url": "https://www.monoprice.com/product?p_id=16052",
             "product_id": 16052,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 14
         },
@@ -8690,7 +8699,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=16249",
             "product_id": 16249,
-            "available": false,
+            "available": true,
             "rating": 4.2,
             "num_reviews": 60
         },
@@ -44553,6 +44562,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-17T15:35:57Z"
+        "timestamp": "2023-05-17T15:45:10Z"
     }
 }
