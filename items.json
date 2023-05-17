@@ -9833,7 +9833,7 @@
             "price": 26.99,
             "url": "https://www.monoprice.com/product?p_id=2119",
             "product_id": 2119,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3399
         },
@@ -11300,7 +11300,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=2310",
             "product_id": 2310,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3399
         },
@@ -18005,7 +18005,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=3382",
             "product_id": 3382,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3040
         },
@@ -36806,7 +36806,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=4826",
             "product_id": 4826,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 370
         },
@@ -37130,7 +37130,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=5016",
             "product_id": 5016,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3399
         },
@@ -37582,7 +37582,7 @@
             "product_id": 5347,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 1301
+            "num_reviews": 1302
         },
         "5348": {
             "name": "Monoprice 15ft Premium 2 RCA Plug/2 RCA Plug M/M 22AWG Cable - Black",
@@ -38574,6 +38574,15 @@
             "rating": 4.8,
             "num_reviews": 69
         },
+        "5809": {
+            "name": "Monoprice Hook and Loop Fastening Cable Ties, 6in, 10 pcs/pack, Black",
+            "price": 1.99,
+            "url": "https://www.monoprice.com/product?p_id=5809",
+            "product_id": 5809,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 359
+        },
         "5828": {
             "name": "Monoprice Hook and Loop Fastening Tape, 5 yards/roll, 0.75in, Black",
             "price": 2.29,
@@ -39200,9 +39209,9 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=6270",
             "product_id": 6270,
-            "available": false,
+            "available": true,
             "rating": 4.8,
-            "num_reviews": 2398
+            "num_reviews": 2399
         },
         "6271": {
             "name": "Monoprice Premium S/PDIF (Toslink) Digital Optical Audio Cable, 15ft",
@@ -39839,7 +39848,7 @@
             "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=6526",
             "product_id": 6526,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 226
         },
@@ -43846,7 +43855,7 @@
             "product_id": 9790,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1464
+            "num_reviews": 1465
         },
         "9791": {
             "name": "Monoprice Cat6 7ft Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -43882,7 +43891,7 @@
             "product_id": 9794,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1464
+            "num_reviews": 1465
         },
         "9795": {
             "name": "Monoprice Cat6 1ft Black Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -44341,7 +44350,7 @@
             "product_id": 9852,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1464
+            "num_reviews": 1465
         },
         "9853": {
             "name": "Monoprice Cat6 14ft Purple Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -44467,7 +44476,7 @@
             "product_id": 9866,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1464
+            "num_reviews": 1465
         },
         "9867": {
             "name": "Monoprice Cat6 5ft Purple Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -44607,6 +44616,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-17T19:56:08Z"
+        "timestamp": "2023-05-17T20:24:57Z"
     }
 }
