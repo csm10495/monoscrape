@@ -36536,7 +36536,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=4769",
             "product_id": 4769,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 201
         },
@@ -37085,7 +37085,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=5008",
             "product_id": 5008,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3399
         },
@@ -40424,7 +40424,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=6985",
             "product_id": 6985,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 65
         },
@@ -41639,7 +41639,7 @@
             "price": 8.49,
             "url": "https://www.monoprice.com/product?p_id=7681",
             "product_id": 7681,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 24
         },
@@ -43229,7 +43229,7 @@
         },
         "9324": {
             "name": "Monoprice Keystone Jack HDMI Female to Female Coupler Adapter, White (No Logo)",
-            "price": 2.39,
+            "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=9324",
             "product_id": 9324,
             "available": true,
@@ -43268,7 +43268,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=935",
             "product_id": 935,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 70
         },
@@ -44607,6 +44607,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-17T17:44:41Z"
+        "timestamp": "2023-05-17T17:54:44Z"
     }
 }
