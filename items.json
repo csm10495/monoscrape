@@ -17577,15 +17577,6 @@
             "rating": 5,
             "num_reviews": 7
         },
-        "33660": {
-            "name": "Monoprice Heavy Duty Power Cable - IEC 60320 C14 to IEC 60320 C15, 14AWG, 15A/1875W, SJT, 100-250V, Red, 10ft",
-            "price": 10.99,
-            "url": "https://www.monoprice.com/product?p_id=33660",
-            "product_id": 33660,
-            "available": true,
-            "rating": 5,
-            "num_reviews": 7
-        },
         "33671": {
             "name": "Monoprice 6ft Gray Hospital-Grade Computer Power Cord with Clear Plugs, 15A/1875W, 14AWG SJT (NEMA 5-15PHG to IEC 60320 C13)",
             "price": 9.49,
@@ -18653,7 +18644,7 @@
             "price": 129.99,
             "url": "https://www.monoprice.com/product?p_id=34199",
             "product_id": 34199,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 20
         },
@@ -20399,7 +20390,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=35046",
             "product_id": 35046,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 93
         },
@@ -24629,7 +24620,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=38917",
             "product_id": 38917,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 21
         },
@@ -44607,6 +44598,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-17T18:27:09Z"
+        "timestamp": "2023-05-17T18:35:00Z"
     }
 }
