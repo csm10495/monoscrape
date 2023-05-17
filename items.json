@@ -412,7 +412,7 @@
             "product_id": 10552,
             "available": false,
             "rating": 4.3,
-            "num_reviews": 574
+            "num_reviews": 573
         },
         "10553": {
             "name": "Monoprice Premium 3D Printer Filament PLA 1.75mm 1kg/spool, Red",
@@ -709,7 +709,7 @@
             "product_id": 11216,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1465
+            "num_reviews": 1464
         },
         "11217": {
             "name": "Monoprice Cat6 6in Gray Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -905,7 +905,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=11253",
             "product_id": 11253,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 461
         },
@@ -1870,7 +1870,7 @@
             "product_id": 11551,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 574
+            "num_reviews": 573
         },
         "11566": {
             "name": "Monoprice HDMI to VGA Kit",
@@ -6075,6 +6075,15 @@
             "rating": 4.9,
             "num_reviews": 3040
         },
+        "14760": {
+            "name": "Monoprice Cat6 Ethernet Bulk Cable - Stranded, 550MHz, UTP, CM, Pure Bare Copper Wire, 24AWG, 250ft, Black",
+            "price": 21.59,
+            "url": "https://www.monoprice.com/product?p_id=14760",
+            "product_id": 14760,
+            "available": true,
+            "rating": 4.5,
+            "num_reviews": 60
+        },
         "14768": {
             "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Gray, (UL)",
             "price": 39.99,
@@ -6090,15 +6099,6 @@
             "url": "https://www.monoprice.com/product?p_id=14771",
             "product_id": 14771,
             "available": false,
-            "rating": 4.7,
-            "num_reviews": 92
-        },
-        "14772": {
-            "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Orange, (UL)",
-            "price": 32.99,
-            "url": "https://www.monoprice.com/product?p_id=14772",
-            "product_id": 14772,
-            "available": true,
             "rating": 4.7,
             "num_reviews": 92
         },
@@ -7079,7 +7079,7 @@
             "price": 257.49,
             "url": "https://www.monoprice.com/product?p_id=15398",
             "product_id": 15398,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 5
         },
@@ -44598,6 +44598,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-17T21:20:38Z"
+        "timestamp": "2023-05-17T21:26:05Z"
     }
 }
