@@ -38077,7 +38077,7 @@
             "product_id": 5494,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 409
+            "num_reviews": 410
         },
         "5495": {
             "name": "Monoprice 3ft Premier Series 1/4in TS Male to Male Audio Cable, 16AWG (Gold Plated)",
@@ -38153,7 +38153,7 @@
         },
         "5561": {
             "name": "Monoprice Dual Monitor Articulating Free Standing Vertical Desk Mount Bracket Stand V2 for 13~32in Monitors up to 17.6lbs, Black",
-            "price": 27.99,
+            "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=5561",
             "product_id": 5561,
             "available": true,
@@ -38732,7 +38732,7 @@
             "price": 27.99,
             "url": "https://www.monoprice.com/product?p_id=5915",
             "product_id": 5915,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 611
         },
@@ -39193,7 +39193,7 @@
             "product_id": 6270,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 2399
+            "num_reviews": 2398
         },
         "6271": {
             "name": "Monoprice Premium S/PDIF (Toslink) Digital Optical Audio Cable, 15ft",
@@ -39707,15 +39707,6 @@
             "available": false,
             "rating": 4.4,
             "num_reviews": 926
-        },
-        "6470": {
-            "name": "Monoprice Hook and Loop Fastening Cable Ties, 13in, 50 pcs/pack, Black",
-            "price": 9.29,
-            "url": "https://www.monoprice.com/product?p_id=6470",
-            "product_id": 6470,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 35
         },
         "6476": {
             "name": "Monoprice Hook and Loop Fastening Cable Ties, 6in, 100 pcs/pack, Black",
@@ -43837,7 +43828,7 @@
             "product_id": 9790,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1465
+            "num_reviews": 1464
         },
         "9791": {
             "name": "Monoprice Cat6 7ft Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -44458,7 +44449,7 @@
             "product_id": 9866,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1465
+            "num_reviews": 1464
         },
         "9867": {
             "name": "Monoprice Cat6 5ft Purple Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -44598,6 +44589,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-17T22:05:39Z"
+        "timestamp": "2023-05-17T22:22:34Z"
     }
 }
