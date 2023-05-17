@@ -412,7 +412,7 @@
             "product_id": 10552,
             "available": false,
             "rating": 4.3,
-            "num_reviews": 573
+            "num_reviews": 574
         },
         "10553": {
             "name": "Monoprice Premium 3D Printer Filament PLA 1.75mm 1kg/spool, Red",
@@ -635,7 +635,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=11148",
             "product_id": 11148,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 97
         },
@@ -709,7 +709,7 @@
             "product_id": 11216,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1464
+            "num_reviews": 1465
         },
         "11217": {
             "name": "Monoprice Cat6 6in Gray Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -1870,7 +1870,7 @@
             "product_id": 11551,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 573
+            "num_reviews": 574
         },
         "11566": {
             "name": "Monoprice HDMI to VGA Kit",
@@ -7718,7 +7718,7 @@
             "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=15760",
             "product_id": 15760,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 43
         },
@@ -9365,7 +9365,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=18628",
             "product_id": 18628,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 100
         },
@@ -44616,6 +44616,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-17T20:24:57Z"
+        "timestamp": "2023-05-17T20:30:30Z"
     }
 }
