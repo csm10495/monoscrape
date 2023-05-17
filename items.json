@@ -14544,60 +14544,6 @@
             "rating": 4.9,
             "num_reviews": 571
         },
-        "29406": {
-            "name": "Workstream by Monoprice Triple Monitor Gas Spring Mount for up to 32\" Screens, Locking Center Mount",
-            "price": 129.99,
-            "url": "https://www.monoprice.com/product?p_id=29406",
-            "product_id": 29406,
-            "available": false,
-            "rating": 4.6,
-            "num_reviews": 59
-        },
-        "29407": {
-            "name": "Workstream by Monoprice Triple Monitor Gas Spring Mount for up to 32in Screens, Fully Adjustable Center Mount",
-            "price": 135.99,
-            "url": "https://www.monoprice.com/product?p_id=29407",
-            "product_id": 29407,
-            "available": true,
-            "rating": 4.6,
-            "num_reviews": 59
-        },
-        "29425": {
-            "name": "Monoprice Cat6A 2ft Blue 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 9.99,
-            "url": "https://www.monoprice.com/product?p_id=29425",
-            "product_id": 29425,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 525
-        },
-        "29426": {
-            "name": "Monoprice Cat6A 2ft Black 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 9.99,
-            "url": "https://www.monoprice.com/product?p_id=29426",
-            "product_id": 29426,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 525
-        },
-        "29427": {
-            "name": "Monoprice Cat6A 2ft White 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 9.99,
-            "url": "https://www.monoprice.com/product?p_id=29427",
-            "product_id": 29427,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 525
-        },
-        "29429": {
-            "name": "Monoprice Cat6A 2ft Red 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 9.99,
-            "url": "https://www.monoprice.com/product?p_id=29429",
-            "product_id": 29429,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 525
-        },
         "2943": {
             "name": "Monoprice 1 PAIR OF High-Quality Gold Plated Speaker Banana Plugs, Open Screw Type",
             "price": 1.99,
@@ -14606,60 +14552,6 @@
             "available": true,
             "rating": 4.8,
             "num_reviews": 618
-        },
-        "29431": {
-            "name": "Monoprice Cat6A 2ft Orange 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 9.99,
-            "url": "https://www.monoprice.com/product?p_id=29431",
-            "product_id": 29431,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 525
-        },
-        "29434": {
-            "name": "Monoprice USB-C Dual-Monitor Docking Station for USB-C Laptops, MST, and Power Delivery up to 100W with USB-C Cable",
-            "price": 138.99,
-            "url": "https://www.monoprice.com/product?p_id=29434",
-            "product_id": 29434,
-            "available": true,
-            "rating": 3.3,
-            "num_reviews": 26
-        },
-        "29436": {
-            "name": "Monoprice Cat6A 2ft Blue 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 19.99,
-            "url": "https://www.monoprice.com/product?p_id=29436",
-            "product_id": 29436,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 525
-        },
-        "29437": {
-            "name": "Monoprice Cat6A 2ft Black 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 19.99,
-            "url": "https://www.monoprice.com/product?p_id=29437",
-            "product_id": 29437,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 525
-        },
-        "29438": {
-            "name": "Monoprice Cat6A 2ft White 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 19.99,
-            "url": "https://www.monoprice.com/product?p_id=29438",
-            "product_id": 29438,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 525
-        },
-        "29439": {
-            "name": "Monoprice Cat6A 2ft Gray 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 19.99,
-            "url": "https://www.monoprice.com/product?p_id=29439",
-            "product_id": 29439,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 525
         },
         "2944": {
             "name": "Monoprice Dual High-Quality Gold Plated Speaker Banana Plugs, Red",
@@ -14670,78 +14562,6 @@
             "rating": 4.3,
             "num_reviews": 141
         },
-        "29440": {
-            "name": "Monoprice Cat6A 2ft Red 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 16.99,
-            "url": "https://www.monoprice.com/product?p_id=29440",
-            "product_id": 29440,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 525
-        },
-        "29441": {
-            "name": "Monoprice Cat6A 2ft Green 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 16.99,
-            "url": "https://www.monoprice.com/product?p_id=29441",
-            "product_id": 29441,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 525
-        },
-        "29442": {
-            "name": "Monoprice Cat6A 2ft Orange 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 19.99,
-            "url": "https://www.monoprice.com/product?p_id=29442",
-            "product_id": 29442,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 525
-        },
-        "29443": {
-            "name": "Monoprice Cat6A 2ft Yellow 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 19.99,
-            "url": "https://www.monoprice.com/product?p_id=29443",
-            "product_id": 29443,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 525
-        },
-        "29444": {
-            "name": "Monoprice Cat6A 2ft Purple 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 19.99,
-            "url": "https://www.monoprice.com/product?p_id=29444",
-            "product_id": 29444,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 525
-        },
-        "29445": {
-            "name": "Monoprice Cat6A 6in Blue 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 8.49,
-            "url": "https://www.monoprice.com/product?p_id=29445",
-            "product_id": 29445,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 525
-        },
-        "29446": {
-            "name": "Monoprice Cat6A 6in Black 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 8.49,
-            "url": "https://www.monoprice.com/product?p_id=29446",
-            "product_id": 29446,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 525
-        },
-        "29447": {
-            "name": "Monoprice Cat6A 6in White 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 8.49,
-            "url": "https://www.monoprice.com/product?p_id=29447",
-            "product_id": 29447,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 525
-        },
         "2945": {
             "name": "Monoprice Dual High-Quality Gold Plated Speaker Banana Plugs, Black",
             "price": 2.93,
@@ -14750,87 +14570,6 @@
             "available": false,
             "rating": 4.3,
             "num_reviews": 141
-        },
-        "29454": {
-            "name": "Monoprice Cat6A 6in Blue 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 15.99,
-            "url": "https://www.monoprice.com/product?p_id=29454",
-            "product_id": 29454,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 525
-        },
-        "29455": {
-            "name": "Monoprice Cat6A 6in Black 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 15.99,
-            "url": "https://www.monoprice.com/product?p_id=29455",
-            "product_id": 29455,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 525
-        },
-        "29456": {
-            "name": "Monoprice Cat6A 6in White 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 15.99,
-            "url": "https://www.monoprice.com/product?p_id=29456",
-            "product_id": 29456,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 525
-        },
-        "29457": {
-            "name": "Monoprice Cat6A 6in Gray 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 13.59,
-            "url": "https://www.monoprice.com/product?p_id=29457",
-            "product_id": 29457,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 525
-        },
-        "29461": {
-            "name": "Monoprice Cat6A 6in Red 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 15.99,
-            "url": "https://www.monoprice.com/product?p_id=29461",
-            "product_id": 29461,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 525
-        },
-        "29462": {
-            "name": "Monoprice Cat6A 6in Green 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 15.99,
-            "url": "https://www.monoprice.com/product?p_id=29462",
-            "product_id": 29462,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 525
-        },
-        "29463": {
-            "name": "Monoprice Cat6A 6in Orange 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 15.99,
-            "url": "https://www.monoprice.com/product?p_id=29463",
-            "product_id": 29463,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 525
-        },
-        "29464": {
-            "name": "Monoprice Cat6A 6in Yellow 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 15.99,
-            "url": "https://www.monoprice.com/product?p_id=29464",
-            "product_id": 29464,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 525
-        },
-        "29465": {
-            "name": "Monoprice Cat6A 6in Purple 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 15.99,
-            "url": "https://www.monoprice.com/product?p_id=29465",
-            "product_id": 29465,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 525
         },
         "2947": {
             "name": "Monoprice Digital Coaxial (RCA) to S/PDIF (Toslink) Digital Optical Audio Converter",
@@ -14841,69 +14580,6 @@
             "rating": 4.6,
             "num_reviews": 147
         },
-        "29470": {
-            "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 5ft, Multicolor, 5-Pack",
-            "price": 12.99,
-            "url": "https://www.monoprice.com/product?p_id=29470",
-            "product_id": 29470,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 525
-        },
-        "29474": {
-            "name": "Monoprice Cat6A 6in 10-Color 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 15.99,
-            "url": "https://www.monoprice.com/product?p_id=29474",
-            "product_id": 29474,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 527
-        },
-        "29475": {
-            "name": "Monoprice Cat6A 2ft 10-Color 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 16.99,
-            "url": "https://www.monoprice.com/product?p_id=29475",
-            "product_id": 29475,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 525
-        },
-        "29476": {
-            "name": "Monoprice Cat6A 1ft 10-Color 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 17.99,
-            "url": "https://www.monoprice.com/product?p_id=29476",
-            "product_id": 29476,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 525
-        },
-        "29477": {
-            "name": "Monoprice Cat6A 3ft 10-Color 10-Pk Patch Cable,  UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 17.84,
-            "url": "https://www.monoprice.com/product?p_id=29477",
-            "product_id": 29477,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 525
-        },
-        "29478": {
-            "name": "Monoprice Cat6A 5ft 10-Color 10-Pk Patch Cable,  UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 23.49,
-            "url": "https://www.monoprice.com/product?p_id=29478",
-            "product_id": 29478,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 525
-        },
-        "29479": {
-            "name": "Monoprice Cat6A 7ft 10-Color 10-Pk Patch Cable,  UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 21.67,
-            "url": "https://www.monoprice.com/product?p_id=29479",
-            "product_id": 29479,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 525
-        },
         "2948": {
             "name": "Monoprice S/PDIF (Toslink) Digital Optical to Digital Coaxial (RCA) Audio Converter",
             "price": 10.49,
@@ -14912,78 +14588,6 @@
             "available": true,
             "rating": 4.7,
             "num_reviews": 283
-        },
-        "29480": {
-            "name": "Monoprice Cat6A 10ft 10-Color 10-Pk Patch Cable,  UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 23.37,
-            "url": "https://www.monoprice.com/product?p_id=29480",
-            "product_id": 29480,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 525
-        },
-        "29481": {
-            "name": "Monoprice Cat6A 14ft 10-Color 10-Pk Patch Cable,  UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 28.89,
-            "url": "https://www.monoprice.com/product?p_id=29481",
-            "product_id": 29481,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 525
-        },
-        "29494": {
-            "name": "Monoprice IP66 Rated Vandal Proof 2.8-12mm Vari-focal IR IP Dome Camera (3MP HD 1/3in CMOS 24 Smart IR LEDs up to 100ft DC12V/PoE Built-in MicroSD) (Open Box)",
-            "price": 149.99,
-            "url": "https://www.monoprice.com/product?p_id=29494",
-            "product_id": 29494,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "29495": {
-            "name": "Monoprice IP66 Rated Vandal Proof 2.8mm Fixed Lens IR TVI Dome Camera (HD 1080P 24 Smart IR LEDs up to 65ft DC12V) (Open Box)",
-            "price": 29.99,
-            "url": "https://www.monoprice.com/product?p_id=29495",
-            "product_id": 29495,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "29513": {
-            "name": "Monolith by Monoprice M1060C Over Ear Closed Back Planar Magnetic Headphones",
-            "price": 299.99,
-            "url": "https://www.monoprice.com/product?p_id=29513",
-            "product_id": 29513,
-            "available": false,
-            "rating": 4.2,
-            "num_reviews": 51
-        },
-        "29514": {
-            "name": "Monolith by Monoprice M565C Over Ear Closed Back Planar Magnetic Headphones",
-            "price": 199.99,
-            "url": "https://www.monoprice.com/product?p_id=29514",
-            "product_id": 29514,
-            "available": false,
-            "rating": 4.6,
-            "num_reviews": 23
-        },
-        "29515": {
-            "name": "Monolith by Monoprice Oxygen Free Copper Braided Headphone Cable 3.5mm and Dual 2.5mm TRS - 5 feet",
-            "price": 29.99,
-            "url": "https://www.monoprice.com/product?p_id=29515",
-            "product_id": 29515,
-            "available": true,
-            "rating": 4.3,
-            "num_reviews": 10
-        },
-        "29516": {
-            "name": "Monolith by Monoprice Headphone Cable 2.5mm to 3.5mm - 6ft (Works with M1060, M1060C, M565, M565C)",
-            "price": 15.21,
-            "url": "https://www.monoprice.com/product?p_id=29516",
-            "product_id": 29516,
-            "available": true,
-            "rating": 4.5,
-            "num_reviews": 12
         },
         "2982": {
             "name": "Monoprice 50ft Coaxial Audio/Video RCA Cable M/M RG59U 75ohm (for S/PDIF, Digital Coax, Subwoofer \u0026 Composite Video)",
@@ -44544,6 +44148,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-17T07:25:58Z"
+        "timestamp": "2023-05-17T07:50:29Z"
     }
 }
