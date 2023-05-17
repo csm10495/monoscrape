@@ -10220,7 +10220,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=2157",
             "product_id": 2157,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3040
         },
@@ -11363,7 +11363,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=2318",
             "product_id": 2318,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3399
         },
@@ -18482,7 +18482,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=3415",
             "product_id": 3415,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3399
         },
@@ -37094,7 +37094,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=5015",
             "product_id": 5015,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3399
         },
@@ -38762,6 +38762,15 @@
             "available": true,
             "rating": 4.7,
             "num_reviews": 28
+        },
+        "5976": {
+            "name": "Monoprice 1 PAIR OF High-Quality Gold Plated Speaker Pin Plugs, Pin Screw Type",
+            "price": 0.99,
+            "url": "https://www.monoprice.com/product?p_id=5976",
+            "product_id": 5976,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 40
         },
         "5978": {
             "name": "Monoprice 8.0mm Professional Microphone Bulk Cable, 100ft",
@@ -40748,7 +40757,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=7234",
             "product_id": 7234,
-            "available": true,
+            "available": false,
             "rating": 4.1,
             "num_reviews": 14
         },
@@ -42773,7 +42782,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=8765",
             "product_id": 8765,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 157
         },
@@ -43387,7 +43396,7 @@
             "product_id": 9441,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 140
+            "num_reviews": 141
         },
         "9442": {
             "name": "Monoprice 10ft Premier Series 1/4-inch (TRS) Right Angle Male to Right Angle Male 16AWG Cable (Gold Plated)",
@@ -44553,6 +44562,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-17T13:27:00Z"
+        "timestamp": "2023-05-17T13:34:31Z"
     }
 }
