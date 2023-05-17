@@ -28555,7 +28555,7 @@
             "product_id": 40882,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 56
+            "num_reviews": 57
         },
         "40883": {
             "name": "Monoprice Cat6 5ft Black Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -29984,7 +29984,7 @@
             "price": 2.09,
             "url": "https://www.monoprice.com/product?p_id=41674",
             "product_id": 41674,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -30407,7 +30407,7 @@
             "price": 1.74,
             "url": "https://www.monoprice.com/product?p_id=41822",
             "product_id": 41822,
-            "available": true,
+            "available": false,
             "rating": 1.5,
             "num_reviews": 2
         },
@@ -31535,15 +31535,6 @@
             "available": true,
             "rating": 5,
             "num_reviews": 1
-        },
-        "42483": {
-            "name": "Monolith by Monoprice THX-465T THX Ultra Certified Dolby Atmos Enabled Tower Speaker (open box)",
-            "price": 389.99,
-            "url": "https://www.monoprice.com/product?p_id=42483",
-            "product_id": 42483,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
         },
         "42496": {
             "name": "Expandable Braided Cable Sock Black 1/2\"(12.7mm) x 100Ft (30.48m)",
@@ -33093,6 +33084,15 @@
             "rating": 4.7,
             "num_reviews": 56
         },
+        "43074": {
+            "name": "Monoprice Cat6 2ft White Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series  Ethernet Cable",
+            "price": 0.89,
+            "url": "https://www.monoprice.com/product?p_id=43074",
+            "product_id": 43074,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 56
+        },
         "43075": {
             "name": "Monoprice Cat6 3ft White Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
             "price": 1.43,
@@ -33557,7 +33557,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=43193",
             "product_id": 43193,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 8
         },
@@ -44598,6 +44598,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-17T18:35:00Z"
+        "timestamp": "2023-05-17T18:44:57Z"
     }
 }
