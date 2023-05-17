@@ -28562,7 +28562,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=40885",
             "product_id": 40885,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 56
         },
@@ -29012,7 +29012,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=41089",
             "product_id": 41089,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 7
         },
@@ -31766,7 +31766,7 @@
             "price": 1999.99,
             "url": "https://www.monoprice.com/product?p_id=42565",
             "product_id": 42565,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 2
         },
@@ -34142,7 +34142,7 @@
             "price": 59.98,
             "url": "https://www.monoprice.com/product?p_id=43351",
             "product_id": 43351,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 3
         },
@@ -35552,7 +35552,7 @@
         },
         "44337": {
             "name": "Monoprice Speaker Wire, CL3 Rated, 4-Conductor, 16AWG, 250ft, White",
-            "price": 107.99,
+            "price": 119.99,
             "url": "https://www.monoprice.com/product?p_id=44337",
             "product_id": 44337,
             "available": true,
@@ -35570,7 +35570,7 @@
         },
         "44339": {
             "name": "Monoprice Speaker Wire, CL3 Rated, 4-Conductor, 18AWG, 250ft, White",
-            "price": 71.99,
+            "price": 79.99,
             "url": "https://www.monoprice.com/product?p_id=44339",
             "product_id": 44339,
             "available": true,
@@ -44553,6 +44553,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-17T15:06:04Z"
+        "timestamp": "2023-05-17T15:24:05Z"
     }
 }
