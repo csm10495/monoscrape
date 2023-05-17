@@ -11113,7 +11113,7 @@
             "product_id": 2289,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "2290": {
             "name": "Monoprice Cat6 1ft Red Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -11167,7 +11167,7 @@
             "product_id": 2296,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "2297": {
             "name": "Monoprice Cat6 3ft Red Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -37078,7 +37078,7 @@
             "product_id": 5013,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "5015": {
             "name": "Monoprice Cat6 20ft White Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -43421,7 +43421,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=9447",
             "product_id": 9447,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 211
         },
@@ -43459,7 +43459,7 @@
             "product_id": 9466,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 38
+            "num_reviews": 39
         },
         "9470": {
             "name": "Monoprice USB-A to USB-A Female 3.0 Extension Cable - Active, Black, 15ft",
@@ -44544,6 +44544,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-17T07:05:36Z"
+        "timestamp": "2023-05-17T07:20:17Z"
     }
 }
