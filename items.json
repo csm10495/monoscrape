@@ -3416,7 +3416,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=13239",
             "product_id": 13239,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 167
         },
@@ -3902,7 +3902,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=13407",
             "product_id": 13407,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 167
         },
@@ -5981,7 +5981,7 @@
             "price": 129.99,
             "url": "https://www.monoprice.com/product?p_id=14567",
             "product_id": 14567,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 103
         },
@@ -6090,6 +6090,15 @@
             "url": "https://www.monoprice.com/product?p_id=14771",
             "product_id": 14771,
             "available": false,
+            "rating": 4.7,
+            "num_reviews": 92
+        },
+        "14772": {
+            "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Orange, (UL)",
+            "price": 32.99,
+            "url": "https://www.monoprice.com/product?p_id=14772",
+            "product_id": 14772,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 92
         },
@@ -7295,7 +7304,7 @@
             "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=15526",
             "product_id": 15526,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 170
         },
@@ -9212,7 +9221,7 @@
             "price": 14.18,
             "url": "https://www.monoprice.com/product?p_id=18534",
             "product_id": 18534,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 100
         },
@@ -44598,6 +44607,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-17T19:07:19Z"
+        "timestamp": "2023-05-17T19:20:11Z"
     }
 }
