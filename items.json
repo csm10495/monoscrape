@@ -27914,7 +27914,7 @@
             "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=40365",
             "product_id": 40365,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 19
         },
@@ -28406,7 +28406,7 @@
         },
         "40778": {
             "name": "Dark Matter by Monoprice 27in Gaming Monitor - FHD, 240Hz, 1ms, DisplayHDR 400, AMD FreeSync Premium, Fast IPS-Type AHVA",
-            "price": 299.99,
+            "price": 179.99,
             "url": "https://www.monoprice.com/product?p_id=40778",
             "product_id": 40778,
             "available": false,
@@ -30650,7 +30650,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=41991",
             "product_id": 41991,
-            "available": true,
+            "available": false,
             "rating": 4,
             "num_reviews": 20
         },
@@ -31550,7 +31550,7 @@
             "price": 389.99,
             "url": "https://www.monoprice.com/product?p_id=42483",
             "product_id": 42483,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -31862,7 +31862,7 @@
         },
         "42644": {
             "name": "Blackbird 4K HDMI 2.0 USB 3.0 4x1 KVM Switch, 4K@60Hz, HDR, YCbCr 4:4:4, HDCP 2.2",
-            "price": 79.99,
+            "price": 63.99,
             "url": "https://www.monoprice.com/product?p_id=42644",
             "product_id": 42644,
             "available": true,
@@ -32231,7 +32231,7 @@
         },
         "42771": {
             "name": "Dark Matter by Monoprice 27in Gaming Monitor - 16:9, 1920x1080p, FHD, 165Hz",
-            "price": 249.99,
+            "price": 149.99,
             "url": "https://www.monoprice.com/product?p_id=42771",
             "product_id": 42771,
             "available": true,
@@ -32528,7 +32528,7 @@
         },
         "42891": {
             "name": "Monoprice 32in Zero-G Curved Gaming Monitor - 1500R, 16:9, 2560x1440p, WQHD, 165Hz, HDMI, DisplayPort, VA",
-            "price": 329.99,
+            "price": 197.99,
             "url": "https://www.monoprice.com/product?p_id=42891",
             "product_id": 42891,
             "available": true,
@@ -32645,7 +32645,7 @@
         },
         "42965": {
             "name": "Monoprice Cat6A 2ft Blue Component Level Patch Cable, Double Shielded (S/FTP), 30AWG, 10G, CM Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 4.49,
+            "price": 3.81,
             "url": "https://www.monoprice.com/product?p_id=42965",
             "product_id": 42965,
             "available": true,
@@ -32726,7 +32726,7 @@
         },
         "42976": {
             "name": "Monoprice Cat6A 7ft Black Component Level Patch Cable, Double Shielded (S/FTP), 30AWG, 10G, CM Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 7.49,
+            "price": 6.36,
             "url": "https://www.monoprice.com/product?p_id=42976",
             "product_id": 42976,
             "available": true,
@@ -32825,7 +32825,7 @@
         },
         "42987": {
             "name": "Monoprice Cat6A 15ft White Component Level Patch Cable, Double Shielded (S/FTP), 30AWG, 10G, CM Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 9.09,
+            "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=42987",
             "product_id": 42987,
             "available": true,
@@ -32855,7 +32855,7 @@
             "price": 18.99,
             "url": "https://www.monoprice.com/product?p_id=42990",
             "product_id": 42990,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 5
         },
@@ -34013,7 +34013,7 @@
         },
         "43325": {
             "name": "Monoprice USB4 Type-C Gen 3x2 40Gbps 100W, Black, 1m (3.28ft)",
-            "price": 19.99,
+            "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=43325",
             "product_id": 43325,
             "available": true,
@@ -34292,7 +34292,7 @@
         },
         "43387": {
             "name": "Pure Outdoor by Monoprice Vacuum-Sealed 12 oz. Wide-Mouth Kids' Water Bottle with Straw Lid, Blue",
-            "price": 14.99,
+            "price": 8.98,
             "url": "https://www.monoprice.com/product?p_id=43387",
             "product_id": 43387,
             "available": false,
@@ -34778,7 +34778,7 @@
         },
         "43639": {
             "name": "Pickleball Paddles, Set of 2 Graphite Rackets, Lightweight, Beginner to Professional, 4 Pickleballs Balls, with Portable Bag, Indoor, Outdoor, Men, Women",
-            "price": 45.99,
+            "price": 41.39,
             "url": "https://www.monoprice.com/product?p_id=43639",
             "product_id": 43639,
             "available": true,
@@ -34868,7 +34868,7 @@
         },
         "43701": {
             "name": "Monoprice Cat6 500ft Black CMP UL Bulk Cable, TAA, Solid (w/spine), UTP, 23AWG, 550MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
-            "price": 169.99,
+            "price": 152.99,
             "url": "https://www.monoprice.com/product?p_id=43701",
             "product_id": 43701,
             "available": true,
@@ -44607,6 +44607,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-17T17:28:46Z"
+        "timestamp": "2023-05-17T17:34:50Z"
     }
 }
