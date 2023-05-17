@@ -11444,7 +11444,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=2375",
             "product_id": 2375,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 97
         },
@@ -43376,9 +43376,9 @@
             "price": 7.49,
             "url": "https://www.monoprice.com/product?p_id=9440",
             "product_id": 9440,
-            "available": false,
+            "available": true,
             "rating": 4.8,
-            "num_reviews": 140
+            "num_reviews": 141
         },
         "9441": {
             "name": "Monoprice 6ft Premier Series 1/4-inch (TRS) Right Angle Male to Right Angle Male 16AWG Cable (Gold Plated)",
@@ -44553,6 +44553,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-17T15:29:42Z"
+        "timestamp": "2023-05-17T15:35:57Z"
     }
 }
