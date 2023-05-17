@@ -11689,7 +11689,7 @@
             "product_id": 24187,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 504
+            "num_reviews": 505
         },
         "24188": {
             "name": "Monoprice 4K Slim Certified Premium High Speed HDMI Cable 8ft - 18Gbps Black",
@@ -11698,7 +11698,7 @@
             "product_id": 24188,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 504
+            "num_reviews": 505
         },
         "24190": {
             "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 18AWG, 10A/1250W, 3-Prong, SJT, Black, 1ft",
@@ -14009,7 +14009,7 @@
             "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=27850",
             "product_id": 27850,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 17
         },
@@ -14558,7 +14558,7 @@
             "price": 129.99,
             "url": "https://www.monoprice.com/product?p_id=29406",
             "product_id": 29406,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 59
         },
@@ -44616,6 +44616,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-17T20:30:30Z"
+        "timestamp": "2023-05-17T20:35:04Z"
     }
 }
