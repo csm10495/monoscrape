@@ -20959,7 +20959,7 @@
             "product_id": 35535,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "35557": {
             "name": "STITCH by Monoprice Smart In-Wall On/Off Light Switch, Works with Alexa and Google Home for Touchless Voice Control, No Hub Required",
@@ -44544,6 +44544,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-17T03:35:27Z"
+        "timestamp": "2023-05-17T03:44:25Z"
     }
 }
