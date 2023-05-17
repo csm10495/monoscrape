@@ -16542,6 +16542,15 @@
             "rating": 4.9,
             "num_reviews": 231
         },
+        "31349": {
+            "name": "Monoprice Entegrade Series Cat7 Double Shielded (S/FTP) Ethernet Patch Cable - Snagless RJ45, 600MHz, 10G, 26AWG, 10ft, Green",
+            "price": 7.49,
+            "url": "https://www.monoprice.com/product?p_id=31349",
+            "product_id": 31349,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 231
+        },
         "31353": {
             "name": "Monoprice Cat7 15ft Black Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
             "price": 9.99,
@@ -16765,7 +16774,7 @@
             "product_id": 33188,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "33189": {
             "name": "Monoprice Cat6A 20ft Black 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -16774,7 +16783,7 @@
             "product_id": 33189,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "33191": {
             "name": "Monoprice Cat6A 20ft White 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -16783,7 +16792,7 @@
             "product_id": 33191,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "33192": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 20ft, Red, 5-Pack",
@@ -16792,7 +16801,7 @@
             "product_id": 33192,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "33198": {
             "name": "Monoprice Cat6A 25ft Blue 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -16801,7 +16810,7 @@
             "product_id": 33198,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "33199": {
             "name": "Monoprice Cat6A 25ft Black 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -16810,7 +16819,7 @@
             "product_id": 33199,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "33201": {
             "name": "Monoprice Cat6A 25ft White 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -16819,7 +16828,7 @@
             "product_id": 33201,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "33215": {
             "name": "Monoprice Cat6A 30ft Blue 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -16828,7 +16837,7 @@
             "product_id": 33215,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "33216": {
             "name": "Monoprice Cat6A 30ft Black 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -16837,7 +16846,7 @@
             "product_id": 33216,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "33218": {
             "name": "Monoprice Cat6A 30ft White 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -16846,7 +16855,7 @@
             "product_id": 33218,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "33225": {
             "name": "Monoprice Cat6A 50ft Blue 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -16855,7 +16864,7 @@
             "product_id": 33225,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "33226": {
             "name": "Monoprice Cat6A 50ft Black 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -16864,7 +16873,7 @@
             "product_id": 33226,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "33228": {
             "name": "Monoprice Cat6A 50ft White 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -16873,7 +16882,7 @@
             "product_id": 33228,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "33234": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, UTP, Pure Bare Copper Wire, 30AWG, 50ft, 5-Color, 5-Pack",
@@ -16882,7 +16891,7 @@
             "product_id": 33234,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "33236": {
             "name": "Monoprice Cat6A 25ft Blue 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -16891,7 +16900,7 @@
             "product_id": 33236,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "33237": {
             "name": "Monoprice Cat6A 20ft Black 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -16900,7 +16909,7 @@
             "product_id": 33237,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "33239": {
             "name": "Monoprice Cat6A 20ft White 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -16909,7 +16918,7 @@
             "product_id": 33239,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "3324": {
             "name": "Monoprice High Quality Banana Binding Post Two-Piece Inset Wall Plate for 1 Speaker - Coupler Type",
@@ -16927,7 +16936,7 @@
             "product_id": 33246,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "33247": {
             "name": "Monoprice Cat6A 50ft Black 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -16936,7 +16945,7 @@
             "product_id": 33247,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "3325": {
             "name": "Monoprice High Quality Banana Binding Post Two-Piece Inset Wall Plate for 2 Speakers - Coupler Type",
@@ -16954,7 +16963,7 @@
             "product_id": 33256,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "33257": {
             "name": "Monoprice Cat6A 30ft Black 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -16963,7 +16972,7 @@
             "product_id": 33257,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "3326": {
             "name": "Monoprice High Quality Banana Binding Post Two-Piece Inset Wall Plate for 4 Speakers - Coupler Type",
@@ -16981,7 +16990,7 @@
             "product_id": 33267,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "33268": {
             "name": "Monoprice Cat6A 25ft Gray 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -16990,7 +16999,7 @@
             "product_id": 33268,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "33269": {
             "name": "Monoprice Cat6A 25ft White 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -16999,7 +17008,7 @@
             "product_id": 33269,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "33270": {
             "name": "Monoprice Cat6A 25ft Red 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -17008,7 +17017,7 @@
             "product_id": 33270,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "33271": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, 550MHz, UTP, Pure Bare Copper Wire, 10G, 30AWG, 25ft, Green, 10-Pack",
@@ -17017,7 +17026,7 @@
             "product_id": 33271,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "33274": {
             "name": "Monoprice Cat6A 25ft Purple 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -17026,7 +17035,7 @@
             "product_id": 33274,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "33275": {
             "name": "Monoprice Cat6A 25ft 10-Color 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -17035,7 +17044,7 @@
             "product_id": 33275,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "33304": {
             "name": "Monolith by Monoprice Liquid Spark Headphone Amplifier by Alex Cavalli",
@@ -17125,7 +17134,7 @@
             "product_id": 33410,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "3342": {
             "name": "Monoprice Commercial Series High Speed HDMI Extension Cable - 4K@24Hz, 10.2Gbps, 24AWG, CL2, 6ft, Black",
@@ -18005,7 +18014,7 @@
             "price": 129.99,
             "url": "https://www.monoprice.com/product?p_id=33829",
             "product_id": 33829,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 69
         },
@@ -18752,7 +18761,7 @@
             "price": 26.63,
             "url": "https://www.monoprice.com/product?p_id=34212",
             "product_id": 34212,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 1707
         },
@@ -21400,7 +21409,7 @@
             "product_id": 36200,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "36201": {
             "name": "Monoprice Cat6A 5ft Pink 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -21409,7 +21418,7 @@
             "product_id": 36201,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "36202": {
             "name": "Monoprice Cat6A 7ft Pink 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -21418,7 +21427,7 @@
             "product_id": 36202,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 525
+            "num_reviews": 529
         },
         "36208": {
             "name": "Monoprice Cat6 3ft Black Outdoor Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Molded Snagless RJ45, Zeroboot Series Ethernet Cable",
@@ -22930,7 +22939,7 @@
             "product_id": 38316,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 263
+            "num_reviews": 265
         },
         "38317": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Blue",
@@ -22948,7 +22957,7 @@
             "product_id": 38318,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 263
+            "num_reviews": 265
         },
         "38320": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Pink",
@@ -23333,7 +23342,7 @@
             "price": 18.99,
             "url": "https://www.monoprice.com/product?p_id=38541",
             "product_id": 38541,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 15
         },
@@ -23784,8 +23793,8 @@
             "url": "https://www.monoprice.com/product?p_id=38791",
             "product_id": 38791,
             "available": true,
-            "rating": 4.4,
-            "num_reviews": 84
+            "rating": 4.5,
+            "num_reviews": 86
         },
         "38792": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 3ft, Black",
@@ -24027,8 +24036,8 @@
             "url": "https://www.monoprice.com/product?p_id=38822",
             "product_id": 38822,
             "available": false,
-            "rating": 4.4,
-            "num_reviews": 84
+            "rating": 4.5,
+            "num_reviews": 86
         },
         "38823": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, Black, 3ft+6ft+10ft Multipack",
@@ -24062,7 +24071,7 @@
             "price": 18.36,
             "url": "https://www.monoprice.com/product?p_id=38826",
             "product_id": 38826,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 84
         },
@@ -24602,7 +24611,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=38917",
             "product_id": 38917,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 21
         },
@@ -26017,7 +26026,7 @@
             "product_id": 39542,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13603
+            "num_reviews": 13604
         },
         "39543": {
             "name": "Monoprice 4K High Speed HDMI Cable 3ft - 18Gbps Black - 5 Pack",
@@ -27005,7 +27014,7 @@
             "price": 3.39,
             "url": "https://www.monoprice.com/product?p_id=39917",
             "product_id": 39917,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1009
         },
@@ -44544,6 +44553,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-17T12:43:18Z"
+        "timestamp": "2023-05-17T12:59:26Z"
     }
 }
