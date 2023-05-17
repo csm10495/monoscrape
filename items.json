@@ -2302,7 +2302,7 @@
             "product_id": 12235,
             "available": true,
             "rating": 4,
-            "num_reviews": 592
+            "num_reviews": 593
         },
         "12239": {
             "name": "Monoprice 4.5ft USB 2.0 A Male to Micro B Male 30/20 AWG Fast Charge / Security Cable",
@@ -4500,15 +4500,6 @@
             "rating": 4.8,
             "num_reviews": 250
         },
-        "13589": {
-            "name": "Monoprice 4K Slim High Speed HDMI Cable 3ft - 18Gbps Active Silver",
-            "price": 9.58,
-            "url": "https://www.monoprice.com/product?p_id=13589",
-            "product_id": 13589,
-            "available": false,
-            "rating": 4.2,
-            "num_reviews": 384
-        },
         "13590": {
             "name": "Monoprice 4K Slim High Speed HDMI Cable 6ft - 18Gbps Active Black",
             "price": 16.14,
@@ -4721,7 +4712,7 @@
             "price": 44.99,
             "url": "https://www.monoprice.com/product?p_id=13679",
             "product_id": 13679,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 35
         },
@@ -7488,15 +7479,6 @@
             "rating": 4.4,
             "num_reviews": 41
         },
-        "15669": {
-            "name": "Monoprice Cat6A RJ-45 Toolless 180-Degree Keystone, Orange",
-            "price": 2.49,
-            "url": "https://www.monoprice.com/product?p_id=15669",
-            "product_id": 15669,
-            "available": false,
-            "rating": 4.4,
-            "num_reviews": 41
-        },
         "15670": {
             "name": "Monoprice Cat6A RJ-45 Toolless 180-Degree Keystone, Yellow",
             "price": 1.86,
@@ -8099,15 +8081,6 @@
             "available": false,
             "rating": 3.5,
             "num_reviews": 4
-        },
-        "15968": {
-            "name": "Monoprice Cat5e RJ-45 FTP 90-Degree Shielded Keystone, 110 IDC, Black",
-            "price": 1.01,
-            "url": "https://www.monoprice.com/product?p_id=15968",
-            "product_id": 15968,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 1
         },
         "15984": {
             "name": "Monoprice Select USB Mini Wall Charger, 1-Port, 2.4A Output for iPhone, Android, and Galaxy Devices",
@@ -44625,6 +44598,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-17T00:34:55Z"
+        "timestamp": "2023-05-17T01:56:19Z"
     }
 }
