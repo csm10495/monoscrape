@@ -122,7 +122,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=10147",
             "product_id": 10147,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 159
         },
@@ -200,7 +200,7 @@
         },
         "10320": {
             "name": "Monoprice 3G SDI 4x1 Switch",
-            "price": 116.99,
+            "price": 70.19,
             "url": "https://www.monoprice.com/product?p_id=10320",
             "product_id": 10320,
             "available": true,
@@ -635,7 +635,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=11148",
             "product_id": 11148,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 97
         },
@@ -1382,7 +1382,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=11335",
             "product_id": 11335,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 461
         },
@@ -1658,7 +1658,7 @@
         },
         "11379": {
             "name": "Monoprice FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 75ft, White",
-            "price": 16.99,
+            "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=11379",
             "product_id": 11379,
             "available": true,
@@ -2117,7 +2117,7 @@
         },
         "11948": {
             "name": "Monoprice Premium Home Theater Center Channel Speaker, Black",
-            "price": 25.49,
+            "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=11948",
             "product_id": 11948,
             "available": true,
@@ -2171,7 +2171,7 @@
         },
         "12094": {
             "name": "Monoprice Recessed HDMI Wall Plate, with 1* HDMI F/F Adapter \u0026 1*RJ45 Cat5e Coupler",
-            "price": 7.99,
+            "price": 5.59,
             "url": "https://www.monoprice.com/product?p_id=12094",
             "product_id": 12094,
             "available": true,
@@ -2180,7 +2180,7 @@
         },
         "12097": {
             "name": "Monoprice Recessed HDMI Wall Plate, with 1* HDMI F/F Adapter, 1*RJ45 Cat5e Coupler \u0026 1* F Connector, Gold Plated",
-            "price": 8.49,
+            "price": 5.94,
             "url": "https://www.monoprice.com/product?p_id=12097",
             "product_id": 12097,
             "available": true,
@@ -3902,7 +3902,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=13407",
             "product_id": 13407,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 167
         },
@@ -4280,7 +4280,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=13538",
             "product_id": 13538,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -4430,7 +4430,7 @@
         },
         "13562": {
             "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, U/FTP, CM, Pure Bare Copper Wire, 23AWG, 250ft, Gray",
-            "price": 47.39,
+            "price": 78.99,
             "url": "https://www.monoprice.com/product?p_id=13562",
             "product_id": 13562,
             "available": true,
@@ -6215,7 +6215,7 @@
             "price": 2.79,
             "url": "https://www.monoprice.com/product?p_id=14804",
             "product_id": 14804,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -6881,7 +6881,7 @@
             "price": 33.99,
             "url": "https://www.monoprice.com/product?p_id=15170",
             "product_id": 15170,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 529
         },
@@ -7508,7 +7508,7 @@
         },
         "15693": {
             "name": "Monoprice Entegrade Series Cat6 RJ-45 FTP Toolless 180-Degree Slim Style Shielded Keystone Jack",
-            "price": 2.99,
+            "price": 2.09,
             "url": "https://www.monoprice.com/product?p_id=15693",
             "product_id": 15693,
             "available": true,
@@ -7733,7 +7733,7 @@
         },
         "15827": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 0.5kg/spool, Black",
-            "price": 8.99,
+            "price": 5.39,
             "url": "https://www.monoprice.com/product?p_id=15827",
             "product_id": 15827,
             "available": false,
@@ -7868,7 +7868,7 @@
         },
         "15874": {
             "name": "Monoprice 12 Outlet Rotating Power Strip Surge Protector Block 10ft Cord, 4320 Joules, Clamping Voltage 330V",
-            "price": 44.99,
+            "price": 40.49,
             "url": "https://www.monoprice.com/product?p_id=15874",
             "product_id": 15874,
             "available": true,
@@ -8483,7 +8483,7 @@
             "price": 219.99,
             "url": "https://www.monoprice.com/product?p_id=16174",
             "product_id": 16174,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 156
         },
@@ -8609,7 +8609,7 @@
             "price": 74.49,
             "url": "https://www.monoprice.com/product?p_id=16189",
             "product_id": 16189,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 60
         },
@@ -9488,7 +9488,7 @@
         },
         "18674": {
             "name": "Stage Right by Monoprice 15ft XLR Male to XLR Female 16AWG Cable (Gold Plated) [Microphone \u0026 Interconnect]",
-            "price": 10.99,
+            "price": 8.24,
             "url": "https://www.monoprice.com/product?p_id=18674",
             "product_id": 18674,
             "available": true,
@@ -9551,7 +9551,7 @@
         },
         "18785": {
             "name": "Monoprice Blackbird 4K Mini 1x4 HDMI Splitter",
-            "price": 27.99,
+            "price": 20.99,
             "url": "https://www.monoprice.com/product?p_id=18785",
             "product_id": 18785,
             "available": true,
@@ -44589,6 +44589,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-17T16:54:41Z"
+        "timestamp": "2023-05-17T17:05:59Z"
     }
 }
