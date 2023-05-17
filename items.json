@@ -16430,7 +16430,7 @@
             "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=31264",
             "product_id": 31264,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 264
         },
@@ -17591,7 +17591,7 @@
             "price": 9.49,
             "url": "https://www.monoprice.com/product?p_id=33671",
             "product_id": 33671,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 5
         },
@@ -18709,7 +18709,7 @@
             "product_id": 34205,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 505
+            "num_reviews": 504
         },
         "34206": {
             "name": "Monoprice 4K Slim Certified Premium High Speed HDMI Cable 6ft - 18Gbps Black - 5 Pack",
@@ -20239,7 +20239,7 @@
             "product_id": 34840,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 505
+            "num_reviews": 504
         },
         "34841": {
             "name": "Monoprice 4K Slim Certified Premium High Speed HDMI Cable 3m - 18Gbps Black - 2 Pack",
@@ -20248,7 +20248,7 @@
             "product_id": 34841,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 504
+            "num_reviews": 505
         },
         "34849": {
             "name": "SlimRun AV HDR High Speed Cable for HDMI-Enabled Devices - 4K @ 60Hz, HDR, 18Gbps, Fiber Optic, AOC, YCbCr 4:4:4, 7m, Black",
@@ -22975,7 +22975,7 @@
             "product_id": 38321,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 265
+            "num_reviews": 264
         },
         "38322": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Purple",
@@ -24009,8 +24009,8 @@
             "url": "https://www.monoprice.com/product?p_id=38818",
             "product_id": 38818,
             "available": false,
-            "rating": 4.5,
-            "num_reviews": 86
+            "rating": 4.4,
+            "num_reviews": 84
         },
         "38819": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 1.5ft, Red",
@@ -26852,7 +26852,7 @@
             "price": 4.54,
             "url": "https://www.monoprice.com/product?p_id=39841",
             "product_id": 39841,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 163
         },
@@ -44598,6 +44598,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-17T21:34:48Z"
+        "timestamp": "2023-05-17T21:44:39Z"
     }
 }
