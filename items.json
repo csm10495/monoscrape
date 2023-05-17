@@ -10253,7 +10253,7 @@
         },
         "21591": {
             "name": "Monoprice Sit-Stand Dual-Motor Height Adjustable Table Desk Frame, Electric, Gray",
-            "price": 319.99,
+            "price": 191.99,
             "url": "https://www.monoprice.com/product?p_id=21591",
             "product_id": 21591,
             "available": true,
@@ -10748,7 +10748,7 @@
         },
         "21841": {
             "name": "Monoprice Cable Wrap with Hook and Loop Fastener, 32mm Diameter, 20 Feet Long",
-            "price": 7.99,
+            "price": 4.79,
             "url": "https://www.monoprice.com/product?p_id=21841",
             "product_id": 21841,
             "available": true,
@@ -12620,7 +12620,7 @@
         },
         "24443": {
             "name": "Monoprice USB 3.1 Type-C to DisplayPort Cable - 5Gbps, Active, 4K@60Hz, Black, 3ft",
-            "price": 13.48,
+            "price": 17.99,
             "url": "https://www.monoprice.com/product?p_id=24443",
             "product_id": 24443,
             "available": true,
@@ -12755,7 +12755,7 @@
         },
         "24528": {
             "name": "Netis 300Mbps Wireless N Router with 3 High Gain Antennas",
-            "price": 11.99,
+            "price": 8.39,
             "url": "https://www.monoprice.com/product?p_id=24528",
             "product_id": 24528,
             "available": true,
@@ -13880,7 +13880,7 @@
         },
         "27774": {
             "name": "Workstream by Monoprice Electric Height Adjustable Sit-Stand Workstation Desk Converter, 36in",
-            "price": 279.99,
+            "price": 251.99,
             "url": "https://www.monoprice.com/product?p_id=27774",
             "product_id": 27774,
             "available": true,
@@ -44589,6 +44589,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-17T17:05:59Z"
+        "timestamp": "2023-05-17T17:21:21Z"
     }
 }
