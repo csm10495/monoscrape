@@ -882,6 +882,15 @@
             "rating": 4.8,
             "num_reviews": 461
         },
+        "11253": {
+            "name": "Monoprice FLEXboot Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 14ft, Red",
+            "price": 3.49,
+            "url": "https://www.monoprice.com/product?p_id=11253",
+            "product_id": 11253,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 461
+        },
         "11254": {
             "name": "Monoprice Cat5e 14ft White Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
             "price": 3.59,
@@ -2036,7 +2045,7 @@
         },
         "11935": {
             "name": "Monoprice Speaker Wire, Flat CL2 Rated, 2-Conductor, 16AWG, 50ft",
-            "price": 22.49,
+            "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=11935",
             "product_id": 11935,
             "available": false,
@@ -2045,7 +2054,7 @@
         },
         "11936": {
             "name": "Monoprice Speaker Wire, Flat CL2 Rated, 2-Conductor, 16AWG, 100ft",
-            "price": 39.99,
+            "price": 35.99,
             "url": "https://www.monoprice.com/product?p_id=11936",
             "product_id": 11936,
             "available": true,
@@ -2054,7 +2063,7 @@
         },
         "11937": {
             "name": "Monoprice Speaker Wire, Flat CL2 Rated, 2-Conductor, 16AWG, 250ft",
-            "price": 58.49,
+            "price": 64.99,
             "url": "https://www.monoprice.com/product?p_id=11937",
             "product_id": 11937,
             "available": true,
@@ -4727,7 +4736,7 @@
         },
         "13707": {
             "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 12AWG, 50ft, Black",
-            "price": 49.99,
+            "price": 26.24,
             "url": "https://www.monoprice.com/product?p_id=13707",
             "product_id": 13707,
             "available": true,
@@ -4736,7 +4745,7 @@
         },
         "13708": {
             "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 12AWG, 100ft, Black",
-            "price": 79.99,
+            "price": 42.85,
             "url": "https://www.monoprice.com/product?p_id=13708",
             "product_id": 13708,
             "available": true,
@@ -4745,7 +4754,7 @@
         },
         "13709": {
             "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 12AWG, 250ft, Black",
-            "price": 154.99,
+            "price": 174.99,
             "url": "https://www.monoprice.com/product?p_id=13709",
             "product_id": 13709,
             "available": false,
@@ -4754,7 +4763,7 @@
         },
         "13710": {
             "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 12AWG, 500ft, Black",
-            "price": 349.99,
+            "price": 233.19,
             "url": "https://www.monoprice.com/product?p_id=13710",
             "product_id": 13710,
             "available": true,
@@ -4763,7 +4772,7 @@
         },
         "13712": {
             "name": "Monoprice Speaker Wire, CMP Rated, 4-Conductor, 12AWG, 100ft, Black",
-            "price": 114.99,
+            "price": 169.99,
             "url": "https://www.monoprice.com/product?p_id=13712",
             "product_id": 13712,
             "available": false,
@@ -4772,7 +4781,7 @@
         },
         "13713": {
             "name": "Monoprice Speaker Wire, CMP Rated, 4-Conductor, 12AWG, 250ft, Black",
-            "price": 309.99,
+            "price": 297.99,
             "url": "https://www.monoprice.com/product?p_id=13713",
             "product_id": 13713,
             "available": true,
@@ -4781,7 +4790,7 @@
         },
         "13715": {
             "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 14AWG, 50ft, Black",
-            "price": 34.99,
+            "price": 14.24,
             "url": "https://www.monoprice.com/product?p_id=13715",
             "product_id": 13715,
             "available": true,
@@ -4790,7 +4799,7 @@
         },
         "13716": {
             "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 14AWG, 100ft, Black",
-            "price": 44.49,
+            "price": 31.14,
             "url": "https://www.monoprice.com/product?p_id=13716",
             "product_id": 13716,
             "available": true,
@@ -4799,7 +4808,7 @@
         },
         "13717": {
             "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 14AWG, 250ft, Black",
-            "price": 129.99,
+            "price": 90.99,
             "url": "https://www.monoprice.com/product?p_id=13717",
             "product_id": 13717,
             "available": true,
@@ -4808,7 +4817,7 @@
         },
         "13718": {
             "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 14AWG, 500ft, Black",
-            "price": 199.99,
+            "price": 244.99,
             "url": "https://www.monoprice.com/product?p_id=13718",
             "product_id": 13718,
             "available": false,
@@ -4817,7 +4826,7 @@
         },
         "13719": {
             "name": "Monoprice Speaker Wire, CMP Rated, 4-Conductor, 14AWG, 100ft, Black",
-            "price": 71.99,
+            "price": 94.99,
             "url": "https://www.monoprice.com/product?p_id=13719",
             "product_id": 13719,
             "available": true,
@@ -4826,7 +4835,7 @@
         },
         "13720": {
             "name": "Monoprice Speaker Wire, CMP Rated, 4-Conductor, 14AWG, 250ft, Black",
-            "price": 181.49,
+            "price": 166.99,
             "url": "https://www.monoprice.com/product?p_id=13720",
             "product_id": 13720,
             "available": true,
@@ -4835,7 +4844,7 @@
         },
         "13721": {
             "name": "Monoprice Speaker Wire, CMP Rated, 4-Conductor, 14AWG, 500ft, Black",
-            "price": 331.99,
+            "price": 332.99,
             "url": "https://www.monoprice.com/product?p_id=13721",
             "product_id": 13721,
             "available": true,
@@ -4844,7 +4853,7 @@
         },
         "13722": {
             "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 16AWG, 50ft, Black",
-            "price": 16.99,
+            "price": 9.33,
             "url": "https://www.monoprice.com/product?p_id=13722",
             "product_id": 13722,
             "available": true,
@@ -4853,7 +4862,7 @@
         },
         "13723": {
             "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 16AWG, 100ft, Black",
-            "price": 34.49,
+            "price": 31.04,
             "url": "https://www.monoprice.com/product?p_id=13723",
             "product_id": 13723,
             "available": true,
@@ -4862,7 +4871,7 @@
         },
         "13724": {
             "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 16AWG, 250ft, Black",
-            "price": 63.99,
+            "price": 44.79,
             "url": "https://www.monoprice.com/product?p_id=13724",
             "product_id": 13724,
             "available": true,
@@ -4871,7 +4880,7 @@
         },
         "13725": {
             "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 16AWG, 500ft, Black",
-            "price": 121.49,
+            "price": 174.99,
             "url": "https://www.monoprice.com/product?p_id=13725",
             "product_id": 13725,
             "available": false,
@@ -4880,7 +4889,7 @@
         },
         "13726": {
             "name": "Monoprice Speaker Wire, CMP Rated, 4-Conductor, 16AWG, 100ft, Black",
-            "price": 59.99,
+            "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=13726",
             "product_id": 13726,
             "available": true,
@@ -4889,7 +4898,7 @@
         },
         "13727": {
             "name": "Monoprice Speaker Wire, CMP Rated, 4-Conductor, 16AWG, 250ft, Black",
-            "price": 129.99,
+            "price": 77.99,
             "url": "https://www.monoprice.com/product?p_id=13727",
             "product_id": 13727,
             "available": true,
@@ -4898,7 +4907,7 @@
         },
         "13728": {
             "name": "Monoprice Speaker Wire, CMP Rated, 4-Conductor, 16AWG, 500ft, Black",
-            "price": 229.99,
+            "price": 227.99,
             "url": "https://www.monoprice.com/product?p_id=13728",
             "product_id": 13728,
             "available": false,
@@ -4907,7 +4916,7 @@
         },
         "13729": {
             "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 18AWG, 50ft, Black",
-            "price": 20.49,
+            "price": 12.28,
             "url": "https://www.monoprice.com/product?p_id=13729",
             "product_id": 13729,
             "available": true,
@@ -4925,7 +4934,7 @@
         },
         "13730": {
             "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 18AWG, 100ft, Black",
-            "price": 28.49,
+            "price": 19.94,
             "url": "https://www.monoprice.com/product?p_id=13730",
             "product_id": 13730,
             "available": true,
@@ -4934,7 +4943,7 @@
         },
         "13731": {
             "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 18AWG, 250ft, Black",
-            "price": 50.99,
+            "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=13731",
             "product_id": 13731,
             "available": false,
@@ -4943,7 +4952,7 @@
         },
         "13732": {
             "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 18AWG, 500ft, Black",
-            "price": 99.99,
+            "price": 139.99,
             "url": "https://www.monoprice.com/product?p_id=13732",
             "product_id": 13732,
             "available": true,
@@ -4952,7 +4961,7 @@
         },
         "13733": {
             "name": "Monoprice Speaker Wire, CMP Rated, 4-Conductor, 18AWG, 100ft, Black",
-            "price": 40.49,
+            "price": 28.34,
             "url": "https://www.monoprice.com/product?p_id=13733",
             "product_id": 13733,
             "available": true,
@@ -4961,7 +4970,7 @@
         },
         "13734": {
             "name": "Monoprice Speaker Wire, CMP Rated, 4-Conductor, 18AWG, 250ft, Black",
-            "price": 109.99,
+            "price": 96.99,
             "url": "https://www.monoprice.com/product?p_id=13734",
             "product_id": 13734,
             "available": false,
@@ -4970,7 +4979,7 @@
         },
         "13735": {
             "name": "Monoprice Speaker Wire, CMP Rated, 4-Conductor, 18AWG, 500ft, Black",
-            "price": 179.99,
+            "price": 192.99,
             "url": "https://www.monoprice.com/product?p_id=13735",
             "product_id": 13735,
             "available": true,
@@ -6075,6 +6084,15 @@
             "rating": 4.7,
             "num_reviews": 92
         },
+        "14772": {
+            "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Orange, (UL)",
+            "price": 39.99,
+            "url": "https://www.monoprice.com/product?p_id=14772",
+            "product_id": 14772,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 92
+        },
         "14774": {
             "name": "Monoprice Cat5e 250ft Black CMR UL Bulk Cable, UTP, Solid, 24AWG, 350MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
             "price": 20.98,
@@ -6473,7 +6491,7 @@
         },
         "14915": {
             "name": "Monoprice Speaker Wire, Select, 2-Conductor, 16AWG, 50ft",
-            "price": 6.99,
+            "price": 4.89,
             "url": "https://www.monoprice.com/product?p_id=14915",
             "product_id": 14915,
             "available": true,
@@ -6482,7 +6500,7 @@
         },
         "14916": {
             "name": "Monoprice Speaker Wire, Select, 2-Conductor, 16AWG, 100ft",
-            "price": 19.99,
+            "price": 12.24,
             "url": "https://www.monoprice.com/product?p_id=14916",
             "product_id": 14916,
             "available": true,
@@ -6491,7 +6509,7 @@
         },
         "14917": {
             "name": "Monoprice Speaker Wire, Select, 2-Conductor, 14AWG, 50ft",
-            "price": 14.99,
+            "price": 7.49,
             "url": "https://www.monoprice.com/product?p_id=14917",
             "product_id": 14917,
             "available": true,
@@ -6500,7 +6518,7 @@
         },
         "14918": {
             "name": "Monoprice Speaker Wire, Select, 2-Conductor, 14AWG, 100ft",
-            "price": 29.99,
+            "price": 14.96,
             "url": "https://www.monoprice.com/product?p_id=14918",
             "product_id": 14918,
             "available": true,
@@ -7130,7 +7148,7 @@
         },
         "15519": {
             "name": "Monoprice Speaker Wire, Braided with Banana Plugs, 2-Conductor, 14AWG, 3ft",
-            "price": 12.24,
+            "price": 10.4,
             "url": "https://www.monoprice.com/product?p_id=15519",
             "product_id": 15519,
             "available": true,
@@ -7139,7 +7157,7 @@
         },
         "15520": {
             "name": "Monoprice Speaker Wire, Braided with Banana Plugs, 2-Conductor, 14AWG, 6ft",
-            "price": 14.2,
+            "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=15520",
             "product_id": 15520,
             "available": true,
@@ -8093,7 +8111,7 @@
         },
         "16075": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 18AWG, 1000ft, White",
-            "price": 149.99,
+            "price": 209.99,
             "url": "https://www.monoprice.com/product?p_id=16075",
             "product_id": 16075,
             "available": true,
@@ -8102,7 +8120,7 @@
         },
         "16077": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 18AWG, 1000ft, White",
-            "price": 255.49,
+            "price": 239.99,
             "url": "https://www.monoprice.com/product?p_id=16077",
             "product_id": 16077,
             "available": false,
@@ -8111,7 +8129,7 @@
         },
         "16079": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 16AWG, 1000ft, White",
-            "price": 209.99,
+            "price": 146.99,
             "url": "https://www.monoprice.com/product?p_id=16079",
             "product_id": 16079,
             "available": true,
@@ -8129,7 +8147,7 @@
         },
         "16081": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 16AWG, 1000ft, White",
-            "price": 379.99,
+            "price": 399.99,
             "url": "https://www.monoprice.com/product?p_id=16081",
             "product_id": 16081,
             "available": false,
@@ -8147,7 +8165,7 @@
         },
         "16083": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 14AWG, 1000ft, White",
-            "price": 329.99,
+            "price": 349.99,
             "url": "https://www.monoprice.com/product?p_id=16083",
             "product_id": 16083,
             "available": true,
@@ -8165,7 +8183,7 @@
         },
         "16086": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 12AWG, 1000ft, White",
-            "price": 529.99,
+            "price": 419.99,
             "url": "https://www.monoprice.com/product?p_id=16086",
             "product_id": 16086,
             "available": true,
@@ -8336,7 +8354,7 @@
         },
         "16172": {
             "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 18AWG, 1000ft, Black",
-            "price": 119.99,
+            "price": 279.99,
             "url": "https://www.monoprice.com/product?p_id=16172",
             "product_id": 16172,
             "available": true,
@@ -8345,7 +8363,7 @@
         },
         "16173": {
             "name": "Monoprice Speaker Wire, CMP Rated, 4-Conductor, 18AWG, 1000ft, Black",
-            "price": 309.99,
+            "price": 384.99,
             "url": "https://www.monoprice.com/product?p_id=16173",
             "product_id": 16173,
             "available": false,
@@ -8354,7 +8372,7 @@
         },
         "16174": {
             "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 16AWG, 1000ft, Black",
-            "price": 219.99,
+            "price": 349.99,
             "url": "https://www.monoprice.com/product?p_id=16174",
             "product_id": 16174,
             "available": false,
@@ -8363,7 +8381,7 @@
         },
         "16175": {
             "name": "Monoprice Speaker Wire, CMP Rated, 4-Conductor, 16AWG, 1000ft, Black",
-            "price": 469.99,
+            "price": 399.49,
             "url": "https://www.monoprice.com/product?p_id=16175",
             "product_id": 16175,
             "available": false,
@@ -8372,7 +8390,7 @@
         },
         "16176": {
             "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 14AWG, 1000ft, Black",
-            "price": 489.99,
+            "price": 287.19,
             "url": "https://www.monoprice.com/product?p_id=16176",
             "product_id": 16176,
             "available": true,
@@ -8381,7 +8399,7 @@
         },
         "16177": {
             "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 12AWG, 1000ft, Black",
-            "price": 699.99,
+            "price": 416.98,
             "url": "https://www.monoprice.com/product?p_id=16177",
             "product_id": 16177,
             "available": true,
@@ -43977,6 +43995,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-18T23:06:31Z"
+        "timestamp": "2023-05-18T23:22:22Z"
     }
 }
