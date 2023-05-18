@@ -22424,7 +22424,7 @@
             "price": 299.99,
             "url": "https://www.monoprice.com/product?p_id=41499",
             "product_id": 41499,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 42
         },
@@ -22739,7 +22739,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=41709",
             "product_id": 41709,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 33
         },
@@ -22876,7 +22876,7 @@
             "product_id": 41811,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1464
+            "num_reviews": 1466
         },
         "41812": {
             "name": "Monoprice Cat6 1ft Black 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -22948,7 +22948,7 @@
             "product_id": 41819,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1464
+            "num_reviews": 1466
         },
         "41820": {
             "name": "Monoprice Cat6 7ft Black 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -22957,7 +22957,7 @@
             "product_id": 41820,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1464
+            "num_reviews": 1466
         },
         "41821": {
             "name": "Monoprice Cat6 7ft Blue 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -24845,7 +24845,7 @@
             "price": 52.49,
             "url": "https://www.monoprice.com/product?p_id=42840",
             "product_id": 42840,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 12
         },
@@ -25340,7 +25340,7 @@
             "price": 18.99,
             "url": "https://www.monoprice.com/product?p_id=42995",
             "product_id": 42995,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 8
         },
@@ -25531,7 +25531,7 @@
             "product_id": 43072,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 56
+            "num_reviews": 57
         },
         "43073": {
             "name": "Monoprice Cat6 1ft White Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series  Ethernet Cable",
@@ -26042,7 +26042,7 @@
             "price": 33.99,
             "url": "https://www.monoprice.com/product?p_id=43199",
             "product_id": 43199,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 2
         },
@@ -26584,7 +26584,7 @@
             "product_id": 43345,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1464
+            "num_reviews": 1466
         },
         "43347": {
             "name": "Monoprice Cat6 10ft Black 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -28177,7 +28177,7 @@
             "product_id": 44415,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1464
+            "num_reviews": 1466
         },
         "44418": {
             "name": "MPM 3-Tier Foldable Shelf Storage with Wheels, Heavy Duty Casters with Lock, Organizer Rack, Multifunctional Standing Steel Cart, Perfect for Kitchen, Garage, Home Office, and Pantry",
@@ -37038,6 +37038,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-18T13:44:10Z"
+        "timestamp": "2023-05-18T13:54:28Z"
     }
 }
