@@ -11255,7 +11255,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=2326",
             "product_id": 2326,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -14168,7 +14168,7 @@
         },
         "2816": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 12AWG, 50ft, White",
-            "price": 29.99,
+            "price": 29.32,
             "url": "https://www.monoprice.com/product?p_id=2816",
             "product_id": 2816,
             "available": true,
@@ -27569,7 +27569,7 @@
         },
         "4038": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 12AWG, 250ft, White",
-            "price": 179.99,
+            "price": 159.49,
             "url": "https://www.monoprice.com/product?p_id=4038",
             "product_id": 4038,
             "available": true,
@@ -27605,7 +27605,7 @@
         },
         "4040": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 14AWG, 250ft, White",
-            "price": 139.99,
+            "price": 135.98,
             "url": "https://www.monoprice.com/product?p_id=4040",
             "product_id": 4040,
             "available": true,
@@ -39263,7 +39263,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=6539",
             "product_id": 6539,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 89
         },
@@ -39758,7 +39758,7 @@
             "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=6971",
             "product_id": 6971,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 132
         },
@@ -42854,7 +42854,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=9447",
             "product_id": 9447,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 211
         },
@@ -43968,6 +43968,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-18T19:46:26Z"
+        "timestamp": "2023-05-18T19:56:16Z"
     }
 }
