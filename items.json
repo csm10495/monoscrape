@@ -15732,15 +15732,6 @@
             "rating": 4.2,
             "num_reviews": 17
         },
-        "31019": {
-            "name": "Monoprice SlimRun Cat6A 90 Degree 36AWG S/STP Ethernet Network Cable, 5ft Blue",
-            "price": 5.19,
-            "url": "https://www.monoprice.com/product?p_id=31019",
-            "product_id": 31019,
-            "available": false,
-            "rating": 4.2,
-            "num_reviews": 17
-        },
         "31027": {
             "name": "Monoprice Unity 450 Watt Bridgeable Power Amp",
             "price": 246.99,
@@ -15800,7 +15791,7 @@
             "price": 199.99,
             "url": "https://www.monoprice.com/product?p_id=31035",
             "product_id": 31035,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 19
         },
@@ -16108,7 +16099,7 @@
             "product_id": 31202,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 263
+            "num_reviews": 266
         },
         "31203": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Black",
@@ -18848,7 +18839,7 @@
         },
         "34305": {
             "name": "Monoprice Speaker Wire, Braided with Banana Plugs, 2-Conductor, 14AWG, 3ft, 2 Pack",
-            "price": 41.49,
+            "price": 43.99,
             "url": "https://www.monoprice.com/product?p_id=34305",
             "product_id": 34305,
             "available": true,
@@ -18857,7 +18848,7 @@
         },
         "34306": {
             "name": "Monoprice Speaker Wire, Braided with Banana Plugs, 2-Conductor, 14AWG, 6ft, 1 Pack",
-            "price": 27.49,
+            "price": 27.99,
             "url": "https://www.monoprice.com/product?p_id=34306",
             "product_id": 34306,
             "available": true,
@@ -18866,7 +18857,7 @@
         },
         "34307": {
             "name": "Monoprice Speaker Wire, Braided with Banana Plugs, 2-Conductor, 14AWG, 6ft, 2 Pack",
-            "price": 50.99,
+            "price": 51.99,
             "url": "https://www.monoprice.com/product?p_id=34307",
             "product_id": 34307,
             "available": true,
@@ -22496,7 +22487,7 @@
             "price": 599.99,
             "url": "https://www.monoprice.com/product?p_id=38203",
             "product_id": 38203,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 6
         },
@@ -22759,7 +22750,7 @@
             "product_id": 38323,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 265
+            "num_reviews": 266
         },
         "38324": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Micro B to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft, White",
@@ -23000,7 +22991,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=38403",
             "product_id": 38403,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 18
         },
@@ -23954,7 +23945,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=38848",
             "product_id": 38848,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 60
         },
@@ -24587,15 +24578,6 @@
             "available": true,
             "rating": 4.6,
             "num_reviews": 49
-        },
-        "39075": {
-            "name": "Monoprice Entegrade 1000FT Cat8 2GHz S/FTP Solid, 22AWG, Bulk Bare Copper Network Cable, 40G, Blue",
-            "price": 599.99,
-            "url": "https://www.monoprice.com/product?p_id=39075",
-            "product_id": 39075,
-            "available": true,
-            "rating": 4.3,
-            "num_reviews": 7
         },
         "39078": {
             "name": "Monoprice Cat6 50ft Black Patch Cable, UTP, 32AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Micro SlimRun Series Ethernet Cable",
@@ -25271,15 +25253,6 @@
             "available": false,
             "rating": 0,
             "num_reviews": 0
-        },
-        "39430": {
-            "name": "Monoprice OM4 Fiber Optic Cable - LC/ST, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 1m",
-            "price": 3.79,
-            "url": "https://www.monoprice.com/product?p_id=39430",
-            "product_id": 39430,
-            "available": true,
-            "rating": 5,
-            "num_reviews": 2
         },
         "39431": {
             "name": "Monoprice OM4 Fiber Optic Cable - LC/ST, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 2m",
@@ -43995,6 +43968,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-18T16:54:51Z"
+        "timestamp": "2023-05-18T17:06:06Z"
     }
 }
