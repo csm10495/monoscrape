@@ -11345,7 +11345,7 @@
             "price": 11.49,
             "url": "https://www.monoprice.com/product?p_id=2388",
             "product_id": 2388,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 97
         },
@@ -13475,7 +13475,7 @@
         },
         "2749": {
             "name": "Monoprice Speaker Wire, Oxygen-Free CL2 Rated, 2-Conductor, 16AWG, 50ft",
-            "price": 15.73,
+            "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=2749",
             "product_id": 2749,
             "available": true,
@@ -13750,7 +13750,7 @@
             "product_id": 2782,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 7
+            "num_reviews": 8
         },
         "27836": {
             "name": "Workstream by Monoprice Ultra-Slim Sit-Stand Table Desk Converter, White",
@@ -13907,7 +13907,7 @@
         },
         "2790": {
             "name": "Monoprice Speaker Wire, Oxygen-Free CL2 Rated, 2-Conductor, 12AWG, 300ft",
-            "price": 127.49,
+            "price": 140.99,
             "url": "https://www.monoprice.com/product?p_id=2790",
             "product_id": 2790,
             "available": true,
@@ -14114,7 +14114,7 @@
         },
         "2794": {
             "name": "Monoprice Speaker Wire, Oxygen-Free CL2 Rated, 2-Conductor, 16AWG, 300ft",
-            "price": 55.99,
+            "price": 89.99,
             "url": "https://www.monoprice.com/product?p_id=2794",
             "product_id": 2794,
             "available": true,
@@ -14159,7 +14159,7 @@
         },
         "2816": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 12AWG, 50ft, White",
-            "price": 29.32,
+            "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=2816",
             "product_id": 2816,
             "available": true,
@@ -14195,7 +14195,7 @@
         },
         "2820": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 14AWG, 100ft, White",
-            "price": 29.6,
+            "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=2820",
             "product_id": 2820,
             "available": true,
@@ -14213,7 +14213,7 @@
         },
         "2822": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 16AWG, 50ft, White",
-            "price": 15.38,
+            "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=2822",
             "product_id": 2822,
             "available": true,
@@ -14423,7 +14423,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=2943",
             "product_id": 2943,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 618
         },
@@ -22979,7 +22979,7 @@
         },
         "3844": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 12AWG, 250ft, White",
-            "price": 102.59,
+            "price": 113.99,
             "url": "https://www.monoprice.com/product?p_id=3844",
             "product_id": 3844,
             "available": true,
@@ -27506,7 +27506,7 @@
         },
         "4037": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 12AWG, 100ft, White",
-            "price": 76.99,
+            "price": 89.99,
             "url": "https://www.monoprice.com/product?p_id=4037",
             "product_id": 4037,
             "available": true,
@@ -27551,7 +27551,7 @@
         },
         "4038": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 12AWG, 250ft, White",
-            "price": 159.49,
+            "price": 179.99,
             "url": "https://www.monoprice.com/product?p_id=4038",
             "product_id": 4038,
             "available": true,
@@ -27560,7 +27560,7 @@
         },
         "4039": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 14AWG, 100ft, White",
-            "price": 53.7,
+            "price": 67.12,
             "url": "https://www.monoprice.com/product?p_id=4039",
             "product_id": 4039,
             "available": true,
@@ -27587,7 +27587,7 @@
         },
         "4040": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 14AWG, 250ft, White",
-            "price": 135.98,
+            "price": 139.99,
             "url": "https://www.monoprice.com/product?p_id=4040",
             "product_id": 4040,
             "available": true,
@@ -27650,7 +27650,7 @@
         },
         "4041": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 16AWG, 100ft, White",
-            "price": 42.49,
+            "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=4041",
             "product_id": 4041,
             "available": true,
@@ -27677,7 +27677,7 @@
         },
         "4042": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 16AWG, 250ft, White",
-            "price": 93.49,
+            "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=4042",
             "product_id": 4042,
             "available": true,
@@ -27749,7 +27749,7 @@
         },
         "4044": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 18AWG, 50ft, White",
-            "price": 10.86,
+            "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=4044",
             "product_id": 4044,
             "available": true,
@@ -36088,7 +36088,7 @@
             "product_id": 4791,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 422
+            "num_reviews": 423
         },
         "4792": {
             "name": "Monoprice 3ft Premier Series 1/4in TRS Male to Male Cable, 16AWG (Gold Plated)",
@@ -37474,7 +37474,7 @@
             "product_id": 5495,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 409
+            "num_reviews": 410
         },
         "5496": {
             "name": "Monoprice 6ft Premier Series 1/4in TS Male to Male Audio Cable, 16AWG (Gold Plated)",
@@ -38120,7 +38120,7 @@
             "price": 27.99,
             "url": "https://www.monoprice.com/product?p_id=5915",
             "product_id": 5915,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 611
         },
@@ -39353,7 +39353,7 @@
             "price": 0.77,
             "url": "https://www.monoprice.com/product?p_id=6568",
             "product_id": 6568,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 6
         },
@@ -39929,7 +39929,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=7118",
             "product_id": 7118,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 44
         },
@@ -40172,7 +40172,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=7234",
             "product_id": 7234,
-            "available": false,
+            "available": true,
             "rating": 4.1,
             "num_reviews": 14
         },
@@ -40217,7 +40217,7 @@
             "price": 8.49,
             "url": "https://www.monoprice.com/product?p_id=7246",
             "product_id": 7246,
-            "available": false,
+            "available": true,
             "rating": 4,
             "num_reviews": 35
         },
@@ -40259,7 +40259,7 @@
         },
         "7260": {
             "name": "Monoprice 24-port Keystone Jack Panel",
-            "price": 6.99,
+            "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=7260",
             "product_id": 7260,
             "available": true,
@@ -41587,7 +41587,7 @@
             "product_id": 8247,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 260
+            "num_reviews": 261
         },
         "8248": {
             "name": "Monoprice 8in 60-Watt Powered Subwoofer, Black",
@@ -41891,7 +41891,7 @@
             "price": 1.69,
             "url": "https://www.monoprice.com/product?p_id=8612",
             "product_id": 8612,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 322
         },
@@ -42485,7 +42485,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=9196",
             "product_id": 9196,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 87
         },
@@ -42539,7 +42539,7 @@
             "price": 44.99,
             "url": "https://www.monoprice.com/product?p_id=9203",
             "product_id": 9203,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 141
         },
@@ -43151,7 +43151,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=9768",
             "product_id": 9768,
-            "available": false,
+            "available": true,
             "rating": 4,
             "num_reviews": 397
         },
@@ -43169,7 +43169,7 @@
             "price": 3.19,
             "url": "https://www.monoprice.com/product?p_id=9780",
             "product_id": 9780,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 91
         },
@@ -43968,6 +43968,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-18T21:54:49Z"
+        "timestamp": "2023-05-18T22:06:16Z"
     }
 }
