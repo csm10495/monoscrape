@@ -9965,7 +9965,7 @@
         },
         "21544": {
             "name": "Monoprice Speaker Wire, Burial Rated, 4-Conductor, 16AWG, 1000ft, Gray",
-            "price": 218.39,
+            "price": 311.99,
             "url": "https://www.monoprice.com/product?p_id=21544",
             "product_id": 21544,
             "available": true,
@@ -9983,7 +9983,7 @@
         },
         "21547": {
             "name": "Monoprice Speaker Wire, Burial Rated, 2-Conductor, 12AWG, 1000ft, Gray",
-            "price": 343.99,
+            "price": 473.99,
             "url": "https://www.monoprice.com/product?p_id=21547",
             "product_id": 21547,
             "available": true,
@@ -9992,7 +9992,7 @@
         },
         "21548": {
             "name": "Monoprice Speaker Wire, Burial Rated, 2-Conductor, 16AWG, 250ft, Gray",
-            "price": 48.02,
+            "price": 55.99,
             "url": "https://www.monoprice.com/product?p_id=21548",
             "product_id": 21548,
             "available": false,
@@ -10037,7 +10037,7 @@
         },
         "21553": {
             "name": "Monoprice Speaker Wire, Burial Rated, 4-Conductor, 12AWG, 250ft, Gray",
-            "price": 188.99,
+            "price": 252.99,
             "url": "https://www.monoprice.com/product?p_id=21553",
             "product_id": 21553,
             "available": true,
@@ -12407,7 +12407,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=24436",
             "product_id": 24436,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 138
         },
@@ -14036,7 +14036,7 @@
             "price": 7.64,
             "url": "https://www.monoprice.com/product?p_id=27923",
             "product_id": 27923,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 72
         },
@@ -43977,6 +43977,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-18T22:22:29Z"
+        "timestamp": "2023-05-18T22:30:25Z"
     }
 }
