@@ -27293,7 +27293,7 @@
             "price": 11.04,
             "url": "https://www.monoprice.com/product?p_id=40131",
             "product_id": 40131,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -29189,7 +29189,7 @@
         },
         "41400": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 12AWG, 1000ft, Black",
-            "price": 379.09,
+            "price": 419.99,
             "url": "https://www.monoprice.com/product?p_id=41400",
             "product_id": 41400,
             "available": true,
@@ -29297,7 +29297,7 @@
         },
         "41485": {
             "name": "Monoprice Cat6A 500ft Blue CMR UL Bulk Cable, TAA, Shielded (F/UTP), Solid, 23AWG, 550MHz, 10G, Pure Bare Copper, Reel in Box, Bulk Ethernet Cable",
-            "price": 129.99,
+            "price": 89.99,
             "url": "https://www.monoprice.com/product?p_id=41485",
             "product_id": 41485,
             "available": true,
@@ -29628,6 +29628,15 @@
             "rating": 5,
             "num_reviews": 1
         },
+        "41707": {
+            "name": "Monoprice OM4 Fiber Optic Cable - LC/ST, UL, 50/125 Type, Multi-Mode, 10GB, OFNR, Aqua, 1m, Corning",
+            "price": 1.37,
+            "url": "https://www.monoprice.com/product?p_id=41707",
+            "product_id": 41707,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "41708": {
             "name": "Monoprice OM4 Fiber Optic Cable - LC/ST, UL, 50/125 Type, Multi-Mode, 10GB, OFNR, Aqua, 2m, Corning",
             "price": 5.49,
@@ -29735,6 +29744,15 @@
             "available": false,
             "rating": 4.9,
             "num_reviews": 11
+        },
+        "41777": {
+            "name": "Coiled Power Tool Extension Cord, 16AWG, 13A, SJT, Orange, Expands from 3ft to 10ft",
+            "price": 15.99,
+            "url": "https://www.monoprice.com/product?p_id=41777",
+            "product_id": 41777,
+            "available": true,
+            "rating": 4,
+            "num_reviews": 1
         },
         "41779": {
             "name": "UVC Sterilizer Cell Phone Cleaner, Portable Smart Phone Cleaner Cleaning Device Disinfection Tool Sterilization for Cellphone Jewelry Watches",
@@ -30575,7 +30593,7 @@
         },
         "42153": {
             "name": "Monoprice Speaker Wire, Flat Adhesive Super Slim, 2-Conductors, 16AWG, 25ft",
-            "price": 15.74,
+            "price": 18.99,
             "url": "https://www.monoprice.com/product?p_id=42153",
             "product_id": 42153,
             "available": true,
@@ -30593,7 +30611,7 @@
         },
         "42156": {
             "name": "Monoprice Speaker Wire, Flat Adhesive Super Slim Micro, 2-Conductors, 18AWG, 50ft",
-            "price": 26.77,
+            "price": 27.99,
             "url": "https://www.monoprice.com/product?p_id=42156",
             "product_id": 42156,
             "available": true,
@@ -30602,7 +30620,7 @@
         },
         "42157": {
             "name": "Monoprice Speaker Wire, Flat Adhesive Super Slim Micro, 4-Conductors, 18AWG, 25ft",
-            "price": 26.77,
+            "price": 30.99,
             "url": "https://www.monoprice.com/product?p_id=42157",
             "product_id": 42157,
             "available": true,
@@ -31255,7 +31273,7 @@
             "product_id": 42645,
             "available": true,
             "rating": 3.8,
-            "num_reviews": 29
+            "num_reviews": 30
         },
         "42646": {
             "name": "Blackbird 4K DisplayPort 1.4 USB 3.0 4x1 KVM Switch, 4K@60Hz, HDR, YCbCr 4:4:4, HDCP 2.2",
@@ -31592,7 +31610,7 @@
         },
         "42770": {
             "name": "Dark Matter by Monoprice 24in Gaming Monitor - 16:9, 1920x1080p, FHD, 144Hz, AHVA",
-            "price": 229.99,
+            "price": 139.99,
             "url": "https://www.monoprice.com/product?p_id=42770",
             "product_id": 42770,
             "available": true,
@@ -32342,7 +32360,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=43015",
             "product_id": 43015,
-            "available": false,
+            "available": true,
             "rating": 3.5,
             "num_reviews": 10
         },
@@ -34178,7 +34196,7 @@
             "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=43664",
             "product_id": 43664,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -34454,7 +34472,7 @@
         },
         "43959": {
             "name": "Monoprice Blackbird PRO-sumer 4K HDMI Extender over Ethernet, CAT5e/6/7, 70m, PoC, HDMI Loop Out, Smart EDID",
-            "price": 69.99,
+            "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=43959",
             "product_id": 43959,
             "available": true,
@@ -34931,7 +34949,7 @@
         },
         "44336": {
             "name": "Monoprice Speaker Wire, CL3 Rated, 2-Conductor, 16AWG, 250ft, White",
-            "price": 62.99,
+            "price": 79.99,
             "url": "https://www.monoprice.com/product?p_id=44336",
             "product_id": 44336,
             "available": true,
@@ -34940,7 +34958,7 @@
         },
         "44337": {
             "name": "Monoprice Speaker Wire, CL3 Rated, 4-Conductor, 16AWG, 250ft, White",
-            "price": 107.99,
+            "price": 119.99,
             "url": "https://www.monoprice.com/product?p_id=44337",
             "product_id": 44337,
             "available": true,
@@ -34949,7 +34967,7 @@
         },
         "44338": {
             "name": "Monoprice Speaker Wire, CL3 Rated, 2-Conductor, 18AWG, 250ft, White",
-            "price": 44.99,
+            "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=44338",
             "product_id": 44338,
             "available": true,
@@ -34958,7 +34976,7 @@
         },
         "44339": {
             "name": "Monoprice Speaker Wire, CL3 Rated, 4-Conductor, 18AWG, 250ft, White",
-            "price": 71.99,
+            "price": 79.99,
             "url": "https://www.monoprice.com/product?p_id=44339",
             "product_id": 44339,
             "available": true,
@@ -35516,7 +35534,7 @@
         },
         "44579": {
             "name": "Monolith by Monoprice 13in THX Certified Ultra 2000-Watt Powered Subwoofer (Open Box)",
-            "price": 1699.99,
+            "price": 999.99,
             "url": "https://www.monoprice.com/product?p_id=44579",
             "product_id": 44579,
             "available": true,
@@ -35646,15 +35664,6 @@
             "url": "https://www.monoprice.com/product?p_id=44611",
             "product_id": 44611,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "44685": {
-            "name": "Ninja Foodi 5-in-1 Indoor Grill with 4-Quart Air Fryer with Roast, Bake, Dehydrate, and Cyclonic Grilling Technology, IG301A",
-            "price": 149.99,
-            "url": "https://www.monoprice.com/product?p_id=44685",
-            "product_id": 44685,
-            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -43959,6 +43968,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-18T21:34:24Z"
+        "timestamp": "2023-05-18T21:44:37Z"
     }
 }
