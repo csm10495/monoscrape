@@ -28593,6 +28593,15 @@
             "rating": 4.7,
             "num_reviews": 7
         },
+        "41090": {
+            "name": "Monoprice Power Cord Splitter - NEMA 5-15P to 2x IEC 60320 C13, 18AWG, 10A/1250W, SJT, Black, 10ft",
+            "price": 7.99,
+            "url": "https://www.monoprice.com/product?p_id=41090",
+            "product_id": 41090,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 7
+        },
         "41091": {
             "name": "Monoprice Power Cord Splitter - NEMA 5-15P to 2x IEC 60320 C13, 16AWG, 13A/1625W, SJT, Black, 3ft",
             "price": 5.99,
@@ -28982,7 +28991,7 @@
         },
         "41374": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 12AWG, 500ft, Black",
-            "price": 211.49,
+            "price": 209.99,
             "url": "https://www.monoprice.com/product?p_id=41374",
             "product_id": 41374,
             "available": true,
@@ -29018,7 +29027,7 @@
         },
         "41378": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 16AWG, 50ft, Black",
-            "price": 21.99,
+            "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=41378",
             "product_id": 41378,
             "available": true,
@@ -29027,7 +29036,7 @@
         },
         "41379": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 16AWG, 100ft, Black",
-            "price": 19.99,
+            "price": 31.99,
             "url": "https://www.monoprice.com/product?p_id=41379",
             "product_id": 41379,
             "available": true,
@@ -29036,7 +29045,7 @@
         },
         "41380": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 16AWG, 250ft, Black",
-            "price": 57.49,
+            "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=41380",
             "product_id": 41380,
             "available": true,
@@ -29063,7 +29072,7 @@
         },
         "41383": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 16AWG, 500ft, Black",
-            "price": 74.99,
+            "price": 139.99,
             "url": "https://www.monoprice.com/product?p_id=41383",
             "product_id": 41383,
             "available": true,
@@ -29072,7 +29081,7 @@
         },
         "41384": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 12AWG, 100ft, Black",
-            "price": 64.99,
+            "price": 89.99,
             "url": "https://www.monoprice.com/product?p_id=41384",
             "product_id": 41384,
             "available": true,
@@ -29081,7 +29090,7 @@
         },
         "41385": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 12AWG, 250ft, Black",
-            "price": 169.99,
+            "price": 179.99,
             "url": "https://www.monoprice.com/product?p_id=41385",
             "product_id": 41385,
             "available": true,
@@ -29090,7 +29099,7 @@
         },
         "41386": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 14AWG, 100ft, Black",
-            "price": 44.99,
+            "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=41386",
             "product_id": 41386,
             "available": true,
@@ -29099,7 +29108,7 @@
         },
         "41387": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 14AWG, 250ft, Black",
-            "price": 119.99,
+            "price": 139.99,
             "url": "https://www.monoprice.com/product?p_id=41387",
             "product_id": 41387,
             "available": true,
@@ -29108,7 +29117,7 @@
         },
         "41388": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 16AWG, 100ft, Black",
-            "price": 29.99,
+            "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=41388",
             "product_id": 41388,
             "available": true,
@@ -29117,7 +29126,7 @@
         },
         "41389": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 16AWG, 250ft, Black",
-            "price": 96.49,
+            "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=41389",
             "product_id": 41389,
             "available": true,
@@ -29126,7 +29135,7 @@
         },
         "41390": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 18AWG, 100ft, Black",
-            "price": 18.99,
+            "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=41390",
             "product_id": 41390,
             "available": true,
@@ -29144,7 +29153,7 @@
         },
         "41392": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 18AWG, 100ft, Black",
-            "price": 18.99,
+            "price": 23.99,
             "url": "https://www.monoprice.com/product?p_id=41392",
             "product_id": 41392,
             "available": true,
@@ -29153,7 +29162,7 @@
         },
         "41393": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 18AWG, 250ft, Black",
-            "price": 43.49,
+            "price": 52.99,
             "url": "https://www.monoprice.com/product?p_id=41393",
             "product_id": 41393,
             "available": true,
@@ -29162,7 +29171,7 @@
         },
         "41394": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 18AWG, 1000ft, Black",
-            "price": 134.99,
+            "price": 209.99,
             "url": "https://www.monoprice.com/product?p_id=41394",
             "product_id": 41394,
             "available": true,
@@ -29180,7 +29189,7 @@
         },
         "41396": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 16AWG, 1000ft, Black",
-            "price": 199.99,
+            "price": 279.99,
             "url": "https://www.monoprice.com/product?p_id=41396",
             "product_id": 41396,
             "available": true,
@@ -29189,7 +29198,7 @@
         },
         "41397": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 16AWG, 1000ft, Black",
-            "price": 259.99,
+            "price": 399.99,
             "url": "https://www.monoprice.com/product?p_id=41397",
             "product_id": 41397,
             "available": true,
@@ -29198,7 +29207,7 @@
         },
         "41398": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 14AWG, 1000ft, Black",
-            "price": 279.99,
+            "price": 349.99,
             "url": "https://www.monoprice.com/product?p_id=41398",
             "product_id": 41398,
             "available": true,
@@ -29207,7 +29216,7 @@
         },
         "41399": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 14AWG, 1000ft, Black",
-            "price": 519.99,
+            "price": 559.99,
             "url": "https://www.monoprice.com/product?p_id=41399",
             "product_id": 41399,
             "available": true,
@@ -29216,7 +29225,7 @@
         },
         "41400": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 12AWG, 1000ft, Black",
-            "price": 445.99,
+            "price": 419.99,
             "url": "https://www.monoprice.com/product?p_id=41400",
             "product_id": 41400,
             "available": true,
@@ -29234,7 +29243,7 @@
         },
         "41402": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 18AWG, 500ft, White",
-            "price": 77.49,
+            "price": 104.99,
             "url": "https://www.monoprice.com/product?p_id=41402",
             "product_id": 41402,
             "available": true,
@@ -30602,7 +30611,7 @@
         },
         "42153": {
             "name": "Monoprice Speaker Wire, Flat Adhesive Super Slim, 2-Conductors, 16AWG, 25ft",
-            "price": 20.99,
+            "price": 18.99,
             "url": "https://www.monoprice.com/product?p_id=42153",
             "product_id": 42153,
             "available": true,
@@ -30611,7 +30620,7 @@
         },
         "42154": {
             "name": "Monoprice Speaker Wire, Flat Adhesive Super Slim, 2-Conductors, 16AWG, 50ft",
-            "price": 41.99,
+            "price": 37.99,
             "url": "https://www.monoprice.com/product?p_id=42154",
             "product_id": 42154,
             "available": true,
@@ -30620,7 +30629,7 @@
         },
         "42156": {
             "name": "Monoprice Speaker Wire, Flat Adhesive Super Slim Micro, 2-Conductors, 18AWG, 50ft",
-            "price": 31.49,
+            "price": 27.99,
             "url": "https://www.monoprice.com/product?p_id=42156",
             "product_id": 42156,
             "available": true,
@@ -30629,7 +30638,7 @@
         },
         "42157": {
             "name": "Monoprice Speaker Wire, Flat Adhesive Super Slim Micro, 4-Conductors, 18AWG, 25ft",
-            "price": 31.49,
+            "price": 30.99,
             "url": "https://www.monoprice.com/product?p_id=42157",
             "product_id": 42157,
             "available": true,
@@ -31001,7 +31010,7 @@
             "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=42510",
             "product_id": 42510,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -31075,7 +31084,7 @@
             "product_id": 42530,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 263
+            "num_reviews": 266
         },
         "42531": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft/3ft/6ft, Black - 3 Pack",
@@ -31217,6 +31226,15 @@
             "price": 1799,
             "url": "https://www.monoprice.com/product?p_id=42579",
             "product_id": 42579,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "42588": {
+            "name": "Monoprice Fiber Optic Cable Bulk - 9/125 Type, Single Mode, Duplex, 8.0mm w/o Armor or Steel Wire LSZH G657A1, 12 Strand, Black, 4000FT, Corning",
+            "price": 1599.99,
+            "url": "https://www.monoprice.com/product?p_id=42588",
+            "product_id": 42588,
             "available": true,
             "rating": 0,
             "num_reviews": 0
@@ -32658,8 +32676,8 @@
             "url": "https://www.monoprice.com/product?p_id=43136",
             "product_id": 43136,
             "available": true,
-            "rating": 5,
-            "num_reviews": 2
+            "rating": 4.3,
+            "num_reviews": 3
         },
         "43137": {
             "name": "Commercial Series Premium High Speed HDMI Cable -4K@60Hz, HDR, 18Gbps, YCbCr 4:4:4, OD 0.22in, 30AWG, CL2, 10ft, Black",
@@ -33365,7 +33383,7 @@
         },
         "43305": {
             "name": "Dark Matter by Monoprice 49in Curved Gaming Monitor - 32:9, 1800R, 5120x1440p, DQHD, 120Hz, Adaptive Sync, VA",
-            "price": 999.99,
+            "price": 769.99,
             "url": "https://www.monoprice.com/product?p_id=43305",
             "product_id": 43305,
             "available": true,
@@ -34922,7 +34940,7 @@
         },
         "44333": {
             "name": "Monoprice Speaker Wire, CL3 Rated, 4-Conductor, 12AWG, 250ft, White",
-            "price": 249.99,
+            "price": 199.99,
             "url": "https://www.monoprice.com/product?p_id=44333",
             "product_id": 44333,
             "available": true,
@@ -34940,7 +34958,7 @@
         },
         "44335": {
             "name": "Monoprice Speaker Wire, CL3 Rated, 4-Conductor, 14AWG, 250ft, White",
-            "price": 179.99,
+            "price": 159.99,
             "url": "https://www.monoprice.com/product?p_id=44335",
             "product_id": 44335,
             "available": true,
@@ -34949,7 +34967,7 @@
         },
         "44336": {
             "name": "Monoprice Speaker Wire, CL3 Rated, 2-Conductor, 16AWG, 250ft, White",
-            "price": 69.99,
+            "price": 79.99,
             "url": "https://www.monoprice.com/product?p_id=44336",
             "product_id": 44336,
             "available": true,
@@ -34967,7 +34985,7 @@
         },
         "44338": {
             "name": "Monoprice Speaker Wire, CL3 Rated, 2-Conductor, 18AWG, 250ft, White",
-            "price": 49.99,
+            "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=44338",
             "product_id": 44338,
             "available": true,
@@ -43968,6 +43986,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-18T17:06:06Z"
+        "timestamp": "2023-05-18T17:21:39Z"
     }
 }
