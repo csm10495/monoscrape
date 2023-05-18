@@ -8008,7 +8008,7 @@
             "product_id": 2293,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "2295": {
             "name": "Monoprice Cat6 3ft Black Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -40980,6 +40980,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-18T09:53:46Z"
+        "timestamp": "2023-05-18T10:06:06Z"
     }
 }
