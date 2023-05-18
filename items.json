@@ -15782,7 +15782,7 @@
             "price": 199.99,
             "url": "https://www.monoprice.com/product?p_id=31035",
             "product_id": 31035,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 19
         },
@@ -16223,7 +16223,7 @@
             "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=31264",
             "product_id": 31264,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 264
         },
@@ -16655,7 +16655,7 @@
             "price": 32.49,
             "url": "https://www.monoprice.com/product?p_id=33218",
             "product_id": 33218,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 529
         },
@@ -17357,7 +17357,7 @@
             "price": 9.49,
             "url": "https://www.monoprice.com/product?p_id=33671",
             "product_id": 33671,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 5
         },
@@ -17861,7 +17861,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=33837",
             "product_id": 33837,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 46
         },
@@ -18059,7 +18059,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=33887",
             "product_id": 33887,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -18821,7 +18821,7 @@
         },
         "34305": {
             "name": "Monoprice Speaker Wire, Braided with Banana Plugs, 2-Conductor, 14AWG, 3ft, 2 Pack",
-            "price": 24.89,
+            "price": 43.99,
             "url": "https://www.monoprice.com/product?p_id=34305",
             "product_id": 34305,
             "available": true,
@@ -18839,7 +18839,7 @@
         },
         "34307": {
             "name": "Monoprice Speaker Wire, Braided with Banana Plugs, 2-Conductor, 14AWG, 6ft, 2 Pack",
-            "price": 17.84,
+            "price": 51.99,
             "url": "https://www.monoprice.com/product?p_id=34307",
             "product_id": 34307,
             "available": true,
@@ -18848,7 +18848,7 @@
         },
         "34309": {
             "name": "Monoprice Speaker Wire, Braided with Banana Plugs, 2-Conductor, 14AWG, 10ft, 1 Pack",
-            "price": 30.99,
+            "price": 32.99,
             "url": "https://www.monoprice.com/product?p_id=34309",
             "product_id": 34309,
             "available": true,
@@ -18866,7 +18866,7 @@
         },
         "34310": {
             "name": "Monoprice Speaker Wire, Braided with Banana Plugs, 2-Conductor, 14AWG, 15ft",
-            "price": 17.49,
+            "price": 20.99,
             "url": "https://www.monoprice.com/product?p_id=34310",
             "product_id": 34310,
             "available": true,
@@ -18875,7 +18875,7 @@
         },
         "34311": {
             "name": "Monoprice Speaker Wire, Braided with Banana Plugs, 2-Conductor, 14AWG, 20ft",
-            "price": 22.53,
+            "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=34311",
             "product_id": 34311,
             "available": true,
@@ -18884,7 +18884,7 @@
         },
         "34312": {
             "name": "Monoprice Speaker Wire, Braided with Banana Plugs, 2-Conductor, 14AWG, 25ft",
-            "price": 24.49,
+            "price": 28.99,
             "url": "https://www.monoprice.com/product?p_id=34312",
             "product_id": 34312,
             "available": true,
@@ -20993,7 +20993,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=35943",
             "product_id": 35943,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 6
         },
@@ -21326,7 +21326,7 @@
             "price": 10.49,
             "url": "https://www.monoprice.com/product?p_id=36279",
             "product_id": 36279,
-            "available": false,
+            "available": true,
             "rating": 3.9,
             "num_reviews": 21
         },
@@ -21803,7 +21803,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=37874",
             "product_id": 37874,
-            "available": false,
+            "available": true,
             "rating": 4.1,
             "num_reviews": 7
         },
@@ -22262,7 +22262,7 @@
             "price": 15.44,
             "url": "https://www.monoprice.com/product?p_id=38161",
             "product_id": 38161,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 6
         },
@@ -22451,7 +22451,7 @@
             "price": 429.99,
             "url": "https://www.monoprice.com/product?p_id=38201",
             "product_id": 38201,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 2
         },
@@ -22460,7 +22460,7 @@
             "price": 679.99,
             "url": "https://www.monoprice.com/product?p_id=38202",
             "product_id": 38202,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 7
         },
@@ -22856,7 +22856,7 @@
             "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=38372",
             "product_id": 38372,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 9
         },
@@ -22964,7 +22964,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=38403",
             "product_id": 38403,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 18
         },
@@ -23918,7 +23918,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=38848",
             "product_id": 38848,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 60
         },
@@ -24044,7 +24044,7 @@
             "price": 12.73,
             "url": "https://www.monoprice.com/product?p_id=38878",
             "product_id": 38878,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 60
         },
@@ -24197,7 +24197,7 @@
             "price": 11.49,
             "url": "https://www.monoprice.com/product?p_id=38902",
             "product_id": 38902,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 78
         },
@@ -24233,7 +24233,7 @@
             "price": 6.79,
             "url": "https://www.monoprice.com/product?p_id=38906",
             "product_id": 38906,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 78
         },
@@ -24332,7 +24332,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=38917",
             "product_id": 38917,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 21
         },
@@ -24971,7 +24971,7 @@
             "price": 399.99,
             "url": "https://www.monoprice.com/product?p_id=39261",
             "product_id": 39261,
-            "available": false,
+            "available": true,
             "rating": 4,
             "num_reviews": 3
         },
@@ -25196,7 +25196,7 @@
             "price": 359.99,
             "url": "https://www.monoprice.com/product?p_id=39414",
             "product_id": 39414,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 24
         },
@@ -26262,15 +26262,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "39693": {
-            "name": "Monolith by Monoprice M12-S 12\" THX Certified Sealed 500 Watt Powered Subwoofer (Open Box)",
-            "price": 679.99,
-            "url": "https://www.monoprice.com/product?p_id=39693",
-            "product_id": 39693,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "39752": {
             "name": "Monoprice Entegrade Series Cat6A 19in 1U Patch Panel, Shielded, 24-port Dual IDC",
             "price": 54.99,
@@ -26501,7 +26492,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=39841",
             "product_id": 39841,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 163
         },
@@ -26726,7 +26717,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=39922",
             "product_id": 39922,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1586
         },
@@ -43977,6 +43968,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-18T22:30:25Z"
+        "timestamp": "2023-05-18T22:36:18Z"
     }
 }
