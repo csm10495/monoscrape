@@ -16371,6 +16371,15 @@
             "rating": 4.9,
             "num_reviews": 231
         },
+        "31349": {
+            "name": "Monoprice Entegrade Series Cat7 Double Shielded (S/FTP) Ethernet Patch Cable - Snagless RJ45, 600MHz, 10G, 26AWG, 10ft, Green",
+            "price": 7.49,
+            "url": "https://www.monoprice.com/product?p_id=31349",
+            "product_id": 31349,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 231
+        },
         "31353": {
             "name": "Monoprice Cat7 15ft Black Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
             "price": 9.99,
@@ -17367,6 +17376,15 @@
             "url": "https://www.monoprice.com/product?p_id=33658",
             "product_id": 33658,
             "available": false,
+            "rating": 5,
+            "num_reviews": 7
+        },
+        "33660": {
+            "name": "Monoprice Heavy Duty Power Cable - IEC 60320 C14 to IEC 60320 C15, 14AWG, 15A/1875W, SJT, 100-250V, Red, 10ft",
+            "price": 10.99,
+            "url": "https://www.monoprice.com/product?p_id=33660",
+            "product_id": 33660,
+            "available": true,
             "rating": 5,
             "num_reviews": 7
         },
@@ -18848,7 +18866,7 @@
         },
         "34306": {
             "name": "Monoprice Speaker Wire, Braided with Banana Plugs, 2-Conductor, 14AWG, 6ft, 1 Pack",
-            "price": 27.99,
+            "price": 23.37,
             "url": "https://www.monoprice.com/product?p_id=34306",
             "product_id": 34306,
             "available": true,
@@ -18857,7 +18875,7 @@
         },
         "34307": {
             "name": "Monoprice Speaker Wire, Braided with Banana Plugs, 2-Conductor, 14AWG, 6ft, 2 Pack",
-            "price": 51.99,
+            "price": 17.84,
             "url": "https://www.monoprice.com/product?p_id=34307",
             "product_id": 34307,
             "available": true,
@@ -21344,7 +21362,7 @@
             "price": 10.49,
             "url": "https://www.monoprice.com/product?p_id=36279",
             "product_id": 36279,
-            "available": true,
+            "available": false,
             "rating": 3.9,
             "num_reviews": 21
         },
@@ -22463,24 +22481,6 @@
             "available": true,
             "rating": 4.5,
             "num_reviews": 49
-        },
-        "38201": {
-            "name": "Monolith by Monoprice 10\" THX Select Certified 500 Watt Powered Subwoofer (Open Box)",
-            "price": 429.99,
-            "url": "https://www.monoprice.com/product?p_id=38201",
-            "product_id": 38201,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 2
-        },
-        "38202": {
-            "name": "Monolith by Monoprice 12\" THX Ultra Certified 500 Watt Powered Subwoofer (Open Box)",
-            "price": 679.99,
-            "url": "https://www.monoprice.com/product?p_id=38202",
-            "product_id": 38202,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 7
         },
         "38274": {
             "name": "Monoprice OM3 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 3m",
@@ -24062,7 +24062,7 @@
             "price": 12.73,
             "url": "https://www.monoprice.com/product?p_id=38878",
             "product_id": 38878,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 60
         },
@@ -25245,6 +25245,15 @@
             "rating": 0,
             "num_reviews": 0
         },
+        "39430": {
+            "name": "Monoprice OM4 Fiber Optic Cable - LC/ST, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 1m",
+            "price": 3.79,
+            "url": "https://www.monoprice.com/product?p_id=39430",
+            "product_id": 39430,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 2
+        },
         "39431": {
             "name": "Monoprice OM4 Fiber Optic Cable - LC/ST, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 2m",
             "price": 1.85,
@@ -25972,7 +25981,7 @@
             "product_id": 39632,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 22
+            "num_reviews": 23
         },
         "39633": {
             "name": "Monoprice AtlasFlex Series Durable USB 3.2 Gen 2 Type-C Data \u0026 Power Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 1m, Purple",
@@ -43995,6 +44004,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-18T23:27:48Z"
+        "timestamp": "2023-05-18T23:34:38Z"
     }
 }
