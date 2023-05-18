@@ -15737,7 +15737,7 @@
             "price": 5.19,
             "url": "https://www.monoprice.com/product?p_id=31019",
             "product_id": 31019,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 17
         },
@@ -16013,7 +16013,7 @@
         },
         "31192": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Black",
-            "price": 13.17,
+            "price": 15.49,
             "url": "https://www.monoprice.com/product?p_id=31192",
             "product_id": 31192,
             "available": true,
@@ -16265,7 +16265,7 @@
         },
         "31292": {
             "name": "Monoprice Sit-Stand Single Motor Height Adjustable Table Desk Frame, Electric, Gray",
-            "price": 251.98,
+            "price": 279.99,
             "url": "https://www.monoprice.com/product?p_id=31292",
             "product_id": 31292,
             "available": true,
@@ -17192,7 +17192,7 @@
         },
         "33598": {
             "name": "Monoprice 4K High Speed HDMI Cable 25ft - 18Gbps Black",
-            "price": 24.22,
+            "price": 28.49,
             "url": "https://www.monoprice.com/product?p_id=33598",
             "product_id": 33598,
             "available": true,
@@ -17840,7 +17840,7 @@
         },
         "33832": {
             "name": "Monoprice Premium 5.1.4 Channel Immersive Home Theater System with Subwoofer",
-            "price": 224.98,
+            "price": 299.99,
             "url": "https://www.monoprice.com/product?p_id=33832",
             "product_id": 33832,
             "available": true,
@@ -18416,7 +18416,7 @@
         },
         "34195": {
             "name": "Monoprice Commercial Series Adjustable Triple Sided Ceiling TV Mount Bracket, For LED Displays 32in to 65in, Max Weight 66lbs per Screen",
-            "price": 381.99,
+            "price": 449.99,
             "url": "https://www.monoprice.com/product?p_id=34195",
             "product_id": 34195,
             "available": true,
@@ -18515,7 +18515,7 @@
         },
         "34206": {
             "name": "Monoprice 4K Slim Certified Premium High Speed HDMI Cable 6ft - 18Gbps Black - 5 Pack",
-            "price": 50.14,
+            "price": 58.99,
             "url": "https://www.monoprice.com/product?p_id=34206",
             "product_id": 34206,
             "available": true,
@@ -19310,7 +19310,7 @@
             "price": 2.09,
             "url": "https://www.monoprice.com/product?p_id=34524",
             "product_id": 34524,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -19717,7 +19717,7 @@
             "product_id": 34775,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1464
+            "num_reviews": 1466
         },
         "34779": {
             "name": "FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 15m, White, 5 pack",
@@ -20036,7 +20036,7 @@
         },
         "34841": {
             "name": "Monoprice 4K Slim Certified Premium High Speed HDMI Cable 3m - 18Gbps Black - 2 Pack",
-            "price": 27.1,
+            "price": 31.89,
             "url": "https://www.monoprice.com/product?p_id=34841",
             "product_id": 34841,
             "available": true,
@@ -20576,7 +20576,7 @@
         },
         "35375": {
             "name": "Monoprice Studio Easel Fixed Tripod TV Stand and Mount for Displays 45\" to 65\" up to 77 lbs. with VESA up to 600x400",
-            "price": 75.99,
+            "price": 79.99,
             "url": "https://www.monoprice.com/product?p_id=35375",
             "product_id": 35375,
             "available": true,
@@ -20981,7 +20981,7 @@
         },
         "35914": {
             "name": "Heavy Duty 13-Port USB 3.0 Hub, With AC Adapter",
-            "price": 59.99,
+            "price": 71.99,
             "url": "https://www.monoprice.com/product?p_id=35914",
             "product_id": 35914,
             "available": true,
@@ -21098,7 +21098,7 @@
         },
         "36081": {
             "name": "Workstream by Monoprice Adjustable Gas Spring 1-Segment Wall Mount for Monitors Up To 27in",
-            "price": 33.99,
+            "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=36081",
             "product_id": 36081,
             "available": true,
@@ -21989,7 +21989,7 @@
         },
         "38037": {
             "name": "Monoprice SB-200SW Premium Slim Soundbar with Wireless Subwoofer HDMI ARC, Bluetooth, Optical, and Coax Inputs",
-            "price": 118.99,
+            "price": 139.99,
             "url": "https://www.monoprice.com/product?p_id=38037",
             "product_id": 38037,
             "available": true,
@@ -22473,6 +22473,15 @@
             "rating": 4.5,
             "num_reviews": 49
         },
+        "38201": {
+            "name": "Monolith by Monoprice 10\" THX Select Certified 500 Watt Powered Subwoofer (Open Box)",
+            "price": 429.99,
+            "url": "https://www.monoprice.com/product?p_id=38201",
+            "product_id": 38201,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 2
+        },
         "38202": {
             "name": "Monolith by Monoprice 12\" THX Ultra Certified 500 Watt Powered Subwoofer (Open Box)",
             "price": 679.99,
@@ -22925,7 +22934,7 @@
         },
         "38384": {
             "name": "Monoprice USB C To Lightning Cable - 6 Feet - White ( MFI Certified ) Fast Charging, Compatible with Apple iPhone 13 / Pro / Pro Max / AirPods Pro - Select Series",
-            "price": 12.74,
+            "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=38384",
             "product_id": 38384,
             "available": true,
@@ -23375,7 +23384,7 @@
         },
         "38627": {
             "name": "Monoprice 8K SlimRun AV Ultra High Speed HDMI Cable 30ft - AOC 48Gbps Black",
-            "price": 83.49,
+            "price": 119.29,
             "url": "https://www.monoprice.com/product?p_id=38627",
             "product_id": 38627,
             "available": true,
@@ -23384,7 +23393,7 @@
         },
         "38628": {
             "name": "Monoprice 8K SlimRun AV Ultra High Speed HDMI Cable 40ft - AOC 48Gbps Black",
-            "price": 99.42,
+            "price": 124.29,
             "url": "https://www.monoprice.com/product?p_id=38628",
             "product_id": 38628,
             "available": true,
@@ -23519,7 +23528,7 @@
         },
         "38789": {
             "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R, 16AWG, 13A, 3-Prong, Black, 6ft, 6-Pack",
-            "price": 17.48,
+            "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=38789",
             "product_id": 38789,
             "available": true,
@@ -23721,8 +23730,8 @@
             "url": "https://www.monoprice.com/product?p_id=38815",
             "product_id": 38815,
             "available": false,
-            "rating": 4.4,
-            "num_reviews": 84
+            "rating": 4.5,
+            "num_reviews": 86
         },
         "38816": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 3ft, Blue",
@@ -24563,7 +24572,7 @@
         },
         "39070": {
             "name": "Monoprice Obsidian Speed Plus Ultra Compact USB Power Bank, Black, 20,000mAh, 3-Port Up to 18W PD (3A) Output for iPhone, Android, and Galaxy Devices",
-            "price": 39.59,
+            "price": 43.99,
             "url": "https://www.monoprice.com/product?p_id=39070",
             "product_id": 39070,
             "available": true,
@@ -24923,7 +24932,7 @@
         },
         "39240": {
             "name": "Monoprice Bidirectional USB Type-C to DisplayPort Cable - 4K@60Hz, Black, 6ft",
-            "price": 26.98,
+            "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=39240",
             "product_id": 39240,
             "available": true,
@@ -25499,7 +25508,7 @@
         },
         "39511": {
             "name": "Monoprice 8K Ultra High Speed HDMI Cable 8ft - 48Gbps Black",
-            "price": 12.73,
+            "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=39511",
             "product_id": 39511,
             "available": true,
@@ -25517,7 +25526,7 @@
         },
         "39513": {
             "name": "Monoprice PTZ Video Conference Camera, Pan Tilt Zoom with Remote, Full HD 1080p Webcam, USB 2.0, 10x Optical Zoom",
-            "price": 386.99,
+            "price": 429.99,
             "url": "https://www.monoprice.com/product?p_id=39513",
             "product_id": 39513,
             "available": true,
@@ -26192,7 +26201,7 @@
         },
         "39661": {
             "name": "Monoprice Commercial Series 2x1 Display Adjustable Tilt Menu Board TV Wall Mount for LED Screens between 32in to 65in, Max Weight 66 lbs, VESA Patterns up to 600x400",
-            "price": 199.99,
+            "price": 249.99,
             "url": "https://www.monoprice.com/product?p_id=39661",
             "product_id": 39661,
             "available": true,
@@ -26201,7 +26210,7 @@
         },
         "39662": {
             "name": "Monoprice Commercial Series 2x1 Panel Menu Board Adjustable Tilt Ceiling TV Mount for Displays Between 32in and 65in, Max Weight 66 lbs. ea., VESA Patterns up to 600x400",
-            "price": 339.99,
+            "price": 399.99,
             "url": "https://www.monoprice.com/product?p_id=39662",
             "product_id": 39662,
             "available": true,
@@ -26219,7 +26228,7 @@
         },
         "39664": {
             "name": "Monoprice Commercial Series 3x1 Panel Menu Board Ceiling TV Mount for Displays Between 32in to 65in, Max Weight 66 lbs. ea., VESA Patterns up to 600x400",
-            "price": 424.99,
+            "price": 499.99,
             "url": "https://www.monoprice.com/product?p_id=39664",
             "product_id": 39664,
             "available": true,
@@ -26228,7 +26237,7 @@
         },
         "39665": {
             "name": "Blackbird PRO 4K HDMI Matrix, 8x8, HDR, 18G, 4K@60Hz, YCbCr 4:4:4, EDID, IR, RS-232, Coaxial, Audio Out",
-            "price": 599.99,
+            "price": 999.99,
             "url": "https://www.monoprice.com/product?p_id=39665",
             "product_id": 39665,
             "available": true,
@@ -26255,7 +26264,7 @@
         },
         "39668": {
             "name": "Monoprice Blackbird PRO 4K HDMI 4x4 Matrix with HDBaseT Out, HDR, 18G, 4K@60Hz, YCbCr 4:4:4, EDID, PoC, IR, Extender with 3 Receivers",
-            "price": 400.67,
+            "price": 1029.99,
             "url": "https://www.monoprice.com/product?p_id=39668",
             "product_id": 39668,
             "available": true,
@@ -26264,7 +26273,7 @@
         },
         "39669": {
             "name": "Blackbird 4K HDMI Matrix, 4x4, HDBaseT, HDR, 18G, 4K@60Hz, YCbCr 4:4:4, HDCP 2.2, EDID, IR, SPDIF, RCA, TCP/IP, RS-232, and 3 Receivers 70m",
-            "price": 479.98,
+            "price": 1199.99,
             "url": "https://www.monoprice.com/product?p_id=39669",
             "product_id": 39669,
             "available": true,
@@ -43986,6 +43995,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-18T14:44:31Z"
+        "timestamp": "2023-05-18T14:54:38Z"
     }
 }
