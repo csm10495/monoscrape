@@ -9965,7 +9965,7 @@
         },
         "21544": {
             "name": "Monoprice Speaker Wire, Burial Rated, 4-Conductor, 16AWG, 1000ft, Gray",
-            "price": 218.39,
+            "price": 311.99,
             "url": "https://www.monoprice.com/product?p_id=21544",
             "product_id": 21544,
             "available": true,
@@ -10703,7 +10703,7 @@
         },
         "21887": {
             "name": "Monoprice 3-Pack Hook and Loop Fastening Tape 5 yard/roll, 0.75in, Black",
-            "price": 6.29,
+            "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=21887",
             "product_id": 21887,
             "available": true,
@@ -11504,7 +11504,7 @@
         },
         "24183": {
             "name": "Monoprice 4K Slim Certified Premium High Speed HDMI Cable 2ft - 18Gbps Black",
-            "price": 2.23,
+            "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=24183",
             "product_id": 24183,
             "available": true,
@@ -11765,7 +11765,7 @@
         },
         "24279": {
             "name": "Monoprice Blackbird 4K Fiber Optic HDMI Extender, 3300feet, 1000m, 4k@60Hz, IR, RS-232, HDMI 2.0 Support",
-            "price": 449.99,
+            "price": 499.99,
             "url": "https://www.monoprice.com/product?p_id=24279",
             "product_id": 24279,
             "available": true,
@@ -12020,7 +12020,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=24349",
             "product_id": 24349,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 495
         },
@@ -12449,7 +12449,7 @@
         },
         "24440": {
             "name": "Monoprice USB Type C to HDMI 3.1 Cable - 5Gbps, 4K@30Hz, Black, 3ft",
-            "price": 15.39,
+            "price": 21.99,
             "url": "https://www.monoprice.com/product?p_id=24440",
             "product_id": 24440,
             "available": true,
@@ -12683,7 +12683,7 @@
         },
         "24731": {
             "name": "Monoprice Thunderbolt 3 (40 Gbps) USB-C Cable, 100W, 2.0m",
-            "price": 35.98,
+            "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=24731",
             "product_id": 24731,
             "available": true,
@@ -14114,7 +14114,7 @@
         },
         "27934": {
             "name": "Monoprice Essentials USB Type-C to USB Type-A 3.1 Gen 2 Cable - 10Gbps, 3A, 30AWG, White, 1m (3.3ft)",
-            "price": 10.78,
+            "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=27934",
             "product_id": 27934,
             "available": true,
@@ -43995,6 +43995,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-18T15:35:18Z"
+        "timestamp": "2023-05-18T15:44:58Z"
     }
 }
