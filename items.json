@@ -394,7 +394,7 @@
             "product_id": 10552,
             "available": false,
             "rating": 4.3,
-            "num_reviews": 573
+            "num_reviews": 574
         },
         "10553": {
             "name": "Monoprice Premium 3D Printer Filament PLA 1.75mm 1kg/spool, Red",
@@ -1274,7 +1274,7 @@
             "price": 9.49,
             "url": "https://www.monoprice.com/product?p_id=11322",
             "product_id": 11322,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1466
         },
@@ -1942,7 +1942,7 @@
             "product_id": 11779,
             "available": false,
             "rating": 4.3,
-            "num_reviews": 573
+            "num_reviews": 574
         },
         "11795": {
             "name": "Workstream by Monoprice Deluxe Backlit Keyboard",
@@ -6413,7 +6413,7 @@
             "price": 229.99,
             "url": "https://www.monoprice.com/product?p_id=14886",
             "product_id": 14886,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 27
         },
@@ -7637,7 +7637,7 @@
             "price": 16.47,
             "url": "https://www.monoprice.com/product?p_id=15835",
             "product_id": 15835,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -43968,6 +43968,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-18T19:56:16Z"
+        "timestamp": "2023-05-18T20:09:15Z"
     }
 }
