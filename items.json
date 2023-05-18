@@ -28069,7 +28069,7 @@
             "product_id": 40879,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 56
+            "num_reviews": 57
         },
         "40880": {
             "name": "Monoprice Cat6 1ft Black Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series  Ethernet Cable",
@@ -28973,7 +28973,7 @@
         },
         "41374": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 12AWG, 500ft, Black",
-            "price": 209.99,
+            "price": 190.34,
             "url": "https://www.monoprice.com/product?p_id=41374",
             "product_id": 41374,
             "available": true,
@@ -29018,7 +29018,7 @@
         },
         "41379": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 16AWG, 100ft, Black",
-            "price": 31.99,
+            "price": 13.99,
             "url": "https://www.monoprice.com/product?p_id=41379",
             "product_id": 41379,
             "available": true,
@@ -29063,7 +29063,7 @@
         },
         "41384": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 12AWG, 100ft, Black",
-            "price": 89.99,
+            "price": 32.49,
             "url": "https://www.monoprice.com/product?p_id=41384",
             "product_id": 41384,
             "available": true,
@@ -29072,7 +29072,7 @@
         },
         "41385": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 12AWG, 250ft, Black",
-            "price": 179.99,
+            "price": 84.99,
             "url": "https://www.monoprice.com/product?p_id=41385",
             "product_id": 41385,
             "available": true,
@@ -29081,7 +29081,7 @@
         },
         "41386": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 14AWG, 100ft, Black",
-            "price": 69.99,
+            "price": 22.49,
             "url": "https://www.monoprice.com/product?p_id=41386",
             "product_id": 41386,
             "available": true,
@@ -29171,7 +29171,7 @@
         },
         "41396": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 16AWG, 1000ft, Black",
-            "price": 279.99,
+            "price": 149.98,
             "url": "https://www.monoprice.com/product?p_id=41396",
             "product_id": 41396,
             "available": true,
@@ -29198,7 +29198,7 @@
         },
         "41399": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 14AWG, 1000ft, Black",
-            "price": 559.99,
+            "price": 389.98,
             "url": "https://www.monoprice.com/product?p_id=41399",
             "product_id": 41399,
             "available": true,
@@ -29207,7 +29207,7 @@
         },
         "41400": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 12AWG, 1000ft, Black",
-            "price": 419.99,
+            "price": 379.09,
             "url": "https://www.monoprice.com/product?p_id=41400",
             "product_id": 41400,
             "available": true,
@@ -33640,7 +33640,7 @@
             "product_id": 43363,
             "available": false,
             "rating": 5,
-            "num_reviews": 2
+            "num_reviews": 3
         },
         "43374": {
             "name": "Commercial Series Premium High Speed HDMI Cable -4K@60Hz, HDR, 18Gbps, YCbCr 4:4:4, OD 0.22in, 30AWG, CL2, 6ft, Black",
@@ -34691,7 +34691,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=44117",
             "product_id": 44117,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 3
         },
@@ -35664,6 +35664,15 @@
             "url": "https://www.monoprice.com/product?p_id=44611",
             "product_id": 44611,
             "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "44685": {
+            "name": "Ninja Foodi 5-in-1 Indoor Grill with 4-Quart Air Fryer with Roast, Bake, Dehydrate, and Cyclonic Grilling Technology, IG301A",
+            "price": 149.99,
+            "url": "https://www.monoprice.com/product?p_id=44685",
+            "product_id": 44685,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -43968,6 +43977,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-18T20:34:44Z"
+        "timestamp": "2023-05-18T20:44:41Z"
     }
 }
