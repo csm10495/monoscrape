@@ -17262,15 +17262,6 @@
             "rating": 4.9,
             "num_reviews": 3040
         },
-        "33635": {
-            "name": "Monoprice Heavy Duty Extension Cord - IEC 60320 C20 to IEC 60320 C19, 12AWG, 20A/2500W, SJT, 250V, Blue, 6ft",
-            "price": 10.11,
-            "url": "https://www.monoprice.com/product?p_id=33635",
-            "product_id": 33635,
-            "available": true,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "3364": {
             "name": "Monoprice Cat5e 2ft Blue Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 1.29,
@@ -17969,7 +17960,7 @@
             "price": 13.99,
             "url": "https://www.monoprice.com/product?p_id=33877",
             "product_id": 33877,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -18830,7 +18821,7 @@
         },
         "34306": {
             "name": "Monoprice Speaker Wire, Braided with Banana Plugs, 2-Conductor, 14AWG, 6ft, 1 Pack",
-            "price": 23.37,
+            "price": 27.99,
             "url": "https://www.monoprice.com/product?p_id=34306",
             "product_id": 34306,
             "available": true,
@@ -21737,7 +21728,7 @@
         },
         "36656": {
             "name": "Monoprice Thunderbolt 3 Dual DisplayPort Docking Station with USB-C MFDP Support for non-Thunderbolt 3 Devices, with Thunderbolt 3 USB Type-C Cable (v2)",
-            "price": 179.99,
+            "price": 139.99,
             "url": "https://www.monoprice.com/product?p_id=36656",
             "product_id": 36656,
             "available": true,
@@ -22660,7 +22651,7 @@
             "product_id": 38315,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 263
+            "num_reviews": 266
         },
         "38316": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft, Blue",
@@ -24197,7 +24188,7 @@
             "price": 11.49,
             "url": "https://www.monoprice.com/product?p_id=38902",
             "product_id": 38902,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 78
         },
@@ -24233,7 +24224,7 @@
             "price": 6.79,
             "url": "https://www.monoprice.com/product?p_id=38906",
             "product_id": 38906,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 78
         },
@@ -26267,7 +26258,7 @@
             "price": 679.99,
             "url": "https://www.monoprice.com/product?p_id=39693",
             "product_id": 39693,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -43968,6 +43959,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-18T21:26:00Z"
+        "timestamp": "2023-05-18T21:34:24Z"
     }
 }
