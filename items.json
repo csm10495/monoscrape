@@ -617,7 +617,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=11148",
             "product_id": 11148,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 97
         },
@@ -1159,7 +1159,7 @@
             "product_id": 11295,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1465
+            "num_reviews": 1466
         },
         "11297": {
             "name": "Monoprice Cat6A 25ft Blue Patch Cable,  Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Molded RJ45, Entegrade Series Ethernet Cable",
@@ -1266,15 +1266,6 @@
             "url": "https://www.monoprice.com/product?p_id=11320",
             "product_id": 11320,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 1466
-        },
-        "11322": {
-            "name": "Monoprice FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 30ft, Green",
-            "price": 9.49,
-            "url": "https://www.monoprice.com/product?p_id=11322",
-            "product_id": 11322,
-            "available": false,
             "rating": 4.9,
             "num_reviews": 1466
         },
@@ -2729,7 +2720,7 @@
         },
         "12781": {
             "name": "Monoprice DisplayPort 1.2a to 4K HDMI Active Adapter, Black",
-            "price": 13.99,
+            "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=12781",
             "product_id": 12781,
             "available": true,
@@ -2876,7 +2867,7 @@
             "price": 9.49,
             "url": "https://www.monoprice.com/product?p_id=12842",
             "product_id": 12842,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 2056
         },
@@ -2999,7 +2990,7 @@
         },
         "12962": {
             "name": "Monoprice 4K High Speed HDMI Cable 50ft - CL2 In Wall Rated 18Gbps Active Black",
-            "price": 61.99,
+            "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=12962",
             "product_id": 12962,
             "available": true,
@@ -5852,7 +5843,7 @@
         },
         "14503": {
             "name": "Monoprice Select Series USB-C 3-Port USB 3.0 Hub and Gigabit Ethernet Adapter",
-            "price": 21.99,
+            "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=14503",
             "product_id": 14503,
             "available": true,
@@ -9221,7 +9212,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=18628",
             "product_id": 18628,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 100
         },
@@ -9455,7 +9446,7 @@
             "price": 135.99,
             "url": "https://www.monoprice.com/product?p_id=18803",
             "product_id": 18803,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 27
         },
@@ -43977,6 +43968,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-18T21:06:18Z"
+        "timestamp": "2023-05-18T21:20:36Z"
     }
 }
