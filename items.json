@@ -14423,7 +14423,7 @@
             "price": 9.59,
             "url": "https://www.monoprice.com/product?p_id=36282",
             "product_id": 36282,
-            "available": true,
+            "available": false,
             "rating": 3.9,
             "num_reviews": 21
         },
@@ -15524,6 +15524,15 @@
             "available": true,
             "rating": 4.5,
             "num_reviews": 49
+        },
+        "38202": {
+            "name": "Monolith by Monoprice 12\" THX Ultra Certified 500 Watt Powered Subwoofer (Open Box)",
+            "price": 679.99,
+            "url": "https://www.monoprice.com/product?p_id=38202",
+            "product_id": 38202,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 7
         },
         "38274": {
             "name": "Monoprice OM3 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 3m",
@@ -18266,7 +18275,7 @@
             "price": 359.99,
             "url": "https://www.monoprice.com/product?p_id=39414",
             "product_id": 39414,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 24
         },
@@ -37029,6 +37038,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-18T13:35:48Z"
+        "timestamp": "2023-05-18T13:44:10Z"
     }
 }
