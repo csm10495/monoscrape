@@ -18113,7 +18113,7 @@
             "price": 20.99,
             "url": "https://www.monoprice.com/product?p_id=33898",
             "product_id": 33898,
-            "available": true,
+            "available": false,
             "rating": 4,
             "num_reviews": 1
         },
@@ -22723,7 +22723,7 @@
             "product_id": 38322,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 263
+            "num_reviews": 265
         },
         "38323": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Purple",
@@ -43977,6 +43977,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-18T03:44:28Z"
+        "timestamp": "2023-05-18T03:54:22Z"
     }
 }
