@@ -583,7 +583,7 @@
             "product_id": 11044,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 573
+            "num_reviews": 574
         },
         "11045": {
             "name": "Monoprice Premium 3D Printer Filament PLA 1.75mm 1kg/spool, Bright Orange",
@@ -1843,7 +1843,7 @@
             "product_id": 11551,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 573
+            "num_reviews": 574
         },
         "11566": {
             "name": "Monoprice HDMI to VGA Kit",
@@ -7511,7 +7511,7 @@
             "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=15718",
             "product_id": 15718,
-            "available": false,
+            "available": true,
             "rating": 4.2,
             "num_reviews": 10
         },
@@ -43968,6 +43968,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-18T18:45:16Z"
+        "timestamp": "2023-05-18T18:54:45Z"
     }
 }
