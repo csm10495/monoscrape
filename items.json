@@ -7871,7 +7871,7 @@
             "price": 13.99,
             "url": "https://www.monoprice.com/product?p_id=1591",
             "product_id": 1591,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 12
         },
@@ -9842,7 +9842,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=2143",
             "product_id": 2143,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3040
         },
@@ -11129,7 +11129,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=2309",
             "product_id": 2309,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3399
         },
@@ -11255,7 +11255,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=2326",
             "product_id": 2326,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3398
         },
@@ -13439,7 +13439,7 @@
         },
         "2747": {
             "name": "Monoprice Speaker Wire, Oxygen-Free CL2 Rated, 2-Conductor, 12AWG, 50ft",
-            "price": 32.99,
+            "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=2747",
             "product_id": 2747,
             "available": true,
@@ -13457,7 +13457,7 @@
         },
         "2748": {
             "name": "Monoprice Speaker Wire, Oxygen-Free CL2 Rated, 2-Conductor, 14AWG, 50ft",
-            "price": 24.49,
+            "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=2748",
             "product_id": 2748,
             "available": false,
@@ -13484,7 +13484,7 @@
         },
         "2749": {
             "name": "Monoprice Speaker Wire, Oxygen-Free CL2 Rated, 2-Conductor, 16AWG, 50ft",
-            "price": 24.99,
+            "price": 15.73,
             "url": "https://www.monoprice.com/product?p_id=2749",
             "product_id": 2749,
             "available": true,
@@ -13907,7 +13907,7 @@
         },
         "2789": {
             "name": "Monoprice Speaker Wire, Oxygen-Free CL2 Rated, 2-Conductor, 12AWG, 100ft",
-            "price": 69.99,
+            "price": 54.99,
             "url": "https://www.monoprice.com/product?p_id=2789",
             "product_id": 2789,
             "available": false,
@@ -13916,7 +13916,7 @@
         },
         "2790": {
             "name": "Monoprice Speaker Wire, Oxygen-Free CL2 Rated, 2-Conductor, 12AWG, 300ft",
-            "price": 140.99,
+            "price": 127.49,
             "url": "https://www.monoprice.com/product?p_id=2790",
             "product_id": 2790,
             "available": true,
@@ -13952,7 +13952,7 @@
         },
         "2791": {
             "name": "Monoprice Speaker Wire, Oxygen-Free CL2 Rated, 2-Conductor, 14AWG, 100ft",
-            "price": 34.99,
+            "price": 44.99,
             "url": "https://www.monoprice.com/product?p_id=2791",
             "product_id": 2791,
             "available": true,
@@ -13997,7 +13997,7 @@
         },
         "2792": {
             "name": "Monoprice Speaker Wire, Oxygen-Free CL2 Rated, 2-Conductor, 14AWG, 300ft",
-            "price": 69.99,
+            "price": 114.99,
             "url": "https://www.monoprice.com/product?p_id=2792",
             "product_id": 2792,
             "available": true,
@@ -14069,7 +14069,7 @@
         },
         "2793": {
             "name": "Monoprice Speaker Wire, Oxygen-Free CL2 Rated, 2-Conductor, 16AWG, 100ft",
-            "price": 30.49,
+            "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=2793",
             "product_id": 2793,
             "available": true,
@@ -14123,7 +14123,7 @@
         },
         "2794": {
             "name": "Monoprice Speaker Wire, Oxygen-Free CL2 Rated, 2-Conductor, 16AWG, 300ft",
-            "price": 89.99,
+            "price": 55.99,
             "url": "https://www.monoprice.com/product?p_id=2794",
             "product_id": 2794,
             "available": true,
@@ -14132,7 +14132,7 @@
         },
         "2795": {
             "name": "Monoprice Speaker Wire, Oxygen-Free CL2 Rated, 2-Conductor, 18AWG, 100ft",
-            "price": 22.49,
+            "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=2795",
             "product_id": 2795,
             "available": true,
@@ -14177,7 +14177,7 @@
         },
         "2817": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 12AWG, 100ft, White",
-            "price": 51.99,
+            "price": 47.99,
             "url": "https://www.monoprice.com/product?p_id=2817",
             "product_id": 2817,
             "available": true,
@@ -14186,7 +14186,7 @@
         },
         "2818": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 12AWG, 500ft, White",
-            "price": 239.99,
+            "price": 209.99,
             "url": "https://www.monoprice.com/product?p_id=2818",
             "product_id": 2818,
             "available": true,
@@ -14195,7 +14195,7 @@
         },
         "2819": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 14AWG, 50ft, White",
-            "price": 26.49,
+            "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=2819",
             "product_id": 2819,
             "available": true,
@@ -14213,7 +14213,7 @@
         },
         "2821": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 14AWG, 250ft, White",
-            "price": 94.99,
+            "price": 87.99,
             "url": "https://www.monoprice.com/product?p_id=2821",
             "product_id": 2821,
             "available": true,
@@ -14222,7 +14222,7 @@
         },
         "2822": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 16AWG, 50ft, White",
-            "price": 19.99,
+            "price": 15.38,
             "url": "https://www.monoprice.com/product?p_id=2822",
             "product_id": 2822,
             "available": true,
@@ -14231,7 +14231,7 @@
         },
         "2823": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 16AWG, 100ft, White",
-            "price": 31.49,
+            "price": 31.99,
             "url": "https://www.monoprice.com/product?p_id=2823",
             "product_id": 2823,
             "available": true,
@@ -14240,7 +14240,7 @@
         },
         "2824": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 16AWG, 250ft, White",
-            "price": 57.49,
+            "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=2824",
             "product_id": 2824,
             "available": true,
@@ -19013,7 +19013,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=3438",
             "product_id": 3438,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3399
         },
@@ -22988,7 +22988,7 @@
         },
         "3844": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 12AWG, 250ft, White",
-            "price": 113.99,
+            "price": 104.99,
             "url": "https://www.monoprice.com/product?p_id=3844",
             "product_id": 3844,
             "available": true,
@@ -22997,7 +22997,7 @@
         },
         "3845": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 14AWG, 500ft, White",
-            "price": 164.99,
+            "price": 174.99,
             "url": "https://www.monoprice.com/product?p_id=3845",
             "product_id": 3845,
             "available": true,
@@ -23015,7 +23015,7 @@
         },
         "3846": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 16AWG, 500ft, White",
-            "price": 114.99,
+            "price": 139.99,
             "url": "https://www.monoprice.com/product?p_id=3846",
             "product_id": 3846,
             "available": true,
@@ -27560,7 +27560,7 @@
         },
         "4039": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 14AWG, 100ft, White",
-            "price": 67.12,
+            "price": 53.7,
             "url": "https://www.monoprice.com/product?p_id=4039",
             "product_id": 4039,
             "available": true,
@@ -27650,7 +27650,7 @@
         },
         "4041": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 16AWG, 100ft, White",
-            "price": 49.99,
+            "price": 42.49,
             "url": "https://www.monoprice.com/product?p_id=4041",
             "product_id": 4041,
             "available": true,
@@ -27677,7 +27677,7 @@
         },
         "4042": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 16AWG, 250ft, White",
-            "price": 99.99,
+            "price": 93.49,
             "url": "https://www.monoprice.com/product?p_id=4042",
             "product_id": 4042,
             "available": true,
@@ -27731,7 +27731,7 @@
         },
         "4043": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 18AWG, 100ft, White",
-            "price": 35.27,
+            "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=4043",
             "product_id": 4043,
             "available": true,
@@ -27749,7 +27749,7 @@
         },
         "4044": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 18AWG, 50ft, White",
-            "price": 14.99,
+            "price": 10.86,
             "url": "https://www.monoprice.com/product?p_id=4044",
             "product_id": 4044,
             "available": true,
@@ -27767,7 +27767,7 @@
         },
         "4045": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 18AWG, 100ft, White",
-            "price": 16.99,
+            "price": 23.99,
             "url": "https://www.monoprice.com/product?p_id=4045",
             "product_id": 4045,
             "available": true,
@@ -27776,7 +27776,7 @@
         },
         "4046": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 18AWG, 250ft, White",
-            "price": 43.49,
+            "price": 52.99,
             "url": "https://www.monoprice.com/product?p_id=4046",
             "product_id": 4046,
             "available": true,
@@ -35906,7 +35906,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=4769",
             "product_id": 4769,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 201
         },
@@ -36077,7 +36077,7 @@
             "price": 2.38,
             "url": "https://www.monoprice.com/product?p_id=479",
             "product_id": 479,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 10
         },
@@ -36113,7 +36113,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=4794",
             "product_id": 4794,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 422
         },
@@ -36176,7 +36176,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=4826",
             "product_id": 4826,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 370
         },
@@ -36509,7 +36509,7 @@
             "price": 9.49,
             "url": "https://www.monoprice.com/product?p_id=5017",
             "product_id": 5017,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3399
         },
@@ -37211,7 +37211,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=542",
             "product_id": 542,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 6
         },
@@ -39096,6 +39096,15 @@
             "rating": 4.4,
             "num_reviews": 926
         },
+        "6470": {
+            "name": "Monoprice Hook and Loop Fastening Cable Ties, 13in, 50 pcs/pack, Black",
+            "price": 9.29,
+            "url": "https://www.monoprice.com/product?p_id=6470",
+            "product_id": 6470,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 35
+        },
         "6476": {
             "name": "Monoprice Hook and Loop Fastening Cable Ties, 6in, 100 pcs/pack, Black",
             "price": 15.99,
@@ -39137,7 +39146,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=649",
             "product_id": 649,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 874
         },
@@ -42215,7 +42224,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=8767",
             "product_id": 8767,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 157
         },
@@ -42626,7 +42635,7 @@
         },
         "9343": {
             "name": "Monoprice Speaker Wire, Enhanced Loud Oxygen-Free, No Logo, CL2 Rated, 12AWG, 100ft",
-            "price": 64.99,
+            "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=9343",
             "product_id": 9343,
             "available": true,
@@ -43968,6 +43977,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-18T22:54:21Z"
+        "timestamp": "2023-05-18T23:06:31Z"
     }
 }
