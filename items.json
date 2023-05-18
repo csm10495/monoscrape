@@ -10166,7 +10166,7 @@
             "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=21606",
             "product_id": 21606,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 50
         },
@@ -11815,7 +11815,7 @@
             "product_id": 24287,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 145
+            "num_reviews": 146
         },
         "24288": {
             "name": "Monoprice Essentials USB Type-C to USB Type-A Female 3.1 Gen 1 Extension Cable - 5Gbps, 3A, 30AWG, Black, 0.5ft",
@@ -43968,6 +43968,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-18T18:54:45Z"
+        "timestamp": "2023-05-18T19:06:47Z"
     }
 }
