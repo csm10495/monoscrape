@@ -9974,7 +9974,7 @@
         },
         "21543": {
             "name": "Monoprice Speaker Wire, Burial Rated, 2-Conductor, 16AWG, 1000ft, Gray",
-            "price": 199.99,
+            "price": 200.99,
             "url": "https://www.monoprice.com/product?p_id=21543",
             "product_id": 21543,
             "available": false,
@@ -9983,7 +9983,7 @@
         },
         "21544": {
             "name": "Monoprice Speaker Wire, Burial Rated, 4-Conductor, 16AWG, 1000ft, Gray",
-            "price": 311.99,
+            "price": 218.39,
             "url": "https://www.monoprice.com/product?p_id=21544",
             "product_id": 21544,
             "available": true,
@@ -10001,7 +10001,7 @@
         },
         "21547": {
             "name": "Monoprice Speaker Wire, Burial Rated, 2-Conductor, 12AWG, 1000ft, Gray",
-            "price": 473.99,
+            "price": 343.99,
             "url": "https://www.monoprice.com/product?p_id=21547",
             "product_id": 21547,
             "available": true,
@@ -10010,7 +10010,7 @@
         },
         "21548": {
             "name": "Monoprice Speaker Wire, Burial Rated, 2-Conductor, 16AWG, 250ft, Gray",
-            "price": 55.99,
+            "price": 48.02,
             "url": "https://www.monoprice.com/product?p_id=21548",
             "product_id": 21548,
             "available": false,
@@ -10019,7 +10019,7 @@
         },
         "21549": {
             "name": "Monoprice Speaker Wire, Burial Rated, 4-Conductor, 16AWG, 250ft, Gray",
-            "price": 115.49,
+            "price": 115.99,
             "url": "https://www.monoprice.com/product?p_id=21549",
             "product_id": 21549,
             "available": true,
@@ -10046,7 +10046,7 @@
         },
         "21552": {
             "name": "Monoprice Speaker Wire, Burial Rated, 2-Conductor, 12AWG, 250ft, Gray",
-            "price": 129.99,
+            "price": 159.99,
             "url": "https://www.monoprice.com/product?p_id=21552",
             "product_id": 21552,
             "available": true,
@@ -10055,7 +10055,7 @@
         },
         "21553": {
             "name": "Monoprice Speaker Wire, Burial Rated, 4-Conductor, 12AWG, 250ft, Gray",
-            "price": 252.99,
+            "price": 188.99,
             "url": "https://www.monoprice.com/product?p_id=21553",
             "product_id": 21553,
             "available": true,
@@ -43995,6 +43995,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-18T23:22:22Z"
+        "timestamp": "2023-05-18T23:27:48Z"
     }
 }
