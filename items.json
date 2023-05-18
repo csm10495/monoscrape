@@ -162,15 +162,6 @@
             "rating": 4.4,
             "num_reviews": 372
         },
-        "10158": {
-            "name": "Monoprice Kidz Cover and Stand for iPad mini - Black",
-            "price": 7.3,
-            "url": "https://www.monoprice.com/product?p_id=10158",
-            "product_id": 10158,
-            "available": false,
-            "rating": 4,
-            "num_reviews": 3
-        },
         "10223": {
             "name": "Monoprice Recessed Full-Motion Articulating TV Wall Mount Bracket - For LED TVs 32in to 60in, Max Weight 200 lbs, Extension Range of 4.4in to 29.8in, VESA Patterns Up to 600x400",
             "price": 149.99,
@@ -179,15 +170,6 @@
             "available": true,
             "rating": 4.6,
             "num_reviews": 34
-        },
-        "10288": {
-            "name": "Monoprice Escher Case for iPhone® 5/5s/SE - Opaque Black",
-            "price": 4.23,
-            "url": "https://www.monoprice.com/product?p_id=10288",
-            "product_id": 10288,
-            "available": false,
-            "rating": 4.3,
-            "num_reviews": 15
         },
         "10319": {
             "name": "Monoprice 3G SDI 2x1 Switch",
@@ -7074,69 +7056,6 @@
             "rating": 4.4,
             "num_reviews": 5
         },
-        "15411": {
-            "name": "Monoprice ELECTRIC BIKE TECHNOLOGIES | 500-watt Rear Bike Motor Kit 700C/29er Rear Wheel Geared Motor (no Battery)",
-            "price": 718.99,
-            "url": "https://www.monoprice.com/product?p_id=15411",
-            "product_id": 15411,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "15412": {
-            "name": "Monoprice ELECTRIC BIKE TECHNOLOGIES | 500-watt Rear Bike Motor Kit 700C/29er Rear Wheel Geared Motor w/ 36v9Ah Lead-Acid Battery Pack",
-            "price": 978.99,
-            "url": "https://www.monoprice.com/product?p_id=15412",
-            "product_id": 15412,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "15413": {
-            "name": "Monoprice ELECTRIC BIKE TECHNOLOGIES | 500-watt Rear Bike Motor Kit 700C/29er Rear Wheel Geared Motor w/ 48v9Ah Lead-Acid Battery Pack",
-            "price": 1027.99,
-            "url": "https://www.monoprice.com/product?p_id=15413",
-            "product_id": 15413,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "15414": {
-            "name": "Monoprice ELECTRIC BIKE TECHNOLOGIES | 500-watt Rear Bike Motor Kit 700C/29er Rear Wheel Geared Motor w/ 36v10Ah LiFePO4 and Rear Rack",
-            "price": 1401.99,
-            "url": "https://www.monoprice.com/product?p_id=15414",
-            "product_id": 15414,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "15415": {
-            "name": "Monoprice ELECTRIC BIKE TECHNOLOGIES | 500-watt Rear Bike Motor Kit 700C/29er Rear Wheel Geared Motor w/ 48v10Ah LiFePO4 and Rear Rack",
-            "price": 1516.99,
-            "url": "https://www.monoprice.com/product?p_id=15415",
-            "product_id": 15415,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "15416": {
-            "name": "Monoprice ELECTRIC BIKE TECHNOLOGIES | 500-watt Rear Bike Motor Kit 26\" Rear Wheel Geared Motor (no Battery)",
-            "price": 718.99,
-            "url": "https://www.monoprice.com/product?p_id=15416",
-            "product_id": 15416,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "15417": {
-            "name": "Monoprice ELECTRIC BIKE TECHNOLOGIES | 500-watt Rear Bike Motor Kit 26\" Rear Wheel Geared Motor w/ 36v9Ah Lead-Acid Battery Pack",
-            "price": 978.99,
-            "url": "https://www.monoprice.com/product?p_id=15417",
-            "product_id": 15417,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "15418": {
             "name": "Monoprice ELECTRIC BIKE TECHNOLOGIES | 500-watt Rear Bike Motor Kit 26\" Rear Wheel Geared Motor w/ 48v9Ah Lead-Acid Battery Pack",
             "price": 1027.99,
@@ -7145,33 +7064,6 @@
             "available": false,
             "rating": 0,
             "num_reviews": 0
-        },
-        "15419": {
-            "name": "Monoprice ELECTRIC BIKE TECHNOLOGIES | 500-watt Rear Bike Motor Kit 26\" Rear Wheel Geared Motor w/ 36v10Ah LiFePO4 and Rear Rack",
-            "price": 1401.99,
-            "url": "https://www.monoprice.com/product?p_id=15419",
-            "product_id": 15419,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "15420": {
-            "name": "Monoprice ELECTRIC BIKE TECHNOLOGIES | 500-watt Rear Bike Motor Kit 26\" Rear Wheel Geared Motor w/ 48v10Ah LiFePO4 and Rear Rack",
-            "price": 1516.99,
-            "url": "https://www.monoprice.com/product?p_id=15420",
-            "product_id": 15420,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "15424": {
-            "name": "Monoprice 38mm Carbon Clincher Wheelset featuring Sapim CX-Ray Spokes",
-            "price": 771.99,
-            "url": "https://www.monoprice.com/product?p_id=15424",
-            "product_id": 15424,
-            "available": false,
-            "rating": 4.6,
-            "num_reviews": 5
         },
         "15427": {
             "name": "Monoprice 4K Certified Premium High Speed HDMI Cable 3ft - 18Gbps Black",
@@ -7217,24 +7109,6 @@
             "available": true,
             "rating": 4.7,
             "num_reviews": 1707
-        },
-        "15435": {
-            "name": "Monoprice Kenda 700x23c Kaliente Pro R2C IC 120tpi Fold Red, K925",
-            "price": 59.99,
-            "url": "https://www.monoprice.com/product?p_id=15435",
-            "product_id": 15435,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 1
-        },
-        "15440": {
-            "name": "Monoprice Kenda 700x32c Kwick Tendril Endurance SRC E3 60tpi Fold, K1067",
-            "price": 41.69,
-            "url": "https://www.monoprice.com/product?p_id=15440",
-            "product_id": 15440,
-            "available": false,
-            "rating": 3,
-            "num_reviews": 1
         },
         "15495": {
             "name": "Monoprice Commercial Series Hidden Motorized Recessed Ceiling Projector Lift Mount (Max 44 lbs.)",
@@ -7763,7 +7637,7 @@
             "price": 16.47,
             "url": "https://www.monoprice.com/product?p_id=15835",
             "product_id": 15835,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -9153,15 +9027,6 @@
             "rating": 4.4,
             "num_reviews": 10
         },
-        "16385": {
-            "name": "Monoprice MP Intelligent High Suction, Self-Docking, Self-Charging Robotic Vacuum Cleaner with Drop-Sensing Technology and HEPA Style Filter for Pet Fur and Allergens, Hard Floor / Carpet",
-            "price": 119.99,
-            "url": "https://www.monoprice.com/product?p_id=16385",
-            "product_id": 16385,
-            "available": false,
-            "rating": 4,
-            "num_reviews": 132
-        },
         "18513": {
             "name": "Monoprice Unity 100-Watt Bridgeable Power Amp",
             "price": 139.99,
@@ -9539,15 +9404,6 @@
             "available": false,
             "rating": 4.7,
             "num_reviews": 119
-        },
-        "18734": {
-            "name": "Strata Home by Monoprice Portable Induction Cooktop 1800W",
-            "price": 49.99,
-            "url": "https://www.monoprice.com/product?p_id=18734",
-            "product_id": 18734,
-            "available": false,
-            "rating": 4.6,
-            "num_reviews": 94
         },
         "18785": {
             "name": "Monoprice Blackbird 4K Mini 1x4 HDMI Splitter",
@@ -44580,6 +44436,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-18T01:51:23Z"
+        "timestamp": "2023-05-18T02:28:05Z"
     }
 }
