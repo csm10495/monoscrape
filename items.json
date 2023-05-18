@@ -9902,7 +9902,7 @@
         },
         "21511": {
             "name": "Monoprice 4K Certified Premium High Speed HDMI Cable 25ft - 18Gbps White",
-            "price": 30.99,
+            "price": 12.38,
             "url": "https://www.monoprice.com/product?p_id=21511",
             "product_id": 21511,
             "available": true,
@@ -9938,7 +9938,7 @@
         },
         "21533": {
             "name": "Monoprice Replacement 0.4mm Copper Extruder Nozzle for the MP Select Mini (15365 and 21711) and MP Select Mini PRO (33012) 3D Printers",
-            "price": 2.59,
+            "price": 1.55,
             "url": "https://www.monoprice.com/product?p_id=21533",
             "product_id": 21533,
             "available": true,
@@ -9965,7 +9965,7 @@
         },
         "21544": {
             "name": "Monoprice Speaker Wire, Burial Rated, 4-Conductor, 16AWG, 1000ft, Gray",
-            "price": 311.99,
+            "price": 218.39,
             "url": "https://www.monoprice.com/product?p_id=21544",
             "product_id": 21544,
             "available": true,
@@ -9981,18 +9981,9 @@
             "rating": 4.8,
             "num_reviews": 29
         },
-        "21546": {
-            "name": "Monoprice Speaker Wire, Burial Rated, 4-Conductor, 14AWG, 1000ft, Gray",
-            "price": 599.99,
-            "url": "https://www.monoprice.com/product?p_id=21546",
-            "product_id": 21546,
-            "available": false,
-            "rating": 4.8,
-            "num_reviews": 29
-        },
         "21547": {
             "name": "Monoprice Speaker Wire, Burial Rated, 2-Conductor, 12AWG, 1000ft, Gray",
-            "price": 473.99,
+            "price": 343.99,
             "url": "https://www.monoprice.com/product?p_id=21547",
             "product_id": 21547,
             "available": true,
@@ -10001,7 +9992,7 @@
         },
         "21548": {
             "name": "Monoprice Speaker Wire, Burial Rated, 2-Conductor, 16AWG, 250ft, Gray",
-            "price": 55.99,
+            "price": 48.02,
             "url": "https://www.monoprice.com/product?p_id=21548",
             "product_id": 21548,
             "available": false,
@@ -10046,7 +10037,7 @@
         },
         "21553": {
             "name": "Monoprice Speaker Wire, Burial Rated, 4-Conductor, 12AWG, 250ft, Gray",
-            "price": 252.99,
+            "price": 188.99,
             "url": "https://www.monoprice.com/product?p_id=21553",
             "product_id": 21553,
             "available": true,
@@ -10064,7 +10055,7 @@
         },
         "21565": {
             "name": "Monoprice Viper Series HD-SDI RG-6 BNC Cable, 300ft",
-            "price": 199.99,
+            "price": 119.99,
             "url": "https://www.monoprice.com/product?p_id=21565",
             "product_id": 21565,
             "available": true,
@@ -10181,7 +10172,7 @@
         },
         "21607": {
             "name": "Monoprice USB Type-C to 4K HDMI, Single Link DVI, and VGA Passive Adapter, Black",
-            "price": 21.49,
+            "price": 12.88,
             "url": "https://www.monoprice.com/product?p_id=21607",
             "product_id": 21607,
             "available": true,
@@ -10199,7 +10190,7 @@
         },
         "21609": {
             "name": "Monoprice Blackbird 4K Pro HDBaseT Extender Kit, IR, 70m with PoC, RS-232, HDCP 2.2",
-            "price": 129.99,
+            "price": 109.99,
             "url": "https://www.monoprice.com/product?p_id=21609",
             "product_id": 21609,
             "available": true,
@@ -10334,7 +10325,7 @@
         },
         "21664": {
             "name": "Monoprice RG-6 Quad Universal F-Connector, 25 Pack",
-            "price": 27.99,
+            "price": 20.99,
             "url": "https://www.monoprice.com/product?p_id=21664",
             "product_id": 21664,
             "available": true,
@@ -10361,7 +10352,7 @@
         },
         "21670": {
             "name": "Monoprice USB 3.0 4-port Aluminum Hub",
-            "price": 17.49,
+            "price": 13.1,
             "url": "https://www.monoprice.com/product?p_id=21670",
             "product_id": 21670,
             "available": true,
@@ -10370,7 +10361,7 @@
         },
         "21671": {
             "name": "Monoprice USB 3.0 4-port Aluminum Hub with AC Adapter",
-            "price": 19.99,
+            "price": 8.98,
             "url": "https://www.monoprice.com/product?p_id=21671",
             "product_id": 21671,
             "available": true,
@@ -10478,7 +10469,7 @@
         },
         "21793": {
             "name": "Monoprice Blackbird 4K HDBaseT 1x4 Splitter Extender with PoC, EDID, IR, RS-232, and 4 Receivers",
-            "price": 814.99,
+            "price": 285.23,
             "url": "https://www.monoprice.com/product?p_id=21793",
             "product_id": 21793,
             "available": true,
@@ -10487,7 +10478,7 @@
         },
         "21794": {
             "name": "Monoprice Cat6A 1000ft Blue CMP UL Bulk Cable, TAA, Solid, UTP, 23AWG, 550MHz, 10G, Pure Bare Copper, Reel in Box, Entegrade Series Bulk Ethernet Cable",
-            "price": 451.49,
+            "price": 299.99,
             "url": "https://www.monoprice.com/product?p_id=21794",
             "product_id": 21794,
             "available": false,
@@ -10505,7 +10496,7 @@
         },
         "21803": {
             "name": "Monoprice SlimRun AV DisplayPort Cable, 32.4Gbps, 8K@30Hz, 5K@60Hz, 4K@120Hz, Fiber Optic, AOC, 20ft",
-            "price": 211.49,
+            "price": 190.33,
             "url": "https://www.monoprice.com/product?p_id=21803",
             "product_id": 21803,
             "available": true,
@@ -10658,7 +10649,7 @@
         },
         "21871": {
             "name": "Monoprice Maker Select Plus 3D Printer with Euro Power Supply",
-            "price": 399,
+            "price": 139.64,
             "url": "https://www.monoprice.com/product?p_id=21871",
             "product_id": 21871,
             "available": true,
@@ -10685,7 +10676,7 @@
         },
         "21881": {
             "name": "Monoprice USB Type-A to USB Type-C Adapter",
-            "price": 7.99,
+            "price": 7.19,
             "url": "https://www.monoprice.com/product?p_id=21881",
             "product_id": 21881,
             "available": true,
@@ -10703,7 +10694,7 @@
         },
         "21887": {
             "name": "Monoprice 3-Pack Hook and Loop Fastening Tape 5 yard/roll, 0.75in, Black",
-            "price": 6.99,
+            "price": 6.29,
             "url": "https://www.monoprice.com/product?p_id=21887",
             "product_id": 21887,
             "available": true,
@@ -10712,7 +10703,7 @@
         },
         "21912": {
             "name": "Monoprice 1 Pair Right Angle 24k Gold Plated Banana Speaker Wire Cable Screw Plug Connectors",
-            "price": 3.49,
+            "price": 2.09,
             "url": "https://www.monoprice.com/product?p_id=21912",
             "product_id": 21912,
             "available": true,
@@ -10766,7 +10757,7 @@
         },
         "21919": {
             "name": "Monoprice 10 Pair Affinity Series 24k Gold Speaker Banana Plug",
-            "price": 34.99,
+            "price": 20.99,
             "url": "https://www.monoprice.com/product?p_id=21919",
             "product_id": 21919,
             "available": true,
@@ -10829,7 +10820,7 @@
         },
         "21970": {
             "name": "Monoprice 4-Port DisplayPort 1.2 to DisplayPort Multi-Stream Transport (MST) Hub",
-            "price": 83.99,
+            "price": 47.86,
             "url": "https://www.monoprice.com/product?p_id=21970",
             "product_id": 21970,
             "available": true,
@@ -10856,7 +10847,7 @@
         },
         "21974": {
             "name": "Monoprice 2-Port DisplayPort 1.2 to HDMI Multi-Stream Transport (MST) Hub",
-            "price": 51.99,
+            "price": 44.19,
             "url": "https://www.monoprice.com/product?p_id=21974",
             "product_id": 21974,
             "available": true,
@@ -11468,7 +11459,7 @@
         },
         "24176": {
             "name": "Monoprice USB-C to HDMI, VGA, USB 3.0, RJ45 Gigabit Ethernet, and USB-C Female Travel Dock",
-            "price": 70.49,
+            "price": 42.29,
             "url": "https://www.monoprice.com/product?p_id=24176",
             "product_id": 24176,
             "available": true,
@@ -11495,7 +11486,7 @@
         },
         "24182": {
             "name": "Monoprice 4K Slim Certified Premium High Speed HDMI Cable 1ft - 18Gbps Black",
-            "price": 7.99,
+            "price": 7.19,
             "url": "https://www.monoprice.com/product?p_id=24182",
             "product_id": 24182,
             "available": true,
@@ -11504,7 +11495,7 @@
         },
         "24183": {
             "name": "Monoprice 4K Slim Certified Premium High Speed HDMI Cable 2ft - 18Gbps Black",
-            "price": 8.99,
+            "price": 2.23,
             "url": "https://www.monoprice.com/product?p_id=24183",
             "product_id": 24183,
             "available": true,
@@ -11513,7 +11504,7 @@
         },
         "24184": {
             "name": "Monoprice 4K Slim Certified Premium High Speed HDMI Cable 3ft - 18Gbps Black",
-            "price": 9.99,
+            "price": 8.49,
             "url": "https://www.monoprice.com/product?p_id=24184",
             "product_id": 24184,
             "available": true,
@@ -11630,7 +11621,7 @@
         },
         "24199": {
             "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R, 14AWG, 15A/1875W, 3-Prong, Black, 10ft",
-            "price": 10.49,
+            "price": 8.92,
             "url": "https://www.monoprice.com/product?p_id=24199",
             "product_id": 24199,
             "available": true,
@@ -11693,7 +11684,7 @@
         },
         "24260": {
             "name": "Monoprice Mini 4-port USB 3.0 Travel Hub",
-            "price": 11.99,
+            "price": 8.98,
             "url": "https://www.monoprice.com/product?p_id=24260",
             "product_id": 24260,
             "available": true,
@@ -11702,7 +11693,7 @@
         },
         "24261": {
             "name": "Monoprice 4-port USB 3.0 Switch Hub",
-            "price": 14.99,
+            "price": 8.98,
             "url": "https://www.monoprice.com/product?p_id=24261",
             "product_id": 24261,
             "available": true,
@@ -11738,7 +11729,7 @@
         },
         "24273": {
             "name": "Monoprice Select Series USB-C to Mini DisplayPort Adapter",
-            "price": 14.99,
+            "price": 9.13,
             "url": "https://www.monoprice.com/product?p_id=24273",
             "product_id": 24273,
             "available": true,
@@ -11747,7 +11738,7 @@
         },
         "24274": {
             "name": "Monoprice Select Series USB-C to Mini DisplayPort \u0026 USB-C (F) Dual Port Adapter",
-            "price": 21.99,
+            "price": 10.98,
             "url": "https://www.monoprice.com/product?p_id=24274",
             "product_id": 24274,
             "available": true,
@@ -11756,7 +11747,7 @@
         },
         "24278": {
             "name": "Monoprice Blackbird 4K HDMI Audio Extractor, 18Gbps, HDCP 2.2",
-            "price": 44.99,
+            "price": 33.74,
             "url": "https://www.monoprice.com/product?p_id=24278",
             "product_id": 24278,
             "available": true,
@@ -11765,7 +11756,7 @@
         },
         "24279": {
             "name": "Monoprice Blackbird 4K Fiber Optic HDMI Extender, 3300feet, 1000m, 4k@60Hz, IR, RS-232, HDMI 2.0 Support",
-            "price": 499.99,
+            "price": 449.99,
             "url": "https://www.monoprice.com/product?p_id=24279",
             "product_id": 24279,
             "available": true,
@@ -11774,7 +11765,7 @@
         },
         "24281": {
             "name": "Monoprice Blackbird 4K HDMI Extender, 50m - 4K HDMI Extension to 164 feet",
-            "price": 101.99,
+            "price": 86.99,
             "url": "https://www.monoprice.com/product?p_id=24281",
             "product_id": 24281,
             "available": true,
@@ -12188,7 +12179,7 @@
         },
         "24369": {
             "name": "Monoprice Cat6A 14ft White Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
-            "price": 9.49,
+            "price": 8.07,
             "url": "https://www.monoprice.com/product?p_id=24369",
             "product_id": 24369,
             "available": true,
@@ -12197,7 +12188,7 @@
         },
         "24372": {
             "name": "Monoprice Cat6A 14ft Green Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
-            "price": 9.49,
+            "price": 8.07,
             "url": "https://www.monoprice.com/product?p_id=24372",
             "product_id": 24372,
             "available": true,
@@ -12224,7 +12215,7 @@
         },
         "24377": {
             "name": "Monoprice Cat6A 20ft White Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
-            "price": 11.99,
+            "price": 10.19,
             "url": "https://www.monoprice.com/product?p_id=24377",
             "product_id": 24377,
             "available": true,
@@ -12278,7 +12269,7 @@
         },
         "24400": {
             "name": "Monoprice Cat6A 50ft Black Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
-            "price": 24.49,
+            "price": 20.82,
             "url": "https://www.monoprice.com/product?p_id=24400",
             "product_id": 24400,
             "available": true,
@@ -12296,7 +12287,7 @@
         },
         "24404": {
             "name": "Monoprice Cat6A 50ft Green Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
-            "price": 24.49,
+            "price": 20.81,
             "url": "https://www.monoprice.com/product?p_id=24404",
             "product_id": 24404,
             "available": true,
@@ -12377,7 +12368,7 @@
         },
         "24432": {
             "name": "Monoprice Amber In-Wall Speakers 6.5in 2-way Carbon Fiber with Ribbon Tweeter (pair)",
-            "price": 129.99,
+            "price": 90.98,
             "url": "https://www.monoprice.com/product?p_id=24432",
             "product_id": 24432,
             "available": true,
@@ -12458,7 +12449,7 @@
         },
         "24441": {
             "name": "Monoprice USB Type C to HDMI 3.1 Cable - 5Gbps, 4K@30Hz, Black, 6ft",
-            "price": 23.99,
+            "price": 20.39,
             "url": "https://www.monoprice.com/product?p_id=24441",
             "product_id": 24441,
             "available": true,
@@ -12467,7 +12458,7 @@
         },
         "24442": {
             "name": "Monoprice USB Type C to HDMI 3.1 Cable - 5Gbps, 4K@30Hz, Black, 9ft",
-            "price": 24.99,
+            "price": 22.49,
             "url": "https://www.monoprice.com/product?p_id=24442",
             "product_id": 24442,
             "available": true,
@@ -12485,7 +12476,7 @@
         },
         "24444": {
             "name": "Monoprice USB Type-C to DisplayPort 3.1 Cable - 5Gbps, Active, 4K@60Hz, Black, 6ft",
-            "price": 19.99,
+            "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=24444",
             "product_id": 24444,
             "available": true,
@@ -12503,7 +12494,7 @@
         },
         "24447": {
             "name": "Monoprice USB Type-C to Mini DisplayPort 3.1 Cable - 5Gbps, Active, 4K@60Hz, Black, 6ft",
-            "price": 23.49,
+            "price": 14.08,
             "url": "https://www.monoprice.com/product?p_id=24447",
             "product_id": 24447,
             "available": true,
@@ -12584,7 +12575,7 @@
         },
         "24467": {
             "name": "Monoprice Cable Management Spine, White",
-            "price": 9.99,
+            "price": 5.98,
             "url": "https://www.monoprice.com/product?p_id=24467",
             "product_id": 24467,
             "available": true,
@@ -12593,7 +12584,7 @@
         },
         "24506": {
             "name": "Monoprice Cat6A 90 Degree Unshielded Punch Down Keystone Jack, Dual Type IDC, 25 Pack, Blue",
-            "price": 52.99,
+            "price": 31.79,
             "url": "https://www.monoprice.com/product?p_id=24506",
             "product_id": 24506,
             "available": true,
@@ -12620,7 +12611,7 @@
         },
         "24567": {
             "name": "Monoprice 1x2 DisplayPort Splitter, 4K@60Hz, 21.6Gbps",
-            "price": 46.99,
+            "price": 35.23,
             "url": "https://www.monoprice.com/product?p_id=24567",
             "product_id": 24567,
             "available": true,
@@ -12665,7 +12656,7 @@
         },
         "24727": {
             "name": "Monoprice Thunderbolt 3 (40 Gbps) USB-C Cable, 100W, 1.0m",
-            "price": 54.99,
+            "price": 43.99,
             "url": "https://www.monoprice.com/product?p_id=24727",
             "product_id": 24727,
             "available": true,
@@ -12674,7 +12665,7 @@
         },
         "24729": {
             "name": "Monoprice Thunderbolt 3 (40 Gbps) USB-C Cable, 100W, 1.5m",
-            "price": 57.99,
+            "price": 34.79,
             "url": "https://www.monoprice.com/product?p_id=24729",
             "product_id": 24729,
             "available": true,
@@ -12683,7 +12674,7 @@
         },
         "24731": {
             "name": "Monoprice Thunderbolt 3 (40 Gbps) USB-C Cable, 100W, 2.0m",
-            "price": 59.99,
+            "price": 35.98,
             "url": "https://www.monoprice.com/product?p_id=24731",
             "product_id": 24731,
             "available": true,
@@ -12710,7 +12701,7 @@
         },
         "24737": {
             "name": "Workstream by Monoprice Memory Foam Ergonomic Back Rest Cushion",
-            "price": 24.99,
+            "price": 14.98,
             "url": "https://www.monoprice.com/product?p_id=24737",
             "product_id": 24737,
             "available": true,
@@ -12728,7 +12719,7 @@
         },
         "24740": {
             "name": "Monoprice Blackbird - 4x1 HDMI 1.4 Switch, Quad Multiview, HDCP 1.4, Remote Control, 4K@30Hz",
-            "price": 119.99,
+            "price": 83.98,
             "url": "https://www.monoprice.com/product?p_id=24740",
             "product_id": 24740,
             "available": true,
@@ -12737,7 +12728,7 @@
         },
         "24756": {
             "name": "Monoprice Entegrade Series Cat7 or Cat6A RJ-45 Shielded Toolless Keystone Jack, 10 pack",
-            "price": 47.49,
+            "price": 35.61,
             "url": "https://www.monoprice.com/product?p_id=24756",
             "product_id": 24756,
             "available": true,
@@ -12746,7 +12737,7 @@
         },
         "24757": {
             "name": "Monoprice Entegrade Series Cat7 or Cat6A RJ-45 Field Connection Modular Plug, Shielded for 23/24AWG Installation Cable, 10 pack",
-            "price": 64.99,
+            "price": 25.99,
             "url": "https://www.monoprice.com/product?p_id=24757",
             "product_id": 24757,
             "available": true,
@@ -12755,7 +12746,7 @@
         },
         "24759": {
             "name": "Monoprice Entegrade Series Cat6 RJ-45 Field Connection Modular Plug, Unshielded for 23/24AWG Installation Cable, 10 pack",
-            "price": 24.49,
+            "price": 17.13,
             "url": "https://www.monoprice.com/product?p_id=24759",
             "product_id": 24759,
             "available": true,
@@ -13115,7 +13106,7 @@
         },
         "27033": {
             "name": "Monoprice 6 Outlet Surge Protector Power Strip 6ft Cord, 2 Port USB Charger on the Plug, 1080 Joules",
-            "price": 33.99,
+            "price": 25.49,
             "url": "https://www.monoprice.com/product?p_id=27033",
             "product_id": 27033,
             "available": true,
@@ -13160,7 +13151,7 @@
         },
         "27282": {
             "name": "Monoprice USB Type-C to 4K DisplayPort, HDMI, and Single-Link DVI-D Passive Adapter",
-            "price": 33.49,
+            "price": 30.14,
             "url": "https://www.monoprice.com/product?p_id=27282",
             "product_id": 27282,
             "available": true,
@@ -13331,7 +13322,7 @@
         },
         "27403": {
             "name": "Monoprice Lightning to USB Cable - Apple MFi Certified, White, 3ft",
-            "price": 7.49,
+            "price": 6.74,
             "url": "https://www.monoprice.com/product?p_id=27403",
             "product_id": 27403,
             "available": true,
@@ -13340,7 +13331,7 @@
         },
         "27404": {
             "name": "Monoprice Thunderbolt 3 Dual DisplayPort Output Adapter, 4K@60Hz",
-            "price": 73.49,
+            "price": 25.72,
             "url": "https://www.monoprice.com/product?p_id=27404",
             "product_id": 27404,
             "available": true,
@@ -13349,7 +13340,7 @@
         },
         "27405": {
             "name": "Monoprice Thunderbolt 3 Dual HDMI 2.0 Output Adapter, 4K@60Hz",
-            "price": 99.99,
+            "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=27405",
             "product_id": 27405,
             "available": true,
@@ -13385,7 +13376,7 @@
         },
         "27436": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, S/STP, Pure Bare Copper Wire, 36AWG, 1ft, Green",
-            "price": 3.49,
+            "price": 2.61,
             "url": "https://www.monoprice.com/product?p_id=27436",
             "product_id": 27436,
             "available": true,
@@ -13439,7 +13430,7 @@
         },
         "27469": {
             "name": "Monoprice Cat6A 3ft White Patch Cable, Double Shielded (S/FTP), 36AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 3.49,
+            "price": 2.6,
             "url": "https://www.monoprice.com/product?p_id=27469",
             "product_id": 27469,
             "available": true,
@@ -13565,7 +13556,7 @@
         },
         "27519": {
             "name": "Monoprice Cat6A 20ft Blue Patch Cable, Double Shielded (S/FTP), 36AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 4.99,
+            "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=27519",
             "product_id": 27519,
             "available": true,
@@ -13574,7 +13565,7 @@
         },
         "27530": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, S/STP, Pure Bare Copper Wire, 36AWG, 30ft, Black",
-            "price": 13.99,
+            "price": 11.88,
             "url": "https://www.monoprice.com/product?p_id=27530",
             "product_id": 27530,
             "available": true,
@@ -13619,7 +13610,7 @@
         },
         "27553": {
             "name": "Monoprice Cat6 RJ45 180-Degree Punch Down Keystone Dual IDC, Orange",
-            "price": 1.49,
+            "price": 0.88,
             "url": "https://www.monoprice.com/product?p_id=27553",
             "product_id": 27553,
             "available": true,
@@ -13646,7 +13637,7 @@
         },
         "27557": {
             "name": "Monoprice Cat6 RJ-45 180-Degree Punch Down Keystone Jack Short body 28mm, Gray",
-            "price": 1.99,
+            "price": 0.78,
             "url": "https://www.monoprice.com/product?p_id=27557",
             "product_id": 27557,
             "available": true,
@@ -13775,7 +13766,7 @@
             "price": 139.99,
             "url": "https://www.monoprice.com/product?p_id=27836",
             "product_id": 27836,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 66
         },
@@ -13952,7 +13943,7 @@
         },
         "27909": {
             "name": "Monoprice Essentials USB Type-C to Type-C 2.0 Cable - 480Mbps, 5A, 30/26AWG, Black, 2m (6.6 ft)",
-            "price": 14.49,
+            "price": 8.68,
             "url": "https://www.monoprice.com/product?p_id=27909",
             "product_id": 27909,
             "available": true,
@@ -13970,7 +13961,7 @@
         },
         "27910": {
             "name": "Monoprice Essentials USB Type-C to Type-C 2.0 Cable - 480Mbps, 5A, 30/26AWG, White, 2m (6.6 ft)",
-            "price": 7.99,
+            "price": 4.79,
             "url": "https://www.monoprice.com/product?p_id=27910",
             "product_id": 27910,
             "available": true,
@@ -13997,7 +13988,7 @@
         },
         "27919": {
             "name": "Monoprice Essentials USB Type-C to Type-C 2.0 Cable - 480Mbps, 3A, 30/26AWG, Black, 0.5m (1.6 ft)",
-            "price": 8.99,
+            "price": 5.38,
             "url": "https://www.monoprice.com/product?p_id=27919",
             "product_id": 27919,
             "available": true,
@@ -14024,7 +14015,7 @@
         },
         "27921": {
             "name": "Monoprice Essentials USB Type-C to Type-C 3.1 Gen 1 Cable - 5Gbps, 3A, 30AWG, White, 2m (6.6 ft)",
-            "price": 12.99,
+            "price": 11.69,
             "url": "https://www.monoprice.com/product?p_id=27921",
             "product_id": 27921,
             "available": true,
@@ -14051,7 +14042,7 @@
         },
         "27926": {
             "name": "Monoprice Essentials USB Type-C to USB Type-A 2.0 Cable - 480Mbps, 3A, 26AWG, Black, 3m (9.8ft)",
-            "price": 11.49,
+            "price": 10.34,
             "url": "https://www.monoprice.com/product?p_id=27926",
             "product_id": 27926,
             "available": true,
@@ -14105,7 +14096,7 @@
         },
         "27932": {
             "name": "Monoprice Essentials USB Type-C to USB Type-A 2.0 Cable - 480Mbps, 3A, 26AWG, Black, 0.5m (1.6ft)",
-            "price": 4.99,
+            "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=27932",
             "product_id": 27932,
             "available": true,
@@ -14114,7 +14105,7 @@
         },
         "27934": {
             "name": "Monoprice Essentials USB Type-C to USB Type-A 3.1 Gen 2 Cable - 10Gbps, 3A, 30AWG, White, 1m (3.3ft)",
-            "price": 11.99,
+            "price": 10.78,
             "url": "https://www.monoprice.com/product?p_id=27934",
             "product_id": 27934,
             "available": true,
@@ -14393,7 +14384,7 @@
         },
         "29407": {
             "name": "Workstream by Monoprice Triple Monitor Gas Spring Mount for up to 32in Screens, Fully Adjustable Center Mount",
-            "price": 159.99,
+            "price": 135.99,
             "url": "https://www.monoprice.com/product?p_id=29407",
             "product_id": 29407,
             "available": true,
@@ -14510,7 +14501,7 @@
         },
         "29440": {
             "name": "Monoprice Cat6A 2ft Red 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 19.99,
+            "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=29440",
             "product_id": 29440,
             "available": false,
@@ -14519,7 +14510,7 @@
         },
         "29441": {
             "name": "Monoprice Cat6A 2ft Green 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 19.99,
+            "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=29441",
             "product_id": 29441,
             "available": true,
@@ -14618,7 +14609,7 @@
         },
         "29457": {
             "name": "Monoprice Cat6A 6in Gray 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 15.99,
+            "price": 13.59,
             "url": "https://www.monoprice.com/product?p_id=29457",
             "product_id": 29457,
             "available": true,
@@ -14699,7 +14690,7 @@
         },
         "29475": {
             "name": "Monoprice Cat6A 2ft 10-Color 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 19.99,
+            "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=29475",
             "product_id": 29475,
             "available": true,
@@ -14717,7 +14708,7 @@
         },
         "29477": {
             "name": "Monoprice Cat6A 3ft 10-Color 10-Pk Patch Cable,  UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 20.99,
+            "price": 17.84,
             "url": "https://www.monoprice.com/product?p_id=29477",
             "product_id": 29477,
             "available": true,
@@ -14735,7 +14726,7 @@
         },
         "29479": {
             "name": "Monoprice Cat6A 7ft 10-Color 10-Pk Patch Cable,  UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 25.49,
+            "price": 21.67,
             "url": "https://www.monoprice.com/product?p_id=29479",
             "product_id": 29479,
             "available": true,
@@ -14753,7 +14744,7 @@
         },
         "29480": {
             "name": "Monoprice Cat6A 10ft 10-Color 10-Pk Patch Cable,  UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 199.99,
+            "price": 23.37,
             "url": "https://www.monoprice.com/product?p_id=29480",
             "product_id": 29480,
             "available": true,
@@ -14762,7 +14753,7 @@
         },
         "29481": {
             "name": "Monoprice Cat6A 14ft 10-Color 10-Pk Patch Cable,  UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 33.99,
+            "price": 28.89,
             "url": "https://www.monoprice.com/product?p_id=29481",
             "product_id": 29481,
             "available": true,
@@ -43986,6 +43977,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-18T17:44:33Z"
+        "timestamp": "2023-05-18T17:54:57Z"
     }
 }
