@@ -10103,7 +10103,7 @@
             "price": 319.99,
             "url": "https://www.monoprice.com/product?p_id=21590",
             "product_id": 21590,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 208
         },
@@ -13266,15 +13266,6 @@
             "rating": 5,
             "num_reviews": 1
         },
-        "27321": {
-            "name": "GetFit by Monoprice High-Density Muscle Foam Roller with Dual Pressure Zones",
-            "price": 6.99,
-            "url": "https://www.monoprice.com/product?p_id=27321",
-            "product_id": 27321,
-            "available": false,
-            "rating": 3.7,
-            "num_reviews": 15
-        },
         "27324": {
             "name": "Strata Home by Monoprice Touchless Digital Infrared Surface Thermometer",
             "price": 19.99,
@@ -13805,15 +13796,6 @@
             "available": false,
             "rating": 4.3,
             "num_reviews": 6
-        },
-        "27843": {
-            "name": "Strata Home by Monoprice Pro Blender 68oz, 1450W with 10 Speed Settings",
-            "price": 89.99,
-            "url": "https://www.monoprice.com/product?p_id=27843",
-            "product_id": 27843,
-            "available": false,
-            "rating": 4,
-            "num_reviews": 47
         },
         "27844": {
             "name": "6 Outlet Power Strip with 3ft Cord, White, 2-Pack",
@@ -44436,6 +44418,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-18T02:28:05Z"
+        "timestamp": "2023-05-18T02:44:42Z"
     }
 }
