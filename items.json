@@ -11032,7 +11032,7 @@
             "product_id": 2297,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "2298": {
             "name": "Monoprice Cat6 3ft Yellow Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -43977,6 +43977,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-18T11:19:27Z"
+        "timestamp": "2023-05-18T11:25:12Z"
     }
 }
