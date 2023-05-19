@@ -28445,7 +28445,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=41034",
             "product_id": 41034,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 12
         },
@@ -29372,7 +29372,7 @@
             "price": 299.99,
             "url": "https://www.monoprice.com/product?p_id=41499",
             "product_id": 41499,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 42
         },
@@ -31109,7 +31109,7 @@
             "price": 17.99,
             "url": "https://www.monoprice.com/product?p_id=42532",
             "product_id": 42532,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 264
         },
@@ -32396,7 +32396,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=43015",
             "product_id": 43015,
-            "available": true,
+            "available": false,
             "rating": 3.5,
             "num_reviews": 10
         },
@@ -35135,15 +35135,6 @@
             "available": true,
             "rating": 0,
             "num_reviews": 0
-        },
-        "44415": {
-            "name": "Monoprice Cat6 8in Orange Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
-            "price": 0.95,
-            "url": "https://www.monoprice.com/product?p_id=44415",
-            "product_id": 44415,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 1466
         },
         "44418": {
             "name": "MPM 3-Tier Foldable Shelf Storage with Wheels, Heavy Duty Casters with Lock, Organizer Rack, Multifunctional Standing Steel Cart, Perfect for Kitchen, Garage, Home Office, and Pantry",
@@ -44013,6 +44004,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-19T15:22:49Z"
+        "timestamp": "2023-05-19T15:29:03Z"
     }
 }
