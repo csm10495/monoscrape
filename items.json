@@ -578,7 +578,7 @@
         },
         "11044": {
             "name": "Monoprice Premium 3D Printer Filament PLA 1.75mm 1kg/spool, Bright Green",
-            "price": 23.68,
+            "price": 17.75,
             "url": "https://www.monoprice.com/product?p_id=11044",
             "product_id": 11044,
             "available": true,
@@ -2365,7 +2365,7 @@
             "product_id": 12300,
             "available": false,
             "rating": 4.3,
-            "num_reviews": 573
+            "num_reviews": 574
         },
         "12343": {
             "name": "Monoprice PC+TPU Edge Bumper for 5.5in iPhone 6 Plus and 6s Plus, Black",
@@ -5222,7 +5222,7 @@
         },
         "13779": {
             "name": "Monoprice 4K No Logo High Speed HDMI Cable 6ft - CL2 In Wall Rated 18 Gbps Black",
-            "price": 9.99,
+            "price": 8.5,
             "url": "https://www.monoprice.com/product?p_id=13779",
             "product_id": 13779,
             "available": true,
@@ -5627,7 +5627,7 @@
         },
         "14259": {
             "name": "Monoprice Cat5e 10ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
-            "price": 2.99,
+            "price": 2.69,
             "url": "https://www.monoprice.com/product?p_id=14259",
             "product_id": 14259,
             "available": true,
@@ -6323,7 +6323,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=14818",
             "product_id": 14818,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 272
         },
@@ -6422,7 +6422,7 @@
             "price": 229.99,
             "url": "https://www.monoprice.com/product?p_id=14886",
             "product_id": 14886,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 27
         },
@@ -7355,7 +7355,7 @@
         },
         "15669": {
             "name": "Monoprice Cat6A RJ-45 Toolless 180-Degree Keystone, Orange",
-            "price": 2.49,
+            "price": 1.5,
             "url": "https://www.monoprice.com/product?p_id=15669",
             "product_id": 15669,
             "available": true,
@@ -44004,6 +44004,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-19T19:06:51Z"
+        "timestamp": "2023-05-19T19:19:55Z"
     }
 }
