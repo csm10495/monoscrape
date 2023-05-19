@@ -32834,7 +32834,7 @@
         },
         "43163": {
             "name": "Monolith by Monoprice Double-Wide 3-Tier AV Stand, Maple",
-            "price": 211.98,
+            "price": 211.97,
             "url": "https://www.monoprice.com/product?p_id=43163",
             "product_id": 43163,
             "available": true,
@@ -33716,7 +33716,7 @@
         },
         "43392": {
             "name": "Monoprice Blackbird PRO Toslink S/PDIF 4x1 Switch with Remote",
-            "price": 19.99,
+            "price": 19.98,
             "url": "https://www.monoprice.com/product?p_id=43392",
             "product_id": 43392,
             "available": true,
@@ -44004,6 +44004,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-19T18:35:00Z"
+        "timestamp": "2023-05-19T18:44:34Z"
     }
 }
