@@ -15800,7 +15800,7 @@
             "price": 199.99,
             "url": "https://www.monoprice.com/product?p_id=31035",
             "product_id": 31035,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 19
         },
@@ -16241,7 +16241,7 @@
             "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=31264",
             "product_id": 31264,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 264
         },
@@ -16376,7 +16376,7 @@
             "price": 7.49,
             "url": "https://www.monoprice.com/product?p_id=31349",
             "product_id": 31349,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 231
         },
@@ -16682,7 +16682,7 @@
             "price": 32.49,
             "url": "https://www.monoprice.com/product?p_id=33218",
             "product_id": 33218,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 529
         },
@@ -17384,7 +17384,7 @@
             "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=33660",
             "product_id": 33660,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 7
         },
@@ -17393,7 +17393,7 @@
             "price": 9.49,
             "url": "https://www.monoprice.com/product?p_id=33671",
             "product_id": 33671,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 5
         },
@@ -17872,7 +17872,7 @@
             "product_id": 33834,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 773
+            "num_reviews": 774
         },
         "33835": {
             "name": "Monolith by Monoprice 14AWG Oxygen Free Copper Multi-Strand Conductors PE Insulated Speaker Wire with Gold Plated Banana Plug Connectors, 10 foot - Pair",
@@ -17897,7 +17897,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=33837",
             "product_id": 33837,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 46
         },
@@ -18014,7 +18014,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=33878",
             "product_id": 33878,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -19717,7 +19717,7 @@
             "product_id": 34752,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1465
+            "num_reviews": 1466
         },
         "34775": {
             "name": "FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 10m, White, 5 pack",
@@ -20516,7 +20516,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=35317",
             "product_id": 35317,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 33
         },
@@ -20624,7 +20624,7 @@
             "price": 71.99,
             "url": "https://www.monoprice.com/product?p_id=35380",
             "product_id": 35380,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 385
         },
@@ -21029,7 +21029,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=35943",
             "product_id": 35943,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 6
         },
@@ -21839,7 +21839,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=37874",
             "product_id": 37874,
-            "available": true,
+            "available": false,
             "rating": 4.1,
             "num_reviews": 7
         },
@@ -22298,7 +22298,7 @@
             "price": 15.44,
             "url": "https://www.monoprice.com/product?p_id=38161",
             "product_id": 38161,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 6
         },
@@ -22481,6 +22481,24 @@
             "available": true,
             "rating": 4.5,
             "num_reviews": 49
+        },
+        "38201": {
+            "name": "Monolith by Monoprice 10\" THX Select Certified 500 Watt Powered Subwoofer (Open Box)",
+            "price": 429.99,
+            "url": "https://www.monoprice.com/product?p_id=38201",
+            "product_id": 38201,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 2
+        },
+        "38202": {
+            "name": "Monolith by Monoprice 12\" THX Ultra Certified 500 Watt Powered Subwoofer (Open Box)",
+            "price": 679.99,
+            "url": "https://www.monoprice.com/product?p_id=38202",
+            "product_id": 38202,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 7
         },
         "38274": {
             "name": "Monoprice OM3 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 3m",
@@ -22874,7 +22892,7 @@
             "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=38372",
             "product_id": 38372,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 9
         },
@@ -22982,7 +23000,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=38403",
             "product_id": 38403,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 18
         },
@@ -23550,8 +23568,8 @@
             "url": "https://www.monoprice.com/product?p_id=38793",
             "product_id": 38793,
             "available": true,
-            "rating": 4.4,
-            "num_reviews": 84
+            "rating": 4.5,
+            "num_reviews": 86
         },
         "38794": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 10ft, Black",
@@ -23936,7 +23954,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=38848",
             "product_id": 38848,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 60
         },
@@ -24215,7 +24233,7 @@
             "price": 11.49,
             "url": "https://www.monoprice.com/product?p_id=38902",
             "product_id": 38902,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 78
         },
@@ -24251,7 +24269,7 @@
             "price": 6.79,
             "url": "https://www.monoprice.com/product?p_id=38906",
             "product_id": 38906,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 78
         },
@@ -24350,7 +24368,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=38917",
             "product_id": 38917,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 21
         },
@@ -24494,7 +24512,7 @@
             "price": 89.99,
             "url": "https://www.monoprice.com/product?p_id=39021",
             "product_id": 39021,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 62
         },
@@ -24989,7 +25007,7 @@
             "price": 399.99,
             "url": "https://www.monoprice.com/product?p_id=39261",
             "product_id": 39261,
-            "available": true,
+            "available": false,
             "rating": 4,
             "num_reviews": 3
         },
@@ -25214,7 +25232,7 @@
             "price": 359.99,
             "url": "https://www.monoprice.com/product?p_id=39414",
             "product_id": 39414,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 24
         },
@@ -25250,7 +25268,7 @@
             "price": 3.79,
             "url": "https://www.monoprice.com/product?p_id=39430",
             "product_id": 39430,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 2
         },
@@ -26087,7 +26105,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=39650",
             "product_id": 39650,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 58
         },
@@ -26449,7 +26467,7 @@
             "product_id": 39786,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 304
+            "num_reviews": 305
         },
         "39787": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 14AWG, 15A/1875W, 3-Prong, Black, 2ft, 6-Pack",
@@ -26458,7 +26476,7 @@
             "product_id": 39787,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 304
+            "num_reviews": 305
         },
         "39788": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 14AWG, 15A/1875W, 3-Prong, Black, 3ft, 6-Pack",
@@ -26467,7 +26485,7 @@
             "product_id": 39788,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 304
+            "num_reviews": 305
         },
         "39789": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 14AWG, 15A/1875W, 3-Prong, Black, 6ft, 6-Pack",
@@ -26476,7 +26494,7 @@
             "product_id": 39789,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 304
+            "num_reviews": 305
         },
         "39798": {
             "name": "Monoprice Blackbird PRO-sumer 4K@60Hz Multi Video Input HDMI Converter",
@@ -26519,7 +26537,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=39841",
             "product_id": 39841,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 163
         },
@@ -26744,7 +26762,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=39922",
             "product_id": 39922,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1586
         },
@@ -44013,6 +44031,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-19T12:40:14Z"
+        "timestamp": "2023-05-19T12:57:15Z"
     }
 }
