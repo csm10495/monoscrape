@@ -17861,7 +17861,7 @@
             "price": 48.99,
             "url": "https://www.monoprice.com/product?p_id=33835",
             "product_id": 33835,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 67
         },
@@ -19604,7 +19604,7 @@
         },
         "34642": {
             "name": "Monoprice Cat6 50ft White Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 13.59,
+            "price": 13.58,
             "url": "https://www.monoprice.com/product?p_id=34642",
             "product_id": 34642,
             "available": true,
@@ -22052,7 +22052,7 @@
         },
         "38070": {
             "name": "Monoprice Bluetooth 5 Transmitter and Receiver with Qualcomm aptX Audio, Qualcomm aptX Low Latency Audio, AAC, and SBC Codecs",
-            "price": 25.49,
+            "price": 25.48,
             "url": "https://www.monoprice.com/product?p_id=38070",
             "product_id": 38070,
             "available": true,
@@ -22583,7 +22583,7 @@
         },
         "38303": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, White",
-            "price": 13.17,
+            "price": 13.16,
             "url": "https://www.monoprice.com/product?p_id=38303",
             "product_id": 38303,
             "available": true,
@@ -22934,7 +22934,7 @@
         },
         "38391": {
             "name": "Monoprice Nylon Braided USB-C To Lightning Cable - 6 Feet - Black ( MFI Certified ) Flexible, Durable, Fast Charging, Compatible with Apple iPhone 13 / Pro / Pro Max / AirPods Pro - AtlasFlex Series",
-            "price": 19.99,
+            "price": 17.99,
             "url": "https://www.monoprice.com/product?p_id=38391",
             "product_id": 38391,
             "available": true,
@@ -24554,7 +24554,7 @@
         },
         "39070": {
             "name": "Monoprice Obsidian Speed Plus Ultra Compact USB Power Bank, Black, 20,000mAh, 3-Port Up to 18W PD (3A) Output for iPhone, Android, and Galaxy Devices",
-            "price": 39.59,
+            "price": 37.39,
             "url": "https://www.monoprice.com/product?p_id=39070",
             "product_id": 39070,
             "available": true,
@@ -25076,7 +25076,7 @@
         },
         "39357": {
             "name": "Monoprice HT-35 Premium 5.1-Channel Home Theater System with Powered Subwoofer, Charcoal",
-            "price": 160.98,
+            "price": 160.97,
             "url": "https://www.monoprice.com/product?p_id=39357",
             "product_id": 39357,
             "available": true,
@@ -43995,6 +43995,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-19T17:21:33Z"
+        "timestamp": "2023-05-19T17:29:12Z"
     }
 }
