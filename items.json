@@ -29331,6 +29331,15 @@
             "rating": 5,
             "num_reviews": 1
         },
+        "42890": {
+            "name": "Monoprice Zero-G 27in Curved Gaming Monitor - 1500R, 2560x1440 (QHD), 144Hz, HDR, VA",
+            "price": 189.99,
+            "url": "https://www.monoprice.com/product?p_id=42890",
+            "product_id": 42890,
+            "available": true,
+            "rating": 4.3,
+            "num_reviews": 31
+        },
         "42891": {
             "name": "Monoprice 32in Zero-G Curved Gaming Monitor - 1500R, 16:9, 2560x1440p, WQHD, 165Hz, HDMI, DisplayPort, VA",
             "price": 197.99,
@@ -32117,7 +32126,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=44117",
             "product_id": 44117,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 3
         },
@@ -41403,6 +41412,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-19T09:06:27Z"
+        "timestamp": "2023-05-19T09:21:14Z"
     }
 }
