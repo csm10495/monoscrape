@@ -19028,7 +19028,7 @@
         },
         "3437": {
             "name": "Monoprice Cat6 10ft Gray Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
-            "price": 3.99,
+            "price": 3.39,
             "url": "https://www.monoprice.com/product?p_id=3437",
             "product_id": 3437,
             "available": true,
@@ -36169,7 +36169,7 @@
             "product_id": 4798,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 422
+            "num_reviews": 423
         },
         "4799": {
             "name": "Monoprice 75ft Premier Series 1/4in TRS Male to Male Cable, 16AWG (Gold Plated)",
@@ -36398,7 +36398,7 @@
         },
         "4986": {
             "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 20ft, Green",
-            "price": 1.99,
+            "price": 1.19,
             "url": "https://www.monoprice.com/product?p_id=4986",
             "product_id": 4986,
             "available": true,
@@ -37973,7 +37973,7 @@
         },
         "5809": {
             "name": "Monoprice Hook and Loop Fastening Cable Ties, 6in, 10 pcs/pack, Black",
-            "price": 1.99,
+            "price": 1.19,
             "url": "https://www.monoprice.com/product?p_id=5809",
             "product_id": 5809,
             "available": true,
@@ -38207,7 +38207,7 @@
         },
         "5976": {
             "name": "Monoprice 1 PAIR OF High-Quality Gold Plated Speaker Pin Plugs, Pin Screw Type",
-            "price": 0.99,
+            "price": 0.59,
             "url": "https://www.monoprice.com/product?p_id=5976",
             "product_id": 5976,
             "available": true,
@@ -39539,7 +39539,7 @@
         },
         "6728": {
             "name": "Monoprice Wall Plate for Keystone, 2 Hole - Ivory",
-            "price": 1.49,
+            "price": 1.12,
             "url": "https://www.monoprice.com/product?p_id=6728",
             "product_id": 6728,
             "available": true,
@@ -39980,7 +39980,7 @@
         },
         "7124": {
             "name": "Monoprice 2.5mm TRS Stereo Plug to 3.5mm TRS Stereo Jack Adapter, Gold Plated",
-            "price": 1.49,
+            "price": 1.12,
             "url": "https://www.monoprice.com/product?p_id=7124",
             "product_id": 7124,
             "available": true,
@@ -40268,7 +40268,7 @@
         },
         "7249": {
             "name": "Monoprice RJ45 Strain Relief Boots, 50 pcs/pack, Black",
-            "price": 2.49,
+            "price": 1.86,
             "url": "https://www.monoprice.com/product?p_id=7249",
             "product_id": 7249,
             "available": true,
@@ -41522,7 +41522,7 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=8230",
             "product_id": 8230,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 43
         },
@@ -41681,7 +41681,7 @@
         },
         "8476": {
             "name": "Monoprice Recessed Low Voltage Media Plate with Duplex Surge Suppressor - White",
-            "price": 46.19,
+            "price": 46.18,
             "url": "https://www.monoprice.com/product?p_id=8476",
             "product_id": 8476,
             "available": true,
@@ -43121,7 +43121,7 @@
         },
         "9723": {
             "name": "Monoprice 12in 150-Watt Powered Subwoofer, Black",
-            "price": 139.99,
+            "price": 97.99,
             "url": "https://www.monoprice.com/product?p_id=9723",
             "product_id": 9723,
             "available": true,
@@ -43787,7 +43787,7 @@
         },
         "9857": {
             "name": "Monoprice Cat6 50ft Yellow Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
-            "price": 11.24,
+            "price": 11.23,
             "url": "https://www.monoprice.com/product?p_id=9857",
             "product_id": 9857,
             "available": true,
@@ -43994,7 +43994,7 @@
         },
         "9995": {
             "name": "Monoprice 4-Channel Speaker Selector",
-            "price": 19.24,
+            "price": 13.47,
             "url": "https://www.monoprice.com/product?p_id=9995",
             "product_id": 9995,
             "available": true,
@@ -44004,6 +44004,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-19T18:54:26Z"
+        "timestamp": "2023-05-19T19:06:51Z"
     }
 }
