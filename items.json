@@ -10640,7 +10640,7 @@
         },
         "21856": {
             "name": "Monoprice Rubber Duct Cable Cover, 10 Feet",
-            "price": 14.99,
+            "price": 11.24,
             "url": "https://www.monoprice.com/product?p_id=21856",
             "product_id": 21856,
             "available": true,
@@ -10823,7 +10823,7 @@
             "price": 54.99,
             "url": "https://www.monoprice.com/product?p_id=21962",
             "product_id": 21962,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 35
         },
@@ -13847,7 +13847,7 @@
             "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=27853",
             "product_id": 27853,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 10
         },
@@ -14024,7 +14024,7 @@
         },
         "27922": {
             "name": "Monoprice Essentials USB Type-C to Type-C 3.1 Gen 2 Cable - 10Gbps, 5A, 30AWG, White, 1m (3.3ft)",
-            "price": 10.99,
+            "price": 9.35,
             "url": "https://www.monoprice.com/product?p_id=27922",
             "product_id": 27922,
             "available": true,
@@ -44004,6 +44004,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-19T19:19:55Z"
+        "timestamp": "2023-05-19T19:25:52Z"
     }
 }
