@@ -32972,7 +32972,7 @@
             "price": 33.99,
             "url": "https://www.monoprice.com/product?p_id=43199",
             "product_id": 43199,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 2
         },
@@ -34295,7 +34295,7 @@
             "price": 119.99,
             "url": "https://www.monoprice.com/product?p_id=43710",
             "product_id": 43710,
-            "available": true,
+            "available": false,
             "rating": 4.1,
             "num_reviews": 8
         },
@@ -34728,8 +34728,8 @@
             "url": "https://www.monoprice.com/product?p_id=44263",
             "product_id": 44263,
             "available": true,
-            "rating": 2.7,
-            "num_reviews": 3
+            "rating": 2.5,
+            "num_reviews": 4
         },
         "44264": {
             "name": "Pure Outdoor by Monoprice Complete Disc Golf Set with Carrying Case and Discs",
@@ -43968,6 +43968,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-19T20:44:48Z"
+        "timestamp": "2023-05-19T20:54:42Z"
     }
 }
