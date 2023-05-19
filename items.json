@@ -10762,7 +10762,7 @@
             "product_id": 21918,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 133
+            "num_reviews": 134
         },
         "21919": {
             "name": "Monoprice 10 Pair Affinity Series 24k Gold Speaker Banana Plug",
@@ -12467,7 +12467,7 @@
         },
         "24443": {
             "name": "Monoprice USB 3.1 Type-C to DisplayPort Cable - 5Gbps, Active, 4K@60Hz, Black, 3ft",
-            "price": 17.99,
+            "price": 13.47,
             "url": "https://www.monoprice.com/product?p_id=24443",
             "product_id": 24443,
             "available": true,
@@ -43995,6 +43995,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-19T17:05:51Z"
+        "timestamp": "2023-05-19T17:21:33Z"
     }
 }
