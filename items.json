@@ -21958,7 +21958,7 @@
             "product_id": 37920,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 74
+            "num_reviews": 75
         },
         "37921": {
             "name": "Monoprice Braided DisplayPort 1.4 Cable, 10ft, Gray",
@@ -22472,33 +22472,6 @@
             "available": true,
             "rating": 4.5,
             "num_reviews": 49
-        },
-        "38201": {
-            "name": "Monolith by Monoprice 10\" THX Select Certified 500 Watt Powered Subwoofer (Open Box)",
-            "price": 257.99,
-            "url": "https://www.monoprice.com/product?p_id=38201",
-            "product_id": 38201,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 2
-        },
-        "38202": {
-            "name": "Monolith by Monoprice 12\" THX Ultra Certified 500 Watt Powered Subwoofer (Open Box)",
-            "price": 407.99,
-            "url": "https://www.monoprice.com/product?p_id=38202",
-            "product_id": 38202,
-            "available": true,
-            "rating": 5,
-            "num_reviews": 7
-        },
-        "38203": {
-            "name": "Monolith by Monoprice 15\" THX Ultra Certified 1000 Watt Powered Subwoofer (Open Box)",
-            "price": 599.99,
-            "url": "https://www.monoprice.com/product?p_id=38203",
-            "product_id": 38203,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 6
         },
         "38274": {
             "name": "Monoprice OM3 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 3m",
@@ -43995,6 +43968,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-19T20:34:46Z"
+        "timestamp": "2023-05-19T20:44:48Z"
     }
 }
