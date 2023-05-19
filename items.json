@@ -16655,7 +16655,7 @@
             "price": 28.99,
             "url": "https://www.monoprice.com/product?p_id=33201",
             "product_id": 33201,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 529
         },
@@ -19141,7 +19141,7 @@
             "product_id": 34437,
             "available": true,
             "rating": 3.5,
-            "num_reviews": 42
+            "num_reviews": 43
         },
         "34438": {
             "name": "Monoprice MP10 Mini 200x200mm 3D Printer, Magnetic Heated Build Plate, Resume Printing Function, Assisted Leveling, and Touchscreen",
@@ -20768,7 +20768,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=35558",
             "product_id": 35558,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 37
         },
@@ -21053,7 +21053,7 @@
         },
         "36045": {
             "name": "Monoprice Maker Ultimate 2 3D Printer",
-            "price": 499.99,
+            "price": 199.99,
             "url": "https://www.monoprice.com/product?p_id=36045",
             "product_id": 36045,
             "available": true,
@@ -22859,15 +22859,6 @@
             "available": true,
             "rating": 4.9,
             "num_reviews": 98
-        },
-        "38354": {
-            "name": "Monoprice OM4 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 2m",
-            "price": 1.79,
-            "url": "https://www.monoprice.com/product?p_id=38354",
-            "product_id": 38354,
-            "available": false,
-            "rating": 4.7,
-            "num_reviews": 3
         },
         "38360": {
             "name": "Monoprice 25 Watt Stereo Hybrid Tube Amplifier with Bluetooth, Optical, Coaxial, and USB Inputs, and Subwoofer Out",
@@ -26708,7 +26699,7 @@
             "price": 3.39,
             "url": "https://www.monoprice.com/product?p_id=39917",
             "product_id": 39917,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1009
         },
@@ -44022,6 +44013,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-19T15:06:31Z"
+        "timestamp": "2023-05-19T15:22:49Z"
     }
 }
