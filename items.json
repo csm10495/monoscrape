@@ -38608,7 +38608,7 @@
             "product_id": 6270,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 2398
+            "num_reviews": 2399
         },
         "6271": {
             "name": "Monoprice Premium S/PDIF (Toslink) Digital Optical Audio Cable, 15ft",
@@ -41321,7 +41321,7 @@
         },
         "8108": {
             "name": "Monoprice Cat6 1000ft White CMR UL Bulk Cable, Solid (w/spine), UTP, 23AWG, 550MHz, Pure Bare Copper, Reelex II Pull Box, Bulk Ethernet Cable",
-            "price": 129.99,
+            "price": 149.99,
             "url": "https://www.monoprice.com/product?p_id=8108",
             "product_id": 8108,
             "available": true,
@@ -44004,6 +44004,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-18T23:54:09Z"
+        "timestamp": "2023-05-19T00:32:42Z"
     }
 }
