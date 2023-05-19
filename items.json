@@ -9745,7 +9745,7 @@
             "product_id": 2127,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3040
+            "num_reviews": 3041
         },
         "2128": {
             "name": "Monoprice Cat5e 1ft Red Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -9844,7 +9844,7 @@
             "product_id": 2141,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3040
+            "num_reviews": 3041
         },
         "2142": {
             "name": "Monoprice Cat5e 7ft Yellow Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -10087,7 +10087,7 @@
             "product_id": 2157,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3040
+            "num_reviews": 3041
         },
         "2158": {
             "name": "Monoprice Cat5e 50ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -10222,7 +10222,7 @@
             "product_id": 2161,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3040
+            "num_reviews": 3041
         },
         "21612": {
             "name": "Blackbird 4K Pro 1x2 Ultra Slim HDMI Splitter HDR 18Gbps 4K@60Hz YCbCr 4:4:4 HDCP 2.2",
@@ -11275,7 +11275,7 @@
             "product_id": 2326,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "2328": {
             "name": "Monoprice Cat6 100ft Gray Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -17665,7 +17665,7 @@
             "product_id": 3375,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3040
+            "num_reviews": 3041
         },
         "33750": {
             "name": "Monoprice Replacement Bed Leveling Screw for the MP Select Mini (15365 and 21711) and MP Select Mini PRO (33012) 3D Printers",
@@ -18403,7 +18403,7 @@
             "product_id": 3419,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "34190": {
             "name": "Monolith by Monoprice THX-265B THX Select Certified Dolby Atmos Enabled Bookshelf Speaker (Each)",
@@ -18781,7 +18781,7 @@
             "product_id": 3426,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3398
+            "num_reviews": 3399
         },
         "34267": {
             "name": "Monoprice Cat6 10ft Black Patch Cable, UTP, 32AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Micro SlimRun Series Ethernet Cable",
@@ -36412,7 +36412,7 @@
             "product_id": 4984,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3040
+            "num_reviews": 3041
         },
         "4985": {
             "name": "Monoprice Cat5e 20ft Blue Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -36799,7 +36799,7 @@
             "product_id": 5289,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 304
+            "num_reviews": 305
         },
         "5290": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 14AWG, 15A/1875W, 3-Prong, Black, 2ft",
@@ -36817,7 +36817,7 @@
             "product_id": 5291,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 304
+            "num_reviews": 305
         },
         "5292": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 14AWG, 15A/1875W, 3-Prong, Black, 6ft",
@@ -36826,7 +36826,7 @@
             "product_id": 5292,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 304
+            "num_reviews": 305
         },
         "5293": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 14AWG, 15A/1875W, 3-Prong, Black, 10ft",
@@ -36835,7 +36835,7 @@
             "product_id": 5293,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 304
+            "num_reviews": 305
         },
         "5294": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 14AWG, 15A/1875W, 3-Prong, Black, 15ft",
@@ -36844,7 +36844,7 @@
             "product_id": 5294,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 304
+            "num_reviews": 305
         },
         "5295": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 14AWG, 15A/1875W, 3-Prong, Black, 25ft",
@@ -36853,7 +36853,7 @@
             "product_id": 5295,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 304
+            "num_reviews": 305
         },
         "5296": {
             "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R, 16AWG, 13A/1625W, 3-Prong, Black, 1ft",
@@ -41504,7 +41504,7 @@
             "price": 7.78,
             "url": "https://www.monoprice.com/product?p_id=8189",
             "product_id": 8189,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 18
         },
@@ -42692,7 +42692,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=935",
             "product_id": 935,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 70
         },
@@ -42998,7 +42998,7 @@
             "price": 32.99,
             "url": "https://www.monoprice.com/product?p_id=952",
             "product_id": 952,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 11
         },
@@ -44022,6 +44022,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-19T13:25:40Z"
+        "timestamp": "2023-05-19T13:34:31Z"
     }
 }
