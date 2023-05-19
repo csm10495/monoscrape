@@ -27608,7 +27608,7 @@
             "price": 199.99,
             "url": "https://www.monoprice.com/product?p_id=40394",
             "product_id": 40394,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 13
         },
@@ -30904,7 +30904,7 @@
             "product_id": 42347,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 16
+            "num_reviews": 17
         },
         "42348": {
             "name": "Monoprice Cat6A 500ft Yellow CMR UL Bulk Cable, TAA, Shielded (F/UTP), Solid, 23AWG, 550MHz, 10G, Pure Bare Copper, Reel in Box, Bulk Ethernet Cable",
@@ -31925,7 +31925,7 @@
         },
         "42890": {
             "name": "Monoprice Zero-G 27in Curved Gaming Monitor - 1500R, 2560x1440 (QHD), 144Hz, HDR, VA",
-            "price": 189.99,
+            "price": 113.99,
             "url": "https://www.monoprice.com/product?p_id=42890",
             "product_id": 42890,
             "available": true,
@@ -32150,7 +32150,7 @@
         },
         "42979": {
             "name": "Monoprice Cat6A 7ft White Component Level Patch Cable, Double Shielded (S/FTP), 30AWG, 10G, CM Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 7.49,
+            "price": 6.36,
             "url": "https://www.monoprice.com/product?p_id=42979",
             "product_id": 42979,
             "available": true,
@@ -32888,7 +32888,7 @@
         },
         "43181": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A, 125V, 3-Prong, White, 6ft",
-            "price": 3.99,
+            "price": 2.8,
             "url": "https://www.monoprice.com/product?p_id=43181",
             "product_id": 43181,
             "available": true,
@@ -32969,7 +32969,7 @@
         },
         "43193": {
             "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 14AWG, 15A, SJT, 100-250V, White, 3ft",
-            "price": 4.49,
+            "price": 3.36,
             "url": "https://www.monoprice.com/product?p_id=43193",
             "product_id": 43193,
             "available": true,
@@ -32987,7 +32987,7 @@
         },
         "43198": {
             "name": "Monoprice Commercial Series Full-Motion Articulating TV Wall Mount Bracket For LED TVs 43in to 90in, Max Weight 132 lbs, Extension Range of 3in to 16.9in, VESA Up to 800x400, Fits Curved Screens",
-            "price": 59.99,
+            "price": 50.99,
             "url": "https://www.monoprice.com/product?p_id=43198",
             "product_id": 43198,
             "available": true,
@@ -33779,7 +33779,7 @@
         },
         "43431": {
             "name": "3-in-1 Folding Bedside Commode, Heavy Duty Steel, Toilet Seat Chair Clip on Seat, Raised Toilet Seat, Height Adjustable, Porta Potty for Adults - Portable Toilet for Camping",
-            "price": 42.99,
+            "price": 38.69,
             "url": "https://www.monoprice.com/product?p_id=43431",
             "product_id": 43431,
             "available": true,
@@ -34025,7 +34025,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=43573",
             "product_id": 43573,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -34220,7 +34220,7 @@
         },
         "43664": {
             "name": "Portable Folding Dog Car Ramp, Pet Ramp Stairs Step Ladder for Large Dogs with Siderails, Non-Slip, Supports 150 lb, Easy Storage, Foldable for Truck, SUV, Bed, Boat",
-            "price": 49.99,
+            "price": 45,
             "url": "https://www.monoprice.com/product?p_id=43664",
             "product_id": 43664,
             "available": true,
@@ -35138,7 +35138,7 @@
         },
         "44419": {
             "name": "MPM Foldable Hand Truck and Dolly Cart, Aluminum Luggage Trolley, Lightweight Folding Hand Cart, Multipurpose Use For Office, Travel, Moving and Indoor Outdoor Home",
-            "price": 49.99,
+            "price": 44.99,
             "url": "https://www.monoprice.com/product?p_id=44419",
             "product_id": 44419,
             "available": true,
@@ -35519,15 +35519,6 @@
             "price": 949.99,
             "url": "https://www.monoprice.com/product?p_id=44575",
             "product_id": 44575,
-            "available": true,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "44576": {
-            "name": "Monolith by Monoprice M-12 V2 12in THX Certified Ultra 500-Watt Powered Subwoofer (Open Box)",
-            "price": 449.99,
-            "url": "https://www.monoprice.com/product?p_id=44576",
-            "product_id": 44576,
             "available": true,
             "rating": 0,
             "num_reviews": 0
@@ -44004,6 +43995,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-19T19:36:32Z"
+        "timestamp": "2023-05-19T19:46:13Z"
     }
 }
