@@ -27338,7 +27338,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=40136",
             "product_id": 40136,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -27587,7 +27587,7 @@
         },
         "40394": {
             "name": "Pure Outdoor by Monoprice Emperor 50 Rotomolded Portable Wheeled Cooler 13.2 Gal, White",
-            "price": 159.97,
+            "price": 199.99,
             "url": "https://www.monoprice.com/product?p_id=40394",
             "product_id": 40394,
             "available": false,
@@ -29636,15 +29636,6 @@
             "available": true,
             "rating": 5,
             "num_reviews": 1
-        },
-        "41707": {
-            "name": "Monoprice OM4 Fiber Optic Cable - LC/ST, UL, 50/125 Type, Multi-Mode, 10GB, OFNR, Aqua, 1m, Corning",
-            "price": 1.37,
-            "url": "https://www.monoprice.com/product?p_id=41707",
-            "product_id": 41707,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
         },
         "41708": {
             "name": "Monoprice OM4 Fiber Optic Cable - LC/ST, UL, 50/125 Type, Multi-Mode, 10GB, OFNR, Aqua, 2m, Corning",
@@ -32213,7 +32204,7 @@
         },
         "42987": {
             "name": "Monoprice Cat6A 15ft White Component Level Patch Cable, Double Shielded (S/FTP), 30AWG, 10G, CM Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 12.99,
+            "price": 11.04,
             "url": "https://www.monoprice.com/product?p_id=42987",
             "product_id": 42987,
             "available": true,
@@ -35345,7 +35336,7 @@
         },
         "44498": {
             "name": "Monoprice Cat6A 1ft Black Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 1.79,
+            "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=44498",
             "product_id": 44498,
             "available": true,
@@ -43995,6 +43986,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-19T17:29:12Z"
+        "timestamp": "2023-05-19T17:35:00Z"
     }
 }
