@@ -29457,15 +29457,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "41626": {
-            "name": "Monolith by Monoprice THX-265B THX Select Certified Dolby Atmos Enabled Bookshelf Speaker (Each) (open box)",
-            "price": 155.39,
-            "url": "https://www.monoprice.com/product?p_id=41626",
-            "product_id": 41626,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 1
-        },
         "41639": {
             "name": "Monoprice Cat5e 100ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
             "price": 23.99,
@@ -30409,7 +30400,7 @@
             "product_id": 42060,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 304
+            "num_reviews": 305
         },
         "42064": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 14AWG, 15A/1875W, 125V, 3-Prong, Blue, 3ft",
@@ -30418,7 +30409,7 @@
             "product_id": 42064,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 304
+            "num_reviews": 305
         },
         "42073": {
             "name": "Monoprice 8K No Logo Ultra High Speed HDMI Cable, 48Gbps, 1.5ft, Black",
@@ -32837,7 +32828,7 @@
             "price": 129.99,
             "url": "https://www.monoprice.com/product?p_id=43160",
             "product_id": 43160,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 1
         },
@@ -32929,7 +32920,7 @@
             "product_id": 43183,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 304
+            "num_reviews": 305
         },
         "43185": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 14AWG, 15A, 3-Prong, White, 6ft",
@@ -32938,7 +32929,7 @@
             "product_id": 43185,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 304
+            "num_reviews": 305
         },
         "43186": {
             "name": "Monoprice Heavy Duty Power Cord - NEMA 5-15P to IEC 60320 C15, 14AWG, 15A, SJT, 125V, White, 3ft",
@@ -44031,6 +44022,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-19T12:57:15Z"
+        "timestamp": "2023-05-19T13:10:31Z"
     }
 }
