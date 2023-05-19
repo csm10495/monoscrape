@@ -1631,7 +1631,7 @@
         },
         "11379": {
             "name": "Monoprice FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 75ft, White",
-            "price": 16.99,
+            "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=11379",
             "product_id": 11379,
             "available": true,
@@ -2090,7 +2090,7 @@
         },
         "11948": {
             "name": "Monoprice Premium Home Theater Center Channel Speaker, Black",
-            "price": 29.99,
+            "price": 25.48,
             "url": "https://www.monoprice.com/product?p_id=11948",
             "product_id": 11948,
             "available": true,
@@ -3857,7 +3857,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=13405",
             "product_id": 13405,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 167
         },
@@ -4403,7 +4403,7 @@
         },
         "13562": {
             "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, U/FTP, CM, Pure Bare Copper Wire, 23AWG, 250ft, Gray",
-            "price": 78.99,
+            "price": 47.38,
             "url": "https://www.monoprice.com/product?p_id=13562",
             "product_id": 13562,
             "available": true,
@@ -7616,7 +7616,7 @@
         },
         "15827": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 0.5kg/spool, Black",
-            "price": 8.99,
+            "price": 5.39,
             "url": "https://www.monoprice.com/product?p_id=15827",
             "product_id": 15827,
             "available": false,
@@ -7646,7 +7646,7 @@
             "price": 16.47,
             "url": "https://www.monoprice.com/product?p_id=15835",
             "product_id": 15835,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -7988,7 +7988,7 @@
             "price": 0.92,
             "url": "https://www.monoprice.com/product?p_id=16001",
             "product_id": 16001,
-            "available": true,
+            "available": false,
             "rating": 4,
             "num_reviews": 1
         },
@@ -43995,6 +43995,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-19T16:54:27Z"
+        "timestamp": "2023-05-19T17:05:51Z"
     }
 }
