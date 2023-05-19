@@ -10985,7 +10985,7 @@
             "price": 1.59,
             "url": "https://www.monoprice.com/product?p_id=2291",
             "product_id": 2291,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3399
         },
@@ -28724,7 +28724,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=4125",
             "product_id": 4125,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 22
         },
@@ -38138,7 +38138,7 @@
             "price": 27.99,
             "url": "https://www.monoprice.com/product?p_id=5915",
             "product_id": 5915,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 611
         },
@@ -41177,7 +41177,7 @@
         },
         "7847": {
             "name": "Monoprice SlimSelect Series Low Profile Ultra Slim Fixed TV Wall Mount Bracket - For LED TVs 32in to 60in, Max Weight 125 lbs, VESA Patterns Up to 600x400",
-            "price": 17.99,
+            "price": 10.79,
             "url": "https://www.monoprice.com/product?p_id=7847",
             "product_id": 7847,
             "available": false,
@@ -42626,7 +42626,7 @@
         },
         "9324": {
             "name": "Monoprice Keystone Jack HDMI Female to Female Coupler Adapter, White (No Logo)",
-            "price": 2.39,
+            "price": 2.38,
             "url": "https://www.monoprice.com/product?p_id=9324",
             "product_id": 9324,
             "available": true,
@@ -43995,6 +43995,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-19T16:44:32Z"
+        "timestamp": "2023-05-19T16:54:27Z"
     }
 }
