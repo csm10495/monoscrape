@@ -27149,7 +27149,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=40085",
             "product_id": 40085,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -27158,7 +27158,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=40086",
             "product_id": 40086,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -29408,7 +29408,7 @@
             "price": 58.99,
             "url": "https://www.monoprice.com/product?p_id=41527",
             "product_id": 41527,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 6
         },
@@ -31898,7 +31898,7 @@
         },
         "42864": {
             "name": "50 Foot Garden Hose Stainless Steel Metal Water Hose Tough \u0026 Flexible, Lightweight, Crush Resistant Aluminum Fittings, Kink \u0026 Tangle Free, Rust Proof, Easy to Use \u0026 Store",
-            "price": 27.99,
+            "price": 25.99,
             "url": "https://www.monoprice.com/product?p_id=42864",
             "product_id": 42864,
             "available": true,
@@ -31907,7 +31907,7 @@
         },
         "42865": {
             "name": "75 Foot Garden Hose Stainless Steel Metal Water Hose Tough \u0026 Flexible, Lightweight, Crush Resistant Aluminum Fittings, Kink \u0026 Tangle Free, Rust Proof, Easy to Use \u0026 Store",
-            "price": 36.99,
+            "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=42865",
             "product_id": 42865,
             "available": true,
@@ -31934,7 +31934,7 @@
         },
         "42871": {
             "name": "Outdoor Folding Portable Picnic Camping Table, Aluminum Roll-up Table with Easy Carrying Bag for Indoor,Outdoor,Camping, Beach,Backyard, BBQ, Party, Patio, Picnic",
-            "price": 54.99,
+            "price": 52.99,
             "url": "https://www.monoprice.com/product?p_id=42871",
             "product_id": 42871,
             "available": true,
@@ -31970,7 +31970,7 @@
         },
         "42898": {
             "name": "Folding Camping Table Chair Set, Aluminum Suitcase Portable Camping Picnic Table with 4 Seats,Umbrella Hole for Party, BBQ, Beach(Silver)",
-            "price": 59.99,
+            "price": 54.99,
             "url": "https://www.monoprice.com/product?p_id=42898",
             "product_id": 42898,
             "available": true,
@@ -34043,7 +34043,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=43573",
             "product_id": 43573,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -34346,7 +34346,7 @@
         },
         "43765": {
             "name": "MPM Lightweight Folding Cane with Seat, Walking Stick, Walking Cane, Crutch Chair, Travel Aid",
-            "price": 28.49,
+            "price": 26.99,
             "url": "https://www.monoprice.com/product?p_id=43765",
             "product_id": 43765,
             "available": true,
@@ -34580,7 +34580,7 @@
         },
         "44047": {
             "name": "MPM Universal Stand Assist, Adjustable Couch Lift Assist, Standing Aid, Chair Assistance Handle Safety Grab Bar for Elderly, Seniors, Patients, Disabled Daily Living Mobility Aid",
-            "price": 35.99,
+            "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=44047",
             "product_id": 44047,
             "available": true,
@@ -34877,7 +34877,7 @@
         },
         "44323": {
             "name": "MPM Digger Interactive Pet Toy, Play Cat Treat Puzzle, Slow Eating Maze Food Bowl",
-            "price": 23.39,
+            "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=44323",
             "product_id": 44323,
             "available": true,
@@ -35138,7 +35138,7 @@
         },
         "44373": {
             "name": "MPM Forearm Crutches (1 Pair), Adjustable with Handle Pad, Heavy Duty for Standard and Tall Adults, Lightweight Aluminum Mobility Aid Arm Crutches",
-            "price": 31.49,
+            "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=44373",
             "product_id": 44373,
             "available": true,
@@ -44022,6 +44022,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-19T14:21:56Z"
+        "timestamp": "2023-05-19T14:30:02Z"
     }
 }
