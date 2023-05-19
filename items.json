@@ -11300,7 +11300,7 @@
             "price": 15.29,
             "url": "https://www.monoprice.com/product?p_id=2332",
             "product_id": 2332,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3399
         },
@@ -13057,7 +13057,7 @@
             "product_id": 2681,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1459
+            "num_reviews": 1460
         },
         "2682": {
             "name": "Monoprice 12ft High-quality Coaxial Audio/Video RCA CL2 Rated Cable - RG6/U 75ohm (for S/PDIF, Digital Coax, Subwoofer, and Composite Video)",
@@ -36790,7 +36790,7 @@
             "product_id": 5290,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 304
+            "num_reviews": 305
         },
         "5291": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 14AWG, 15A/1875W, 3-Prong, Black, 3ft",
@@ -37744,7 +37744,7 @@
             "product_id": 5598,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1347
+            "num_reviews": 1348
         },
         "5599": {
             "name": "Monoprice 10ft Premium 3.5mm Stereo Male to 2RCA Male 22AWG Cable (Gold Plated) - Black",
@@ -37789,7 +37789,7 @@
             "product_id": 5602,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1347
+            "num_reviews": 1348
         },
         "5612": {
             "name": "Monoprice 6in Premium 3.5mm Stereo Female to 2x RCA Male Cable, 22AWG Gold Plated, Black",
@@ -42575,7 +42575,7 @@
             "price": 44.99,
             "url": "https://www.monoprice.com/product?p_id=9203",
             "product_id": 9203,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 141
         },
@@ -44004,6 +44004,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-19T06:34:54Z"
+        "timestamp": "2023-05-19T06:44:03Z"
     }
 }
