@@ -27938,7 +27938,7 @@
         },
         "40778": {
             "name": "Dark Matter by Monoprice 27in Gaming Monitor - FHD, 240Hz, 1ms, DisplayHDR 400, AMD FreeSync Premium, Fast IPS-Type AHVA",
-            "price": 299.99,
+            "price": 179.99,
             "url": "https://www.monoprice.com/product?p_id=40778",
             "product_id": 40778,
             "available": false,
@@ -29642,7 +29642,7 @@
             "price": 1.37,
             "url": "https://www.monoprice.com/product?p_id=41707",
             "product_id": 41707,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -33410,7 +33410,7 @@
         },
         "43325": {
             "name": "Monoprice USB4 Type-C Gen 3x2 40Gbps 100W, Black, 1m (3.28ft)",
-            "price": 19.99,
+            "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=43325",
             "product_id": 43325,
             "available": true,
@@ -43995,6 +43995,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-19T16:28:26Z"
+        "timestamp": "2023-05-19T16:38:42Z"
     }
 }
