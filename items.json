@@ -37780,7 +37780,7 @@
             "product_id": 5601,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1347
+            "num_reviews": 1348
         },
         "5602": {
             "name": "Monoprice 35ft Premium 3.5mm Stereo Male to 2RCA Male 22AWG Cable (Gold Plated) - Black",
@@ -39389,7 +39389,7 @@
             "price": 0.77,
             "url": "https://www.monoprice.com/product?p_id=6568",
             "product_id": 6568,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 6
         },
@@ -41117,7 +41117,7 @@
             "price": 7.49,
             "url": "https://www.monoprice.com/product?p_id=7690",
             "product_id": 7690,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 148
         },
@@ -44004,6 +44004,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-19T03:06:11Z"
+        "timestamp": "2023-05-19T03:23:21Z"
     }
 }
