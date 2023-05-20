@@ -31194,15 +31194,6 @@
             "rating": 4.5,
             "num_reviews": 2
         },
-        "42579": {
-            "name": "Monolith by Monoprice M-215 Dual 15\" THX Ultra Certified 2000-Watt Powered Subwoofer (open box)",
-            "price": 1599.99,
-            "url": "https://www.monoprice.com/product?p_id=42579",
-            "product_id": 42579,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "42588": {
             "name": "Monoprice Fiber Optic Cable Bulk - 9/125 Type, Single Mode, Duplex, 8.0mm w/o Armor or Steel Wire LSZH G657A1, 12 Strand, Black, 4000FT, Corning",
             "price": 1599.99,
@@ -43968,6 +43959,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-20T05:05:16Z"
+        "timestamp": "2023-05-20T05:21:42Z"
     }
 }
