@@ -18502,7 +18502,7 @@
             "product_id": 34203,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 504
+            "num_reviews": 505
         },
         "34204": {
             "name": "Monoprice 4K Slim Certified Premium High Speed HDMI Cable 6ft - 18Gbps Black - 2 Pack",
@@ -18635,7 +18635,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=34223",
             "product_id": 34223,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 76
         },
@@ -18644,7 +18644,7 @@
             "price": 1.19,
             "url": "https://www.monoprice.com/product?p_id=34224",
             "product_id": 34224,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 76
         },
@@ -23918,7 +23918,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=38846",
             "product_id": 38846,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 60
         },
@@ -43977,6 +43977,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-20T20:07:09Z"
+        "timestamp": "2023-05-20T20:23:24Z"
     }
 }
