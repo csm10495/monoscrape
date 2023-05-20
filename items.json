@@ -29320,7 +29320,7 @@
             "product_id": 41484,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 16
+            "num_reviews": 17
         },
         "41485": {
             "name": "Monoprice Cat6A 500ft Blue CMR UL Bulk Cable, TAA, Shielded (F/UTP), Solid, 23AWG, 550MHz, 10G, Pure Bare Copper, Reel in Box, Bulk Ethernet Cable",
@@ -29329,7 +29329,7 @@
             "product_id": 41485,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 16
+            "num_reviews": 17
         },
         "41496": {
             "name": "Monolith by Monoprice 13in THX Certified Ultra 2000-Watt Powered Subwoofer",
@@ -30868,7 +30868,7 @@
             "product_id": 42344,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 16
+            "num_reviews": 17
         },
         "42345": {
             "name": "Monoprice Cat6A 500ft Green CMR UL Bulk Cable, TAA, Shielded (F/UTP), Solid, 23AWG, 550MHz, 10G, Pure Bare Copper, Reel in Box, Bulk Ethernet Cable",
@@ -30877,7 +30877,7 @@
             "product_id": 42345,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 16
+            "num_reviews": 17
         },
         "42346": {
             "name": "Monoprice Cat6A 500ft Purple CMR UL Bulk Cable, TAA, Shielded (F/UTP), Solid, 23AWG, 550MHz, 10G, Pure Bare Copper, Reel in Box, Bulk Ethernet Cable",
@@ -30886,7 +30886,7 @@
             "product_id": 42346,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 16
+            "num_reviews": 17
         },
         "42347": {
             "name": "Monoprice Cat6A 500ft White CMR UL Bulk Cable, TAA, Shielded (F/UTP), Solid, 23AWG, 550MHz, 10G, Pure Bare Copper, Reel in Box, Bulk Ethernet Cable",
@@ -30904,7 +30904,7 @@
             "product_id": 42348,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 16
+            "num_reviews": 17
         },
         "42351": {
             "name": "12 Pcs Drill Brush Attachment Set for Cleaning - Power Scrubber Drill Brush Pad Sponge Kit with Extend Attachment",
@@ -31568,7 +31568,7 @@
             "price": 169.99,
             "url": "https://www.monoprice.com/product?p_id=42762",
             "product_id": 42762,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 8
         },
@@ -31775,7 +31775,7 @@
             "price": 52.49,
             "url": "https://www.monoprice.com/product?p_id=42840",
             "product_id": 42840,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 12
         },
@@ -32396,7 +32396,7 @@
             "price": 22.49,
             "url": "https://www.monoprice.com/product?p_id=43018",
             "product_id": 43018,
-            "available": false,
+            "available": true,
             "rating": 3,
             "num_reviews": 5
         },
@@ -32981,7 +32981,7 @@
             "price": 33.99,
             "url": "https://www.monoprice.com/product?p_id=43199",
             "product_id": 43199,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 2
         },
@@ -34655,7 +34655,7 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=44100",
             "product_id": 44100,
-            "available": false,
+            "available": true,
             "rating": 3.8,
             "num_reviews": 4
         },
@@ -43977,6 +43977,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-20T12:12:15Z"
+        "timestamp": "2023-05-20T12:38:06Z"
     }
 }
