@@ -25074,15 +25074,6 @@
             "rating": 4.3,
             "num_reviews": 10
         },
-        "39327": {
-            "name": "Monolith by Monoprice MM-3 Powered Multimedia Speakers with Bluetooth with aptX (Pair), Black (Open Box)",
-            "price": 71.39,
-            "url": "https://www.monoprice.com/product?p_id=39327",
-            "product_id": 39327,
-            "available": true,
-            "rating": 3,
-            "num_reviews": 1
-        },
         "39357": {
             "name": "Monoprice HT-35 Premium 5.1-Channel Home Theater System with Powered Subwoofer, Charcoal",
             "price": 160.97,
@@ -43968,6 +43959,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-21T17:34:36Z"
+        "timestamp": "2023-05-21T17:44:26Z"
     }
 }
