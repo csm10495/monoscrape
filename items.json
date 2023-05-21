@@ -5369,7 +5369,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=139",
             "product_id": 139,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3041
         },
@@ -40930,7 +40930,7 @@
             "product_id": 7673,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 245
+            "num_reviews": 246
         },
         "7674": {
             "name": "Monoprice Power Cord - Non-Polarized NEMA 1-15P to Non-Polarized IEC 60320 C7, 18AWG,7A, 125V, Black, 15ft",
@@ -40939,7 +40939,7 @@
             "product_id": 7674,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 245
+            "num_reviews": 246
         },
         "7675": {
             "name": "Monoprice Right Angle Power Cord - NEMA 5-15P to Right Angle IEC 60320 C13, 18AWG, 10A/1250W, SVT, 125V, Black, 3ft",
@@ -43959,6 +43959,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-21T22:29:25Z"
+        "timestamp": "2023-05-21T22:35:23Z"
     }
 }
