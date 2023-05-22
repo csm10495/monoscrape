@@ -17872,7 +17872,7 @@
             "product_id": 33834,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 774
+            "num_reviews": 775
         },
         "33835": {
             "name": "Monolith by Monoprice 14AWG Oxygen Free Copper Multi-Strand Conductors PE Insulated Speaker Wire with Gold Plated Banana Plug Connectors, 10 foot - Pair",
@@ -18635,15 +18635,6 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=34223",
             "product_id": 34223,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 76
-        },
-        "34224": {
-            "name": "Monoprice Cat6 1ft Red Patch Cable, UTP, 32AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Micro SlimRun Series Ethernet Cable",
-            "price": 1.19,
-            "url": "https://www.monoprice.com/product?p_id=34224",
-            "product_id": 34224,
             "available": false,
             "rating": 4.9,
             "num_reviews": 76
@@ -19661,7 +19652,7 @@
             "price": 62.99,
             "url": "https://www.monoprice.com/product?p_id=34706",
             "product_id": 34706,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 546
         },
@@ -20390,7 +20381,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=35115",
             "product_id": 35115,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 8
         },
@@ -22182,8 +22173,8 @@
             "url": "https://www.monoprice.com/product?p_id=38085",
             "product_id": 38085,
             "available": true,
-            "rating": 4.6,
-            "num_reviews": 46
+            "rating": 4.5,
+            "num_reviews": 47
         },
         "38092": {
             "name": "FORM by Monoprice iPhone XS Soft Touch Case, Lavender",
@@ -26537,7 +26528,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=39844",
             "product_id": 39844,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 163
         },
@@ -43959,6 +43950,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-22T14:22:53Z"
+        "timestamp": "2023-05-22T14:31:19Z"
     }
 }
