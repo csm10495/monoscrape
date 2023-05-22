@@ -5954,7 +5954,7 @@
             "price": 129.99,
             "url": "https://www.monoprice.com/product?p_id=14567",
             "product_id": 14567,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 103
         },
@@ -6056,6 +6056,15 @@
             "available": true,
             "rating": 4.5,
             "num_reviews": 60
+        },
+        "14767": {
+            "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Black, (UL)",
+            "price": 39.99,
+            "url": "https://www.monoprice.com/product?p_id=14767",
+            "product_id": 14767,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 92
         },
         "14768": {
             "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Gray, (UL)",
@@ -43896,6 +43905,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-22T20:35:09Z"
+        "timestamp": "2023-05-22T20:44:55Z"
     }
 }
