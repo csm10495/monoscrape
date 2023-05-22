@@ -5571,15 +5571,6 @@
             "rating": 4.9,
             "num_reviews": 3041
         },
-        "141": {
-            "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 25ft, Gray",
-            "price": 5.99,
-            "url": "https://www.monoprice.com/product?p_id=141",
-            "product_id": 141,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 3041
-        },
         "14104": {
             "name": "HDFury3",
             "price": 303.99,
@@ -11228,7 +11219,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=2318",
             "product_id": 2318,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3399
         },
@@ -36043,7 +36034,7 @@
             "product_id": 4793,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 423
+            "num_reviews": 424
         },
         "4794": {
             "name": "Monoprice 10ft Premier Series 1/4in TRS Male to Male Cable, 16AWG (Gold Plated)",
@@ -40469,7 +40460,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=7304",
             "product_id": 7304,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 131
         },
@@ -43569,15 +43560,6 @@
             "rating": 4.9,
             "num_reviews": 1466
         },
-        "9840": {
-            "name": "Monoprice FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 30ft, Yellow",
-            "price": 9.49,
-            "url": "https://www.monoprice.com/product?p_id=9840",
-            "product_id": 9840,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 1466
-        },
         "9842": {
             "name": "Monoprice FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 75ft, Yellow",
             "price": 11.38,
@@ -43914,6 +43896,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-22T20:24:57Z"
+        "timestamp": "2023-05-22T20:35:09Z"
     }
 }
