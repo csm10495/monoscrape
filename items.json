@@ -12814,7 +12814,7 @@
             "product_id": 2505,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1100
+            "num_reviews": 1099
         },
         "2509": {
             "name": "Monoprice VGA to S-Video/RCA (Composite) Adapter Cable - Black",
@@ -13048,7 +13048,7 @@
             "product_id": 2681,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1461
+            "num_reviews": 1460
         },
         "2682": {
             "name": "Monoprice 12ft High-quality Coaxial Audio/Video RCA CL2 Rated Cable - RG6/U 75ohm (for S/PDIF, Digital Coax, Subwoofer, and Composite Video)",
@@ -13057,7 +13057,7 @@
             "product_id": 2682,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1461
+            "num_reviews": 1460
         },
         "2683": {
             "name": "Monoprice 25ft High-quality Coaxial Audio/Video RCA CL2 Rated Cable - RG6/U 75ohm (for S/PDIF, Digital Coax, Subwoofer \u0026 Composite Video)",
@@ -13066,7 +13066,7 @@
             "product_id": 2683,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1461
+            "num_reviews": 1460
         },
         "2684": {
             "name": "Monoprice 50ft High-quality Coaxial Audio/Video RCA CL2 Rated Cable - RG6/U 75ohm (for S/PDIF, Digital Coax, Subwoofer \u0026 Composite Video)",
@@ -37681,7 +37681,7 @@
             "product_id": 5596,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1349
+            "num_reviews": 1347
         },
         "5597": {
             "name": "Monoprice 3ft Premium 3.5mm Stereo Male to 2RCA Male 22AWG Cable (Gold Plated) - Black",
@@ -37690,7 +37690,7 @@
             "product_id": 5597,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1349
+            "num_reviews": 1348
         },
         "5598": {
             "name": "Monoprice 6ft Premium 3.5mm Stereo Male to 2RCA Male 22AWG Cable (Gold Plated) - Black",
@@ -37735,7 +37735,7 @@
             "product_id": 5601,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1349
+            "num_reviews": 1348
         },
         "5602": {
             "name": "Monoprice 35ft Premium 3.5mm Stereo Male to 2RCA Male 22AWG Cable (Gold Plated) - Black",
@@ -37744,7 +37744,7 @@
             "product_id": 5602,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1349
+            "num_reviews": 1348
         },
         "5612": {
             "name": "Monoprice 6in Premium 3.5mm Stereo Female to 2x RCA Male Cable, 22AWG Gold Plated, Black",
@@ -37996,7 +37996,7 @@
             "product_id": 5871,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1461
+            "num_reviews": 1460
         },
         "5872": {
             "name": "Monoprice 100ft High-quality Coaxial Audio/Video RCA CL2 Rated Cable - RG6/U 75ohm (for S/PDIF, Digital Coax, Subwoofer \u0026 Composite Video)",
@@ -38005,7 +38005,7 @@
             "product_id": 5872,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1461
+            "num_reviews": 1460
         },
         "5887": {
             "name": "Monoprice USB 2.0 A Male/A Male Cable, 28/24 AWG 10ft - White",
@@ -38644,7 +38644,7 @@
             "product_id": 6305,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1461
+            "num_reviews": 1460
         },
         "6306": {
             "name": "Monoprice 15ft High-quality Coaxial Audio/Video RCA CL2 Rated Cable - RG6/U 75ohm (for S/PDIF, Digital Coax, Subwoofer, and Composite Video)",
@@ -38653,7 +38653,7 @@
             "product_id": 6306,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1461
+            "num_reviews": 1459
         },
         "631": {
             "name": "Monoprice BNC M/M RG59U - 100ft",
@@ -42217,7 +42217,7 @@
             "product_id": 8768,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 100
+            "num_reviews": 99
         },
         "8769": {
             "name": "Monoprice 10ft 2-conductor NL4 Female to NL4 Female 12AWG Speaker Twist Connector Cable",
@@ -42226,7 +42226,7 @@
             "product_id": 8769,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 100
+            "num_reviews": 99
         },
         "877": {
             "name": "Monoprice Cat5e Ethernet Bulk Cable - Solid, 350MHz, UTP, CMR, Riser Rated, Pure Bare Copper, 24AWG, 1000ft, Gray, Reelex II (UL)",
@@ -42244,7 +42244,7 @@
             "product_id": 8770,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 100
+            "num_reviews": 99
         },
         "8771": {
             "name": "Monoprice 50ft 2-conductor NL4 Female to NL4 Female 12AWG Speaker Twist Connector Cable",
@@ -42253,7 +42253,7 @@
             "product_id": 8771,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 100
+            "num_reviews": 99
         },
         "8778": {
             "name": "Monoprice 18in SATA 6Gbps Cable with Locking Latch - Black",
@@ -43959,6 +43959,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-22T10:53:58Z"
+        "timestamp": "2023-05-22T11:06:18Z"
     }
 }
