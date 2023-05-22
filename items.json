@@ -18464,7 +18464,7 @@
             "price": 129.99,
             "url": "https://www.monoprice.com/product?p_id=34199",
             "product_id": 34199,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 20
         },
@@ -22119,8 +22119,8 @@
             "url": "https://www.monoprice.com/product?p_id=38077",
             "product_id": 38077,
             "available": true,
-            "rating": 4.6,
-            "num_reviews": 46
+            "rating": 4.5,
+            "num_reviews": 47
         },
         "38078": {
             "name": "Monoprice Onix Series - Male RCA Two Channel Stereo Audio Cable, 25ft, Black",
@@ -43959,6 +43959,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-22T12:58:52Z"
+        "timestamp": "2023-05-22T13:11:37Z"
     }
 }
