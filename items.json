@@ -22660,7 +22660,7 @@
             "product_id": 38313,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 263
+            "num_reviews": 266
         },
         "38314": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, White",
@@ -43959,6 +43959,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-22T05:37:00Z"
+        "timestamp": "2023-05-22T05:54:01Z"
     }
 }
