@@ -4417,7 +4417,7 @@
             "product_id": 13574,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 251
+            "num_reviews": 250
         },
         "13575": {
             "name": "Monoprice 4K Slim High Speed HDMI Cable 0.5ft - 18Gbps Silver",
@@ -4453,7 +4453,7 @@
             "product_id": 13580,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 251
+            "num_reviews": 250
         },
         "13582": {
             "name": "Monoprice 4K Slim High Speed HDMI Cable 4ft - 18Gbps Black",
@@ -5290,7 +5290,7 @@
             "product_id": 13801,
             "available": true,
             "rating": 4,
-            "num_reviews": 594
+            "num_reviews": 593
         },
         "13815": {
             "name": "Monoprice Dual Monitor Free Standing Adjustable Desk Mount for Monitors 15~30in",
@@ -8278,7 +8278,7 @@
             "product_id": 16120,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1707
+            "num_reviews": 1708
         },
         "16122": {
             "name": "Monoprice Commercial Series Under Cabinet and RV Tilt TV Wall Mount Bracket For TVs Up to 27in, Max Weight 44lbs, VESA Patterns Up to 100x100",
@@ -9286,7 +9286,7 @@
             "product_id": 18634,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 88
+            "num_reviews": 87
         },
         "18635": {
             "name": "Monoprice 5MP High Definition Mini Dome IP Security Camera, 4mm Fixed Lens, DWDR, 3D DNR, 2560x1920p, Weatherproof IP66, PoE, 30 IR LED up to 100ft, Vandalproof",
@@ -43959,6 +43959,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-22T09:44:02Z"
+        "timestamp": "2023-05-22T09:54:18Z"
     }
 }
