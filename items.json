@@ -27023,7 +27023,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=40073",
             "product_id": 40073,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 3
         },
@@ -30227,7 +30227,7 @@
             "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=42025",
             "product_id": 42025,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 6
         },
@@ -32956,7 +32956,7 @@
             "product_id": 43199,
             "available": false,
             "rating": 5,
-            "num_reviews": 2
+            "num_reviews": 3
         },
         "43200": {
             "name": "Monoprice Cornerstone Series Corner Friendly Full-Motion Articulating TV Wall Mount Bracket For TVs 32in to 70in, Max Weight 99lbs, VESA Patterns Up to 600x400, Fits Curved Screens",
@@ -33323,7 +33323,7 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=43261",
             "product_id": 43261,
-            "available": false,
+            "available": true,
             "rating": 4.2,
             "num_reviews": 15
         },
@@ -35465,15 +35465,6 @@
             "price": 999.99,
             "url": "https://www.monoprice.com/product?p_id=44574",
             "product_id": 44574,
-            "available": true,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "44575": {
-            "name": "Monolith by Monoprice M-12 V2 12in THX Certified Ultra 500-Watt Powered Subwoofer, Piano Black Finish (Open Box)",
-            "price": 949.99,
-            "url": "https://www.monoprice.com/product?p_id=44575",
-            "product_id": 44575,
             "available": true,
             "rating": 0,
             "num_reviews": 0
@@ -43932,6 +43923,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-22T17:35:10Z"
+        "timestamp": "2023-05-22T17:44:35Z"
     }
 }
