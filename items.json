@@ -18482,7 +18482,7 @@
             "price": 44.29,
             "url": "https://www.monoprice.com/product?p_id=34203",
             "product_id": 34203,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 505
         },
@@ -18511,7 +18511,7 @@
             "product_id": 34206,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 504
+            "num_reviews": 505
         },
         "34208": {
             "name": "Monoprice 4K Certified Premium High Speed HDMI Cable 3ft - 18Gbps Black - 3 Pack",
@@ -23054,7 +23054,7 @@
             "price": 18.99,
             "url": "https://www.monoprice.com/product?p_id=38541",
             "product_id": 38541,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 15
         },
@@ -23658,8 +23658,8 @@
             "url": "https://www.monoprice.com/product?p_id=38811",
             "product_id": 38811,
             "available": false,
-            "rating": 4.4,
-            "num_reviews": 85
+            "rating": 4.5,
+            "num_reviews": 86
         },
         "38812": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 3ft, White",
@@ -23703,8 +23703,8 @@
             "url": "https://www.monoprice.com/product?p_id=38816",
             "product_id": 38816,
             "available": false,
-            "rating": 4.4,
-            "num_reviews": 85
+            "rating": 4.5,
+            "num_reviews": 86
         },
         "38818": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 10ft, Blue",
@@ -26737,7 +26737,7 @@
             "product_id": 39925,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1586
+            "num_reviews": 1587
         },
         "39926": {
             "name": "Monoprice USB Type-A to USB Type-A Female 2.0 Extension Cable - 28/24AWG Gold Plated Black 6ft, 5-Pack",
@@ -43923,6 +43923,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-22T19:46:32Z"
+        "timestamp": "2023-05-22T19:56:55Z"
     }
 }
