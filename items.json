@@ -39562,7 +39562,7 @@
             "product_id": 6816,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 253
+            "num_reviews": 254
         },
         "6829": {
             "name": "Monoprice 2-Gang Wall Plate for Keystone, 2 Hole - White",
@@ -43959,6 +43959,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-22T13:34:32Z"
+        "timestamp": "2023-05-22T13:54:27Z"
     }
 }
