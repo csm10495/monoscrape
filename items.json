@@ -1865,7 +1865,7 @@
         },
         "1159": {
             "name": "Monoprice DB25F/RJ-45,Modular Adapter",
-            "price": 0.58,
+            "price": 0.99,
             "url": "https://www.monoprice.com/product?p_id=1159",
             "product_id": 1159,
             "available": false,
@@ -37496,7 +37496,7 @@
         },
         "5569": {
             "name": "Monoprice Cat5e 14ft Orange Crossover Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
-            "price": 2.61,
+            "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=5569",
             "product_id": 5569,
             "available": true,
@@ -37586,7 +37586,7 @@
         },
         "5586": {
             "name": "Monoprice 3ft Premium 3.5mm Stereo Male to 3.5mm Stereo Female 22AWG Extension Cable (Gold Plated) - Black",
-            "price": 1.39,
+            "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=5586",
             "product_id": 5586,
             "available": true,
@@ -37685,7 +37685,7 @@
         },
         "5600": {
             "name": "Monoprice 15ft Premium 3.5mm Stereo Male to 2RCA Male 22AWG Cable (Gold Plated) - Black",
-            "price": 8.09,
+            "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=5600",
             "product_id": 5600,
             "available": true,
@@ -39233,7 +39233,7 @@
         },
         "6540": {
             "name": "Monoprice Keystone Jack - Modular BNC (White)",
-            "price": 0.9,
+            "price": 1.29,
             "url": "https://www.monoprice.com/product?p_id=6540",
             "product_id": 6540,
             "available": true,
@@ -39749,7 +39749,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=6985",
             "product_id": 6985,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 65
         },
@@ -41609,7 +41609,7 @@
         },
         "8489": {
             "name": "Monoprice 2 Port USB-A to USB-A Female 2.0 Extension Cable - Active, Repeater, Black, 16ft",
-            "price": 5.64,
+            "price": 10.49,
             "url": "https://www.monoprice.com/product?p_id=8489",
             "product_id": 8489,
             "available": true,
@@ -41975,15 +41975,6 @@
             "available": true,
             "rating": 4.6,
             "num_reviews": 116
-        },
-        "8630": {
-            "name": "Monoprice Keystone Jack Panel, 48 ports",
-            "price": 13.99,
-            "url": "https://www.monoprice.com/product?p_id=8630",
-            "product_id": 8630,
-            "available": false,
-            "rating": 4.1,
-            "num_reviews": 101
         },
         "8631": {
             "name": "Monoprice Single Sided Shelf, 3.5(H) x 10(D) x 19(W), 30 lbs.",
@@ -42809,7 +42800,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=9447",
             "product_id": 9447,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 211
         },
@@ -43923,6 +43914,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-22T15:45:10Z"
+        "timestamp": "2023-05-22T15:55:09Z"
     }
 }
