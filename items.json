@@ -5483,7 +5483,7 @@
         },
         "13932": {
             "name": "Monoprice Select Series USB-A to Micro B Cable, 2.4A, 22/30AWG, Black, 10ft",
-            "price": 2.6,
+            "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=13932",
             "product_id": 13932,
             "available": true,
@@ -5771,7 +5771,7 @@
         },
         "14311": {
             "name": "Monoprice Cat6 2ft Yellow Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
-            "price": 1.34,
+            "price": 1.79,
             "url": "https://www.monoprice.com/product?p_id=14311",
             "product_id": 14311,
             "available": true,
@@ -6047,15 +6047,6 @@
             "available": false,
             "rating": 4.9,
             "num_reviews": 3041
-        },
-        "14767": {
-            "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Black, (UL)",
-            "price": 39.99,
-            "url": "https://www.monoprice.com/product?p_id=14767",
-            "product_id": 14767,
-            "available": false,
-            "rating": 4.7,
-            "num_reviews": 92
         },
         "14768": {
             "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Gray, (UL)",
@@ -7265,7 +7256,7 @@
         },
         "15646": {
             "name": "Monoprice 1080p No Logo High Speed HDMI Cable 40ft - CL2 In Wall Rated 10.2 Gbps Black",
-            "price": 26.23,
+            "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=15646",
             "product_id": 15646,
             "available": true,
@@ -7421,7 +7412,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=15696",
             "product_id": 15696,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 14
         },
@@ -7463,7 +7454,7 @@
         },
         "15703": {
             "name": "Monoprice Cat6 RJ45 Toolless Twist Lever 180-Degree Keystone",
-            "price": 1.11,
+            "price": 1.59,
             "url": "https://www.monoprice.com/product?p_id=15703",
             "product_id": 15703,
             "available": true,
@@ -43959,6 +43950,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-22T14:54:50Z"
+        "timestamp": "2023-05-22T15:06:55Z"
     }
 }
