@@ -16263,15 +16263,6 @@
             "rating": 4.1,
             "num_reviews": 16
         },
-        "31294": {
-            "name": "Monoprice Cat7 6in Blue Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
-            "price": 2.09,
-            "url": "https://www.monoprice.com/product?p_id=31294",
-            "product_id": 31294,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 231
-        },
         "313": {
             "name": "Monoprice Cat5E RJ-45 Toolless Keystone Jack in Blue",
             "price": 1.49,
@@ -17250,24 +17241,6 @@
             "url": "https://www.monoprice.com/product?p_id=33614",
             "product_id": 33614,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 59
-        },
-        "33616": {
-            "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 18AWG, 10A/1250W, 3-Prong, SJT, Green, 4ft",
-            "price": 2.2,
-            "url": "https://www.monoprice.com/product?p_id=33616",
-            "product_id": 33616,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 59
-        },
-        "33618": {
-            "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 18AWG, 10A/1250W, 3-Prong, SJT, Red, 6ft",
-            "price": 2.29,
-            "url": "https://www.monoprice.com/product?p_id=33618",
-            "product_id": 33618,
-            "available": false,
             "rating": 4.9,
             "num_reviews": 59
         },
@@ -18329,7 +18302,7 @@
             "price": 32.99,
             "url": "https://www.monoprice.com/product?p_id=34183",
             "product_id": 34183,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 2
         },
@@ -19742,7 +19715,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=34784",
             "product_id": 34784,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 67
         },
@@ -19991,7 +19964,7 @@
         },
         "34836": {
             "name": "Monoprice 4K Certified Premium High Speed HDMI Cable 7.5m - 18Gbps Black - 2 Pack",
-            "price": 35.33,
+            "price": 58.89,
             "url": "https://www.monoprice.com/product?p_id=34836",
             "product_id": 34836,
             "available": false,
@@ -20531,7 +20504,7 @@
         },
         "35321": {
             "name": "Stage Right by Monoprice STARQUAD XLR Microphone Cable, Optimized for Analog Audio - Gold Contacts, XLR-M to XLR-F, 24AWG, 50FT, Black",
-            "price": 17.24,
+            "price": 22.99,
             "url": "https://www.monoprice.com/product?p_id=35321",
             "product_id": 35321,
             "available": true,
@@ -21341,7 +21314,7 @@
         },
         "36279": {
             "name": "Monoprice Hi-Gloss 3D Printer Filament PLA 1.75mm 1kg/spool, Pale Green",
-            "price": 10.49,
+            "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=36279",
             "product_id": 36279,
             "available": false,
@@ -22723,7 +22696,7 @@
             "product_id": 38323,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 266
+            "num_reviews": 267
         },
         "38324": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Micro B to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft, White",
@@ -23631,8 +23604,8 @@
             "url": "https://www.monoprice.com/product?p_id=38806",
             "product_id": 38806,
             "available": true,
-            "rating": 4.4,
-            "num_reviews": 85
+            "rating": 4.5,
+            "num_reviews": 86
         },
         "38807": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 1.5ft, Black",
@@ -24293,7 +24266,7 @@
         },
         "38913": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-A Charge and Sync Nylon-Braid Cable, 6ft, Blue",
-            "price": 8.99,
+            "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=38913",
             "product_id": 38913,
             "available": true,
@@ -43950,6 +43923,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-22T15:23:35Z"
+        "timestamp": "2023-05-22T15:30:04Z"
     }
 }
