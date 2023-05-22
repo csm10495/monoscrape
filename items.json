@@ -12902,7 +12902,7 @@
             "price": 6.49,
             "url": "https://www.monoprice.com/product?p_id=2602",
             "product_id": 2602,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 7
         },
@@ -36961,7 +36961,7 @@
             "product_id": 5347,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 1302
+            "num_reviews": 1304
         },
         "5348": {
             "name": "Monoprice 15ft Premium 2 RCA Plug/2 RCA Plug M/M 22AWG Cable - Black",
@@ -43968,6 +43968,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-22T23:28:16Z"
+        "timestamp": "2023-05-22T23:34:43Z"
     }
 }
