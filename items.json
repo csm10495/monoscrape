@@ -5299,7 +5299,7 @@
             "product_id": 13801,
             "available": true,
             "rating": 4,
-            "num_reviews": 593
+            "num_reviews": 595
         },
         "13815": {
             "name": "Monoprice Dual Monitor Free Standing Adjustable Desk Mount for Monitors 15~30in",
@@ -5963,7 +5963,7 @@
             "price": 129.99,
             "url": "https://www.monoprice.com/product?p_id=14567",
             "product_id": 14567,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 103
         },
@@ -6056,6 +6056,15 @@
             "available": false,
             "rating": 4.9,
             "num_reviews": 3041
+        },
+        "14760": {
+            "name": "Monoprice Cat6 Ethernet Bulk Cable - Stranded, 550MHz, UTP, CM, Pure Bare Copper Wire, 24AWG, 250ft, Black",
+            "price": 35.99,
+            "url": "https://www.monoprice.com/product?p_id=14760",
+            "product_id": 14760,
+            "available": true,
+            "rating": 4.5,
+            "num_reviews": 60
         },
         "14768": {
             "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Gray, (UL)",
@@ -6269,7 +6278,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=14811",
             "product_id": 14811,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 273
         },
@@ -8942,7 +8951,7 @@
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=16356",
             "product_id": 16356,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 38
         },
@@ -43923,6 +43932,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-22T17:06:13Z"
+        "timestamp": "2023-05-22T17:21:22Z"
     }
 }
