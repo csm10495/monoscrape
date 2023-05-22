@@ -31194,6 +31194,15 @@
             "rating": 4.5,
             "num_reviews": 2
         },
+        "42579": {
+            "name": "Monolith by Monoprice M-215 Dual 15\" THX Ultra Certified 2000-Watt Powered Subwoofer (open box)",
+            "price": 1599.99,
+            "url": "https://www.monoprice.com/product?p_id=42579",
+            "product_id": 42579,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "42588": {
             "name": "Monoprice Fiber Optic Cable Bulk - 9/125 Type, Single Mode, Duplex, 8.0mm w/o Armor or Steel Wire LSZH G657A1, 12 Strand, Black, 4000FT, Corning",
             "price": 1599.99,
@@ -31426,7 +31435,7 @@
             "product_id": 42683,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 225
+            "num_reviews": 226
         },
         "42684": {
             "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 26AWG, 15ft, Black",
@@ -31478,7 +31487,7 @@
             "price": 25.99,
             "url": "https://www.monoprice.com/product?p_id=42707",
             "product_id": 42707,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -34719,8 +34728,8 @@
             "url": "https://www.monoprice.com/product?p_id=44263",
             "product_id": 44263,
             "available": true,
-            "rating": 2.5,
-            "num_reviews": 4
+            "rating": 2.2,
+            "num_reviews": 5
         },
         "44264": {
             "name": "Pure Outdoor by Monoprice Complete Disc Golf Set with Carrying Case and Discs",
@@ -43950,6 +43959,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-22T14:31:19Z"
+        "timestamp": "2023-05-22T14:36:59Z"
     }
 }
