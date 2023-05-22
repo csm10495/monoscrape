@@ -29394,6 +29394,15 @@
             "rating": 0,
             "num_reviews": 0
         },
+        "41626": {
+            "name": "Monolith by Monoprice THX-265B THX Select Certified Dolby Atmos Enabled Bookshelf Speaker (Each) (open box)",
+            "price": 155.39,
+            "url": "https://www.monoprice.com/product?p_id=41626",
+            "product_id": 41626,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 1
+        },
         "41639": {
             "name": "Monoprice Cat5e 100ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
             "price": 23.99,
@@ -29432,7 +29441,7 @@
         },
         "41674": {
             "name": "Portable UVC Lamp Disinfection Tool for Sterilization - White + Pink",
-            "price": 2.09,
+            "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=41674",
             "product_id": 41674,
             "available": false,
@@ -29855,7 +29864,7 @@
         },
         "41822": {
             "name": "UVC Sterilizer with wireless charging Disinfection Tool for Sterilization",
-            "price": 1.74,
+            "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=41822",
             "product_id": 41822,
             "available": false,
@@ -31167,15 +31176,6 @@
             "rating": 4.5,
             "num_reviews": 2
         },
-        "42579": {
-            "name": "Monolith by Monoprice M-215 Dual 15\" THX Ultra Certified 2000-Watt Powered Subwoofer (open box)",
-            "price": 1599.99,
-            "url": "https://www.monoprice.com/product?p_id=42579",
-            "product_id": 42579,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "42588": {
             "name": "Monoprice Fiber Optic Cable Bulk - 9/125 Type, Single Mode, Duplex, 8.0mm w/o Armor or Steel Wire LSZH G657A1, 12 Strand, Black, 4000FT, Corning",
             "price": 1599.99,
@@ -31676,7 +31676,7 @@
             "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=42833",
             "product_id": 42833,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 264
         },
@@ -32168,7 +32168,7 @@
         },
         "42987": {
             "name": "Monoprice Cat6A 15ft White Component Level Patch Cable, Double Shielded (S/FTP), 30AWG, 10G, CM Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 11.04,
+            "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=42987",
             "product_id": 42987,
             "available": true,
@@ -33314,7 +33314,7 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=43261",
             "product_id": 43261,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 15
         },
@@ -33365,7 +33365,7 @@
         },
         "43325": {
             "name": "Monoprice USB4 Type-C Gen 3x2 40Gbps 100W, Black, 1m (3.28ft)",
-            "price": 16.99,
+            "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=43325",
             "product_id": 43325,
             "available": true,
@@ -43923,6 +43923,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-22T16:39:46Z"
+        "timestamp": "2023-05-22T16:45:25Z"
     }
 }
