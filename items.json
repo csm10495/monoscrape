@@ -31039,7 +31039,7 @@
             "product_id": 42527,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 266
+            "num_reviews": 265
         },
         "42528": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Black - 3 Pack",
@@ -31057,7 +31057,7 @@
             "product_id": 42529,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 266
+            "num_reviews": 265
         },
         "42530": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Red - 3 Pack",
@@ -31075,7 +31075,7 @@
             "product_id": 42531,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 266
+            "num_reviews": 263
         },
         "42532": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft/3ft/6ft, Red - 3 Pack",
@@ -31084,7 +31084,7 @@
             "product_id": 42532,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 266
+            "num_reviews": 264
         },
         "42533": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Black - 3 Pack",
@@ -31417,7 +31417,7 @@
             "product_id": 42681,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 225
+            "num_reviews": 224
         },
         "42682": {
             "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 30AWG, 6ft, Black",
@@ -31462,7 +31462,7 @@
             "product_id": 42686,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 225
+            "num_reviews": 224
         },
         "42687": {
             "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 28AWG, 10ft, Black - 5 Pack",
@@ -31471,7 +31471,7 @@
             "product_id": 42687,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 225
+            "num_reviews": 224
         },
         "42688": {
             "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 26AWG, 15ft, Black - 5 Pack",
@@ -33406,7 +33406,7 @@
             "product_id": 43326,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 25
+            "num_reviews": 24
         },
         "43327": {
             "name": "Monoprice SlimRun AV 8K Certified Ultra High Speed Active HDMI Cable, HDMI 2.1, AOC, 10m, 32ft",
@@ -34873,7 +34873,7 @@
             "product_id": 44327,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 225
+            "num_reviews": 224
         },
         "44328": {
             "name": "Monoprice SlimRun AV 8K Certified Ultra High Speed Active HDMI Cable, CMP Plenum rated, HDMI 2.1, AOC, 7.5m, 24ft",
@@ -34990,7 +34990,7 @@
             "product_id": 44340,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 225
+            "num_reviews": 224
         },
         "44341": {
             "name": "Monoprice 8K Certified Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 24AWG, 20ft, Black",
@@ -43959,6 +43959,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-22T10:25:33Z"
+        "timestamp": "2023-05-22T10:43:55Z"
     }
 }
