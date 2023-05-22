@@ -15469,7 +15469,7 @@
             "product_id": 30763,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 201
+            "num_reviews": 202
         },
         "30764": {
             "name": "Monoprice Palette Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 1.5ft White",
@@ -19625,7 +19625,7 @@
             "price": 62.99,
             "url": "https://www.monoprice.com/product?p_id=34706",
             "product_id": 34706,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 546
         },
@@ -20480,7 +20480,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=35317",
             "product_id": 35317,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 33
         },
@@ -20669,7 +20669,7 @@
             "price": 68.99,
             "url": "https://www.monoprice.com/product?p_id=35510",
             "product_id": 35510,
-            "available": false,
+            "available": true,
             "rating": 4.2,
             "num_reviews": 38
         },
@@ -23766,8 +23766,8 @@
             "url": "https://www.monoprice.com/product?p_id=38825",
             "product_id": 38825,
             "available": true,
-            "rating": 4.4,
-            "num_reviews": 85
+            "rating": 4.5,
+            "num_reviews": 86
         },
         "38826": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 6ft, Black, 3-Pack",
@@ -24152,7 +24152,7 @@
             "price": 8.09,
             "url": "https://www.monoprice.com/product?p_id=38899",
             "product_id": 38899,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 79
         },
@@ -24908,7 +24908,7 @@
             "price": 1999.99,
             "url": "https://www.monoprice.com/product?p_id=39243",
             "product_id": 39243,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 2
         },
@@ -43923,6 +43923,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-22T16:29:27Z"
+        "timestamp": "2023-05-22T16:39:46Z"
     }
 }
