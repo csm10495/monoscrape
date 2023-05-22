@@ -10114,7 +10114,7 @@
             "product_id": 21591,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 208
+            "num_reviews": 209
         },
         "21594": {
             "name": "Strata Home by Monoprice Sous Vide Immersion Cooker 800W",
@@ -10366,7 +10366,7 @@
             "product_id": 21670,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 62
+            "num_reviews": 63
         },
         "21671": {
             "name": "Monoprice USB 3.0 4-port Aluminum Hub with AC Adapter",
@@ -10384,7 +10384,7 @@
             "product_id": 21672,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 62
+            "num_reviews": 63
         },
         "21678": {
             "name": "Monoprice Onix Series Digital Coaxial Audio/Video RCA Subwoofer CL2 Rated Cable, RG-6/U 75-ohm 3ft",
@@ -11500,7 +11500,7 @@
             "product_id": 24182,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 504
+            "num_reviews": 505
         },
         "24183": {
             "name": "Monoprice 4K Slim Certified Premium High Speed HDMI Cable 2ft - 18Gbps Black",
@@ -11518,7 +11518,7 @@
             "product_id": 24184,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 504
+            "num_reviews": 505
         },
         "24186": {
             "name": "Monoprice 4K Slim Certified Premium High Speed HDMI Cable 5ft - 18Gbps Black",
@@ -12427,7 +12427,7 @@
             "product_id": 24437,
             "available": false,
             "rating": 4.5,
-            "num_reviews": 87
+            "num_reviews": 88
         },
         "24438": {
             "name": "Monoprice Onyx Series Auxiliary 3.5mm TRS Audio Cable, 15ft",
@@ -14119,7 +14119,7 @@
             "product_id": 27934,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 145
+            "num_reviews": 146
         },
         "27935": {
             "name": "Monoprice Essentials USB Type-C to USB Type-A Female 3.1 Gen 1 Extension Cable - 5Gbps, 3A, 30AWG, White, 0.5ft",
@@ -39630,6 +39630,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-22T08:35:06Z"
+        "timestamp": "2023-05-22T08:44:01Z"
     }
 }
