@@ -31012,7 +31012,7 @@
             "product_id": 42519,
             "available": true,
             "rating": 4,
-            "num_reviews": 23
+            "num_reviews": 24
         },
         "42520": {
             "name": "Monoprice Wireless Charger, Qi-Certified 15W Fast Wireless Charging Stand with QC3.0 AC Adapter for iPhone 12/12 Pro/11/11 Pro/XR/XS/X/8/8+/Airpods, Galaxy S21/S20/Note 10/Note 10+/S10/S10+/S9/S8",
@@ -32279,7 +32279,7 @@
             "price": 20.99,
             "url": "https://www.monoprice.com/product?p_id=42996",
             "product_id": 42996,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 8
         },
@@ -32999,7 +32999,7 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=43206",
             "product_id": 43206,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 11
         },
@@ -43959,6 +43959,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-22T13:11:37Z"
+        "timestamp": "2023-05-22T13:27:21Z"
     }
 }
