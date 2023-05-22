@@ -30524,7 +30524,7 @@
             "price": 38.99,
             "url": "https://www.monoprice.com/product?p_id=42111",
             "product_id": 42111,
-            "available": false,
+            "available": true,
             "rating": 3.7,
             "num_reviews": 3
         },
@@ -33388,7 +33388,7 @@
             "product_id": 43326,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 24
+            "num_reviews": 25
         },
         "43327": {
             "name": "Monoprice SlimRun AV 8K Certified Ultra High Speed Active HDMI Cable, HDMI 2.1, AOC, 10m, 32ft",
@@ -34710,8 +34710,8 @@
             "url": "https://www.monoprice.com/product?p_id=44263",
             "product_id": 44263,
             "available": true,
-            "rating": 2.2,
-            "num_reviews": 5
+            "rating": 2.3,
+            "num_reviews": 6
         },
         "44264": {
             "name": "Pure Outdoor by Monoprice Complete Disc Golf Set with Carrying Case and Discs",
@@ -35510,15 +35510,6 @@
             "price": 699.99,
             "url": "https://www.monoprice.com/product?p_id=44582",
             "product_id": 44582,
-            "available": true,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "44585": {
-            "name": "Monolith by Monoprice M-10 V2 10in THX Certified Select 500 Watt Powered Subwoofer (Open Box)",
-            "price": 349.99,
-            "url": "https://www.monoprice.com/product?p_id=44585",
-            "product_id": 44585,
             "available": true,
             "rating": 0,
             "num_reviews": 0
@@ -43923,6 +43914,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-22T19:56:55Z"
+        "timestamp": "2023-05-22T20:08:40Z"
     }
 }
