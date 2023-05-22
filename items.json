@@ -27263,7 +27263,7 @@
         },
         "40131": {
             "name": "Monoprice Heavy Duty Extension Cord - IEC 60320 C20 to IEC 60320 C19, 12AWG, 20A/2500W, SJT, 250V, Black, 8ft",
-            "price": 11.04,
+            "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=40131",
             "product_id": 40131,
             "available": false,
@@ -27866,7 +27866,7 @@
         },
         "40660": {
             "name": "Monoprice Cat6 500ft Gray CMR UL Bulk Cable, Solid (w/spine), UTP, 23AWG, 550MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
-            "price": 56.24,
+            "price": 74.99,
             "url": "https://www.monoprice.com/product?p_id=40660",
             "product_id": 40660,
             "available": true,
@@ -28100,7 +28100,7 @@
         },
         "40888": {
             "name": "Monoprice Cat6 25ft Black Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
-            "price": 3.81,
+            "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=40888",
             "product_id": 40888,
             "available": true,
@@ -28280,7 +28280,7 @@
         },
         "41021": {
             "name": "Monoprice Cat8 1ft Blue Patch Cable,  Double Shielded (S/FTP), 26AWG, 2GHz, 40G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
-            "price": 2.31,
+            "price": 3.09,
             "url": "https://www.monoprice.com/product?p_id=41021",
             "product_id": 41021,
             "available": true,
@@ -28739,7 +28739,7 @@
         },
         "41281": {
             "name": "Monoprice Select Series DisplayPort 1.2a Cable 10ft (10-Pack)",
-            "price": 71.99,
+            "price": 79.99,
             "url": "https://www.monoprice.com/product?p_id=41281",
             "product_id": 41281,
             "available": true,
@@ -29603,7 +29603,7 @@
         },
         "41709": {
             "name": "Individually packed Disposable Face Masks 10 PCS FDA \u0026 CE Certified Surgical mask 3-Ply Breathable \u0026 Comfortable Filter Safety Mask",
-            "price": 1.79,
+            "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=41709",
             "product_id": 41709,
             "available": false,
@@ -29666,7 +29666,7 @@
         },
         "41738": {
             "name": "8 pack Hand Sanitizer Spray 1.5oz 45ML 75% Alcohol Lemon Scented Hand Cleanser Spray non-gel",
-            "price": 6.99,
+            "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=41738",
             "product_id": 41738,
             "available": false,
@@ -31163,7 +31163,7 @@
             "price": 1599.99,
             "url": "https://www.monoprice.com/product?p_id=42579",
             "product_id": 42579,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -32243,7 +32243,7 @@
             "price": 20.99,
             "url": "https://www.monoprice.com/product?p_id=42996",
             "product_id": 42996,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 8
         },
@@ -32483,7 +32483,7 @@
         },
         "43079": {
             "name": "Monoprice Cat6 14ft White Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
-            "price": 2.96,
+            "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=43079",
             "product_id": 43079,
             "available": true,
@@ -34202,7 +34202,7 @@
         },
         "43701": {
             "name": "Monoprice Cat6 500ft Black CMP UL Bulk Cable, TAA, Solid (w/spine), UTP, 23AWG, 550MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
-            "price": 152.99,
+            "price": 169.99,
             "url": "https://www.monoprice.com/product?p_id=43701",
             "product_id": 43701,
             "available": true,
@@ -43923,6 +43923,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-22T15:30:04Z"
+        "timestamp": "2023-05-22T15:36:43Z"
     }
 }
