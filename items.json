@@ -11111,7 +11111,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=2306",
             "product_id": 2306,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3399
         },
@@ -26816,7 +26816,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=3997",
             "product_id": 3997,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 519
         },
@@ -28697,7 +28697,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=4127",
             "product_id": 4127,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 27
         },
@@ -36077,7 +36077,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=4793",
             "product_id": 4793,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 424
         },
@@ -38417,7 +38417,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=6069",
             "product_id": 6069,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 76
         },
@@ -40424,7 +40424,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=7288",
             "product_id": 7288,
-            "available": false,
+            "available": true,
             "rating": 3.2,
             "num_reviews": 74
         },
@@ -42273,6 +42273,15 @@
             "rating": 4.8,
             "num_reviews": 162
         },
+        "8780": {
+            "name": "Monoprice 24in SATA 6Gbps Cable with Locking Latch (90 Degree to 180 Degree) - Black",
+            "price": 1.49,
+            "url": "https://www.monoprice.com/product?p_id=8780",
+            "product_id": 8780,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 230
+        },
         "8782": {
             "name": "Monoprice 18in SATA 6Gbps Cable with Locking Latch - Blue",
             "price": 1.49,
@@ -42656,7 +42665,7 @@
             "price": 0.99,
             "url": "https://www.monoprice.com/product?p_id=938",
             "product_id": 938,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 19
         },
@@ -42827,7 +42836,7 @@
             "price": 2.79,
             "url": "https://www.monoprice.com/product?p_id=9446",
             "product_id": 9446,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 211
         },
@@ -42836,7 +42845,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=9447",
             "product_id": 9447,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 211
         },
@@ -43151,7 +43160,7 @@
             "price": 3.19,
             "url": "https://www.monoprice.com/product?p_id=9780",
             "product_id": 9780,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 91
         },
@@ -43781,7 +43790,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=9863",
             "product_id": 9863,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1466
         },
@@ -43941,6 +43950,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-23T13:34:17Z"
+        "timestamp": "2023-05-23T13:44:24Z"
     }
 }
