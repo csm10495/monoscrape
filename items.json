@@ -34074,15 +34074,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "43626": {
-            "name": "Netis 6-Port Fast Ethernet PoE Switch/4-Port PoE/802.3at/af, 60W PoE",
-            "price": 43.49,
-            "url": "https://www.monoprice.com/product?p_id=43626",
-            "product_id": 43626,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "43634": {
             "name": "Rechargeable Portable LED Lantern Lamp, 1200 mAh Dimmable Multi-Functional Light, Bedside Night Lamp for Bedroom, Living Room, Outdoor, Office, Camping",
             "price": 8.99,
@@ -43941,6 +43932,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-23T05:30:33Z"
+        "timestamp": "2023-05-23T05:36:06Z"
     }
 }
