@@ -31462,7 +31462,7 @@
             "product_id": 42687,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 224
+            "num_reviews": 226
         },
         "42688": {
             "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 26AWG, 15ft, Black - 5 Pack",
@@ -35501,6 +35501,15 @@
             "price": 1799.99,
             "url": "https://www.monoprice.com/product?p_id=44578",
             "product_id": 44578,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "44579": {
+            "name": "Monolith by Monoprice 13in THX Certified Ultra 2000-Watt Powered Subwoofer (Open Box)",
+            "price": 999.99,
+            "url": "https://www.monoprice.com/product?p_id=44579",
+            "product_id": 44579,
             "available": true,
             "rating": 0,
             "num_reviews": 0
@@ -43986,6 +43995,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-23T21:20:02Z"
+        "timestamp": "2023-05-23T21:25:22Z"
     }
 }
