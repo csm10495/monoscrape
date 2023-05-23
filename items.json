@@ -27914,7 +27914,7 @@
             "price": 179.99,
             "url": "https://www.monoprice.com/product?p_id=40778",
             "product_id": 40778,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 21
         },
@@ -28391,7 +28391,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=41033",
             "product_id": 41033,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 12
         },
@@ -29934,6 +29934,15 @@
             "rating": 0,
             "num_reviews": 0
         },
+        "41886": {
+            "name": "Monolith by Monoprice THX-365C THX Certified Ultra Center Channel Speaker (Each) (open box)",
+            "price": 399.99,
+            "url": "https://www.monoprice.com/product?p_id=41886",
+            "product_id": 41886,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "41936": {
             "name": "Monoprice Cat6A 1000ft Blue CMR UL Bulk Cable, Shielded (F/UTP), Solid, 23AWG, 650MHz, 10G, Pure Bare Copper, Reel in Box, Flame-Retardant, Entegrade Series Bulk Ethernet Cable",
             "price": 293.99,
@@ -30122,6 +30131,15 @@
             "available": false,
             "rating": 4,
             "num_reviews": 20
+        },
+        "41999": {
+            "name": "Monolith by Monoprice MM-5 Powered Multimedia Speakers with Bluetooth with Qualcomm aptX HD Audio, USB DAC, Optical Inputs (open box)",
+            "price": 229,
+            "url": "https://www.monoprice.com/product?p_id=41999",
+            "product_id": 41999,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
         },
         "42011": {
             "name": "Monoprice SB-500 Dolby Digital 5.1 Soundbar with Wireless Surround Speakers and Wireless Subwoofer, 2 HDMI Inputs, 4K HDR Pass-Through, Optical, Coax, ARC, Remote",
@@ -35501,6 +35519,15 @@
             "price": 1799.99,
             "url": "https://www.monoprice.com/product?p_id=44578",
             "product_id": 44578,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "44579": {
+            "name": "Monolith by Monoprice 13in THX Certified Ultra 2000-Watt Powered Subwoofer (Open Box)",
+            "price": 999.99,
+            "url": "https://www.monoprice.com/product?p_id=44579",
+            "product_id": 44579,
             "available": true,
             "rating": 0,
             "num_reviews": 0
@@ -43995,6 +44022,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-23T15:35:22Z"
+        "timestamp": "2023-05-23T15:44:54Z"
     }
 }
