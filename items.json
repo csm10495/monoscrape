@@ -28040,7 +28040,7 @@
             "price": 0.74,
             "url": "https://www.monoprice.com/product?p_id=40879",
             "product_id": 40879,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 57
         },
@@ -29925,6 +29925,15 @@
             "rating": 0,
             "num_reviews": 0
         },
+        "41885": {
+            "name": "Monolith by Monoprice THX-365T THX Certified Ultra Dolby Atmos Enabled Mini-Tower Speaker (Each) (open box)",
+            "price": 499.99,
+            "url": "https://www.monoprice.com/product?p_id=41885",
+            "product_id": 41885,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "41936": {
             "name": "Monoprice Cat6A 1000ft Blue CMR UL Bulk Cable, Shielded (F/UTP), Solid, 23AWG, 650MHz, 10G, Pure Bare Copper, Reel in Box, Flame-Retardant, Entegrade Series Bulk Ethernet Cable",
             "price": 293.99,
@@ -31185,6 +31194,15 @@
             "rating": 4.5,
             "num_reviews": 2
         },
+        "42579": {
+            "name": "Monolith by Monoprice M-215 Dual 15\" THX Ultra Certified 2000-Watt Powered Subwoofer (open box)",
+            "price": 1599.99,
+            "url": "https://www.monoprice.com/product?p_id=42579",
+            "product_id": 42579,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "42588": {
             "name": "Monoprice Fiber Optic Cable Bulk - 9/125 Type, Single Mode, Duplex, 8.0mm w/o Armor or Steel Wire LSZH G657A1, 12 Strand, Black, 4000FT, Corning",
             "price": 1599.99,
@@ -31705,7 +31723,7 @@
             "product_id": 42835,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 12
+            "num_reviews": 13
         },
         "42836": {
             "name": "Monolith by Monoprice 24in Steel Speaker Stand with Adjustable Top Plate (Each)",
@@ -32369,7 +32387,7 @@
             "price": 22.49,
             "url": "https://www.monoprice.com/product?p_id=43018",
             "product_id": 43018,
-            "available": false,
+            "available": true,
             "rating": 3,
             "num_reviews": 5
         },
@@ -32378,7 +32396,7 @@
             "price": 359.99,
             "url": "https://www.monoprice.com/product?p_id=43019",
             "product_id": 43019,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 19
         },
@@ -35460,6 +35478,15 @@
             "rating": 0,
             "num_reviews": 0
         },
+        "44576": {
+            "name": "Monolith by Monoprice M-12 V2 12in THX Certified Ultra 500-Watt Powered Subwoofer (Open Box)",
+            "price": 449.99,
+            "url": "https://www.monoprice.com/product?p_id=44576",
+            "product_id": 44576,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "44577": {
             "name": "Monolith by Monoprice 16in THX Certified Ultra 2000-Watt Powered Subwoofer (Matte Black/Painted) (Open Box)",
             "price": 1494.99,
@@ -35478,15 +35505,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "44579": {
-            "name": "Monolith by Monoprice 13in THX Certified Ultra 2000-Watt Powered Subwoofer (Open Box)",
-            "price": 999.99,
-            "url": "https://www.monoprice.com/product?p_id=44579",
-            "product_id": 44579,
-            "available": true,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "44580": {
             "name": "Monolith by Monoprice M-210 Dual 10in THX Certified Ultra 1000-Watt Powered Subwoofer (Open Box)",
             "price": 799.99,
@@ -35501,6 +35519,15 @@
             "price": 699.99,
             "url": "https://www.monoprice.com/product?p_id=44582",
             "product_id": 44582,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "44585": {
+            "name": "Monolith by Monoprice M-10 V2 10in THX Certified Select 500 Watt Powered Subwoofer (Open Box)",
+            "price": 349.99,
+            "url": "https://www.monoprice.com/product?p_id=44585",
+            "product_id": 44585,
             "available": true,
             "rating": 0,
             "num_reviews": 0
@@ -43968,6 +43995,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-23T14:23:48Z"
+        "timestamp": "2023-05-23T14:38:25Z"
     }
 }
