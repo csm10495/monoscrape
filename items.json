@@ -30645,15 +30645,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "42164": {
-            "name": "Monoprice Speaker Wire, Flat Adhesive Super Slim Micro Pre-Wired Connector, 10-Pack",
-            "price": 6.99,
-            "url": "https://www.monoprice.com/product?p_id=42164",
-            "product_id": 42164,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "42177": {
             "name": "Monolith by Monoprice THX-460T THX Ultra Certified Tower Speaker (open box)",
             "price": 599,
@@ -34647,8 +34638,8 @@
             "url": "https://www.monoprice.com/product?p_id=44116",
             "product_id": 44116,
             "available": true,
-            "rating": 2,
-            "num_reviews": 2
+            "rating": 3,
+            "num_reviews": 1
         },
         "44117": {
             "name": "Monoprice Thunderbolt 4 Cable, 1m, Intel Certified, USB4 Certified",
@@ -35465,7 +35456,7 @@
             "price": 449.99,
             "url": "https://www.monoprice.com/product?p_id=44576",
             "product_id": 44576,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -35483,15 +35474,6 @@
             "price": 1799.99,
             "url": "https://www.monoprice.com/product?p_id=44578",
             "product_id": 44578,
-            "available": true,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "44579": {
-            "name": "Monolith by Monoprice 13in THX Certified Ultra 2000-Watt Powered Subwoofer (Open Box)",
-            "price": 999.99,
-            "url": "https://www.monoprice.com/product?p_id=44579",
-            "product_id": 44579,
             "available": true,
             "rating": 0,
             "num_reviews": 0
@@ -43986,6 +43968,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-23T23:27:40Z"
+        "timestamp": "2023-05-23T23:44:25Z"
     }
 }
