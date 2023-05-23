@@ -26852,7 +26852,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=3997",
             "product_id": 3997,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 519
         },
@@ -26888,7 +26888,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=4001",
             "product_id": 4001,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 519
         },
@@ -36432,15 +36432,6 @@
             "rating": 4.9,
             "num_reviews": 3041
         },
-        "4995": {
-            "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 30ft, Orange",
-            "price": 6.99,
-            "url": "https://www.monoprice.com/product?p_id=4995",
-            "product_id": 4995,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 3041
-        },
         "4998": {
             "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 30ft, Red",
             "price": 3.49,
@@ -36659,7 +36650,7 @@
         },
         "5217": {
             "name": "Monoprice Single-Mode Fiber Optic Cable - LC/LC, UL, 9/125 Type, Duplex, Yellow, 1m, Corning",
-            "price": 4.99,
+            "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=5217",
             "product_id": 5217,
             "available": false,
@@ -36668,7 +36659,7 @@
         },
         "5220": {
             "name": "Monoprice Single-Mode Fiber Optic Cable - LC/LC, UL, 9/125 Type, Duplex, Yellow, 3m, Corning",
-            "price": 4.49,
+            "price": 4.69,
             "url": "https://www.monoprice.com/product?p_id=5220",
             "product_id": 5220,
             "available": true,
@@ -38966,7 +38957,7 @@
             "price": 20.99,
             "url": "https://www.monoprice.com/product?p_id=6421",
             "product_id": 6421,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 64
         },
@@ -43995,6 +43986,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-23T18:10:03Z"
+        "timestamp": "2023-05-23T18:27:29Z"
     }
 }
