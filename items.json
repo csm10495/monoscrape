@@ -12436,7 +12436,7 @@
             "product_id": 24437,
             "available": false,
             "rating": 4.5,
-            "num_reviews": 87
+            "num_reviews": 88
         },
         "24438": {
             "name": "Monoprice Onyx Series Auxiliary 3.5mm TRS Audio Cable, 15ft",
@@ -14054,7 +14054,7 @@
             "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=27923",
             "product_id": 27923,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 72
         },
@@ -43959,6 +43959,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-23T13:54:30Z"
+        "timestamp": "2023-05-23T14:06:16Z"
     }
 }
