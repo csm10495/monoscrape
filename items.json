@@ -15818,7 +15818,7 @@
             "price": 249.99,
             "url": "https://www.monoprice.com/product?p_id=31034",
             "product_id": 31034,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 22
         },
@@ -19287,6 +19287,15 @@
             "rating": 4.8,
             "num_reviews": 9
         },
+        "34512": {
+            "name": "Décor Insert for Keystone, 3 Hole, White",
+            "price": 0.79,
+            "url": "https://www.monoprice.com/product?p_id=34512",
+            "product_id": 34512,
+            "available": true,
+            "rating": 2.5,
+            "num_reviews": 4
+        },
         "34515": {
             "name": "Décor Insert for Keystone, 4 Hole, White",
             "price": 0.58,
@@ -20381,7 +20390,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=35117",
             "product_id": 35117,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 1
         },
@@ -21002,7 +21011,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=35943",
             "product_id": 35943,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 6
         },
@@ -21969,6 +21978,15 @@
             "rating": 4.9,
             "num_reviews": 76
         },
+        "37944": {
+            "name": "Monolith by Monoprice Desktop Headphone Amplifier and DAC with THX AAA Technology (Dual AKM 4493 DACs \u0026 Dual AAA-788 Modules) (Open Box)",
+            "price": 399,
+            "url": "https://www.monoprice.com/product?p_id=37944",
+            "product_id": 37944,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 2
+        },
         "380": {
             "name": "Monoprice IEEE 1284 , DB25 , M/M - 6ft",
             "price": 2.98,
@@ -22325,7 +22343,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=38165",
             "product_id": 38165,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 3
         },
@@ -22472,15 +22490,6 @@
             "available": true,
             "rating": 4.5,
             "num_reviews": 49
-        },
-        "38202": {
-            "name": "Monolith by Monoprice 12\" THX Ultra Certified 500 Watt Powered Subwoofer (Open Box)",
-            "price": 407.99,
-            "url": "https://www.monoprice.com/product?p_id=38202",
-            "product_id": 38202,
-            "available": true,
-            "rating": 5,
-            "num_reviews": 7
         },
         "38274": {
             "name": "Monoprice OM3 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 3m",
@@ -22841,15 +22850,6 @@
             "available": true,
             "rating": 4.9,
             "num_reviews": 98
-        },
-        "38354": {
-            "name": "Monoprice OM4 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 2m",
-            "price": 1.79,
-            "url": "https://www.monoprice.com/product?p_id=38354",
-            "product_id": 38354,
-            "available": true,
-            "rating": 4.7,
-            "num_reviews": 3
         },
         "38355": {
             "name": "Monoprice OM4 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 3m",
@@ -24161,7 +24161,7 @@
             "price": 3.59,
             "url": "https://www.monoprice.com/product?p_id=38894",
             "product_id": 38894,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 21
         },
@@ -43941,6 +43941,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-23T17:35:03Z"
+        "timestamp": "2023-05-23T17:44:45Z"
     }
 }
