@@ -31516,7 +31516,7 @@
             "product_id": 42762,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 8
+            "num_reviews": 9
         },
         "42763": {
             "name": "Monoprice WFH Single Motor Height Adjustable Motorized Sit-Stand Desk with Solid-core Wood Top, Black 47.2\" x 23.6\"",
@@ -43932,6 +43932,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-23T09:07:04Z"
+        "timestamp": "2023-05-23T09:27:26Z"
     }
 }
