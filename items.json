@@ -15926,7 +15926,7 @@
             "price": 15.59,
             "url": "https://www.monoprice.com/product?p_id=31151",
             "product_id": 31151,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 69
         },
@@ -19652,7 +19652,7 @@
             "price": 13.79,
             "url": "https://www.monoprice.com/product?p_id=34741",
             "product_id": 34741,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 69
         },
@@ -20052,15 +20052,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "34878": {
-            "name": "Select Series USB-A to USB-B 3.0 Cable - Black, 2m - 3 pack",
-            "price": 14.49,
-            "url": "https://www.monoprice.com/product?p_id=34878",
-            "product_id": 34878,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "34879": {
             "name": "Select Series USB-A to Micro B 3.0 Cable - Black, 0.5m - 3 pack",
             "price": 6.74,
@@ -20085,15 +20076,6 @@
             "url": "https://www.monoprice.com/product?p_id=34887",
             "product_id": 34887,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "34888": {
-            "name": "USB-A to Micro B 2.0 Cable - Black, 0.5m - 3 pack",
-            "price": 9.49,
-            "url": "https://www.monoprice.com/product?p_id=34888",
-            "product_id": 34888,
-            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -24217,7 +24199,7 @@
             "product_id": 38906,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 78
+            "num_reviews": 79
         },
         "38907": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-A Charge and Sync Nylon-Braid Cable, 1.5ft, Red",
@@ -43959,6 +43941,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-23T05:22:59Z"
+        "timestamp": "2023-05-23T05:30:33Z"
     }
 }
