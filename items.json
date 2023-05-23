@@ -13066,7 +13066,7 @@
             "product_id": 2682,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1461
         },
         "2683": {
             "name": "Monoprice 25ft High-quality Coaxial Audio/Video RCA CL2 Rated Cable - RG6/U 75ohm (for S/PDIF, Digital Coax, Subwoofer \u0026 Composite Video)",
@@ -36088,7 +36088,7 @@
             "product_id": 4795,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 423
+            "num_reviews": 424
         },
         "4796": {
             "name": "Monoprice 25ft Premier Series 1/4in TRS Male to Male Cable, 16AWG (Gold Plated)",
@@ -36203,7 +36203,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=4867",
             "product_id": 4867,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 1926
         },
@@ -41819,7 +41819,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=8606",
             "product_id": 8606,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1586
         },
@@ -41873,7 +41873,7 @@
             "price": 1.69,
             "url": "https://www.monoprice.com/product?p_id=8612",
             "product_id": 8612,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 322
         },
@@ -42380,15 +42380,6 @@
             "available": true,
             "rating": 4.8,
             "num_reviews": 162
-        },
-        "8829": {
-            "name": "Monoprice OM1 Fiber Optic Cable - SC/ST, UL, 62.5/125 Type, Multi-Mode, Orange, 15m, Corning",
-            "price": 4.19,
-            "url": "https://www.monoprice.com/product?p_id=8829",
-            "product_id": 8829,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 3
         },
         "8858": {
             "name": "Monoprice Single Port 2.1A USB Car Charger",
@@ -43941,6 +43932,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-23T17:06:03Z"
+        "timestamp": "2023-05-23T17:21:50Z"
     }
 }
