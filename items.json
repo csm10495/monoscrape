@@ -14290,7 +14290,7 @@
             "product_id": 2865,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 1302
+            "num_reviews": 1304
         },
         "2866": {
             "name": "Monoprice 25ft Premium 2 RCA Plug/2 RCA Plug M/M 22AWG Cable - Black",
@@ -37996,7 +37996,7 @@
             "product_id": 5872,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1461
         },
         "5887": {
             "name": "Monoprice USB 2.0 A Male/A Male Cable, 28/24 AWG 10ft - White",
@@ -41839,7 +41839,7 @@
             "product_id": 8608,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1586
+            "num_reviews": 1587
         },
         "8609": {
             "name": "Monoprice USB-A to USB-A 2.0 Cable - 28/24AWG, Gold Plated, White, 1.5ft",
@@ -43932,6 +43932,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-23T06:54:12Z"
+        "timestamp": "2023-05-23T07:05:56Z"
     }
 }
