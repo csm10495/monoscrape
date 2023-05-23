@@ -28044,15 +28044,6 @@
             "rating": 4.1,
             "num_reviews": 90
         },
-        "40879": {
-            "name": "Monoprice FLEXboot Flat Cat6 Ethernet Patch Cable - Snagless RJ45, Flat, 550MHz, UTP, Pure Bare Copper Wire, 30AWG, 0.5ft, Black",
-            "price": 0.74,
-            "url": "https://www.monoprice.com/product?p_id=40879",
-            "product_id": 40879,
-            "available": false,
-            "rating": 4.7,
-            "num_reviews": 57
-        },
         "40880": {
             "name": "Monoprice Cat6 1ft Black Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series  Ethernet Cable",
             "price": 1.39,
@@ -28304,15 +28295,6 @@
             "available": true,
             "rating": 4.8,
             "num_reviews": 546
-        },
-        "41021": {
-            "name": "Monoprice Cat8 1ft Blue Patch Cable,  Double Shielded (S/FTP), 26AWG, 2GHz, 40G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
-            "price": 3.09,
-            "url": "https://www.monoprice.com/product?p_id=41021",
-            "product_id": 41021,
-            "available": false,
-            "rating": 4.8,
-            "num_reviews": 36
         },
         "41022": {
             "name": "Monoprice Cat8 2ft Blue Patch Cable, Double Shielded (S/FTP), 26AWG, 2GHz, 40G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
@@ -29147,7 +29129,7 @@
             "price": 153.28,
             "url": "https://www.monoprice.com/product?p_id=41395",
             "product_id": 41395,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1854
         },
@@ -29457,15 +29439,6 @@
             "rating": 5,
             "num_reviews": 3
         },
-        "41674": {
-            "name": "Portable UVC Lamp Disinfection Tool for Sterilization - White + Pink",
-            "price": 5.99,
-            "url": "https://www.monoprice.com/product?p_id=41674",
-            "product_id": 41674,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 1
-        },
         "41683": {
             "name": "Monoprice Power Cord - CEE 7/7 \"SCHUKO\" (Europe) to IEC 60320 C13, H05VV-F 3G 0.75 mm",
             "price": 1.39,
@@ -29637,15 +29610,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "41709": {
-            "name": "Individually packed Disposable Face Masks 10 PCS FDA \u0026 CE Certified Surgical mask 3-Ply Breathable \u0026 Comfortable Filter Safety Mask",
-            "price": 2.99,
-            "url": "https://www.monoprice.com/product?p_id=41709",
-            "product_id": 41709,
-            "available": false,
-            "rating": 4.5,
-            "num_reviews": 33
-        },
         "41710": {
             "name": "Monoprice 5-Port 10/100Mbps Fast Ethernet Unmanaged Switch",
             "price": 11.99,
@@ -29699,15 +29663,6 @@
             "available": false,
             "rating": 4.3,
             "num_reviews": 90
-        },
-        "41738": {
-            "name": "8 pack Hand Sanitizer Spray 1.5oz 45ML 75% Alcohol Lemon Scented Hand Cleanser Spray non-gel",
-            "price": 19.99,
-            "url": "https://www.monoprice.com/product?p_id=41738",
-            "product_id": 41738,
-            "available": false,
-            "rating": 4.3,
-            "num_reviews": 7
         },
         "41759": {
             "name": "netis 5-Port Gigabit Ethernet Unmanaged Network Switch, Desktop, Internet Splitter, Fanless, Plug-and-Play",
@@ -29879,15 +29834,6 @@
             "available": true,
             "rating": 4.9,
             "num_reviews": 1466
-        },
-        "41822": {
-            "name": "UVC Sterilizer with wireless charging Disinfection Tool for Sterilization",
-            "price": 4.99,
-            "url": "https://www.monoprice.com/product?p_id=41822",
-            "product_id": 41822,
-            "available": false,
-            "rating": 1.5,
-            "num_reviews": 2
         },
         "41839": {
             "name": "Warm White Led Globe String Lights - Battery Operated 12Ft Waterproof for Indoor Outdoor Party Garden Patio Holiday Thanksgiving Christmas Decorations",
@@ -30131,15 +30077,6 @@
             "available": false,
             "rating": 5,
             "num_reviews": 9
-        },
-        "41991": {
-            "name": "Solar Ground Lights,Solar Disk Lights Outdoor Waterproof 8 LED Solar Garden Lights for Pathway Warm White (4 Pack)",
-            "price": 5.99,
-            "url": "https://www.monoprice.com/product?p_id=41991",
-            "product_id": 41991,
-            "available": false,
-            "rating": 4,
-            "num_reviews": 20
         },
         "41999": {
             "name": "Monolith by Monoprice MM-5 Powered Multimedia Speakers with Bluetooth with Qualcomm aptX HD Audio, USB DAC, Optical Inputs (open box)",
@@ -31102,7 +31039,7 @@
             "product_id": 42532,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 264
+            "num_reviews": 267
         },
         "42533": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Black - 3 Pack",
@@ -31895,15 +31832,6 @@
             "available": true,
             "rating": 4.4,
             "num_reviews": 5
-        },
-        "42866": {
-            "name": "Mini Portable UV Ultraviolet Instant Sterilizing LED Light for iPhone - Silver",
-            "price": 3.99,
-            "url": "https://www.monoprice.com/product?p_id=42866",
-            "product_id": 42866,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
         },
         "42867": {
             "name": "Mini Portable UV Ultraviolet Instant Sterilizing LED Light for iPhone - Black",
@@ -33467,7 +33395,7 @@
             "price": 64.99,
             "url": "https://www.monoprice.com/product?p_id=43331",
             "product_id": 43331,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 6
         },
@@ -34019,15 +33947,6 @@
             "available": true,
             "rating": 4.7,
             "num_reviews": 9
-        },
-        "43573": {
-            "name": "Garden Lawn Sprinkler, Automatic Yard Water Sprinklers, 360 Degree Rotating, 3000 Sq. Ft Large Area Coverage, Adjustable Angle Water Sprinkler for Lawn, Plants, Garden Hose Sprinklers Heavy Duty",
-            "price": 2.99,
-            "url": "https://www.monoprice.com/product?p_id=43573",
-            "product_id": 43573,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
         },
         "43574": {
             "name": "5 Gallon Plant Grow Bags 5-Pack Heavy Duty Thickened Non-Woven Aeration Planting Fabric Pot Container with 2 Strap Handles Felt Fabric for Garden and Planting, Black",
@@ -35190,6 +35109,15 @@
             "rating": 0,
             "num_reviews": 0
         },
+        "44464": {
+            "name": "Monolith by Monoprice M8250x 8x200 Watts Per Channel Class-D (B-Stock)",
+            "price": 2399.99,
+            "url": "https://www.monoprice.com/product?p_id=44464",
+            "product_id": 44464,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "44465": {
             "name": "Monoprice 15-in-1 Triple-Display MST Docking Station",
             "price": 189.99,
@@ -35505,15 +35433,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "44576": {
-            "name": "Monolith by Monoprice M-12 V2 12in THX Certified Ultra 500-Watt Powered Subwoofer (Open Box)",
-            "price": 449.99,
-            "url": "https://www.monoprice.com/product?p_id=44576",
-            "product_id": 44576,
-            "available": true,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "44577": {
             "name": "Monolith by Monoprice 16in THX Certified Ultra 2000-Watt Powered Subwoofer (Matte Black/Painted) (Open Box)",
             "price": 1494.99,
@@ -35528,15 +35447,6 @@
             "price": 1799.99,
             "url": "https://www.monoprice.com/product?p_id=44578",
             "product_id": 44578,
-            "available": true,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "44579": {
-            "name": "Monolith by Monoprice 13in THX Certified Ultra 2000-Watt Powered Subwoofer (Open Box)",
-            "price": 999.99,
-            "url": "https://www.monoprice.com/product?p_id=44579",
-            "product_id": 44579,
             "available": true,
             "rating": 0,
             "num_reviews": 0
@@ -44031,6 +43941,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-23T16:46:27Z"
+        "timestamp": "2023-05-23T16:54:59Z"
     }
 }
