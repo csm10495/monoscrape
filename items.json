@@ -3254,7 +3254,7 @@
             "price": 1.18,
             "url": "https://www.monoprice.com/product?p_id=1316",
             "product_id": 1316,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 20
         },
@@ -38095,7 +38095,7 @@
             "product_id": 5901,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 495
+            "num_reviews": 496
         },
         "5902": {
             "name": "Monoprice Cat6A 10ft Blue Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -40550,7 +40550,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=7304",
             "product_id": 7304,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 131
         },
@@ -40604,7 +40604,7 @@
             "price": 4.79,
             "url": "https://www.monoprice.com/product?p_id=7329",
             "product_id": 7329,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 45
         },
@@ -41830,7 +41830,7 @@
             "product_id": 8601,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 495
+            "num_reviews": 496
         },
         "8602": {
             "name": "Monoprice Cat6A 20ft Blue Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -42262,7 +42262,7 @@
             "product_id": 8769,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 99
+            "num_reviews": 100
         },
         "877": {
             "name": "Monoprice Cat5e Ethernet Bulk Cable - Solid, 350MHz, UTP, CMR, Riser Rated, Pure Bare Copper, 24AWG, 1000ft, Gray, Reelex II (UL)",
@@ -43986,6 +43986,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-23T20:34:55Z"
+        "timestamp": "2023-05-23T20:44:50Z"
     }
 }
