@@ -11851,7 +11851,7 @@
             "product_id": 24311,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 495
+            "num_reviews": 496
         },
         "24314": {
             "name": "Monoprice Cat6A 6in Red Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -11923,7 +11923,7 @@
             "product_id": 24333,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 495
+            "num_reviews": 496
         },
         "24335": {
             "name": "Monoprice Cat6A 3ft Black Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -11968,7 +11968,7 @@
             "product_id": 24339,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 495
+            "num_reviews": 496
         },
         "24340": {
             "name": "Monoprice Cat6A 3ft Orange Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -44022,6 +44022,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-23T21:54:29Z"
+        "timestamp": "2023-05-23T22:05:40Z"
     }
 }
