@@ -13010,7 +13010,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=2668",
             "product_id": 2668,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 2359
         },
@@ -17217,6 +17217,15 @@
             "rating": 4.9,
             "num_reviews": 13604
         },
+        "3360": {
+            "name": "Monoprice Coaxial Cable Stripper",
+            "price": 5.23,
+            "url": "https://www.monoprice.com/product?p_id=3360",
+            "product_id": 3360,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 48
+        },
         "33603": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A/1250W, 125V, 3-Prong, Green, 6ft",
             "price": 2.99,
@@ -17612,6 +17621,15 @@
             "available": false,
             "rating": 4.3,
             "num_reviews": 3
+        },
+        "3373": {
+            "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 2ft, White",
+            "price": 1.29,
+            "url": "https://www.monoprice.com/product?p_id=3373",
+            "product_id": 3373,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 3041
         },
         "33733": {
             "name": "Monoprice Replacement Extruder Motor Feed Plate for the MP Select Mini (15365 and 21711) and MP Select Mini Pro (33012) 3D Printers",
@@ -36133,7 +36151,7 @@
             "product_id": 4792,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 423
+            "num_reviews": 424
         },
         "4793": {
             "name": "Monoprice 6ft Premier Series 1/4in TRS Male to Male Cable, 16AWG (Gold Plated)",
@@ -38061,6 +38079,15 @@
             "rating": 4.9,
             "num_reviews": 1461
         },
+        "5882": {
+            "name": "Monoprice USB 2.0 A Male/B Male Cable, 28/24 AWG 10ft - Yellow",
+            "price": 1.54,
+            "url": "https://www.monoprice.com/product?p_id=5882",
+            "product_id": 5882,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "5887": {
             "name": "Monoprice USB 2.0 A Male/A Male Cable, 28/24 AWG 10ft - White",
             "price": 1.47,
@@ -38086,7 +38113,7 @@
             "product_id": 5899,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 495
+            "num_reviews": 496
         },
         "5900": {
             "name": "Monoprice Cat6A 5ft Blue Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -38113,7 +38140,7 @@
             "product_id": 5902,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 495
+            "num_reviews": 496
         },
         "5903": {
             "name": "Monoprice Cat6A 14ft Blue Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -38131,7 +38158,7 @@
             "product_id": 5904,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 495
+            "num_reviews": 496
         },
         "5905": {
             "name": "Monoprice Cat6A 50ft Blue Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -40613,7 +40640,7 @@
             "price": 4.79,
             "url": "https://www.monoprice.com/product?p_id=7329",
             "product_id": 7329,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 45
         },
@@ -42262,7 +42289,7 @@
             "product_id": 8768,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 99
+            "num_reviews": 100
         },
         "8769": {
             "name": "Monoprice 10ft 2-conductor NL4 Female to NL4 Female 12AWG Speaker Twist Connector Cable",
@@ -43995,6 +44022,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-23T21:34:25Z"
+        "timestamp": "2023-05-23T21:44:29Z"
     }
 }
