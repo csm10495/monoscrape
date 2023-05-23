@@ -31453,7 +31453,7 @@
             "product_id": 42684,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 225
+            "num_reviews": 226
         },
         "42685": {
             "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 30AWG, 3ft, Black - 5 Pack",
@@ -35102,7 +35102,7 @@
         },
         "44418": {
             "name": "MPM 3-Tier Foldable Shelf Storage with Wheels, Heavy Duty Casters with Lock, Organizer Rack, Multifunctional Standing Steel Cart, Perfect for Kitchen, Garage, Home Office, and Pantry",
-            "price": 79.99,
+            "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=44418",
             "product_id": 44418,
             "available": true,
@@ -35111,7 +35111,7 @@
         },
         "44419": {
             "name": "MPM Foldable Hand Truck and Dolly Cart, Aluminum Luggage Trolley, Lightweight Folding Hand Cart, Multipurpose Use For Office, Travel, Moving and Indoor Outdoor Home",
-            "price": 49.99,
+            "price": 45.99,
             "url": "https://www.monoprice.com/product?p_id=44419",
             "product_id": 44419,
             "available": true,
@@ -44022,6 +44022,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-23T22:22:41Z"
+        "timestamp": "2023-05-23T22:31:05Z"
     }
 }
