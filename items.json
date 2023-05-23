@@ -10994,7 +10994,7 @@
             "price": 1.59,
             "url": "https://www.monoprice.com/product?p_id=2291",
             "product_id": 2291,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3399
         },
@@ -36473,7 +36473,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=500",
             "product_id": 500,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -39479,7 +39479,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=663",
             "product_id": 663,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 122
         },
@@ -40003,7 +40003,7 @@
             "product_id": 7121,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 25
+            "num_reviews": 26
         },
         "7124": {
             "name": "Monoprice 2.5mm TRS Stereo Plug to 3.5mm TRS Stereo Jack Adapter, Gold Plated",
@@ -41828,7 +41828,7 @@
             "price": 62.99,
             "url": "https://www.monoprice.com/product?p_id=8588",
             "product_id": 8588,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 1362
         },
@@ -42467,7 +42467,7 @@
             "price": 4.19,
             "url": "https://www.monoprice.com/product?p_id=8829",
             "product_id": 8829,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 3
         },
@@ -44022,6 +44022,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-23T15:54:37Z"
+        "timestamp": "2023-05-23T16:10:50Z"
     }
 }
