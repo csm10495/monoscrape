@@ -27194,7 +27194,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=40106",
             "product_id": 40106,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 38
         },
@@ -28512,6 +28512,15 @@
             "rating": 4.9,
             "num_reviews": 148
         },
+        "41085": {
+            "name": "Monoprice Power Cord - BS 1363 (UK) to IEC 60320 C5, 18AWG, 5A/1250W, 250V, 3-Prong with Fuse, Black, 6ft",
+            "price": 4.49,
+            "url": "https://www.monoprice.com/product?p_id=41085",
+            "product_id": 41085,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "41086": {
             "name": "Monoprice Power Cord - CEE 7/7 (German and French) to IEC 60320 C5, 2.5A/250V, 2-Prong, Black, 6ft",
             "price": 3.49,
@@ -29484,15 +29493,6 @@
             "rating": 4.7,
             "num_reviews": 38
         },
-        "41692": {
-            "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, H05VV-F 3G 1.0 mm",
-            "price": 2.79,
-            "url": "https://www.monoprice.com/product?p_id=41692",
-            "product_id": 41692,
-            "available": true,
-            "rating": 4.7,
-            "num_reviews": 38
-        },
         "41693": {
             "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, H05VV-F 3G 1.0 mm",
             "price": 5.99,
@@ -30074,6 +30074,15 @@
             "price": 229,
             "url": "https://www.monoprice.com/product?p_id=41999",
             "product_id": 41999,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "42000": {
+            "name": "Monolith by Monoprice MM-5R Powered Multimedia Speakers Ribbon Tweeter with Bluetooth with Qualcomm aptX HD Audio, USB DAC, Optical Inputs (open box)",
+            "price": 329.99,
+            "url": "https://www.monoprice.com/product?p_id=42000",
+            "product_id": 42000,
             "available": true,
             "rating": 0,
             "num_reviews": 0
@@ -31176,15 +31185,6 @@
             "rating": 4.5,
             "num_reviews": 2
         },
-        "42579": {
-            "name": "Monolith by Monoprice M-215 Dual 15\" THX Ultra Certified 2000-Watt Powered Subwoofer (open box)",
-            "price": 1599.99,
-            "url": "https://www.monoprice.com/product?p_id=42579",
-            "product_id": 42579,
-            "available": true,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "42588": {
             "name": "Monoprice Fiber Optic Cable Bulk - 9/125 Type, Single Mode, Duplex, 8.0mm w/o Armor or Steel Wire LSZH G657A1, 12 Strand, Black, 4000FT, Corning",
             "price": 1599.99,
@@ -31748,7 +31748,7 @@
             "price": 52.49,
             "url": "https://www.monoprice.com/product?p_id=42840",
             "product_id": 42840,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 12
         },
@@ -33413,7 +33413,7 @@
             "price": 64.99,
             "url": "https://www.monoprice.com/product?p_id=43331",
             "product_id": 43331,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 6
         },
@@ -34017,8 +34017,8 @@
             "url": "https://www.monoprice.com/product?p_id=43588",
             "product_id": 43588,
             "available": true,
-            "rating": 1,
-            "num_reviews": 1
+            "rating": 0,
+            "num_reviews": 0
         },
         "43589": {
             "name": "25.5\" Car Snow Brush and Ice Scraper for Cars, Auto, SUV, Trucks Windshield Windows, Foam Grip Detachable Scraper - No Scratch, Heavy Duty Handle, Snow Broom, Remover, Easy Scraper",
@@ -35016,8 +35016,8 @@
             "url": "https://www.monoprice.com/product?p_id=44348",
             "product_id": 44348,
             "available": true,
-            "rating": 2,
-            "num_reviews": 1
+            "rating": 0,
+            "num_reviews": 0
         },
         "44368": {
             "name": "Replacement Parts (White plastic leg controller) for Pure Outdoor Bamboo Folding Table with Aluminum Legs (38128)",
@@ -43977,6 +43977,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-23T18:54:55Z"
+        "timestamp": "2023-05-23T19:08:12Z"
     }
 }
