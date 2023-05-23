@@ -11860,7 +11860,7 @@
             "product_id": 24314,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 495
+            "num_reviews": 496
         },
         "24319": {
             "name": "Monoprice Cat6A 1ft Black Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -11950,7 +11950,7 @@
             "product_id": 24337,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 495
+            "num_reviews": 496
         },
         "24338": {
             "name": "Monoprice Cat6A Ethernet Patch Cable - Snagless RJ45, 550MHz, STP, Pure Bare Copper Wire, 10G, 26AWG, 3ft, Red",
@@ -11966,7 +11966,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=24339",
             "product_id": 24339,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 495
         },
@@ -11986,7 +11986,7 @@
             "product_id": 24341,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 495
+            "num_reviews": 496
         },
         "24342": {
             "name": "Monoprice Cat6A 3ft Purple Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -12094,7 +12094,7 @@
             "product_id": 24357,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 495
+            "num_reviews": 496
         },
         "24358": {
             "name": "Monoprice Cat6A 7ft Yellow Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -12211,7 +12211,7 @@
             "product_id": 24372,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 495
+            "num_reviews": 496
         },
         "24374": {
             "name": "Monoprice Cat6A 14ft Yellow Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -43977,6 +43977,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-23T19:46:49Z"
+        "timestamp": "2023-05-23T19:56:59Z"
     }
 }
