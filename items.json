@@ -28112,7 +28112,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=40885",
             "product_id": 40885,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 57
         },
@@ -30119,7 +30119,7 @@
             "price": 89.99,
             "url": "https://www.monoprice.com/product?p_id=42015",
             "product_id": 42015,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 108
         },
@@ -33800,7 +33800,7 @@
             "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=43462",
             "product_id": 43462,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -34855,7 +34855,7 @@
             "product_id": 44327,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 224
+            "num_reviews": 226
         },
         "44328": {
             "name": "Monoprice SlimRun AV 8K Certified Ultra High Speed Active HDMI Cable, CMP Plenum rated, HDMI 2.1, AOC, 7.5m, 24ft",
@@ -34972,7 +34972,7 @@
             "product_id": 44340,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 224
+            "num_reviews": 226
         },
         "44341": {
             "name": "Monoprice 8K Certified Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 24AWG, 20ft, Black",
@@ -43986,6 +43986,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-23T20:08:37Z"
+        "timestamp": "2023-05-23T20:24:59Z"
     }
 }
