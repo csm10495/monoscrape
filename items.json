@@ -2003,7 +2003,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=11847",
             "product_id": 11847,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 16
         },
@@ -7628,7 +7628,7 @@
             "price": 5.39,
             "url": "https://www.monoprice.com/product?p_id=15827",
             "product_id": 15827,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -9422,6 +9422,15 @@
             "available": false,
             "rating": 4.7,
             "num_reviews": 119
+        },
+        "18682": {
+            "name": "Monolith by Monoprice 7x200 Watts Per Channel Multi-Channel Home Theater Amplifier with XLR Inputs - Factory Refurbished/B-Stock",
+            "price": 1499,
+            "url": "https://www.monoprice.com/product?p_id=18682",
+            "product_id": 18682,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 13
         },
         "18785": {
             "name": "Monoprice Blackbird 4K Mini 1x4 HDMI Splitter",
@@ -43932,6 +43941,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-23T17:21:50Z"
+        "timestamp": "2023-05-23T17:29:30Z"
     }
 }
