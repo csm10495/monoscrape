@@ -15809,7 +15809,7 @@
             "price": 249.99,
             "url": "https://www.monoprice.com/product?p_id=31034",
             "product_id": 31034,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 22
         },
@@ -21605,7 +21605,7 @@
             "price": 176.99,
             "url": "https://www.monoprice.com/product?p_id=36617",
             "product_id": 36617,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 2
         },
@@ -21902,7 +21902,7 @@
             "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=37883",
             "product_id": 37883,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 35
         },
@@ -22482,6 +22482,15 @@
             "rating": 4.5,
             "num_reviews": 49
         },
+        "38202": {
+            "name": "Monolith by Monoprice 12\" THX Ultra Certified 500 Watt Powered Subwoofer (Open Box)",
+            "price": 407.99,
+            "url": "https://www.monoprice.com/product?p_id=38202",
+            "product_id": 38202,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 7
+        },
         "38274": {
             "name": "Monoprice OM3 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 3m",
             "price": 2.39,
@@ -22669,7 +22678,7 @@
             "product_id": 38314,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 265
+            "num_reviews": 267
         },
         "38315": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, White",
@@ -22696,7 +22705,7 @@
             "product_id": 38317,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 265
+            "num_reviews": 267
         },
         "38318": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Blue",
@@ -26060,7 +26069,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=39650",
             "product_id": 39650,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 58
         },
@@ -43977,6 +43986,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-23T19:56:59Z"
+        "timestamp": "2023-05-23T20:08:37Z"
     }
 }
