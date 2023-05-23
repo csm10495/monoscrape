@@ -554,7 +554,7 @@
             "price": 6.49,
             "url": "https://www.monoprice.com/product?p_id=10934",
             "product_id": 10934,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 115
         },
@@ -590,7 +590,7 @@
             "price": 23.68,
             "url": "https://www.monoprice.com/product?p_id=11045",
             "product_id": 11045,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 574
         },
@@ -806,6 +806,15 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=11238",
             "product_id": 11238,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 461
+        },
+        "11240": {
+            "name": "Monoprice FLEXboot Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 10ft, Pink",
+            "price": 1.79,
+            "url": "https://www.monoprice.com/product?p_id=11240",
+            "product_id": 11240,
             "available": true,
             "rating": 4.8,
             "num_reviews": 461
@@ -6116,7 +6125,7 @@
             "price": 2.29,
             "url": "https://www.monoprice.com/product?p_id=14786",
             "product_id": 14786,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 273
         },
@@ -7007,7 +7016,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=15264",
             "product_id": 15264,
-            "available": false,
+            "available": true,
             "rating": 4.1,
             "num_reviews": 15
         },
@@ -7313,7 +7322,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=15656",
             "product_id": 15656,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 12
         },
@@ -7322,7 +7331,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=15663",
             "product_id": 15663,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 41
         },
@@ -7331,7 +7340,7 @@
             "price": 2.24,
             "url": "https://www.monoprice.com/product?p_id=15664",
             "product_id": 15664,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 41
         },
@@ -7340,7 +7349,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=15666",
             "product_id": 15666,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 41
         },
@@ -7376,7 +7385,7 @@
             "price": 1.79,
             "url": "https://www.monoprice.com/product?p_id=15679",
             "product_id": 15679,
-            "available": false,
+            "available": true,
             "rating": 3.3,
             "num_reviews": 3
         },
@@ -7927,7 +7936,7 @@
             "product_id": 15954,
             "available": false,
             "rating": 4,
-            "num_reviews": 375
+            "num_reviews": 376
         },
         "1596": {
             "name": "Monoprice 50ft DB25 M/F Molded Cable",
@@ -9086,7 +9095,7 @@
             "price": 14.18,
             "url": "https://www.monoprice.com/product?p_id=18534",
             "product_id": 18534,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 100
         },
@@ -9257,7 +9266,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=18631",
             "product_id": 18631,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 138
         },
@@ -43950,6 +43959,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-23T13:44:24Z"
+        "timestamp": "2023-05-23T13:54:30Z"
     }
 }
