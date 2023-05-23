@@ -383,7 +383,7 @@
             "price": 20.59,
             "url": "https://www.monoprice.com/product?p_id=10551",
             "product_id": 10551,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 574
         },
@@ -775,7 +775,7 @@
             "num_reviews": 64
         },
         "11235": {
-            "name": "Monoprice FLEXboot Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 10ft, Black",
+            "name": "Monoprice Cat5e 10ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
             "price": 2.79,
             "url": "https://www.monoprice.com/product?p_id=11235",
             "product_id": 11235,
@@ -6089,7 +6089,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=14772",
             "product_id": 14772,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 92
         },
@@ -6314,7 +6314,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=14815",
             "product_id": 14815,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 273
         },
@@ -9095,7 +9095,7 @@
             "price": 14.18,
             "url": "https://www.monoprice.com/product?p_id=18534",
             "product_id": 18534,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 100
         },
@@ -9295,7 +9295,7 @@
             "product_id": 18634,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 87
+            "num_reviews": 88
         },
         "18635": {
             "name": "Monoprice 5MP High Definition Mini Dome IP Security Camera, 4mm Fixed Lens, DWDR, 3D DNR, 2560x1920p, Weatherproof IP66, PoE, 30 IR LED up to 100ft, Vandalproof",
@@ -44022,6 +44022,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-23T16:10:50Z"
+        "timestamp": "2023-05-23T16:30:13Z"
     }
 }
