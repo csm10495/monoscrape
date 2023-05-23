@@ -27495,6 +27495,15 @@
             "rating": 0,
             "num_reviews": 0
         },
+        "40356": {
+            "name": "Monolith by Monoprice THX-LCR THX Ultra Certified 3-Way LCR In-Wall Speaker (open box)",
+            "price": 299,
+            "url": "https://www.monoprice.com/product?p_id=40356",
+            "product_id": 40356,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "40365": {
             "name": "Monoprice Open Slot Wiring Raceway Duct with Cover, 1.0\" x 1.8\", 6 Feet Long, White, 2-Pack",
             "price": 10.99,
@@ -28467,15 +28476,6 @@
             "rating": 4.5,
             "num_reviews": 12
         },
-        "41057": {
-            "name": "Syston 22/2 Stranded Unshielded CMP/CL3P Security and Control Cable, Gray, 1000ft Box",
-            "price": 38.99,
-            "url": "https://www.monoprice.com/product?p_id=41057",
-            "product_id": 41057,
-            "available": false,
-            "rating": 4,
-            "num_reviews": 1
-        },
         "4107": {
             "name": "Monoprice ALL-IN-1 USB 2.0 Card Reader for CF SD SM MMC MS XD - Translucent Blue Color",
             "price": 1.96,
@@ -29403,15 +29403,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "41626": {
-            "name": "Monolith by Monoprice THX-265B THX Select Certified Dolby Atmos Enabled Bookshelf Speaker (Each) (open box)",
-            "price": 155.39,
-            "url": "https://www.monoprice.com/product?p_id=41626",
-            "product_id": 41626,
-            "available": true,
-            "rating": 5,
-            "num_reviews": 1
-        },
         "41639": {
             "name": "Monoprice Cat5e 100ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
             "price": 23.99,
@@ -30285,6 +30276,15 @@
             "rating": 4.1,
             "num_reviews": 42
         },
+        "42035": {
+            "name": "TACKLIFE  Reusable Grill Mat Non-Stick BBQ Grill heavy Duty Set of 4 black 16\" x 13\" for Grilling Baking for Charcoal Gas or Electric",
+            "price": 3.99,
+            "url": "https://www.monoprice.com/product?p_id=42035",
+            "product_id": 42035,
+            "available": true,
+            "rating": 4,
+            "num_reviews": 2
+        },
         "42052": {
             "name": "Monoprice Heavy Duty Power Cable - IEC 60320 C14 to IEC 60320 C15, 14AWG, 15A, SJT, 125V, Black, 1ft",
             "price": 2.99,
@@ -30536,6 +30536,15 @@
             "available": true,
             "rating": 2,
             "num_reviews": 1
+        },
+        "42134": {
+            "name": "Cable Jump Rope for exercise work out home gym high speed core training aid",
+            "price": 3.99,
+            "url": "https://www.monoprice.com/product?p_id=42134",
+            "product_id": 42134,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
         },
         "42136": {
             "name": "Yoga Ring Yoga Wheel for Back Pain Work Out Exercise Stretching Muscle Relaxer for Home training Home gym",
@@ -30914,6 +30923,15 @@
             "available": true,
             "rating": 5,
             "num_reviews": 4
+        },
+        "42365": {
+            "name": "NeonTEK 1080P USB Webcam with built in microphone - Plug and Play - AN810",
+            "price": 7.99,
+            "url": "https://www.monoprice.com/product?p_id=42365",
+            "product_id": 42365,
+            "available": true,
+            "rating": 1,
+            "num_reviews": 1
         },
         "42464": {
             "name": "Toy Animal Set - Dinosaur Park Safari animal figures toys for kids toddlers Kids 3+",
@@ -32936,7 +32954,7 @@
             "price": 33.99,
             "url": "https://www.monoprice.com/product?p_id=43199",
             "product_id": 43199,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 3
         },
@@ -33890,7 +33908,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=43543",
             "product_id": 43543,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -34245,6 +34263,24 @@
             "rating": 4.1,
             "num_reviews": 8
         },
+        "43711": {
+            "name": "PS5 Controller Charger Station, Playstation 5 Dual Controller Charging Stand, Fast Charging AC Adapter, Docking Station Replacement for DualSense Charging Station",
+            "price": 13.99,
+            "url": "https://www.monoprice.com/product?p_id=43711",
+            "product_id": 43711,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "43749": {
+            "name": "4 Piece Drill Brush Cleaning Attachments Set, All Purpose Clean Power Scrubber Brush, with Extend Long Attachment for Grout, Tiles, Sinks, Bathtub, Bathroom, Kitchen, Tub, Car",
+            "price": 9.99,
+            "url": "https://www.monoprice.com/product?p_id=43749",
+            "product_id": 43749,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "43765": {
             "name": "MPM Lightweight Folding Cane with Seat, Walking Stick, Walking Cane, Crutch Chair, Travel Aid",
             "price": 26.99,
@@ -34476,8 +34512,8 @@
             "url": "https://www.monoprice.com/product?p_id=44029",
             "product_id": 44029,
             "available": true,
-            "rating": 4,
-            "num_reviews": 5
+            "rating": 4.2,
+            "num_reviews": 6
         },
         "44047": {
             "name": "MPM Universal Stand Assist, Adjustable Couch Lift Assist, Standing Aid, Chair Assistance Handle Safety Grab Bar for Elderly, Seniors, Patients, Disabled Daily Living Mobility Aid",
@@ -34637,7 +34673,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=44117",
             "product_id": 44117,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 3
         },
@@ -35442,6 +35478,15 @@
             "rating": 0,
             "num_reviews": 0
         },
+        "44576": {
+            "name": "Monolith by Monoprice M-12 V2 12in THX Certified Ultra 500-Watt Powered Subwoofer (Open Box)",
+            "price": 449.99,
+            "url": "https://www.monoprice.com/product?p_id=44576",
+            "product_id": 44576,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "44577": {
             "name": "Monolith by Monoprice 16in THX Certified Ultra 2000-Watt Powered Subwoofer (Matte Black/Painted) (Open Box)",
             "price": 1494.99,
@@ -35555,6 +35600,15 @@
             "price": 149.99,
             "url": "https://www.monoprice.com/product?p_id=44596",
             "product_id": 44596,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "44597": {
+            "name": "Monolith by Monoprice Encore B6 Bookshelf Speaker (Each) (Open Box)",
+            "price": 131.4,
+            "url": "https://www.monoprice.com/product?p_id=44597",
+            "product_id": 44597,
             "available": true,
             "rating": 0,
             "num_reviews": 0
@@ -43941,6 +43995,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-23T17:44:45Z"
+        "timestamp": "2023-05-23T17:54:48Z"
     }
 }
