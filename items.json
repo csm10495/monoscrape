@@ -2566,7 +2566,7 @@
             "num_reviews": 0
         },
         "12732": {
-            "name": "Monoprice Cat6 1000ft Black Outdoor Bulk Cable, Solid (w/spine), Watertap Direct Burial, UTP, 23AWG, 550MHz, Pure Bare Copper, Reel in Box, No Logo, Bulk Ethernet Cable",
+            "name": "Monoprice Cat6 1000ft Black Outdoor Bulk Cable, Solid (w/spine), Watertap Direct Burial, UTP, 23AWG, 550MHz, Pure Bare Copper, Spool, No Logo, Bulk Ethernet Cable",
             "price": 251.99,
             "url": "https://www.monoprice.com/product?p_id=12732",
             "product_id": 12732,
@@ -2669,7 +2669,7 @@
             "price": 119.99,
             "url": "https://www.monoprice.com/product?p_id=12756",
             "product_id": 12756,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 5
         },
@@ -6021,6 +6021,15 @@
             "rating": 4.9,
             "num_reviews": 3041
         },
+        "14760": {
+            "name": "Monoprice Cat6 Ethernet Bulk Cable - Stranded, 550MHz, UTP, CM, Pure Bare Copper Wire, 24AWG, 250ft, Black",
+            "price": 35.99,
+            "url": "https://www.monoprice.com/product?p_id=14760",
+            "product_id": 14760,
+            "available": true,
+            "rating": 4.5,
+            "num_reviews": 60
+        },
         "14767": {
             "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Black, (UL)",
             "price": 39.99,
@@ -7030,7 +7039,7 @@
             "num_reviews": 8
         },
         "15398": {
-            "name": "Monoprice Cat6 1000ft Black Outdoor Bulk Cable, Gel-filled Direct Burial, Solid (w/spine), UTP, 23AWG, 550MHz, Pure Bare Copper, Reel in Box, No Logo, Bulk Ethernet Cable",
+            "name": "Monoprice Cat6 1000ft Black Outdoor Bulk Cable, Gel-filled Direct Burial, Solid (w/spine), UTP, 23AWG, 550MHz, Pure Bare Copper, Spool, No Logo, Bulk Ethernet Cable",
             "price": 257.49,
             "url": "https://www.monoprice.com/product?p_id=15398",
             "product_id": 15398,
@@ -7610,7 +7619,7 @@
             "price": 16.47,
             "url": "https://www.monoprice.com/product?p_id=15835",
             "product_id": 15835,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -43977,6 +43986,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-24T21:34:28Z"
+        "timestamp": "2023-05-24T21:44:25Z"
     }
 }
