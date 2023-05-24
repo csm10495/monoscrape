@@ -12600,6 +12600,15 @@
             "rating": 3.8,
             "num_reviews": 4
         },
+        "24560": {
+            "name": "Monolith by Monoprice M560 Planar Headphones (Open Box)",
+            "price": 119.99,
+            "url": "https://www.monoprice.com/product?p_id=24560",
+            "product_id": 24560,
+            "available": true,
+            "rating": 4.2,
+            "num_reviews": 11
+        },
         "24567": {
             "name": "Monoprice 1x2 DisplayPort Splitter, 4K@60Hz, 21.6Gbps",
             "price": 35.23,
@@ -43860,6 +43869,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-24T15:06:49Z"
+        "timestamp": "2023-05-24T15:23:27Z"
     }
 }
