@@ -33865,7 +33865,7 @@
             "product_id": 43524,
             "available": false,
             "rating": 4.5,
-            "num_reviews": 40
+            "num_reviews": 41
         },
         "43525": {
             "name": "Monoprice USB-C to Dual 4K HDMI Adapter (Dual 4K@60Hz)",
@@ -35528,7 +35528,7 @@
             "price": 999.99,
             "url": "https://www.monoprice.com/product?p_id=44579",
             "product_id": 44579,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -43977,6 +43977,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-24T18:54:39Z"
+        "timestamp": "2023-05-24T19:07:20Z"
     }
 }
