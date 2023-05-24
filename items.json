@@ -15469,7 +15469,7 @@
             "product_id": 30766,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 201
+            "num_reviews": 204
         },
         "30767": {
             "name": "Monoprice Palette Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 1.5ft Red",
@@ -16853,7 +16853,7 @@
             "price": 799.99,
             "url": "https://www.monoprice.com/product?p_id=33305",
             "product_id": 33305,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 40
         },
@@ -22631,7 +22631,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=38316",
             "product_id": 38316,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 265
         },
@@ -22793,6 +22793,15 @@
             "price": 2.29,
             "url": "https://www.monoprice.com/product?p_id=38355",
             "product_id": 38355,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 3
+        },
+        "38356": {
+            "name": "Monoprice OM4 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 5m",
+            "price": 5.79,
+            "url": "https://www.monoprice.com/product?p_id=38356",
+            "product_id": 38356,
             "available": true,
             "rating": 4.7,
             "num_reviews": 3
@@ -24993,6 +25002,15 @@
             "rating": 3.4,
             "num_reviews": 5
         },
+        "39306": {
+            "name": "Monoprice Above Fireplace Pull-Down Full-Motion Articulating TV Wall Mount w/ Floating Soundbar Mount- For TVs 55in to 80in, Max Weight 132lbs, VESA Patterns Up to 800x500, Rotating, Height Adjustable",
+            "price": 125.99,
+            "url": "https://www.monoprice.com/product?p_id=39306",
+            "product_id": 39306,
+            "available": true,
+            "rating": 4.1,
+            "num_reviews": 73
+        },
         "39324": {
             "name": "Dark Matter by Monoprice Launch Gaming Mouse Pad - Premium Cloth, Stitched Edges, 450x400mm",
             "price": 5.23,
@@ -25819,7 +25837,7 @@
             "product_id": 39572,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 250
+            "num_reviews": 251
         },
         "39598": {
             "name": "Monoprice Replacement Thicker Gauge Z Axis Coupler Upgrade for the MP Mini SLA Resin 3D Printer (35435)",
@@ -43833,6 +43851,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-24T13:13:12Z"
+        "timestamp": "2023-05-24T13:28:28Z"
     }
 }
