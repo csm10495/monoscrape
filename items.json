@@ -15514,7 +15514,7 @@
             "product_id": 30771,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 201
+            "num_reviews": 203
         },
         "30773": {
             "name": "Monoprice Short Length Apple MFi Certified Lightning to USB Charge and Sync Cable, 4.25 inches Black",
@@ -23578,7 +23578,7 @@
             "product_id": 38803,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 86
+            "num_reviews": 87
         },
         "38805": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 6ft, Red",
@@ -43833,6 +43833,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-24T10:06:58Z"
+        "timestamp": "2023-05-24T10:34:35Z"
     }
 }
