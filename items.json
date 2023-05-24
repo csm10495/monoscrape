@@ -13083,15 +13083,15 @@
             "url": "https://www.monoprice.com/product?p_id=2689",
             "product_id": 2689,
             "available": true,
-            "rating": 4.6,
-            "num_reviews": 38
+            "rating": 4.7,
+            "num_reviews": 37
         },
         "2696": {
             "name": "Monoprice HDMI to DVI-D Dual Link M1-D (P\u0026D) Cable  28AWG  6ft  Black",
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=2696",
             "product_id": 2696,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 21
         },
@@ -36158,7 +36158,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=4793",
             "product_id": 4793,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 424
         },
@@ -36997,7 +36997,7 @@
             "product_id": 5346,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 1302
+            "num_reviews": 1304
         },
         "5347": {
             "name": "Monoprice 10ft Premium 2 RCA Plug/2 RCA Plug M/M 22AWG Cable - Black",
@@ -37528,7 +37528,7 @@
             "product_id": 5496,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 410
+            "num_reviews": 409
         },
         "5497": {
             "name": "Monoprice 10ft Premier Series 1/4in TS Male to Male Audio Cable, 16AWG (Gold Plated)",
@@ -38059,7 +38059,7 @@
             "product_id": 5871,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1461
         },
         "5872": {
             "name": "Monoprice 100ft High-quality Coaxial Audio/Video RCA CL2 Rated Cable - RG6/U 75ohm (for S/PDIF, Digital Coax, Subwoofer \u0026 Composite Video)",
@@ -42953,7 +42953,7 @@
             "price": 32.99,
             "url": "https://www.monoprice.com/product?p_id=952",
             "product_id": 952,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 11
         },
@@ -43968,6 +43968,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-24T17:06:02Z"
+        "timestamp": "2023-05-24T17:21:40Z"
     }
 }
