@@ -15345,6 +15345,15 @@
             "rating": 0,
             "num_reviews": 0
         },
+        "30651": {
+            "name": "Monolith by Monoprice M1060 Planar Headphones with 2.5mm Connectors (Open Box)",
+            "price": 197.99,
+            "url": "https://www.monoprice.com/product?p_id=30651",
+            "product_id": 30651,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 16
+        },
         "30661": {
             "name": "Monoprice Cat6A 1000ft Blue CMR Bulk Cable, Solid, UTP, 23AWG, 650MHz, 10G, Pure Bare Copper, Reel in Box, Flame-Retardant, Bulk Ethernet Cable",
             "price": 229.99,
@@ -19665,6 +19674,15 @@
             "rating": 4.2,
             "num_reviews": 194
         },
+        "34739": {
+            "name": "Monolith by Monoprice M600 Open Back Over Ear Headphones (Open Box)",
+            "price": 99,
+            "url": "https://www.monoprice.com/product?p_id=34739",
+            "product_id": 34739,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 1
+        },
         "34744": {
             "name": "Cat8 24AWG S/FTP Ethernet Network Cable, 2GHz, 40G, 3m, Black, 5 pack",
             "price": 29.99,
@@ -20024,6 +20042,15 @@
             "available": true,
             "rating": 5,
             "num_reviews": 6
+        },
+        "34873": {
+            "name": "Monolith by Monoprice M650 Open Back Over Ear Headphones (Open Box)",
+            "price": 59,
+            "url": "https://www.monoprice.com/product?p_id=34873",
+            "product_id": 34873,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
         },
         "34876": {
             "name": "Select Series USB-A to USB-B 3.0 Cable - Black, 0.5m - 3 pack",
@@ -23713,7 +23740,7 @@
             "product_id": 38819,
             "available": false,
             "rating": 4.5,
-            "num_reviews": 86
+            "num_reviews": 87
         },
         "38820": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 3ft, Red",
@@ -24172,7 +24199,7 @@
             "product_id": 38901,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 78
+            "num_reviews": 79
         },
         "38902": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-A Charge and Sync Nylon-Braid Cable, 10ft, Black",
@@ -24262,7 +24289,7 @@
             "product_id": 38911,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 78
+            "num_reviews": 79
         },
         "38912": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-A Charge and Sync Nylon-Braid Cable, 3ft, Blue",
@@ -24674,7 +24701,7 @@
             "price": 7.18,
             "url": "https://www.monoprice.com/product?p_id=39122",
             "product_id": 39122,
-            "available": true,
+            "available": false,
             "rating": 2,
             "num_reviews": 2
         },
@@ -43869,6 +43896,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-24T15:23:27Z"
+        "timestamp": "2023-05-24T15:36:46Z"
     }
 }
