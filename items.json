@@ -37132,7 +37132,7 @@
             "product_id": 5431,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1586
+            "num_reviews": 1587
         },
         "5432": {
             "name": "Monoprice USB Type-A to USB Type-A Female 2.0 Extension Cable - 28/24AWG, Gold Plated, Black, 3ft",
@@ -41072,7 +41072,7 @@
             "price": 359.38,
             "url": "https://www.monoprice.com/product?p_id=7958",
             "product_id": 7958,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 12
         },
@@ -41704,7 +41704,7 @@
             "product_id": 8604,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1586
+            "num_reviews": 1587
         },
         "8605": {
             "name": "Monoprice USB Type-A to USB Type-A Female 2.0 Extension Cable - 28/24AWG, Gold Plated, White, 3ft",
@@ -42127,7 +42127,7 @@
             "product_id": 8770,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 99
+            "num_reviews": 100
         },
         "8771": {
             "name": "Monoprice 50ft 2-conductor NL4 Female to NL4 Female 12AWG Speaker Twist Connector Cable",
@@ -43833,6 +43833,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-24T12:13:30Z"
+        "timestamp": "2023-05-24T12:42:30Z"
     }
 }
