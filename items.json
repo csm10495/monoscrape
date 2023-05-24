@@ -2959,7 +2959,7 @@
             "product_id": 12955,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 359
+            "num_reviews": 360
         },
         "12958": {
             "name": "Monoprice Cabernet Series Apple MFi Certified Flat Lightning to USB Charge and Sync Cable, 4ft Gray",
@@ -42618,6 +42618,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-24T09:34:11Z"
+        "timestamp": "2023-05-24T09:54:09Z"
     }
 }
