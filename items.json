@@ -1863,15 +1863,6 @@
             "rating": 4.8,
             "num_reviews": 8
         },
-        "1159": {
-            "name": "Monoprice DB25F/RJ-45,Modular Adapter",
-            "price": 0.99,
-            "url": "https://www.monoprice.com/product?p_id=1159",
-            "product_id": 1159,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 2
-        },
         "11749": {
             "name": "Monoprice HDMI to 3G SDI Converter",
             "price": 84.99,
@@ -12947,7 +12938,7 @@
             "price": 5.49,
             "url": "https://www.monoprice.com/product?p_id=2617",
             "product_id": 2617,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 23
         },
@@ -21960,15 +21951,6 @@
             "rating": 5,
             "num_reviews": 2
         },
-        "380": {
-            "name": "Monoprice IEEE 1284 , DB25 , M/M - 6ft",
-            "price": 2.98,
-            "url": "https://www.monoprice.com/product?p_id=380",
-            "product_id": 380,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 6
-        },
         "38035": {
             "name": "Monoprice 35in Zero-G Curved Ultrawide Gaming Monitor V2 - 1800R, 21:9, 3440x1440p, UWQHD, 120Hz, AMD FreeSync, 4ms, HDMI, DisplayPort, VA",
             "price": 399.99,
@@ -28682,15 +28664,6 @@
             "available": false,
             "rating": 4.4,
             "num_reviews": 116
-        },
-        "4125": {
-            "name": "Monoprice BNC Male to F Female Adapter - Gold Plated",
-            "price": 1.99,
-            "url": "https://www.monoprice.com/product?p_id=4125",
-            "product_id": 4125,
-            "available": false,
-            "rating": 4.2,
-            "num_reviews": 22
         },
         "4126": {
             "name": "Monoprice BNC Female to RCA Female Adapter - Gold Plated",
@@ -36072,15 +36045,6 @@
             "rating": 4.5,
             "num_reviews": 83
         },
-        "479": {
-            "name": "Monoprice 6ft Null Modem DB9F/DB25M Molded Cable",
-            "price": 2.38,
-            "url": "https://www.monoprice.com/product?p_id=479",
-            "product_id": 479,
-            "available": false,
-            "rating": 4.8,
-            "num_reviews": 10
-        },
         "4791": {
             "name": "Monoprice 1.5ft Premier Series 1/4in TRS Male to Male Cable, 16AWG (Gold Plated)",
             "price": 3.99,
@@ -37206,15 +37170,6 @@
             "rating": 4.3,
             "num_reviews": 519
         },
-        "542": {
-            "name": "Monoprice 6ft DB15 M/M 1:1 Molded Cable - Beige",
-            "price": 5.99,
-            "url": "https://www.monoprice.com/product?p_id=542",
-            "product_id": 542,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 6
-        },
         "5431": {
             "name": "Monoprice USB Type-A to USB Type-A Female 2.0 Extension Cable - 28/24AWG, Gold Plated, Black, 1.5ft",
             "price": 1.29,
@@ -37258,7 +37213,7 @@
             "product_id": 5435,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1586
+            "num_reviews": 1587
         },
         "5436": {
             "name": "Monoprice USB Type-A to USB Type-B 2.0 Cable - 28/24AWG, Gold Plated, Black, 1.5ft",
@@ -38177,15 +38132,6 @@
             "available": true,
             "rating": 4.5,
             "num_reviews": 165
-        },
-        "5973": {
-            "name": "Monoprice 1 PAIR OF High-Quality Gold Plated Speaker Pin Plugs, Pin Crimp Type",
-            "price": 0.76,
-            "url": "https://www.monoprice.com/product?p_id=5973",
-            "product_id": 5973,
-            "available": false,
-            "rating": 4.7,
-            "num_reviews": 28
         },
         "5976": {
             "name": "Monoprice 1 PAIR OF High-Quality Gold Plated Speaker Pin Plugs, Pin Screw Type",
@@ -39366,15 +39312,6 @@
             "rating": 4.4,
             "num_reviews": 28
         },
-        "6568": {
-            "name": "Monoprice Keystone Jack - Modular RCA w/White Center, Flush Type (White)",
-            "price": 0.77,
-            "url": "https://www.monoprice.com/product?p_id=6568",
-            "product_id": 6568,
-            "available": false,
-            "rating": 4.7,
-            "num_reviews": 6
-        },
         "657": {
             "name": "Monoprice 12ft RCA Plug/Jack M/F Cable - Black",
             "price": 1.49,
@@ -39663,15 +39600,6 @@
             "rating": 4.6,
             "num_reviews": 138
         },
-        "6853": {
-            "name": "Monoprice Keystone Jack HDMI Female to Female Coupler Adapter, Ivory",
-            "price": 2.08,
-            "url": "https://www.monoprice.com/product?p_id=6853",
-            "product_id": 6853,
-            "available": false,
-            "rating": 4.6,
-            "num_reviews": 18
-        },
         "6875": {
             "name": "Monoprice 16 Channel CCTV Camera Power Supply - 12VDC - 10Amps",
             "price": 44.99,
@@ -39788,15 +39716,6 @@
             "available": true,
             "rating": 4.3,
             "num_reviews": 189
-        },
-        "698": {
-            "name": "Monoprice IEEE-488,Metal Hood - 2m",
-            "price": 20.99,
-            "url": "https://www.monoprice.com/product?p_id=698",
-            "product_id": 698,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 2
         },
         "6980": {
             "name": "Monoprice Speaker Wall Mounting Bracket - Silver (Max 7.5LBS), Set of 2",
@@ -40184,15 +40103,6 @@
             "available": true,
             "rating": 4.7,
             "num_reviews": 113
-        },
-        "7234": {
-            "name": "Monoprice RCA Plug to RCA Plug Adapter, Gold Plated",
-            "price": 1.49,
-            "url": "https://www.monoprice.com/product?p_id=7234",
-            "product_id": 7234,
-            "available": false,
-            "rating": 4.1,
-            "num_reviews": 14
         },
         "7235": {
             "name": "Monoprice RCA Jack to RCA Jack Adapter, Gold Plated",
@@ -41783,7 +41693,7 @@
             "price": 62.99,
             "url": "https://www.monoprice.com/product?p_id=8588",
             "product_id": 8588,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 1362
         },
@@ -43968,6 +43878,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-23T23:54:06Z"
+        "timestamp": "2023-05-24T00:32:11Z"
     }
 }
