@@ -32270,7 +32270,7 @@
             "price": 18.99,
             "url": "https://www.monoprice.com/product?p_id=42995",
             "product_id": 42995,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 8
         },
@@ -34530,8 +34530,8 @@
             "url": "https://www.monoprice.com/product?p_id=44029",
             "product_id": 44029,
             "available": true,
-            "rating": 4.2,
-            "num_reviews": 6
+            "rating": 4.1,
+            "num_reviews": 7
         },
         "44047": {
             "name": "MPM Universal Stand Assist, Adjustable Couch Lift Assist, Standing Aid, Chair Assistance Handle Safety Grab Bar for Elderly, Seniors, Patients, Disabled Daily Living Mobility Aid",
@@ -35514,15 +35514,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "44579": {
-            "name": "Monolith by Monoprice 13in THX Certified Ultra 2000-Watt Powered Subwoofer (Open Box)",
-            "price": 999.99,
-            "url": "https://www.monoprice.com/product?p_id=44579",
-            "product_id": 44579,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "44580": {
             "name": "Monolith by Monoprice M-210 Dual 10in THX Certified Ultra 1000-Watt Powered Subwoofer (Open Box)",
             "price": 799.99,
@@ -35722,7 +35713,7 @@
             "num_reviews": 0
         },
         "44694": {
-            "name": "2021 Microsoft Xbox Series S 512GB Game All-Digital Console, One Xbox Wireless Controller, 1440p Gaming Resolution, 4K Streaming, 3D Sound, WiFi, White (Refurbished)",
+            "name": "2021 Microsoft Xbox Series S 512GB Game All-Digital Console, One Xbox Wireless Controller, 1440p Gaming Resolution, 4K Streaming, 3D Sound, WiFi, White (Certified Refurbished by Manufacturer)",
             "price": 239.99,
             "url": "https://www.monoprice.com/product?p_id=44694",
             "product_id": 44694,
@@ -43968,6 +43959,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-24T19:56:08Z"
+        "timestamp": "2023-05-24T20:08:59Z"
     }
 }
