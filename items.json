@@ -27927,6 +27927,15 @@
             "rating": 2.9,
             "num_reviews": 14
         },
+        "40749": {
+            "name": "Monolith by Monoprice M570 Over Ear Open Back Planar Headphone (Open Box)",
+            "price": 149,
+            "url": "https://www.monoprice.com/product?p_id=40749",
+            "product_id": 40749,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 1
+        },
         "40778": {
             "name": "Dark Matter by Monoprice 27in Gaming Monitor - FHD, 240Hz, 1ms, DisplayHDR 400, AMD FreeSync Premium, Fast IPS-Type AHVA",
             "price": 179.99,
@@ -28196,6 +28205,15 @@
             "available": true,
             "rating": 4,
             "num_reviews": 1
+        },
+        "40956": {
+            "name": "Monolith by Monoprice M1570 Over Ear Open Back Balanced Planar Headphones (open box)",
+            "price": 299,
+            "url": "https://www.monoprice.com/product?p_id=40956",
+            "product_id": 40956,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
         },
         "4100": {
             "name": "Monoprice Caliber In-Wall Speakers, 6.5in Fiber 2-Way (pair)",
@@ -35686,7 +35704,7 @@
             "num_reviews": 0
         },
         "44687": {
-            "name": "Skytech Shiva II Gaming PC Desktop ? Intel Core i5, NVIDIA RTX 3060 Ti, 1TB NVME SSD, 16GB DDR4 RAM 3200, 650W Gold PSU",
+            "name": "Skytech Shiva II Gaming PC Desktop Intel Core i5, NVIDIA RTX 3060 Ti, 1TB NVME SSD, 16GB DDR4 RAM 3200, 650W Gold PSU",
             "price": 1099.99,
             "url": "https://www.monoprice.com/product?p_id=44687",
             "product_id": 44687,
@@ -35695,7 +35713,7 @@
             "num_reviews": 0
         },
         "44688": {
-            "name": "Skytech Blaze 3.0 Gaming PC Desktop ? Intel Core i5 12400F 2.5 GHz, NVIDIA RTX 3060, 500GB NVME SSD, 16GB DDR4 RAM 3200, 600W Gold PSU",
+            "name": "Skytech Blaze 3.0 Gaming PC Desktop Intel Core i5 12400F 2.5 GHz, NVIDIA RTX 3060, 500GB NVME SSD, 16GB DDR4 RAM 3200, 600W Gold PSU",
             "price": 899.99,
             "url": "https://www.monoprice.com/product?p_id=44688",
             "product_id": 44688,
@@ -43959,6 +43977,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-24T17:44:33Z"
+        "timestamp": "2023-05-24T17:54:45Z"
     }
 }
