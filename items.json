@@ -15363,6 +15363,15 @@
             "rating": 5,
             "num_reviews": 4
         },
+        "30702": {
+            "name": "Monolith by Monoprice M565 Planar Headphones (Open Box)",
+            "price": 149.99,
+            "url": "https://www.monoprice.com/product?p_id=30702",
+            "product_id": 30702,
+            "available": true,
+            "rating": 4.4,
+            "num_reviews": 8
+        },
         "30709": {
             "name": "Workstream by Monoprice Cable Tray Organizer For Work Computer Tables and Sit-Stand Desks, Black",
             "price": 19.99,
@@ -15505,7 +15514,7 @@
             "product_id": 30769,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 201
+            "num_reviews": 204
         },
         "30770": {
             "name": "Monoprice Palette Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 1.5ft Blue",
@@ -16099,7 +16108,7 @@
             "product_id": 31203,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 265
+            "num_reviews": 267
         },
         "31204": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Black",
@@ -20563,7 +20572,7 @@
             "product_id": 35377,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 256
+            "num_reviews": 255
         },
         "3538": {
             "name": "Monoprice High Quality Banana Binding Post Two-Piece Inset Wall Plate for 3 Speakers - Coupler Type",
@@ -20994,8 +21003,8 @@
             "url": "https://www.monoprice.com/product?p_id=35944",
             "product_id": 35944,
             "available": false,
-            "rating": 4.2,
-            "num_reviews": 108
+            "rating": 4.3,
+            "num_reviews": 107
         },
         "35995": {
             "name": "Monoprice 19in Blank Fiber Patch Panel 3LGX Cassettes 1U",
@@ -21021,8 +21030,8 @@
             "url": "https://www.monoprice.com/product?p_id=36045",
             "product_id": 36045,
             "available": true,
-            "rating": 3.6,
-            "num_reviews": 22
+            "rating": 3.8,
+            "num_reviews": 21
         },
         "36058": {
             "name": "Monoprice MP Voxel 3D Printer, Fully Enclosed, Assisted Level, Easy Wi-Fi, Touch Screen, 8GB On-Board Memory [Polar 3D]",
@@ -21743,6 +21752,15 @@
             "available": true,
             "rating": 3.7,
             "num_reviews": 27
+        },
+        "36667": {
+            "name": "Monolith by Monoprice Liquid Spark Headphone Amplifier by Alex Cavalli (Open Box)",
+            "price": 79.99,
+            "url": "https://www.monoprice.com/product?p_id=36667",
+            "product_id": 36667,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 4
         },
         "36735": {
             "name": "Monolith by Monoprice Liquid Platinum Headphone Amplifier by Alex Cavalli (Open Box)",
@@ -22955,7 +22973,7 @@
             "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=38401",
             "product_id": 38401,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 18
         },
@@ -24900,8 +24918,8 @@
             "url": "https://www.monoprice.com/product?p_id=39240",
             "product_id": 39240,
             "available": true,
-            "rating": 4,
-            "num_reviews": 20
+            "rating": 4.1,
+            "num_reviews": 19
         },
         "39241": {
             "name": "Monoprice Ultra Compact USB Type-C 3.2 Gen2 Cable, 10Gbps, 5A, Black 1m (3.3ft)",
@@ -26241,8 +26259,8 @@
             "url": "https://www.monoprice.com/product?p_id=39671",
             "product_id": 39671,
             "available": true,
-            "rating": 3.7,
-            "num_reviews": 6
+            "rating": 4.2,
+            "num_reviews": 5
         },
         "39673": {
             "name": "Blackbird USB 2.0 2-Port Extender Over Cat5e/6 - 50m /164ft",
@@ -43932,6 +43950,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-24T16:40:27Z"
+        "timestamp": "2023-05-24T16:46:24Z"
     }
 }
