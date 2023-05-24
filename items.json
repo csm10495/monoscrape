@@ -28863,6 +28863,15 @@
             "rating": 5,
             "num_reviews": 3
         },
+        "41312": {
+            "name": "Monolith by Monoprice THX AAA Balanced Headphone Amplifier featuring THX AAA 887 Technology (open box)",
+            "price": 340,
+            "url": "https://www.monoprice.com/product?p_id=41312",
+            "product_id": 41312,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "41333": {
             "name": "Monoprice USB-A to Micro B 2.0 Cable - 5-Pin 28/24AWG Gold Plated Black 1.5ft, 5-Pack",
             "price": 2.98,
@@ -31284,6 +31293,15 @@
             "rating": 0,
             "num_reviews": 0
         },
+        "42665": {
+            "name": "Monolith by Monoprice Liquid Gold Balanced Headphone Amplifier and DAC by Alex Cavalli (open box)",
+            "price": 599,
+            "url": "https://www.monoprice.com/product?p_id=42665",
+            "product_id": 42665,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "42667": {
             "name": "Netis 16-Port Unmanaged 10/100/1000 Mbps Gigabit Ethernet Switch, Rack Mountable, Fanless, Commercial Grade Steel Enclosure (open box)",
             "price": 39.99,
@@ -31463,6 +31481,15 @@
             "available": true,
             "rating": 0,
             "num_reviews": 0
+        },
+        "42741": {
+            "name": "Monolith by Monoprice Liquid Spark DAC by Alex Cavalli (AKM4493) (open box)",
+            "price": 79.99,
+            "url": "https://www.monoprice.com/product?p_id=42741",
+            "product_id": 42741,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 1
         },
         "42753": {
             "name": "Workstream by Monoprice WFH Flex Neck LED Desk Lamp with Clamp Stand, White",
@@ -35487,11 +35514,29 @@
             "rating": 0,
             "num_reviews": 0
         },
+        "44583": {
+            "name": "Monolith by Monoprice Liquid Platinum Balanced Limited Edition DAC by Alex Cavalli (AKM4499) (Open Box)",
+            "price": 799.99,
+            "url": "https://www.monoprice.com/product?p_id=44583",
+            "product_id": 44583,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "44585": {
             "name": "Monolith by Monoprice M-10 V2 10in THX Certified Select 500 Watt Powered Subwoofer (Open Box)",
             "price": 349.99,
             "url": "https://www.monoprice.com/product?p_id=44585",
             "product_id": 44585,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "44586": {
+            "name": "Monolith by Monoprice M1570C Over the Ear Closed Back Planar Headphones (Open Box)",
+            "price": 599.99,
+            "url": "https://www.monoprice.com/product?p_id=44586",
+            "product_id": 44586,
             "available": true,
             "rating": 0,
             "num_reviews": 0
@@ -43896,6 +43941,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-24T15:36:46Z"
+        "timestamp": "2023-05-24T15:45:22Z"
     }
 }
