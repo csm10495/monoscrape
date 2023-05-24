@@ -15337,7 +15337,7 @@
             "num_reviews": 16
         },
         "30661": {
-            "name": "Monoprice Cat6A 1000ft Blue CMR Bulk Cable, Solid, UTP, 23AWG, 650MHz, 10G, Pure Bare Copper, Reel in Box, Flame-Retardant, Bulk Ethernet Cable",
+            "name": "Monoprice Cat6A 1000ft Blue CMR Bulk Cable, Solid, UTP, 23AWG, 650MHz, 10G, Pure Bare Copper, Spool in Box, Flame-Retardant, Bulk Ethernet Cable",
             "price": 229.99,
             "url": "https://www.monoprice.com/product?p_id=30661",
             "product_id": 30661,
@@ -15346,7 +15346,7 @@
             "num_reviews": 3
         },
         "30662": {
-            "name": "Monoprice Cat6A 1000ft Blue CMR Bulk Cable,Shielded (F/UTP), Solid, 23AWG, 650MHz, 10G, Pure Bare Copper, Reel in Box, Flame-Retardant, Entegrade Series Bulk Ethernet Cable",
+            "name": "Monoprice Cat6A 1000ft Blue CMR Bulk Cable,Shielded (F/UTP), Solid, 23AWG, 650MHz, 10G, Pure Bare Copper, Spool in Box, Flame-Retardant, Entegrade Series Bulk Ethernet Cable",
             "price": 293.99,
             "url": "https://www.monoprice.com/product?p_id=30662",
             "product_id": 30662,
@@ -24208,7 +24208,7 @@
             "product_id": 38903,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 78
+            "num_reviews": 79
         },
         "38904": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-A Charge and Sync Nylon-Braid Cable, 3ft, White",
@@ -43959,6 +43959,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-24T20:54:46Z"
+        "timestamp": "2023-05-24T21:05:30Z"
     }
 }
