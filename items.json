@@ -15678,6 +15678,15 @@
             "rating": 0,
             "num_reviews": 0
         },
+        "30993": {
+            "name": "Monoprice MP Delta Pro 3D Printer, 32-bit ARM Processor, Auto Level, Silent Drive, Touchscreen, Fully Assembled",
+            "price": 1199.99,
+            "url": "https://www.monoprice.com/product?p_id=30993",
+            "product_id": 30993,
+            "available": true,
+            "rating": 4,
+            "num_reviews": 26
+        },
         "310": {
             "name": "Monoprice Cat5E RJ-45 Toolless Keystone Jack in White",
             "price": 1.11,
@@ -16118,15 +16127,6 @@
             "available": true,
             "rating": 4.8,
             "num_reviews": 267
-        },
-        "31219": {
-            "name": "Monoprice OM4 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, 10GB, LSZH, Purple, 2m, Corning",
-            "price": 2.69,
-            "url": "https://www.monoprice.com/product?p_id=31219",
-            "product_id": 31219,
-            "available": true,
-            "rating": 5,
-            "num_reviews": 2
         },
         "31221": {
             "name": "Monoprice OM4 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, 10GB, LSZH, Purple, 5m, Corning",
@@ -18194,7 +18194,7 @@
             "price": 164.99,
             "url": "https://www.monoprice.com/product?p_id=34015",
             "product_id": 34015,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -21911,7 +21911,7 @@
             "price": 51.99,
             "url": "https://www.monoprice.com/product?p_id=37884",
             "product_id": 37884,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 20
         },
@@ -21932,6 +21932,15 @@
             "available": true,
             "rating": 3.5,
             "num_reviews": 15
+        },
+        "37897": {
+            "name": "Monolith by Monoprice Electrostatic Headphone with Amplifier (Open Box)",
+            "price": 249,
+            "url": "https://www.monoprice.com/product?p_id=37897",
+            "product_id": 37897,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 4
         },
         "37918": {
             "name": "Monoprice Braided DisplayPort 1.4 Cable, 1.5ft, Gray",
@@ -22163,7 +22172,7 @@
             "price": 11.43,
             "url": "https://www.monoprice.com/product?p_id=38084",
             "product_id": 38084,
-            "available": true,
+            "available": false,
             "rating": 2.7,
             "num_reviews": 12
         },
@@ -22832,24 +22841,6 @@
             "available": true,
             "rating": 4.9,
             "num_reviews": 98
-        },
-        "38355": {
-            "name": "Monoprice OM4 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 3m",
-            "price": 2.29,
-            "url": "https://www.monoprice.com/product?p_id=38355",
-            "product_id": 38355,
-            "available": true,
-            "rating": 4.7,
-            "num_reviews": 3
-        },
-        "38356": {
-            "name": "Monoprice OM4 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 5m",
-            "price": 5.79,
-            "url": "https://www.monoprice.com/product?p_id=38356",
-            "product_id": 38356,
-            "available": true,
-            "rating": 4.7,
-            "num_reviews": 3
         },
         "38360": {
             "name": "Monoprice 25 Watt Stereo Hybrid Tube Amplifier with Bluetooth, Optical, Coaxial, and USB Inputs, and Subwoofer Out",
@@ -26744,7 +26735,7 @@
             "price": 6.49,
             "url": "https://www.monoprice.com/product?p_id=39924",
             "product_id": 39924,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1586
         },
@@ -43968,6 +43959,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-24T17:35:09Z"
+        "timestamp": "2023-05-24T17:44:33Z"
     }
 }
