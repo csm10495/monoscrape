@@ -11869,7 +11869,7 @@
             "product_id": 24328,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 495
+            "num_reviews": 497
         },
         "24331": {
             "name": "Monoprice Cat6A 2ft Green Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -43986,6 +43986,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-24T21:44:25Z"
+        "timestamp": "2023-05-24T21:54:21Z"
     }
 }
