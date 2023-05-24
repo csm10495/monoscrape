@@ -28197,6 +28197,15 @@
             "rating": 0,
             "num_reviews": 0
         },
+        "40955": {
+            "name": "Monolith by Monoprice M1070 Over Ear Open Back Planar Headphones (open box)",
+            "price": 319.99,
+            "url": "https://www.monoprice.com/product?p_id=40955",
+            "product_id": 40955,
+            "available": true,
+            "rating": 4,
+            "num_reviews": 1
+        },
         "4100": {
             "name": "Monoprice Caliber In-Wall Speakers, 6.5in Fiber 2-Way (pair)",
             "price": 66.49,
@@ -29346,8 +29355,8 @@
             "url": "https://www.monoprice.com/product?p_id=41500",
             "product_id": 41500,
             "available": true,
-            "rating": 4.2,
-            "num_reviews": 102
+            "rating": 4.3,
+            "num_reviews": 101
         },
         "41523": {
             "name": "Sports Speed Chute for Training and Resistance Running - Black",
@@ -30866,7 +30875,7 @@
             "price": 129.99,
             "url": "https://www.monoprice.com/product?p_id=42348",
             "product_id": 42348,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 17
         },
@@ -34682,7 +34691,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=44117",
             "product_id": 44117,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 3
         },
@@ -35222,7 +35231,7 @@
             "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=44485",
             "product_id": 44485,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -35501,6 +35510,15 @@
             "price": 1799.99,
             "url": "https://www.monoprice.com/product?p_id=44578",
             "product_id": 44578,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "44579": {
+            "name": "Monolith by Monoprice 13in THX Certified Ultra 2000-Watt Powered Subwoofer (Open Box)",
+            "price": 999.99,
+            "url": "https://www.monoprice.com/product?p_id=44579",
+            "product_id": 44579,
             "available": true,
             "rating": 0,
             "num_reviews": 0
@@ -43950,6 +43968,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-24T16:46:24Z"
+        "timestamp": "2023-05-24T16:54:50Z"
     }
 }
