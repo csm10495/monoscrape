@@ -11428,7 +11428,7 @@
             "product_id": 24171,
             "available": false,
             "rating": 3.8,
-            "num_reviews": 142
+            "num_reviews": 141
         },
         "24172": {
             "name": "Monoprice Foldable Long Range HD8 Outdoor HDTV Antenna, 80 Mile Range",
@@ -43932,6 +43932,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-24T16:30:06Z"
+        "timestamp": "2023-05-24T16:40:27Z"
     }
 }
