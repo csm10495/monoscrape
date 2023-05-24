@@ -26852,7 +26852,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=40041",
             "product_id": 40041,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 1
         },
@@ -28040,7 +28040,7 @@
             "price": 1.79,
             "url": "https://www.monoprice.com/product?p_id=40882",
             "product_id": 40882,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 57
         },
@@ -29822,7 +29822,7 @@
             "price": 149.99,
             "url": "https://www.monoprice.com/product?p_id=41843",
             "product_id": 41843,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -31704,8 +31704,8 @@
             "url": "https://www.monoprice.com/product?p_id=42841",
             "product_id": 42841,
             "available": true,
-            "rating": 4.6,
-            "num_reviews": 12
+            "rating": 4.7,
+            "num_reviews": 13
         },
         "42842": {
             "name": "Monolith by Monoprice 32in Cherry Wood Speaker Stand with Adjustable Top Plate, Cherry (Each)",
@@ -34610,7 +34610,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=44117",
             "product_id": 44117,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 3
         },
@@ -43851,6 +43851,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-24T13:28:28Z"
+        "timestamp": "2023-05-24T13:34:22Z"
     }
 }
