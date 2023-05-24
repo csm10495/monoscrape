@@ -10459,7 +10459,7 @@
             "num_reviews": 1
         },
         "21795": {
-            "name": "Monoprice Cat6A 1000ft Black CMP UL Bulk Cable, TAA, Solid, UTP, 23AWG, 550MHz, 10G, Pure Bare Copper, Reel in Box, Entegrade Series Bulk Ethernet Cable",
+            "name": "Monoprice Cat6A 1000ft Black CMP UL Bulk Cable, TAA, Solid, UTP, 23AWG, 550MHz, 10G, Pure Bare Copper, Spool in Box, Entegrade Series Bulk Ethernet Cable",
             "price": 383.76,
             "url": "https://www.monoprice.com/product?p_id=21795",
             "product_id": 21795,
@@ -10612,7 +10612,7 @@
             "num_reviews": 9
         },
         "21868": {
-            "name": "Monoprice Cat5e 1000ft Black Outdoor Bulk Cable, Gel-filled Direct Burial, Solid, UTP, 24AWG, 550MHz, Pure Bare Copper, Reel in Box, No Logo, Bulk Ethernet Cable",
+            "name": "Monoprice Cat5e 1000ft Black Outdoor Bulk Cable, Gel-filled Direct Burial, Solid, UTP, 24AWG, 550MHz, Pure Bare Copper, Spool in Box, No Logo, Bulk Ethernet Cable",
             "price": 199.49,
             "url": "https://www.monoprice.com/product?p_id=21868",
             "product_id": 21868,
@@ -11921,7 +11921,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=24339",
             "product_id": 24339,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 496
         },
@@ -43959,6 +43959,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-24T20:44:53Z"
+        "timestamp": "2023-05-24T20:54:46Z"
     }
 }
