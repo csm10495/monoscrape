@@ -16189,7 +16189,7 @@
             "product_id": 31235,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 194
+            "num_reviews": 195
         },
         "31236": {
             "name": "Pure Outdoor by Monoprice Emperor 50 Rotomolded Portable Cooler 13.2 Gal, Blue",
@@ -26735,7 +26735,7 @@
             "price": 6.49,
             "url": "https://www.monoprice.com/product?p_id=39924",
             "product_id": 39924,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1586
         },
@@ -43977,6 +43977,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-24T18:44:28Z"
+        "timestamp": "2023-05-24T18:54:39Z"
     }
 }
