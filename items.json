@@ -1688,7 +1688,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=11387",
             "product_id": 11387,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 461
         },
@@ -1754,15 +1754,6 @@
             "available": true,
             "rating": 4.3,
             "num_reviews": 105
-        },
-        "11431": {
-            "name": "Monoprice OM3 Fiber Optic Cable - SC/SC, UL, 50/125 Type, Multi-Mode, 10GB, Aqua, 15m, Corning",
-            "price": 7.79,
-            "url": "https://www.monoprice.com/product?p_id=11431",
-            "product_id": 11431,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 4
         },
         "11437": {
             "name": "Monoprice Cat5e 1000ft White CMP UL Bulk Cable, TAA, UTP, Solid, 24AWG, 350MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
@@ -2266,7 +2257,7 @@
             "product_id": 12235,
             "available": true,
             "rating": 4,
-            "num_reviews": 594
+            "num_reviews": 595
         },
         "12239": {
             "name": "Monoprice 4.5ft USB 2.0 A Male to Micro B Male 30/20 AWG Fast Charge / Security Cable",
@@ -6081,8 +6072,8 @@
             "url": "https://www.monoprice.com/product?p_id=14774",
             "product_id": 14774,
             "available": true,
-            "rating": 4.7,
-            "num_reviews": 35
+            "rating": 4.9,
+            "num_reviews": 34
         },
         "14775": {
             "name": "Monoprice Cat5e Ethernet Bulk Cable - Solid, 350MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 24AWG, 250ft, Gray (UL)",
@@ -7628,7 +7619,7 @@
             "price": 16.47,
             "url": "https://www.monoprice.com/product?p_id=15835",
             "product_id": 15835,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -43941,6 +43932,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-24T16:10:31Z"
+        "timestamp": "2023-05-24T16:30:06Z"
     }
 }
