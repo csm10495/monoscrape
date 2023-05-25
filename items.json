@@ -16108,7 +16108,7 @@
             "product_id": 31202,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 266
+            "num_reviews": 267
         },
         "31203": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Black",
@@ -16448,7 +16448,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=32983",
             "product_id": 32983,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 1
         },
@@ -17326,7 +17326,7 @@
             "num_reviews": 1
         },
         "33652": {
-            "name": "Monoprice Heavy Duty Power Cable - IEC 60320 C14 to IEC 60320 C15, 14AWG, 15A/1875W, SJT, 100-250V, Red, 3ft",
+            "name": "Monoprice Heavy Duty Power Cable - IEC 60320 C14 to IEC 60320 C15, 14AWG, 15A/1875W, SJT, 125V, Red, 3ft",
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=33652",
             "product_id": 33652,
@@ -17335,7 +17335,7 @@
             "num_reviews": 7
         },
         "33654": {
-            "name": "Monoprice Heavy Duty Power Cable - IEC 60320 C14 to IEC 60320 C15, 14AWG, 15A/1875W, SJT, 100-250V, Blue, 3ft",
+            "name": "Monoprice Heavy Duty Power Cable - IEC 60320 C14 to IEC 60320 C15, 14AWG, 15A/1875W, SJT, 120V, Blue, 3ft",
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=33654",
             "product_id": 33654,
@@ -21893,7 +21893,7 @@
             "price": 51.99,
             "url": "https://www.monoprice.com/product?p_id=37884",
             "product_id": 37884,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 20
         },
@@ -24199,7 +24199,7 @@
             "product_id": 38902,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 78
+            "num_reviews": 79
         },
         "38903": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-A Charge and Sync Nylon-Braid Cable, 1.5ft, White",
@@ -43977,6 +43977,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-25T18:27:57Z"
+        "timestamp": "2023-05-25T18:34:43Z"
     }
 }
