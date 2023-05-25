@@ -9824,7 +9824,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=2146",
             "product_id": 2146,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3041
         },
@@ -37024,7 +37024,7 @@
             "product_id": 5350,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 1302
+            "num_reviews": 1304
         },
         "5355": {
             "name": "Monoprice 1.5ft 22AWG 5-RCA Component Video/Audio Coaxial Cable (RG-59/U) - Black",
@@ -37267,7 +37267,7 @@
             "product_id": 5432,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1586
+            "num_reviews": 1587
         },
         "5433": {
             "name": "Monoprice USB Type-A to USB Type-A Female 2.0 Extension Cable - 28/24AWG, Gold Plated, Black, 6ft",
@@ -37490,7 +37490,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=5460",
             "product_id": 5460,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 2581
         },
@@ -38383,7 +38383,7 @@
             "product_id": 6016,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 262
+            "num_reviews": 263
         },
         "6017": {
             "name": "Monoprice 15ft 28AWG DisplayPort to DVI Cable, White",
@@ -43133,7 +43133,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=9765",
             "product_id": 9765,
-            "available": true,
+            "available": false,
             "rating": 4,
             "num_reviews": 729
         },
@@ -43977,6 +43977,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-25T19:55:58Z"
+        "timestamp": "2023-05-25T20:09:51Z"
     }
 }
