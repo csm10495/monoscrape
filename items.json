@@ -16772,7 +16772,7 @@
             "price": 60.99,
             "url": "https://www.monoprice.com/product?p_id=33256",
             "product_id": 33256,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 529
         },
@@ -17105,7 +17105,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=33558",
             "product_id": 33558,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 354
         },
@@ -18779,7 +18779,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=34267",
             "product_id": 34267,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 76
         },
@@ -21182,7 +21182,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=36208",
             "product_id": 36208,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 15
         },
@@ -21191,7 +21191,7 @@
             "price": 4.29,
             "url": "https://www.monoprice.com/product?p_id=36209",
             "product_id": 36209,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 15
         },
@@ -21884,7 +21884,7 @@
             "price": 112.49,
             "url": "https://www.monoprice.com/product?p_id=37881",
             "product_id": 37881,
-            "available": true,
+            "available": false,
             "rating": 4.1,
             "num_reviews": 19
         },
@@ -22244,7 +22244,7 @@
             "price": 47.99,
             "url": "https://www.monoprice.com/product?p_id=38129",
             "product_id": 38129,
-            "available": true,
+            "available": false,
             "rating": 3.6,
             "num_reviews": 15
         },
@@ -23722,7 +23722,7 @@
             "product_id": 38815,
             "available": false,
             "rating": 4.5,
-            "num_reviews": 86
+            "num_reviews": 87
         },
         "38816": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 3ft, Blue",
@@ -24143,7 +24143,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=38893",
             "product_id": 38893,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 21
         },
@@ -24287,7 +24287,7 @@
             "price": 5.09,
             "url": "https://www.monoprice.com/product?p_id=38910",
             "product_id": 38910,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 79
         },
@@ -24800,7 +24800,7 @@
             "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=39163",
             "product_id": 39163,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 56
         },
@@ -25880,7 +25880,7 @@
             "price": 26.34,
             "url": "https://www.monoprice.com/product?p_id=39572",
             "product_id": 39572,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 251
         },
@@ -43986,6 +43986,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-25T15:06:36Z"
+        "timestamp": "2023-05-25T15:22:14Z"
     }
 }
