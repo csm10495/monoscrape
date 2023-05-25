@@ -12310,7 +12310,7 @@
             "product_id": 24417,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 495
+            "num_reviews": 497
         },
         "24424": {
             "name": "Monoprice Obsidian Speed Plus USB Car Charger, 2-Port, 27W + 1A Output for iPhone, Android, and Galaxy Devices",
@@ -12553,7 +12553,7 @@
             "product_id": 24465,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 313
+            "num_reviews": 314
         },
         "24467": {
             "name": "Monoprice Cable Management Spine, White",
@@ -43977,6 +43977,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-25T21:25:44Z"
+        "timestamp": "2023-05-25T21:35:03Z"
     }
 }
