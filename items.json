@@ -3938,7 +3938,7 @@
             "price": 17.99,
             "url": "https://www.monoprice.com/product?p_id=1343",
             "product_id": 1343,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -10886,7 +10886,7 @@
             "price": 199.99,
             "url": "https://www.monoprice.com/product?p_id=2273",
             "product_id": 2273,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 60
         },
@@ -11192,7 +11192,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=2319",
             "product_id": 2319,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3399
         },
@@ -13091,7 +13091,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=2696",
             "product_id": 2696,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 21
         },
@@ -36140,7 +36140,7 @@
             "price": 17.99,
             "url": "https://www.monoprice.com/product?p_id=4787",
             "product_id": 4787,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 83
         },
@@ -36446,7 +36446,7 @@
             "price": 1.19,
             "url": "https://www.monoprice.com/product?p_id=4986",
             "product_id": 4986,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3041
         },
@@ -37517,7 +37517,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=5494",
             "product_id": 5494,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 409
         },
@@ -37546,7 +37546,7 @@
             "product_id": 5497,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 410
+            "num_reviews": 409
         },
         "5498": {
             "name": "Monoprice 15ft Premier Series 1/4in TS Male to Male Audio Cable, 16AWG (Gold Plated)",
@@ -38606,7 +38606,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=622",
             "product_id": 622,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 19
         },
@@ -39326,7 +39326,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=6539",
             "product_id": 6539,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 89
         },
@@ -39416,7 +39416,7 @@
             "price": 0.77,
             "url": "https://www.monoprice.com/product?p_id=6568",
             "product_id": 6568,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 6
         },
@@ -41036,7 +41036,7 @@
             "price": 5.49,
             "url": "https://www.monoprice.com/product?p_id=7680",
             "product_id": 7680,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 24
         },
@@ -42224,7 +42224,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=8765",
             "product_id": 8765,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 157
         },
@@ -42854,7 +42854,7 @@
             "price": 22.99,
             "url": "https://www.monoprice.com/product?p_id=9443",
             "product_id": 9443,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 141
         },
@@ -43995,6 +43995,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-25T15:35:06Z"
+        "timestamp": "2023-05-25T15:45:33Z"
     }
 }
