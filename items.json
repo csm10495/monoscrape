@@ -22723,7 +22723,7 @@
             "product_id": 38322,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 265
+            "num_reviews": 267
         },
         "38323": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Purple",
@@ -26710,7 +26710,7 @@
             "product_id": 39922,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1586
+            "num_reviews": 1587
         },
         "39923": {
             "name": "Monoprice USB Type-A to USB Type-A Female 2.0 Extension Cable - 28/24AWG Gold Plated Black 3ft, 3-Pack",
@@ -43617,6 +43617,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-25T05:53:51Z"
+        "timestamp": "2023-05-25T06:10:44Z"
     }
 }
