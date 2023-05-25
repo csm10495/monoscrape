@@ -12283,7 +12283,7 @@
             "product_id": 24408,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 495
+            "num_reviews": 497
         },
         "24416": {
             "name": "Monoprice Cat6A 100ft Black Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -43941,6 +43941,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-25T11:06:31Z"
+        "timestamp": "2023-05-25T11:19:59Z"
     }
 }
