@@ -2761,7 +2761,7 @@
             "product_id": 12790,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 21
+            "num_reviews": 22
         },
         "12795": {
             "name": "Monoprice Mini DisplayPort 1.2a / Thunderbolt to 4K HDMI Passive Adapter, Black",
@@ -3443,7 +3443,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=13252",
             "product_id": 13252,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 167
         },
@@ -6080,7 +6080,7 @@
             "price": 2.29,
             "url": "https://www.monoprice.com/product?p_id=14786",
             "product_id": 14786,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 273
         },
@@ -6836,7 +6836,7 @@
             "price": 33.99,
             "url": "https://www.monoprice.com/product?p_id=15170",
             "product_id": 15170,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 529
         },
@@ -8917,7 +8917,7 @@
             "product_id": 16359,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 98
+            "num_reviews": 99
         },
         "16360": {
             "name": "Workstream by Monoprice Medium Multimedia Desktop Monitor Stand, 25.6in x 11.0in, Max Weight Capacity 80lbs, Black Tempered Glass",
@@ -9032,7 +9032,7 @@
             "price": 14.18,
             "url": "https://www.monoprice.com/product?p_id=18534",
             "product_id": 18534,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 100
         },
@@ -43968,6 +43968,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-25T17:54:54Z"
+        "timestamp": "2023-05-25T18:10:13Z"
     }
 }
