@@ -412,7 +412,7 @@
             "product_id": 10554,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 574
+            "num_reviews": 575
         },
         "10565": {
             "name": "Monoprice Premium 5.1-Channel Home Theater System with Subwoofer",
@@ -592,7 +592,7 @@
             "product_id": 11045,
             "available": false,
             "rating": 4.3,
-            "num_reviews": 574
+            "num_reviews": 575
         },
         "1107": {
             "name": "Monoprice T-Adapter Cat5e 1M/2F, 6 in",
@@ -617,7 +617,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=11148",
             "product_id": 11148,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 97
         },
@@ -1915,7 +1915,7 @@
             "product_id": 11778,
             "available": false,
             "rating": 4.3,
-            "num_reviews": 574
+            "num_reviews": 575
         },
         "11779": {
             "name": "Monoprice Premium 3D Printer Filament PLA 1.75mm 1kg/spool, Pink",
@@ -5063,7 +5063,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=13752",
             "product_id": 13752,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 99
         },
@@ -5360,7 +5360,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=13920",
             "product_id": 13920,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 661
         },
@@ -5828,7 +5828,7 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=14504",
             "product_id": 14504,
-            "available": false,
+            "available": true,
             "rating": 3.6,
             "num_reviews": 18
         },
@@ -6026,7 +6026,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=14767",
             "product_id": 14767,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 92
         },
@@ -7610,7 +7610,7 @@
             "price": 16.47,
             "url": "https://www.monoprice.com/product?p_id=15835",
             "product_id": 15835,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -8492,7 +8492,7 @@
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=16243",
             "product_id": 16243,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 24
         },
@@ -9266,7 +9266,7 @@
             "price": 31.99,
             "url": "https://www.monoprice.com/product?p_id=18660",
             "product_id": 18660,
-            "available": true,
+            "available": false,
             "rating": 3.6,
             "num_reviews": 5
         },
@@ -43986,6 +43986,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-25T14:44:39Z"
+        "timestamp": "2023-05-25T14:54:50Z"
     }
 }
