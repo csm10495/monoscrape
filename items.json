@@ -34173,6 +34173,15 @@
             "rating": 0,
             "num_reviews": 0
         },
+        "43662": {
+            "name": "48FT Patio Outdoor String Lights, Weatherproof Strand,15 Hanging Sockets, ETL Listed, Heavy-Duty Cafe Decorative Light for Porch Market Bistro Garden",
+            "price": 29.99,
+            "url": "https://www.monoprice.com/product?p_id=43662",
+            "product_id": 43662,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "43663": {
             "name": "MPM Foldable Dog Crate, Dog Metal Kennel 36 Inch Double Door Cage, Handle, Plastic Tray for Pet Animals Indoor Outdoor",
             "price": 59.99,
@@ -35681,7 +35690,7 @@
             "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=44686",
             "product_id": 44686,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -43977,6 +43986,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-25T21:44:29Z"
+        "timestamp": "2023-05-25T21:54:35Z"
     }
 }
