@@ -28523,7 +28523,7 @@
         },
         "41085": {
             "name": "Monoprice Power Cord - BS 1363 (UK) to IEC 60320 C5, 18AWG, 5A/1250W, 250V, 3-Prong with Fuse, Black, 6ft",
-            "price": 4.49,
+            "price": 2.69,
             "url": "https://www.monoprice.com/product?p_id=41085",
             "product_id": 41085,
             "available": true,
@@ -30287,7 +30287,7 @@
         },
         "42035": {
             "name": "TACKLIFE  Reusable Grill Mat Non-Stick BBQ Grill heavy Duty Set of 4 black 16\" x 13\" for Grilling Baking for Charcoal Gas or Electric",
-            "price": 3.99,
+            "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=42035",
             "product_id": 42035,
             "available": true,
@@ -30548,7 +30548,7 @@
         },
         "42134": {
             "name": "Cable Jump Rope for exercise work out home gym high speed core training aid",
-            "price": 3.99,
+            "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=42134",
             "product_id": 42134,
             "available": true,
@@ -30926,7 +30926,7 @@
         },
         "42365": {
             "name": "NeonTEK 1080P USB Webcam with built in microphone - Plug and Play - AN810",
-            "price": 7.99,
+            "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=42365",
             "product_id": 42365,
             "available": false,
@@ -31478,7 +31478,7 @@
             "price": 25.99,
             "url": "https://www.monoprice.com/product?p_id=42707",
             "product_id": 42707,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -33342,8 +33342,8 @@
             "url": "https://www.monoprice.com/product?p_id=43261",
             "product_id": 43261,
             "available": false,
-            "rating": 4.2,
-            "num_reviews": 15
+            "rating": 4.3,
+            "num_reviews": 16
         },
         "43262": {
             "name": "Monoprice Harmony Capsule 200 Portable Bluetooth Speaker",
@@ -33864,8 +33864,8 @@
             "url": "https://www.monoprice.com/product?p_id=43525",
             "product_id": 43525,
             "available": true,
-            "rating": 3.5,
-            "num_reviews": 4
+            "rating": 3.6,
+            "num_reviews": 5
         },
         "43526": {
             "name": "Monoprice USB-C to Dual 4K DisplayPort Adapter (Dual 4K@60Hz)",
@@ -34283,7 +34283,7 @@
         },
         "43711": {
             "name": "PS5 Controller Charger Station, Playstation 5 Dual Controller Charging Stand, Fast Charging AC Adapter, Docking Station Replacement for DualSense Charging Station",
-            "price": 13.99,
+            "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=43711",
             "product_id": 43711,
             "available": true,
@@ -34292,7 +34292,7 @@
         },
         "43749": {
             "name": "4 Piece Drill Brush Cleaning Attachments Set, All Purpose Clean Power Scrubber Brush, with Extend Long Attachment for Grout, Tiles, Sinks, Bathtub, Bathroom, Kitchen, Tub, Car",
-            "price": 9.99,
+            "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=43749",
             "product_id": 43749,
             "available": true,
@@ -34368,8 +34368,8 @@
             "url": "https://www.monoprice.com/product?p_id=43795",
             "product_id": 43795,
             "available": true,
-            "rating": 4.3,
-            "num_reviews": 8
+            "rating": 4,
+            "num_reviews": 9
         },
         "43796": {
             "name": "Monoprice 2-Port 39W USB Car Charger",
@@ -43968,6 +43968,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-25T17:29:55Z"
+        "timestamp": "2023-05-25T17:35:16Z"
     }
 }
