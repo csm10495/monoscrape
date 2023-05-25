@@ -23722,7 +23722,7 @@
             "product_id": 38823,
             "available": false,
             "rating": 4.5,
-            "num_reviews": 86
+            "num_reviews": 87
         },
         "38824": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, White, 3ft+6ft+10ft Multipack",
@@ -23731,7 +23731,7 @@
             "product_id": 38824,
             "available": false,
             "rating": 4.5,
-            "num_reviews": 86
+            "num_reviews": 87
         },
         "38825": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 3ft, Black, 3-Pack",
@@ -24188,7 +24188,7 @@
             "price": 6.79,
             "url": "https://www.monoprice.com/product?p_id=38906",
             "product_id": 38906,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 79
         },
@@ -25000,7 +25000,7 @@
             "product_id": 39359,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 84
+            "num_reviews": 85
         },
         "39381": {
             "name": "Monoprice 6in Precision Cable Cutter and Stripper for 8-14 AWG Cables",
@@ -26602,7 +26602,7 @@
             "product_id": 39927,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1586
+            "num_reviews": 1587
         },
         "39928": {
             "name": "Monoprice USB Type-A to USB Type-A Female 2.0 Extension Cable - 28/24AWG Gold Plated Black 10ft, 5-Pack",
@@ -35796,6 +35796,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-25T03:34:47Z"
+        "timestamp": "2023-05-25T03:44:23Z"
     }
 }
