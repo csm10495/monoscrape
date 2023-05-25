@@ -28760,7 +28760,7 @@
             "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=41280",
             "product_id": 41280,
-            "available": false,
+            "available": true,
             "rating": 4.2,
             "num_reviews": 238
         },
@@ -29378,7 +29378,7 @@
         },
         "41528": {
             "name": "netis AC1200 Wireless Dual Band 2.4GHz and 5GHz USB Wi-Fi Adapter, High Gain 5dBi Antennas, Wi-Fi Hotspot Feature, WPS Button",
-            "price": 21.59,
+            "price": 14.39,
             "url": "https://www.monoprice.com/product?p_id=41528",
             "product_id": 41528,
             "available": true,
@@ -30971,7 +30971,7 @@
         },
         "42498": {
             "name": "Collapsing Storage Mini Trash Can",
-            "price": 3.59,
+            "price": 2.79,
             "url": "https://www.monoprice.com/product?p_id=42498",
             "product_id": 42498,
             "available": true,
@@ -31039,7 +31039,7 @@
             "product_id": 42528,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 266
+            "num_reviews": 267
         },
         "42529": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Red - 3 Pack",
@@ -31880,7 +31880,7 @@
         },
         "42867": {
             "name": "Mini Portable UV Ultraviolet Instant Sterilizing LED Light for iPhone - Black",
-            "price": 3.59,
+            "price": 2.79,
             "url": "https://www.monoprice.com/product?p_id=42867",
             "product_id": 42867,
             "available": true,
@@ -32627,7 +32627,7 @@
         },
         "43114": {
             "name": "Plant Grow Lights, 10W LED Growing Lamps for Indoor Plants, Full Spectrum 9 Dimmable Levels 3 Modes Timing Function, 1 Head",
-            "price": 9.89,
+            "price": 7.69,
             "url": "https://www.monoprice.com/product?p_id=43114",
             "product_id": 43114,
             "available": true,
@@ -33833,7 +33833,7 @@
         },
         "43463": {
             "name": "3\" Led Pods 2PCS 18W 1140LM Flood Led Off Road Lights Super Bright Driving Fog Light Boat Lights Driving Lights Led Work Light for Trucks",
-            "price": 11.69,
+            "price": 9.09,
             "url": "https://www.monoprice.com/product?p_id=43463",
             "product_id": 43463,
             "available": true,
@@ -34121,7 +34121,7 @@
         },
         "43634": {
             "name": "Rechargeable Portable LED Lantern Lamp, 1200 mAh Dimmable Multi-Functional Light, Bedside Night Lamp for Bedroom, Living Room, Outdoor, Office, Camping",
-            "price": 8.99,
+            "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=43634",
             "product_id": 43634,
             "available": true,
@@ -34166,7 +34166,7 @@
         },
         "43655": {
             "name": "DIY Amusement Park Large Size Kids Learning Plastic Building Block Pipeline Block Toys - 54PCS",
-            "price": 12.59,
+            "price": 9.79,
             "url": "https://www.monoprice.com/product?p_id=43655",
             "product_id": 43655,
             "available": true,
@@ -35663,7 +35663,7 @@
             "price": 129.99,
             "url": "https://www.monoprice.com/product?p_id=44684",
             "product_id": 44684,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -35672,7 +35672,7 @@
             "price": 149.99,
             "url": "https://www.monoprice.com/product?p_id=44685",
             "product_id": 44685,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -35681,7 +35681,7 @@
             "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=44686",
             "product_id": 44686,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -35690,7 +35690,7 @@
             "price": 1099.99,
             "url": "https://www.monoprice.com/product?p_id=44687",
             "product_id": 44687,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -35699,7 +35699,7 @@
             "price": 899.99,
             "url": "https://www.monoprice.com/product?p_id=44688",
             "product_id": 44688,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -35708,7 +35708,7 @@
             "price": 329.99,
             "url": "https://www.monoprice.com/product?p_id=44693",
             "product_id": 44693,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -35717,7 +35717,7 @@
             "price": 239.99,
             "url": "https://www.monoprice.com/product?p_id=44694",
             "product_id": 44694,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -43977,6 +43977,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-25T19:36:46Z"
+        "timestamp": "2023-05-25T19:46:07Z"
     }
 }
