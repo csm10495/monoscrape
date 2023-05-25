@@ -27041,7 +27041,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=40073",
             "product_id": 40073,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 3
         },
@@ -28625,7 +28625,7 @@
             "price": 5.49,
             "url": "https://www.monoprice.com/product?p_id=41095",
             "product_id": 41095,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 3
         },
@@ -29687,7 +29687,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=41732",
             "product_id": 41732,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 90
         },
@@ -31001,7 +31001,7 @@
             "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=42510",
             "product_id": 42510,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -31048,7 +31048,7 @@
             "product_id": 42527,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 265
+            "num_reviews": 267
         },
         "42528": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Black - 3 Pack",
@@ -31676,7 +31676,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=42826",
             "product_id": 42826,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -31730,7 +31730,7 @@
             "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=42833",
             "product_id": 42833,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 264
         },
@@ -31768,7 +31768,7 @@
             "product_id": 42837,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 12
+            "num_reviews": 13
         },
         "42838": {
             "name": "Monolith by Monoprice 32in Steel Speaker Stand with Adjustable Top Plate (Each)",
@@ -31793,7 +31793,7 @@
             "price": 52.49,
             "url": "https://www.monoprice.com/product?p_id=42840",
             "product_id": 42840,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 12
         },
@@ -32288,7 +32288,7 @@
             "price": 18.99,
             "url": "https://www.monoprice.com/product?p_id=42995",
             "product_id": 42995,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 8
         },
@@ -32562,6 +32562,15 @@
             "rating": 4.7,
             "num_reviews": 57
         },
+        "43084": {
+            "name": "Monoprice Flexboot Cat6 Ethernet Patch Cable - Snagless RJ45, Flat, 550MHz, UTP, Pure Bare Copper Wire, 30AWG, 75ft, White",
+            "price": 9.99,
+            "url": "https://www.monoprice.com/product?p_id=43084",
+            "product_id": 43084,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 57
+        },
         "43103": {
             "name": "Monoprice OM3 Fiber Optic Cable - Reverse Polarity LC/LC Uniboot, UL, 50/125 Type, 10GB, Aqua, 1m, Corning",
             "price": 11.99,
@@ -32765,7 +32774,7 @@
             "price": 124.99,
             "url": "https://www.monoprice.com/product?p_id=43156",
             "product_id": 43156,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -33836,7 +33845,7 @@
             "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=43462",
             "product_id": 43462,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -33899,7 +33908,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=43527",
             "product_id": 43527,
-            "available": false,
+            "available": true,
             "rating": 4.1,
             "num_reviews": 7
         },
@@ -35069,7 +35078,7 @@
             "price": 2.1,
             "url": "https://www.monoprice.com/product?p_id=44368",
             "product_id": 44368,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -43986,6 +43995,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-25T15:22:14Z"
+        "timestamp": "2023-05-25T15:28:33Z"
     }
 }
