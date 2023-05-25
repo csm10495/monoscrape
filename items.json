@@ -16099,7 +16099,7 @@
             "product_id": 31201,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 266
+            "num_reviews": 267
         },
         "31202": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft, Black",
@@ -21911,7 +21911,7 @@
             "price": 7.79,
             "url": "https://www.monoprice.com/product?p_id=37893",
             "product_id": 37893,
-            "available": true,
+            "available": false,
             "rating": 3.5,
             "num_reviews": 15
         },
@@ -24181,7 +24181,7 @@
             "product_id": 38900,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 78
+            "num_reviews": 79
         },
         "38901": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-A Charge and Sync Nylon-Braid Cable, 6ft, Black",
@@ -26764,7 +26764,7 @@
             "product_id": 39928,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1586
+            "num_reviews": 1587
         },
         "3993": {
             "name": "Monoprice 4K High Speed HDMI Cable 10ft - 18Gbps Black",
@@ -43977,6 +43977,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-25T19:26:14Z"
+        "timestamp": "2023-05-25T19:36:46Z"
     }
 }
