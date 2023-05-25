@@ -3935,7 +3935,7 @@
         },
         "1343": {
             "name": "Monoprice DB9 Female, ABCD 4 Way Switch Box",
-            "price": 17.99,
+            "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=1343",
             "product_id": 1343,
             "available": false,
@@ -3953,7 +3953,7 @@
         },
         "1347": {
             "name": "Monoprice DB15, AB 2 Way Switch Box",
-            "price": 18.99,
+            "price": 9.49,
             "url": "https://www.monoprice.com/product?p_id=1347",
             "product_id": 1347,
             "available": true,
@@ -10883,7 +10883,7 @@
         },
         "2274": {
             "name": "Monoprice USB to PS/2 Dual PS2 Converter Adapter",
-            "price": 6.49,
+            "price": 3.24,
             "url": "https://www.monoprice.com/product?p_id=2274",
             "product_id": 2274,
             "available": true,
@@ -14245,7 +14245,7 @@
             "product_id": 2864,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 1302
+            "num_reviews": 1304
         },
         "2865": {
             "name": "Monoprice 12ft Premium 2 RCA Plug/2 RCA Plug M/M 22AWG Cable - Black",
@@ -38356,7 +38356,7 @@
             "product_id": 6014,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 262
+            "num_reviews": 263
         },
         "6015": {
             "name": "Monoprice 6ft 28AWG DisplayPort to DVI Cable, White",
@@ -41154,8 +41154,8 @@
             "url": "https://www.monoprice.com/product?p_id=7846",
             "product_id": 7846,
             "available": true,
-            "rating": 4.7,
-            "num_reviews": 173
+            "rating": 4.6,
+            "num_reviews": 174
         },
         "7847": {
             "name": "Monoprice SlimSelect Series Low Profile Ultra Slim Fixed TV Wall Mount Bracket - For LED TVs 32in to 60in, Max Weight 125 lbs, VESA Patterns Up to 600x400",
@@ -42293,7 +42293,7 @@
         },
         "8780": {
             "name": "Monoprice 24in SATA 6Gbps Cable with Locking Latch (90 Degree to 180 Degree) - Black",
-            "price": 1.49,
+            "price": 0.89,
             "url": "https://www.monoprice.com/product?p_id=8780",
             "product_id": 8780,
             "available": true,
@@ -43968,6 +43968,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-25T17:44:34Z"
+        "timestamp": "2023-05-25T17:54:54Z"
     }
 }
