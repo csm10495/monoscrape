@@ -28652,7 +28652,7 @@
             "price": 1399.99,
             "url": "https://www.monoprice.com/product?p_id=41197",
             "product_id": 41197,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -29327,7 +29327,7 @@
             "price": 129.99,
             "url": "https://www.monoprice.com/product?p_id=41497",
             "product_id": 41497,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 13
         },
@@ -29372,7 +29372,7 @@
             "price": 58.99,
             "url": "https://www.monoprice.com/product?p_id=41527",
             "product_id": 41527,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 6
         },
@@ -29759,7 +29759,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=41812",
             "product_id": 41812,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1467
         },
@@ -30083,7 +30083,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=41990",
             "product_id": 41990,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 9
         },
@@ -33913,7 +33913,7 @@
             "num_reviews": 2
         },
         "43540": {
-            "name": "Monoprice 24-port Cat6 Unshielded UL Listed Patch Panel, 1U, 110/Dual IDC, with Wire Support Bar, Metal front, PoE++ (TAA)",
+            "name": "Monoprice 24-port Cat6 Unshielded UL Listed Patch Panel, 1U, 110/Dual IDC, with Wire Support Bar, SPCC Metal front, PoE++ (TAA)",
             "price": 32.99,
             "url": "https://www.monoprice.com/product?p_id=43540",
             "product_id": 43540,
@@ -34737,8 +34737,8 @@
             "url": "https://www.monoprice.com/product?p_id=44263",
             "product_id": 44263,
             "available": true,
-            "rating": 2.3,
-            "num_reviews": 6
+            "rating": 2.1,
+            "num_reviews": 7
         },
         "44264": {
             "name": "Pure Outdoor by Monoprice Complete Disc Golf Set with Carrying Case and Discs",
@@ -43977,6 +43977,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-25T20:45:06Z"
+        "timestamp": "2023-05-25T20:54:49Z"
     }
 }
