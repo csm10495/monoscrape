@@ -37546,7 +37546,7 @@
             "product_id": 5500,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 410
+            "num_reviews": 409
         },
         "5557": {
             "name": "Monoprice Blackbird 4x1 HDMI 1.4 Switch HDCP 1.4 with Toslink and Analog Audio Extractor, 1080p@60Hz",
@@ -40786,7 +40786,7 @@
             "product_id": 7607,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 253
+            "num_reviews": 254
         },
         "7622": {
             "name": "Monoprice OM3 Fiber Optic Cable - LC/LC, UL, 50/125 Type, Multi-Mode, 10GB, Aqua, 15m, Corning",
@@ -43072,7 +43072,7 @@
             "product_id": 9723,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 477
+            "num_reviews": 478
         },
         "9724": {
             "name": "Monoprice Micro USB OTG Adapter",
@@ -43941,6 +43941,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-25T10:44:09Z"
+        "timestamp": "2023-05-25T10:54:03Z"
     }
 }
