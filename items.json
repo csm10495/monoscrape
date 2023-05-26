@@ -30056,7 +30056,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=41990",
             "product_id": 41990,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 9
         },
@@ -33863,7 +33863,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=43527",
             "product_id": 43527,
-            "available": true,
+            "available": false,
             "rating": 4.1,
             "num_reviews": 7
         },
@@ -34334,15 +34334,6 @@
             "available": false,
             "rating": 3.9,
             "num_reviews": 9
-        },
-        "43792": {
-            "name": "Monoprice 112W 4-Port USB-C Desktop Charging Station",
-            "price": 44.99,
-            "url": "https://www.monoprice.com/product?p_id=43792",
-            "product_id": 43792,
-            "available": false,
-            "rating": 4.3,
-            "num_reviews": 6
         },
         "43794": {
             "name": "Monoprice 3-in-1 Wireless Charging Stand, Bundled with QC3.0 Wall Charger",
@@ -43959,6 +43950,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-26T00:32:48Z"
+        "timestamp": "2023-05-26T01:51:59Z"
     }
 }
