@@ -29274,8 +29274,8 @@
             "url": "https://www.monoprice.com/product?p_id=41484",
             "product_id": 41484,
             "available": true,
-            "rating": 4.8,
-            "num_reviews": 17
+            "rating": 4.6,
+            "num_reviews": 31
         },
         "41485": {
             "name": "Monoprice Cat6A 500ft Blue CMR UL Bulk Cable, TAA, Shielded (F/UTP), Solid, 23AWG, 550MHz, 10G, Pure Bare Copper, Spool in Box, Bulk Ethernet Cable",
@@ -29283,8 +29283,8 @@
             "url": "https://www.monoprice.com/product?p_id=41485",
             "product_id": 41485,
             "available": true,
-            "rating": 4.8,
-            "num_reviews": 17
+            "rating": 4.6,
+            "num_reviews": 31
         },
         "41496": {
             "name": "Monolith by Monoprice 13in THX Certified Ultra 2000-Watt Powered Subwoofer",
@@ -30813,8 +30813,8 @@
             "url": "https://www.monoprice.com/product?p_id=42344",
             "product_id": 42344,
             "available": false,
-            "rating": 4.8,
-            "num_reviews": 17
+            "rating": 4.6,
+            "num_reviews": 31
         },
         "42345": {
             "name": "Monoprice Cat6A 500ft Green CMR UL Bulk Cable, TAA, Shielded (F/UTP), Solid, 23AWG, 550MHz, 10G, Pure Bare Copper, Spool in Box, Bulk Ethernet Cable",
@@ -30822,8 +30822,8 @@
             "url": "https://www.monoprice.com/product?p_id=42345",
             "product_id": 42345,
             "available": true,
-            "rating": 4.8,
-            "num_reviews": 17
+            "rating": 4.6,
+            "num_reviews": 31
         },
         "42346": {
             "name": "Monoprice Cat6A 500ft Purple CMR UL Bulk Cable, TAA, Shielded (F/UTP), Solid, 23AWG, 550MHz, 10G, Pure Bare Copper, Spool in Box, Bulk Ethernet Cable",
@@ -30831,8 +30831,8 @@
             "url": "https://www.monoprice.com/product?p_id=42346",
             "product_id": 42346,
             "available": true,
-            "rating": 4.8,
-            "num_reviews": 17
+            "rating": 4.6,
+            "num_reviews": 31
         },
         "42347": {
             "name": "Monoprice Cat6A 500ft White CMR UL Bulk Cable, TAA, Shielded (F/UTP), Solid, 23AWG, 550MHz, 10G, Pure Bare Copper, Spool in Box, Bulk Ethernet Cable",
@@ -30840,8 +30840,8 @@
             "url": "https://www.monoprice.com/product?p_id=42347",
             "product_id": 42347,
             "available": false,
-            "rating": 4.8,
-            "num_reviews": 17
+            "rating": 4.6,
+            "num_reviews": 31
         },
         "42348": {
             "name": "Monoprice Cat6A 500ft Yellow CMR UL Bulk Cable, TAA, Shielded (F/UTP), Solid, 23AWG, 550MHz, 10G, Pure Bare Copper, Spool in Box, Bulk Ethernet Cable",
@@ -30849,8 +30849,8 @@
             "url": "https://www.monoprice.com/product?p_id=42348",
             "product_id": 42348,
             "available": false,
-            "rating": 4.8,
-            "num_reviews": 17
+            "rating": 4.6,
+            "num_reviews": 31
         },
         "42351": {
             "name": "12 Pcs Drill Brush Attachment Set for Cleaning - Power Scrubber Drill Brush Pad Sponge Kit with Extend Attachment",
@@ -35478,6 +35478,15 @@
             "rating": 0,
             "num_reviews": 0
         },
+        "44576": {
+            "name": "Monolith by Monoprice M-12 V2 12in THX Certified Ultra 500-Watt Powered Subwoofer (Open Box)",
+            "price": 449.99,
+            "url": "https://www.monoprice.com/product?p_id=44576",
+            "product_id": 44576,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "44578": {
             "name": "Monolith by Monoprice M-212 Dual 12in THX Certified Ultra 1000 Watt Powered Subwoofer (Open Box)",
             "price": 1799.99,
@@ -35645,7 +35654,7 @@
             "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=44686",
             "product_id": 44686,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -43941,6 +43950,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-26T13:34:22Z"
+        "timestamp": "2023-05-26T13:44:28Z"
     }
 }
