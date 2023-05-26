@@ -13012,7 +13012,7 @@
             "product_id": 2681,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1460
+            "num_reviews": 1461
         },
         "2682": {
             "name": "Monoprice 12ft High-quality Coaxial Audio/Video RCA CL2 Rated Cable - RG6/U 75ohm (for S/PDIF, Digital Coax, Subwoofer, and Composite Video)",
@@ -37762,7 +37762,7 @@
             "product_id": 5602,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1348
+            "num_reviews": 1349
         },
         "5612": {
             "name": "Monoprice 6in Premium 3.5mm Stereo Female to 2x RCA Male Cable, 22AWG Gold Plated, Black",
@@ -43941,6 +43941,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-26T08:44:01Z"
+        "timestamp": "2023-05-26T09:05:58Z"
     }
 }
