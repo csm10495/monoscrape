@@ -17852,7 +17852,7 @@
             "price": 48.99,
             "url": "https://www.monoprice.com/product?p_id=33835",
             "product_id": 33835,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 67
         },
@@ -22805,15 +22805,6 @@
             "available": true,
             "rating": 4.9,
             "num_reviews": 98
-        },
-        "38354": {
-            "name": "Monoprice OM4 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 2m",
-            "price": 1.79,
-            "url": "https://www.monoprice.com/product?p_id=38354",
-            "product_id": 38354,
-            "available": false,
-            "rating": 4.7,
-            "num_reviews": 3
         },
         "38360": {
             "name": "Monoprice 25 Watt Stereo Hybrid Tube Amplifier with Bluetooth, Optical, Coaxial, and USB Inputs, and Subwoofer Out",
@@ -43968,6 +43959,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-25T23:54:13Z"
+        "timestamp": "2023-05-26T00:32:48Z"
     }
 }
