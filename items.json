@@ -17899,7 +17899,7 @@
             "product_id": 3384,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3041
+            "num_reviews": 3042
         },
         "33840": {
             "name": "Monolith by Monoprice 12AWG Oxygen Free Copper Multi-Strand Conductors PE Insulated Speaker Wire, 50 Foot",
@@ -43950,6 +43950,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-26T04:44:14Z"
+        "timestamp": "2023-05-26T04:54:08Z"
     }
 }
