@@ -30057,8 +30057,8 @@
             "url": "https://www.monoprice.com/product?p_id=41990",
             "product_id": 41990,
             "available": false,
-            "rating": 5,
-            "num_reviews": 9
+            "rating": 4.6,
+            "num_reviews": 10
         },
         "41999": {
             "name": "Monolith by Monoprice MM-5 Powered Multimedia Speakers with Bluetooth with Qualcomm aptX HD Audio, USB DAC, Optical Inputs (open box)",
@@ -43941,6 +43941,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-26T09:34:22Z"
+        "timestamp": "2023-05-26T09:44:03Z"
     }
 }
