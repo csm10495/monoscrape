@@ -29624,7 +29624,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=41732",
             "product_id": 41732,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 90
         },
@@ -30040,7 +30040,7 @@
             "product_id": 41990,
             "available": false,
             "rating": 4.3,
-            "num_reviews": 11
+            "num_reviews": 12
         },
         "41999": {
             "name": "Monolith by Monoprice MM-5 Powered Multimedia Speakers with Bluetooth with Qualcomm aptX HD Audio, USB DAC, Optical Inputs (open box)",
@@ -33782,7 +33782,7 @@
             "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=43462",
             "product_id": 43462,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -34268,7 +34268,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=43749",
             "product_id": 43749,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -43905,6 +43905,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-26T19:07:00Z"
+        "timestamp": "2023-05-26T19:19:35Z"
     }
 }
