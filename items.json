@@ -21922,7 +21922,7 @@
             "product_id": 37919,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 75
+            "num_reviews": 76
         },
         "37920": {
             "name": "Monoprice Braided DisplayPort 1.4 Cable, 6ft, Gray",
@@ -23036,7 +23036,7 @@
             "price": 18.99,
             "url": "https://www.monoprice.com/product?p_id=38541",
             "product_id": 38541,
-            "available": false,
+            "available": true,
             "rating": 4.2,
             "num_reviews": 15
         },
@@ -43941,6 +43941,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-26T11:45:03Z"
+        "timestamp": "2023-05-26T11:54:57Z"
     }
 }
