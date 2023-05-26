@@ -2338,7 +2338,7 @@
             "product_id": 12300,
             "available": false,
             "rating": 4.3,
-            "num_reviews": 574
+            "num_reviews": 575
         },
         "12343": {
             "name": "Monoprice PC+TPU Edge Bumper for 5.5in iPhone 6 Plus and 6s Plus, Black",
@@ -3416,7 +3416,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=13249",
             "product_id": 13249,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 167
         },
@@ -4226,7 +4226,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=13538",
             "product_id": 13538,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 273
         },
@@ -43905,6 +43905,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-26T19:36:40Z"
+        "timestamp": "2023-05-26T19:45:53Z"
     }
 }
