@@ -3283,7 +3283,7 @@
             "product_id": 132,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3041
+            "num_reviews": 3042
         },
         "13207": {
             "name": "Monoprice PC Case with Soft Sand Finish for Samsung Galaxy S6, Pumice Black",
@@ -5983,7 +5983,7 @@
             "product_id": 146,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3041
+            "num_reviews": 3042
         },
         "14649": {
             "name": "Monoprice 2.8-12mm Vari-focal IR IP Bullet Camera (2MP HD, 1/3\" Sensor, 42 Smart IR LEDs - up to 100ft, DC12V/PoE, Built-in MicroSD card slot - up to 64 GB)",
@@ -9691,7 +9691,7 @@
             "product_id": 2132,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3041
+            "num_reviews": 3042
         },
         "2133": {
             "name": "Monoprice Cat5e 3ft Green Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -9718,7 +9718,7 @@
             "product_id": 2135,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3041
+            "num_reviews": 3042
         },
         "2136": {
             "name": "Monoprice Cat5e 3ft Orange Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -9772,7 +9772,7 @@
             "product_id": 2141,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3041
+            "num_reviews": 3042
         },
         "2142": {
             "name": "Monoprice Cat5e 7ft Yellow Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -9790,7 +9790,7 @@
             "product_id": 2143,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3041
+            "num_reviews": 3042
         },
         "2145": {
             "name": "Monoprice Cat5e 14ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -10150,7 +10150,7 @@
             "product_id": 2161,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3041
+            "num_reviews": 3042
         },
         "21612": {
             "name": "Blackbird 4K Pro 1x2 Ultra Slim HDMI Splitter HDR 18Gbps 4K@60Hz YCbCr 4:4:4 HDCP 2.2",
@@ -10204,7 +10204,7 @@
             "product_id": 2163,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3041
+            "num_reviews": 3042
         },
         "2164": {
             "name": "Monoprice Cat5e 100ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -11309,15 +11309,6 @@
             "price": 11.49,
             "url": "https://www.monoprice.com/product?p_id=2388",
             "product_id": 2388,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 97
-        },
-        "2389": {
-            "name": "Monoprice Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, Crossover, 24AWG, 100ft, Gray",
-            "price": 11.99,
-            "url": "https://www.monoprice.com/product?p_id=2389",
-            "product_id": 2389,
             "available": false,
             "rating": 4.9,
             "num_reviews": 97
@@ -17242,7 +17233,7 @@
             "product_id": 3363,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3041
+            "num_reviews": 3042
         },
         "33635": {
             "name": "Monoprice Heavy Duty Extension Cord - IEC 60320 C20 to IEC 60320 C19, 12AWG, 20A/2500W, SJT, 250V, Blue, 6ft",
@@ -17458,7 +17449,7 @@
             "product_id": 3370,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 3041
+            "num_reviews": 3042
         },
         "33700": {
             "name": "Monoprice Replacement Throat/Filament Pass for the MP Mini Delta 3D Printer (21666)",
@@ -17719,7 +17710,7 @@
             "product_id": 3381,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3041
+            "num_reviews": 3042
         },
         "33810": {
             "name": "Workstream by Monoprice Brushed Aluminum Desk Headphone Stand",
@@ -18142,7 +18133,7 @@
             "product_id": 3392,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3041
+            "num_reviews": 3042
         },
         "3395": {
             "name": "Monoprice S/PDIF (Toslink) Digital Optical Audio Cable, 18in",
@@ -36122,7 +36113,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=4794",
             "product_id": 4794,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 423
         },
@@ -36358,7 +36349,7 @@
             "product_id": 4974,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3041
+            "num_reviews": 3042
         },
         "4975": {
             "name": "Monoprice Cat5e 6in Blue Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -36367,7 +36358,7 @@
             "product_id": 4975,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3041
+            "num_reviews": 3042
         },
         "4984": {
             "name": "Monoprice Cat5e 20ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -36376,22 +36367,13 @@
             "product_id": 4984,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3041
+            "num_reviews": 3042
         },
         "4985": {
             "name": "Monoprice Cat5e 20ft Blue Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 5.49,
             "url": "https://www.monoprice.com/product?p_id=4985",
             "product_id": 4985,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 3041
-        },
-        "4986": {
-            "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 20ft, Green",
-            "price": 1.19,
-            "url": "https://www.monoprice.com/product?p_id=4986",
-            "product_id": 4986,
             "available": false,
             "rating": 4.9,
             "num_reviews": 3041
@@ -42739,7 +42721,7 @@
             "product_id": 9436,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 2004
+            "num_reviews": 2005
         },
         "9437": {
             "name": "Monoprice 5 PAIRS OF High-Quality Gold Plated Speaker Banana Plugs, Open Screw Type",
@@ -43749,15 +43731,6 @@
             "rating": 4.9,
             "num_reviews": 1467
         },
-        "9860": {
-            "name": "Monoprice FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 100ft, Yellow",
-            "price": 11.99,
-            "url": "https://www.monoprice.com/product?p_id=9860",
-            "product_id": 9860,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 1467
-        },
         "9861": {
             "name": "Monoprice Cat6 3ft Orange Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
             "price": 1.49,
@@ -43941,6 +43914,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-26T14:54:32Z"
+        "timestamp": "2023-05-26T15:06:08Z"
     }
 }
