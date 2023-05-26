@@ -21904,7 +21904,7 @@
             "product_id": 37920,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 75
+            "num_reviews": 76
         },
         "37921": {
             "name": "Monoprice Braided DisplayPort 1.4 Cable, 10ft, Gray",
@@ -23686,7 +23686,7 @@
             "product_id": 38820,
             "available": false,
             "rating": 4.5,
-            "num_reviews": 86
+            "num_reviews": 87
         },
         "38821": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 6ft, Red",
@@ -24208,7 +24208,7 @@
             "product_id": 38909,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 78
+            "num_reviews": 79
         },
         "38910": {
             "name": "Monoprice Palette Series USB 2.0 Type-C to Type-A Charge and Sync Nylon-Braid Cable, 10ft, Red",
@@ -43905,6 +43905,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-26T21:05:51Z"
+        "timestamp": "2023-05-26T21:19:36Z"
     }
 }
