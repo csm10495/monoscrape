@@ -9673,7 +9673,7 @@
             "product_id": 2127,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3041
+            "num_reviews": 3042
         },
         "2128": {
             "name": "Monoprice Cat5e 1ft Red Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -9788,7 +9788,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=2143",
             "product_id": 2143,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3041
         },
@@ -10015,7 +10015,7 @@
             "product_id": 2157,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3041
+            "num_reviews": 3042
         },
         "2158": {
             "name": "Monoprice Cat5e 50ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -11318,7 +11318,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=2389",
             "product_id": 2389,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 97
         },
@@ -17638,7 +17638,7 @@
             "product_id": 3375,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3041
+            "num_reviews": 3042
         },
         "33750": {
             "name": "Monoprice Replacement Bed Leveling Screw for the MP Select Mini (15365 and 21711) and MP Select Mini PRO (33012) 3D Printers",
@@ -39767,7 +39767,7 @@
             "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=6971",
             "product_id": 6971,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 132
         },
@@ -40901,7 +40901,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=7670",
             "product_id": 7670,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 3
         },
@@ -41783,7 +41783,7 @@
             "price": 3.79,
             "url": "https://www.monoprice.com/product?p_id=8601",
             "product_id": 8601,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 496
         },
@@ -43268,7 +43268,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=9798",
             "product_id": 9798,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1467
         },
@@ -43950,6 +43950,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-26T13:54:32Z"
+        "timestamp": "2023-05-26T14:05:46Z"
     }
 }
