@@ -42217,7 +42217,7 @@
             "product_id": 877,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 162
+            "num_reviews": 196
         },
         "8770": {
             "name": "Monoprice 25ft 2-conductor NL4 Female to NL4 Female 12AWG Speaker Twist Connector Cable",
@@ -42262,7 +42262,7 @@
             "product_id": 878,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 162
+            "num_reviews": 196
         },
         "8780": {
             "name": "Monoprice 24in SATA 6Gbps Cable with Locking Latch (90 Degree to 180 Degree) - Black",
@@ -42379,7 +42379,7 @@
             "product_id": 880,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 162
+            "num_reviews": 196
         },
         "8858": {
             "name": "Monoprice Single Port 2.1A USB Car Charger",
@@ -43941,6 +43941,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-26T12:41:23Z"
+        "timestamp": "2023-05-26T12:57:40Z"
     }
 }
