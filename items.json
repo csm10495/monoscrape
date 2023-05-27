@@ -2394,6 +2394,15 @@
             "rating": 3.9,
             "num_reviews": 20
         },
+        "12572": {
+            "name": "Monoprice Split Plate with Flexible Opening, White",
+            "price": 5.49,
+            "url": "https://www.monoprice.com/product?p_id=12572",
+            "product_id": 12572,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 57
+        },
         "12573": {
             "name": "Monoprice Split Plate with Flexible Opening, Lite Almond",
             "price": 4.11,
@@ -2430,6 +2439,33 @@
             "rating": 4.5,
             "num_reviews": 19
         },
+        "12586": {
+            "name": "Monoprice Cable Plate with Flexible Opening, 1-Gang, Ivory",
+            "price": 5.49,
+            "url": "https://www.monoprice.com/product?p_id=12586",
+            "product_id": 12586,
+            "available": true,
+            "rating": 4.5,
+            "num_reviews": 19
+        },
+        "12592": {
+            "name": "Monoprice Recessed Low Voltage Mid-Size Plate with Duplex Receptacle, White",
+            "price": 25.99,
+            "url": "https://www.monoprice.com/product?p_id=12592",
+            "product_id": 12592,
+            "available": true,
+            "rating": 4.4,
+            "num_reviews": 9
+        },
+        "12595": {
+            "name": "Monoprice Expandable Media Box with Duplex Receptacle, White",
+            "price": 41.99,
+            "url": "https://www.monoprice.com/product?p_id=12595",
+            "product_id": 12595,
+            "available": true,
+            "rating": 4.3,
+            "num_reviews": 4
+        },
         "126": {
             "name": "Monoprice RCA Coaxial Composite Video and Stereo Audio Cable, 25ft",
             "price": 12.49,
@@ -2438,6 +2474,537 @@
             "available": true,
             "rating": 4.8,
             "num_reviews": 386
+        },
+        "12627": {
+            "name": "Monoprice USB 3.0 to VGA Adapter",
+            "price": 19.58,
+            "url": "https://www.monoprice.com/product?p_id=12627",
+            "product_id": 12627,
+            "available": true,
+            "rating": 3.2,
+            "num_reviews": 16
+        },
+        "12678": {
+            "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam, 8 x 7 x 4 in",
+            "price": 22.49,
+            "url": "https://www.monoprice.com/product?p_id=12678",
+            "product_id": 12678,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 6
+        },
+        "12679": {
+            "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam, 8 x 7 x 6 in",
+            "price": 24.99,
+            "url": "https://www.monoprice.com/product?p_id=12679",
+            "product_id": 12679,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 12
+        },
+        "12680": {
+            "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam, 10 x 8 x 4 in",
+            "price": 29.99,
+            "url": "https://www.monoprice.com/product?p_id=12680",
+            "product_id": 12680,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 18
+        },
+        "12681": {
+            "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam, Fits HUBSAN Quadcopter Drones, 11 x 8 x 5 in Internal Dimensions",
+            "price": 39.99,
+            "url": "https://www.monoprice.com/product?p_id=12681",
+            "product_id": 12681,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 41
+        },
+        "12682": {
+            "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam, 11 x 8 x 7 in Internal Dimensions",
+            "price": 69.99,
+            "url": "https://www.monoprice.com/product?p_id=12682",
+            "product_id": 12682,
+            "available": true,
+            "rating": 4.5,
+            "num_reviews": 16
+        },
+        "12683": {
+            "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam, 12 x 9 x 5 in Internal Dimensions",
+            "price": 59.99,
+            "url": "https://www.monoprice.com/product?p_id=12683",
+            "product_id": 12683,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 24
+        },
+        "12684": {
+            "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam, 13 x 14 x 7 in Internal Dimensions",
+            "price": 69.99,
+            "url": "https://www.monoprice.com/product?p_id=12684",
+            "product_id": 12684,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 21
+        },
+        "12719": {
+            "name": "Monoprice 1080i Standard HDMI Cable 25ft - CMP Rated 4.95Gbps Black (Commercial Series)",
+            "price": 119.99,
+            "url": "https://www.monoprice.com/product?p_id=12719",
+            "product_id": 12719,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "12732": {
+            "name": "Monoprice Cat6 1000ft Black Outdoor Bulk Cable, Solid (w/spine), Watertap Direct Burial, UTP, 23AWG, 550MHz, Pure Bare Copper, Spool, No Logo, Bulk Ethernet Cable",
+            "price": 251.99,
+            "url": "https://www.monoprice.com/product?p_id=12732",
+            "product_id": 12732,
+            "available": false,
+            "rating": 3.9,
+            "num_reviews": 7
+        },
+        "12735": {
+            "name": "Monoprice 4K High Speed HDMI Cable 25ft - CL2 In Wall Rated 18Gbps Active Black",
+            "price": 36.99,
+            "url": "https://www.monoprice.com/product?p_id=12735",
+            "product_id": 12735,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 425
+        },
+        "12736": {
+            "name": "Monoprice 4K High Speed HDMI Cable 35ft - CL2 In Wall Rated 18Gbps Active Black",
+            "price": 46.99,
+            "url": "https://www.monoprice.com/product?p_id=12736",
+            "product_id": 12736,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 425
+        },
+        "12737": {
+            "name": "Monoprice 4K High Speed HDMI Cable 45ft - CL2 In Wall Rated 18Gbps Active Black",
+            "price": 48.44,
+            "url": "https://www.monoprice.com/product?p_id=12737",
+            "product_id": 12737,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 425
+        },
+        "12738": {
+            "name": "Monoprice 4K High Speed HDMI Cable 60ft - CL2 In Wall Rated 18Gbps Active Black",
+            "price": 61.19,
+            "url": "https://www.monoprice.com/product?p_id=12738",
+            "product_id": 12738,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 425
+        },
+        "12739": {
+            "name": "Monoprice 4K High Speed HDMI Cable 75ft - CL2 In Wall Rated 18Gbps Active Black",
+            "price": 73.94,
+            "url": "https://www.monoprice.com/product?p_id=12739",
+            "product_id": 12739,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 425
+        },
+        "12740": {
+            "name": "Monoprice 4K High Speed HDMI Cable 100ft - CL2 In Wall Rated 18Gbps Active Black",
+            "price": 95.19,
+            "url": "https://www.monoprice.com/product?p_id=12740",
+            "product_id": 12740,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 425
+        },
+        "12741": {
+            "name": "Monoprice Mini DisplayPort 1.1 to DVI Adapter, Black",
+            "price": 8.49,
+            "url": "https://www.monoprice.com/product?p_id=12741",
+            "product_id": 12741,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 21
+        },
+        "12742": {
+            "name": "Monoprice Mini DisplayPort 1.1 to HDMI Adapter with Audio Support, Black",
+            "price": 8.99,
+            "url": "https://www.monoprice.com/product?p_id=12742",
+            "product_id": 12742,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 104
+        },
+        "12743": {
+            "name": "Monoprice Mini DisplayPort 1.1 to VGA Adapter, Black",
+            "price": 10.49,
+            "url": "https://www.monoprice.com/product?p_id=12743",
+            "product_id": 12743,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 11
+        },
+        "12744": {
+            "name": "Monoprice Mini DisplayPort 1.1 to HDMI, DVI, and DisplayPort Adapter, Black",
+            "price": 10.11,
+            "url": "https://www.monoprice.com/product?p_id=12744",
+            "product_id": 12744,
+            "available": true,
+            "rating": 4.2,
+            "num_reviews": 18
+        },
+        "12756": {
+            "name": "Monoprice Cat5e 1000ft Black CMR UL Bulk Cable, UTP, Solid, 24AWG, 350MHz, Pure Bare Copper, Reel in Box, No Logo, Bulk Ethernet Cable",
+            "price": 119.99,
+            "url": "https://www.monoprice.com/product?p_id=12756",
+            "product_id": 12756,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 5
+        },
+        "12757": {
+            "name": "Monoprice Cat5e 1000ft Blue CMR UL Bulk Cable, UTP, Solid, 24AWG, 350MHz, Pure Bare Copper, Reel in Box, No Logo, Bulk Ethernet Cable",
+            "price": 119.99,
+            "url": "https://www.monoprice.com/product?p_id=12757",
+            "product_id": 12757,
+            "available": false,
+            "rating": 4.8,
+            "num_reviews": 5
+        },
+        "12759": {
+            "name": "Monoprice Cat5e 1000ft Green CMR UL Bulk Cable, UTP, Solid, 24AWG, 350MHz, Pure Bare Copper, Reel in Box, No Logo, Bulk Ethernet Cable",
+            "price": 119.99,
+            "url": "https://www.monoprice.com/product?p_id=12759",
+            "product_id": 12759,
+            "available": false,
+            "rating": 4.8,
+            "num_reviews": 5
+        },
+        "12761": {
+            "name": "Monoprice Cat5e 1000ft Purple CMR UL Bulk Cable, UTP, Solid, 24AWG, 350MHz, Pure Bare Copper, Reel in Box, No Logo, Bulk Ethernet Cable",
+            "price": 119.99,
+            "url": "https://www.monoprice.com/product?p_id=12761",
+            "product_id": 12761,
+            "available": false,
+            "rating": 4.8,
+            "num_reviews": 5
+        },
+        "12763": {
+            "name": "Monoprice Cat5e 1000ft White CMR UL Bulk Cable, UTP, Solid, 24AWG, 350MHz, Pure Bare Copper, Reel in Box, No Logo, Bulk Ethernet Cable",
+            "price": 119.99,
+            "url": "https://www.monoprice.com/product?p_id=12763",
+            "product_id": 12763,
+            "available": false,
+            "rating": 4.8,
+            "num_reviews": 5
+        },
+        "12781": {
+            "name": "Monoprice DisplayPort 1.2a to 4K HDMI Active Adapter, Black",
+            "price": 9.99,
+            "url": "https://www.monoprice.com/product?p_id=12781",
+            "product_id": 12781,
+            "available": true,
+            "rating": 4.3,
+            "num_reviews": 90
+        },
+        "12784": {
+            "name": "Monoprice DisplayPort 1.2a to DVI Active Adapter, Black",
+            "price": 13.49,
+            "url": "https://www.monoprice.com/product?p_id=12784",
+            "product_id": 12784,
+            "available": true,
+            "rating": 3.9,
+            "num_reviews": 78
+        },
+        "12785": {
+            "name": "Monoprice Mini DisplayPort 1.2a / Thunderbolt to VGA Active Adapter, White",
+            "price": 10.39,
+            "url": "https://www.monoprice.com/product?p_id=12785",
+            "product_id": 12785,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 28
+        },
+        "12786": {
+            "name": "Monoprice Mini DisplayPort 1.2a / Thunderbolt to VGA Active Adapter, Black",
+            "price": 17.99,
+            "url": "https://www.monoprice.com/product?p_id=12786",
+            "product_id": 12786,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 28
+        },
+        "12789": {
+            "name": "Monoprice DisplayPort 1.2a to VGA Active Adapter, White",
+            "price": 12.49,
+            "url": "https://www.monoprice.com/product?p_id=12789",
+            "product_id": 12789,
+            "available": true,
+            "rating": 4.4,
+            "num_reviews": 21
+        },
+        "12790": {
+            "name": "Monoprice DisplayPort 1.2a to VGA Active Adapter, Black",
+            "price": 12.59,
+            "url": "https://www.monoprice.com/product?p_id=12790",
+            "product_id": 12790,
+            "available": true,
+            "rating": 4.4,
+            "num_reviews": 22
+        },
+        "12795": {
+            "name": "Monoprice Mini DisplayPort 1.2a / Thunderbolt to 4K HDMI Passive Adapter, Black",
+            "price": 11.04,
+            "url": "https://www.monoprice.com/product?p_id=12795",
+            "product_id": 12795,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 61
+        },
+        "12799": {
+            "name": "Monoprice Mini DisplayPort 1.2a / Thunderbolt to 4K HDMI, DVI, and VGA Passive Adapter, Black",
+            "price": 5.98,
+            "url": "https://www.monoprice.com/product?p_id=12799",
+            "product_id": 12799,
+            "available": true,
+            "rating": 4.4,
+            "num_reviews": 56
+        },
+        "12800": {
+            "name": "Monoprice DisplayPort 1.2a to 4K HDMI, Dual Link DVI, and VGA Passive Adapter, White",
+            "price": 14.49,
+            "url": "https://www.monoprice.com/product?p_id=12800",
+            "product_id": 12800,
+            "available": false,
+            "rating": 3.2,
+            "num_reviews": 19
+        },
+        "12802": {
+            "name": "Monoprice DisplayPort 1.2a to 4K HDMI, Dual Link DVI, and VGA Passive Adapter, Black",
+            "price": 17.42,
+            "url": "https://www.monoprice.com/product?p_id=12802",
+            "product_id": 12802,
+            "available": true,
+            "rating": 3.2,
+            "num_reviews": 19
+        },
+        "12806": {
+            "name": "Monoprice Cat5e 1000ft Black CMP UL Bulk Cable, TAA, UTP, Solid, 24AWG, 350MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
+            "price": 199.99,
+            "url": "https://www.monoprice.com/product?p_id=12806",
+            "product_id": 12806,
+            "available": false,
+            "rating": 4.5,
+            "num_reviews": 8
+        },
+        "12807": {
+            "name": "Monoprice Cat6 1000ft Black CMP UL Bulk Cable, TAA, Solid (w/spine), UTP, 23AWG, 550MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
+            "price": 299.99,
+            "url": "https://www.monoprice.com/product?p_id=12807",
+            "product_id": 12807,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 15
+        },
+        "12836": {
+            "name": "Monoprice Select Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 6in White",
+            "price": 7.19,
+            "url": "https://www.monoprice.com/product?p_id=12836",
+            "product_id": 12836,
+            "available": true,
+            "rating": 4.3,
+            "num_reviews": 2056
+        },
+        "12839": {
+            "name": "Monoprice Select Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 6ft Black",
+            "price": 8.99,
+            "url": "https://www.monoprice.com/product?p_id=12839",
+            "product_id": 12839,
+            "available": true,
+            "rating": 4.3,
+            "num_reviews": 2056
+        },
+        "12840": {
+            "name": "Monoprice Select Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 6ft White",
+            "price": 9.99,
+            "url": "https://www.monoprice.com/product?p_id=12840",
+            "product_id": 12840,
+            "available": true,
+            "rating": 4.3,
+            "num_reviews": 2056
+        },
+        "12841": {
+            "name": "Monoprice Select Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 10ft Black",
+            "price": 9.99,
+            "url": "https://www.monoprice.com/product?p_id=12841",
+            "product_id": 12841,
+            "available": false,
+            "rating": 4.3,
+            "num_reviews": 2056
+        },
+        "12842": {
+            "name": "Monoprice Select Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 10ft White",
+            "price": 9.49,
+            "url": "https://www.monoprice.com/product?p_id=12842",
+            "product_id": 12842,
+            "available": true,
+            "rating": 4.3,
+            "num_reviews": 2056
+        },
+        "12843": {
+            "name": "Monoprice Select Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 3ft Black",
+            "price": 8.39,
+            "url": "https://www.monoprice.com/product?p_id=12843",
+            "product_id": 12843,
+            "available": true,
+            "rating": 4.3,
+            "num_reviews": 2056
+        },
+        "12844": {
+            "name": "Monoprice Select Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 3ft White",
+            "price": 5.99,
+            "url": "https://www.monoprice.com/product?p_id=12844",
+            "product_id": 12844,
+            "available": true,
+            "rating": 4.3,
+            "num_reviews": 2056
+        },
+        "12854": {
+            "name": "Monoprice Fiber Optic Cable, LC/LC Mini, Multi Mode, Duplex - 10 Meter, OM3 - Aqua",
+            "price": 65,
+            "url": "https://www.monoprice.com/product?p_id=12854",
+            "product_id": 12854,
+            "available": false,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "12856": {
+            "name": "Monoprice Cabernet Series Apple MFi Certified Flat Lightning to USB Charge and Sync Cable, 6in White",
+            "price": 6.35,
+            "url": "https://www.monoprice.com/product?p_id=12856",
+            "product_id": 12856,
+            "available": true,
+            "rating": 4.5,
+            "num_reviews": 360
+        },
+        "12857": {
+            "name": "Monoprice Cabernet Series Apple MFi Certified Flat Lightning to USB Charge and Sync Cable, 3ft Black",
+            "price": 8.99,
+            "url": "https://www.monoprice.com/product?p_id=12857",
+            "product_id": 12857,
+            "available": false,
+            "rating": 4.5,
+            "num_reviews": 359
+        },
+        "12858": {
+            "name": "Monoprice Cabernet Series Apple MFi Certified Flat Lightning to USB Charge and Sync Cable, 3ft White",
+            "price": 6.74,
+            "url": "https://www.monoprice.com/product?p_id=12858",
+            "product_id": 12858,
+            "available": true,
+            "rating": 4.5,
+            "num_reviews": 360
+        },
+        "12859": {
+            "name": "Monoprice Cabernet Series Apple MFi Certified Flat Lightning to USB Charge and Sync Cable, 4ft Black",
+            "price": 9.99,
+            "url": "https://www.monoprice.com/product?p_id=12859",
+            "product_id": 12859,
+            "available": true,
+            "rating": 4.5,
+            "num_reviews": 359
+        },
+        "12880": {
+            "name": "Monoprice Select Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 4ft Blue",
+            "price": 8.39,
+            "url": "https://www.monoprice.com/product?p_id=12880",
+            "product_id": 12880,
+            "available": false,
+            "rating": 4.3,
+            "num_reviews": 2056
+        },
+        "12909": {
+            "name": "Monoprice Select Series USB-C to Gigabit Ethernet Adapter",
+            "price": 13.99,
+            "url": "https://www.monoprice.com/product?p_id=12909",
+            "product_id": 12909,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 77
+        },
+        "12955": {
+            "name": "Monoprice Cabernet Series Apple MFi Certified Flat Lightning to USB Charge and Sync Cable, 3ft Gray",
+            "price": 3.59,
+            "url": "https://www.monoprice.com/product?p_id=12955",
+            "product_id": 12955,
+            "available": true,
+            "rating": 4.5,
+            "num_reviews": 360
+        },
+        "12958": {
+            "name": "Monoprice Cabernet Series Apple MFi Certified Flat Lightning to USB Charge and Sync Cable, 4ft Gray",
+            "price": 13.99,
+            "url": "https://www.monoprice.com/product?p_id=12958",
+            "product_id": 12958,
+            "available": true,
+            "rating": 4.5,
+            "num_reviews": 360
+        },
+        "12959": {
+            "name": "Monoprice 4K High Speed HDMI Cable 30ft - CL2 In Wall Rated 18Gbps Active Black",
+            "price": 35.68,
+            "url": "https://www.monoprice.com/product?p_id=12959",
+            "product_id": 12959,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 425
+        },
+        "12961": {
+            "name": "Monoprice 4K High Speed HDMI Cable 40ft - CL2 In Wall Rated 18Gbps Active Black",
+            "price": 51.99,
+            "url": "https://www.monoprice.com/product?p_id=12961",
+            "product_id": 12961,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 425
+        },
+        "12962": {
+            "name": "Monoprice 4K High Speed HDMI Cable 50ft - CL2 In Wall Rated 18Gbps Active Black",
+            "price": 39.99,
+            "url": "https://www.monoprice.com/product?p_id=12962",
+            "product_id": 12962,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 425
+        },
+        "12986": {
+            "name": "Monoprice Commercial Series Full-Motion Articulating TV Wall Mount Bracket For LED TVs 60in to 100in, Max Weight 176lbs, Extends from 2.8in to 24.6in, VESA Up to 900x600, Concrete \u0026 Brick, No Logo",
+            "price": 99.99,
+            "url": "https://www.monoprice.com/product?p_id=12986",
+            "product_id": 12986,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 470
+        },
+        "12987": {
+            "name": "Monoprice Commercial Series Tilt TV Wall Mount Bracket For TVs 60in to 100in, Max Weight 220 lbs., VESA Patterns Up to 1000x800, Works with Concrete and Brick, UL Certified, NO LOGO",
+            "price": 59.99,
+            "url": "https://www.monoprice.com/product?p_id=12987",
+            "product_id": 12987,
+            "available": false,
+            "rating": 4.8,
+            "num_reviews": 50
+        },
+        "12994": {
+            "name": "Monoprice Commercial Series Extra Wide Tilt TV Wall Mount Bracket for LED TVs 60in to 100in, Max Weight 220 lbs., VESA Patterns Up to 1000x800, Works with Concrete \u0026 Brick, UL Certified",
+            "price": 59.99,
+            "url": "https://www.monoprice.com/product?p_id=12994",
+            "product_id": 12994,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 50
         },
         "1302": {
             "name": "Monoprice Desktop Computer Power Cord - IEC 60320 C14 to NEMA 5-15R, 18AWG, 10A/1250W, SVT, 125V, Black, 1ft",
@@ -2457,6 +3024,60 @@
             "rating": 5,
             "num_reviews": 42
         },
+        "13071": {
+            "name": "Monoprice Cat6A 1000ft Blue CMR Bulk Cable, Solid, UTP, 23AWG, 550MHz, 10G, Pure Bare Copper, No Logo, Spool in Box, Bulk Ethernet Cable",
+            "price": 209.99,
+            "url": "https://www.monoprice.com/product?p_id=13071",
+            "product_id": 13071,
+            "available": true,
+            "rating": 4.5,
+            "num_reviews": 11
+        },
+        "13072": {
+            "name": "Monoprice Cat6A 1000ft Blue CMR UL Bulk Cable, TAA, Shielded (F/UTP), Solid, 23AWG, 550MHz, 10G, Pure Bare Copper, Spool in Box, Bulk Ethernet Cable",
+            "price": 259.99,
+            "url": "https://www.monoprice.com/product?p_id=13072",
+            "product_id": 13072,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 31
+        },
+        "13089": {
+            "name": "Monoprice Cat5e 6in Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 0.79,
+            "url": "https://www.monoprice.com/product?p_id=13089",
+            "product_id": 13089,
+            "available": false,
+            "rating": 4.9,
+            "num_reviews": 127
+        },
+        "13090": {
+            "name": "Monoprice Cat5e 6in Blue Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 0.79,
+            "url": "https://www.monoprice.com/product?p_id=13090",
+            "product_id": 13090,
+            "available": false,
+            "rating": 4.9,
+            "num_reviews": 127
+        },
+        "13095": {
+            "name": "Monoprice ZEROboot Cat5e Ethernet Patch Cable - RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 0.5ft, Red",
+            "price": 0.99,
+            "url": "https://www.monoprice.com/product?p_id=13095",
+            "product_id": 13095,
+            "available": false,
+            "rating": 4.9,
+            "num_reviews": 127
+        },
+        "13098": {
+            "name": "Monoprice Cat5e 1ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 1.09,
+            "url": "https://www.monoprice.com/product?p_id=13098",
+            "product_id": 13098,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 127
+        },
         "1310": {
             "name": "Monoprice Power Cord - JIS 8303 (Japan) to IEC 60320 C13, 18AWG, Black, 6ft",
             "price": 6.99,
@@ -2465,6 +3086,114 @@
             "available": false,
             "rating": 5,
             "num_reviews": 2
+        },
+        "13103": {
+            "name": "Monoprice ZEROboot Cat5e Ethernet Patch Cable - RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 1ft, White",
+            "price": 1.09,
+            "url": "https://www.monoprice.com/product?p_id=13103",
+            "product_id": 13103,
+            "available": false,
+            "rating": 4.9,
+            "num_reviews": 127
+        },
+        "13104": {
+            "name": "Monoprice Cat5e 2ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 1.29,
+            "url": "https://www.monoprice.com/product?p_id=13104",
+            "product_id": 13104,
+            "available": false,
+            "rating": 4.9,
+            "num_reviews": 127
+        },
+        "13105": {
+            "name": "Monoprice Cat5 2ft Blue Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 1.29,
+            "url": "https://www.monoprice.com/product?p_id=13105",
+            "product_id": 13105,
+            "available": false,
+            "rating": 4.9,
+            "num_reviews": 127
+        },
+        "13106": {
+            "name": "Monoprice ZEROboot Cat5e Ethernet Patch Cable - RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 2ft, Green",
+            "price": 1.29,
+            "url": "https://www.monoprice.com/product?p_id=13106",
+            "product_id": 13106,
+            "available": false,
+            "rating": 4.9,
+            "num_reviews": 127
+        },
+        "13112": {
+            "name": "Monoprice Cat5e 3ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 1.49,
+            "url": "https://www.monoprice.com/product?p_id=13112",
+            "product_id": 13112,
+            "available": false,
+            "rating": 4.9,
+            "num_reviews": 127
+        },
+        "13113": {
+            "name": "Monoprice Cat5e 3ft Blue Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 1.49,
+            "url": "https://www.monoprice.com/product?p_id=13113",
+            "product_id": 13113,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 127
+        },
+        "13119": {
+            "name": "Monoprice Cat5e 3ft White Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 1.49,
+            "url": "https://www.monoprice.com/product?p_id=13119",
+            "product_id": 13119,
+            "available": false,
+            "rating": 4.9,
+            "num_reviews": 127
+        },
+        "13120": {
+            "name": "Monoprice Cat5e 3ft Yellow Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 1.26,
+            "url": "https://www.monoprice.com/product?p_id=13120",
+            "product_id": 13120,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 127
+        },
+        "13121": {
+            "name": "Monoprice Cat5e 5ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 1.99,
+            "url": "https://www.monoprice.com/product?p_id=13121",
+            "product_id": 13121,
+            "available": false,
+            "rating": 4.9,
+            "num_reviews": 127
+        },
+        "13122": {
+            "name": "Monoprice Cat5e 5ft Blue Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 1.99,
+            "url": "https://www.monoprice.com/product?p_id=13122",
+            "product_id": 13122,
+            "available": false,
+            "rating": 4.9,
+            "num_reviews": 127
+        },
+        "13127": {
+            "name": "Monoprice Cat5e 7ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 2.29,
+            "url": "https://www.monoprice.com/product?p_id=13127",
+            "product_id": 13127,
+            "available": false,
+            "rating": 4.9,
+            "num_reviews": 127
+        },
+        "13128": {
+            "name": "Monoprice Cat5e 7ft Blue Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 2.29,
+            "url": "https://www.monoprice.com/product?p_id=13128",
+            "product_id": 13128,
+            "available": false,
+            "rating": 4.9,
+            "num_reviews": 127
         },
         "1313": {
             "name": "Monoprice Molex Power Splitter Cable, 1x 5.25in Male to 2x 5.25in Female, 8in",
@@ -2475,6 +3204,24 @@
             "rating": 4.9,
             "num_reviews": 30
         },
+        "13135": {
+            "name": "Monoprice Cat5e 10ft Blue Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 2.99,
+            "url": "https://www.monoprice.com/product?p_id=13135",
+            "product_id": 13135,
+            "available": false,
+            "rating": 4.9,
+            "num_reviews": 127
+        },
+        "13140": {
+            "name": "Monoprice Cat5e 15ft Blue Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 4.49,
+            "url": "https://www.monoprice.com/product?p_id=13140",
+            "product_id": 13140,
+            "available": false,
+            "rating": 4.9,
+            "num_reviews": 127
+        },
         "1316": {
             "name": "Monoprice Molex Internal DC Power Extension Cable, 1x 5.25in Male to 1x 5.25in Female, 12in",
             "price": 1.18,
@@ -2483,6 +3230,51 @@
             "available": false,
             "rating": 4.7,
             "num_reviews": 20
+        },
+        "13173": {
+            "name": "Monoprice Cat5e 25ft Yellow Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 5.49,
+            "url": "https://www.monoprice.com/product?p_id=13173",
+            "product_id": 13173,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 127
+        },
+        "13174": {
+            "name": "Monoprice Cat5e 50ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 10.99,
+            "url": "https://www.monoprice.com/product?p_id=13174",
+            "product_id": 13174,
+            "available": false,
+            "rating": 4.9,
+            "num_reviews": 127
+        },
+        "13179": {
+            "name": "Monoprice ZEROboot Cat5e Ethernet Patch Cable - RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 50ft, White",
+            "price": 8.24,
+            "url": "https://www.monoprice.com/product?p_id=13179",
+            "product_id": 13179,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 127
+        },
+        "13191": {
+            "name": "Monoprice Hi-Fi Lightweight On-Ear Headphones",
+            "price": 15.99,
+            "url": "https://www.monoprice.com/product?p_id=13191",
+            "product_id": 13191,
+            "available": true,
+            "rating": 4.5,
+            "num_reviews": 367
+        },
+        "13193": {
+            "name": "Monoprice Commercial Audio 2-Way Omni-Directional Garden Speaker (NO LOGO)",
+            "price": 89.99,
+            "url": "https://www.monoprice.com/product?p_id=13193",
+            "product_id": 13193,
+            "available": false,
+            "rating": 4.6,
+            "num_reviews": 10
         },
         "132": {
             "name": "Monoprice Cat5e 3ft Gray Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -2493,6 +3285,312 @@
             "rating": 4.9,
             "num_reviews": 3042
         },
+        "13207": {
+            "name": "Monoprice PC Case with Soft Sand Finish for Samsung Galaxy S6, Pumice Black",
+            "price": 7,
+            "url": "https://www.monoprice.com/product?p_id=13207",
+            "product_id": 13207,
+            "available": true,
+            "rating": 4.4,
+            "num_reviews": 8
+        },
+        "13218": {
+            "name": "Monoprice Cat6 6in Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 1.29,
+            "url": "https://www.monoprice.com/product?p_id=13218",
+            "product_id": 13218,
+            "available": false,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13219": {
+            "name": "Monoprice Cat6 6in Black Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 1.29,
+            "url": "https://www.monoprice.com/product?p_id=13219",
+            "product_id": 13219,
+            "available": false,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13234": {
+            "name": "Monoprice Select Series USB-C to DisplayPort Adapter",
+            "price": 15.74,
+            "url": "https://www.monoprice.com/product?p_id=13234",
+            "product_id": 13234,
+            "available": true,
+            "rating": 4.5,
+            "num_reviews": 51
+        },
+        "13235": {
+            "name": "Monoprice Select Series USB-C to HDMI Adapter",
+            "price": 17.99,
+            "url": "https://www.monoprice.com/product?p_id=13235",
+            "product_id": 13235,
+            "available": true,
+            "rating": 4.3,
+            "num_reviews": 72
+        },
+        "13236": {
+            "name": "Monoprice Cat6 1ft Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 1.29,
+            "url": "https://www.monoprice.com/product?p_id=13236",
+            "product_id": 13236,
+            "available": false,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13237": {
+            "name": "Monoprice Cat6 1ft Gray Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 1.49,
+            "url": "https://www.monoprice.com/product?p_id=13237",
+            "product_id": 13237,
+            "available": false,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13238": {
+            "name": "Monoprice Cat6 1ft Green Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 1.49,
+            "url": "https://www.monoprice.com/product?p_id=13238",
+            "product_id": 13238,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13239": {
+            "name": "Monoprice Cat6 1ft Orange Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 1.49,
+            "url": "https://www.monoprice.com/product?p_id=13239",
+            "product_id": 13239,
+            "available": false,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13240": {
+            "name": "Monoprice Cat6 1ft Purple Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 1.49,
+            "url": "https://www.monoprice.com/product?p_id=13240",
+            "product_id": 13240,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13241": {
+            "name": "Monoprice Cat6 1ft Yellow Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 1.49,
+            "url": "https://www.monoprice.com/product?p_id=13241",
+            "product_id": 13241,
+            "available": false,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13242": {
+            "name": "Monoprice Cat6 2ft Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 1.79,
+            "url": "https://www.monoprice.com/product?p_id=13242",
+            "product_id": 13242,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13247": {
+            "name": "Monoprice Cat6 3ft Black Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 1.99,
+            "url": "https://www.monoprice.com/product?p_id=13247",
+            "product_id": 13247,
+            "available": false,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13248": {
+            "name": "Monoprice Cat6 3ft Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 1.99,
+            "url": "https://www.monoprice.com/product?p_id=13248",
+            "product_id": 13248,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13249": {
+            "name": "Monoprice Cat6 3ft Orange Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 1.99,
+            "url": "https://www.monoprice.com/product?p_id=13249",
+            "product_id": 13249,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13251": {
+            "name": "Monoprice Cat6 3ft Red Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 1.99,
+            "url": "https://www.monoprice.com/product?p_id=13251",
+            "product_id": 13251,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13252": {
+            "name": "Monoprice Cat6 3ft White Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 1.99,
+            "url": "https://www.monoprice.com/product?p_id=13252",
+            "product_id": 13252,
+            "available": false,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13253": {
+            "name": "Monoprice Cat6 3ft Yellow Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 1.99,
+            "url": "https://www.monoprice.com/product?p_id=13253",
+            "product_id": 13253,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13256": {
+            "name": "Monoprice Cat6 5ft Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 2.49,
+            "url": "https://www.monoprice.com/product?p_id=13256",
+            "product_id": 13256,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13258": {
+            "name": "Monoprice Cat6 5ft Green Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 2.49,
+            "url": "https://www.monoprice.com/product?p_id=13258",
+            "product_id": 13258,
+            "available": false,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13265": {
+            "name": "Monoprice Cat6 7ft White Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 2.99,
+            "url": "https://www.monoprice.com/product?p_id=13265",
+            "product_id": 13265,
+            "available": false,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13266": {
+            "name": "Monoprice Cat6 7ft Yellow Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 1.79,
+            "url": "https://www.monoprice.com/product?p_id=13266",
+            "product_id": 13266,
+            "available": false,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13267": {
+            "name": "Monoprice Cat6 7ft Gray Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 2.99,
+            "url": "https://www.monoprice.com/product?p_id=13267",
+            "product_id": 13267,
+            "available": false,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13268": {
+            "name": "Monoprice Cat6 10ft Gray Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 3.99,
+            "url": "https://www.monoprice.com/product?p_id=13268",
+            "product_id": 13268,
+            "available": false,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13273": {
+            "name": "Monoprice Cat6 10ft White Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 3.99,
+            "url": "https://www.monoprice.com/product?p_id=13273",
+            "product_id": 13273,
+            "available": false,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13275": {
+            "name": "Monoprice Cat6 15ft Gray Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 4.99,
+            "url": "https://www.monoprice.com/product?p_id=13275",
+            "product_id": 13275,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13276": {
+            "name": "Monoprice Cat6 15ft Green Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 4.99,
+            "url": "https://www.monoprice.com/product?p_id=13276",
+            "product_id": 13276,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13280": {
+            "name": "Monoprice ZEROboot Cat6 Ethernet Patch Cable - RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 15ft, Yellow",
+            "price": 3.09,
+            "url": "https://www.monoprice.com/product?p_id=13280",
+            "product_id": 13280,
+            "available": false,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13283": {
+            "name": "Monoprice Cat6 20ft Green Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 6.49,
+            "url": "https://www.monoprice.com/product?p_id=13283",
+            "product_id": 13283,
+            "available": false,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13288": {
+            "name": "Monoprice Cat6 25ft Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 6.99,
+            "url": "https://www.monoprice.com/product?p_id=13288",
+            "product_id": 13288,
+            "available": false,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13291": {
+            "name": "Monoprice ZEROboot Cat6 Ethernet Patch Cable - RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 25ft, Purple",
+            "price": 6.49,
+            "url": "https://www.monoprice.com/product?p_id=13291",
+            "product_id": 13291,
+            "available": false,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13293": {
+            "name": "Monoprice Cat6 25ft White Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 6.99,
+            "url": "https://www.monoprice.com/product?p_id=13293",
+            "product_id": 13293,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13297": {
+            "name": "Monoprice Cat6 50ft Gray Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 14.99,
+            "url": "https://www.monoprice.com/product?p_id=13297",
+            "product_id": 13297,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13298": {
+            "name": "Monoprice ZEROboot Cat6 Ethernet Patch Cable - RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 50ft, Orange",
+            "price": 14.99,
+            "url": "https://www.monoprice.com/product?p_id=13298",
+            "product_id": 13298,
+            "available": false,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
         "133": {
             "name": "Monoprice Cat5e 3ft White Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 1.49,
@@ -2501,6 +3599,186 @@
             "available": true,
             "rating": 4.9,
             "num_reviews": 3042
+        },
+        "13300": {
+            "name": "Monoprice ZEROboot Cat6 Ethernet Patch Cable - RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 50ft, Yellow",
+            "price": 14.99,
+            "url": "https://www.monoprice.com/product?p_id=13300",
+            "product_id": 13300,
+            "available": false,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13342": {
+            "name": "Monoprice Toslink S/PDIF 1x2 Splitter",
+            "price": 15.99,
+            "url": "https://www.monoprice.com/product?p_id=13342",
+            "product_id": 13342,
+            "available": false,
+            "rating": 4.8,
+            "num_reviews": 13
+        },
+        "13347": {
+            "name": "Monoprice Blackbird 4K Series HDMI Audio Inserter",
+            "price": 47.98,
+            "url": "https://www.monoprice.com/product?p_id=13347",
+            "product_id": 13347,
+            "available": true,
+            "rating": 4.5,
+            "num_reviews": 24
+        },
+        "13348": {
+            "name": "Monoprice Blackbird 4K Series 7.1 HDMI Audio Extractor",
+            "price": 27.99,
+            "url": "https://www.monoprice.com/product?p_id=13348",
+            "product_id": 13348,
+            "available": true,
+            "rating": 3.6,
+            "num_reviews": 31
+        },
+        "13350": {
+            "name": "Monoprice VGA UTP Extender With Audio",
+            "price": 66.99,
+            "url": "https://www.monoprice.com/product?p_id=13350",
+            "product_id": 13350,
+            "available": false,
+            "rating": 4.3,
+            "num_reviews": 11
+        },
+        "13356": {
+            "name": "Monoprice RJR-2 Multizone RJ45 to RCA Converter",
+            "price": 59.99,
+            "url": "https://www.monoprice.com/product?p_id=13356",
+            "product_id": 13356,
+            "available": false,
+            "rating": 4.6,
+            "num_reviews": 7
+        },
+        "13358": {
+            "name": "Monoprice Multizone Source Keypad with Bluetooth Receiver",
+            "price": 39.99,
+            "url": "https://www.monoprice.com/product?p_id=13358",
+            "product_id": 13358,
+            "available": true,
+            "rating": 4.5,
+            "num_reviews": 10
+        },
+        "13359": {
+            "name": "Monoprice Select Series DisplayPort 1.2 Cable, 3ft",
+            "price": 6.29,
+            "url": "https://www.monoprice.com/product?p_id=13359",
+            "product_id": 13359,
+            "available": true,
+            "rating": 4.2,
+            "num_reviews": 238
+        },
+        "13360": {
+            "name": "Monoprice Select Series DisplayPort 1.2 Cable, 6ft",
+            "price": 7.99,
+            "url": "https://www.monoprice.com/product?p_id=13360",
+            "product_id": 13360,
+            "available": true,
+            "rating": 4.2,
+            "num_reviews": 238
+        },
+        "13361": {
+            "name": "Monoprice Select Series DisplayPort 1.2 Cable, 10ft",
+            "price": 8.99,
+            "url": "https://www.monoprice.com/product?p_id=13361",
+            "product_id": 13361,
+            "available": true,
+            "rating": 4.2,
+            "num_reviews": 238
+        },
+        "13362": {
+            "name": "Monoprice Select Series DisplayPort 1.2 Cable, 15ft",
+            "price": 11.99,
+            "url": "https://www.monoprice.com/product?p_id=13362",
+            "product_id": 13362,
+            "available": true,
+            "rating": 4.2,
+            "num_reviews": 238
+        },
+        "13363": {
+            "name": "Monoprice Select Series DisplayPort 1.2 Cable, 25ft",
+            "price": 15.99,
+            "url": "https://www.monoprice.com/product?p_id=13363",
+            "product_id": 13363,
+            "available": false,
+            "rating": 4.2,
+            "num_reviews": 238
+        },
+        "13364": {
+            "name": "Monoprice Select Series Mini DisplayPort 1.2 Cable, 3ft",
+            "price": 7.19,
+            "url": "https://www.monoprice.com/product?p_id=13364",
+            "product_id": 13364,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 21
+        },
+        "13365": {
+            "name": "Monoprice Select Series Mini DisplayPort 1.2 Cable, 6ft",
+            "price": 3.59,
+            "url": "https://www.monoprice.com/product?p_id=13365",
+            "product_id": 13365,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 21
+        },
+        "13368": {
+            "name": "Monoprice Select Series Mini DisplayPort to HDTV Cable, 3ft",
+            "price": 4.19,
+            "url": "https://www.monoprice.com/product?p_id=13368",
+            "product_id": 13368,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 89
+        },
+        "13369": {
+            "name": "Monoprice Select Series Mini DisplayPort to HDTV Cable, 6ft",
+            "price": 7.99,
+            "url": "https://www.monoprice.com/product?p_id=13369",
+            "product_id": 13369,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 87
+        },
+        "13370": {
+            "name": "Monoprice Select Series DisplayPort 1.2a to HDTV Cable, 3ft",
+            "price": 11.59,
+            "url": "https://www.monoprice.com/product?p_id=13370",
+            "product_id": 13370,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 84
+        },
+        "13371": {
+            "name": "Monoprice Select Series DisplayPort 1.2a to HDTV Cable, 6ft",
+            "price": 15.49,
+            "url": "https://www.monoprice.com/product?p_id=13371",
+            "product_id": 13371,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 84
+        },
+        "13372": {
+            "name": "Monoprice Select Series Mini DisplayPort 1.2 to DisplayPort 1.2 Cable, 3ft",
+            "price": 3.73,
+            "url": "https://www.monoprice.com/product?p_id=13372",
+            "product_id": 13372,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 109
+        },
+        "13373": {
+            "name": "Monoprice Select Series Mini DisplayPort 1.2 to DisplayPort 1.2 Cable, 6ft",
+            "price": 6.64,
+            "url": "https://www.monoprice.com/product?p_id=13373",
+            "product_id": 13373,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 109
         },
         "134": {
             "name": "Monoprice Cat5e 7ft Blue Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -2511,6 +3789,141 @@
             "rating": 4.9,
             "num_reviews": 3042
         },
+        "13401": {
+            "name": "Monoprice Cat6 1ft Black Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 1.49,
+            "url": "https://www.monoprice.com/product?p_id=13401",
+            "product_id": 13401,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13402": {
+            "name": "Monoprice Cat6 2ft Black Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 1.79,
+            "url": "https://www.monoprice.com/product?p_id=13402",
+            "product_id": 13402,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13403": {
+            "name": "Monoprice Cat6 5ft Black Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 2.49,
+            "url": "https://www.monoprice.com/product?p_id=13403",
+            "product_id": 13403,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13404": {
+            "name": "Monoprice Cat6 7ft Black Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 2.99,
+            "url": "https://www.monoprice.com/product?p_id=13404",
+            "product_id": 13404,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13405": {
+            "name": "Monoprice Cat6 7ft Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 2.99,
+            "url": "https://www.monoprice.com/product?p_id=13405",
+            "product_id": 13405,
+            "available": false,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13406": {
+            "name": "Monoprice Cat6 10ft Black Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 3.99,
+            "url": "https://www.monoprice.com/product?p_id=13406",
+            "product_id": 13406,
+            "available": false,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13407": {
+            "name": "Monoprice Cat6 10ft Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 3.99,
+            "url": "https://www.monoprice.com/product?p_id=13407",
+            "product_id": 13407,
+            "available": false,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13408": {
+            "name": "Monoprice Cat6 15ft Black Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 4.99,
+            "url": "https://www.monoprice.com/product?p_id=13408",
+            "product_id": 13408,
+            "available": false,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13409": {
+            "name": "Monoprice Cat6 15ft Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 4.99,
+            "url": "https://www.monoprice.com/product?p_id=13409",
+            "product_id": 13409,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13410": {
+            "name": "Monoprice Cat6 20ft Black Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 6.49,
+            "url": "https://www.monoprice.com/product?p_id=13410",
+            "product_id": 13410,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13411": {
+            "name": "Monoprice Cat6 25ft Black Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 6.99,
+            "url": "https://www.monoprice.com/product?p_id=13411",
+            "product_id": 13411,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13412": {
+            "name": "Monoprice Select Plus USB Car Charger, 2-Port, 4.8A Output for iPhone, Android, and Galaxy Devices",
+            "price": 6.64,
+            "url": "https://www.monoprice.com/product?p_id=13412",
+            "product_id": 13412,
+            "available": true,
+            "rating": 4.5,
+            "num_reviews": 224
+        },
+        "13413": {
+            "name": "Monoprice Cat6 50ft Black Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 14.99,
+            "url": "https://www.monoprice.com/product?p_id=13413",
+            "product_id": 13413,
+            "available": false,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13414": {
+            "name": "Monoprice Cat6 50ft Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
+            "price": 14.99,
+            "url": "https://www.monoprice.com/product?p_id=13414",
+            "product_id": 13414,
+            "available": false,
+            "rating": 4.8,
+            "num_reviews": 167
+        },
+        "13415": {
+            "name": "Monoprice Select Plus USB Car Charger, 4-Port, 9.6A/48W Output for iPhone, Android, and Galaxy Devices",
+            "price": 18.49,
+            "url": "https://www.monoprice.com/product?p_id=13415",
+            "product_id": 13415,
+            "available": false,
+            "rating": 4.7,
+            "num_reviews": 132
+        },
         "1343": {
             "name": "Monoprice DB9 Female, ABCD 4 Way Switch Box",
             "price": 8.99,
@@ -2519,6 +3932,15 @@
             "available": false,
             "rating": 5,
             "num_reviews": 1
+        },
+        "13448": {
+            "name": "Monoprice Ironlink Cisco SFP-GE-T-IL Compatable 1000BASE-T SFP (NEBS 3)",
+            "price": 76.67,
+            "url": "https://www.monoprice.com/product?p_id=13448",
+            "product_id": 13448,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
         },
         "1347": {
             "name": "Monoprice DB15, AB 2 Way Switch Box",
@@ -2529,6 +3951,105 @@
             "rating": 0,
             "num_reviews": 0
         },
+        "13478": {
+            "name": "Monoprice Ironlink CIsco SFP-H10GB-CU3M-IL Compatible 10GBASE-CR Twinax Cable",
+            "price": 113.99,
+            "url": "https://www.monoprice.com/product?p_id=13478",
+            "product_id": 13478,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "13506": {
+            "name": "Monoprice Dual Mode USB Type-C and Type-A MicroSD Card Reader",
+            "price": 7.99,
+            "url": "https://www.monoprice.com/product?p_id=13506",
+            "product_id": 13506,
+            "available": false,
+            "rating": 4.5,
+            "num_reviews": 25
+        },
+        "13507": {
+            "name": "Monoprice USB Type-A to USB Type-C Adapter",
+            "price": 7.99,
+            "url": "https://www.monoprice.com/product?p_id=13507",
+            "product_id": 13507,
+            "available": false,
+            "rating": 4.4,
+            "num_reviews": 72
+        },
+        "13508": {
+            "name": "Monoprice Cat6 6in Black Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 2.29,
+            "url": "https://www.monoprice.com/product?p_id=13508",
+            "product_id": 13508,
+            "available": false,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13509": {
+            "name": "Monoprice Cat6 6in Blue Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 1.99,
+            "url": "https://www.monoprice.com/product?p_id=13509",
+            "product_id": 13509,
+            "available": false,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13510": {
+            "name": "Monoprice Cat6 6in Gray Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 2.29,
+            "url": "https://www.monoprice.com/product?p_id=13510",
+            "product_id": 13510,
+            "available": false,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13511": {
+            "name": "Monoprice Cat6 6in White Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 2.29,
+            "url": "https://www.monoprice.com/product?p_id=13511",
+            "product_id": 13511,
+            "available": false,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13512": {
+            "name": "Monoprice Cat6 6in Yellow Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 2.29,
+            "url": "https://www.monoprice.com/product?p_id=13512",
+            "product_id": 13512,
+            "available": false,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13513": {
+            "name": "Monoprice Cat6 1ft Black Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 2.49,
+            "url": "https://www.monoprice.com/product?p_id=13513",
+            "product_id": 13513,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13518": {
+            "name": "Monoprice Cat6 1ft Blue Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 2.29,
+            "url": "https://www.monoprice.com/product?p_id=13518",
+            "product_id": 13518,
+            "available": false,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13519": {
+            "name": "Monoprice Cat6 1ft Gray Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 2.49,
+            "url": "https://www.monoprice.com/product?p_id=13519",
+            "product_id": 13519,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
         "1352": {
             "name": "Monoprice DB25, AB 2 Way Switch Box",
             "price": 20.99,
@@ -2537,6 +4058,186 @@
             "available": false,
             "rating": 5,
             "num_reviews": 2
+        },
+        "13520": {
+            "name": "Monoprice Cat6 1ft White Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 2.49,
+            "url": "https://www.monoprice.com/product?p_id=13520",
+            "product_id": 13520,
+            "available": false,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13521": {
+            "name": "Monoprice Cat6 1ft Yellow Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 2.49,
+            "url": "https://www.monoprice.com/product?p_id=13521",
+            "product_id": 13521,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13522": {
+            "name": "Monoprice Cat6 2ft Black Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 2.79,
+            "url": "https://www.monoprice.com/product?p_id=13522",
+            "product_id": 13522,
+            "available": false,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13523": {
+            "name": "Monoprice Cat6 2ft Blue Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 2.79,
+            "url": "https://www.monoprice.com/product?p_id=13523",
+            "product_id": 13523,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13524": {
+            "name": "Monoprice Cat6 2ft Gray Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 2.79,
+            "url": "https://www.monoprice.com/product?p_id=13524",
+            "product_id": 13524,
+            "available": false,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13525": {
+            "name": "Monoprice Cat6 2ft White Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 2.79,
+            "url": "https://www.monoprice.com/product?p_id=13525",
+            "product_id": 13525,
+            "available": false,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13526": {
+            "name": "Monoprice Cat6 2ft Yellow Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 2.79,
+            "url": "https://www.monoprice.com/product?p_id=13526",
+            "product_id": 13526,
+            "available": false,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13527": {
+            "name": "Monoprice Cat6 3ft Black Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 2.99,
+            "url": "https://www.monoprice.com/product?p_id=13527",
+            "product_id": 13527,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13528": {
+            "name": "Monoprice Cat6 3ft Blue Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 2.99,
+            "url": "https://www.monoprice.com/product?p_id=13528",
+            "product_id": 13528,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13529": {
+            "name": "Monoprice Cat6 3ft Gray Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 2.99,
+            "url": "https://www.monoprice.com/product?p_id=13529",
+            "product_id": 13529,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13530": {
+            "name": "Monoprice Cat6 3ft White Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 2.99,
+            "url": "https://www.monoprice.com/product?p_id=13530",
+            "product_id": 13530,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13531": {
+            "name": "Monoprice Cat6 3ft Yellow Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 2.99,
+            "url": "https://www.monoprice.com/product?p_id=13531",
+            "product_id": 13531,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13532": {
+            "name": "Monoprice Cat6 5ft Black Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 3.49,
+            "url": "https://www.monoprice.com/product?p_id=13532",
+            "product_id": 13532,
+            "available": false,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13533": {
+            "name": "Monoprice Cat6 5ft Blue Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 3.29,
+            "url": "https://www.monoprice.com/product?p_id=13533",
+            "product_id": 13533,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13534": {
+            "name": "Monoprice Cat6 5ft Gray Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 3.49,
+            "url": "https://www.monoprice.com/product?p_id=13534",
+            "product_id": 13534,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13535": {
+            "name": "Monoprice Cat6 5ft White Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 3.49,
+            "url": "https://www.monoprice.com/product?p_id=13535",
+            "product_id": 13535,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13536": {
+            "name": "Monoprice Cat6 5ft Yellow Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 3.49,
+            "url": "https://www.monoprice.com/product?p_id=13536",
+            "product_id": 13536,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13537": {
+            "name": "Monoprice Cat6 7ft Black Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 4.49,
+            "url": "https://www.monoprice.com/product?p_id=13537",
+            "product_id": 13537,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13538": {
+            "name": "Monoprice Cat6 7ft Blue Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 4.49,
+            "url": "https://www.monoprice.com/product?p_id=13538",
+            "product_id": 13538,
+            "available": false,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13539": {
+            "name": "Monoprice Cat6 7ft Gray Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 4.49,
+            "url": "https://www.monoprice.com/product?p_id=13539",
+            "product_id": 13539,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 273
         },
         "1354": {
             "name": "Monoprice DB25, ABCD 4 Way Switch Box",
@@ -2547,6 +4248,213 @@
             "rating": 5,
             "num_reviews": 1
         },
+        "13540": {
+            "name": "Monoprice Cat6 7ft White Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 3.99,
+            "url": "https://www.monoprice.com/product?p_id=13540",
+            "product_id": 13540,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13541": {
+            "name": "Monoprice Cat6 7ft Yellow Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 4.49,
+            "url": "https://www.monoprice.com/product?p_id=13541",
+            "product_id": 13541,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13542": {
+            "name": "Monoprice Cat6 10ft Black Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 4.99,
+            "url": "https://www.monoprice.com/product?p_id=13542",
+            "product_id": 13542,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13543": {
+            "name": "Monoprice Cat6 10ft Blue Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 4.99,
+            "url": "https://www.monoprice.com/product?p_id=13543",
+            "product_id": 13543,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13544": {
+            "name": "Monoprice Cat6 10ft Gray Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 4.99,
+            "url": "https://www.monoprice.com/product?p_id=13544",
+            "product_id": 13544,
+            "available": false,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13545": {
+            "name": "Monoprice Cat6 10ft White Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 4.99,
+            "url": "https://www.monoprice.com/product?p_id=13545",
+            "product_id": 13545,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13547": {
+            "name": "Monoprice Cat6 14ft Black Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 5.99,
+            "url": "https://www.monoprice.com/product?p_id=13547",
+            "product_id": 13547,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13548": {
+            "name": "Monoprice Cat6 14ft Blue Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 5.99,
+            "url": "https://www.monoprice.com/product?p_id=13548",
+            "product_id": 13548,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13549": {
+            "name": "Monoprice Cat6 14ft Gray Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 5.99,
+            "url": "https://www.monoprice.com/product?p_id=13549",
+            "product_id": 13549,
+            "available": false,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13550": {
+            "name": "Monoprice Cat6 14ft White Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 5.99,
+            "url": "https://www.monoprice.com/product?p_id=13550",
+            "product_id": 13550,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13551": {
+            "name": "Monoprice Cat6 14ft Yellow Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 5.99,
+            "url": "https://www.monoprice.com/product?p_id=13551",
+            "product_id": 13551,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13552": {
+            "name": "Monoprice Cat6 20ft Black Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 8.49,
+            "url": "https://www.monoprice.com/product?p_id=13552",
+            "product_id": 13552,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13553": {
+            "name": "Monoprice Cat6 20ft Blue Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 8.49,
+            "url": "https://www.monoprice.com/product?p_id=13553",
+            "product_id": 13553,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13555": {
+            "name": "Monoprice Cat6 20ft White Component Level Patch Cable, UTP, 28AWG, 550MHz, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 8.49,
+            "url": "https://www.monoprice.com/product?p_id=13555",
+            "product_id": 13555,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 273
+        },
+        "13574": {
+            "name": "Monoprice 4K Slim High Speed HDMI Cable 0.5ft - 18Gbps Black",
+            "price": 5.49,
+            "url": "https://www.monoprice.com/product?p_id=13574",
+            "product_id": 13574,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 251
+        },
+        "13575": {
+            "name": "Monoprice 4K Slim High Speed HDMI Cable 0.5ft - 18Gbps Silver",
+            "price": 3.84,
+            "url": "https://www.monoprice.com/product?p_id=13575",
+            "product_id": 13575,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 210
+        },
+        "13576": {
+            "name": "Monoprice 4K Slim High Speed HDMI Cable 1ft - 18Gbps Black",
+            "price": 5.99,
+            "url": "https://www.monoprice.com/product?p_id=13576",
+            "product_id": 13576,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 251
+        },
+        "13578": {
+            "name": "Monoprice 4K Slim High Speed HDMI Cable 1.5ft - 18Gbps Black",
+            "price": 6.49,
+            "url": "https://www.monoprice.com/product?p_id=13578",
+            "product_id": 13578,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 251
+        },
+        "13580": {
+            "name": "Monoprice 4K Slim High Speed HDMI Cable 3ft - 18Gbps Black",
+            "price": 7.99,
+            "url": "https://www.monoprice.com/product?p_id=13580",
+            "product_id": 13580,
+            "available": false,
+            "rating": 4.8,
+            "num_reviews": 251
+        },
+        "13582": {
+            "name": "Monoprice 4K Slim High Speed HDMI Cable 4ft - 18Gbps Black",
+            "price": 8.99,
+            "url": "https://www.monoprice.com/product?p_id=13582",
+            "product_id": 13582,
+            "available": false,
+            "rating": 4.8,
+            "num_reviews": 210
+        },
+        "13586": {
+            "name": "Monoprice 4K Slim High Speed HDMI Cable 6ft - 18Gbps Black",
+            "price": 10.99,
+            "url": "https://www.monoprice.com/product?p_id=13586",
+            "product_id": 13586,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 251
+        },
+        "13590": {
+            "name": "Monoprice 4K Slim High Speed HDMI Cable 6ft - 18Gbps Active Black",
+            "price": 16.14,
+            "url": "https://www.monoprice.com/product?p_id=13590",
+            "product_id": 13590,
+            "available": true,
+            "rating": 4.2,
+            "num_reviews": 384
+        },
+        "13592": {
+            "name": "Monoprice 4K Slim High Speed HDMI Cable 10ft - 18Gbps Active Black",
+            "price": 20.69,
+            "url": "https://www.monoprice.com/product?p_id=13592",
+            "product_id": 13592,
+            "available": true,
+            "rating": 4.2,
+            "num_reviews": 384
+        },
         "136": {
             "name": "Monoprice Cat5e 7ft White Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 2.49,
@@ -2555,6 +4463,231 @@
             "available": false,
             "rating": 4.9,
             "num_reviews": 3042
+        },
+        "13614": {
+            "name": "Monoprice 6.5in Weatherproof 2-Way Speakers with Wall Mount Bracket (Pair Black)",
+            "price": 99.99,
+            "url": "https://www.monoprice.com/product?p_id=13614",
+            "product_id": 13614,
+            "available": false,
+            "rating": 4.5,
+            "num_reviews": 53
+        },
+        "13615": {
+            "name": "Monoprice 6.5in Weatherproof 2-Way Speakers with Wall Mount Bracket (Pair White)",
+            "price": 99.99,
+            "url": "https://www.monoprice.com/product?p_id=13615",
+            "product_id": 13615,
+            "available": true,
+            "rating": 4.5,
+            "num_reviews": 53
+        },
+        "13616": {
+            "name": "Monoprice Alpha In-Wall Speaker Center Channel Dual 5.25in Carbon Fiber 2-way (single)",
+            "price": 69.99,
+            "url": "https://www.monoprice.com/product?p_id=13616",
+            "product_id": 13616,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 51
+        },
+        "13618": {
+            "name": "Monoprice Alpha In-Wall Speakers 6.5in Carbon Fiber 2-way (pair)",
+            "price": 99.99,
+            "url": "https://www.monoprice.com/product?p_id=13618",
+            "product_id": 13618,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 37
+        },
+        "13656": {
+            "name": "Monoprice Cat7 1ft Blue Patch Cable,  Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
+            "price": 2.69,
+            "url": "https://www.monoprice.com/product?p_id=13656",
+            "product_id": 13656,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 231
+        },
+        "13657": {
+            "name": "Monoprice Cat7 2ft Blue Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
+            "price": 4.49,
+            "url": "https://www.monoprice.com/product?p_id=13657",
+            "product_id": 13657,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 231
+        },
+        "13658": {
+            "name": "Monoprice Cat7 3ft Blue Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
+            "price": 4.99,
+            "url": "https://www.monoprice.com/product?p_id=13658",
+            "product_id": 13658,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 231
+        },
+        "13659": {
+            "name": "Monoprice Cat7 5ft Blue Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
+            "price": 3.49,
+            "url": "https://www.monoprice.com/product?p_id=13659",
+            "product_id": 13659,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 231
+        },
+        "13660": {
+            "name": "Monoprice Cat7 7ft Blue Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
+            "price": 6.49,
+            "url": "https://www.monoprice.com/product?p_id=13660",
+            "product_id": 13660,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 231
+        },
+        "13661": {
+            "name": "Monoprice Cat7 10ft Blue Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
+            "price": 6.99,
+            "url": "https://www.monoprice.com/product?p_id=13661",
+            "product_id": 13661,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 231
+        },
+        "13662": {
+            "name": "Monoprice Cat7 15ft Blue Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
+            "price": 9.99,
+            "url": "https://www.monoprice.com/product?p_id=13662",
+            "product_id": 13662,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 231
+        },
+        "13663": {
+            "name": "Monoprice Cat7 25ft Blue Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
+            "price": 13.59,
+            "url": "https://www.monoprice.com/product?p_id=13663",
+            "product_id": 13663,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 231
+        },
+        "13664": {
+            "name": "Monoprice Cat7 50ft Blue Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
+            "price": 23.99,
+            "url": "https://www.monoprice.com/product?p_id=13664",
+            "product_id": 13664,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 231
+        },
+        "13665": {
+            "name": "Monoprice Cat7 100ft Blue Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
+            "price": 47.49,
+            "url": "https://www.monoprice.com/product?p_id=13665",
+            "product_id": 13665,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 231
+        },
+        "13672": {
+            "name": "Monoprice Cat6 250ft Blue CM UL Bulk Cable, Stranded (w/spine), UTP, 23AWG, 550MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
+            "price": 49.99,
+            "url": "https://www.monoprice.com/product?p_id=13672",
+            "product_id": 13672,
+            "available": true,
+            "rating": 4.5,
+            "num_reviews": 60
+        },
+        "13674": {
+            "name": "Monoprice Cat6 500ft Blue CMR UL Bulk Cable, Solid (w/spine), UTP, 23AWG, 550MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
+            "price": 61.19,
+            "url": "https://www.monoprice.com/product?p_id=13674",
+            "product_id": 13674,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 94
+        },
+        "13675": {
+            "name": "Monoprice Cat6 500ft White CMR UL Bulk Cable, Solid (w/spine), UTP, 23AWG, 550MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
+            "price": 74.99,
+            "url": "https://www.monoprice.com/product?p_id=13675",
+            "product_id": 13675,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 94
+        },
+        "13676": {
+            "name": "Monoprice Cat6 250ft Blue CMR UL Bulk Cable, Solid (w/spine), UTP, 23AWG, 550MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
+            "price": 31.49,
+            "url": "https://www.monoprice.com/product?p_id=13676",
+            "product_id": 13676,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 92
+        },
+        "13677": {
+            "name": "Monoprice Cat6 250ft White CMR UL Bulk Cable, Solid (w/spine), UTP, 23AWG, 550MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
+            "price": 31.44,
+            "url": "https://www.monoprice.com/product?p_id=13677",
+            "product_id": 13677,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 92
+        },
+        "13678": {
+            "name": "Monoprice Cat5e 500ft Blue CMR UL Bulk Cable, UTP, Solid, 24AWG, 350MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
+            "price": 64.99,
+            "url": "https://www.monoprice.com/product?p_id=13678",
+            "product_id": 13678,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 196
+        },
+        "13680": {
+            "name": "Monoprice Cat5e 250ft Blue CMR UL Bulk Cable, UTP, Solid, 24AWG, 350MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
+            "price": 34.99,
+            "url": "https://www.monoprice.com/product?p_id=13680",
+            "product_id": 13680,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 196
+        },
+        "13682": {
+            "name": "Monoprice Alpha In-Wall Speakers 8in Carbon Fiber 2-way (pair)",
+            "price": 83.99,
+            "url": "https://www.monoprice.com/product?p_id=13682",
+            "product_id": 13682,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 37
+        },
+        "13683": {
+            "name": "Monoprice Alpha Ceiling Speakers 8in Carbon Fiber 2-way (pair)",
+            "price": 119.99,
+            "url": "https://www.monoprice.com/product?p_id=13683",
+            "product_id": 13683,
+            "available": false,
+            "rating": 4.7,
+            "num_reviews": 78
+        },
+        "13684": {
+            "name": "Monoprice Alpha Ceiling Speakers 6.5in Carbon Fiber 2-way (pair)",
+            "price": 99.99,
+            "url": "https://www.monoprice.com/product?p_id=13684",
+            "product_id": 13684,
+            "available": false,
+            "rating": 4.7,
+            "num_reviews": 78
+        },
+        "13687": {
+            "name": "Monoprice Alpha Ceiling Speaker Dual 5.25in Carbon Fiber Surround 2-way Vari-Angled (single)",
+            "price": 79.99,
+            "url": "https://www.monoprice.com/product?p_id=13687",
+            "product_id": 13687,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 32
         },
         "137": {
             "name": "Monoprice Cat5e 14ft Blue Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -2565,6 +4698,195 @@
             "rating": 4.9,
             "num_reviews": 3042
         },
+        "13707": {
+            "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 12AWG, 50ft, Black",
+            "price": 26.24,
+            "url": "https://www.monoprice.com/product?p_id=13707",
+            "product_id": 13707,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 156
+        },
+        "13708": {
+            "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 12AWG, 100ft, Black",
+            "price": 42.85,
+            "url": "https://www.monoprice.com/product?p_id=13708",
+            "product_id": 13708,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 156
+        },
+        "13709": {
+            "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 12AWG, 250ft, Black",
+            "price": 174.99,
+            "url": "https://www.monoprice.com/product?p_id=13709",
+            "product_id": 13709,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 156
+        },
+        "13710": {
+            "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 12AWG, 500ft, Black",
+            "price": 233.19,
+            "url": "https://www.monoprice.com/product?p_id=13710",
+            "product_id": 13710,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 156
+        },
+        "13712": {
+            "name": "Monoprice Speaker Wire, CMP Rated, 4-Conductor, 12AWG, 100ft, Black",
+            "price": 169.99,
+            "url": "https://www.monoprice.com/product?p_id=13712",
+            "product_id": 13712,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 156
+        },
+        "13713": {
+            "name": "Monoprice Speaker Wire, CMP Rated, 4-Conductor, 12AWG, 250ft, Black",
+            "price": 297.99,
+            "url": "https://www.monoprice.com/product?p_id=13713",
+            "product_id": 13713,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 156
+        },
+        "13715": {
+            "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 14AWG, 50ft, Black",
+            "price": 14.24,
+            "url": "https://www.monoprice.com/product?p_id=13715",
+            "product_id": 13715,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 156
+        },
+        "13716": {
+            "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 14AWG, 100ft, Black",
+            "price": 31.14,
+            "url": "https://www.monoprice.com/product?p_id=13716",
+            "product_id": 13716,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 156
+        },
+        "13717": {
+            "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 14AWG, 250ft, Black",
+            "price": 90.99,
+            "url": "https://www.monoprice.com/product?p_id=13717",
+            "product_id": 13717,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 156
+        },
+        "13718": {
+            "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 14AWG, 500ft, Black",
+            "price": 244.99,
+            "url": "https://www.monoprice.com/product?p_id=13718",
+            "product_id": 13718,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 156
+        },
+        "13719": {
+            "name": "Monoprice Speaker Wire, CMP Rated, 4-Conductor, 14AWG, 100ft, Black",
+            "price": 94.99,
+            "url": "https://www.monoprice.com/product?p_id=13719",
+            "product_id": 13719,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 156
+        },
+        "13720": {
+            "name": "Monoprice Speaker Wire, CMP Rated, 4-Conductor, 14AWG, 250ft, Black",
+            "price": 166.99,
+            "url": "https://www.monoprice.com/product?p_id=13720",
+            "product_id": 13720,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 156
+        },
+        "13721": {
+            "name": "Monoprice Speaker Wire, CMP Rated, 4-Conductor, 14AWG, 500ft, Black",
+            "price": 332.99,
+            "url": "https://www.monoprice.com/product?p_id=13721",
+            "product_id": 13721,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 156
+        },
+        "13722": {
+            "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 16AWG, 50ft, Black",
+            "price": 9.33,
+            "url": "https://www.monoprice.com/product?p_id=13722",
+            "product_id": 13722,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 156
+        },
+        "13723": {
+            "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 16AWG, 100ft, Black",
+            "price": 31.04,
+            "url": "https://www.monoprice.com/product?p_id=13723",
+            "product_id": 13723,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 156
+        },
+        "13724": {
+            "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 16AWG, 250ft, Black",
+            "price": 44.79,
+            "url": "https://www.monoprice.com/product?p_id=13724",
+            "product_id": 13724,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 156
+        },
+        "13725": {
+            "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 16AWG, 500ft, Black",
+            "price": 174.99,
+            "url": "https://www.monoprice.com/product?p_id=13725",
+            "product_id": 13725,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 156
+        },
+        "13726": {
+            "name": "Monoprice Speaker Wire, CMP Rated, 4-Conductor, 16AWG, 100ft, Black",
+            "price": 29.99,
+            "url": "https://www.monoprice.com/product?p_id=13726",
+            "product_id": 13726,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 156
+        },
+        "13727": {
+            "name": "Monoprice Speaker Wire, CMP Rated, 4-Conductor, 16AWG, 250ft, Black",
+            "price": 77.99,
+            "url": "https://www.monoprice.com/product?p_id=13727",
+            "product_id": 13727,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 156
+        },
+        "13728": {
+            "name": "Monoprice Speaker Wire, CMP Rated, 4-Conductor, 16AWG, 500ft, Black",
+            "price": 227.99,
+            "url": "https://www.monoprice.com/product?p_id=13728",
+            "product_id": 13728,
+            "available": false,
+            "rating": 4.6,
+            "num_reviews": 156
+        },
+        "13729": {
+            "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 18AWG, 50ft, Black",
+            "price": 12.28,
+            "url": "https://www.monoprice.com/product?p_id=13729",
+            "product_id": 13729,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 156
+        },
         "1373": {
             "name": "Monoprice RJ45 AB 2Way, Switch Box",
             "price": 17.99,
@@ -2573,6 +4895,78 @@
             "available": false,
             "rating": 4.6,
             "num_reviews": 23
+        },
+        "13730": {
+            "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 18AWG, 100ft, Black",
+            "price": 19.94,
+            "url": "https://www.monoprice.com/product?p_id=13730",
+            "product_id": 13730,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 156
+        },
+        "13731": {
+            "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 18AWG, 250ft, Black",
+            "price": 69.99,
+            "url": "https://www.monoprice.com/product?p_id=13731",
+            "product_id": 13731,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 156
+        },
+        "13732": {
+            "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 18AWG, 500ft, Black",
+            "price": 139.99,
+            "url": "https://www.monoprice.com/product?p_id=13732",
+            "product_id": 13732,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 156
+        },
+        "13733": {
+            "name": "Monoprice Speaker Wire, CMP Rated, 4-Conductor, 18AWG, 100ft, Black",
+            "price": 28.34,
+            "url": "https://www.monoprice.com/product?p_id=13733",
+            "product_id": 13733,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 156
+        },
+        "13734": {
+            "name": "Monoprice Speaker Wire, CMP Rated, 4-Conductor, 18AWG, 250ft, Black",
+            "price": 96.99,
+            "url": "https://www.monoprice.com/product?p_id=13734",
+            "product_id": 13734,
+            "available": false,
+            "rating": 4.6,
+            "num_reviews": 156
+        },
+        "13735": {
+            "name": "Monoprice Speaker Wire, CMP Rated, 4-Conductor, 18AWG, 500ft, Black",
+            "price": 192.99,
+            "url": "https://www.monoprice.com/product?p_id=13735",
+            "product_id": 13735,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 156
+        },
+        "13736": {
+            "name": "Monoprice Cat6 1000ft Red CMP UL Bulk Cable, TAA, Solid (w/spine), UTP, 23AWG, 550MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
+            "price": 299.99,
+            "url": "https://www.monoprice.com/product?p_id=13736",
+            "product_id": 13736,
+            "available": false,
+            "rating": 4.6,
+            "num_reviews": 15
+        },
+        "13737": {
+            "name": "Monoprice Cat6 1000ft Yellow CMP UL Bulk Cable, TAA, Solid (w/spine), UTP, 23AWG, 550MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
+            "price": 239.99,
+            "url": "https://www.monoprice.com/product?p_id=13737",
+            "product_id": 13737,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 15
         },
         "1374": {
             "name": "Monoprice RJ45 ABCD 4Way, Switch Box",
@@ -2583,6 +4977,267 @@
             "rating": 5,
             "num_reviews": 19
         },
+        "13740": {
+            "name": "Monoprice Cat5e Ethernet Bulk Cable - Solid, 350MHz, UTP, CMP, Plenum, Pure Bare Copper Wire, 24AWG, No Logo, 1000ft, Yellow, (UL)",
+            "price": 209.99,
+            "url": "https://www.monoprice.com/product?p_id=13740",
+            "product_id": 13740,
+            "available": false,
+            "rating": 4.5,
+            "num_reviews": 8
+        },
+        "13741": {
+            "name": "Monoprice Cat5e 1000ft Orange CMP UL Bulk Cable, TAA, UTP, Solid, 24AWG, 350MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
+            "price": 199.99,
+            "url": "https://www.monoprice.com/product?p_id=13741",
+            "product_id": 13741,
+            "available": false,
+            "rating": 4.5,
+            "num_reviews": 8
+        },
+        "13746": {
+            "name": "Monoprice Select Series USB 3.0 Type-A to Type-B Cable, Black, 1.5ft",
+            "price": 3.49,
+            "url": "https://www.monoprice.com/product?p_id=13746",
+            "product_id": 13746,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 34
+        },
+        "13747": {
+            "name": "Monoprice Select Series USB 3.0 Type-A to Type-B Cable, Black, 3ft",
+            "price": 4.49,
+            "url": "https://www.monoprice.com/product?p_id=13747",
+            "product_id": 13747,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 34
+        },
+        "13748": {
+            "name": "Monoprice Select Series USB 3.0 Type-A to Type-B Cable, Black, 6ft",
+            "price": 5.99,
+            "url": "https://www.monoprice.com/product?p_id=13748",
+            "product_id": 13748,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 34
+        },
+        "13749": {
+            "name": "Monoprice Select Series USB 3.0 Type-A to Type-A Female Extension Cable, Black, 1.5ft",
+            "price": 3.49,
+            "url": "https://www.monoprice.com/product?p_id=13749",
+            "product_id": 13749,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 111
+        },
+        "13750": {
+            "name": "Monoprice Select Series USB 3.0 Type-A to Type-A Female Extension Cable, Black, 3ft",
+            "price": 3.81,
+            "url": "https://www.monoprice.com/product?p_id=13750",
+            "product_id": 13750,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 111
+        },
+        "13751": {
+            "name": "Monoprice Select Series USB 3.0 Type-A to Type-A Female Extension Cable, Black, 6ft",
+            "price": 4.99,
+            "url": "https://www.monoprice.com/product?p_id=13751",
+            "product_id": 13751,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 111
+        },
+        "13752": {
+            "name": "Monoprice Select Series USB 3.0 Type-A to Micro Type-B Cable, Black, 1.5ft",
+            "price": 3.99,
+            "url": "https://www.monoprice.com/product?p_id=13752",
+            "product_id": 13752,
+            "available": false,
+            "rating": 4.5,
+            "num_reviews": 99
+        },
+        "13753": {
+            "name": "Monoprice Select Series USB 3.0 Type-A to Micro Type-B Cable, Black, 3ft",
+            "price": 2.59,
+            "url": "https://www.monoprice.com/product?p_id=13753",
+            "product_id": 13753,
+            "available": false,
+            "rating": 4.5,
+            "num_reviews": 99
+        },
+        "13754": {
+            "name": "Monoprice Select Series USB 3.0 Type-A to Micro Type-B Cable, Black, 6ft",
+            "price": 2.89,
+            "url": "https://www.monoprice.com/product?p_id=13754",
+            "product_id": 13754,
+            "available": true,
+            "rating": 4.5,
+            "num_reviews": 99
+        },
+        "13755": {
+            "name": "Monoprice 4K Braided High Speed HDMI Cable 20ft - CL3 In Wall Rated 18Gbps Active Gray",
+            "price": 28.89,
+            "url": "https://www.monoprice.com/product?p_id=13755",
+            "product_id": 13755,
+            "available": true,
+            "rating": 4.3,
+            "num_reviews": 219
+        },
+        "13756": {
+            "name": "Monoprice 4K Braided High Speed HDMI Cable 25ft - CL3 In Wall Rated 18Gbps Active Gray",
+            "price": 57.99,
+            "url": "https://www.monoprice.com/product?p_id=13756",
+            "product_id": 13756,
+            "available": true,
+            "rating": 4.3,
+            "num_reviews": 219
+        },
+        "13757": {
+            "name": "Monoprice 4K Braided High Speed HDMI Cable 30ft - CL3 In Wall Rated 18Gbps Active Gray",
+            "price": 37.39,
+            "url": "https://www.monoprice.com/product?p_id=13757",
+            "product_id": 13757,
+            "available": true,
+            "rating": 4.3,
+            "num_reviews": 219
+        },
+        "13758": {
+            "name": "Monoprice 4K Braided High Speed HDMI Cable 35ft - CL3 In Wall Rated 18Gbps Active Gray",
+            "price": 67.99,
+            "url": "https://www.monoprice.com/product?p_id=13758",
+            "product_id": 13758,
+            "available": true,
+            "rating": 4.3,
+            "num_reviews": 219
+        },
+        "13759": {
+            "name": "Monoprice 4K Braided High Speed HDMI Cable 40ft - CL3 In Wall Rated 18Gbps Active Gray",
+            "price": 45.89,
+            "url": "https://www.monoprice.com/product?p_id=13759",
+            "product_id": 13759,
+            "available": true,
+            "rating": 4.3,
+            "num_reviews": 219
+        },
+        "13760": {
+            "name": "Monoprice 4K Braided High Speed HDMI Cable 50ft - CL3 In Wall Rated 18Gbps Active Gray",
+            "price": 82.99,
+            "url": "https://www.monoprice.com/product?p_id=13760",
+            "product_id": 13760,
+            "available": true,
+            "rating": 4.3,
+            "num_reviews": 219
+        },
+        "13761": {
+            "name": "Monoprice 4K Braided High Speed HDMI Cable 60ft - CL3 In Wall Rated 18Gbps Active Gray",
+            "price": 66.58,
+            "url": "https://www.monoprice.com/product?p_id=13761",
+            "product_id": 13761,
+            "available": true,
+            "rating": 4.3,
+            "num_reviews": 219
+        },
+        "13762": {
+            "name": "Monoprice 4K Braided High Speed HDMI Cable 75ft - CL3 In Wall Rated 18Gbps Active Gray",
+            "price": 75.64,
+            "url": "https://www.monoprice.com/product?p_id=13762",
+            "product_id": 13762,
+            "available": true,
+            "rating": 4.3,
+            "num_reviews": 219
+        },
+        "13763": {
+            "name": "Monoprice 4K Braided High Speed HDMI Cable 100ft - CL3 In Wall Rated 18Gbps Active Gray",
+            "price": 96.89,
+            "url": "https://www.monoprice.com/product?p_id=13763",
+            "product_id": 13763,
+            "available": true,
+            "rating": 4.3,
+            "num_reviews": 219
+        },
+        "13774": {
+            "name": "Monoprice 4K No Logo High Speed HDMI Cable 1.5ft - CL2 In Wall Rated 18 Gbps Black",
+            "price": 4.39,
+            "url": "https://www.monoprice.com/product?p_id=13774",
+            "product_id": 13774,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 310
+        },
+        "13775": {
+            "name": "Monoprice 4K No Logo High Speed HDMI Cable 3ft - CL2 In Wall Rated 18 Gbps Black",
+            "price": 6.99,
+            "url": "https://www.monoprice.com/product?p_id=13775",
+            "product_id": 13775,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 310
+        },
+        "13777": {
+            "name": "Monoprice 4K No Logo High Speed HDMI Cable 5ft - CL2 In Wall Rated 18 Gbps Black",
+            "price": 8.99,
+            "url": "https://www.monoprice.com/product?p_id=13777",
+            "product_id": 13777,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 310
+        },
+        "13779": {
+            "name": "Monoprice 4K No Logo High Speed HDMI Cable 6ft - CL2 In Wall Rated 18 Gbps Black",
+            "price": 8.5,
+            "url": "https://www.monoprice.com/product?p_id=13779",
+            "product_id": 13779,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 310
+        },
+        "13780": {
+            "name": "Monoprice 4K No Logo High Speed HDMI Cable 8ft - CL2 In Wall Rated 18 Gbps Black",
+            "price": 11.99,
+            "url": "https://www.monoprice.com/product?p_id=13780",
+            "product_id": 13780,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 310
+        },
+        "13781": {
+            "name": "Monoprice 4K No Logo High Speed HDMI Cable 10ft - CL2 In Wall Rated 18 Gbps Black",
+            "price": 13.99,
+            "url": "https://www.monoprice.com/product?p_id=13781",
+            "product_id": 13781,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 310
+        },
+        "13782": {
+            "name": "Monoprice 4K No Logo High Speed HDMI Cable 15ft - CL2 In Wall Rated 18 Gbps Black",
+            "price": 18.99,
+            "url": "https://www.monoprice.com/product?p_id=13782",
+            "product_id": 13782,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 310
+        },
+        "13783": {
+            "name": "Monoprice 4K No Logo High Speed HDMI Cable 20ft - CL2 In Wall Rated 18 Gbps Black",
+            "price": 20.37,
+            "url": "https://www.monoprice.com/product?p_id=13783",
+            "product_id": 13783,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 310
+        },
+        "13784": {
+            "name": "Monoprice 4K No Logo High Speed HDMI Cable 25ft - CL2 In Wall Rated 18 Gbps Black",
+            "price": 24.64,
+            "url": "https://www.monoprice.com/product?p_id=13784",
+            "product_id": 13784,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 310
+        },
         "138": {
             "name": "Monoprice Cat5e 14ft Gray Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 3.99,
@@ -2592,6 +5247,87 @@
             "rating": 4.9,
             "num_reviews": 3042
         },
+        "13801": {
+            "name": "Monoprice Hi-Fi Reflective Sound Technology Earbuds Headphones with Microphone - Black/Carbonite",
+            "price": 6.47,
+            "url": "https://www.monoprice.com/product?p_id=13801",
+            "product_id": 13801,
+            "available": true,
+            "rating": 4,
+            "num_reviews": 595
+        },
+        "13815": {
+            "name": "Monoprice Dual Monitor Free Standing Adjustable Desk Mount for Monitors 15~30in",
+            "price": 89.99,
+            "url": "https://www.monoprice.com/product?p_id=13815",
+            "product_id": 13815,
+            "available": true,
+            "rating": 3.9,
+            "num_reviews": 45
+        },
+        "13816": {
+            "name": "Monoprice Triple Monitor Free Standing Adjustable Desk Mount for Monitors 15~30in",
+            "price": 101.99,
+            "url": "https://www.monoprice.com/product?p_id=13816",
+            "product_id": 13816,
+            "available": true,
+            "rating": 3.7,
+            "num_reviews": 22
+        },
+        "13821": {
+            "name": "Monoprice 6ft 16AWG 3-Outlet Polarized NEMA 1-15 Indoor Extension Cord, 13A/1625W, Brown",
+            "price": 4.99,
+            "url": "https://www.monoprice.com/product?p_id=13821",
+            "product_id": 13821,
+            "available": true,
+            "rating": 4,
+            "num_reviews": 6
+        },
+        "13823": {
+            "name": "Monoprice 6ft 16AWG 3-Outlet Polarized NEMA 1-15 Indoor Extension Cord, 13A/1625W, White",
+            "price": 4.99,
+            "url": "https://www.monoprice.com/product?p_id=13823",
+            "product_id": 13823,
+            "available": true,
+            "rating": 4,
+            "num_reviews": 6
+        },
+        "13832": {
+            "name": "Monoprice Outdoor Extension Cord - NEMA 5-15P to NEMA 5-15R, 16AWG, 13A/1625W, SJTW, Green, 6ft",
+            "price": 6.99,
+            "url": "https://www.monoprice.com/product?p_id=13832",
+            "product_id": 13832,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 17
+        },
+        "13833": {
+            "name": "Monoprice Outdoor Extension Cord - NEMA 5-15P to NEMA 5-15R, 16AWG, 13A/1625W, SJTW, Green, 12ft",
+            "price": 10.99,
+            "url": "https://www.monoprice.com/product?p_id=13833",
+            "product_id": 13833,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 17
+        },
+        "13838": {
+            "name": "Monoprice Outdoor Extension Cord - NEMA 5-15P to NEMA 5-15R, 16AWG, 13A/1625W, SJTW, White, 6ft",
+            "price": 4.19,
+            "url": "https://www.monoprice.com/product?p_id=13838",
+            "product_id": 13838,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 17
+        },
+        "13839": {
+            "name": "Monoprice Outdoor Extension Cord - NEMA 5-15P to NEMA 5-15R, 16AWG, 13A/1625W, SJTW, White, 12ft",
+            "price": 11.99,
+            "url": "https://www.monoprice.com/product?p_id=13839",
+            "product_id": 13839,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 17
+        },
         "139": {
             "name": "Monoprice Cat5e 14ft White Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 3.99,
@@ -2600,6 +5336,186 @@
             "available": false,
             "rating": 4.9,
             "num_reviews": 3042
+        },
+        "13919": {
+            "name": "Monoprice Select Series USB-A to Micro B Cable, 2.4A, 22/30AWG, Black, 0.5ft",
+            "price": 1.34,
+            "url": "https://www.monoprice.com/product?p_id=13919",
+            "product_id": 13919,
+            "available": true,
+            "rating": 4.4,
+            "num_reviews": 661
+        },
+        "13920": {
+            "name": "Monoprice Select Series USB-A to Micro B Cable, 2.4A, 22/30AWG, White, 0.5ft",
+            "price": 1.49,
+            "url": "https://www.monoprice.com/product?p_id=13920",
+            "product_id": 13920,
+            "available": true,
+            "rating": 4.4,
+            "num_reviews": 661
+        },
+        "13921": {
+            "name": "Monoprice Select Series USB-A to Micro B Cable, 2.4A, 22/30AWG, Black, 3ft",
+            "price": 1.49,
+            "url": "https://www.monoprice.com/product?p_id=13921",
+            "product_id": 13921,
+            "available": true,
+            "rating": 4.4,
+            "num_reviews": 661
+        },
+        "13922": {
+            "name": "Monoprice Select Series USB-A to Micro B Cable, 2.4A, 22/30AWG, White, 3ft",
+            "price": 1.49,
+            "url": "https://www.monoprice.com/product?p_id=13922",
+            "product_id": 13922,
+            "available": true,
+            "rating": 4.4,
+            "num_reviews": 661
+        },
+        "13924": {
+            "name": "Monoprice Select Series USB-A to Micro B Cable, 2.4A, 22/30AWG, Blue, 3ft",
+            "price": 1.49,
+            "url": "https://www.monoprice.com/product?p_id=13924",
+            "product_id": 13924,
+            "available": true,
+            "rating": 4.4,
+            "num_reviews": 661
+        },
+        "13925": {
+            "name": "Monoprice Select Series USB-A to Micro B Cable, 2.4A, 22/30AWG, Pink, 3ft",
+            "price": 1.27,
+            "url": "https://www.monoprice.com/product?p_id=13925",
+            "product_id": 13925,
+            "available": true,
+            "rating": 4.4,
+            "num_reviews": 661
+        },
+        "13926": {
+            "name": "Monoprice Select Series USB-A to Micro B Cable, 2.4A, 22/30AWG, Black, 6ft",
+            "price": 2.24,
+            "url": "https://www.monoprice.com/product?p_id=13926",
+            "product_id": 13926,
+            "available": true,
+            "rating": 4.4,
+            "num_reviews": 661
+        },
+        "13927": {
+            "name": "Monoprice Select Series USB-A to Micro B Cable, 2.4A, 22/30AWG, White, 6ft",
+            "price": 2.49,
+            "url": "https://www.monoprice.com/product?p_id=13927",
+            "product_id": 13927,
+            "available": true,
+            "rating": 4.4,
+            "num_reviews": 661
+        },
+        "13928": {
+            "name": "Monoprice Select Series USB-A to Micro B Cable, 2.4A, 22/30AWG, Purple, 6ft",
+            "price": 2.49,
+            "url": "https://www.monoprice.com/product?p_id=13928",
+            "product_id": 13928,
+            "available": false,
+            "rating": 4.4,
+            "num_reviews": 661
+        },
+        "13929": {
+            "name": "Monoprice Select Series USB-A to Micro B Cable, 2.4A, 22/30AWG, Blue, 6ft",
+            "price": 2.49,
+            "url": "https://www.monoprice.com/product?p_id=13929",
+            "product_id": 13929,
+            "available": true,
+            "rating": 4.4,
+            "num_reviews": 661
+        },
+        "13930": {
+            "name": "Monoprice Select Series USB-A to Micro B Cable, 2.4A, 22/30AWG, Green, 6ft",
+            "price": 0.99,
+            "url": "https://www.monoprice.com/product?p_id=13930",
+            "product_id": 13930,
+            "available": false,
+            "rating": 4.4,
+            "num_reviews": 661
+        },
+        "13931": {
+            "name": "Monoprice Select Series USB-A to Micro B Cable, 2.4A, 22/30AWG, Pink, 6ft",
+            "price": 2.49,
+            "url": "https://www.monoprice.com/product?p_id=13931",
+            "product_id": 13931,
+            "available": false,
+            "rating": 4.4,
+            "num_reviews": 661
+        },
+        "13932": {
+            "name": "Monoprice Select Series USB-A to Micro B Cable, 2.4A, 22/30AWG, Black, 10ft",
+            "price": 3.49,
+            "url": "https://www.monoprice.com/product?p_id=13932",
+            "product_id": 13932,
+            "available": true,
+            "rating": 4.4,
+            "num_reviews": 661
+        },
+        "13933": {
+            "name": "Monoprice Select Series USB-A to Micro B Cable, 2.4A, 22/30AWG, White, 10ft",
+            "price": 3.49,
+            "url": "https://www.monoprice.com/product?p_id=13933",
+            "product_id": 13933,
+            "available": true,
+            "rating": 4.4,
+            "num_reviews": 661
+        },
+        "13934": {
+            "name": "Monoprice Select Series USB-A to Micro B Cable, 2.4A, 22/30AWG, Purple, 10ft",
+            "price": 1.29,
+            "url": "https://www.monoprice.com/product?p_id=13934",
+            "product_id": 13934,
+            "available": false,
+            "rating": 4.4,
+            "num_reviews": 661
+        },
+        "13935": {
+            "name": "Monoprice Select Series USB-A to Micro B Cable, 2.4A, 22/30AWG, Blue, 10ft",
+            "price": 3.99,
+            "url": "https://www.monoprice.com/product?p_id=13935",
+            "product_id": 13935,
+            "available": true,
+            "rating": 4.4,
+            "num_reviews": 661
+        },
+        "13936": {
+            "name": "Monoprice Select Series USB-A to Micro B Cable, 2.4A, 22/30AWG, Green, 10ft",
+            "price": 3.1,
+            "url": "https://www.monoprice.com/product?p_id=13936",
+            "product_id": 13936,
+            "available": false,
+            "rating": 4.4,
+            "num_reviews": 661
+        },
+        "13937": {
+            "name": "Monoprice Select Series USB-A to Micro B Cable, 2.4A, 22/30AWG, Pink, 10ft",
+            "price": 3.1,
+            "url": "https://www.monoprice.com/product?p_id=13937",
+            "product_id": 13937,
+            "available": true,
+            "rating": 4.4,
+            "num_reviews": 661
+        },
+        "13938": {
+            "name": "Monoprice Select Series USB-A to Micro B Cable, 2.4A, 22/30AWG, Black, 15ft",
+            "price": 2.49,
+            "url": "https://www.monoprice.com/product?p_id=13938",
+            "product_id": 13938,
+            "available": false,
+            "rating": 4.4,
+            "num_reviews": 661
+        },
+        "13939": {
+            "name": "Monoprice Select Series USB-A to Micro B Cable, 2.4A, 22/30AWG, White, 15ft",
+            "price": 4.99,
+            "url": "https://www.monoprice.com/product?p_id=13939",
+            "product_id": 13939,
+            "available": false,
+            "rating": 4.4,
+            "num_reviews": 661
         },
         "140": {
             "name": "Monoprice Cat5e 25ft Blue Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -37155,6 +40071,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-27T08:25:26Z"
+        "timestamp": "2023-05-27T08:49:28Z"
     }
 }
