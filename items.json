@@ -3210,8 +3210,8 @@
             "url": "https://www.monoprice.com/product?p_id=13135",
             "product_id": 13135,
             "available": false,
-            "rating": 4.9,
-            "num_reviews": 127
+            "rating": 0,
+            "num_reviews": 0
         },
         "13140": {
             "name": "Monoprice Cat5e 15ft Blue Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
@@ -43914,6 +43914,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-27T13:44:03Z"
+        "timestamp": "2023-05-27T13:54:19Z"
     }
 }
