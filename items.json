@@ -385,7 +385,7 @@
             "product_id": 10551,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 574
+            "num_reviews": 575
         },
         "10552": {
             "name": "Monoprice Premium 3D Printer Filament PLA 1.75mm 1kg/spool, White",
@@ -4226,7 +4226,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=13538",
             "product_id": 13538,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 273
         },
@@ -5054,7 +5054,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=13752",
             "product_id": 13752,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 99
         },
@@ -9347,7 +9347,7 @@
             "price": 1499,
             "url": "https://www.monoprice.com/product?p_id=18682",
             "product_id": 18682,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 13
         },
@@ -43905,6 +43905,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-27T03:06:55Z"
+        "timestamp": "2023-05-27T03:22:41Z"
     }
 }
