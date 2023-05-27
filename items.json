@@ -23416,7 +23416,7 @@
             "product_id": 38785,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 635
+            "num_reviews": 636
         },
         "38786": {
             "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R, 16AWG, 13A/1625W, 3-Prong, Black, 1ft, 10-Pack",
@@ -23425,7 +23425,7 @@
             "product_id": 38786,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 635
+            "num_reviews": 636
         },
         "38787": {
             "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R, 16AWG, 13A/1625W, 3-Prong, Black, 3ft, 6-Pack",
@@ -23434,7 +23434,7 @@
             "product_id": 38787,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 635
+            "num_reviews": 636
         },
         "38788": {
             "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R, 16AWG, 13A, 3-Prong, Black, 3ft, 10-Pack",
@@ -23443,7 +23443,7 @@
             "product_id": 38788,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 635
+            "num_reviews": 636
         },
         "38789": {
             "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R, 16AWG, 13A, 3-Prong, Black, 6ft, 6-Pack",
@@ -23452,7 +23452,7 @@
             "product_id": 38789,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 635
+            "num_reviews": 636
         },
         "38791": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 1.5ft, Black",
@@ -43914,6 +43914,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-27T12:54:44Z"
+        "timestamp": "2023-05-27T13:08:05Z"
     }
 }
