@@ -8719,7 +8719,7 @@
             "product_id": 30767,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 201
+            "num_reviews": 204
         },
         "30768": {
             "name": "Monoprice Palette Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 3ft Red",
@@ -37155,6 +37155,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-27T07:34:02Z"
+        "timestamp": "2023-05-27T07:44:10Z"
     }
 }
