@@ -37933,7 +37933,7 @@
             "product_id": 5828,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 313
+            "num_reviews": 314
         },
         "5829": {
             "name": "Monoprice Hook and Loop Fastening Tape, 5 yards/roll, 0.75in, White",
@@ -41803,7 +41803,7 @@
             "product_id": 8606,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1586
+            "num_reviews": 1587
         },
         "8607": {
             "name": "Monoprice USB Type-A to USB Type-A Female 2.0 Extension Cable - 28/24AWG, Gold Plated, White, 10ft",
@@ -43914,6 +43914,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-27T18:54:10Z"
+        "timestamp": "2023-05-27T19:06:23Z"
     }
 }
