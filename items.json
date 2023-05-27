@@ -15451,7 +15451,7 @@
             "product_id": 30765,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 201
+            "num_reviews": 204
         },
         "30766": {
             "name": "Monoprice Palette Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 6ft White",
@@ -17483,7 +17483,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=33707",
             "product_id": 33707,
-            "available": true,
+            "available": false,
             "rating": 2,
             "num_reviews": 1
         },
@@ -24395,7 +24395,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=39000",
             "product_id": 39000,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 5
         },
@@ -24548,7 +24548,7 @@
             "price": 38.97,
             "url": "https://www.monoprice.com/product?p_id=39106",
             "product_id": 39106,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 2
         },
@@ -26456,9 +26456,9 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=39844",
             "product_id": 39844,
-            "available": true,
+            "available": false,
             "rating": 4.7,
-            "num_reviews": 163
+            "num_reviews": 164
         },
         "39847": {
             "name": "Wall mount for Dome Camera, black housing (compatible with Hikivision DS-2CD2143G0-I(B), Monoprice 38526)",
@@ -43914,6 +43914,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-27T20:28:45Z"
+        "timestamp": "2023-05-27T20:35:10Z"
     }
 }
