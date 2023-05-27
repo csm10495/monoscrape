@@ -14533,7 +14533,7 @@
             "product_id": 2945,
             "available": false,
             "rating": 4.3,
-            "num_reviews": 141
+            "num_reviews": 142
         },
         "29454": {
             "name": "Monoprice Cat6A 6in Blue 10-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -41785,7 +41785,7 @@
             "product_id": 8605,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1586
+            "num_reviews": 1587
         },
         "8606": {
             "name": "Monoprice USB Type-A to USB Type-A Female 2.0 Extension Cable - 28/24AWG, Gold Plated, White, 6ft",
@@ -43905,6 +43905,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-27T02:54:16Z"
+        "timestamp": "2023-05-27T03:06:55Z"
     }
 }
