@@ -19643,7 +19643,7 @@
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=34744",
             "product_id": 34744,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 69
         },
@@ -19652,7 +19652,7 @@
             "price": 47.98,
             "url": "https://www.monoprice.com/product?p_id=34746",
             "product_id": 34746,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 69
         },
@@ -23695,7 +23695,7 @@
             "product_id": 38821,
             "available": false,
             "rating": 4.5,
-            "num_reviews": 86
+            "num_reviews": 87
         },
         "38822": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 10ft, Red",
@@ -43905,6 +43905,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-27T05:53:57Z"
+        "timestamp": "2023-05-27T06:09:06Z"
     }
 }
