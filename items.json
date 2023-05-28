@@ -3742,7 +3742,7 @@
             "product_id": 13369,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 87
+            "num_reviews": 89
         },
         "13370": {
             "name": "Monoprice Select Series DisplayPort 1.2a to HDTV Cable, 3ft",
@@ -7054,7 +7054,7 @@
             "product_id": 15430,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1707
+            "num_reviews": 1708
         },
         "15431": {
             "name": "Monoprice 4K Certified Premium High Speed HDMI Cable 20ft - 18Gbps Black",
@@ -7745,7 +7745,7 @@
             "price": 3.23,
             "url": "https://www.monoprice.com/product?p_id=15882",
             "product_id": 15882,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 20
         },
@@ -43896,6 +43896,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-28T14:54:14Z"
+        "timestamp": "2023-05-28T15:07:00Z"
     }
 }
