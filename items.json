@@ -40858,7 +40858,7 @@
             "product_id": 7671,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 246
+            "num_reviews": 247
         },
         "7672": {
             "name": "Monoprice Power Cord - Non-Polarized NEMA 1-15P to Non-Polarized IEC 60320 C7, 18AWG, 7A, 125V, Black, 6ft",
@@ -43887,6 +43887,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-28T22:35:12Z"
+        "timestamp": "2023-05-28T22:44:28Z"
     }
 }
