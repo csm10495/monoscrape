@@ -31687,7 +31687,7 @@
             "product_id": 42836,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 12
+            "num_reviews": 13
         },
         "42837": {
             "name": "Monolith by Monoprice 28in Steel Speaker Stand with Adjustable Top Plate (Each)",
@@ -32423,7 +32423,7 @@
             "price": 0.89,
             "url": "https://www.monoprice.com/product?p_id=43074",
             "product_id": 43074,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 57
         },
@@ -43887,6 +43887,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-28T21:20:29Z"
+        "timestamp": "2023-05-28T21:25:14Z"
     }
 }
