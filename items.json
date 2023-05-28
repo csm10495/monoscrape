@@ -31172,7 +31172,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=42621",
             "product_id": 42621,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 2
         },
@@ -33836,7 +33836,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=43527",
             "product_id": 43527,
-            "available": false,
+            "available": true,
             "rating": 4.1,
             "num_reviews": 7
         },
@@ -35447,15 +35447,6 @@
             "price": 999.99,
             "url": "https://www.monoprice.com/product?p_id=44574",
             "product_id": 44574,
-            "available": true,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "44578": {
-            "name": "Monolith by Monoprice M-212 Dual 12in THX Certified Ultra 1000 Watt Powered Subwoofer (Open Box)",
-            "price": 1099.99,
-            "url": "https://www.monoprice.com/product?p_id=44578",
-            "product_id": 44578,
             "available": true,
             "rating": 0,
             "num_reviews": 0
@@ -43896,6 +43887,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-28T16:36:56Z"
+        "timestamp": "2023-05-28T16:54:24Z"
     }
 }
