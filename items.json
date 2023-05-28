@@ -38903,7 +38903,7 @@
             "price": 20.99,
             "url": "https://www.monoprice.com/product?p_id=6421",
             "product_id": 6421,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 64
         },
@@ -43905,6 +43905,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-28T00:35:03Z"
+        "timestamp": "2023-05-28T02:08:42Z"
     }
 }
