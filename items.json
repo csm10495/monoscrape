@@ -34893,15 +34893,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "44585": {
-            "name": "Monolith by Monoprice M-10 V2 10in THX Certified Select 500 Watt Powered Subwoofer (Open Box)",
-            "price": 349.99,
-            "url": "https://www.monoprice.com/product?p_id=44585",
-            "product_id": 44585,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "44586": {
             "name": "Monolith by Monoprice M1570C Over the Ear Closed Back Planar Headphones (Open Box)",
             "price": 599.99,
@@ -43311,6 +43302,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-28T06:32:38Z"
+        "timestamp": "2023-05-28T06:43:58Z"
     }
 }
