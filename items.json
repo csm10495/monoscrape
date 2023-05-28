@@ -5811,8 +5811,8 @@
             "url": "https://www.monoprice.com/product?p_id=14503",
             "product_id": 14503,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 4.4,
+            "num_reviews": 66
         },
         "14504": {
             "name": "Monoprice Select Series USB-C VGA Multiport Adapter",
@@ -5919,8 +5919,8 @@
             "url": "https://www.monoprice.com/product?p_id=14568",
             "product_id": 14568,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 4.2,
+            "num_reviews": 12
         },
         "14569": {
             "name": "Monoprice Choice Series NL4FC Speaker Cable with Four 12 AWG Conductors, 10ft",
@@ -6864,8 +6864,8 @@
             "url": "https://www.monoprice.com/product?p_id=15243",
             "product_id": 15243,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 4.4,
+            "num_reviews": 42
         },
         "15244": {
             "name": "Monoprice Select Series USB-C to HDMI and USB-C (F) Dual Port Adapter",
@@ -7116,8 +7116,8 @@
             "url": "https://www.monoprice.com/product?p_id=15525",
             "product_id": 15525,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 4.7,
+            "num_reviews": 168
         },
         "15526": {
             "name": "Workstream by Monoprice Single Monitor Adjustable Gas Spring Desk Mount for 15~34in Monitors",
@@ -8232,8 +8232,8 @@
             "url": "https://www.monoprice.com/product?p_id=16124",
             "product_id": 16124,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 3.8,
+            "num_reviews": 24
         },
         "16131": {
             "name": "Monoprice Commercial Series Full-Motion Articulating TV Wall Mount Bracket For TVs 13in to 27in, Max Weight 33 lbs, VESA Patterns Up to 100x100, Rotating",
@@ -8394,8 +8394,8 @@
             "url": "https://www.monoprice.com/product?p_id=16186",
             "product_id": 16186,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 4.5,
+            "num_reviews": 60
         },
         "16187": {
             "name": "Monoprice Viper Series HD-SDI RG-6 BNC Cable, 50ft",
@@ -8943,8 +8943,8 @@
             "url": "https://www.monoprice.com/product?p_id=16379",
             "product_id": 16379,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 4.4,
+            "num_reviews": 10
         },
         "16380": {
             "name": "Monoprice SlimRun USB Type-A to USB Type-A Female 3.0 Extension Cable - Fiber Optic, Silver, 98.4ft",
@@ -41925,6 +41925,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-28T12:11:43Z"
+        "timestamp": "2023-05-28T12:39:20Z"
     }
 }
