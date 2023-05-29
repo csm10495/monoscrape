@@ -16871,7 +16871,7 @@
             "price": 149.99,
             "url": "https://www.monoprice.com/product?p_id=33394",
             "product_id": 33394,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 55
         },
@@ -20931,8 +20931,8 @@
             "url": "https://www.monoprice.com/product?p_id=35944",
             "product_id": 35944,
             "available": false,
-            "rating": 4.3,
-            "num_reviews": 107
+            "rating": 4.2,
+            "num_reviews": 108
         },
         "35995": {
             "name": "Monoprice 19in Blank Fiber Patch Panel 3LGX Cassettes 1U",
@@ -22048,7 +22048,7 @@
             "product_id": 38077,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 47
+            "num_reviews": 48
         },
         "38078": {
             "name": "Monoprice Onix Series - Male RCA Two Channel Stereo Audio Cable, 25ft, Black",
@@ -22111,7 +22111,7 @@
             "product_id": 38085,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 47
+            "num_reviews": 48
         },
         "38092": {
             "name": "FORM by Monoprice iPhone XS Soft Touch Case, Lavender",
@@ -43887,6 +43887,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-29T15:34:55Z"
+        "timestamp": "2023-05-29T15:44:39Z"
     }
 }
