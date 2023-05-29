@@ -38068,7 +38068,7 @@
             "product_id": 5907,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 495
+            "num_reviews": 497
         },
         "5915": {
             "name": "Monoprice EZ Series Low Profile Tilt TV Wall Mount Bracket for LED TVs 32in to 70in, Max Weight 154 lbs, VESA Patterns Up to 400x400, UL Certified",
@@ -38912,7 +38912,7 @@
             "price": 45.49,
             "url": "https://www.monoprice.com/product?p_id=6425",
             "product_id": 6425,
-            "available": true,
+            "available": false,
             "rating": 3,
             "num_reviews": 1
         },
@@ -41387,7 +41387,7 @@
             "price": 7.78,
             "url": "https://www.monoprice.com/product?p_id=8189",
             "product_id": 8189,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 18
         },
@@ -43887,6 +43887,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-29T12:41:37Z"
+        "timestamp": "2023-05-29T12:58:30Z"
     }
 }
