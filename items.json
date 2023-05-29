@@ -31722,8 +31722,8 @@
             "url": "https://www.monoprice.com/product?p_id=42840",
             "product_id": 42840,
             "available": false,
-            "rating": 4.6,
-            "num_reviews": 12
+            "rating": 4.7,
+            "num_reviews": 14
         },
         "42841": {
             "name": "Monolith by Monoprice 28in Cherry Wood Speaker Stand with Adjustable Top Plate, Cherry (Each)",
@@ -43887,6 +43887,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-29T10:54:22Z"
+        "timestamp": "2023-05-29T11:06:08Z"
     }
 }
