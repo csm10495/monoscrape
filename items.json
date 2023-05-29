@@ -36851,7 +36851,7 @@
             "price": 152.49,
             "url": "https://www.monoprice.com/product?p_id=5306",
             "product_id": 5306,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 29
         },
@@ -38041,7 +38041,7 @@
             "product_id": 5903,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 495
+            "num_reviews": 497
         },
         "5904": {
             "name": "Monoprice Cat6A 25ft Blue Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -43887,6 +43887,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-29T02:53:24Z"
+        "timestamp": "2023-05-29T02:59:29Z"
     }
 }
