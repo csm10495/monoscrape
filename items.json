@@ -1276,7 +1276,7 @@
             "product_id": 11325,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1467
+            "num_reviews": 1468
         },
         "11326": {
             "name": "Monoprice Entegrade Cat6A Ethernet Patch Cable - ZEROboot RJ45, Stranded, 550MHz, STP, Pure Bare Copper Wire, 10G, 26AWG, 30ft, Blue",
@@ -4037,7 +4037,7 @@
             "price": 2.29,
             "url": "https://www.monoprice.com/product?p_id=13518",
             "product_id": 13518,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 273
         },
@@ -4903,7 +4903,7 @@
             "product_id": 13730,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 156
+            "num_reviews": 157
         },
         "13731": {
             "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 18AWG, 250ft, Black",
@@ -6116,7 +6116,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=14796",
             "product_id": 14796,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 273
         },
@@ -43887,6 +43887,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-29T17:35:01Z"
+        "timestamp": "2023-05-29T17:44:40Z"
     }
 }
