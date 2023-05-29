@@ -22588,7 +22588,7 @@
             "product_id": 38313,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 266
+            "num_reviews": 267
         },
         "38314": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, White",
@@ -26440,7 +26440,7 @@
             "product_id": 39843,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 163
+            "num_reviews": 164
         },
         "39844": {
             "name": "Monoprice Obsidian Plus Pocket USB Power Bank, Purple, 5,000mAh, 2-Port Up to 2.1A Output for iPhone, Android, and Galaxy Devices",
@@ -43887,6 +43887,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-29T08:27:30Z"
+        "timestamp": "2023-05-29T08:34:25Z"
     }
 }
