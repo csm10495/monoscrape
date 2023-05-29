@@ -37906,7 +37906,7 @@
             "product_id": 5829,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 313
+            "num_reviews": 314
         },
         "5831": {
             "name": "Monoprice Hook and Loop Fastening Tape, 5 yards/roll, 0.75in, Red",
@@ -43486,7 +43486,7 @@
             "product_id": 9832,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1467
+            "num_reviews": 1468
         },
         "9834": {
             "name": "Monoprice Cat6 10ft Red Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -43878,6 +43878,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-29T20:34:27Z"
+        "timestamp": "2023-05-29T20:44:20Z"
     }
 }
