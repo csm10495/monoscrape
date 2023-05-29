@@ -30022,7 +30022,7 @@
             "product_id": 41989,
             "available": true,
             "rating": 5,
-            "num_reviews": 13
+            "num_reviews": 14
         },
         "41990": {
             "name": "Monoprice USB-C Charger, 30W 1-port PD GaN Technology Foldable Wall Charger White, Power Delivery for MacBook Pro/Air, iPad Pro, iPhone 12/11/Pro/Max/XR/XS/X, Pixel, Galaxy, and More",
@@ -43887,6 +43887,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-29T08:34:25Z"
+        "timestamp": "2023-05-29T08:43:55Z"
     }
 }
