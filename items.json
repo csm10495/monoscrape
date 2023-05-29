@@ -15539,7 +15539,7 @@
             "price": 4.79,
             "url": "https://www.monoprice.com/product?p_id=30825",
             "product_id": 30825,
-            "available": true,
+            "available": false,
             "rating": 3.1,
             "num_reviews": 7
         },
@@ -16864,7 +16864,7 @@
             "product_id": 33393,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 55
+            "num_reviews": 56
         },
         "33394": {
             "name": "Monoprice Soundstage3 120 Watt TrueWireless Stereo (TWS) Bluetooth Speaker with Qualcomm aptX Audio, White",
@@ -19906,7 +19906,7 @@
             "product_id": 34832,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1707
+            "num_reviews": 1708
         },
         "34833": {
             "name": "Monoprice 4K Certified Premium High Speed HDMI Cable 2m - 18Gbps Black - 2 Pack",
@@ -23650,7 +23650,7 @@
             "product_id": 38816,
             "available": false,
             "rating": 4.5,
-            "num_reviews": 86
+            "num_reviews": 87
         },
         "38818": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 10ft, Blue",
@@ -43878,6 +43878,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-29T21:06:13Z"
+        "timestamp": "2023-05-29T21:20:19Z"
     }
 }
