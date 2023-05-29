@@ -28481,7 +28481,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=41086",
             "product_id": 41086,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -33901,7 +33901,7 @@
             "product_id": 43548,
             "available": false,
             "rating": 4.1,
-            "num_reviews": 30
+            "num_reviews": 31
         },
         "43550": {
             "name": "Monoprice BT-250ANC Bluetooth Wireless Over Ear Headphones with Active Noise Cancelling (ANC)",
@@ -43887,6 +43887,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-29T18:09:55Z"
+        "timestamp": "2023-05-29T18:26:52Z"
     }
 }
