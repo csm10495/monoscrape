@@ -20959,7 +20959,7 @@
             "product_id": 36045,
             "available": true,
             "rating": 3.8,
-            "num_reviews": 21
+            "num_reviews": 22
         },
         "36058": {
             "name": "Monoprice MP Voxel 3D Printer, Fully Enclosed, Assisted Level, Easy Wi-Fi, Touch Screen, 8GB On-Board Memory [Polar 3D]",
@@ -43887,6 +43887,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-29T05:53:59Z"
+        "timestamp": "2023-05-29T06:11:05Z"
     }
 }
