@@ -10510,7 +10510,7 @@
             "product_id": 21820,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 2004
+            "num_reviews": 2006
         },
         "21821": {
             "name": "Monoprice 12 PAIRS Of High-Quality Gold Plated Speaker Banana Plugs, Closed Screw Type",
@@ -11742,8 +11742,8 @@
             "url": "https://www.monoprice.com/product?p_id=24284",
             "product_id": 24284,
             "available": true,
-            "rating": 4.5,
-            "num_reviews": 63
+            "rating": 4.6,
+            "num_reviews": 64
         },
         "24285": {
             "name": "Monoprice Essentials USB Type-C to Type-C 3.1 Gen 2 Cable - 10Gbps, 5A, 30AWG, Black, 1m (3.3 ft)",
@@ -12569,7 +12569,7 @@
             "price": 8.39,
             "url": "https://www.monoprice.com/product?p_id=24528",
             "product_id": 24528,
-            "available": true,
+            "available": false,
             "rating": 3.8,
             "num_reviews": 4
         },
@@ -14459,7 +14459,7 @@
             "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=29440",
             "product_id": 29440,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 529
         },
@@ -43887,6 +43887,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-30T13:54:23Z"
+        "timestamp": "2023-05-30T14:06:22Z"
     }
 }
