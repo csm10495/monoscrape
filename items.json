@@ -37933,7 +37933,7 @@
             "product_id": 5901,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 496
+            "num_reviews": 497
         },
         "5902": {
             "name": "Monoprice Cat6A 10ft Blue Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -37942,7 +37942,7 @@
             "product_id": 5902,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 496
+            "num_reviews": 497
         },
         "5903": {
             "name": "Monoprice Cat6A 14ft Blue Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -39137,7 +39137,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=6539",
             "product_id": 6539,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 89
         },
@@ -42143,7 +42143,7 @@
             "price": 0.89,
             "url": "https://www.monoprice.com/product?p_id=8780",
             "product_id": 8780,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 230
         },
@@ -43797,6 +43797,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-30T22:31:29Z"
+        "timestamp": "2023-05-30T22:36:58Z"
     }
 }
