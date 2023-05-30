@@ -17033,7 +17033,7 @@
             "price": 20.99,
             "url": "https://www.monoprice.com/product?p_id=33466",
             "product_id": 33466,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 17
         },
@@ -19760,7 +19760,7 @@
             "price": 21.84,
             "url": "https://www.monoprice.com/product?p_id=34790",
             "product_id": 34790,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 67
         },
@@ -20318,7 +20318,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=35115",
             "product_id": 35115,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 8
         },
@@ -23154,8 +23154,8 @@
             "url": "https://www.monoprice.com/product?p_id=38598",
             "product_id": 38598,
             "available": true,
-            "rating": 4.6,
-            "num_reviews": 14
+            "rating": 4.7,
+            "num_reviews": 15
         },
         "38600": {
             "name": "Monoprice Select USB 3.0 Type-A to Type-A Female Extension Cable, 3ft, Black",
@@ -43779,6 +43779,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-30T19:56:41Z"
+        "timestamp": "2023-05-30T20:09:06Z"
     }
 }
