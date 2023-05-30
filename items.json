@@ -28593,6 +28593,15 @@
             "rating": 5,
             "num_reviews": 7
         },
+        "4112": {
+            "name": "Monoprice Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 2ft, Gray",
+            "price": 1.79,
+            "url": "https://www.monoprice.com/product?p_id=4112",
+            "product_id": 4112,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 3399
+        },
         "4113": {
             "name": "Monoprice Cat6 2ft White Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 1.79,
@@ -41434,7 +41443,7 @@
             "product_id": 8248,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 281
+            "num_reviews": 280
         },
         "8321": {
             "name": "Monoprice Button Design Noise Isolating Earbuds Headphones, Black \u0026 White",
@@ -42665,7 +42674,7 @@
             "price": 22.99,
             "url": "https://www.monoprice.com/product?p_id=9443",
             "product_id": 9443,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 141
         },
@@ -43788,6 +43797,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-30T21:25:15Z"
+        "timestamp": "2023-05-30T21:34:41Z"
     }
 }
