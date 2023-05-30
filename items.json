@@ -5720,7 +5720,7 @@
             "price": 0.9,
             "url": "https://www.monoprice.com/product?p_id=14304",
             "product_id": 14304,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 167
         },
@@ -6039,6 +6039,15 @@
             "rating": 4.5,
             "num_reviews": 60
         },
+        "14767": {
+            "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Black, (UL)",
+            "price": 39.99,
+            "url": "https://www.monoprice.com/product?p_id=14767",
+            "product_id": 14767,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 92
+        },
         "14768": {
             "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Gray, (UL)",
             "price": 39.99,
@@ -6098,7 +6107,7 @@
             "price": 2.29,
             "url": "https://www.monoprice.com/product?p_id=14786",
             "product_id": 14786,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 273
         },
@@ -6845,7 +6854,7 @@
             "price": 33.99,
             "url": "https://www.monoprice.com/product?p_id=15169",
             "product_id": 15169,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 529
         },
@@ -7505,6 +7514,15 @@
             "available": false,
             "rating": 4.5,
             "num_reviews": 62
+        },
+        "15722": {
+            "name": "Monoprice Sit-Stand Dual-Motor Height Adjustable Table Desk Frame, Electric, Black",
+            "price": 319.99,
+            "url": "https://www.monoprice.com/product?p_id=15722",
+            "product_id": 15722,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 211
         },
         "15723": {
             "name": "Monoprice Height Adjustable PC Workstation Cart for Sit-Stand",
@@ -43761,6 +43779,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-30T19:36:43Z"
+        "timestamp": "2023-05-30T19:46:49Z"
     }
 }
