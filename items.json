@@ -28248,8 +28248,8 @@
             "url": "https://www.monoprice.com/product?p_id=41018",
             "product_id": 41018,
             "available": true,
-            "rating": 4.7,
-            "num_reviews": 37
+            "rating": 4.8,
+            "num_reviews": 36
         },
         "41019": {
             "name": "Monoprice Cat8 50ft Black Patch Cable, Double Shielded (S/FTP), 26AWG, 2GHz, 40G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
@@ -29318,7 +29318,7 @@
             "price": 58.99,
             "url": "https://www.monoprice.com/product?p_id=41527",
             "product_id": 41527,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 6
         },
@@ -29786,7 +29786,7 @@
             "price": 2.39,
             "url": "https://www.monoprice.com/product?p_id=41839",
             "product_id": 41839,
-            "available": false,
+            "available": true,
             "rating": 3.9,
             "num_reviews": 9
         },
@@ -31572,15 +31572,6 @@
             "rating": 4.7,
             "num_reviews": 30
         },
-        "42824": {
-            "name": "Monoprice M5 x 16mm Rack Mount Cage Nuts, Screws and Washers, 50 sets, Zinc Plated, Black",
-            "price": 4.78,
-            "url": "https://www.monoprice.com/product?p_id=42824",
-            "product_id": 42824,
-            "available": false,
-            "rating": 4,
-            "num_reviews": 1
-        },
         "42825": {
             "name": "Monoprice M6 x 16mm Rack Mount Cage Nuts, Screws and Washers, 50 sets, Zinc Plated, Black",
             "price": 5.59,
@@ -31685,7 +31676,7 @@
             "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=42837",
             "product_id": 42837,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 13
         },
@@ -31814,6 +31805,15 @@
             "available": true,
             "rating": 4.4,
             "num_reviews": 5
+        },
+        "42866": {
+            "name": "Mini Portable UV Ultraviolet Instant Sterilizing LED Light for iPhone - Silver",
+            "price": 3.99,
+            "url": "https://www.monoprice.com/product?p_id=42866",
+            "product_id": 42866,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
         },
         "42867": {
             "name": "Mini Portable UV Ultraviolet Instant Sterilizing LED Light for iPhone - Black",
@@ -32369,7 +32369,7 @@
             "price": 1.79,
             "url": "https://www.monoprice.com/product?p_id=43048",
             "product_id": 43048,
-            "available": false,
+            "available": true,
             "rating": 2.5,
             "num_reviews": 2
         },
@@ -32632,7 +32632,7 @@
             "product_id": 43152,
             "available": true,
             "rating": 5,
-            "num_reviews": 1
+            "num_reviews": 2
         },
         "43153": {
             "name": "Monolith by Monoprice Encore B5 Bookshelf Speakers (Each)",
@@ -33118,7 +33118,7 @@
             "product_id": 43239,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 31
+            "num_reviews": 32
         },
         "43240": {
             "name": "Monoprice DT-3BT 50-Watt Multimedia Desktop Powered Speakers with Bluetooth",
@@ -33939,6 +33939,15 @@
             "rating": 0,
             "num_reviews": 0
         },
+        "43581": {
+            "name": "14 Hydroponics Growing System, Indoor Herb Garden with LED Grow Light, Up to 18.5'' Height Adjustable Indoor Gardening System, Smart Plant Gardening Gifts for Women Mom Christmas Gift",
+            "price": 49.99,
+            "url": "https://www.monoprice.com/product?p_id=43581",
+            "product_id": 43581,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "43582": {
             "name": "Car Headrest Mount Holder, Auto Backseat Tablets Stand Cradle, Compatible with iPad Mini, Cell Phone, Galaxy Tab, Kindle Fire HD, Other 4.7 -10.5\" Device, For Kids",
             "price": 2.69,
@@ -34088,7 +34097,7 @@
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=43662",
             "product_id": 43662,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -34648,7 +34657,7 @@
             "product_id": 44263,
             "available": true,
             "rating": 2.1,
-            "num_reviews": 7
+            "num_reviews": 8
         },
         "44264": {
             "name": "Pure Outdoor by Monoprice Complete Disc Golf Set with Carrying Case and Discs",
@@ -35424,6 +35433,24 @@
             "rating": 0,
             "num_reviews": 0
         },
+        "44578": {
+            "name": "Monolith by Monoprice M-212 Dual 12in THX Certified Ultra 1000 Watt Powered Subwoofer (Open Box)",
+            "price": 1099.99,
+            "url": "https://www.monoprice.com/product?p_id=44578",
+            "product_id": 44578,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "44579": {
+            "name": "Monolith by Monoprice 13in THX Certified Ultra 2000-Watt Powered Subwoofer (Open Box)",
+            "price": 999.99,
+            "url": "https://www.monoprice.com/product?p_id=44579",
+            "product_id": 44579,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "44580": {
             "name": "Monolith by Monoprice M-210 Dual 10in THX Certified Ultra 1000-Watt Powered Subwoofer (Open Box)",
             "price": 799.99,
@@ -35600,7 +35627,7 @@
             "price": 329.99,
             "url": "https://www.monoprice.com/product?p_id=44693",
             "product_id": 44693,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -43833,6 +43860,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-30T17:44:35Z"
+        "timestamp": "2023-05-30T17:54:45Z"
     }
 }
