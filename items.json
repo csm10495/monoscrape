@@ -19616,7 +19616,7 @@
             "price": 62.99,
             "url": "https://www.monoprice.com/product?p_id=34706",
             "product_id": 34706,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 546
         },
@@ -19861,7 +19861,7 @@
             "product_id": 34827,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 90
+            "num_reviews": 91
         },
         "34828": {
             "name": "Monoprice Triple-Motor Height-Adjustable Sit-Stand L-Shaped Corner Desk Frame, White",
@@ -23542,7 +23542,7 @@
             "product_id": 38802,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 86
+            "num_reviews": 87
         },
         "38803": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 1.5ft, Red",
@@ -24116,7 +24116,7 @@
             "price": 8.09,
             "url": "https://www.monoprice.com/product?p_id=38899",
             "product_id": 38899,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 79
         },
@@ -24422,7 +24422,7 @@
             "price": 89.99,
             "url": "https://www.monoprice.com/product?p_id=39021",
             "product_id": 39021,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 62
         },
@@ -43833,6 +43833,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-30T17:34:57Z"
+        "timestamp": "2023-05-30T17:44:35Z"
     }
 }
