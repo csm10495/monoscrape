@@ -29457,15 +29457,6 @@
             "rating": 4.7,
             "num_reviews": 38
         },
-        "41692": {
-            "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, H05VV-F 3G 1.0 mm",
-            "price": 3.99,
-            "url": "https://www.monoprice.com/product?p_id=41692",
-            "product_id": 41692,
-            "available": false,
-            "rating": 4.7,
-            "num_reviews": 38
-        },
         "41693": {
             "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, H05VV-F 3G 1.0 mm",
             "price": 5.99,
@@ -29654,15 +29645,6 @@
             "available": false,
             "rating": 4.9,
             "num_reviews": 11
-        },
-        "41777": {
-            "name": "Coiled Power Tool Extension Cord, 16AWG, 13A, SJT, Orange, Expands from 3ft to 10ft",
-            "price": 15.99,
-            "url": "https://www.monoprice.com/product?p_id=41777",
-            "product_id": 41777,
-            "available": false,
-            "rating": 4,
-            "num_reviews": 1
         },
         "41779": {
             "name": "UVC Sterilizer Cell Phone Cleaner, Portable Smart Phone Cleaner Cleaning Device Disinfection Tool Sterilization for Cellphone Jewelry Watches",
@@ -31595,7 +31577,7 @@
             "price": 4.78,
             "url": "https://www.monoprice.com/product?p_id=42824",
             "product_id": 42824,
-            "available": true,
+            "available": false,
             "rating": 4,
             "num_reviews": 1
         },
@@ -32427,15 +32409,6 @@
             "rating": 4.7,
             "num_reviews": 57
         },
-        "43074": {
-            "name": "Monoprice Cat6 2ft White Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series  Ethernet Cable",
-            "price": 0.89,
-            "url": "https://www.monoprice.com/product?p_id=43074",
-            "product_id": 43074,
-            "available": false,
-            "rating": 4.7,
-            "num_reviews": 57
-        },
         "43075": {
             "name": "Monoprice Cat6 3ft White Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
             "price": 1.43,
@@ -32499,15 +32472,6 @@
             "rating": 4.7,
             "num_reviews": 57
         },
-        "43084": {
-            "name": "Monoprice Flexboot Cat6 Ethernet Patch Cable - Snagless RJ45, Flat, 550MHz, UTP, Pure Bare Copper Wire, 30AWG, 75ft, White",
-            "price": 9.99,
-            "url": "https://www.monoprice.com/product?p_id=43084",
-            "product_id": 43084,
-            "available": false,
-            "rating": 4.7,
-            "num_reviews": 57
-        },
         "43103": {
             "name": "Monoprice OM3 Fiber Optic Cable - Reverse Polarity LC/LC Uniboot, UL, 50/125 Type, 10GB, Aqua, 1m, Corning",
             "price": 11.99,
@@ -32540,15 +32504,6 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=43106",
             "product_id": 43106,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "43108": {
-            "name": "Monoprice OM3 Fiber Optic Cable - Reverse Polarity LC/LC Uniboot, UL, 50/125 Type, 10GB, Aqua, 15m, Corning",
-            "price": 13.99,
-            "url": "https://www.monoprice.com/product?p_id=43108",
-            "product_id": 43108,
             "available": false,
             "rating": 0,
             "num_reviews": 0
@@ -35627,7 +35582,7 @@
             "price": 1099.99,
             "url": "https://www.monoprice.com/product?p_id=44687",
             "product_id": 44687,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -43896,6 +43851,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-30T16:44:45Z"
+        "timestamp": "2023-05-30T16:54:53Z"
     }
 }
