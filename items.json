@@ -4948,7 +4948,7 @@
             "product_id": 13735,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 156
+            "num_reviews": 157
         },
         "13736": {
             "name": "Monoprice Cat6 1000ft Red CMP UL Bulk Cable, TAA, Solid (w/spine), UTP, 23AWG, 550MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
@@ -8197,7 +8197,7 @@
             "product_id": 16117,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1707
+            "num_reviews": 1708
         },
         "16118": {
             "name": "Monoprice 4K Certified Premium High Speed HDMI Cable 6ft - 18Gbps White",
@@ -43878,6 +43878,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-30T09:44:05Z"
+        "timestamp": "2023-05-30T09:53:55Z"
     }
 }
