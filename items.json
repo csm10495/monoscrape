@@ -11725,7 +11725,7 @@
             "product_id": 24278,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 33
+            "num_reviews": 34
         },
         "24279": {
             "name": "Monoprice Blackbird 4K Fiber Optic HDMI Extender, 3300feet, 1000m, 4k@60Hz, IR, RS-232, HDMI 2.0 Support",
@@ -43914,6 +43914,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-30T16:10:46Z"
+        "timestamp": "2023-05-30T16:32:51Z"
     }
 }
