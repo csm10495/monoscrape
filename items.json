@@ -15802,7 +15802,7 @@
             "product_id": 31034,
             "available": false,
             "rating": 4.5,
-            "num_reviews": 22
+            "num_reviews": 23
         },
         "31035": {
             "name": "Monoprice Sycamore Outdoor Burial 8in Subwoofer with Dual Voice Coil (each)",
@@ -18752,7 +18752,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=34267",
             "product_id": 34267,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 76
         },
@@ -20940,8 +20940,8 @@
             "url": "https://www.monoprice.com/product?p_id=35944",
             "product_id": 35944,
             "available": false,
-            "rating": 4.2,
-            "num_reviews": 108
+            "rating": 4.3,
+            "num_reviews": 107
         },
         "35995": {
             "name": "Monoprice 19in Blank Fiber Patch Panel 3LGX Cassettes 1U",
@@ -21861,15 +21861,6 @@
             "rating": 5,
             "num_reviews": 19
         },
-        "37893": {
-            "name": "Wireless LED Multi-color Led Night light decoration Light Dream Star 25\" x 25\" Extra Large, Holiday Party Decorations Patio Front yard Backyard",
-            "price": 7.79,
-            "url": "https://www.monoprice.com/product?p_id=37893",
-            "product_id": 37893,
-            "available": false,
-            "rating": 3.5,
-            "num_reviews": 15
-        },
         "37897": {
             "name": "Monolith by Monoprice Electrostatic Headphone with Amplifier (Open Box)",
             "price": 249,
@@ -22109,7 +22100,7 @@
             "price": 11.43,
             "url": "https://www.monoprice.com/product?p_id=38084",
             "product_id": 38084,
-            "available": false,
+            "available": true,
             "rating": 2.7,
             "num_reviews": 12
         },
@@ -22631,7 +22622,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=38316",
             "product_id": 38316,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 267
         },
@@ -22919,7 +22910,7 @@
             "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=38403",
             "product_id": 38403,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 18
         },
@@ -24224,7 +24215,7 @@
             "price": 5.09,
             "url": "https://www.monoprice.com/product?p_id=38910",
             "product_id": 38910,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 79
         },
@@ -43887,6 +43878,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-30T18:44:34Z"
+        "timestamp": "2023-05-30T18:54:44Z"
     }
 }
