@@ -15496,7 +15496,7 @@
             "product_id": 30768,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 203
+            "num_reviews": 204
         },
         "30769": {
             "name": "Monoprice Palette Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 6ft Red",
@@ -17180,15 +17180,6 @@
             "available": false,
             "rating": 4.8,
             "num_reviews": 48
-        },
-        "33603": {
-            "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A/1250W, 125V, 3-Prong, Green, 6ft",
-            "price": 2.99,
-            "url": "https://www.monoprice.com/product?p_id=33603",
-            "product_id": 33603,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 354
         },
         "33604": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A/1250W, 125V, 3-Prong, Blue, 6ft",
@@ -19656,24 +19647,6 @@
             "rating": 5,
             "num_reviews": 1
         },
-        "34744": {
-            "name": "Cat8 24AWG S/FTP Ethernet Network Cable, 2GHz, 40G, 3m, Black, 5 pack",
-            "price": 29.99,
-            "url": "https://www.monoprice.com/product?p_id=34744",
-            "product_id": 34744,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 69
-        },
-        "34746": {
-            "name": "Cat8 24AWG S/FTP Ethernet Network Cable, 2GHz, 40G, 7m, Black, 5 pack",
-            "price": 47.98,
-            "url": "https://www.monoprice.com/product?p_id=34746",
-            "product_id": 34746,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 69
-        },
         "34775": {
             "name": "FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 10m, White, 5 pack",
             "price": 11.98,
@@ -21004,7 +20977,7 @@
             "product_id": 36077,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 22
+            "num_reviews": 23
         },
         "36078": {
             "name": "Monoprice Height Adjustable Dual Motor Easy Assembly Fold-Out Sit-Stand Desk Frame",
@@ -22455,6 +22428,15 @@
             "rating": 4.3,
             "num_reviews": 4
         },
+        "38277": {
+            "name": "Monoprice OM3 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 10m",
+            "price": 6.49,
+            "url": "https://www.monoprice.com/product?p_id=38277",
+            "product_id": 38277,
+            "available": true,
+            "rating": 4.3,
+            "num_reviews": 4
+        },
         "38279": {
             "name": "Monoprice OM3 Fiber Optic Cable - LC/LC, 50/125 Type, Multi-Mode, Duplex, 10GB, Aqua, 30m",
             "price": 6.58,
@@ -22967,15 +22949,6 @@
             "available": true,
             "rating": 4.9,
             "num_reviews": 1854
-        },
-        "38450": {
-            "name": "Monoprice Single-Mode Fiber Optic Cable - LC/LC, 9/125 Type, Duplex, Yellow, 2m",
-            "price": 1.73,
-            "url": "https://www.monoprice.com/product?p_id=38450",
-            "product_id": 38450,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 1
         },
         "3846": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 16AWG, 500ft, White",
@@ -23820,6 +23793,15 @@
             "url": "https://www.monoprice.com/product?p_id=38838",
             "product_id": 38838,
             "available": false,
+            "rating": 4.9,
+            "num_reviews": 60
+        },
+        "38840": {
+            "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 3A/60W, 10ft, Black",
+            "price": 7.99,
+            "url": "https://www.monoprice.com/product?p_id=38840",
+            "product_id": 38840,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 60
         },
@@ -43914,6 +43896,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-30T16:32:51Z"
+        "timestamp": "2023-05-30T16:44:45Z"
     }
 }
