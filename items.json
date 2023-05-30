@@ -1926,15 +1926,6 @@
             "rating": 4.1,
             "num_reviews": 159
         },
-        "11797": {
-            "name": "Monoprice OM1 Fiber Optic Cable - LC/LC, UL, 62.5/125 Type, Multi-Mode, Orange, 6m, Corning",
-            "price": 4.86,
-            "url": "https://www.monoprice.com/product?p_id=11797",
-            "product_id": 11797,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 23
-        },
         "11830": {
             "name": "Monoprice OM1 Fiber Optic Cable - SC/SC, UL, 62.5/125 Type, Multi-Mode, Orange, 20m, Corning",
             "price": 8.98,
@@ -6030,6 +6021,15 @@
             "rating": 4.9,
             "num_reviews": 3042
         },
+        "14760": {
+            "name": "Monoprice Cat6 Ethernet Bulk Cable - Stranded, 550MHz, UTP, CM, Pure Bare Copper Wire, 24AWG, 250ft, Black",
+            "price": 35.99,
+            "url": "https://www.monoprice.com/product?p_id=14760",
+            "product_id": 14760,
+            "available": true,
+            "rating": 4.5,
+            "num_reviews": 60
+        },
         "14768": {
             "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Gray, (UL)",
             "price": 39.99,
@@ -6845,7 +6845,7 @@
             "price": 33.99,
             "url": "https://www.monoprice.com/product?p_id=15170",
             "product_id": 15170,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 529
         },
@@ -7610,7 +7610,7 @@
             "price": 16.47,
             "url": "https://www.monoprice.com/product?p_id=15835",
             "product_id": 15835,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -8188,7 +8188,7 @@
             "product_id": 16094,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 141
+            "num_reviews": 142
         },
         "16095": {
             "name": "Monoprice EZ Series Low Profile Fixed TV Wall Mount Bracket For LED TVs 46in to 70in, Max Weight 77lbs, VESA Patterns Up to 600x400, UL Certified",
@@ -8341,7 +8341,7 @@
             "product_id": 16176,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 156
+            "num_reviews": 157
         },
         "16177": {
             "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 12AWG, 1000ft, Black",
@@ -43833,6 +43833,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-30T17:21:43Z"
+        "timestamp": "2023-05-30T17:29:05Z"
     }
 }
