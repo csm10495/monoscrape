@@ -131,7 +131,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=10149",
             "product_id": 10149,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 159
         },
@@ -2817,6 +2817,15 @@
             "rating": 4.3,
             "num_reviews": 2056
         },
+        "12838": {
+            "name": "Monoprice Select Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 4ft White",
+            "price": 8.39,
+            "url": "https://www.monoprice.com/product?p_id=12838",
+            "product_id": 12838,
+            "available": true,
+            "rating": 4.3,
+            "num_reviews": 2056
+        },
         "12839": {
             "name": "Monoprice Select Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 6ft Black",
             "price": 8.99,
@@ -3335,7 +3344,7 @@
             "price": 1.29,
             "url": "https://www.monoprice.com/product?p_id=13236",
             "product_id": 13236,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 167
         },
@@ -5345,6 +5354,15 @@
             "available": false,
             "rating": 4.9,
             "num_reviews": 3042
+        },
+        "13913": {
+            "name": "Monoprice Speaker Wire, Braided with Banana Plugs, 2-Conductor, 14AWG, 10ft",
+            "price": 17.29,
+            "url": "https://www.monoprice.com/product?p_id=13913",
+            "product_id": 13913,
+            "available": true,
+            "rating": 4.5,
+            "num_reviews": 202
         },
         "13919": {
             "name": "Monoprice Select Series USB-A to Micro B Cable, 2.4A, 22/30AWG, Black, 0.5ft",
@@ -43896,6 +43914,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-30T15:55:26Z"
+        "timestamp": "2023-05-30T16:10:46Z"
     }
 }
