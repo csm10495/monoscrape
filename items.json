@@ -13012,7 +13012,7 @@
             "product_id": 2680,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1461
+            "num_reviews": 1462
         },
         "2681": {
             "name": "Monoprice 3ft High-quality Coaxial Audio/Video RCA CL2 Rated Cable M/M RG6U 75ohm Gold connector (for S/PDIF, Digital Coax, Subwoofer \u0026 Composite Video)",
@@ -36810,15 +36810,6 @@
             "rating": 4.9,
             "num_reviews": 93
         },
-        "5306": {
-            "name": "Monoprice Outdoor Extension Cord - NEMA 5-15P to NEMA 5-15R, 12AWG, 20A, SJTW, Black, 100ft",
-            "price": 152.49,
-            "url": "https://www.monoprice.com/product?p_id=5306",
-            "product_id": 5306,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 29
-        },
         "5308": {
             "name": "Monoprice Power Cord Splitter - NEMA 5-15P to 2x NEMA 5-15R, 16AWG, 13A/1625W, 3-Prong, Black, 1.2ft",
             "price": 5.99,
@@ -41488,7 +41479,7 @@
             "product_id": 8247,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 261
+            "num_reviews": 262
         },
         "8248": {
             "name": "Monoprice 8in 60-Watt Powered Subwoofer, Black",
@@ -43425,15 +43416,6 @@
             "rating": 4.9,
             "num_reviews": 1467
         },
-        "9829": {
-            "name": "Monoprice Cat6 100ft Red Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
-            "price": 12.99,
-            "url": "https://www.monoprice.com/product?p_id=9829",
-            "product_id": 9829,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 1467
-        },
         "9830": {
             "name": "Monoprice Cat6 2ft Red Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
             "price": 1.79,
@@ -43851,6 +43833,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-30T17:05:11Z"
+        "timestamp": "2023-05-30T17:21:43Z"
     }
 }
