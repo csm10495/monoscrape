@@ -10895,7 +10895,7 @@
             "price": 3.24,
             "url": "https://www.monoprice.com/product?p_id=2274",
             "product_id": 2274,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 71
         },
@@ -11075,7 +11075,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=2306",
             "product_id": 2306,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3399
         },
@@ -13030,7 +13030,7 @@
             "product_id": 2682,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1461
+            "num_reviews": 1462
         },
         "2683": {
             "name": "Monoprice 25ft High-quality Coaxial Audio/Video RCA CL2 Rated Cable - RG6/U 75ohm (for S/PDIF, Digital Coax, Subwoofer \u0026 Composite Video)",
@@ -17924,7 +17924,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=3386",
             "product_id": 3386,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3042
         },
@@ -36324,6 +36324,15 @@
             "rating": 4.9,
             "num_reviews": 3042
         },
+        "4977": {
+            "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 0.5ft, Gray",
+            "price": 0.49,
+            "url": "https://www.monoprice.com/product?p_id=4977",
+            "product_id": 4977,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 3042
+        },
         "4984": {
             "name": "Monoprice Cat5e 20ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 5.49,
@@ -40766,7 +40775,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=7629",
             "product_id": 7629,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 16
         },
@@ -41506,7 +41515,7 @@
             "product_id": 8247,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 262
+            "num_reviews": 261
         },
         "8248": {
             "name": "Monoprice 8in 60-Watt Powered Subwoofer, Black",
@@ -41939,6 +41948,15 @@
             "available": true,
             "rating": 4.6,
             "num_reviews": 116
+        },
+        "8630": {
+            "name": "Monoprice Keystone Jack Panel, 48 ports",
+            "price": 13.99,
+            "url": "https://www.monoprice.com/product?p_id=8630",
+            "product_id": 8630,
+            "available": true,
+            "rating": 4.1,
+            "num_reviews": 101
         },
         "8631": {
             "name": "Monoprice Single Sided Shelf, 3.5(H) x 10(D) x 19(W), 30 lbs.",
@@ -43860,6 +43878,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-30T18:10:16Z"
+        "timestamp": "2023-05-30T18:27:55Z"
     }
 }
