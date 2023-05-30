@@ -28463,7 +28463,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=41083",
             "product_id": 41083,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 148
         },
@@ -31183,7 +31183,7 @@
             "product_id": 42643,
             "available": true,
             "rating": 3.8,
-            "num_reviews": 30
+            "num_reviews": 31
         },
         "42644": {
             "name": "Blackbird 4K HDMI 2.0 USB 3.0 4x1 KVM Switch, 4K@60Hz, HDR, YCbCr 4:4:4, HDCP 2.2",
@@ -43878,6 +43878,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-30T13:19:58Z"
+        "timestamp": "2023-05-30T13:29:36Z"
     }
 }
