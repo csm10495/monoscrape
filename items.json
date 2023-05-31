@@ -540,15 +540,6 @@
             "rating": 4.6,
             "num_reviews": 5
         },
-        "10880": {
-            "name": "Monoprice Screen Protector (3-Pack) w/ Cleaning Cloth for Samsung S®4 Mini - Transparent Finish",
-            "price": 0.3,
-            "url": "https://www.monoprice.com/product?p_id=10880",
-            "product_id": 10880,
-            "available": false,
-            "rating": 3.5,
-            "num_reviews": 2
-        },
         "10934": {
             "name": "Monoprice PS/2 Keyboard/Mouse to USB Converter Adapter, Black",
             "price": 6.49,
@@ -1922,7 +1913,7 @@
             "price": 20.59,
             "url": "https://www.monoprice.com/product?p_id=11778",
             "product_id": 11778,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 575
         },
@@ -43725,6 +43716,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-31T23:44:38Z"
+        "timestamp": "2023-05-31T23:54:34Z"
     }
 }
