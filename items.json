@@ -23226,8 +23226,8 @@
             "url": "https://www.monoprice.com/product?p_id=38613",
             "product_id": 38613,
             "available": false,
-            "rating": 4.9,
-            "num_reviews": 11
+            "rating": 0,
+            "num_reviews": 0
         },
         "38614": {
             "name": "Monoprice Select USB 3.0 Type-C to Type-B Cable, 6ft, Black",
@@ -23541,8 +23541,8 @@
             "url": "https://www.monoprice.com/product?p_id=38805",
             "product_id": 38805,
             "available": false,
-            "rating": 4.5,
-            "num_reviews": 87
+            "rating": 0,
+            "num_reviews": 0
         },
         "38806": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 10ft, Red",
@@ -43734,6 +43734,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-31T22:05:55Z"
+        "timestamp": "2023-05-31T22:22:36Z"
     }
 }
