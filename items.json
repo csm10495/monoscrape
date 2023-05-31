@@ -15953,7 +15953,7 @@
             "price": 10.49,
             "url": "https://www.monoprice.com/product?p_id=31181",
             "product_id": 31181,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 31
         },
@@ -16628,7 +16628,7 @@
             "price": 28.99,
             "url": "https://www.monoprice.com/product?p_id=33201",
             "product_id": 33201,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 529
         },
@@ -18626,7 +18626,7 @@
             "price": 2.29,
             "url": "https://www.monoprice.com/product?p_id=34229",
             "product_id": 34229,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 76
         },
@@ -18644,7 +18644,7 @@
             "price": 2.29,
             "url": "https://www.monoprice.com/product?p_id=34230",
             "product_id": 34230,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 76
         },
@@ -19737,15 +19737,6 @@
             "rating": 4.8,
             "num_reviews": 67
         },
-        "34790": {
-            "name": "SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, S/STP, Pure Bare Copper Wire, 36AWG, 2m, Black, 5 pack",
-            "price": 21.84,
-            "url": "https://www.monoprice.com/product?p_id=34790",
-            "product_id": 34790,
-            "available": false,
-            "rating": 4.8,
-            "num_reviews": 67
-        },
         "34801": {
             "name": "SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, S/STP, Pure Bare Copper Wire, 36AWG, 7m, Blue, 5 pack",
             "price": 37.1,
@@ -19958,7 +19949,7 @@
             "price": 6.96,
             "url": "https://www.monoprice.com/product?p_id=34839",
             "product_id": 34839,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 505
         },
@@ -23846,7 +23837,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=38846",
             "product_id": 38846,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 60
         },
@@ -43779,6 +43770,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-31T16:29:22Z"
+        "timestamp": "2023-05-31T16:39:10Z"
     }
 }
