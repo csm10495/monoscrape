@@ -10653,8 +10653,8 @@
             "url": "https://www.monoprice.com/product?p_id=21871",
             "product_id": 21871,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 4,
+            "num_reviews": 1
         },
         "21876": {
             "name": "Monoprice Commercial Series Menu Video Wall TV Wall Mount Bracket with Push-to-Pop-Out - TVs up to 70in, Max Weight 99 lbs., Extension of 2.7in to 8.5in, VESA Patterns Up to 600x400, Security Brackets",
@@ -10780,7 +10780,7 @@
             "product_id": 21956,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 66
+            "num_reviews": 67
         },
         "2196": {
             "name": "Monoprice RCA Coaxial Compsite Video and Stereo Audio Cable, 3ft",
@@ -11959,7 +11959,7 @@
             "product_id": 24340,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 496
+            "num_reviews": 497
         },
         "24341": {
             "name": "Monoprice Cat6A 3ft Yellow Patch Cable,  Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -11995,7 +11995,7 @@
             "product_id": 24345,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 496
+            "num_reviews": 497
         },
         "24347": {
             "name": "Monoprice Cat6A Ethernet Patch Cable - Snagless RJ45, 550MHz, STP, Pure Bare Copper Wire, 10G, 26AWG, 5ft, Red",
@@ -12004,7 +12004,7 @@
             "product_id": 24347,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 496
+            "num_reviews": 497
         },
         "24349": {
             "name": "Monoprice Cat6A 5ft Orange Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -12085,7 +12085,7 @@
             "product_id": 24358,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 496
+            "num_reviews": 497
         },
         "24359": {
             "name": "Monoprice Cat6A 7ft Purple Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -12175,7 +12175,7 @@
             "product_id": 24368,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 496
+            "num_reviews": 497
         },
         "24369": {
             "name": "Monoprice Cat6A 14ft White Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -12202,7 +12202,7 @@
             "product_id": 24374,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 496
+            "num_reviews": 497
         },
         "24376": {
             "name": "Monoprice Cat6A 20ft Black Patch Cable,  Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -12328,7 +12328,7 @@
             "product_id": 24416,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 496
+            "num_reviews": 497
         },
         "24417": {
             "name": "Monoprice Cat6A 100ft White Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -43788,6 +43788,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-31T05:43:59Z"
+        "timestamp": "2023-05-31T05:54:00Z"
     }
 }
