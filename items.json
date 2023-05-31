@@ -11896,7 +11896,7 @@
             "product_id": 24331,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 496
+            "num_reviews": 497
         },
         "24333": {
             "name": "Monoprice Cat6A 2ft Yellow Patch Cable,  Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -37794,6 +37794,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-31T07:05:24Z"
+        "timestamp": "2023-05-31T07:20:14Z"
     }
 }
