@@ -6478,7 +6478,7 @@
             "product_id": 14915,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 67
+            "num_reviews": 68
         },
         "14916": {
             "name": "Monoprice Speaker Wire, Select, 2-Conductor, 16AWG, 100ft",
@@ -7225,7 +7225,7 @@
             "product_id": 15639,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 194
+            "num_reviews": 195
         },
         "15640": {
             "name": "Pure Outdoor by Monoprice Emperor 80 Rotomolded Portable Cooler 21.1 Gal",
@@ -37794,6 +37794,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-31T06:54:11Z"
+        "timestamp": "2023-05-31T07:05:24Z"
     }
 }
