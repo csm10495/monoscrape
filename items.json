@@ -22429,7 +22429,7 @@
             "num_reviews": 4
         },
         "38291": {
-            "name": "Monoprice EZ Series Outdoor Full Motion TV Wall Mount Bracket for LED TVs 32in to 100in, Max Weight 110 lbs., VESA Patterns 75x75 to 400x400, Waterproof, Corrosion-Resistant Finish",
+            "name": "Monoprice EZ Series Outdoor Full Motion TV Wall Mount Bracket for LED TVs 32in to 100in, Max Weight 110 lbs., VESA Patterns 200x200 to 400x400, Waterproof, Corrosion-Resistant Finish",
             "price": 67.99,
             "url": "https://www.monoprice.com/product?p_id=38291",
             "product_id": 38291,
@@ -23226,8 +23226,8 @@
             "url": "https://www.monoprice.com/product?p_id=38613",
             "product_id": 38613,
             "available": false,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 4.9,
+            "num_reviews": 11
         },
         "38614": {
             "name": "Monoprice Select USB 3.0 Type-C to Type-B Cable, 6ft, Black",
@@ -23541,8 +23541,8 @@
             "url": "https://www.monoprice.com/product?p_id=38805",
             "product_id": 38805,
             "available": false,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 4.5,
+            "num_reviews": 87
         },
         "38806": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 10ft, Red",
@@ -23783,7 +23783,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=38840",
             "product_id": 38840,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 60
         },
@@ -23846,7 +23846,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=38848",
             "product_id": 38848,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 60
         },
@@ -43725,6 +43725,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-31T23:06:45Z"
+        "timestamp": "2023-05-31T23:21:43Z"
     }
 }
