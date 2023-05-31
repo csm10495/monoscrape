@@ -16344,6 +16344,15 @@
             "rating": 4.9,
             "num_reviews": 231
         },
+        "31340": {
+            "name": "Monoprice Entegrade Series Cat7 Double Shielded (S/FTP) Ethernet Patch Cable - Snagless RJ45, 600MHz, 10G, 26AWG, 7ft, Red",
+            "price": 6.49,
+            "url": "https://www.monoprice.com/product?p_id=31340",
+            "product_id": 31340,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 231
+        },
         "31345": {
             "name": "Monoprice Cat7 10ft Black Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
             "price": 7.49,
@@ -18599,7 +18608,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=34221",
             "product_id": 34221,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 76
         },
@@ -19988,15 +19997,6 @@
             "available": true,
             "rating": 5,
             "num_reviews": 6
-        },
-        "34873": {
-            "name": "Monolith by Monoprice M650 Open Back Over Ear Headphones (Open Box)",
-            "price": 59,
-            "url": "https://www.monoprice.com/product?p_id=34873",
-            "product_id": 34873,
-            "available": true,
-            "rating": 0,
-            "num_reviews": 0
         },
         "34876": {
             "name": "Select Series USB-A to USB-B 3.0 Cable - Black, 0.5m - 3 pack",
@@ -23846,7 +23846,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=38846",
             "product_id": 38846,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 60
         },
@@ -43752,6 +43752,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-31T19:34:36Z"
+        "timestamp": "2023-05-31T19:45:23Z"
     }
 }
