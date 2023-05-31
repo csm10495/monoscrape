@@ -26879,7 +26879,7 @@
             "price": 2.79,
             "url": "https://www.monoprice.com/product?p_id=40058",
             "product_id": 40058,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 42
         },
@@ -33809,7 +33809,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=43543",
             "product_id": 43543,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -35507,7 +35507,7 @@
         },
         "44685": {
             "name": "Ninja Foodi 5-in-1 Indoor Grill with 4-Quart Air Fryer with Roast, Bake, Dehydrate, and Cyclonic Grilling Technology, IG301A",
-            "price": 149.99,
+            "price": 139.99,
             "url": "https://www.monoprice.com/product?p_id=44685",
             "product_id": 44685,
             "available": true,
@@ -43788,6 +43788,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-31T14:22:01Z"
+        "timestamp": "2023-05-31T14:29:42Z"
     }
 }
