@@ -37807,7 +37807,7 @@
             "product_id": 5871,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1461
+            "num_reviews": 1462
         },
         "5872": {
             "name": "Monoprice 100ft High-quality Coaxial Audio/Video RCA CL2 Rated Cable - RG6/U 75ohm (for S/PDIF, Digital Coax, Subwoofer \u0026 Composite Video)",
@@ -40714,7 +40714,7 @@
             "product_id": 7672,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 246
+            "num_reviews": 247
         },
         "7673": {
             "name": "Monoprice Power Cord - Non-Polarized NEMA 1-15P to Non-Polarized IEC 60320 C7, 18AWG, 7A, 125V, Black, 10ft",
@@ -40865,7 +40865,7 @@
             "price": 7.49,
             "url": "https://www.monoprice.com/product?p_id=7690",
             "product_id": 7690,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 148
         },
@@ -42467,7 +42467,7 @@
             "price": 0.99,
             "url": "https://www.monoprice.com/product?p_id=939",
             "product_id": 939,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 15
         },
@@ -43734,6 +43734,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-31T17:54:44Z"
+        "timestamp": "2023-05-31T18:10:42Z"
     }
 }
