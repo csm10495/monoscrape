@@ -26991,15 +26991,6 @@
             "rating": 4.8,
             "num_reviews": 4
         },
-        "40077": {
-            "name": "Monoprice Heavy Duty Power Cord - NEMA 6-15P to IEC 60320 C13, 14AWG, 15A/3750W, SJT, 250V, Black, 8ft",
-            "price": 3.78,
-            "url": "https://www.monoprice.com/product?p_id=40077",
-            "product_id": 40077,
-            "available": false,
-            "rating": 4.8,
-            "num_reviews": 4
-        },
         "40078": {
             "name": "Monoprice Heavy Duty Power Cord - NEMA 6-15P to IEC 60320 C13, 14AWG, 15A/3750W, SJT, 250V, Black, 10ft",
             "price": 12.49,
@@ -28198,7 +28189,7 @@
             "num_reviews": 36
         },
         "41012": {
-            "name": "Monoprice Cat8 5ft Blue Patch Cable,  Double Shielded (S/FTP), 26AWG, 2GHz, 40G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
+            "name": "Monoprice Cat8 5ft Black Patch Cable,  Double Shielded (S/FTP), 26AWG, 2GHz, 40G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=41012",
             "product_id": 41012,
@@ -30038,7 +30029,7 @@
             "price": 89.99,
             "url": "https://www.monoprice.com/product?p_id=42014",
             "product_id": 42014,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 108
         },
@@ -30776,7 +30767,7 @@
             "price": 129.99,
             "url": "https://www.monoprice.com/product?p_id=42348",
             "product_id": 42348,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 31
         },
@@ -34475,7 +34466,7 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=44100",
             "product_id": 44100,
-            "available": true,
+            "available": false,
             "rating": 3.8,
             "num_reviews": 4
         },
@@ -35334,15 +35325,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "44578": {
-            "name": "Monolith by Monoprice M-212 Dual 12in THX Certified Ultra 1000 Watt Powered Subwoofer (Open Box)",
-            "price": 1099.99,
-            "url": "https://www.monoprice.com/product?p_id=44578",
-            "product_id": 44578,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "44580": {
             "name": "Monolith by Monoprice M-210 Dual 10in THX Certified Ultra 1000-Watt Powered Subwoofer (Open Box)",
             "price": 799.99,
@@ -35511,15 +35493,6 @@
             "url": "https://www.monoprice.com/product?p_id=44693",
             "product_id": 44693,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "44694": {
-            "name": "2021 Microsoft Xbox Series S 512GB Game All-Digital Console, One Xbox Wireless Controller, 1440p Gaming Resolution, 4K Streaming, 3D Sound, WiFi, White (Certified Refurbished by Manufacturer)",
-            "price": 199.99,
-            "url": "https://www.monoprice.com/product?p_id=44694",
-            "product_id": 44694,
-            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -43770,6 +43743,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-31T16:39:10Z"
+        "timestamp": "2023-05-31T16:45:07Z"
     }
 }
