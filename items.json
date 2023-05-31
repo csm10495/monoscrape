@@ -16259,7 +16259,7 @@
             "price": 16.79,
             "url": "https://www.monoprice.com/product?p_id=31293",
             "product_id": 31293,
-            "available": false,
+            "available": true,
             "rating": 4.1,
             "num_reviews": 16
         },
@@ -18374,7 +18374,7 @@
             "price": 499.99,
             "url": "https://www.monoprice.com/product?p_id=34189",
             "product_id": 34189,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 30
         },
@@ -24719,7 +24719,7 @@
             "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=39163",
             "product_id": 39163,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 56
         },
@@ -25863,8 +25863,8 @@
             "url": "https://www.monoprice.com/product?p_id=39630",
             "product_id": 39630,
             "available": true,
-            "rating": 4.4,
-            "num_reviews": 23
+            "rating": 4.5,
+            "num_reviews": 24
         },
         "39631": {
             "name": "Monoprice AtlasFlex Series Durable USB 3.2 Gen 2 Type-C Data \u0026 Power Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 1m, Red",
@@ -43743,6 +43743,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-05-31T21:05:38Z"
+        "timestamp": "2023-05-31T21:20:00Z"
     }
 }
