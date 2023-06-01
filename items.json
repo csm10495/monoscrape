@@ -13271,7 +13271,7 @@
             "price": 2.79,
             "url": "https://www.monoprice.com/product?p_id=27398",
             "product_id": 27398,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 67
         },
@@ -13988,7 +13988,7 @@
         },
         "27922": {
             "name": "Monoprice Essentials USB Type-C to Type-C 3.1 Gen 2 Cable - 10Gbps, 5A, 30AWG, White, 1m (3.3ft)",
-            "price": 10.99,
+            "price": 8.24,
             "url": "https://www.monoprice.com/product?p_id=27922",
             "product_id": 27922,
             "available": true,
@@ -43680,6 +43680,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-01T15:06:59Z"
+        "timestamp": "2023-06-01T15:23:05Z"
     }
 }
