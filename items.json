@@ -36709,7 +36709,7 @@
             "product_id": 5350,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 1304
+            "num_reviews": 1305
         },
         "5355": {
             "name": "Monoprice 1.5ft 22AWG 5-RCA Component Video/Audio Coaxial Cable (RG-59/U) - Black",
@@ -40253,7 +40253,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=7315",
             "product_id": 7315,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 3
         },
@@ -40609,7 +40609,7 @@
             "num_reviews": 183
         },
         "7670": {
-            "name": "Monoprice Power Cord - AS/NZS 3112 (Australia/New Zealand) to IEC 60320 C13, 18 AWG, 5A/1250W, 250V, Black, 6ft",
+            "name": "Monoprice Power Cord - AS/NZS 3112 (Australia/New Zealand) to IEC 60320 C13, H05VV-F 3G 0.75 mm?, Black, 6ft",
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=7670",
             "product_id": 7670,
@@ -40798,7 +40798,7 @@
             "num_reviews": 0
         },
         "7692": {
-            "name": "Monoprice Power Cord - CEE 7/7 \"SCHUKO\" (Europe) to IEC 60320 C13, 18AWG, 5A/1250W, 250V, 3-Prong, Black, 6ft",
+            "name": "Monoprice Power Cord - CEE 7/7 \"SCHUKO\" (Europe) to IEC 60320 C13, H05VV-F 3G 0.75 mm?, Black, 6ft",
             "price": 3.58,
             "url": "https://www.monoprice.com/product?p_id=7692",
             "product_id": 7692,
@@ -42134,7 +42134,7 @@
             "price": 129.99,
             "url": "https://www.monoprice.com/product?p_id=888",
             "product_id": 888,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 35
         },
@@ -42827,7 +42827,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=9765",
             "product_id": 9765,
-            "available": false,
+            "available": true,
             "rating": 4,
             "num_reviews": 729
         },
@@ -43653,6 +43653,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-01T20:24:28Z"
+        "timestamp": "2023-06-01T20:29:17Z"
     }
 }
