@@ -466,7 +466,7 @@
             "product_id": 10623,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 29
+            "num_reviews": 30
         },
         "10663": {
             "name": "Monoprice 7U 700mm Depth Audio/Video Rackmount Cabinet - GSA Approved",
@@ -1087,7 +1087,7 @@
             "product_id": 11282,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1467
+            "num_reviews": 1468
         },
         "11283": {
             "name": "Monoprice Cat6A 20ft Blue Patch Cable,  Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Molded RJ45, Entegrade Series Ethernet Cable",
@@ -1364,7 +1364,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=11336",
             "product_id": 11336,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 461
         },
@@ -1688,7 +1688,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=11387",
             "product_id": 11387,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 461
         },
@@ -2777,7 +2777,7 @@
             "price": 14.49,
             "url": "https://www.monoprice.com/product?p_id=12800",
             "product_id": 12800,
-            "available": true,
+            "available": false,
             "rating": 3.2,
             "num_reviews": 19
         },
@@ -4073,7 +4073,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=13520",
             "product_id": 13520,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 273
         },
@@ -4298,7 +4298,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=13544",
             "product_id": 13544,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 273
         },
@@ -4487,7 +4487,7 @@
             "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=13614",
             "product_id": 13614,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 53
         },
@@ -6107,7 +6107,7 @@
             "price": 2.29,
             "url": "https://www.monoprice.com/product?p_id=14787",
             "product_id": 14787,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 273
         },
@@ -6179,7 +6179,7 @@
             "price": 2.79,
             "url": "https://www.monoprice.com/product?p_id=14803",
             "product_id": 14803,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 273
         },
@@ -6287,7 +6287,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=14815",
             "product_id": 14815,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 273
         },
@@ -6296,7 +6296,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=14817",
             "product_id": 14817,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 273
         },
@@ -6323,7 +6323,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=14820",
             "product_id": 14820,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 273
         },
@@ -43680,6 +43680,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-01T12:44:21Z"
+        "timestamp": "2023-06-01T13:03:48Z"
     }
 }
