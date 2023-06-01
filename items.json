@@ -30358,7 +30358,7 @@
             "num_reviews": 0
         },
         "42094": {
-            "name": "Monoprice Power Cord - CEE 7/7 \"SCHUKO\" (Europe) to IEC 60320 C13, 18AWG, 5A/1250W, 250V, 3-Prong, Black, 3ft",
+            "name": "Monoprice Power Cord - CEE 7/7 \"SCHUKO\" (Europe) to IEC 60320 C13, H05VV-F 3G 0.75 mm?, Black, 3ft",
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=42094",
             "product_id": 42094,
@@ -43653,6 +43653,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-01T19:56:30Z"
+        "timestamp": "2023-06-01T20:08:13Z"
     }
 }
