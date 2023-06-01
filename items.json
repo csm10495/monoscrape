@@ -7656,8 +7656,8 @@
             "url": "https://www.monoprice.com/product?p_id=15866",
             "product_id": 15866,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 4,
+            "num_reviews": 16
         },
         "15867": {
             "name": "Monoprice EZ Series Low Profile Full-Motion Articulating TV Wall Mount Bracket For LED TVs 23in to 55in, Max Weight 77lbs, VESA Patterns Up to 400x400, Rotating, UL Certified",
@@ -43680,6 +43680,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-01T05:44:14Z"
+        "timestamp": "2023-06-01T05:53:58Z"
     }
 }
