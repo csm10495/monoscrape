@@ -32479,7 +32479,7 @@
             "product_id": 43152,
             "available": true,
             "rating": 5,
-            "num_reviews": 2
+            "num_reviews": 3
         },
         "43153": {
             "name": "Monolith by Monoprice Encore B5 Bookshelf Speakers (Each)",
@@ -32721,8 +32721,8 @@
             "url": "https://www.monoprice.com/product?p_id=43197",
             "product_id": 43197,
             "available": true,
-            "rating": 2.8,
-            "num_reviews": 8
+            "rating": 2.6,
+            "num_reviews": 9
         },
         "43198": {
             "name": "Monoprice Commercial Series Full-Motion Articulating TV Wall Mount Bracket For LED TVs 43in to 90in, Max Weight 132 lbs, Extension Range of 3in to 16.9in, VESA Up to 800x400, Fits Curved Screens",
@@ -34458,8 +34458,8 @@
             "url": "https://www.monoprice.com/product?p_id=44220",
             "product_id": 44220,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 4,
+            "num_reviews": 1
         },
         "44263": {
             "name": "Pure Outdoor by Monoprice Wood Cornhole Outdoor Game with Carrying Case",
@@ -43653,6 +43653,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-01T20:54:19Z"
+        "timestamp": "2023-06-01T21:06:20Z"
     }
 }
