@@ -10769,7 +10769,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=2196",
             "product_id": 2196,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 386
         },
@@ -11300,7 +11300,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=2376",
             "product_id": 2376,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 97
         },
@@ -14819,7 +14819,7 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=3021",
             "product_id": 3021,
-            "available": true,
+            "available": false,
             "rating": 4.1,
             "num_reviews": 789
         },
@@ -17726,7 +17726,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=3381",
             "product_id": 3381,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3042
         },
@@ -35503,7 +35503,7 @@
             "product_id": 4749,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 1354
+            "num_reviews": 1355
         },
         "4750": {
             "name": "Monoprice 3ft Premier Series XLR Male to XLR Female 16AWG Cable (Gold Plated) [Microphone and Interconnect]",
@@ -37436,7 +37436,7 @@
             "price": 26.99,
             "url": "https://www.monoprice.com/product?p_id=5595",
             "product_id": 5595,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 601
         },
@@ -37553,7 +37553,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=566",
             "product_id": 566,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 13
         },
@@ -38104,7 +38104,7 @@
             "product_id": 6017,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 262
+            "num_reviews": 263
         },
         "6018": {
             "name": "Monoprice 3ft 28AWG DisplayPort to VGA Cable, White",
@@ -39110,7 +39110,7 @@
             "price": 0.77,
             "url": "https://www.monoprice.com/product?p_id=6568",
             "product_id": 6568,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 6
         },
@@ -40730,7 +40730,7 @@
             "price": 5.49,
             "url": "https://www.monoprice.com/product?p_id=7680",
             "product_id": 7680,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 24
         },
@@ -43680,6 +43680,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-01T15:45:05Z"
+        "timestamp": "2023-06-01T15:54:57Z"
     }
 }
