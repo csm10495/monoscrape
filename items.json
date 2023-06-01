@@ -9889,7 +9889,7 @@
             "product_id": 21511,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 1707
+            "num_reviews": 1708
         },
         "21513": {
             "name": "Netis 24GE+4 SFP-Port Gigabit Ethernet SNMP PoE Switch, 300W",
@@ -13271,7 +13271,7 @@
             "price": 2.79,
             "url": "https://www.monoprice.com/product?p_id=27398",
             "product_id": 27398,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 67
         },
@@ -43680,6 +43680,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-01T13:03:48Z"
+        "timestamp": "2023-06-01T13:20:39Z"
     }
 }
