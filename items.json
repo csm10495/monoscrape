@@ -14936,7 +14936,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=30362",
             "product_id": 30362,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 5
         },
@@ -16844,7 +16844,7 @@
             "price": 123.49,
             "url": "https://www.monoprice.com/product?p_id=33304",
             "product_id": 33304,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 72
         },
@@ -17180,6 +17180,15 @@
             "available": false,
             "rating": 4.8,
             "num_reviews": 48
+        },
+        "33602": {
+            "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A/1250W, 125V, 3-Prong, Red, 6ft",
+            "price": 2.49,
+            "url": "https://www.monoprice.com/product?p_id=33602",
+            "product_id": 33602,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 354
         },
         "33604": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C13, 18AWG, 10A/1250W, 125V, 3-Prong, Blue, 6ft",
@@ -19103,7 +19112,7 @@
             "price": 239.99,
             "url": "https://www.monoprice.com/product?p_id=34438",
             "product_id": 34438,
-            "available": false,
+            "available": true,
             "rating": 4,
             "num_reviews": 23
         },
@@ -21893,7 +21902,7 @@
             "price": 399.99,
             "url": "https://www.monoprice.com/product?p_id=38035",
             "product_id": 38035,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 217
         },
@@ -23144,7 +23153,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=38603",
             "product_id": 38603,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 10
         },
@@ -23189,7 +23198,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=38610",
             "product_id": 38610,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 49
         },
@@ -23792,6 +23801,15 @@
             "price": 9.49,
             "url": "https://www.monoprice.com/product?p_id=38842",
             "product_id": 38842,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 60
+        },
+        "38843": {
+            "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 3A/60W, 6ft, White",
+            "price": 4.99,
+            "url": "https://www.monoprice.com/product?p_id=38843",
+            "product_id": 38843,
             "available": true,
             "rating": 4.9,
             "num_reviews": 60
@@ -26006,7 +26024,7 @@
             "price": 399.99,
             "url": "https://www.monoprice.com/product?p_id=39654",
             "product_id": 39654,
-            "available": false,
+            "available": true,
             "rating": 4,
             "num_reviews": 25
         },
@@ -43716,6 +43734,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-01T03:42:34Z"
+        "timestamp": "2023-06-01T03:48:33Z"
     }
 }
