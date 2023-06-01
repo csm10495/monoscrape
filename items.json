@@ -18743,7 +18743,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=34267",
             "product_id": 34267,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 76
         },
@@ -23091,8 +23091,8 @@
             "url": "https://www.monoprice.com/product?p_id=38596",
             "product_id": 38596,
             "available": true,
-            "rating": 4.6,
-            "num_reviews": 14
+            "rating": 4.7,
+            "num_reviews": 15
         },
         "38597": {
             "name": "Monoprice Select USB 3.0 Type-A to Type-A Cable, 3ft, Black",
@@ -23189,7 +23189,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=38610",
             "product_id": 38610,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 49
         },
@@ -24008,7 +24008,7 @@
             "price": 9.49,
             "url": "https://www.monoprice.com/product?p_id=38887",
             "product_id": 38887,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 21
         },
@@ -25583,7 +25583,7 @@
             "price": 70.53,
             "url": "https://www.monoprice.com/product?p_id=39533",
             "product_id": 39533,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 85
         },
@@ -43653,6 +43653,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-01T19:46:17Z"
+        "timestamp": "2023-06-01T19:56:30Z"
     }
 }
