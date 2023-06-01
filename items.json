@@ -4804,7 +4804,7 @@
             "product_id": 13717,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 156
+            "num_reviews": 157
         },
         "13718": {
             "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 14AWG, 500ft, Black",
@@ -6296,7 +6296,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=14817",
             "product_id": 14817,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 273
         },
@@ -43644,6 +43644,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-01T18:06:44Z"
+        "timestamp": "2023-06-01T18:28:59Z"
     }
 }
