@@ -13835,7 +13835,7 @@
         },
         "27861": {
             "name": "3 Outlet Surge Protector Wall Tap with 2 USB Charging Ports 3.4A, 950 Joules, White",
-            "price": 11.98,
+            "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=27861",
             "product_id": 27861,
             "available": false,
@@ -13988,7 +13988,7 @@
         },
         "27922": {
             "name": "Monoprice Essentials USB Type-C to Type-C 3.1 Gen 2 Cable - 10Gbps, 5A, 30AWG, White, 1m (3.3ft)",
-            "price": 9.35,
+            "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=27922",
             "product_id": 27922,
             "available": true,
@@ -43680,6 +43680,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-01T14:05:58Z"
+        "timestamp": "2023-06-01T14:22:45Z"
     }
 }
