@@ -26591,7 +26591,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=42055",
             "product_id": 42055,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 354
         },
@@ -27664,7 +27664,7 @@
             "product_id": 42683,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 226
+            "num_reviews": 227
         },
         "42684": {
             "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 26AWG, 15ft, Black",
@@ -27968,7 +27968,7 @@
             "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=42839",
             "product_id": 42839,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 14
         },
@@ -28665,15 +28665,6 @@
             "rating": 4.7,
             "num_reviews": 57
         },
-        "43074": {
-            "name": "Monoprice Cat6 2ft White Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series  Ethernet Cable",
-            "price": 0.89,
-            "url": "https://www.monoprice.com/product?p_id=43074",
-            "product_id": 43074,
-            "available": false,
-            "rating": 4.7,
-            "num_reviews": 57
-        },
         "43075": {
             "name": "Monoprice Cat6 3ft White Flat Patch Cable, UTP, 30AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
             "price": 1.43,
@@ -29103,15 +29094,6 @@
             "url": "https://www.monoprice.com/product?p_id=43190",
             "product_id": 43190,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 59
-        },
-        "43191": {
-            "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 18AWG, 10A, 3-Prong, SJT, White, 6ft",
-            "price": 3.99,
-            "url": "https://www.monoprice.com/product?p_id=43191",
-            "product_id": 43191,
-            "available": false,
             "rating": 4.9,
             "num_reviews": 59
         },
@@ -31623,15 +31605,6 @@
             "url": "https://www.monoprice.com/product?p_id=44574",
             "product_id": 44574,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "44580": {
-            "name": "Monolith by Monoprice M-210 Dual 10in THX Certified Ultra 1000-Watt Powered Subwoofer (Open Box)",
-            "price": 799.99,
-            "url": "https://www.monoprice.com/product?p_id=44580",
-            "product_id": 44580,
-            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -40044,6 +40017,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-01T16:43:35Z"
+        "timestamp": "2023-06-01T16:49:06Z"
     }
 }
