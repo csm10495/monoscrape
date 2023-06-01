@@ -29671,7 +29671,7 @@
             "product_id": 41813,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1467
+            "num_reviews": 1468
         },
         "41814": {
             "name": "Monoprice Cat6 2ft Black 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -29680,7 +29680,7 @@
             "product_id": 41814,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1467
+            "num_reviews": 1468
         },
         "41815": {
             "name": "Monoprice Cat6 2ft Blue 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -29689,7 +29689,7 @@
             "product_id": 41815,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1467
+            "num_reviews": 1468
         },
         "41816": {
             "name": "Monoprice Cat6 3ft Black 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -29707,7 +29707,7 @@
             "product_id": 41817,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1467
+            "num_reviews": 1468
         },
         "41818": {
             "name": "Monoprice Cat6 5ft Black 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -29732,9 +29732,9 @@
             "price": 27.99,
             "url": "https://www.monoprice.com/product?p_id=41820",
             "product_id": 41820,
-            "available": true,
+            "available": false,
             "rating": 4.9,
-            "num_reviews": 1467
+            "num_reviews": 1468
         },
         "41821": {
             "name": "Monoprice Cat6 7ft Blue 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -30227,7 +30227,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=42055",
             "product_id": 42055,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 354
         },
@@ -30335,7 +30335,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=42084",
             "product_id": 42084,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 24
         },
@@ -31622,7 +31622,7 @@
             "price": 79.99,
             "url": "https://www.monoprice.com/product?p_id=42841",
             "product_id": 42841,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 14
         },
@@ -32747,7 +32747,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=43191",
             "product_id": 43191,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 59
         },
@@ -33298,7 +33298,7 @@
             "product_id": 43341,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1467
+            "num_reviews": 1468
         },
         "43343": {
             "name": "Monoprice Cat6 3ft White 12-Pk Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -33352,7 +33352,7 @@
             "product_id": 43349,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1467
+            "num_reviews": 1468
         },
         "43351": {
             "name": "Pure Outdoor by Monoprice 50L Zippered Waterproof Dry Bag Backpack Duffel",
@@ -43680,6 +43680,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-01T13:33:38Z"
+        "timestamp": "2023-06-01T13:39:25Z"
     }
 }
