@@ -6598,7 +6598,7 @@
             "num_reviews": 18
         },
         "2163": {
-            "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 50ft, Purple",
+            "name": "Monoprice Cat5e 50ft Purple Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 7.48,
             "url": "https://www.monoprice.com/product?p_id=2163",
             "product_id": 2163,
@@ -6643,7 +6643,7 @@
             "num_reviews": 19
         },
         "2165": {
-            "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 100ft, Green",
+            "name": "Monoprice Cat5e 100ft Green Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 11.39,
             "url": "https://www.monoprice.com/product?p_id=2165",
             "product_id": 2165,
@@ -7629,15 +7629,6 @@
             "url": "https://www.monoprice.com/product?p_id=2329",
             "product_id": 2329,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 3399
-        },
-        "2332": {
-            "name": "Monoprice Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 100ft, Yellow",
-            "price": 15.29,
-            "url": "https://www.monoprice.com/product?p_id=2332",
-            "product_id": 2332,
-            "available": false,
             "rating": 4.9,
             "num_reviews": 3399
         },
@@ -14077,7 +14068,7 @@
             "num_reviews": 3042
         },
         "3379": {
-            "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 5ft, Orange",
+            "name": "Monoprice Cat5e 5ft Orange Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 1.03,
             "url": "https://www.monoprice.com/product?p_id=3379",
             "product_id": 3379,
@@ -32545,7 +32536,7 @@
             "num_reviews": 3042
         },
         "5007": {
-            "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 75ft, Yellow",
+            "name": "Monoprice Cat5e 75ft Yellow Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 8.98,
             "url": "https://www.monoprice.com/product?p_id=5007",
             "product_id": 5007,
@@ -33890,7 +33881,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=566",
             "product_id": 566,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 13
         },
@@ -36275,7 +36266,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=7245",
             "product_id": 7245,
-            "available": true,
+            "available": false,
             "rating": 4,
             "num_reviews": 149
         },
@@ -39241,7 +39232,7 @@
             "num_reviews": 91
         },
         "9786": {
-            "name": "Monoprice FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 20ft, Gray",
+            "name": "Monoprice Cat6 20ft Gray Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
             "price": 5.59,
             "url": "https://www.monoprice.com/product?p_id=9786",
             "product_id": 9786,
@@ -40017,6 +40008,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-01T16:54:46Z"
+        "timestamp": "2023-06-01T17:05:42Z"
     }
 }
