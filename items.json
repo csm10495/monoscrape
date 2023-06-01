@@ -29718,15 +29718,6 @@
             "rating": 4.9,
             "num_reviews": 1468
         },
-        "41839": {
-            "name": "Warm White Led Globe String Lights - Battery Operated 12Ft Waterproof for Indoor Outdoor Party Garden Patio Holiday Thanksgiving Christmas Decorations",
-            "price": 2.39,
-            "url": "https://www.monoprice.com/product?p_id=41839",
-            "product_id": 41839,
-            "available": false,
-            "rating": 3.9,
-            "num_reviews": 9
-        },
         "41840": {
             "name": "Monoprice BT-205 Bluetooth Over Ear Headphone",
             "price": 24.99,
@@ -29787,15 +29778,6 @@
             "url": "https://www.monoprice.com/product?p_id=41936",
             "product_id": 41936,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "41937": {
-            "name": "Monoprice Cat6A Ethernet Bulk Cable - Solid, 500MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, No Logo, 1000ft, Blue",
-            "price": 184.27,
-            "url": "https://www.monoprice.com/product?p_id=41937",
-            "product_id": 41937,
-            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -29958,8 +29940,8 @@
             "url": "https://www.monoprice.com/product?p_id=41990",
             "product_id": 41990,
             "available": false,
-            "rating": 4.3,
-            "num_reviews": 12
+            "rating": 4.2,
+            "num_reviews": 13
         },
         "41999": {
             "name": "Monolith by Monoprice MM-5 Powered Multimedia Speakers with Bluetooth with Qualcomm aptX HD Audio, USB DAC, Optical Inputs (open box)",
@@ -31688,15 +31670,6 @@
             "available": true,
             "rating": 4.4,
             "num_reviews": 5
-        },
-        "42866": {
-            "name": "Mini Portable UV Ultraviolet Instant Sterilizing LED Light for iPhone - Silver",
-            "price": 3.99,
-            "url": "https://www.monoprice.com/product?p_id=42866",
-            "product_id": 42866,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
         },
         "42867": {
             "name": "Mini Portable UV Ultraviolet Instant Sterilizing LED Light for iPhone - Black",
@@ -33534,6 +33507,15 @@
             "rating": 0,
             "num_reviews": 0
         },
+        "43432": {
+            "name": "Support Foot Step Stool with Handle, Non-Skid Rubber Platform, Holds up to 275 Pounds, Lightweight and Sturdy Steel Footstool for Children, Adults and Seniors, Hospital Bed, Kitchen Shelving, Bath Tub",
+            "price": 29.99,
+            "url": "https://www.monoprice.com/product?p_id=43432",
+            "product_id": 43432,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "43448": {
             "name": "Workstream by Monoprice Heavy-Duty Single-Monitor Full-Motion Adjustable Gas-Spring Desk Mount for 32~49in Monitors",
             "price": 99.99,
@@ -33831,6 +33813,15 @@
             "rating": 0,
             "num_reviews": 0
         },
+        "43611": {
+            "name": "Rechargeable Portable Neck Fan, Bladeless Wearable Personal Fan, Battery Operated Cooling Fan, 3 Speeds 70 Air Outlets, Hands Free, Headphone Design, for Travel, Hiking, Outdoors, Kid, Theme park",
+            "price": 11.81,
+            "url": "https://www.monoprice.com/product?p_id=43611",
+            "product_id": 43611,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "43615": {
             "name": "18W Fast USB Car Charger with Qualcomm Quick Charge 3.0",
             "price": 4.78,
@@ -33873,6 +33864,15 @@
             "url": "https://www.monoprice.com/product?p_id=43625",
             "product_id": 43625,
             "available": false,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "43634": {
+            "name": "Rechargeable Portable LED Lantern Lamp, 1200 mAh Dimmable Multi-Functional Light, Bedside Night Lamp for Bedroom, Living Room, Outdoor, Office, Camping",
+            "price": 6.99,
+            "url": "https://www.monoprice.com/product?p_id=43634",
+            "product_id": 43634,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -34943,7 +34943,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=44468",
             "product_id": 44468,
-            "available": false,
+            "available": true,
             "rating": 0,
             "num_reviews": 0
         },
@@ -35389,7 +35389,7 @@
             "num_reviews": 0
         },
         "44693": {
-            "name": "LG NanoCell 75 Series 43? Alexa Built-in 4k Smart TV (3840 x 2160), 60Hz Refresh Rate, AI-Powered 4K Ultra HD, Active HDR, HDR10, HLG (43NANO75UPA, 2021)",
+            "name": "LG NanoCell 75 Series 43in Alexa Built-in 4k Smart TV (3840 x 2160), 60Hz Refresh Rate, AI-Powered 4K Ultra HD, Active HDR, HDR10, HLG (43NANO75UPA, 2021)",
             "price": 309.99,
             "url": "https://www.monoprice.com/product?p_id=44693",
             "product_id": 44693,
@@ -43644,6 +43644,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-01T18:44:37Z"
+        "timestamp": "2023-06-01T18:54:46Z"
     }
 }
