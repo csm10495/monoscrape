@@ -16745,7 +16745,7 @@
             "price": 60.99,
             "url": "https://www.monoprice.com/product?p_id=33256",
             "product_id": 33256,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 529
         },
@@ -18153,15 +18153,6 @@
             "rating": 4.9,
             "num_reviews": 2359
         },
-        "34015": {
-            "name": "Syston 18/2 Stranded Unshielded  CMR/CL3R  Security and Control Cable White 1000ft Box",
-            "price": 164.99,
-            "url": "https://www.monoprice.com/product?p_id=34015",
-            "product_id": 34015,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "3402": {
             "name": "Monoprice 50x50mm to 200x200mm TV Wall Mount Bracket Universal VESA Adapter Plate",
             "price": 9.99,
@@ -18581,7 +18572,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=34221",
             "product_id": 34221,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 76
         },
@@ -21196,7 +21187,7 @@
             "num_reviews": 613
         },
         "36230": {
-            "name": "Monoprice Cat6 Outdoor Rated Ethernet Patch Cable - Molded RJ45 Connectors, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 50ft, White",
+            "name": "Monoprice Cat6 50ft White Outdoor Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Molded Snagless RJ45, Zeroboot Series Ethernet Cable",
             "price": 17.58,
             "url": "https://www.monoprice.com/product?p_id=36230",
             "product_id": 36230,
@@ -21205,7 +21196,7 @@
             "num_reviews": 15
         },
         "36231": {
-            "name": "Monoprice Cat6 Outdoor Rated Ethernet Patch Cable - Molded RJ45 Connectors, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 75ft, White",
+            "name": "Monoprice Cat6 75ft White Outdoor Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Molded Snagless RJ45, Zeroboot Series Ethernet Cable",
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=36231",
             "product_id": 36231,
@@ -43644,6 +43635,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-01T17:29:00Z"
+        "timestamp": "2023-06-01T17:34:44Z"
     }
 }
