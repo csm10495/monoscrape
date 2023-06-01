@@ -465,8 +465,8 @@
             "url": "https://www.monoprice.com/product?p_id=10623",
             "product_id": 10623,
             "available": true,
-            "rating": 4.6,
-            "num_reviews": 28
+            "rating": 4.7,
+            "num_reviews": 29
         },
         "10663": {
             "name": "Monoprice 7U 700mm Depth Audio/Video Rackmount Cabinet - GSA Approved",
@@ -8188,7 +8188,7 @@
             "product_id": 16091,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 141
+            "num_reviews": 142
         },
         "16092": {
             "name": "Monoprice EZ Series Low Profile Tilt TV Wall Mount Bracket For Flat Screen TVs 37in to 70in, Max Weight 77 lbs., VESA Patterns Up to 600x400, Works with Concrete and Brick, UL Certified",
@@ -37821,6 +37821,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-01T10:22:10Z"
+        "timestamp": "2023-06-01T10:28:07Z"
     }
 }
