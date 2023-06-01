@@ -27855,15 +27855,6 @@
             "rating": 5,
             "num_reviews": 1
         },
-        "40778": {
-            "name": "Dark Matter by Monoprice 27in Gaming Monitor - FHD, 240Hz, 1ms, DisplayHDR 400, AMD FreeSync Premium, Fast IPS-Type AHVA",
-            "price": 179.99,
-            "url": "https://www.monoprice.com/product?p_id=40778",
-            "product_id": 40778,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 21
-        },
         "40782": {
             "name": "DisplayPort 1.4 EasyPlug Nylon Braided Cable, 3ft, Gray",
             "price": 8.91,
@@ -30623,7 +30614,7 @@
             "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=42266",
             "product_id": 42266,
-            "available": false,
+            "available": true,
             "rating": 3.5,
             "num_reviews": 31
         },
@@ -30696,15 +30687,6 @@
             "url": "https://www.monoprice.com/product?p_id=42304",
             "product_id": 42304,
             "available": true,
-            "rating": 4,
-            "num_reviews": 14
-        },
-        "42305": {
-            "name": "Dark Matter by Monoprice Collider TKL Gaming Keyboard - Cherry MX Blue, RGB Backlit, USB-C",
-            "price": 99.99,
-            "url": "https://www.monoprice.com/product?p_id=42305",
-            "product_id": 42305,
-            "available": false,
             "rating": 4,
             "num_reviews": 14
         },
@@ -30893,7 +30875,7 @@
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=42520",
             "product_id": 42520,
-            "available": true,
+            "available": false,
             "rating": 3.6,
             "num_reviews": 67
         },
@@ -31491,15 +31473,6 @@
             "rating": 4.6,
             "num_reviews": 7
         },
-        "42771": {
-            "name": "Dark Matter by Monoprice 27in Gaming Monitor - 16:9, 1920x1080p, FHD, 165Hz",
-            "price": 149.99,
-            "url": "https://www.monoprice.com/product?p_id=42771",
-            "product_id": 42771,
-            "available": false,
-            "rating": 4.4,
-            "num_reviews": 9
-        },
         "42772": {
             "name": "Dark Matter by Monoprice 34in Curved Ultrawide Gaming Monitor - 21:9, 3440x1440p, UWQHD, 144Hz, 1500R, VA",
             "price": 499.99,
@@ -31769,24 +31742,6 @@
             "available": true,
             "rating": 5,
             "num_reviews": 1
-        },
-        "42890": {
-            "name": "Monoprice Zero-G 27in Curved Gaming Monitor - 1500R, 2560x1440 (QHD), 144Hz, HDR, VA",
-            "price": 113.99,
-            "url": "https://www.monoprice.com/product?p_id=42890",
-            "product_id": 42890,
-            "available": false,
-            "rating": 4.3,
-            "num_reviews": 31
-        },
-        "42891": {
-            "name": "Monoprice 32in Zero-G Curved Gaming Monitor - 1500R, 16:9, 2560x1440p, WQHD, 165Hz, HDMI, DisplayPort, VA",
-            "price": 197.99,
-            "url": "https://www.monoprice.com/product?p_id=42891",
-            "product_id": 42891,
-            "available": false,
-            "rating": 4.5,
-            "num_reviews": 21
         },
         "42897": {
             "name": "Folding Table 4 Foot Adjustable Height Portable Lightweight Aluminum Camping Table, Small Folding Table with Carry Handle, for Outdoor/Indoor",
@@ -33236,15 +33191,6 @@
             "available": true,
             "rating": 4.5,
             "num_reviews": 16
-        },
-        "43316": {
-            "name": "Dark Matter by Monoprice 27in Gaming Monitor - Curved 1500R, 16:9, 1920x1080p, FHD, 240Hz, VA",
-            "price": 299.99,
-            "url": "https://www.monoprice.com/product?p_id=43316",
-            "product_id": 43316,
-            "available": false,
-            "rating": 4.4,
-            "num_reviews": 7
         },
         "43324": {
             "name": "Solar Motion Lights Outdoor, Solar Sensor Light Outdoor with Five Side Light, Wire-Free and Easy to Install, IP65 Waterproof, Solar 140 LED Lights",
@@ -43734,6 +43680,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-01T03:48:33Z"
+        "timestamp": "2023-06-01T03:54:16Z"
     }
 }
