@@ -2617,7 +2617,7 @@
             "product_id": 12740,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 425
+            "num_reviews": 426
         },
         "12741": {
             "name": "Monoprice Mini DisplayPort 1.1 to DVI Adapter, Black",
@@ -7511,7 +7511,7 @@
             "price": 319.99,
             "url": "https://www.monoprice.com/product?p_id=15722",
             "product_id": 15722,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 211
         },
@@ -43653,6 +43653,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-01T19:20:42Z"
+        "timestamp": "2023-06-01T19:36:27Z"
     }
 }
