@@ -691,7 +691,7 @@
             "product_id": 11217,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1467
+            "num_reviews": 1468
         },
         "11219": {
             "name": "Monoprice Cat6 6in Purple Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -700,7 +700,7 @@
             "product_id": 11219,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1467
+            "num_reviews": 1468
         },
         "11220": {
             "name": "Monoprice Cat6A 6in Blue Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Molded RJ45, Entegrade Series Ethernet Cable",
@@ -745,7 +745,7 @@
             "product_id": 11231,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1467
+            "num_reviews": 1468
         },
         "11233": {
             "name": "Monoprice Cat6 100ft White Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -916,7 +916,7 @@
             "product_id": 11256,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1467
+            "num_reviews": 1468
         },
         "11257": {
             "name": "Monoprice Cat6 14ft Orange Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -925,7 +925,7 @@
             "product_id": 11257,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1467
+            "num_reviews": 1468
         },
         "11258": {
             "name": "Monoprice Cat6 14ft Yellow Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -1015,7 +1015,7 @@
             "product_id": 11273,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1467
+            "num_reviews": 1468
         },
         "11274": {
             "name": "Monoprice Cat6 1ft Orange Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -1024,7 +1024,7 @@
             "product_id": 11274,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1467
+            "num_reviews": 1468
         },
         "11275": {
             "name": "Monoprice Cat6 1ft Red Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -1060,7 +1060,7 @@
             "product_id": 11278,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1467
+            "num_reviews": 1468
         },
         "11279": {
             "name": "Monoprice FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 20ft, Green",
@@ -1069,7 +1069,7 @@
             "product_id": 11279,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1467
+            "num_reviews": 1468
         },
         "11281": {
             "name": "Monoprice Cat6 20ft Purple Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -1150,7 +1150,7 @@
             "product_id": 11294,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1467
+            "num_reviews": 1468
         },
         "11295": {
             "name": "Monoprice Cat6 25ft Gray Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -1159,7 +1159,7 @@
             "product_id": 11295,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1467
+            "num_reviews": 1468
         },
         "11297": {
             "name": "Monoprice Cat6A 25ft Blue Patch Cable,  Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Molded RJ45, Entegrade Series Ethernet Cable",
@@ -1184,7 +1184,7 @@
             "price": 1.29,
             "url": "https://www.monoprice.com/product?p_id=11303",
             "product_id": 11303,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 461
         },
@@ -1276,7 +1276,7 @@
             "product_id": 11320,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1467
+            "num_reviews": 1468
         },
         "11325": {
             "name": "Monoprice Cat6 30ft White Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -1384,7 +1384,7 @@
             "product_id": 11338,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1467
+            "num_reviews": 1468
         },
         "11339": {
             "name": "Monoprice Cat6A 3ft Blue Patch Cable,  Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Molded RJ45, Entegrade Series Ethernet Cable",
@@ -1609,7 +1609,7 @@
             "product_id": 11374,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1467
+            "num_reviews": 1468
         },
         "11375": {
             "name": "Monoprice FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 75ft, Gray",
@@ -1688,7 +1688,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=11387",
             "product_id": 11387,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 461
         },
@@ -1726,7 +1726,7 @@
             "product_id": 11391,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1467
+            "num_reviews": 1468
         },
         "11392": {
             "name": "Monoprice Cat6 7ft White Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -43680,6 +43680,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-01T13:54:38Z"
+        "timestamp": "2023-06-01T14:05:58Z"
     }
 }
