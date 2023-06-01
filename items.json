@@ -17845,7 +17845,7 @@
             "product_id": 33834,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 777
+            "num_reviews": 778
         },
         "33835": {
             "name": "Monolith by Monoprice 14AWG Oxygen Free Copper Multi-Strand Conductors PE Insulated Speaker Wire with Gold Plated Banana Plug Connectors, 10 foot - Pair",
@@ -21893,7 +21893,7 @@
             "price": 399.99,
             "url": "https://www.monoprice.com/product?p_id=38035",
             "product_id": 38035,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 217
         },
@@ -43653,6 +43653,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-01T20:44:31Z"
+        "timestamp": "2023-06-01T20:54:19Z"
     }
 }
