@@ -4732,7 +4732,7 @@
             "product_id": 13707,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 156
+            "num_reviews": 157
         },
         "13708": {
             "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 12AWG, 100ft, Black",
@@ -43680,6 +43680,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-01T08:54:13Z"
+        "timestamp": "2023-06-01T09:06:34Z"
     }
 }
