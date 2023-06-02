@@ -29747,7 +29747,7 @@
         },
         "41885": {
             "name": "Monolith by Monoprice THX-365T THX Certified Ultra Dolby Atmos Enabled Mini-Tower Speaker (Each) (open box)",
-            "price": 499.99,
+            "price": 299.99,
             "url": "https://www.monoprice.com/product?p_id=41885",
             "product_id": 41885,
             "available": true,
@@ -29922,8 +29922,8 @@
             "url": "https://www.monoprice.com/product?p_id=41989",
             "product_id": 41989,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 16
+            "rating": 4.8,
+            "num_reviews": 17
         },
         "41990": {
             "name": "Monoprice USB-C Charger, 30W 1-port PD GaN Technology Foldable Wall Charger White, Power Delivery for MacBook Pro/Air, iPad Pro, iPhone 12/11/Pro/Max/XR/XS/X, Pixel, Galaxy, and More",
@@ -31362,8 +31362,8 @@
             "url": "https://www.monoprice.com/product?p_id=42757",
             "product_id": 42757,
             "available": true,
-            "rating": 4.8,
-            "num_reviews": 18
+            "rating": 4.7,
+            "num_reviews": 19
         },
         "42761": {
             "name": "Workstream by Monoprice WFH Ergonomic Office Chair with Foam Seat, Lumbar Support, Adjustable Armrests, Backrest, and Headrest",
@@ -32397,8 +32397,8 @@
             "url": "https://www.monoprice.com/product?p_id=43130",
             "product_id": 43130,
             "available": true,
-            "rating": 5,
-            "num_reviews": 9
+            "rating": 4.9,
+            "num_reviews": 10
         },
         "43136": {
             "name": "Workstream by Monoprice 2-Outlet Wall Tap Power Strip with USB-C PD 50W + 20W Power Delivery",
@@ -33944,7 +33944,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=43671",
             "product_id": 43671,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 3
         },
@@ -43626,6 +43626,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-02T17:54:48Z"
+        "timestamp": "2023-06-02T18:10:08Z"
     }
 }
