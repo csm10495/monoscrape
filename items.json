@@ -30560,7 +30560,7 @@
             "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=42266",
             "product_id": 42266,
-            "available": true,
+            "available": false,
             "rating": 3.5,
             "num_reviews": 31
         },
@@ -32173,7 +32173,7 @@
             "product_id": 43020,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 10
+            "num_reviews": 11
         },
         "43021": {
             "name": "Monoprice 34in CrystalPro UWQHD Monitor - 60Hz, Height Adjustable Stand, VA",
@@ -43635,6 +43635,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-02T20:08:02Z"
+        "timestamp": "2023-06-02T20:24:24Z"
     }
 }
