@@ -40390,7 +40390,7 @@
             "product_id": 7555,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 77
+            "num_reviews": 78
         },
         "7556": {
             "name": "Monoprice High Speed HDMI Cable with HDMI Micro Connector - 4K@24Hz, 10.2Gbps, 34AWG, 3ft, Black",
@@ -42442,7 +42442,7 @@
             "product_id": 9436,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 2005
+            "num_reviews": 2006
         },
         "9437": {
             "name": "Monoprice 5 PAIRS OF High-Quality Gold Plated Speaker Banana Plugs, Open Screw Type",
@@ -43626,6 +43626,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-02T16:08:19Z"
+        "timestamp": "2023-06-02T16:28:26Z"
     }
 }
