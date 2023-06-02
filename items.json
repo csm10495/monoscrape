@@ -25872,8 +25872,8 @@
             "url": "https://www.monoprice.com/product?p_id=39632",
             "product_id": 39632,
             "available": true,
-            "rating": 4.4,
-            "num_reviews": 23
+            "rating": 4.5,
+            "num_reviews": 24
         },
         "39633": {
             "name": "Monoprice AtlasFlex Series Durable USB 3.2 Gen 2 Type-C Data \u0026 Power Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 1m, Purple",
@@ -43644,6 +43644,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-02T04:54:06Z"
+        "timestamp": "2023-06-02T05:05:33Z"
     }
 }
