@@ -14281,7 +14281,7 @@
             "product_id": 2869,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 1304
+            "num_reviews": 1305
         },
         "287": {
             "name": "Monoprice Cat5e 3ft Gray Crossover Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -35530,7 +35530,7 @@
             "product_id": 4755,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 1354
+            "num_reviews": 1355
         },
         "4756": {
             "name": "Monoprice 50ft Premier Series XLR Male to XLR Female 16AWG Cable (Gold Plated) [Microphone and Interconnect]",
@@ -38050,7 +38050,7 @@
             "product_id": 6015,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 263
+            "num_reviews": 264
         },
         "6016": {
             "name": "Monoprice 10ft 28AWG DisplayPort to DVI Cable, White",
@@ -42026,7 +42026,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=8785",
             "product_id": 8785,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 230
         },
@@ -43644,6 +43644,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-02T02:14:29Z"
+        "timestamp": "2023-06-02T03:10:23Z"
     }
 }
