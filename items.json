@@ -19618,7 +19618,7 @@
             "product_id": 34706,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 546
+            "num_reviews": 547
         },
         "34707": {
             "name": "Monoprice Caliber Slim Bezel In-Ceiling Speakers, 8in Fiber 2-Way (pair)",
@@ -26386,7 +26386,7 @@
             "product_id": 39838,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 164
+            "num_reviews": 165
         },
         "39839": {
             "name": "Monoprice Obsidian Plus Pocket USB Power Bank, White, 5,000mAh, 2-Port Up to 2.1A Output for iPhone, Android, and Galaxy Devices",
@@ -43644,6 +43644,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-02T03:44:02Z"
+        "timestamp": "2023-06-02T03:54:18Z"
     }
 }
