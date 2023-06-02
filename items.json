@@ -29237,7 +29237,7 @@
             "price": 129.99,
             "url": "https://www.monoprice.com/product?p_id=41497",
             "product_id": 41497,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 13
         },
@@ -33426,15 +33426,6 @@
             "rating": 3.5,
             "num_reviews": 2
         },
-        "43390": {
-            "name": "Pure Outdoor by Monoprice Vacuum-Sealed 12 oz. Wide-Mouth Kids' Water Bottle with Straw Lid, Black",
-            "price": 14.99,
-            "url": "https://www.monoprice.com/product?p_id=43390",
-            "product_id": 43390,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "43391": {
             "name": "Monoprice Toslink S/PDIF 1x3 Splitter",
             "price": 19.99,
@@ -33677,15 +33668,6 @@
             "available": false,
             "rating": 0,
             "num_reviews": 0
-        },
-        "43544": {
-            "name": "Monoprice 24-port Blank Keystone Shielded Patch Panel, 1U, with Wire Support Bar (TAA)",
-            "price": 14.99,
-            "url": "https://www.monoprice.com/product?p_id=43544",
-            "product_id": 43544,
-            "available": true,
-            "rating": 5,
-            "num_reviews": 2
         },
         "43548": {
             "name": "Dark Matter 32in QHD IPS Gaming Display, 2560x1440p, 165Hz, 1ms",
@@ -33930,15 +33912,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "43663": {
-            "name": "MPM Foldable Dog Crate, Dog Metal Kennel 36 Inch Double Door Cage, Handle, Plastic Tray for Pet Animals Indoor Outdoor",
-            "price": 59.99,
-            "url": "https://www.monoprice.com/product?p_id=43663",
-            "product_id": 43663,
-            "available": true,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "43664": {
             "name": "Portable Folding Dog Car Ramp, Pet Ramp Stairs Step Ladder for Large Dogs with Siderails, Non-Slip, Supports 150 lb, Easy Storage, Foldable for Truck, SUV, Bed, Boat",
             "price": 45,
@@ -34046,15 +34019,6 @@
             "available": false,
             "rating": 4.1,
             "num_reviews": 8
-        },
-        "43765": {
-            "name": "MPM Lightweight Folding Cane with Seat, Walking Stick, Walking Cane, Crutch Chair, Travel Aid",
-            "price": 29.99,
-            "url": "https://www.monoprice.com/product?p_id=43765",
-            "product_id": 43765,
-            "available": true,
-            "rating": 0,
-            "num_reviews": 0
         },
         "43788": {
             "name": "Monoprice 3-in-1 USB-C to 4K HDMI Multiport Adapter",
@@ -43644,6 +43608,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-02T07:25:52Z"
+        "timestamp": "2023-06-02T07:43:51Z"
     }
 }
