@@ -16873,7 +16873,7 @@
             "product_id": 33393,
             "available": false,
             "rating": 4.4,
-            "num_reviews": 56
+            "num_reviews": 57
         },
         "33394": {
             "name": "Monoprice Soundstage3 120 Watt TrueWireless Stereo (TWS) Bluetooth Speaker with Qualcomm aptX Audio, White",
@@ -23828,7 +23828,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=38848",
             "product_id": 38848,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 60
         },
@@ -24748,7 +24748,7 @@
             "product_id": 39169,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 21
+            "num_reviews": 22
         },
         "39170": {
             "name": "Monolith by Monoprice 32in Speaker Stands, Cherry (Each)",
@@ -43626,6 +43626,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-02T16:44:36Z"
+        "timestamp": "2023-06-02T16:54:53Z"
     }
 }
