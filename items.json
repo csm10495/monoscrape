@@ -31597,7 +31597,7 @@
             "product_id": 42842,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 13
+            "num_reviews": 14
         },
         "42843": {
             "name": "Monolith by Monoprice M-10 V2 10in THX Certified Select 500 Watt Powered Subwoofer",
@@ -43644,6 +43644,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-02T05:05:33Z"
+        "timestamp": "2023-06-02T05:22:13Z"
     }
 }
