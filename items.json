@@ -13012,7 +13012,7 @@
             "product_id": 2681,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1461
+            "num_reviews": 1462
         },
         "2682": {
             "name": "Monoprice 12ft High-quality Coaxial Audio/Video RCA CL2 Rated Cable - RG6/U 75ohm (for S/PDIF, Digital Coax, Subwoofer, and Composite Video)",
@@ -35503,7 +35503,7 @@
             "product_id": 4752,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 1354
+            "num_reviews": 1356
         },
         "4753": {
             "name": "Monoprice 15ft Premier Series XLR Male to XLR Female 16AWG Cable (Gold Plated) [Microphone and Interconnect]",
@@ -35539,7 +35539,7 @@
             "product_id": 4756,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 1355
+            "num_reviews": 1356
         },
         "4758": {
             "name": "Monoprice 100ft Premier Series XLR Male to XLR Female 16AWG Cable (Gold Plated) [Microphone and Interconnect]",
@@ -43644,6 +43644,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-02T09:43:49Z"
+        "timestamp": "2023-06-02T10:06:13Z"
     }
 }
