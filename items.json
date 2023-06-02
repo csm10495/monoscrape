@@ -11715,8 +11715,8 @@
             "url": "https://www.monoprice.com/product?p_id=24273",
             "product_id": 24273,
             "available": true,
-            "rating": 4.1,
-            "num_reviews": 30
+            "rating": 4,
+            "num_reviews": 31
         },
         "24274": {
             "name": "Monoprice Select Series USB-C to Mini DisplayPort \u0026 USB-C (F) Dual Port Adapter",
@@ -43608,6 +43608,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-02T08:44:16Z"
+        "timestamp": "2023-06-02T08:53:46Z"
     }
 }
