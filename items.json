@@ -15644,10 +15644,10 @@
         },
         "30993": {
             "name": "Monoprice MP Delta Pro 3D Printer, 32-bit ARM Processor, Auto Level, Silent Drive, Touchscreen, Fully Assembled",
-            "price": 1199.99,
+            "price": 449,
             "url": "https://www.monoprice.com/product?p_id=30993",
             "product_id": 30993,
-            "available": true,
+            "available": false,
             "rating": 4,
             "num_reviews": 26
         },
@@ -20707,7 +20707,7 @@
             "product_id": 35790,
             "available": false,
             "rating": 5,
-            "num_reviews": 5
+            "num_reviews": 6
         },
         "35793": {
             "name": "Stage Right by Monoprice On Tour Cables - 1/4in TS Male Connector to 1/8in TRS Male Connector, 24AWG, Black, 3ft",
@@ -22227,8 +22227,8 @@
             "url": "https://www.monoprice.com/product?p_id=38166",
             "product_id": 38166,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 4.6,
+            "num_reviews": 8
         },
         "38167": {
             "name": "Monoprice 300-Watt Slider Impedance Matching Volume Control with Color Kit",
@@ -23828,7 +23828,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=38848",
             "product_id": 38848,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 60
         },
@@ -24179,7 +24179,7 @@
             "price": 5.09,
             "url": "https://www.monoprice.com/product?p_id=38910",
             "product_id": 38910,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 79
         },
@@ -24739,7 +24739,7 @@
             "product_id": 39168,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 21
+            "num_reviews": 22
         },
         "39169": {
             "name": "Monolith by Monoprice 28in Speaker Stands, Cherry (Each)",
@@ -43626,6 +43626,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-02T18:54:29Z"
+        "timestamp": "2023-06-02T19:07:14Z"
     }
 }
