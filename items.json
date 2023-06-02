@@ -19401,8 +19401,8 @@
             "url": "https://www.monoprice.com/product?p_id=34599",
             "product_id": 34599,
             "available": true,
-            "rating": 3.8,
-            "num_reviews": 31
+            "rating": 3.9,
+            "num_reviews": 32
         },
         "34600": {
             "name": "Monoprice MP Rapid UV 3D Printer Resin, 500ml, Orange",
@@ -24008,7 +24008,7 @@
             "price": 9.49,
             "url": "https://www.monoprice.com/product?p_id=38887",
             "product_id": 38887,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 21
         },
@@ -43653,6 +43653,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-02T13:34:27Z"
+        "timestamp": "2023-06-02T13:44:11Z"
     }
 }
