@@ -28292,7 +28292,7 @@
             "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=4103",
             "product_id": 4103,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 546
         },
@@ -39697,7 +39697,7 @@
             "product_id": 7135,
             "available": true,
             "rating": 3.9,
-            "num_reviews": 67
+            "num_reviews": 68
         },
         "7139": {
             "name": "Monoprice 1/4in (6.35mm) TRS Stereo Plug to 3.5mm TRS Stereo Jack Adapter, Gold Plated",
@@ -43653,6 +43653,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-02T12:45:00Z"
+        "timestamp": "2023-06-02T13:07:48Z"
     }
 }
