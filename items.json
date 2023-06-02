@@ -24757,7 +24757,7 @@
             "product_id": 39170,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 21
+            "num_reviews": 22
         },
         "39172": {
             "name": "Monoprice Replacement Door Open Sensor for the Maker Ultimate 2 3D Printer (36045)",
@@ -43635,6 +43635,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-02T19:55:50Z"
+        "timestamp": "2023-06-02T20:08:02Z"
     }
 }
