@@ -11156,7 +11156,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=2315",
             "product_id": 2315,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3399
         },
@@ -40876,7 +40876,7 @@
             "product_id": 8095,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 139
+            "num_reviews": 140
         },
         "8097": {
             "name": "Monoprice Commercial Series Full-Motion Articulating TV Wall Mount Bracket For LED TVs 13in to 27in, Max Weight 33lbs, Extension Range of 1.8in to 13.0in, VESA Patterns Up to 100x100, UL Certified",
@@ -43626,6 +43626,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-02T18:27:06Z"
+        "timestamp": "2023-06-02T18:34:58Z"
     }
 }
