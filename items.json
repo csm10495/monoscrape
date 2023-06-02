@@ -1260,15 +1260,6 @@
             "rating": 4.8,
             "num_reviews": 461
         },
-        "11319": {
-            "name": "Monoprice FLEXboot Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 30ft, Yellow",
-            "price": 2.68,
-            "url": "https://www.monoprice.com/product?p_id=11319",
-            "product_id": 11319,
-            "available": true,
-            "rating": 4.8,
-            "num_reviews": 461
-        },
         "11320": {
             "name": "Monoprice Cat6 30ft Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
             "price": 9.49,
@@ -5423,7 +5414,7 @@
             "price": 1.27,
             "url": "https://www.monoprice.com/product?p_id=13925",
             "product_id": 13925,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 661
         },
@@ -43653,6 +43644,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-02T14:21:52Z"
+        "timestamp": "2023-06-02T14:29:36Z"
     }
 }
