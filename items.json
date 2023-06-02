@@ -35397,6 +35397,15 @@
             "rating": 0,
             "num_reviews": 0
         },
+        "44694": {
+            "name": "2021 Microsoft Xbox Series S 512GB Game All-Digital Console, One Xbox Wireless Controller, 1440p Gaming Resolution, 4K Streaming, 3D Sound, WiFi, White (Certified Refurbished by Manufacturer)",
+            "price": 199.99,
+            "url": "https://www.monoprice.com/product?p_id=44694",
+            "product_id": 44694,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "448": {
             "name": "Monoprice 6ft DB 9 F/F Molded Cable",
             "price": 2.79,
@@ -43626,6 +43635,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-02T19:07:14Z"
+        "timestamp": "2023-06-02T19:19:43Z"
     }
 }
