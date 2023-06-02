@@ -32433,8 +32433,8 @@
             "url": "https://www.monoprice.com/product?p_id=43149",
             "product_id": 43149,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 12
+            "rating": 4.7,
+            "num_reviews": 13
         },
         "43150": {
             "name": "Monolith by Monoprice Encore B6 Bookshelf Speaker (Each)",
@@ -43635,6 +43635,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-02T21:20:04Z"
+        "timestamp": "2023-06-02T21:25:55Z"
     }
 }
