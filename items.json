@@ -4480,7 +4480,7 @@
             "product_id": 13614,
             "available": false,
             "rating": 4.5,
-            "num_reviews": 53
+            "num_reviews": 54
         },
         "13615": {
             "name": "Monoprice 6.5in Weatherproof 2-Way Speakers with Wall Mount Bracket (Pair White)",
@@ -4489,7 +4489,7 @@
             "product_id": 13615,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 53
+            "num_reviews": 54
         },
         "13616": {
             "name": "Monoprice Alpha In-Wall Speaker Center Channel Dual 5.25in Carbon Fiber 2-way (single)",
@@ -6395,7 +6395,7 @@
             "price": 229.99,
             "url": "https://www.monoprice.com/product?p_id=14886",
             "product_id": 14886,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 27
         },
@@ -6872,7 +6872,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=15208",
             "product_id": 15208,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 273
         },
@@ -43626,6 +43626,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-02T16:28:26Z"
+        "timestamp": "2023-06-02T16:38:44Z"
     }
 }
