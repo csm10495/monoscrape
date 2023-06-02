@@ -31588,7 +31588,7 @@
             "product_id": 42843,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 34
+            "num_reviews": 35
         },
         "42847": {
             "name": "Monolith by Monoprice M-12 V2 12in THX Certified Ultra 500-Watt Powered Subwoofer",
@@ -33712,7 +33712,7 @@
             "product_id": 43563,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 23
+            "num_reviews": 24
         },
         "43564": {
             "name": "Monoprice Home Office Fixed Steel Frame Computer Desk with Solid-Core 4-foot Desktop and Accessory Attachments, Black",
@@ -43626,6 +43626,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-02T16:54:53Z"
+        "timestamp": "2023-06-02T17:05:47Z"
     }
 }
