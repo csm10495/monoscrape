@@ -3884,7 +3884,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=13411",
             "product_id": 13411,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 167
         },
@@ -4849,7 +4849,7 @@
             "product_id": 13723,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 156
+            "num_reviews": 157
         },
         "13724": {
             "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 16AWG, 250ft, Black",
@@ -43617,6 +43617,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-03T14:04:51Z"
+        "timestamp": "2023-06-03T14:20:17Z"
     }
 }
