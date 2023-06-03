@@ -32533,7 +32533,7 @@
             "product_id": 43161,
             "available": true,
             "rating": 5,
-            "num_reviews": 22
+            "num_reviews": 23
         },
         "43162": {
             "name": "Monolith by Monoprice Double-Wide 3-Tier AV Stand, Espresso",
@@ -43617,6 +43617,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-03T15:54:47Z"
+        "timestamp": "2023-06-03T16:10:32Z"
     }
 }
