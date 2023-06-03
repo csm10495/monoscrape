@@ -4750,7 +4750,7 @@
             "product_id": 13710,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 156
+            "num_reviews": 157
         },
         "13712": {
             "name": "Monoprice Speaker Wire, CMP Rated, 4-Conductor, 12AWG, 100ft, Black",
@@ -6080,7 +6080,7 @@
             "price": 2.29,
             "url": "https://www.monoprice.com/product?p_id=14786",
             "product_id": 14786,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 273
         },
@@ -8350,7 +8350,7 @@
             "product_id": 16177,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 156
+            "num_reviews": 157
         },
         "16178": {
             "name": "Monoprice TVI to HDMI Converter, AHD",
@@ -43617,6 +43617,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-03T16:38:26Z"
+        "timestamp": "2023-06-03T16:44:37Z"
     }
 }
