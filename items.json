@@ -2572,7 +2572,7 @@
             "product_id": 12736,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 425
+            "num_reviews": 426
         },
         "12737": {
             "name": "Monoprice 4K High Speed HDMI Cable 45ft - CL2 In Wall Rated 18Gbps Active Black",
@@ -4840,7 +4840,7 @@
             "product_id": 13722,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 156
+            "num_reviews": 157
         },
         "13723": {
             "name": "Monoprice Speaker Wire, CMP Rated, 2-Conductor, 16AWG, 100ft, Black",
@@ -43617,6 +43617,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-04T06:54:10Z"
+        "timestamp": "2023-06-04T07:04:59Z"
     }
 }
