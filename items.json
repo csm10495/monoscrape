@@ -4408,7 +4408,7 @@
             "product_id": 13576,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 251
+            "num_reviews": 252
         },
         "13578": {
             "name": "Monoprice 4K Slim High Speed HDMI Cable 1.5ft - 18Gbps Black",
@@ -43617,6 +43617,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-04T20:54:18Z"
+        "timestamp": "2023-06-04T21:06:13Z"
     }
 }
