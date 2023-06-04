@@ -35235,15 +35235,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "44587": {
-            "name": "Monolith by Monoprice M-IWSUB82 Dual 8in In-Wall Subwoofer (Open Box)",
-            "price": 599.99,
-            "url": "https://www.monoprice.com/product?p_id=44587",
-            "product_id": 44587,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "44588": {
             "name": "Monolith by Monoprice M-OW3 THX Certified LCR/Soundbar On Wall Speaker (Each) (Open Box)",
             "price": 299.99,
@@ -43617,6 +43608,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-04T21:25:04Z"
+        "timestamp": "2023-06-04T21:34:33Z"
     }
 }
