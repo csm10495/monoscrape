@@ -7610,7 +7610,7 @@
             "price": 16.47,
             "url": "https://www.monoprice.com/product?p_id=15835",
             "product_id": 15835,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -9024,8 +9024,8 @@
             "url": "https://www.monoprice.com/product?p_id=18524",
             "product_id": 18524,
             "available": true,
-            "rating": 4.1,
-            "num_reviews": 21
+            "rating": 4,
+            "num_reviews": 22
         },
         "18534": {
             "name": "Monolith by Monoprice 3ft RCA Cable",
@@ -43617,6 +43617,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-03T23:54:06Z"
+        "timestamp": "2023-06-04T00:41:37Z"
     }
 }
