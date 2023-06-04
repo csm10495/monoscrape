@@ -35208,6 +35208,15 @@
             "rating": 0,
             "num_reviews": 0
         },
+        "44577": {
+            "name": "Monolith by Monoprice 16in THX Certified Ultra 2000-Watt Powered Subwoofer (Matte Black/Painted) (Open Box)",
+            "price": 1494.99,
+            "url": "https://www.monoprice.com/product?p_id=44577",
+            "product_id": 44577,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
         "44582": {
             "name": "Monolith by Monoprice M-10 V2 10in THX Certified Select 500-Watt Powered Subwoofer, Piano Black Finish (Open Box)",
             "price": 699.99,
@@ -43608,6 +43617,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-04T22:29:49Z"
+        "timestamp": "2023-06-04T22:35:37Z"
     }
 }
