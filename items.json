@@ -20689,7 +20689,7 @@
             "product_id": 35789,
             "available": false,
             "rating": 5,
-            "num_reviews": 5
+            "num_reviews": 6
         },
         "35790": {
             "name": "Stage Right by Monoprice On Tour Extension Cables - 1/4in TRS Female Connector to 1/8in TRS Male Connector, 24AWG, Black, 3ft",
@@ -21794,7 +21794,7 @@
             "price": 51.99,
             "url": "https://www.monoprice.com/product?p_id=37884",
             "product_id": 37884,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 20
         },
@@ -43617,6 +43617,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-04T17:05:03Z"
+        "timestamp": "2023-06-04T17:20:31Z"
     }
 }
