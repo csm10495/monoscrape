@@ -14909,7 +14909,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=30362",
             "product_id": 30362,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 5
         },
@@ -19600,7 +19600,7 @@
             "product_id": 34707,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 546
+            "num_reviews": 547
         },
         "34710": {
             "name": "Monoprice SB-100 2.1-ch 36in Soundbar with Built-In Subwoofer, Bluetooth, Optical Input, and Remote Control",
@@ -24683,7 +24683,7 @@
             "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=39163",
             "product_id": 39163,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 56
         },
@@ -43617,6 +43617,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-04T02:32:57Z"
+        "timestamp": "2023-06-04T03:14:57Z"
     }
 }
