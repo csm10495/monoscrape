@@ -10076,7 +10076,7 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=21601",
             "product_id": 21601,
-            "available": false,
+            "available": true,
             "rating": 4.5,
             "num_reviews": 50
         },
@@ -10168,7 +10168,7 @@
             "product_id": 21612,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 25
+            "num_reviews": 26
         },
         "21613": {
             "name": "Monoprice Blackbird 4K Pro 1x4 Ultra Slim HDMI Splitter, HDR, 4K@60Hz, HDCP 2.2",
@@ -11750,7 +11750,7 @@
             "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=24285",
             "product_id": 24285,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 72
         },
@@ -11939,7 +11939,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=24344",
             "product_id": 24344,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 497
         },
@@ -43599,6 +43599,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-05T20:34:47Z"
+        "timestamp": "2023-06-05T20:44:32Z"
     }
 }
