@@ -42607,7 +42607,7 @@
             "num_reviews": 27
         },
         "952": {
-            "name": "Monoprice 4 Conductor Modular Bulk Cable, 28AWG, Stranded, Flat, Sliver, 1000ft",
+            "name": "Monoprice RJ11 4 Conductor Modular Bulk Cable, 28AWG, Stranded, Flat, Sliver, 1000ft",
             "price": 32.99,
             "url": "https://www.monoprice.com/product?p_id=952",
             "product_id": 952,
@@ -42616,7 +42616,7 @@
             "num_reviews": 11
         },
         "953": {
-            "name": "Monoprice 6 Conductor Modular Bulk Cable, 28AWG, Stranded, Flat, Sliver, 1000ft",
+            "name": "Monoprice RJ12 6 Conductor Modular Bulk Cable, 28AWG, Stranded, Flat, Sliver, 1000ft",
             "price": 46.49,
             "url": "https://www.monoprice.com/product?p_id=953",
             "product_id": 953,
@@ -42625,7 +42625,7 @@
             "num_reviews": 16
         },
         "954": {
-            "name": "Monoprice 8 Wire, Stranded, Silver - 1000ft",
+            "name": "Monoprice RJ45 8 Conductor Modular Bulk Cable, 28AWG, Stranded, Flat, Sliver, 1000ft",
             "price": 57.99,
             "url": "https://www.monoprice.com/product?p_id=954",
             "product_id": 954,
@@ -42733,7 +42733,7 @@
             "num_reviews": 183
         },
         "956": {
-            "name": "Monoprice 6 Conductor Modular Bulk Cable, UL, 26AWG, Stranded, Flat, Sliver, 1000ft",
+            "name": "Monoprice RJ12 6 Conductor Modular Bulk Cable, UL, 26AWG, Stranded, Flat, Sliver, 1000ft",
             "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=956",
             "product_id": 956,
@@ -43617,6 +43617,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-05T22:30:47Z"
+        "timestamp": "2023-06-05T22:36:38Z"
     }
 }
