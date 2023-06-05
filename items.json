@@ -26861,7 +26861,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=40069",
             "product_id": 40069,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 8
         },
@@ -29174,7 +29174,7 @@
             "price": 1699.99,
             "url": "https://www.monoprice.com/product?p_id=41496",
             "product_id": 41496,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 19
         },
@@ -29895,8 +29895,8 @@
             "url": "https://www.monoprice.com/product?p_id=41990",
             "product_id": 41990,
             "available": false,
-            "rating": 4.2,
-            "num_reviews": 13
+            "rating": 4.3,
+            "num_reviews": 14
         },
         "41999": {
             "name": "Monolith by Monoprice MM-5 Powered Multimedia Speakers with Bluetooth with Qualcomm aptX HD Audio, USB DAC, Optical Inputs (open box)",
@@ -31353,8 +31353,8 @@
             "url": "https://www.monoprice.com/product?p_id=42762",
             "product_id": 42762,
             "available": true,
-            "rating": 4.6,
-            "num_reviews": 10
+            "rating": 4.3,
+            "num_reviews": 11
         },
         "42763": {
             "name": "Monoprice WFH Single Motor Height Adjustable Motorized Sit-Stand Desk with Solid-core Wood Top, Black 47.2\" x 23.6\"",
@@ -31525,7 +31525,7 @@
             "product_id": 42839,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 14
+            "num_reviews": 15
         },
         "42840": {
             "name": "Monolith by Monoprice 24in Cherry Wood Speaker Stand with Adjustable Top Plate, Cherry (Each)",
@@ -32162,7 +32162,7 @@
             "price": 1.79,
             "url": "https://www.monoprice.com/product?p_id=43048",
             "product_id": 43048,
-            "available": false,
+            "available": true,
             "rating": 2.5,
             "num_reviews": 2
         },
@@ -32370,8 +32370,8 @@
             "url": "https://www.monoprice.com/product?p_id=43136",
             "product_id": 43136,
             "available": true,
-            "rating": 4.5,
-            "num_reviews": 4
+            "rating": 4.6,
+            "num_reviews": 5
         },
         "43137": {
             "name": "Commercial Series Premium High Speed HDMI Cable -4K@60Hz, HDR, 18Gbps, YCbCr 4:4:4, OD 0.22in, 30AWG, CL2, 10ft, Black",
@@ -34169,7 +34169,7 @@
             "price": 254.07,
             "url": "https://www.monoprice.com/product?p_id=43960",
             "product_id": 43960,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 3
         },
@@ -43608,6 +43608,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-05T17:35:05Z"
+        "timestamp": "2023-06-05T17:44:30Z"
     }
 }
