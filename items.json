@@ -30704,7 +30704,7 @@
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=42363",
             "product_id": 42363,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 4
         },
@@ -31048,7 +31048,7 @@
             "product_id": 42646,
             "available": true,
             "rating": 3.8,
-            "num_reviews": 30
+            "num_reviews": 31
         },
         "42649": {
             "name": "Monoprice Self Adhesive Cable Tie Mounts with Mounting Hole, 0.75x0.75 in, 100 pcs/pack, White, ABS Type Approval",
@@ -32162,7 +32162,7 @@
             "price": 1.79,
             "url": "https://www.monoprice.com/product?p_id=43048",
             "product_id": 43048,
-            "available": true,
+            "available": false,
             "rating": 2.5,
             "num_reviews": 2
         },
@@ -35177,15 +35177,6 @@
             "price": 999.99,
             "url": "https://www.monoprice.com/product?p_id=44574",
             "product_id": 44574,
-            "available": true,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "44577": {
-            "name": "Monolith by Monoprice 16in THX Certified Ultra 2000-Watt Powered Subwoofer (Matte Black/Painted) (Open Box)",
-            "price": 1494.99,
-            "url": "https://www.monoprice.com/product?p_id=44577",
-            "product_id": 44577,
             "available": true,
             "rating": 0,
             "num_reviews": 0
@@ -43608,6 +43599,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-05T19:57:20Z"
+        "timestamp": "2023-06-05T20:08:06Z"
     }
 }
