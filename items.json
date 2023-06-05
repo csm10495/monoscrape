@@ -33667,7 +33667,7 @@
             "product_id": 43562,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 23
+            "num_reviews": 24
         },
         "43563": {
             "name": "Monoprice Dual Motor Height Adjustable 3-Stage Electric Sit-Stand Desk Frame, v2, White",
@@ -34414,7 +34414,7 @@
             "product_id": 44263,
             "available": true,
             "rating": 2,
-            "num_reviews": 9
+            "num_reviews": 10
         },
         "44264": {
             "name": "Pure Outdoor by Monoprice Complete Disc Golf Set with Carrying Case and Discs",
@@ -34877,7 +34877,7 @@
         },
         "44466": {
             "name": "Monoprice 12-in-1 Dual-HDMI + VGA MST Dock",
-            "price": 54.99,
+            "price": 51.99,
             "url": "https://www.monoprice.com/product?p_id=44466",
             "product_id": 44466,
             "available": true,
@@ -43608,6 +43608,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-05T18:55:03Z"
+        "timestamp": "2023-06-05T19:07:10Z"
     }
 }
