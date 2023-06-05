@@ -10528,7 +10528,7 @@
             "product_id": 21822,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 2005
+            "num_reviews": 2006
         },
         "21829": {
             "name": "Monoprice Blackbird 4K 6G-SDI to HDMI Converter with SDI Loopout",
@@ -43617,6 +43617,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-05T18:34:40Z"
+        "timestamp": "2023-06-05T18:44:31Z"
     }
 }
