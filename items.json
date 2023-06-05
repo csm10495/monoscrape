@@ -16583,7 +16583,7 @@
             "price": 32.49,
             "url": "https://www.monoprice.com/product?p_id=33215",
             "product_id": 33215,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 529
         },
@@ -16961,7 +16961,7 @@
             "price": 20.99,
             "url": "https://www.monoprice.com/product?p_id=33466",
             "product_id": 33466,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 17
         },
@@ -17321,7 +17321,7 @@
             "price": 37.99,
             "url": "https://www.monoprice.com/product?p_id=33684",
             "product_id": 33684,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 16
         },
@@ -19674,15 +19674,6 @@
             "rating": 4.8,
             "num_reviews": 67
         },
-        "34789": {
-            "name": "SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, S/STP, Pure Bare Copper Wire, 36AWG, 2m, Blue, 5 pack",
-            "price": 21.59,
-            "url": "https://www.monoprice.com/product?p_id=34789",
-            "product_id": 34789,
-            "available": false,
-            "rating": 4.8,
-            "num_reviews": 67
-        },
         "34801": {
             "name": "SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, S/STP, Pure Bare Copper Wire, 36AWG, 7m, Blue, 5 pack",
             "price": 37.1,
@@ -20714,7 +20705,7 @@
             "price": 1.31,
             "url": "https://www.monoprice.com/product?p_id=35796",
             "product_id": 35796,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 10
         },
@@ -23144,7 +23135,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=38610",
             "product_id": 38610,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 49
         },
@@ -25601,7 +25592,7 @@
             "price": 10.78,
             "url": "https://www.monoprice.com/product?p_id=39542",
             "product_id": 39542,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 13604
         },
@@ -25818,8 +25809,8 @@
             "url": "https://www.monoprice.com/product?p_id=39631",
             "product_id": 39631,
             "available": true,
-            "rating": 4.4,
-            "num_reviews": 23
+            "rating": 4.5,
+            "num_reviews": 24
         },
         "39632": {
             "name": "Monoprice AtlasFlex Series Durable USB 3.2 Gen 2 Type-C Data \u0026 Power Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 1m, Blue",
@@ -43599,6 +43590,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-05T15:23:25Z"
+        "timestamp": "2023-06-05T15:29:39Z"
     }
 }
