@@ -34056,6 +34056,15 @@
             "rating": 3.9,
             "num_reviews": 9
         },
+        "43792": {
+            "name": "Monoprice 112W 4-Port USB-C Desktop Charging Station",
+            "price": 44.99,
+            "url": "https://www.monoprice.com/product?p_id=43792",
+            "product_id": 43792,
+            "available": true,
+            "rating": 4.3,
+            "num_reviews": 6
+        },
         "43794": {
             "name": "Monoprice 3-in-1 Wireless Charging Stand, Bundled with QC3.0 Wall Charger",
             "price": 29.99,
@@ -34107,6 +34116,15 @@
             "url": "https://www.monoprice.com/product?p_id=43857",
             "product_id": 43857,
             "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "43865": {
+            "name": "Monolith by Monoprice M5100X 5x100 Watts Per Channel Multi-Channel Home Theater Power Amplifier with XLR Inputs",
+            "price": 599.99,
+            "url": "https://www.monoprice.com/product?p_id=43865",
+            "product_id": 43865,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -35334,15 +35352,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "44686": {
-            "name": "Tile Slim - Phone Wallet Finder - 1 Pack (EC-04001)",
-            "price": 8.99,
-            "url": "https://www.monoprice.com/product?p_id=44686",
-            "product_id": 44686,
-            "available": true,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "44687": {
             "name": "Skytech Shiva II Gaming PC Desktop Intel Core i5, NVIDIA RTX 3060 Ti, 1TB NVME SSD, 16GB DDR4 RAM 3200, 650W Gold PSU",
             "price": 999.99,
@@ -35366,15 +35375,6 @@
             "price": 309.99,
             "url": "https://www.monoprice.com/product?p_id=44693",
             "product_id": 44693,
-            "available": true,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "44694": {
-            "name": "2021 Microsoft Xbox Series S 512GB Game All-Digital Console, One Xbox Wireless Controller, 1440p Gaming Resolution, 4K Streaming, 3D Sound, WiFi, White (Certified Refurbished by Manufacturer)",
-            "price": 199.99,
-            "url": "https://www.monoprice.com/product?p_id=44694",
-            "product_id": 44694,
             "available": true,
             "rating": 0,
             "num_reviews": 0
@@ -43617,6 +43617,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-05T21:54:21Z"
+        "timestamp": "2023-06-05T22:05:31Z"
     }
 }
