@@ -29165,7 +29165,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=41457",
             "product_id": 41457,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 69
         },
@@ -31048,7 +31048,7 @@
             "product_id": 42644,
             "available": true,
             "rating": 3.8,
-            "num_reviews": 30
+            "num_reviews": 31
         },
         "42645": {
             "name": "Blackbird 4K DisplayPort 1.4 USB 3.0 2x1 KVM Switch, 4K@60Hz, HDR, YCbCr 4:4:4, HDCP 2.2",
@@ -43617,6 +43617,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-05T05:22:27Z"
+        "timestamp": "2023-06-05T05:36:01Z"
     }
 }
