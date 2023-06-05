@@ -15811,7 +15811,7 @@
             "product_id": 31087,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 69
+            "num_reviews": 70
         },
         "31088": {
             "name": "Monoprice Cat8 3ft Black Patch Cable, Double Shielded (S/FTP), 24AWG, 2GHz, 40G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
@@ -16799,7 +16799,7 @@
             "price": 123.49,
             "url": "https://www.monoprice.com/product?p_id=33304",
             "product_id": 33304,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 72
         },
@@ -17862,8 +17862,8 @@
             "url": "https://www.monoprice.com/product?p_id=33840",
             "product_id": 33840,
             "available": false,
-            "rating": 4.7,
-            "num_reviews": 37
+            "rating": 4.8,
+            "num_reviews": 38
         },
         "33842": {
             "name": "STITCH by Monoprice Wireless Smart Plug Wall Outlet with 2 Receptacles 15A, 2 USB Ports 4.8A, Night Light, Works with Alexa and Google Home for Touchless Voice Control, No Hub Required",
@@ -43599,6 +43599,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-05T20:44:32Z"
+        "timestamp": "2023-06-05T20:54:37Z"
     }
 }
