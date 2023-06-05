@@ -4444,7 +4444,7 @@
             "product_id": 13586,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 251
+            "num_reviews": 252
         },
         "13590": {
             "name": "Monoprice 4K Slim High Speed HDMI Cable 6ft - 18Gbps Active Black",
@@ -5333,7 +5333,7 @@
             "price": 4.19,
             "url": "https://www.monoprice.com/product?p_id=13838",
             "product_id": 13838,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 17
         },
@@ -43617,6 +43617,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-05T03:35:22Z"
+        "timestamp": "2023-06-05T03:44:25Z"
     }
 }
