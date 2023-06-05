@@ -17969,7 +17969,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=33881",
             "product_id": 33881,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -19553,7 +19553,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=34665",
             "product_id": 34665,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 10
         },
@@ -19571,7 +19571,7 @@
             "price": 62.99,
             "url": "https://www.monoprice.com/product?p_id=34706",
             "product_id": 34706,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 547
         },
@@ -22631,7 +22631,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=38328",
             "product_id": 38328,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 98
         },
@@ -23326,7 +23326,7 @@
             "product_id": 38785,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 636
+            "num_reviews": 638
         },
         "38786": {
             "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R, 16AWG, 13A/1625W, 3-Prong, Black, 1ft, 10-Pack",
@@ -23954,7 +23954,7 @@
             "price": 9.49,
             "url": "https://www.monoprice.com/product?p_id=38887",
             "product_id": 38887,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 21
         },
@@ -43608,6 +43608,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-05T17:29:26Z"
+        "timestamp": "2023-06-05T17:35:05Z"
     }
 }
