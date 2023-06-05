@@ -28658,7 +28658,7 @@
         },
         "41287": {
             "name": "Monolith by Monoprice M518HT THX Certified 5.1 Home Theater System",
-            "price": 799.99,
+            "price": 679.98,
             "url": "https://www.monoprice.com/product?p_id=41287",
             "product_id": 41287,
             "available": true,
@@ -32147,15 +32147,6 @@
             "available": false,
             "rating": 4.6,
             "num_reviews": 11
-        },
-        "43021": {
-            "name": "Monoprice 34in CrystalPro UWQHD Monitor - 60Hz, Height Adjustable Stand, VA",
-            "price": 399.99,
-            "url": "https://www.monoprice.com/product?p_id=43021",
-            "product_id": 43021,
-            "available": false,
-            "rating": 3.7,
-            "num_reviews": 6
         },
         "43047": {
             "name": "Pure Outdoor by Monoprice Rechargeable LED Camping Lantern, 1000LM",
@@ -43617,6 +43608,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-05T16:38:42Z"
+        "timestamp": "2023-06-05T16:44:46Z"
     }
 }
