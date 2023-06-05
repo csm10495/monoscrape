@@ -29327,7 +29327,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=41663",
             "product_id": 41663,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 3
         },
@@ -30804,8 +30804,8 @@
             "url": "https://www.monoprice.com/product?p_id=42519",
             "product_id": 42519,
             "available": true,
-            "rating": 4,
-            "num_reviews": 24
+            "rating": 3.9,
+            "num_reviews": 25
         },
         "42520": {
             "name": "Monoprice Wireless Charger, Qi-Certified 15W Fast Wireless Charging Stand with QC3.0 AC Adapter for iPhone 12/12 Pro/11/11 Pro/XR/XS/X/8/8+/Airpods, Galaxy S21/S20/Note 10/Note 10+/S10/S10+/S9/S8",
@@ -32144,7 +32144,7 @@
             "price": 22.49,
             "url": "https://www.monoprice.com/product?p_id=43018",
             "product_id": 43018,
-            "available": true,
+            "available": false,
             "rating": 3,
             "num_reviews": 5
         },
@@ -32857,7 +32857,7 @@
             "product_id": 43220,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 270
+            "num_reviews": 271
         },
         "43221": {
             "name": "Monoprice 8K No Logo Ultra High Speed HDMI Cable, 48Gbps, 15ft, Black",
@@ -32893,7 +32893,7 @@
             "product_id": 43224,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 270
+            "num_reviews": 271
         },
         "43235": {
             "name": "Monolith by Monoprice AMT Headphone",
@@ -43617,6 +43617,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-05T14:31:14Z"
+        "timestamp": "2023-06-05T14:37:11Z"
     }
 }
