@@ -2094,8 +2094,8 @@
             "url": "https://www.monoprice.com/product?p_id=1204",
             "product_id": 1204,
             "available": true,
-            "rating": 4.5,
-            "num_reviews": 17
+            "rating": 4.6,
+            "num_reviews": 18
         },
         "12085": {
             "name": "Monoprice Ultra-thin Light Box for Artists, Designers and Photographers - Large 24.5-inch (22.4 x 14.6 x 0.3 inch)",
@@ -11075,7 +11075,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=2309",
             "product_id": 2309,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3399
         },
@@ -11129,7 +11129,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=2315",
             "product_id": 2315,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3399
         },
@@ -11365,7 +11365,7 @@
             "product_id": 2408,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 879
+            "num_reviews": 880
         },
         "24164": {
             "name": "Monoprice Maker Select 3D Printer v2 with UK Power Supply",
@@ -14243,7 +14243,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=287",
             "product_id": 287,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 69
         },
@@ -14774,7 +14774,7 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=3021",
             "product_id": 3021,
-            "available": false,
+            "available": true,
             "rating": 4.1,
             "num_reviews": 789
         },
@@ -28240,7 +28240,7 @@
             "product_id": 4103,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 546
+            "num_reviews": 547
         },
         "41030": {
             "name": "Monoprice Entegrade Series Cat8 26AWG S/FTP Ethernet Network Cable, 2GHz, 40G, 30ft, Blue",
@@ -36520,7 +36520,7 @@
             "product_id": 5298,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 637
+            "num_reviews": 638
         },
         "5299": {
             "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R, 16AWG, 13A/1625W, 3-Prong, Black, 6ft",
@@ -38939,7 +38939,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=6539",
             "product_id": 6539,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 89
         },
@@ -40163,7 +40163,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=7304",
             "product_id": 7304,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 131
         },
@@ -43608,6 +43608,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-05T17:54:44Z"
+        "timestamp": "2023-06-05T18:10:23Z"
     }
 }
