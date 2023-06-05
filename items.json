@@ -9425,7 +9425,7 @@
         },
         "18803": {
             "name": "Monoprice Commercial Audio 60W 5ch 100/70V Mixer Amp with Microphone Priority (NO LOGO)",
-            "price": 135.99,
+            "price": 169.99,
             "url": "https://www.monoprice.com/product?p_id=18803",
             "product_id": 18803,
             "available": true,
@@ -43617,6 +43617,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-05T23:44:22Z"
+        "timestamp": "2023-06-05T23:54:20Z"
     }
 }
