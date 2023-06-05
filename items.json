@@ -3830,7 +3830,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=13405",
             "product_id": 13405,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 167
         },
@@ -4480,7 +4480,7 @@
             "product_id": 13614,
             "available": false,
             "rating": 4.5,
-            "num_reviews": 54
+            "num_reviews": 55
         },
         "13615": {
             "name": "Monoprice 6.5in Weatherproof 2-Way Speakers with Wall Mount Bracket (Pair White)",
@@ -5702,7 +5702,7 @@
             "price": 0.9,
             "url": "https://www.monoprice.com/product?p_id=14304",
             "product_id": 14304,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 167
         },
@@ -6011,6 +6011,15 @@
             "available": false,
             "rating": 4.9,
             "num_reviews": 3042
+        },
+        "14760": {
+            "name": "Monoprice Cat6 Ethernet Bulk Cable - Stranded, 550MHz, UTP, CM, Pure Bare Copper Wire, 24AWG, 250ft, Black",
+            "price": 35.99,
+            "url": "https://www.monoprice.com/product?p_id=14760",
+            "product_id": 14760,
+            "available": true,
+            "rating": 4.5,
+            "num_reviews": 60
         },
         "14768": {
             "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Gray, (UL)",
@@ -43608,6 +43617,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-05T18:10:23Z"
+        "timestamp": "2023-06-05T18:34:40Z"
     }
 }
