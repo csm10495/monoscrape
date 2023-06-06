@@ -11102,7 +11102,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=2309",
             "product_id": 2309,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3400
         },
@@ -13300,7 +13300,7 @@
             "product_id": 2743,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 538
+            "num_reviews": 539
         },
         "27431": {
             "name": "Monoprice Cat6A 1ft Blue Patch Cable, Double Shielded (S/FTP), 36AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
@@ -37330,7 +37330,7 @@
             "product_id": 5589,
             "available": true,
             "rating": 4.2,
-            "num_reviews": 601
+            "num_reviews": 602
         },
         "559": {
             "name": "Monoprice 25ft Super VGA HD15 M/M CL2 Rated Cable w/ Stereo Audio and Triple Shielding (Gold Plated)",
@@ -39560,7 +39560,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=7091",
             "product_id": 7091,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 23
         },
@@ -41661,15 +41661,6 @@
             "rating": 4.5,
             "num_reviews": 71
         },
-        "8628": {
-            "name": "Monoprice Wall Mount Bracket, 12.25in x 19in x 12in, 7U",
-            "price": 25.79,
-            "url": "https://www.monoprice.com/product?p_id=8628",
-            "product_id": 8628,
-            "available": true,
-            "rating": 4.5,
-            "num_reviews": 71
-        },
         "8629": {
             "name": "Monoprice Single Sided Shelf, 3.5(H) x 14.5(D) x 19(W), 50 lbs.",
             "price": 27.99,
@@ -41945,7 +41936,7 @@
             "price": 119.99,
             "url": "https://www.monoprice.com/product?p_id=878",
             "product_id": 878,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 196
         },
@@ -43608,6 +43599,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-06T19:54:42Z"
+        "timestamp": "2023-06-06T20:06:49Z"
     }
 }
