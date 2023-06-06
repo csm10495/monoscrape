@@ -11502,15 +11502,6 @@
             "rating": 4.8,
             "num_reviews": 505
         },
-        "24190": {
-            "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 18AWG, 10A/1250W, 3-Prong, SJT, Black, 1ft",
-            "price": 1.99,
-            "url": "https://www.monoprice.com/product?p_id=24190",
-            "product_id": 24190,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 59
-        },
         "24191": {
             "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 18AWG, 10A/1250W, 3-Prong, SJT, Black, 2ft",
             "price": 1.69,
@@ -43599,6 +43590,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-06T16:39:54Z"
+        "timestamp": "2023-06-06T16:45:33Z"
     }
 }
