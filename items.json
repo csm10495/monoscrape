@@ -34261,7 +34261,7 @@
             "product_id": 44029,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 8
+            "num_reviews": 9
         },
         "44047": {
             "name": "MPM Universal Stand Assist, Adjustable Couch Lift Assist, Standing Aid, Chair Assistance Handle Safety Grab Bar for Elderly, Seniors, Patients, Disabled Daily Living Mobility Aid",
@@ -43617,6 +43617,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-06T15:45:02Z"
+        "timestamp": "2023-06-06T15:54:30Z"
     }
 }
