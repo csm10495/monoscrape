@@ -21344,7 +21344,7 @@
             "price": 4.79,
             "url": "https://www.monoprice.com/product?p_id=3651",
             "product_id": 3651,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 16
         },
@@ -31489,7 +31489,7 @@
             "product_id": 5347,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 1304
+            "num_reviews": 1305
         },
         "5348": {
             "name": "Monoprice 15ft Premium 2 RCA Plug/2 RCA Plug M/M 22AWG Cable - Black",
@@ -36695,7 +36695,7 @@
         },
         "8761": {
             "name": "Monoprice 10ft 4-Channel TRS Male to XLR Female Snake Cable",
-            "price": 8.99,
+            "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=8761",
             "product_id": 8761,
             "available": false,
@@ -37379,7 +37379,7 @@
         },
         "9448": {
             "name": "Monoprice 6ft Premier Series 1/4-inch (TS) Right Angle Male to Right Angle Male 16AWG Audio Cable (Gold Plated)",
-            "price": 3.99,
+            "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=9448",
             "product_id": 9448,
             "available": true,
@@ -38469,6 +38469,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-06T03:27:39Z"
+        "timestamp": "2023-06-06T03:35:05Z"
     }
 }
