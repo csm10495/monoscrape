@@ -28888,7 +28888,7 @@
             "product_id": 41380,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1854
+            "num_reviews": 1855
         },
         "41381": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 12AWG, 250ft, Black",
@@ -30584,7 +30584,7 @@
         },
         "42301": {
             "name": "Dark Matter by Monoprice Headset Stand - 2-port USB Hub, 3.5mm Audio Jack, RGB Lighting",
-            "price": 23.99,
+            "price": 18.99,
             "url": "https://www.monoprice.com/product?p_id=42301",
             "product_id": 42301,
             "available": true,
@@ -30593,7 +30593,7 @@
         },
         "42303": {
             "name": "Dark Matter by Monoprice Collider Membrane Gaming Keyboard - RGB Lighting, 19-Key Rollover, Spill Resistant",
-            "price": 29.99,
+            "price": 23.99,
             "url": "https://www.monoprice.com/product?p_id=42303",
             "product_id": 42303,
             "available": true,
@@ -30602,7 +30602,7 @@
         },
         "42304": {
             "name": "Dark Matter by Monoprice Collider TKL Gaming Keyboard - Cherry MX Red, RGB Backlit, USB-C",
-            "price": 69.99,
+            "price": 55.99,
             "url": "https://www.monoprice.com/product?p_id=42304",
             "product_id": 42304,
             "available": true,
@@ -33197,7 +33197,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=43340",
             "product_id": 43340,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1468
         },
@@ -33242,7 +33242,7 @@
             "price": 37.99,
             "url": "https://www.monoprice.com/product?p_id=43347",
             "product_id": 43347,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1468
         },
@@ -33539,7 +33539,7 @@
             "price": 129.99,
             "url": "https://www.monoprice.com/product?p_id=43453",
             "product_id": 43453,
-            "available": true,
+            "available": false,
             "rating": 3.6,
             "num_reviews": 22
         },
@@ -34926,8 +34926,8 @@
             "url": "https://www.monoprice.com/product?p_id=44467",
             "product_id": 44467,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 1,
+            "num_reviews": 1
         },
         "44468": {
             "name": "Monoprice 30W USB-C Fast Wall Charger",
@@ -43608,6 +43608,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-06T19:34:42Z"
+        "timestamp": "2023-06-06T19:44:52Z"
     }
 }
