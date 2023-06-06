@@ -30366,14 +30366,14 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "42152": {
-            "name": "Non-Contact Infrared digital Thermometer with LCD Display, safe for baby, Kids and Adults Blue",
-            "price": 2.39,
-            "url": "https://www.monoprice.com/product?p_id=42152",
-            "product_id": 42152,
-            "available": false,
-            "rating": 2.5,
-            "num_reviews": 4
+        "42149": {
+            "name": "Tilting Footrest Under Desk Ergonomic Office Foot Rest Adjustable Computer Desk Foot Support Elevated Office Footrest",
+            "price": 9.99,
+            "url": "https://www.monoprice.com/product?p_id=42149",
+            "product_id": 42149,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
         },
         "42153": {
             "name": "Monoprice Speaker Wire, Flat Adhesive Super Slim, 2-Conductors, 16AWG, 25ft",
@@ -32165,15 +32165,6 @@
             "available": false,
             "rating": 4.4,
             "num_reviews": 16
-        },
-        "43048": {
-            "name": "Magnetic Phone Car Mount, Universal Stick On Mount Dashboard Magnetic Car Mount Holder, for Cell Phones and Mini Tablets with Fast Swift-snap Technology, Magnetic Cell Phone Mount",
-            "price": 1.79,
-            "url": "https://www.monoprice.com/product?p_id=43048",
-            "product_id": 43048,
-            "available": false,
-            "rating": 2.5,
-            "num_reviews": 2
         },
         "43049": {
             "name": "Pure Outdoor by Monoprice Battery-Powered LED Camping Lantern, 1000LM",
@@ -43590,6 +43581,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-06T20:34:54Z"
+        "timestamp": "2023-06-06T20:44:41Z"
     }
 }
