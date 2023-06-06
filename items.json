@@ -18563,7 +18563,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=34221",
             "product_id": 34221,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 76
         },
@@ -20590,7 +20590,7 @@
             "product_id": 35534,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 3399
+            "num_reviews": 3400
         },
         "35535": {
             "name": "Monoprice Cat6 7ft Pink Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -20599,7 +20599,7 @@
             "product_id": 35535,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 3399
+            "num_reviews": 3400
         },
         "35557": {
             "name": "STITCH by Monoprice Smart In-Wall On/Off Light Switch, Works with Alexa and Google Home for Touchless Voice Control, No Hub Required",
@@ -43626,6 +43626,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-06T12:44:53Z"
+        "timestamp": "2023-06-06T13:04:21Z"
     }
 }
