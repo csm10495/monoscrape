@@ -10113,8 +10113,8 @@
             "url": "https://www.monoprice.com/product?p_id=21604",
             "product_id": 21604,
             "available": true,
-            "rating": 4.5,
-            "num_reviews": 50
+            "rating": 4.4,
+            "num_reviews": 51
         },
         "21605": {
             "name": "Monoprice Table Top for Sit-Stand Height-Adjustable Desk, 6ft Black",
@@ -11984,7 +11984,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=24351",
             "product_id": 24351,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 497
         },
@@ -12600,30 +12600,12 @@
             "rating": 4.4,
             "num_reviews": 41
         },
-        "24721": {
-            "name": "Monoprice Thunderbolt 3 (40 Gbps) USB-C Cable, 100W, 0.5m",
-            "price": 24.99,
-            "url": "https://www.monoprice.com/product?p_id=24721",
-            "product_id": 24721,
-            "available": false,
-            "rating": 4.2,
-            "num_reviews": 39
-        },
         "24727": {
             "name": "Monoprice Thunderbolt 3 (40 Gbps) USB-C Cable, 100W, 1.0m",
             "price": 43.99,
             "url": "https://www.monoprice.com/product?p_id=24727",
             "product_id": 24727,
             "available": true,
-            "rating": 4.2,
-            "num_reviews": 39
-        },
-        "24729": {
-            "name": "Monoprice Thunderbolt 3 (40 Gbps) USB-C Cable, 100W, 1.5m",
-            "price": 34.79,
-            "url": "https://www.monoprice.com/product?p_id=24729",
-            "product_id": 24729,
-            "available": false,
             "rating": 4.2,
             "num_reviews": 39
         },
@@ -13487,6 +13469,15 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=27511",
             "product_id": 27511,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 67
+        },
+        "27519": {
+            "name": "Monoprice Cat6A 20ft Blue Patch Cable, Double Shielded (S/FTP), 36AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
+            "price": 2.99,
+            "url": "https://www.monoprice.com/product?p_id=27519",
+            "product_id": 27519,
             "available": true,
             "rating": 4.8,
             "num_reviews": 67
@@ -43581,6 +43572,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-06T21:21:28Z"
+        "timestamp": "2023-06-06T21:26:59Z"
     }
 }
