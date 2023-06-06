@@ -19447,7 +19447,7 @@
             "product_id": 34608,
             "available": true,
             "rating": 3.8,
-            "num_reviews": 31
+            "num_reviews": 33
         },
         "34609": {
             "name": "Monoprice MP Rapid UV 3D Printer Resin, 1000ml, Yellow",
@@ -25351,7 +25351,7 @@
             "product_id": 39511,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 270
+            "num_reviews": 271
         },
         "39512": {
             "name": "Monoprice PTZ Video Conference Camera, Pan Tilt Zoom with Remote, Full HD 1080p Webcam, USB 3.0, 3x Optical Zoom",
@@ -43617,6 +43617,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-06T05:22:55Z"
+        "timestamp": "2023-06-06T05:30:35Z"
     }
 }
