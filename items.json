@@ -19593,6 +19593,15 @@
             "rating": 5,
             "num_reviews": 1
         },
+        "34746": {
+            "name": "Cat8 24AWG S/FTP Ethernet Network Cable, 2GHz, 40G, 7m, Black, 5 pack",
+            "price": 47.98,
+            "url": "https://www.monoprice.com/product?p_id=34746",
+            "product_id": 34746,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 70
+        },
         "34775": {
             "name": "FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 10m, White, 5 pack",
             "price": 11.98,
@@ -43590,6 +43599,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-06T16:45:33Z"
+        "timestamp": "2023-06-06T16:54:36Z"
     }
 }
