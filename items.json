@@ -27394,7 +27394,7 @@
             "product_id": 43163,
             "available": true,
             "rating": 5,
-            "num_reviews": 22
+            "num_reviews": 23
         },
         "43164": {
             "name": "Monolith by Monoprice Double-Wide XL 3-Tier AV Stand, Black",
@@ -27691,7 +27691,7 @@
             "product_id": 43219,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 270
+            "num_reviews": 271
         },
         "43220": {
             "name": "Monoprice 8K Ultra High Speed HDMI Cable, 48Gbps, Black, 15ft",
@@ -38469,6 +38469,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-06T02:33:12Z"
+        "timestamp": "2023-06-06T03:04:07Z"
     }
 }
