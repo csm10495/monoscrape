@@ -4374,15 +4374,6 @@
             "rating": 4.7,
             "num_reviews": 273
         },
-        "13562": {
-            "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, U/FTP, CM, Pure Bare Copper Wire, 23AWG, 250ft, Gray",
-            "price": 78.99,
-            "url": "https://www.monoprice.com/product?p_id=13562",
-            "product_id": 13562,
-            "available": false,
-            "rating": 3.9,
-            "num_reviews": 42
-        },
         "13574": {
             "name": "Monoprice 4K Slim High Speed HDMI Cable 0.5ft - 18Gbps Black",
             "price": 5.49,
@@ -5135,7 +5126,7 @@
             "price": 53.99,
             "url": "https://www.monoprice.com/product?p_id=13759",
             "product_id": 13759,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 219
         },
@@ -43608,6 +43599,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-06T16:29:02Z"
+        "timestamp": "2023-06-06T16:39:54Z"
     }
 }
