@@ -3596,7 +3596,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=133",
             "product_id": 133,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3042
         },
@@ -34198,7 +34198,7 @@
             "product_id": 4768,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 201
+            "num_reviews": 202
         },
         "4769": {
             "name": "Monoprice 6ft Premier Series XLR Female to 1/4in TRS Male Cable, 16AWG (Gold Plated)",
@@ -35708,7 +35708,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=5459",
             "product_id": 5459,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 2581
         },
@@ -35897,7 +35897,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=5583",
             "product_id": 5583,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 1088
         },
@@ -38543,7 +38543,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=7264",
             "product_id": 7264,
-            "available": true,
+            "available": false,
             "rating": 4.1,
             "num_reviews": 71
         },
@@ -42204,6 +42204,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-06T17:29:55Z"
+        "timestamp": "2023-06-06T17:35:43Z"
     }
 }
