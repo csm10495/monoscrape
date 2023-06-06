@@ -626,7 +626,7 @@
             "price": 2.47,
             "url": "https://www.monoprice.com/product?p_id=11196",
             "product_id": 11196,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 461
         },
@@ -1845,6 +1845,15 @@
             "rating": 4.8,
             "num_reviews": 8
         },
+        "11606": {
+            "name": "Monoprice TPU Case for Samsung Galaxy S®5 - Smoke",
+            "price": 4.68,
+            "url": "https://www.monoprice.com/product?p_id=11606",
+            "product_id": 11606,
+            "available": true,
+            "rating": 4.3,
+            "num_reviews": 7
+        },
         "11749": {
             "name": "Monoprice HDMI to 3G SDI Converter",
             "price": 84.99,
@@ -1958,7 +1967,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=11847",
             "product_id": 11847,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 16
         },
@@ -4676,7 +4685,7 @@
             "price": 119.99,
             "url": "https://www.monoprice.com/product?p_id=13683",
             "product_id": 13683,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 78
         },
@@ -4685,7 +4694,7 @@
             "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=13684",
             "product_id": 13684,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 78
         },
@@ -6055,7 +6064,7 @@
             "product_id": 14774,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 196
+            "num_reviews": 197
         },
         "14775": {
             "name": "Monoprice Cat5e Ethernet Bulk Cable - Solid, 350MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 24AWG, 250ft, Gray (UL)",
@@ -7394,7 +7403,7 @@
             "price": 89.99,
             "url": "https://www.monoprice.com/product?p_id=15698",
             "product_id": 15698,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 30
         },
@@ -7403,7 +7412,7 @@
             "price": 109.99,
             "url": "https://www.monoprice.com/product?p_id=15699",
             "product_id": 15699,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 30
         },
@@ -9024,8 +9033,8 @@
             "url": "https://www.monoprice.com/product?p_id=18524",
             "product_id": 18524,
             "available": true,
-            "rating": 4,
-            "num_reviews": 22
+            "rating": 4.1,
+            "num_reviews": 21
         },
         "18534": {
             "name": "Monolith by Monoprice 3ft RCA Cable",
@@ -43599,6 +43608,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-06T18:54:33Z"
+        "timestamp": "2023-06-06T19:18:36Z"
     }
 }
