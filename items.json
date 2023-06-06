@@ -9635,7 +9635,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=2117",
             "product_id": 2117,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3400
         },
@@ -11246,7 +11246,7 @@
             "price": 26.99,
             "url": "https://www.monoprice.com/product?p_id=2328",
             "product_id": 2328,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3400
         },
@@ -26755,7 +26755,7 @@
             "product_id": 4774,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 201
+            "num_reviews": 202
         },
         "4775": {
             "name": "Monoprice 1.5ft Premier Series XLR Male to RCA Male Cable, 16AWG (Gold Plated)",
@@ -27041,7 +27041,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=4880",
             "product_id": 4880,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 45
         },
@@ -27302,7 +27302,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=5027",
             "product_id": 5027,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3400
         },
@@ -28438,7 +28438,7 @@
             "product_id": 5591,
             "available": false,
             "rating": 4.2,
-            "num_reviews": 601
+            "num_reviews": 602
         },
         "5595": {
             "name": "Monoprice 100ft Premium 3.5mm Stereo Male to 3.5mm Stereo Female 22AWG Extension Cable (Gold Plated) - Black",
@@ -32918,7 +32918,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=8760",
             "product_id": 8760,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 61
         },
@@ -34698,6 +34698,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-06T15:06:08Z"
+        "timestamp": "2023-06-06T15:23:10Z"
     }
 }
