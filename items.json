@@ -12814,7 +12814,7 @@
             "product_id": 2522,
             "available": true,
             "rating": 2.8,
-            "num_reviews": 209
+            "num_reviews": 208
         },
         "2529": {
             "name": "Monoprice 4K High Speed HDMI Cable 15ft - 18Gbps Black",
@@ -22858,7 +22858,7 @@
             "product_id": 3844,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1854
+            "num_reviews": 1855
         },
         "3845": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 14AWG, 500ft, White",
@@ -28238,7 +28238,7 @@
             "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=4103",
             "product_id": 4103,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 547
         },
@@ -36502,7 +36502,7 @@
             "product_id": 5297,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 636
+            "num_reviews": 638
         },
         "5298": {
             "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R, 16AWG, 13A/1625W, 3-Prong, Black, 3ft",
@@ -38165,7 +38165,7 @@
             "price": 4.59,
             "url": "https://www.monoprice.com/product?p_id=6201",
             "product_id": 6201,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 16
         },
@@ -39353,7 +39353,7 @@
             "price": 0.3,
             "url": "https://www.monoprice.com/product?p_id=6880",
             "product_id": 6880,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 62
         },
@@ -39857,7 +39857,7 @@
             "price": 8.49,
             "url": "https://www.monoprice.com/product?p_id=7246",
             "product_id": 7246,
-            "available": false,
+            "available": true,
             "rating": 4,
             "num_reviews": 35
         },
@@ -40424,7 +40424,7 @@
             "price": 139.99,
             "url": "https://www.monoprice.com/product?p_id=7605",
             "product_id": 7605,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 33
         },
@@ -41136,8 +41136,8 @@
             "url": "https://www.monoprice.com/product?p_id=8231",
             "product_id": 8231,
             "available": true,
-            "rating": 4.4,
-            "num_reviews": 58
+            "rating": 4.5,
+            "num_reviews": 57
         },
         "8232": {
             "name": "Monoprice Dual Source 4-Channel A/B Speaker Selector w/ Volume Control",
@@ -43268,7 +43268,7 @@
             "price": 9.49,
             "url": "https://www.monoprice.com/product?p_id=9840",
             "product_id": 9840,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1468
         },
@@ -43599,6 +43599,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-06T18:44:26Z"
+        "timestamp": "2023-06-06T18:54:33Z"
     }
 }
