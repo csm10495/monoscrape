@@ -16817,7 +16817,7 @@
             "price": 2149.99,
             "url": "https://www.monoprice.com/product?p_id=33306",
             "product_id": 33306,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 12
         },
@@ -18374,7 +18374,7 @@
             "price": 149.99,
             "url": "https://www.monoprice.com/product?p_id=34198",
             "product_id": 34198,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 22
         },
@@ -20660,7 +20660,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=35788",
             "product_id": 35788,
-            "available": true,
+            "available": false,
             "rating": 3.5,
             "num_reviews": 11
         },
@@ -23470,7 +23470,7 @@
             "product_id": 38802,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 87
+            "num_reviews": 88
         },
         "38803": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 1.5ft, Red",
@@ -24923,7 +24923,7 @@
         },
         "39324": {
             "name": "Dark Matter by Monoprice Launch Gaming Mouse Pad - Premium Cloth, Stitched Edges, 450x400mm",
-            "price": 5.23,
+            "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=39324",
             "product_id": 39324,
             "available": true,
@@ -43608,6 +43608,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-06T19:25:11Z"
+        "timestamp": "2023-06-06T19:34:42Z"
     }
 }
