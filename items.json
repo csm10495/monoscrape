@@ -10067,7 +10067,7 @@
             "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=21594",
             "product_id": 21594,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 385
         },
@@ -12461,7 +12461,7 @@
             "price": 649.99,
             "url": "https://www.monoprice.com/product?p_id=24456",
             "product_id": 24456,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 91
         },
@@ -43572,6 +43572,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-07T19:48:00Z"
+        "timestamp": "2023-06-07T19:57:41Z"
     }
 }
