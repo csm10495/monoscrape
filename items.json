@@ -2230,7 +2230,7 @@
             "product_id": 12235,
             "available": true,
             "rating": 4,
-            "num_reviews": 595
+            "num_reviews": 596
         },
         "12239": {
             "name": "Monoprice 4.5ft USB 2.0 A Male to Micro B Male 30/20 AWG Fast Charge / Security Cable",
@@ -43572,6 +43572,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-07T17:22:09Z"
+        "timestamp": "2023-06-07T17:30:05Z"
     }
 }
