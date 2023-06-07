@@ -35593,7 +35593,7 @@
             "product_id": 4769,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 201
+            "num_reviews": 202
         },
         "477": {
             "name": "Monoprice 6ft Null Modem DB 9 F/F Molded Cable",
@@ -36090,15 +36090,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "5000": {
-            "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 30ft, Yellow",
-            "price": 2.98,
-            "url": "https://www.monoprice.com/product?p_id=5000",
-            "product_id": 5000,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 3042
-        },
         "5001": {
             "name": "Monoprice Cat5e 75ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 16.99,
@@ -36554,7 +36545,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=5308",
             "product_id": 5308,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 121
         },
@@ -43572,6 +43563,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-07T20:28:48Z"
+        "timestamp": "2023-06-07T20:35:11Z"
     }
 }
