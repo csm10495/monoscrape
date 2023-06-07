@@ -2968,7 +2968,7 @@
             "product_id": 12962,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 425
+            "num_reviews": 426
         },
         "12986": {
             "name": "Monoprice Commercial Series Full-Motion Articulating TV Wall Mount Bracket For LED TVs 60in to 100in, Max Weight 176lbs, Extends from 2.8in to 24.6in, VESA Up to 900x600, Concrete \u0026 Brick, No Logo",
@@ -43590,6 +43590,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-07T05:30:12Z"
+        "timestamp": "2023-06-07T05:36:19Z"
     }
 }
