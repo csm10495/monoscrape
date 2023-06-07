@@ -13534,7 +13534,7 @@
             "product_id": 2759,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 879
+            "num_reviews": 880
         },
         "2760": {
             "name": "Monoprice 15ft 28AWG CL2 Dual Link DVI-D Cable - Black",
@@ -14092,7 +14092,7 @@
             "product_id": 2820,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1854
+            "num_reviews": 1855
         },
         "2821": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 14AWG, 250ft, White",
@@ -27601,7 +27601,7 @@
             "product_id": 4045,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1854
+            "num_reviews": 1855
         },
         "4046": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 18AWG, 250ft, White",
@@ -40136,7 +40136,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=7304",
             "product_id": 7304,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 131
         },
@@ -41390,15 +41390,6 @@
             "available": false,
             "rating": 4.8,
             "num_reviews": 1362
-        },
-        "8597": {
-            "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 1000ft, Purple, (UL)",
-            "price": 149.99,
-            "url": "https://www.monoprice.com/product?p_id=8597",
-            "product_id": 8597,
-            "available": true,
-            "rating": 4.8,
-            "num_reviews": 294
         },
         "86": {
             "name": "Monoprice Super VGA (SVGA) Monitor Extension Cable, 6ft",
@@ -43572,6 +43563,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-07T18:11:54Z"
+        "timestamp": "2023-06-07T18:28:37Z"
     }
 }
