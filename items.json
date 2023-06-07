@@ -15370,7 +15370,7 @@
             "product_id": 30762,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 204
+            "num_reviews": 205
         },
         "30763": {
             "name": "Monoprice Palette Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 6ft Black",
@@ -16790,7 +16790,7 @@
             "price": 2149.99,
             "url": "https://www.monoprice.com/product?p_id=33306",
             "product_id": 33306,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 12
         },
@@ -23407,7 +23407,7 @@
             "product_id": 38797,
             "available": false,
             "rating": 4.5,
-            "num_reviews": 87
+            "num_reviews": 88
         },
         "38799": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 1.5ft, Blue",
@@ -43581,6 +43581,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-07T03:32:08Z"
+        "timestamp": "2023-06-07T03:37:44Z"
     }
 }
