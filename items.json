@@ -15388,7 +15388,7 @@
             "product_id": 30764,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 204
+            "num_reviews": 205
         },
         "30765": {
             "name": "Monoprice Palette Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 3ft White",
@@ -22417,7 +22417,7 @@
             "product_id": 38302,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 396
+            "num_reviews": 397
         },
         "38303": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, White",
@@ -43590,6 +43590,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-07T04:34:38Z"
+        "timestamp": "2023-06-07T04:44:12Z"
     }
 }
