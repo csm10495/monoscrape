@@ -11166,8 +11166,8 @@
             "url": "https://www.monoprice.com/product?p_id=2318",
             "product_id": 2318,
             "available": false,
-            "rating": 4.9,
-            "num_reviews": 3400
+            "rating": 0,
+            "num_reviews": 0
         },
         "2319": {
             "name": "Monoprice Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 25ft, Yellow",
@@ -14146,7 +14146,7 @@
             "product_id": 2824,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1854
+            "num_reviews": 1855
         },
         "2832": {
             "name": "Monoprice S/PDIF (Toslink) Digital Optical Audio Cable, 35ft",
@@ -36880,7 +36880,7 @@
             "product_id": 5431,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1587
+            "num_reviews": 1588
         },
         "5432": {
             "name": "Monoprice USB Type-A to USB Type-A Female 2.0 Extension Cable - 28/24AWG, Gold Plated, Black, 3ft",
@@ -38084,7 +38084,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=6061",
             "product_id": 6061,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 61
         },
@@ -40190,7 +40190,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=7315",
             "product_id": 7315,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 3
         },
@@ -43590,6 +43590,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-07T13:44:13Z"
+        "timestamp": "2023-06-07T13:54:37Z"
     }
 }
