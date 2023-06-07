@@ -7134,8 +7134,8 @@
             "url": "https://www.monoprice.com/product?p_id=2318",
             "product_id": 2318,
             "available": false,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 4.9,
+            "num_reviews": 3400
         },
         "2319": {
             "name": "Monoprice Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 25ft, Yellow",
@@ -32013,15 +32013,6 @@
             "rating": 4.9,
             "num_reviews": 3042
         },
-        "4977": {
-            "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 0.5ft, Gray",
-            "price": 0.29,
-            "url": "https://www.monoprice.com/product?p_id=4977",
-            "product_id": 4977,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 3042
-        },
         "4984": {
             "name": "Monoprice Cat5e 20ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 5.49,
@@ -33260,7 +33251,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=5583",
             "product_id": 5583,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 1088
         },
@@ -37438,7 +37429,7 @@
             "product_id": 8604,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1587
+            "num_reviews": 1588
         },
         "8605": {
             "name": "Monoprice USB Type-A to USB Type-A Female 2.0 Extension Cable - 28/24AWG, Gold Plated, White, 3ft",
@@ -37861,7 +37852,7 @@
             "product_id": 8770,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 100
+            "num_reviews": 101
         },
         "8771": {
             "name": "Monoprice 50ft 2-conductor NL4 Female to NL4 Female 12AWG Speaker Twist Connector Cable",
@@ -39558,6 +39549,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-07T14:54:31Z"
+        "timestamp": "2023-06-07T15:06:46Z"
     }
 }
