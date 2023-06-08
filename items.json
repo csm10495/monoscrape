@@ -963,15 +963,6 @@
             "rating": 4.8,
             "num_reviews": 461
         },
-        "11266": {
-            "name": "Monoprice Flexboot Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 1ft, Orange",
-            "price": 1.09,
-            "url": "https://www.monoprice.com/product?p_id=11266",
-            "product_id": 11266,
-            "available": false,
-            "rating": 4.8,
-            "num_reviews": 461
-        },
         "11268": {
             "name": "Monoprice FLEXboot Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 1ft, Purple",
             "price": 1.09,
@@ -1472,7 +1463,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=11354",
             "product_id": 11354,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 461
         },
@@ -4365,15 +4356,6 @@
             "rating": 4.7,
             "num_reviews": 273
         },
-        "13562": {
-            "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, U/FTP, CM, Pure Bare Copper Wire, 23AWG, 250ft, Gray",
-            "price": 78.99,
-            "url": "https://www.monoprice.com/product?p_id=13562",
-            "product_id": 13562,
-            "available": true,
-            "rating": 3.9,
-            "num_reviews": 42
-        },
         "13574": {
             "name": "Monoprice 4K Slim High Speed HDMI Cable 0.5ft - 18Gbps Black",
             "price": 5.49,
@@ -5640,15 +5622,6 @@
             "url": "https://www.monoprice.com/product?p_id=14265",
             "product_id": 14265,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 127
-        },
-        "14277": {
-            "name": "Monoprice Cat5e 7ft Orange Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
-            "price": 1.19,
-            "url": "https://www.monoprice.com/product?p_id=14277",
-            "product_id": 14277,
-            "available": false,
             "rating": 4.9,
             "num_reviews": 127
         },
@@ -7010,15 +6983,6 @@
             "available": false,
             "rating": 4.4,
             "num_reviews": 5
-        },
-        "15418": {
-            "name": "Monoprice ELECTRIC BIKE TECHNOLOGIES | 500-watt Rear Bike Motor Kit 26\" Rear Wheel Geared Motor w/ 48v9Ah Lead-Acid Battery Pack",
-            "price": 1027.99,
-            "url": "https://www.monoprice.com/product?p_id=15418",
-            "product_id": 15418,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
         },
         "15427": {
             "name": "Monoprice 4K Certified Premium High Speed HDMI Cable 3ft - 18Gbps Black",
@@ -43509,6 +43473,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-08T16:10:38Z"
+        "timestamp": "2023-06-08T16:29:59Z"
     }
 }
