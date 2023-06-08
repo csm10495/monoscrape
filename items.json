@@ -9943,7 +9943,7 @@
             "product_id": 21549,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 29
+            "num_reviews": 30
         },
         "21550": {
             "name": "Monoprice Speaker Wire, Burial Rated, 2-Conductor, 14AWG, 250ft, Gray",
@@ -43518,6 +43518,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-08T05:54:07Z"
+        "timestamp": "2023-06-08T06:10:40Z"
     }
 }
