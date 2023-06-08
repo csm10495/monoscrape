@@ -380,7 +380,7 @@
         },
         "10551": {
             "name": "Monoprice Premium 3D Printer Filament PLA 1.75mm 1kg/spool, Black",
-            "price": 20.59,
+            "price": 16.47,
             "url": "https://www.monoprice.com/product?p_id=10551",
             "product_id": 10551,
             "available": true,
@@ -398,7 +398,7 @@
         },
         "10553": {
             "name": "Monoprice Premium 3D Printer Filament PLA 1.75mm 1kg/spool, Red",
-            "price": 29.99,
+            "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=10553",
             "product_id": 10553,
             "available": true,
@@ -551,7 +551,7 @@
         },
         "11040": {
             "name": "Monoprice Premium 3D Printer Filament ABS 1.75mm 1kg/spool, Blue",
-            "price": 14.99,
+            "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=11040",
             "product_id": 11040,
             "available": true,
@@ -1298,7 +1298,7 @@
         },
         "11331": {
             "name": "Monoprice FLEXboot Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 3ft, Orange",
-            "price": 0.89,
+            "price": 0.71,
             "url": "https://www.monoprice.com/product?p_id=11331",
             "product_id": 11331,
             "available": true,
@@ -1424,7 +1424,7 @@
         },
         "11350": {
             "name": "Monoprice FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 50ft, Red",
-            "price": 14.99,
+            "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=11350",
             "product_id": 11350,
             "available": true,
@@ -5708,7 +5708,7 @@
         },
         "14312": {
             "name": "Monoprice Cat6 5ft Yellow Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
-            "price": 2.49,
+            "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=14312",
             "product_id": 14312,
             "available": true,
@@ -5978,7 +5978,7 @@
         },
         "14760": {
             "name": "Monoprice Cat6 Ethernet Bulk Cable - Stranded, 550MHz, UTP, CM, Pure Bare Copper Wire, 24AWG, 250ft, Black",
-            "price": 35.99,
+            "price": 28.79,
             "url": "https://www.monoprice.com/product?p_id=14760",
             "product_id": 14760,
             "available": true,
@@ -7985,7 +7985,7 @@
         },
         "16058": {
             "name": "Monoprice Entegrade Cat6 Ethernet Patch Cable - Snagless RJ45, 550MHz, UTP, CMP, Plenum, Pure Bare Copper Wire, 23AWG, 10ft, Blue",
-            "price": 6.99,
+            "price": 5.59,
             "url": "https://www.monoprice.com/product?p_id=16058",
             "product_id": 16058,
             "available": true,
@@ -43473,6 +43473,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-08T19:36:44Z"
+        "timestamp": "2023-06-08T19:47:04Z"
     }
 }
