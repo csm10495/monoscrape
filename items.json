@@ -28726,7 +28726,7 @@
             "product_id": 4758,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 1354
+            "num_reviews": 1356
         },
         "4759": {
             "name": "Monoprice 1.5ft Premier Series XLR Male to 1/4in TRS Male Cable, 16AWG (Gold Plated)",
@@ -28843,7 +28843,7 @@
             "product_id": 4770,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 201
+            "num_reviews": 202
         },
         "4771": {
             "name": "Monoprice 15ft Premier Series XLR Female to 1/4in TRS Male Cable, 16AWG (Gold Plated)",
@@ -36795,6 +36795,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-08T08:43:49Z"
+        "timestamp": "2023-06-08T08:54:10Z"
     }
 }
