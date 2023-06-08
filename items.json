@@ -393,8 +393,8 @@
             "url": "https://www.monoprice.com/product?p_id=10552",
             "product_id": 10552,
             "available": false,
-            "rating": 4.3,
-            "num_reviews": 575
+            "rating": 0,
+            "num_reviews": 0
         },
         "10553": {
             "name": "Monoprice Premium 3D Printer Filament PLA 1.75mm 1kg/spool, Red",
@@ -2824,7 +2824,7 @@
             "product_id": 12841,
             "available": false,
             "rating": 4.3,
-            "num_reviews": 2056
+            "num_reviews": 2057
         },
         "12842": {
             "name": "Monoprice Select Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 10ft White",
@@ -4633,7 +4633,7 @@
             "product_id": 13679,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 196
+            "num_reviews": 197
         },
         "13680": {
             "name": "Monoprice Cat5e 250ft Blue CMR UL Bulk Cable, UTP, Solid, 24AWG, 350MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
@@ -43437,6 +43437,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-08T21:34:55Z"
+        "timestamp": "2023-06-08T21:45:02Z"
     }
 }
