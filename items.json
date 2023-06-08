@@ -10068,8 +10068,8 @@
             "url": "https://www.monoprice.com/product?p_id=21602",
             "product_id": 21602,
             "available": false,
-            "rating": 4.5,
-            "num_reviews": 50
+            "rating": 4.4,
+            "num_reviews": 51
         },
         "21603": {
             "name": "Monoprice Table Top for Sit-Stand Height-Adjustable Desk, 5ft Black",
@@ -43518,6 +43518,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-08T14:22:37Z"
+        "timestamp": "2023-06-08T14:30:46Z"
     }
 }
