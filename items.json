@@ -9979,7 +9979,7 @@
             "product_id": 21553,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 29
+            "num_reviews": 30
         },
         "21564": {
             "name": "Monoprice Viper Series HD-SDI RG-6 BNC Cable, 250ft",
@@ -10636,7 +10636,7 @@
             "product_id": 21887,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 314
+            "num_reviews": 315
         },
         "21912": {
             "name": "Monoprice 1 Pair Right Angle 24k Gold Plated Banana Speaker Wire Cable Screw Plug Connectors",
@@ -43518,6 +43518,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-08T13:11:02Z"
+        "timestamp": "2023-06-08T13:32:03Z"
     }
 }
