@@ -9898,7 +9898,7 @@
             "product_id": 21547,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 29
+            "num_reviews": 30
         },
         "21548": {
             "name": "Monoprice Speaker Wire, Burial Rated, 2-Conductor, 16AWG, 250ft, Gray",
@@ -11387,7 +11387,7 @@
         },
         "24181": {
             "name": "Monoprice Blackbird HDMI Extender, 50m, PoC, IR Kit, Loop Out",
-            "price": 47.99,
+            "price": 38.39,
             "url": "https://www.monoprice.com/product?p_id=24181",
             "product_id": 24181,
             "available": false,
@@ -43473,6 +43473,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-08T19:47:04Z"
+        "timestamp": "2023-06-08T19:56:03Z"
     }
 }
