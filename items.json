@@ -9565,7 +9565,7 @@
             "product_id": 2097,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 879
+            "num_reviews": 880
         },
         "2113": {
             "name": "Monoprice Cat6 1ft Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -14191,7 +14191,7 @@
             "product_id": 2868,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 1304
+            "num_reviews": 1305
         },
         "2869": {
             "name": "Monoprice 3ft Premium 2 RCA Plug/2 RCA Plug M/M 22AWG Cable, Black",
@@ -43527,6 +43527,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-08T03:18:26Z"
+        "timestamp": "2023-06-08T03:31:04Z"
     }
 }
