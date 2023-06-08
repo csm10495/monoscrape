@@ -16661,7 +16661,7 @@
         },
         "33271": {
             "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, 550MHz, UTP, Pure Bare Copper Wire, 10G, 30AWG, 25ft, Green, 10-Pack",
-            "price": 54.99,
+            "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=33271",
             "product_id": 33271,
             "available": true,
@@ -17890,7 +17890,7 @@
             "product_id": 33883,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 213
+            "num_reviews": 214
         },
         "33884": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Magenta",
@@ -18536,7 +18536,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=34247",
             "product_id": 34247,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 76
         },
@@ -19492,7 +19492,7 @@
             "product_id": 34710,
             "available": true,
             "rating": 4.2,
-            "num_reviews": 195
+            "num_reviews": 196
         },
         "34739": {
             "name": "Monolith by Monoprice M600 Open Back Over Ear Headphones (Open Box)",
@@ -19559,7 +19559,7 @@
         },
         "34785": {
             "name": "SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, S/STP, Pure Bare Copper Wire, 36AWG, 1m, Blue, 5 pack",
-            "price": 19.99,
+            "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=34785",
             "product_id": 34785,
             "available": true,
@@ -19577,7 +19577,7 @@
         },
         "34788": {
             "name": "SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, S/STP, Pure Bare Copper Wire, 36AWG, 1m, White, 5 pack",
-            "price": 19.99,
+            "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=34788",
             "product_id": 34788,
             "available": true,
@@ -26120,7 +26120,7 @@
         },
         "39778": {
             "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 16AWG, 13A/1625W, 3-Prong, SJT, Black, 6ft, 6-Pack",
-            "price": 27.99,
+            "price": 22.39,
             "url": "https://www.monoprice.com/product?p_id=39778",
             "product_id": 39778,
             "available": true,
@@ -26492,7 +26492,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=39922",
             "product_id": 39922,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1588
         },
@@ -26548,7 +26548,7 @@
             "product_id": 39928,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1587
+            "num_reviews": 1588
         },
         "3993": {
             "name": "Monoprice 4K High Speed HDMI Cable 10ft - 18Gbps Black",
@@ -43473,6 +43473,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-08T19:56:03Z"
+        "timestamp": "2023-06-08T20:08:40Z"
     }
 }
