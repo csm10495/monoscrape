@@ -9142,7 +9142,7 @@
             "product_id": 31191,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 396
+            "num_reviews": 397
         },
         "31192": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Black",
@@ -16837,7 +16837,7 @@
             "product_id": 38824,
             "available": false,
             "rating": 4.5,
-            "num_reviews": 87
+            "num_reviews": 88
         },
         "38825": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 3ft, Black, 3-Pack",
@@ -19789,7 +19789,7 @@
             "product_id": 39922,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1587
+            "num_reviews": 1588
         },
         "39923": {
             "name": "Monoprice USB Type-A to USB Type-A Female 2.0 Extension Cable - 28/24AWG Gold Plated Black 3ft, 3-Pack",
@@ -36795,6 +36795,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-08T07:54:00Z"
+        "timestamp": "2023-06-08T08:10:16Z"
     }
 }
