@@ -15748,7 +15748,7 @@
             "product_id": 31088,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 69
+            "num_reviews": 70
         },
         "31089": {
             "name": "Monoprice Entegrade Series Cat8 24AWG S/FTP Ethernet Network Cable, 2GHz, 40G, 3ft White",
@@ -15775,7 +15775,7 @@
             "product_id": 31097,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 69
+            "num_reviews": 70
         },
         "31098": {
             "name": "Monoprice Cat8 5ft White Patch Cable,  Double Shielded (S/FTP), 24AWG, 2GHz, 40G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
@@ -15793,7 +15793,7 @@
             "product_id": 31115,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 69
+            "num_reviews": 70
         },
         "31179": {
             "name": "Monoprice Select Series DisplayPort 1.4 Cable, 1.5ft Black",
@@ -43518,6 +43518,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-08T11:45:34Z"
+        "timestamp": "2023-06-08T11:55:41Z"
     }
 }
