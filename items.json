@@ -2581,7 +2581,7 @@
             "product_id": 12738,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 425
+            "num_reviews": 426
         },
         "12739": {
             "name": "Monoprice 4K High Speed HDMI Cable 75ft - CL2 In Wall Rated 18Gbps Active Black",
@@ -3983,7 +3983,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=13509",
             "product_id": 13509,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 273
         },
@@ -41196,6 +41196,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-08T10:22:36Z"
+        "timestamp": "2023-06-08T10:34:56Z"
     }
 }
