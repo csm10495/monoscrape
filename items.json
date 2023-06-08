@@ -13741,7 +13741,7 @@
             "product_id": 2788,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 879
+            "num_reviews": 880
         },
         "2789": {
             "name": "Monoprice Speaker Wire, Oxygen-Free CL2 Rated, 2-Conductor, 12AWG, 100ft",
@@ -14693,7 +14693,7 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=3021",
             "product_id": 3021,
-            "available": true,
+            "available": false,
             "rating": 4.1,
             "num_reviews": 789
         },
@@ -18077,7 +18077,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=3413",
             "product_id": 3413,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3400
         },
@@ -37319,7 +37319,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=566",
             "product_id": 566,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 13
         },
@@ -37870,7 +37870,7 @@
             "product_id": 6017,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 263
+            "num_reviews": 264
         },
         "6018": {
             "name": "Monoprice 3ft 28AWG DisplayPort to VGA Cable, White",
@@ -39209,7 +39209,7 @@
             "price": 0.3,
             "url": "https://www.monoprice.com/product?p_id=6880",
             "product_id": 6880,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 62
         },
@@ -39272,7 +39272,7 @@
             "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=6971",
             "product_id": 6971,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 132
         },
@@ -41180,7 +41180,7 @@
             "price": 5.49,
             "url": "https://www.monoprice.com/product?p_id=85",
             "product_id": 85,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 571
         },
@@ -41234,7 +41234,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=8536",
             "product_id": 8536,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 119
         },
@@ -42440,7 +42440,7 @@
             "price": 46.49,
             "url": "https://www.monoprice.com/product?p_id=953",
             "product_id": 953,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 16
         },
@@ -43437,6 +43437,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-08T17:06:31Z"
+        "timestamp": "2023-06-08T17:23:07Z"
     }
 }
