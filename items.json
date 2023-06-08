@@ -22417,7 +22417,7 @@
             "product_id": 38309,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 396
+            "num_reviews": 397
         },
         "38310": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft, Purple",
@@ -23046,8 +23046,8 @@
             "url": "https://www.monoprice.com/product?p_id=38607",
             "product_id": 38607,
             "available": false,
-            "rating": 4.4,
-            "num_reviews": 8
+            "rating": 4.5,
+            "num_reviews": 9
         },
         "38609": {
             "name": "Monoprice Select USB 3.0 Type-C to Type-A Cable, 1.5ft, Black",
@@ -43518,6 +43518,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-08T15:29:36Z"
+        "timestamp": "2023-06-08T15:35:43Z"
     }
 }
