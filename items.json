@@ -11066,7 +11066,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=2309",
             "product_id": 2309,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3400
         },
@@ -35368,7 +35368,7 @@
             "product_id": 4749,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 1355
+            "num_reviews": 1356
         },
         "4750": {
             "name": "Monoprice 3ft Premier Series XLR Male to XLR Female 16AWG Cable (Gold Plated) [Microphone and Interconnect]",
@@ -41252,7 +41252,7 @@
             "price": 5.49,
             "url": "https://www.monoprice.com/product?p_id=85",
             "product_id": 85,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 571
         },
@@ -41459,7 +41459,7 @@
             "price": 1.69,
             "url": "https://www.monoprice.com/product?p_id=8612",
             "product_id": 8612,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 322
         },
@@ -43509,6 +43509,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-08T15:54:42Z"
+        "timestamp": "2023-06-08T16:10:38Z"
     }
 }
