@@ -36763,7 +36763,7 @@
             "product_id": 5434,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1587
+            "num_reviews": 1588
         },
         "5435": {
             "name": "Monoprice USB Type-A to USB Type-A Female 2.0 Extension Cable - 28/24AWG, Gold Plated, Black, 15ft",
@@ -43437,6 +43437,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-08T20:27:28Z"
+        "timestamp": "2023-06-08T20:34:38Z"
     }
 }
