@@ -15811,7 +15811,7 @@
             "product_id": 31188,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 396
+            "num_reviews": 397
         },
         "31189": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Red",
@@ -16853,7 +16853,7 @@
             "price": 20.99,
             "url": "https://www.monoprice.com/product?p_id=33466",
             "product_id": 33466,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 17
         },
@@ -25108,7 +25108,7 @@
             "product_id": 39481,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 270
+            "num_reviews": 271
         },
         "39483": {
             "name": "Monoprice 8K Ultra High Speed HDMI Cable 6ft - 48Gbps Black - 5 Pack",
@@ -43437,6 +43437,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-08T20:54:32Z"
+        "timestamp": "2023-06-08T21:06:22Z"
     }
 }
