@@ -14189,7 +14189,7 @@
             "price": 7.49,
             "url": "https://www.monoprice.com/product?p_id=2869",
             "product_id": 2869,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 1305
         },
@@ -35593,7 +35593,7 @@
             "product_id": 4773,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 201
+            "num_reviews": 202
         },
         "4774": {
             "name": "Monoprice 50ft Premier Series XLR Female to 1/4in TRS Male Cable, 16AWG (Gold Plated)",
@@ -38248,7 +38248,7 @@
             "product_id": 6304,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 538
+            "num_reviews": 539
         },
         "6305": {
             "name": "Monoprice 10ft High-quality Coaxial Audio/Video RCA CL2 Rated Cable - RG6/U 75ohm (for S/PDIF, Digital Coax, Subwoofer, and Composite Video)",
@@ -43518,6 +43518,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-08T12:41:15Z"
+        "timestamp": "2023-06-08T12:58:16Z"
     }
 }
