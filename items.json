@@ -15413,7 +15413,7 @@
             "price": 9.28,
             "url": "https://www.monoprice.com/product?p_id=30769",
             "product_id": 30769,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 205
         },
@@ -16009,7 +16009,7 @@
             "product_id": 31229,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 270
+            "num_reviews": 271
         },
         "31230": {
             "name": "Monoprice 8K Ultra High Speed HDMI Cable 3ft - 48Gbps Black",
@@ -23324,7 +23324,7 @@
             "price": 9.59,
             "url": "https://www.monoprice.com/product?p_id=38793",
             "product_id": 38793,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 87
         },
@@ -26573,7 +26573,7 @@
             "price": 5.94,
             "url": "https://www.monoprice.com/product?p_id=39928",
             "product_id": 39928,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1587
         },
@@ -43527,6 +43527,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-08T00:37:07Z"
+        "timestamp": "2023-06-08T02:18:12Z"
     }
 }
