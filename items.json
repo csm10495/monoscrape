@@ -28933,7 +28933,7 @@
             "product_id": 41397,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1854
+            "num_reviews": 1855
         },
         "41398": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 14AWG, 1000ft, Black",
@@ -31100,7 +31100,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=42681",
             "product_id": 42681,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 227
         },
@@ -33966,15 +33966,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "43865": {
-            "name": "Monolith by Monoprice M5100X 5x100 Watts Per Channel Multi-Channel Home Theater Power Amplifier with XLR Inputs",
-            "price": 599.99,
-            "url": "https://www.monoprice.com/product?p_id=43865",
-            "product_id": 43865,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "43876": {
             "name": "Monoprice Blackbird 4K 1x2 HDMI Splitter, 4K@30Hz",
             "price": 19.99,
@@ -34817,15 +34808,6 @@
             "price": 299.99,
             "url": "https://www.monoprice.com/product?p_id=44487",
             "product_id": 44487,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "44488": {
-            "name": "Monoprice Cat6 1000ft Red CMP UL Bulk Cable, Solid (w/spine), UTP, 23AWG, 550MHz, Pure Bare Copper, Reelex II Pull Box, No Logo, Bulk Ethernet Cable",
-            "price": 299.99,
-            "url": "https://www.monoprice.com/product?p_id=44488",
-            "product_id": 44488,
             "available": false,
             "rating": 0,
             "num_reviews": 0
@@ -43437,6 +43419,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-08T22:06:02Z"
+        "timestamp": "2023-06-08T22:23:18Z"
     }
 }
