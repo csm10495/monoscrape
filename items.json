@@ -35332,7 +35332,7 @@
             "product_id": 4755,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 1355
+            "num_reviews": 1356
         },
         "4756": {
             "name": "Monoprice 50ft Premier Series XLR Male to XLR Female 16AWG Cable (Gold Plated) [Microphone and Interconnect]",
@@ -36736,7 +36736,7 @@
             "product_id": 5433,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 1587
+            "num_reviews": 1588
         },
         "5434": {
             "name": "Monoprice USB Type-A to USB Type-A Female 2.0 Extension Cable - 28/24AWG, Gold Plated, Black, 10ft",
@@ -43419,6 +43419,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-08T23:34:31Z"
+        "timestamp": "2023-06-08T23:44:22Z"
     }
 }
