@@ -2273,7 +2273,7 @@
             "price": 61.99,
             "url": "https://www.monoprice.com/product?p_id=12281",
             "product_id": 12281,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 117
         },
@@ -2669,7 +2669,7 @@
             "price": 119.99,
             "url": "https://www.monoprice.com/product?p_id=12763",
             "product_id": 12763,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 5
         },
@@ -3632,7 +3632,7 @@
             "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=13356",
             "product_id": 13356,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 7
         },
@@ -6983,6 +6983,15 @@
             "available": false,
             "rating": 4.4,
             "num_reviews": 5
+        },
+        "15418": {
+            "name": "Monoprice ELECTRIC BIKE TECHNOLOGIES | 500-watt Rear Bike Motor Kit 26\" Rear Wheel Geared Motor w/ 48v9Ah Lead-Acid Battery Pack",
+            "price": 1027.99,
+            "url": "https://www.monoprice.com/product?p_id=15418",
+            "product_id": 15418,
+            "available": false,
+            "rating": 0,
+            "num_reviews": 0
         },
         "15427": {
             "name": "Monoprice 4K Certified Premium High Speed HDMI Cable 3ft - 18Gbps Black",
@@ -43437,6 +43446,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-08T17:23:07Z"
+        "timestamp": "2023-06-08T17:30:18Z"
     }
 }
