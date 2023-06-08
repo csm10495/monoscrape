@@ -12965,7 +12965,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=2689",
             "product_id": 2689,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 37
         },
@@ -14162,7 +14162,7 @@
             "price": 7.49,
             "url": "https://www.monoprice.com/product?p_id=2869",
             "product_id": 2869,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 1305
         },
@@ -16865,6 +16865,15 @@
             "available": false,
             "rating": 4.7,
             "num_reviews": 19
+        },
+        "3350": {
+            "name": "Monoprice Multi-Modular Plug Crimps, Strips, and Cuts Tool with Ratchet",
+            "price": 11.75,
+            "url": "https://www.monoprice.com/product?p_id=3350",
+            "product_id": 3350,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 49
         },
         "3352": {
             "name": "Monoprice 3 Ways Modular Plug Crimps, Strips, and Cuts Tool with Ratchet",
@@ -40174,7 +40183,7 @@
             "product_id": 7499,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3400
+            "num_reviews": 3401
         },
         "7505": {
             "name": "Monoprice Cat6 6in Red Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -43455,6 +43464,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-08T18:09:51Z"
+        "timestamp": "2023-06-08T18:27:44Z"
     }
 }
