@@ -164,7 +164,7 @@
         },
         "10223": {
             "name": "Monoprice Recessed Full-Motion Articulating TV Wall Mount Bracket - For LED TVs 32in to 60in, Max Weight 200 lbs, Extension Range of 4.4in to 29.8in, VESA Patterns Up to 600x400",
-            "price": 149.99,
+            "price": 134.99,
             "url": "https://www.monoprice.com/product?p_id=10223",
             "product_id": 10223,
             "available": true,
@@ -968,7 +968,7 @@
             "price": 1.09,
             "url": "https://www.monoprice.com/product?p_id=11266",
             "product_id": 11266,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 461
         },
@@ -3398,7 +3398,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=13248",
             "product_id": 13248,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 167
         },
@@ -3647,7 +3647,7 @@
         },
         "13358": {
             "name": "Monoprice Multizone Source Keypad with Bluetooth Receiver",
-            "price": 39.99,
+            "price": 33.99,
             "url": "https://www.monoprice.com/product?p_id=13358",
             "product_id": 13358,
             "available": true,
@@ -7427,7 +7427,7 @@
         },
         "15709": {
             "name": "Monoprice Hex (6) Monitor Free Standing Desk Mount for 15~30in Monitors",
-            "price": 169.99,
+            "price": 152.99,
             "url": "https://www.monoprice.com/product?p_id=15709",
             "product_id": 15709,
             "available": true,
@@ -8156,7 +8156,7 @@
         },
         "16092": {
             "name": "Monoprice EZ Series Low Profile Tilt TV Wall Mount Bracket For Flat Screen TVs 37in to 70in, Max Weight 77 lbs., VESA Patterns Up to 600x400, Works with Concrete and Brick, UL Certified",
-            "price": 27.99,
+            "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=16092",
             "product_id": 16092,
             "available": true,
@@ -8174,7 +8174,7 @@
         },
         "16095": {
             "name": "Monoprice EZ Series Low Profile Fixed TV Wall Mount Bracket For LED TVs 46in to 70in, Max Weight 77lbs, VESA Patterns Up to 600x400, UL Certified",
-            "price": 19.99,
+            "price": 17.99,
             "url": "https://www.monoprice.com/product?p_id=16095",
             "product_id": 16095,
             "available": true,
@@ -8192,7 +8192,7 @@
         },
         "16116": {
             "name": "Monoprice Commercial Series 2x2 Video Wall Mount Bracket System Rolling Display Cart with Micro Adjustment Arms For LED TVs 32in to 55in, Max Weight 100lbs, VESA Patterns Up to 600x400",
-            "price": 499.99,
+            "price": 449.99,
             "url": "https://www.monoprice.com/product?p_id=16116",
             "product_id": 16116,
             "available": true,
@@ -8489,7 +8489,7 @@
         },
         "16246": {
             "name": "Monoprice Essential Dual Monitor Articulating Arm Desk Mount",
-            "price": 39.99,
+            "price": 37.99,
             "url": "https://www.monoprice.com/product?p_id=16246",
             "product_id": 16246,
             "available": true,
@@ -8516,7 +8516,7 @@
         },
         "16249": {
             "name": "Workstream by Monoprice Height Adjustable Ergonomic Universal Laptop Riser Stand",
-            "price": 29.99,
+            "price": 26.99,
             "url": "https://www.monoprice.com/product?p_id=16249",
             "product_id": 16249,
             "available": true,
@@ -43518,6 +43518,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-08T15:06:35Z"
+        "timestamp": "2023-06-08T15:23:00Z"
     }
 }
