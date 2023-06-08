@@ -3876,8 +3876,8 @@
             "url": "https://www.monoprice.com/product?p_id=13411",
             "product_id": 13411,
             "available": false,
-            "rating": 4.8,
-            "num_reviews": 167
+            "rating": 0,
+            "num_reviews": 0
         },
         "13412": {
             "name": "Monoprice Select Plus USB Car Charger, 2-Port, 4.8A Output for iPhone, Android, and Galaxy Devices",
@@ -43518,6 +43518,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-08T04:35:21Z"
+        "timestamp": "2023-06-08T04:44:11Z"
     }
 }
