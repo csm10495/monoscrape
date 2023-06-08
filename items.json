@@ -28395,15 +28395,6 @@
             "rating": 4.9,
             "num_reviews": 3400
         },
-        "41163": {
-            "name": "Pure Outdoor by Monoprice Weatherproof Personal Utility Hard Case, 11 x 7 x 4 in",
-            "price": 19.99,
-            "url": "https://www.monoprice.com/product?p_id=41163",
-            "product_id": 41163,
-            "available": false,
-            "rating": 4.5,
-            "num_reviews": 6
-        },
         "4121": {
             "name": "Monoprice BNC Male to RCA Female Adapter - Gold Plated",
             "price": 1.99,
@@ -28825,7 +28816,7 @@
             "product_id": 41386,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1854
+            "num_reviews": 1855
         },
         "41387": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 14AWG, 250ft, Black",
@@ -29075,7 +29066,7 @@
             "price": 129.99,
             "url": "https://www.monoprice.com/product?p_id=41497",
             "product_id": 41497,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 13
         },
@@ -32049,15 +32040,6 @@
             "rating": 4.6,
             "num_reviews": 11
         },
-        "43047": {
-            "name": "Pure Outdoor by Monoprice Rechargeable LED Camping Lantern, 1000LM",
-            "price": 24.99,
-            "url": "https://www.monoprice.com/product?p_id=43047",
-            "product_id": 43047,
-            "available": false,
-            "rating": 4.4,
-            "num_reviews": 16
-        },
         "43049": {
             "name": "Pure Outdoor by Monoprice Battery-Powered LED Camping Lantern, 1000LM",
             "price": 14.99,
@@ -32974,7 +32956,7 @@
             "product_id": 43305,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 16
+            "num_reviews": 17
         },
         "43324": {
             "name": "Solar Motion Lights Outdoor, Solar Sensor Light Outdoor with Five Side Light, Wire-Free and Easy to Install, IP65 Waterproof, Solar 140 LED Lights",
@@ -33174,15 +33156,6 @@
             "rating": 5,
             "num_reviews": 7
         },
-        "43355": {
-            "name": "Pure Outdoor by Monoprice RV Leveling Blocks",
-            "price": 24.99,
-            "url": "https://www.monoprice.com/product?p_id=43355",
-            "product_id": 43355,
-            "available": false,
-            "rating": 4,
-            "num_reviews": 9
-        },
         "43356": {
             "name": "Pure Outdoor by Monoprice Rubber Wheel Chocks, 2-Pack",
             "price": 16.99,
@@ -33206,7 +33179,7 @@
             "price": 31.99,
             "url": "https://www.monoprice.com/product?p_id=43358",
             "product_id": 43358,
-            "available": true,
+            "available": false,
             "rating": 3.7,
             "num_reviews": 3
         },
@@ -33263,15 +33236,6 @@
             "available": true,
             "rating": 3.5,
             "num_reviews": 2
-        },
-        "43390": {
-            "name": "Pure Outdoor by Monoprice Vacuum-Sealed 12 oz. Wide-Mouth Kids' Water Bottle with Straw Lid, Black",
-            "price": 14.99,
-            "url": "https://www.monoprice.com/product?p_id=43390",
-            "product_id": 43390,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
         },
         "43391": {
             "name": "Monoprice Toslink S/PDIF 1x3 Splitter",
@@ -33665,7 +33629,7 @@
             "price": 11.81,
             "url": "https://www.monoprice.com/product?p_id=43611",
             "product_id": 43611,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -43473,6 +43437,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-08T16:45:35Z"
+        "timestamp": "2023-06-08T16:54:45Z"
     }
 }
