@@ -28816,7 +28816,7 @@
             "product_id": 41381,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1854
+            "num_reviews": 1855
         },
         "41382": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 14AWG, 500ft, Black",
@@ -29408,7 +29408,7 @@
             "price": 11.99,
             "url": "https://www.monoprice.com/product?p_id=41710",
             "product_id": 41710,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 8
         },
@@ -31439,7 +31439,7 @@
         },
         "42836": {
             "name": "Monolith by Monoprice 24in Steel Speaker Stand with Adjustable Top Plate (Each)",
-            "price": 59.99,
+            "price": 53.99,
             "url": "https://www.monoprice.com/product?p_id=42836",
             "product_id": 42836,
             "available": true,
@@ -31448,7 +31448,7 @@
         },
         "42837": {
             "name": "Monolith by Monoprice 28in Steel Speaker Stand with Adjustable Top Plate (Each)",
-            "price": 69.99,
+            "price": 62.99,
             "url": "https://www.monoprice.com/product?p_id=42837",
             "product_id": 42837,
             "available": true,
@@ -32348,7 +32348,7 @@
         },
         "43151": {
             "name": "Monolith by Monoprice Encore C6 Center Channel Speaker (Each)",
-            "price": 249.99,
+            "price": 209.99,
             "url": "https://www.monoprice.com/product?p_id=43151",
             "product_id": 43151,
             "available": true,
@@ -32600,7 +32600,7 @@
         },
         "43197": {
             "name": "Monoprice Commercial Series Low Profile Extra Wide Tilt TV Wall Mount Bracket for LED TVs 43in to 90in, Max Weight 154 lbs, VESA Patterns up to 800x400, Fits Curved Screens",
-            "price": 29.99,
+            "price": 26.99,
             "url": "https://www.monoprice.com/product?p_id=43197",
             "product_id": 43197,
             "available": true,
@@ -32636,7 +32636,7 @@
         },
         "43205": {
             "name": "Monoprice EZ Series Low Profile Tilt TV Wall Mount Bracket For LED TVs 37in to 80in, Max Weight 154 lbs, VESA Patterns Up to 600x400, Fits Curved Screens",
-            "price": 34.99,
+            "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=43205",
             "product_id": 43205,
             "available": true,
@@ -32699,7 +32699,7 @@
         },
         "43213": {
             "name": "Monoprice Commercial Series Low Profile Full-Motion Articulating TV Wall Mount Bracket For TVs 23in to 42in, Max Weight 77 lbs., Extension Range of 1.8in to 20.1in, VESA Patterns Up to 200x200",
-            "price": 29.99,
+            "price": 26.99,
             "url": "https://www.monoprice.com/product?p_id=43213",
             "product_id": 43213,
             "available": true,
@@ -32726,7 +32726,7 @@
         },
         "43216": {
             "name": "Monoprice Commercial Series Extra Long Ceiling TV Mount Bracket - For TVs 23in to 43in, Max Weight 110 lbs., Extension Range of 28.3in to 62.6in, VESA Patterns up to 200x200",
-            "price": 39.99,
+            "price": 37.99,
             "url": "https://www.monoprice.com/product?p_id=43216",
             "product_id": 43216,
             "available": true,
@@ -32843,7 +32843,7 @@
         },
         "43239": {
             "name": "Monoprice SonicSolace II Active Noise Cancelling (ANC) Over Ear Headphone",
-            "price": 69.99,
+            "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=43239",
             "product_id": 43239,
             "available": true,
@@ -33446,7 +33446,7 @@
         },
         "43452": {
             "name": "Monoprice Horizon ANC True Wireless Earphones with ANC, Qualcomm QCC3040 Bluetooth 5.2, 4 Mics, cVc 8.0, Adaptive aptX, AAC, Gaming Low Latency Mode, Sweatproof, Charging Case",
-            "price": 59.99,
+            "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=43452",
             "product_id": 43452,
             "available": true,
@@ -33455,7 +33455,7 @@
         },
         "43453": {
             "name": "Monolith by Monoprice M1000ANC Bluetooth Headphones with ANC and Dirac Virtuo Spatializer, 60H Playtime, Memory Foam Pads, Ambient Mode, Touch Control",
-            "price": 129.99,
+            "price": 109.99,
             "url": "https://www.monoprice.com/product?p_id=43453",
             "product_id": 43453,
             "available": false,
@@ -34337,7 +34337,7 @@
         },
         "44167": {
             "name": "Monoprice Spring Assisted Above Fireplace Mantel Pull-Down Full-Motion TV Wall Mount for TVs 43in to 70in, Weight Capacity 28.6lbs to 72.6lbs, VESA up to 600x400, Height Adjustable",
-            "price": 159.99,
+            "price": 143.99,
             "url": "https://www.monoprice.com/product?p_id=44167",
             "product_id": 44167,
             "available": true,
@@ -43518,6 +43518,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-08T14:36:35Z"
+        "timestamp": "2023-06-08T14:44:24Z"
     }
 }
