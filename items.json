@@ -4347,6 +4347,15 @@
             "rating": 4.7,
             "num_reviews": 273
         },
+        "13562": {
+            "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, U/FTP, CM, Pure Bare Copper Wire, 23AWG, 250ft, Gray",
+            "price": 78.99,
+            "url": "https://www.monoprice.com/product?p_id=13562",
+            "product_id": 13562,
+            "available": true,
+            "rating": 3.9,
+            "num_reviews": 42
+        },
         "13574": {
             "name": "Monoprice 4K Slim High Speed HDMI Cable 0.5ft - 18Gbps Black",
             "price": 5.49,
@@ -4381,7 +4390,7 @@
             "product_id": 13578,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 251
+            "num_reviews": 252
         },
         "13580": {
             "name": "Monoprice 4K Slim High Speed HDMI Cable 3ft - 18Gbps Black",
@@ -5967,6 +5976,15 @@
             "rating": 4.9,
             "num_reviews": 3042
         },
+        "14767": {
+            "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Black, (UL)",
+            "price": 39.99,
+            "url": "https://www.monoprice.com/product?p_id=14767",
+            "product_id": 14767,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 92
+        },
         "14768": {
             "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Gray, (UL)",
             "price": 39.99,
@@ -7547,7 +7565,7 @@
             "price": 16.47,
             "url": "https://www.monoprice.com/product?p_id=15835",
             "product_id": 15835,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -43347,6 +43365,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-09T17:06:03Z"
+        "timestamp": "2023-06-09T17:22:42Z"
     }
 }
