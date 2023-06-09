@@ -13691,7 +13691,7 @@
         },
         "27853": {
             "name": "6 Outlet Surge Protector Power Strip with Low-Profile Plug with 4ft Cord, 1000 Joules, Black",
-            "price": 14.99,
+            "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=27853",
             "product_id": 27853,
             "available": true,
@@ -43401,6 +43401,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-09T03:44:21Z"
+        "timestamp": "2023-06-09T03:54:27Z"
     }
 }
