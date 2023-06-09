@@ -31929,8 +31929,8 @@
             "url": "https://www.monoprice.com/product?p_id=43015",
             "product_id": 43015,
             "available": false,
-            "rating": 3.5,
-            "num_reviews": 10
+            "rating": 3.4,
+            "num_reviews": 11
         },
         "43016": {
             "name": "Monoprice 2K USB Webcam Online Web Meeting Camera with LED Light Ring and Lens Cover",
@@ -43329,6 +43329,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-09T20:54:42Z"
+        "timestamp": "2023-06-09T21:05:42Z"
     }
 }
