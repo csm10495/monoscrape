@@ -27493,7 +27493,7 @@
             "product_id": 4044,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1854
+            "num_reviews": 1855
         },
         "40440": {
             "name": "Rustic Torched Wood Tabletop Chalkboard with Legs/Vintage Wedding Table Sign/Small Kitchen Antique Wooden Frame (9.5” x 14” Inches)",
@@ -37310,7 +37310,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=5774",
             "product_id": 5774,
-            "available": false,
+            "available": true,
             "rating": 4.2,
             "num_reviews": 369
         },
@@ -41081,7 +41081,7 @@
             "price": 5.49,
             "url": "https://www.monoprice.com/product?p_id=85",
             "product_id": 85,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 571
         },
@@ -43329,6 +43329,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-09T21:22:39Z"
+        "timestamp": "2023-06-09T21:34:46Z"
     }
 }
