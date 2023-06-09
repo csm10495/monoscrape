@@ -27457,7 +27457,7 @@
             "product_id": 4042,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1854
+            "num_reviews": 1855
         },
         "40424": {
             "name": "Monoprice 4K UltraFlex Small Diameter High Speed HDMI Female to Mini HDMI Male Passive Cable - 4K@60Hz 18Gbps 40AWG, 6in Black",
@@ -37897,7 +37897,7 @@
             "product_id": 6042,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 192
+            "num_reviews": 193
         },
         "6061": {
             "name": "Monoprice 8in 28AWG High Speed HDMI With Ethernet Male to Female Port Saver, Black",
@@ -41486,7 +41486,7 @@
             "price": 22.49,
             "url": "https://www.monoprice.com/product?p_id=8631",
             "product_id": 8631,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 116
         },
@@ -43401,6 +43401,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-09T03:28:53Z"
+        "timestamp": "2023-06-09T03:36:48Z"
     }
 }
