@@ -28717,7 +28717,7 @@
             "product_id": 41373,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1854
+            "num_reviews": 1855
         },
         "41374": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 12AWG, 500ft, Black",
@@ -43401,6 +43401,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-09T11:35:28Z"
+        "timestamp": "2023-06-09T11:45:12Z"
     }
 }
