@@ -30384,15 +30384,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "42196": {
-            "name": "Solar Pathway Lights Outdoor Waterproof solar Landscape Path Lights with Motion Sensor 2 pack",
-            "price": 4.55,
-            "url": "https://www.monoprice.com/product?p_id=42196",
-            "product_id": 42196,
-            "available": false,
-            "rating": 3.8,
-            "num_reviews": 4
-        },
         "42252": {
             "name": "Workstream by Monoprice Sit-Stand Dual-Motor Height Adjustable Table Desk Frame, Electric, White (clearance)",
             "price": 83,
@@ -31381,7 +31372,7 @@
             "product_id": 42834,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 21
+            "num_reviews": 23
         },
         "42835": {
             "name": "Monolith by Monoprice 18in Steel Speaker Stand with Adjustable Top Plate (Each)",
@@ -32985,15 +32976,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "43324": {
-            "name": "Solar Motion Lights Outdoor, Solar Sensor Light Outdoor with Five Side Light, Wire-Free and Easy to Install, IP65 Waterproof, Solar 140 LED Lights",
-            "price": 4.19,
-            "url": "https://www.monoprice.com/product?p_id=43324",
-            "product_id": 43324,
-            "available": false,
-            "rating": 3.4,
-            "num_reviews": 9
-        },
         "43325": {
             "name": "Monoprice USB4 Type-C Gen 3x2 40Gbps 100W, Black, 1m (3.28ft)",
             "price": 19.99,
@@ -33773,7 +33755,7 @@
             "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=43671",
             "product_id": 43671,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 3
         },
@@ -33908,7 +33890,7 @@
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=43792",
             "product_id": 43792,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 6
         },
@@ -43419,6 +43401,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-09T02:18:00Z"
+        "timestamp": "2023-06-09T03:05:06Z"
     }
 }
