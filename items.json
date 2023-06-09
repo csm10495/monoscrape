@@ -15477,8 +15477,8 @@
             "url": "https://www.monoprice.com/product?p_id=30905",
             "product_id": 30905,
             "available": true,
-            "rating": 4.7,
-            "num_reviews": 49
+            "rating": 4.6,
+            "num_reviews": 50
         },
         "30909": {
             "name": "Monoprice Height Adjustable Gas-Lift Sit-Stand Desk Top, 4ft Black",
@@ -19474,7 +19474,7 @@
             "product_id": 34710,
             "available": true,
             "rating": 4.2,
-            "num_reviews": 196
+            "num_reviews": 195
         },
         "34739": {
             "name": "Monolith by Monoprice M600 Open Back Over Ear Headphones (Open Box)",
@@ -43329,6 +43329,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-09T19:46:29Z"
+        "timestamp": "2023-06-09T19:56:35Z"
     }
 }
