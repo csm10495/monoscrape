@@ -1458,15 +1458,6 @@
             "rating": 4.8,
             "num_reviews": 461
         },
-        "11354": {
-            "name": "Monoprice FLEXboot Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 5ft, Gray",
-            "price": 1.99,
-            "url": "https://www.monoprice.com/product?p_id=11354",
-            "product_id": 11354,
-            "available": false,
-            "rating": 4.8,
-            "num_reviews": 461
-        },
         "11356": {
             "name": "Monoprice FLEXboot Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 5ft, Orange",
             "price": 1.1,
@@ -2221,7 +2212,7 @@
             "product_id": 12235,
             "available": false,
             "rating": 4,
-            "num_reviews": 596
+            "num_reviews": 597
         },
         "12239": {
             "name": "Monoprice 4.5ft USB 2.0 A Male to Micro B Male 30/20 AWG Fast Charge / Security Cable",
@@ -4624,7 +4615,7 @@
             "product_id": 13678,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 196
+            "num_reviews": 197
         },
         "13679": {
             "name": "Monoprice Cat5e Ethernet Bulk Cable - Solid, 350MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 24AWG, 500ft, White (UL)",
@@ -43383,6 +43374,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-09T14:54:38Z"
+        "timestamp": "2023-06-09T15:06:39Z"
     }
 }
