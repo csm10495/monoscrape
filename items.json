@@ -2887,7 +2887,7 @@
             "product_id": 12880,
             "available": false,
             "rating": 4.3,
-            "num_reviews": 2056
+            "num_reviews": 2057
         },
         "12909": {
             "name": "Monoprice Select Series USB-C to Gigabit Ethernet Adapter",
@@ -5967,12 +5967,21 @@
             "rating": 4.9,
             "num_reviews": 3043
         },
+        "14760": {
+            "name": "Monoprice Cat6 Ethernet Bulk Cable - Stranded, 550MHz, UTP, CM, Pure Bare Copper Wire, 24AWG, 250ft, Black",
+            "price": 28.79,
+            "url": "https://www.monoprice.com/product?p_id=14760",
+            "product_id": 14760,
+            "available": true,
+            "rating": 4.5,
+            "num_reviews": 60
+        },
         "14767": {
             "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Black, (UL)",
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=14767",
             "product_id": 14767,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 92
         },
@@ -43329,6 +43338,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-09T21:34:46Z"
+        "timestamp": "2023-06-09T21:44:34Z"
     }
 }
