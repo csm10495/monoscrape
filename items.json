@@ -20165,7 +20165,7 @@
             "price": 7.49,
             "url": "https://www.monoprice.com/product?p_id=35134",
             "product_id": 35134,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -24604,7 +24604,7 @@
             "product_id": 39170,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 22
+            "num_reviews": 23
         },
         "39172": {
             "name": "Monoprice Replacement Door Open Sensor for the Maker Ultimate 2 3D Printer (36045)",
@@ -43329,6 +43329,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-09T20:44:15Z"
+        "timestamp": "2023-06-09T20:54:42Z"
     }
 }
