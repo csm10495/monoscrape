@@ -5497,7 +5497,7 @@
             "product_id": 140,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3042
+            "num_reviews": 3043
         },
         "14104": {
             "name": "HDFury3",
@@ -9619,7 +9619,7 @@
             "product_id": 2127,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3042
+            "num_reviews": 3043
         },
         "2128": {
             "name": "Monoprice Cat5e 1ft Red Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -9637,7 +9637,7 @@
             "product_id": 2132,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3042
+            "num_reviews": 3043
         },
         "2133": {
             "name": "Monoprice Cat5e 3ft Green Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -9646,7 +9646,7 @@
             "product_id": 2133,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3042
+            "num_reviews": 3043
         },
         "2134": {
             "name": "Monoprice Cat5e 3ft Red Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -9961,7 +9961,7 @@
             "product_id": 2157,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 3042
+            "num_reviews": 3043
         },
         "2158": {
             "name": "Monoprice Cat5e 50ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -10096,7 +10096,7 @@
             "product_id": 2161,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3042
+            "num_reviews": 3043
         },
         "21612": {
             "name": "Blackbird 4K Pro 1x2 Ultra Slim HDMI Splitter HDR 18Gbps 4K@60Hz YCbCr 4:4:4 HDCP 2.2",
@@ -10150,7 +10150,7 @@
             "product_id": 2163,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3042
+            "num_reviews": 3043
         },
         "2164": {
             "name": "Monoprice Cat5e 100ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -10159,7 +10159,7 @@
             "product_id": 2164,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3042
+            "num_reviews": 3043
         },
         "21643": {
             "name": "Monoprice Commercial Audio 70V 4-inch Weatherproof 2-Way Speakers with Wall Mount Bracket (Pair Black)",
@@ -17467,7 +17467,7 @@
             "product_id": 3375,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3042
+            "num_reviews": 3043
         },
         "33750": {
             "name": "Monoprice Replacement Bed Leveling Screw for the MP Select Mini (15365 and 21711) and MP Select Mini PRO (33012) 3D Printers",
@@ -17512,7 +17512,7 @@
             "product_id": 3376,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3042
+            "num_reviews": 3043
         },
         "33770": {
             "name": "Monoprice MP Select and Plus Tempered Glass Sheet, 200x200x3mm",
@@ -17980,7 +17980,7 @@
             "product_id": 3392,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3042
+            "num_reviews": 3043
         },
         "3395": {
             "name": "Monoprice S/PDIF (Toslink) Digital Optical Audio Cable, 18in",
@@ -20858,7 +20858,7 @@
             "price": 5.49,
             "url": "https://www.monoprice.com/product?p_id=3618",
             "product_id": 3618,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 33
         },
@@ -22750,7 +22750,7 @@
             "product_id": 3846,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1854
+            "num_reviews": 1855
         },
         "3850": {
             "name": "Monoprice HDMI® Port Saver (Male to Female) - 270 Degree",
@@ -28349,15 +28349,6 @@
             "available": true,
             "rating": 5,
             "num_reviews": 7
-        },
-        "4112": {
-            "name": "Monoprice Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 2ft, Gray",
-            "price": 1.79,
-            "url": "https://www.monoprice.com/product?p_id=4112",
-            "product_id": 4112,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 3400
         },
         "4113": {
             "name": "Monoprice Cat6 2ft White Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -35818,7 +35809,7 @@
             "product_id": 4974,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3042
+            "num_reviews": 3043
         },
         "4975": {
             "name": "Monoprice Cat5e 6in Blue Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -35836,7 +35827,7 @@
             "product_id": 4984,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3042
+            "num_reviews": 3043
         },
         "4985": {
             "name": "Monoprice Cat5e 20ft Blue Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -35854,7 +35845,7 @@
             "product_id": 4992,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3042
+            "num_reviews": 3043
         },
         "4993": {
             "name": "Monoprice Cat5e 30ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -39929,7 +39920,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=7304",
             "product_id": 7304,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 131
         },
@@ -43356,6 +43347,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-09T16:54:29Z"
+        "timestamp": "2023-06-09T17:06:03Z"
     }
 }
