@@ -9879,8 +9879,8 @@
             "url": "https://www.monoprice.com/product?p_id=21545",
             "product_id": 21545,
             "available": false,
-            "rating": 4.8,
-            "num_reviews": 30
+            "rating": 4.7,
+            "num_reviews": 31
         },
         "21547": {
             "name": "Monoprice Speaker Wire, Burial Rated, 2-Conductor, 12AWG, 1000ft, Gray",
@@ -10068,8 +10068,8 @@
             "url": "https://www.monoprice.com/product?p_id=21606",
             "product_id": 21606,
             "available": true,
-            "rating": 4.5,
-            "num_reviews": 50
+            "rating": 4.4,
+            "num_reviews": 51
         },
         "21607": {
             "name": "Monoprice USB Type-C to 4K HDMI, Single Link DVI, and VGA Passive Adapter, Black",
@@ -12533,7 +12533,7 @@
             "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=24639",
             "product_id": 24639,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 41
         },
@@ -43329,6 +43329,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-09T19:36:57Z"
+        "timestamp": "2023-06-09T19:46:29Z"
     }
 }
