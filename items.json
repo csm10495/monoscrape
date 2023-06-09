@@ -29282,7 +29282,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=41696",
             "product_id": 41696,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -31271,7 +31271,7 @@
             "price": 499.99,
             "url": "https://www.monoprice.com/product?p_id=42772",
             "product_id": 42772,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 30
         },
@@ -32829,8 +32829,8 @@
             "url": "https://www.monoprice.com/product?p_id=43245",
             "product_id": 43245,
             "available": true,
-            "rating": 4.5,
-            "num_reviews": 4
+            "rating": 4.4,
+            "num_reviews": 5
         },
         "43247": {
             "name": "Monoprice Harmony Boombox Portable Bluetooth Speaker, Waterproof, TWS",
@@ -33044,7 +33044,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=43340",
             "product_id": 43340,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1468
         },
@@ -43383,6 +43383,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-09T14:30:52Z"
+        "timestamp": "2023-06-09T14:36:59Z"
     }
 }
