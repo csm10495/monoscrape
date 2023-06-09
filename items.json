@@ -15716,7 +15716,7 @@
         },
         "31097": {
             "name": "Monoprice Cat8 5ft Black Patch Cable, Double Shielded (S/FTP), 24AWG, 2GHz, 40G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
-            "price": 6.64,
+            "price": 9.49,
             "url": "https://www.monoprice.com/product?p_id=31097",
             "product_id": 31097,
             "available": false,
@@ -19904,15 +19904,6 @@
             "price": 6.49,
             "url": "https://www.monoprice.com/product?p_id=35047",
             "product_id": 35047,
-            "available": true,
-            "rating": 5,
-            "num_reviews": 7
-        },
-        "35048": {
-            "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R, 18AWG, 10A/1250W, SVT, 125V, Black, 15ft",
-            "price": 2.38,
-            "url": "https://www.monoprice.com/product?p_id=35048",
-            "product_id": 35048,
             "available": true,
             "rating": 5,
             "num_reviews": 7
@@ -43365,6 +43356,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-09T16:28:26Z"
+        "timestamp": "2023-06-09T16:38:59Z"
     }
 }
