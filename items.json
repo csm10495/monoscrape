@@ -18941,7 +18941,7 @@
             "price": 143.99,
             "url": "https://www.monoprice.com/product?p_id=34438",
             "product_id": 34438,
-            "available": true,
+            "available": false,
             "rating": 4,
             "num_reviews": 23
         },
@@ -22327,7 +22327,7 @@
             "product_id": 38303,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 396
+            "num_reviews": 397
         },
         "38304": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft, Blue",
@@ -23488,7 +23488,7 @@
             "product_id": 38821,
             "available": false,
             "rating": 4.5,
-            "num_reviews": 87
+            "num_reviews": 88
         },
         "38822": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 10ft, Red",
@@ -24532,7 +24532,7 @@
             "product_id": 39162,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 56
+            "num_reviews": 57
         },
         "39163": {
             "name": "Monolith by Monoprice Amplifier/Component Stand XL, Espresso",
@@ -43329,6 +43329,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-10T10:43:54Z"
+        "timestamp": "2023-06-10T10:54:09Z"
     }
 }
