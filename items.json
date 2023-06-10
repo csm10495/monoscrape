@@ -11527,7 +11527,7 @@
             "product_id": 24200,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 636
+            "num_reviews": 638
         },
         "24208": {
             "name": "Monoprice Power Cord - NEMA 5-15P to IEC 60320 C19, 14AWG, 15A/1875W, 3-Prong, Black, 8ft",
@@ -13894,7 +13894,7 @@
             "product_id": 27927,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 126
+            "num_reviews": 127
         },
         "27928": {
             "name": "Monoprice Essentials USB Type-C to USB Type-A 2.0 Cable - 480Mbps, 3A, 26AWG, Black, 2m (6.6ft)",
@@ -43320,6 +43320,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-10T15:34:52Z"
+        "timestamp": "2023-06-10T15:44:44Z"
     }
 }
