@@ -20057,7 +20057,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=35102",
             "product_id": 35102,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 14
         },
@@ -23218,7 +23218,7 @@
             "product_id": 38786,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 636
+            "num_reviews": 638
         },
         "38787": {
             "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R, 16AWG, 13A/1625W, 3-Prong, Black, 3ft, 6-Pack",
@@ -23533,7 +23533,7 @@
             "product_id": 38826,
             "available": false,
             "rating": 4.5,
-            "num_reviews": 87
+            "num_reviews": 88
         },
         "38827": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 3ft, White, 3-Pack",
@@ -23560,7 +23560,7 @@
             "product_id": 38831,
             "available": false,
             "rating": 4.5,
-            "num_reviews": 87
+            "num_reviews": 88
         },
         "38833": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 3ft, White, 3-Pack",
@@ -24692,7 +24692,7 @@
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=39258",
             "product_id": 39258,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 4
         },
@@ -24701,7 +24701,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=39259",
             "product_id": 39259,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 7
         },
@@ -25151,7 +25151,7 @@
             "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=39494",
             "product_id": 39494,
-            "available": false,
+            "available": true,
             "rating": 3.9,
             "num_reviews": 33
         },
@@ -25178,7 +25178,7 @@
             "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=39497",
             "product_id": 39497,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 13
         },
@@ -43329,6 +43329,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-10T13:34:33Z"
+        "timestamp": "2023-06-10T13:44:33Z"
     }
 }
