@@ -6877,7 +6877,7 @@
             "num_reviews": 36
         },
         "15251": {
-            "name": "Monoprice Blackbird 4K - 3x1 HDMI 2.0 Switch, Pigtail, HDCP 2.2, 4K@60Hz",
+            "name": "Monoprice Blackbird 4K - 3x1 HDMI 2.0 Switch, Pigtail, HDCP 2.2,",
             "price": 13.99,
             "url": "https://www.monoprice.com/product?p_id=15251",
             "product_id": 15251,
@@ -6886,7 +6886,7 @@
             "num_reviews": 56
         },
         "15252": {
-            "name": "Monoprice Blackbird 4K 1x2 HDMI 2.0 Splitter, Pigtail, HDCP 2.2, 4K@60Hz",
+            "name": "Monoprice Blackbird 4K 1x2 HDMI 2.0 Splitter, Pigtail, HDCP 2.2,",
             "price": 14.98,
             "url": "https://www.monoprice.com/product?p_id=15252",
             "product_id": 15252,
@@ -6895,7 +6895,7 @@
             "num_reviews": 98
         },
         "15260": {
-            "name": "Blackbird 4K Pro 1x8 HDMI Splitter HDR 18Gbps 4K@60Hz YCbCr 4:4:4 with HDCP 2.2 and EDID Support",
+            "name": "Blackbird 4K Pro 1x8 HDMI Splitter HDR 18Gbps",
             "price": 126.99,
             "url": "https://www.monoprice.com/product?p_id=15260",
             "product_id": 15260,
@@ -6904,7 +6904,7 @@
             "num_reviews": 5
         },
         "15262": {
-            "name": "Monoprice Blackbird 4K 3x1 HDMI 2.0 Switch, HDR, HDCP 2.2, CEC, 4K@60Hz",
+            "name": "Monoprice Blackbird 4K 3x1 HDMI 2.0 Switch, HDR, HDCP 2.2, CEC,",
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=15262",
             "product_id": 15262,
@@ -7210,7 +7210,7 @@
             "num_reviews": 11
         },
         "15650": {
-            "name": "Monoprice Blackbird 4K Pro HDMI 2.0 Repeater 4K@60Hz YCbCr 4:4:4",
+            "name": "Monoprice Blackbird 4K Pro HDMI 2.0 Repeater",
             "price": 16.99,
             "url": "https://www.monoprice.com/product?p_id=15650",
             "product_id": 15650,
@@ -7471,7 +7471,7 @@
             "num_reviews": 0
         },
         "15750": {
-            "name": "Blackbird 4K 4x4 HDMI Matrix HDR 18Gbps 4K@60Hz YCbCr 4:4:4 HDCP 2.2",
+            "name": "Blackbird 4K 4x4 HDMI Matrix HDR 18Gbps",
             "price": 389.99,
             "url": "https://www.monoprice.com/product?p_id=15750",
             "product_id": 15750,
@@ -43320,6 +43320,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-10T16:36:56Z"
+        "timestamp": "2023-06-10T16:44:07Z"
     }
 }
