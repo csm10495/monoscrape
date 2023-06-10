@@ -22579,7 +22579,7 @@
             "product_id": 41384,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1854
+            "num_reviews": 1855
         },
         "41385": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 12AWG, 250ft, Black",
@@ -22937,7 +22937,7 @@
             "price": 3.69,
             "url": "https://www.monoprice.com/product?p_id=41589",
             "product_id": 41589,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -25036,7 +25036,7 @@
             "product_id": 42770,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 7
+            "num_reviews": 8
         },
         "42772": {
             "name": "Dark Matter by Monoprice 34in Curved Ultrawide Gaming Monitor - 21:9, 3440x1440p, UWQHD, 144Hz, 1500R, VA",
@@ -37146,6 +37146,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-10T02:22:45Z"
+        "timestamp": "2023-06-10T02:50:35Z"
     }
 }
