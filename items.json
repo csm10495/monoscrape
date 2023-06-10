@@ -36286,7 +36286,7 @@
             "product_id": 5301,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 636
+            "num_reviews": 638
         },
         "5302": {
             "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R, 16AWG, 13A/1625W, 3-Prong, Black, 25ft",
@@ -43320,6 +43320,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-10T17:28:30Z"
+        "timestamp": "2023-06-10T17:34:48Z"
     }
 }
