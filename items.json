@@ -9933,8 +9933,8 @@
             "url": "https://www.monoprice.com/product?p_id=21552",
             "product_id": 21552,
             "available": true,
-            "rating": 4.8,
-            "num_reviews": 30
+            "rating": 4.7,
+            "num_reviews": 31
         },
         "21553": {
             "name": "Monoprice Speaker Wire, Burial Rated, 4-Conductor, 12AWG, 250ft, Gray",
@@ -43329,6 +43329,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-09T23:54:23Z"
+        "timestamp": "2023-06-10T00:35:10Z"
     }
 }
