@@ -9547,7 +9547,7 @@
             "product_id": 2115,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 3400
+            "num_reviews": 3401
         },
         "2116": {
             "name": "Monoprice Cat6 14ft Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -43302,6 +43302,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-11T08:53:57Z"
+        "timestamp": "2023-06-11T09:05:20Z"
     }
 }
