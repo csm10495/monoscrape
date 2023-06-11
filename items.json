@@ -15192,15 +15192,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "30651": {
-            "name": "Monolith by Monoprice M1060 Planar Headphones with 2.5mm Connectors (Open Box)",
-            "price": 118.79,
-            "url": "https://www.monoprice.com/product?p_id=30651",
-            "product_id": 30651,
-            "available": false,
-            "rating": 4.7,
-            "num_reviews": 16
-        },
         "30661": {
             "name": "Monoprice Cat6A 1000ft Blue CMR Bulk Cable, Solid, UTP, 23AWG, 650MHz, 10G, Pure Bare Copper, Spool in Box, Flame-Retardant, Bulk Ethernet Cable",
             "price": 229.99,
@@ -23407,7 +23398,7 @@
             "product_id": 38813,
             "available": false,
             "rating": 4.5,
-            "num_reviews": 87
+            "num_reviews": 88
         },
         "38814": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 10ft, White",
@@ -43293,6 +43284,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-11T17:27:41Z"
+        "timestamp": "2023-06-11T17:34:09Z"
     }
 }
