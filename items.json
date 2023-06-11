@@ -15219,15 +15219,6 @@
             "rating": 5,
             "num_reviews": 4
         },
-        "30702": {
-            "name": "Monolith by Monoprice M565 Planar Headphones (Open Box)",
-            "price": 89.99,
-            "url": "https://www.monoprice.com/product?p_id=30702",
-            "product_id": 30702,
-            "available": true,
-            "rating": 4.4,
-            "num_reviews": 8
-        },
         "30709": {
             "name": "Workstream by Monoprice Cable Tray Organizer For Work Computer Tables and Sit-Stand Desks, Black",
             "price": 19.99,
@@ -23389,7 +23380,7 @@
             "product_id": 38808,
             "available": false,
             "rating": 4.5,
-            "num_reviews": 87
+            "num_reviews": 88
         },
         "38809": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 6ft, Black",
@@ -43320,6 +43311,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-11T06:08:45Z"
+        "timestamp": "2023-06-11T06:26:59Z"
     }
 }
