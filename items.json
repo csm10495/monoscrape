@@ -14074,7 +14074,7 @@
             "product_id": 2823,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1854
+            "num_reviews": 1855
         },
         "2824": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 16AWG, 250ft, White",
@@ -27214,7 +27214,7 @@
             "product_id": 4037,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1854
+            "num_reviews": 1855
         },
         "40370": {
             "name": "Monoprice Spiral Wrapping Bands - 15mm x 1.5m, Black, 3-Pack",
@@ -36815,7 +36815,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=5459",
             "product_id": 5459,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 2581
         },
@@ -37553,7 +37553,7 @@
             "price": 0.99,
             "url": "https://www.monoprice.com/product?p_id=5976",
             "product_id": 5976,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 40
         },
@@ -41760,6 +41760,15 @@
             "rating": 4.5,
             "num_reviews": 35
         },
+        "887": {
+            "name": "Monoprice Cat5e Ethernet Bulk Cable - Stranded, 350MHz, UTP, CM, Pure Bare Copper Wire, 24AWG, 1000ft, Green, (UL)(TAA)",
+            "price": 114.99,
+            "url": "https://www.monoprice.com/product?p_id=887",
+            "product_id": 887,
+            "available": true,
+            "rating": 4.5,
+            "num_reviews": 35
+        },
         "888": {
             "name": "Monoprice Cat5e Ethernet Bulk Cable - Stranded, 350MHz, UTP, CM, Pure Bare Copper Wire, 24AWG, 1000ft, Blue, (UL)(TAA)",
             "price": 129.99,
@@ -43284,6 +43293,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-11T17:53:53Z"
+        "timestamp": "2023-06-11T18:06:57Z"
     }
 }
