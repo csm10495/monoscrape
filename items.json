@@ -10197,15 +10197,6 @@
             "rating": 4.3,
             "num_reviews": 19
         },
-        "2165": {
-            "name": "Monoprice Cat5e 100ft Green Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
-            "price": 11.39,
-            "url": "https://www.monoprice.com/product?p_id=2165",
-            "product_id": 2165,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 3043
-        },
         "21653": {
             "name": "Monoprice 8-Port Cat6 Data Module",
             "price": 24.99,
@@ -17989,7 +17980,7 @@
             "product_id": 3395,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 2359
+            "num_reviews": 2360
         },
         "3402": {
             "name": "Monoprice 50x50mm to 200x200mm TV Wall Mount Bracket Universal VESA Adapter Plate",
@@ -37357,7 +37348,7 @@
             "product_id": 5831,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 314
+            "num_reviews": 315
         },
         "5834": {
             "name": "Monoprice Circle Cable Clips with Steel Nail, 10mm, 100 pcs/pack",
@@ -43302,6 +43293,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-11T12:11:30Z"
+        "timestamp": "2023-06-11T12:39:40Z"
     }
 }
