@@ -23193,15 +23193,6 @@
             "rating": 4.4,
             "num_reviews": 14
         },
-        "38785": {
-            "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R, 16AWG, 13A/1625W, 3-Prong, Black, 1ft, 6-Pack",
-            "price": 6.97,
-            "url": "https://www.monoprice.com/product?p_id=38785",
-            "product_id": 38785,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 638
-        },
         "38786": {
             "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R, 16AWG, 13A/1625W, 3-Prong, Black, 1ft, 10-Pack",
             "price": 15.17,
@@ -23225,15 +23216,6 @@
             "price": 20.6,
             "url": "https://www.monoprice.com/product?p_id=38788",
             "product_id": 38788,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 638
-        },
-        "38789": {
-            "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R, 16AWG, 13A, 3-Prong, Black, 6ft, 6-Pack",
-            "price": 24.99,
-            "url": "https://www.monoprice.com/product?p_id=38789",
-            "product_id": 38789,
             "available": true,
             "rating": 4.9,
             "num_reviews": 638
@@ -23279,15 +23261,6 @@
             "price": 2.97,
             "url": "https://www.monoprice.com/product?p_id=38795",
             "product_id": 38795,
-            "available": true,
-            "rating": 4.5,
-            "num_reviews": 88
-        },
-        "38796": {
-            "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 3ft, White",
-            "price": 6.62,
-            "url": "https://www.monoprice.com/product?p_id=38796",
-            "product_id": 38796,
             "available": true,
             "rating": 4.5,
             "num_reviews": 88
@@ -24207,15 +24180,6 @@
             "url": "https://www.monoprice.com/product?p_id=39019",
             "product_id": 39019,
             "available": true,
-            "rating": 4.8,
-            "num_reviews": 62
-        },
-        "39020": {
-            "name": "Pure Outdoor by Monoprice Weatherproof Hard Case with Customizable Foam, 22 x 14 x 8 in, Orange",
-            "price": 94.99,
-            "url": "https://www.monoprice.com/product?p_id=39020",
-            "product_id": 39020,
-            "available": false,
             "rating": 4.8,
             "num_reviews": 62
         },
@@ -43311,6 +43275,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-11T07:19:11Z"
+        "timestamp": "2023-06-11T07:25:00Z"
     }
 }
