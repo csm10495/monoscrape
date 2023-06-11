@@ -18585,6 +18585,15 @@
             "rating": 4.9,
             "num_reviews": 3400
         },
+        "3428": {
+            "name": "Monoprice Cat6 5ft Gray Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
+            "price": 2.49,
+            "url": "https://www.monoprice.com/product?p_id=3428",
+            "product_id": 3428,
+            "available": true,
+            "rating": 4.9,
+            "num_reviews": 3400
+        },
         "3429": {
             "name": "Monoprice Cat6 5ft Green Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 2.49,
@@ -43293,6 +43302,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-11T11:04:45Z"
+        "timestamp": "2023-06-11T11:17:44Z"
     }
 }
