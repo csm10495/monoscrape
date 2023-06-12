@@ -14941,7 +14941,7 @@
             "num_reviews": 10
         },
         "30551": {
-            "name": "Monoprice 2.1MP HD-TVI Turret Security Camera,",
+            "name": "Monoprice 2.1MP HD-TVI Turret Security Camera, 1920x",
             "price": 38.99,
             "url": "https://www.monoprice.com/product?p_id=30551",
             "product_id": 30551,
@@ -19456,7 +19456,7 @@
             "product_id": 34710,
             "available": true,
             "rating": 4.2,
-            "num_reviews": 195
+            "num_reviews": 196
         },
         "34739": {
             "name": "Monolith by Monoprice M600 Open Back Over Ear Headphones (Open Box)",
@@ -26429,7 +26429,7 @@
             "price": 3.49,
             "url": "https://www.monoprice.com/product?p_id=39922",
             "product_id": 39922,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1588
         },
@@ -43266,6 +43266,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-12T13:43:48Z"
+        "timestamp": "2023-06-12T13:53:41Z"
     }
 }
