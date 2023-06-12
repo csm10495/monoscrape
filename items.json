@@ -26573,7 +26573,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=40041",
             "product_id": 40041,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -27836,15 +27836,6 @@
             "available": true,
             "rating": 4,
             "num_reviews": 1
-        },
-        "40956": {
-            "name": "Monolith by Monoprice M1570 Over Ear Open Back Balanced Planar Headphones (open box)",
-            "price": 179.39,
-            "url": "https://www.monoprice.com/product?p_id=40956",
-            "product_id": 40956,
-            "available": true,
-            "rating": 0,
-            "num_reviews": 0
         },
         "4100": {
             "name": "Monoprice Caliber In-Wall Speakers, 6.5in Fiber 2-Way (pair)",
@@ -33017,7 +33008,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=43358",
             "product_id": 43358,
-            "available": false,
+            "available": true,
             "rating": 3.7,
             "num_reviews": 3
         },
@@ -43230,6 +43221,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-12T15:53:45Z"
+        "timestamp": "2023-06-12T16:06:25Z"
     }
 }
