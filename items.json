@@ -14941,7 +14941,7 @@
             "num_reviews": 10
         },
         "30551": {
-            "name": "Monoprice 2.1MP HD-TVI Turret Security Camera, 1920x",
+            "name": "Monoprice 2.1MP HD-TVI Turret Security Camera,",
             "price": 38.99,
             "url": "https://www.monoprice.com/product?p_id=30551",
             "product_id": 30551,
@@ -20192,7 +20192,7 @@
             "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=35315",
             "product_id": 35315,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 33
         },
@@ -21686,7 +21686,7 @@
             "price": 239.39,
             "url": "https://www.monoprice.com/product?p_id=37944",
             "product_id": 37944,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 2
         },
@@ -43275,6 +43275,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-12T03:27:34Z"
+        "timestamp": "2023-06-12T03:35:17Z"
     }
 }
