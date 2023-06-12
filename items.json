@@ -30934,7 +30934,7 @@
             "num_reviews": 227
         },
         "42682": {
-            "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1,",
+            "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1, 8K",
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=42682",
             "product_id": 42682,
@@ -33901,7 +33901,7 @@
             "product_id": 44029,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 11
+            "num_reviews": 12
         },
         "44047": {
             "name": "MPM Universal Stand Assist, Adjustable Couch Lift Assist, Standing Aid, Chair Assistance Handle Safety Grab Bar for Elderly, Seniors, Patients, Disabled Daily Living Mobility Aid",
@@ -34862,7 +34862,7 @@
             "price": 699.99,
             "url": "https://www.monoprice.com/product?p_id=44582",
             "product_id": 44582,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -34872,15 +34872,6 @@
             "url": "https://www.monoprice.com/product?p_id=44583",
             "product_id": 44583,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "44585": {
-            "name": "Monolith by Monoprice M-10 V2 10in THX Certified Select 500 Watt Powered Subwoofer (Open Box)",
-            "price": 349.99,
-            "url": "https://www.monoprice.com/product?p_id=44585",
-            "product_id": 44585,
-            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -43239,6 +43230,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-12T21:25:08Z"
+        "timestamp": "2023-06-12T21:34:01Z"
     }
 }
