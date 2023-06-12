@@ -16682,7 +16682,7 @@
             "price": 89.99,
             "url": "https://www.monoprice.com/product?p_id=33394",
             "product_id": 33394,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 57
         },
@@ -17818,7 +17818,7 @@
             "product_id": 33882,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 213
+            "num_reviews": 214
         },
         "33883": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Brown",
@@ -21663,15 +21663,6 @@
             "rating": 4.9,
             "num_reviews": 76
         },
-        "37944": {
-            "name": "Monolith by Monoprice Desktop Headphone Amplifier and DAC with THX AAA Technology (Dual AKM 4493 DACs \u0026 Dual AAA-788 Modules) (Open Box)",
-            "price": 239.39,
-            "url": "https://www.monoprice.com/product?p_id=37944",
-            "product_id": 37944,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 2
-        },
         "38035": {
             "name": "Monoprice 35in Zero-G Curved Ultrawide Gaming Monitor V2 - 1800R, 21:9, 3440x1440p, UWQHD, 120Hz, AMD FreeSync, 4ms, HDMI, DisplayPort, VA",
             "price": 399.99,
@@ -22282,7 +22273,7 @@
             "product_id": 38303,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 397
+            "num_reviews": 398
         },
         "38304": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft, Blue",
@@ -24505,7 +24496,7 @@
             "product_id": 39164,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 56
+            "num_reviews": 58
         },
         "39165": {
             "name": "Monolith by Monoprice 4 Tier Audio Stand XL, Black",
@@ -43239,6 +43230,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-12T17:54:06Z"
+        "timestamp": "2023-06-12T18:09:49Z"
     }
 }
