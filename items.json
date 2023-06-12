@@ -23047,7 +23047,7 @@
             "product_id": 38627,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 43
+            "num_reviews": 44
         },
         "38628": {
             "name": "Monoprice 8K SlimRun AV Ultra High Speed HDMI Cable 40ft - AOC 48Gbps Black",
@@ -23353,7 +23353,7 @@
             "product_id": 38811,
             "available": false,
             "rating": 4.5,
-            "num_reviews": 87
+            "num_reviews": 89
         },
         "38812": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 3ft, White",
@@ -26197,7 +26197,7 @@
             "product_id": 39842,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 165
+            "num_reviews": 164
         },
         "39843": {
             "name": "Monoprice Obsidian Plus Pocket USB Power Bank, Blue, 5,000mAh, 2-Port Up to 2.1A Output for iPhone, Android, and Galaxy Devices",
@@ -43212,6 +43212,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-12T23:27:17Z"
+        "timestamp": "2023-06-12T23:34:18Z"
     }
 }
