@@ -1429,7 +1429,7 @@
             "product_id": 11351,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 64
+            "num_reviews": 65
         },
         "11352": {
             "name": "Monoprice Cat5e 5ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -2085,8 +2085,8 @@
             "url": "https://www.monoprice.com/product?p_id=12097",
             "product_id": 12097,
             "available": true,
-            "rating": 4.8,
-            "num_reviews": 33
+            "rating": 4.7,
+            "num_reviews": 34
         },
         "12100": {
             "name": "Monoprice Recessed HDMI Wall Plate, with 1* HDMI F/F Adapter \u0026 6 RCA Connector, Gold Plated White",
@@ -43266,6 +43266,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-12T11:44:05Z"
+        "timestamp": "2023-06-12T11:53:52Z"
     }
 }
