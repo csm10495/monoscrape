@@ -17782,7 +17782,7 @@
             "product_id": 33871,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 213
+            "num_reviews": 214
         },
         "33875": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Pink",
@@ -17807,7 +17807,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=33878",
             "product_id": 33878,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -23218,7 +23218,7 @@
             "product_id": 38791,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 87
+            "num_reviews": 88
         },
         "38792": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 3ft, Black",
@@ -25063,7 +25063,7 @@
             "product_id": 39488,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 7
+            "num_reviews": 8
         },
         "39489": {
             "name": "Monoprice Universal Soundbar Bracket with Adjustable Arms  Fits Displays 23in to 75in, Soundbars up to 33 lbs.",
@@ -26224,7 +26224,7 @@
             "product_id": 39843,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 165
+            "num_reviews": 164
         },
         "39844": {
             "name": "Monoprice Obsidian Plus Pocket USB Power Bank, Purple, 5,000mAh, 2-Port Up to 2.1A Output for iPhone, Android, and Galaxy Devices",
@@ -43266,6 +43266,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-12T12:12:26Z"
+        "timestamp": "2023-06-12T12:41:15Z"
     }
 }
