@@ -15165,15 +15165,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "30651": {
-            "name": "Monolith by Monoprice M1060 Planar Headphones with 2.5mm Connectors (Open Box)",
-            "price": 118.79,
-            "url": "https://www.monoprice.com/product?p_id=30651",
-            "product_id": 30651,
-            "available": true,
-            "rating": 4.7,
-            "num_reviews": 16
-        },
         "30661": {
             "name": "Monoprice Cat6A 1000ft Blue CMR Bulk Cable, Solid, UTP, 23AWG, 650MHz, 10G, Pure Bare Copper, Spool in Box, Flame-Retardant, Bulk Ethernet Cable",
             "price": 229.99,
@@ -16232,7 +16223,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=32983",
             "product_id": 32983,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -17753,7 +17744,7 @@
             "price": 17.99,
             "url": "https://www.monoprice.com/product?p_id=33870",
             "product_id": 33870,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 213
         },
@@ -20720,7 +20711,7 @@
         },
         "36000": {
             "name": "Monoprice LC/F to LC/F SingleMode Duplex Die Cast Metal Fiber Adapter 6-Pack",
-            "price": 13.49,
+            "price": 8.08,
             "url": "https://www.monoprice.com/product?p_id=36000",
             "product_id": 36000,
             "available": true,
@@ -21671,6 +21662,15 @@
             "available": true,
             "rating": 4.9,
             "num_reviews": 76
+        },
+        "37944": {
+            "name": "Monolith by Monoprice Desktop Headphone Amplifier and DAC with THX AAA Technology (Dual AKM 4493 DACs \u0026 Dual AAA-788 Modules) (Open Box)",
+            "price": 239.39,
+            "url": "https://www.monoprice.com/product?p_id=37944",
+            "product_id": 37944,
+            "available": false,
+            "rating": 5,
+            "num_reviews": 2
         },
         "38035": {
             "name": "Monoprice 35in Zero-G Curved Ultrawide Gaming Monitor V2 - 1800R, 21:9, 3440x1440p, UWQHD, 120Hz, AMD FreeSync, 4ms, HDMI, DisplayPort, VA",
@@ -24496,7 +24496,7 @@
             "product_id": 39163,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 57
+            "num_reviews": 58
         },
         "39164": {
             "name": "Monolith by Monoprice Amplifier/Component Stand XL, Maple",
@@ -43239,6 +43239,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-12T16:53:52Z"
+        "timestamp": "2023-06-12T17:05:16Z"
     }
 }
