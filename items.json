@@ -11030,7 +11030,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=2309",
             "product_id": 2309,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3400
         },
@@ -14083,7 +14083,7 @@
             "product_id": 2832,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 2359
+            "num_reviews": 2360
         },
         "2842": {
             "name": "Monoprice Standard HDMI Cable to DVI Adapter Cable 25ft - CL2 In Wall Rated with Ferrite Cores Black",
@@ -35024,7 +35024,7 @@
             "price": 2.79,
             "url": "https://www.monoprice.com/product?p_id=448",
             "product_id": 448,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 11
         },
@@ -37267,7 +37267,7 @@
             "product_id": 5829,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 314
+            "num_reviews": 315
         },
         "5831": {
             "name": "Monoprice Hook and Loop Fastening Tape, 5 yards/roll, 0.75in, Red",
@@ -38282,7 +38282,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=644",
             "product_id": 644,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 926
         },
@@ -43230,6 +43230,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-12T21:53:32Z"
+        "timestamp": "2023-06-12T22:06:08Z"
     }
 }
