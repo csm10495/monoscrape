@@ -13516,7 +13516,7 @@
             "product_id": 2764,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 2399
+            "num_reviews": 2400
         },
         "2765": {
             "name": "Monoprice Premium S/PDIF (Toslink) Digital Optical Audio Cable, 12ft",
@@ -37886,7 +37886,7 @@
             "price": 1.79,
             "url": "https://www.monoprice.com/product?p_id=6212",
             "product_id": 6212,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 48
         },
@@ -43266,6 +43266,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-12T11:33:49Z"
+        "timestamp": "2023-06-12T11:44:05Z"
     }
 }
