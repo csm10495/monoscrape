@@ -16945,7 +16945,7 @@
             "product_id": 33597,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13604
+            "num_reviews": 13605
         },
         "33598": {
             "name": "Monoprice 4K High Speed HDMI Cable 25ft - 18Gbps Black",
@@ -21447,15 +21447,6 @@
             "rating": 3.7,
             "num_reviews": 27
         },
-        "36667": {
-            "name": "Monolith by Monoprice Liquid Spark Headphone Amplifier by Alex Cavalli (Open Box)",
-            "price": 47.99,
-            "url": "https://www.monoprice.com/product?p_id=36667",
-            "product_id": 36667,
-            "available": true,
-            "rating": 5,
-            "num_reviews": 4
-        },
         "36735": {
             "name": "Monolith by Monoprice Liquid Platinum Headphone Amplifier by Alex Cavalli (Open Box)",
             "price": 419,
@@ -22300,7 +22291,7 @@
             "product_id": 38306,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 397
+            "num_reviews": 398
         },
         "38308": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Pink",
@@ -24514,7 +24505,7 @@
             "product_id": 39166,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 142
+            "num_reviews": 143
         },
         "39167": {
             "name": "Monolith by Monoprice 4 Tier Audio Stand XL, Espresso",
@@ -25639,7 +25630,7 @@
             "product_id": 39631,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 24
+            "num_reviews": 25
         },
         "39632": {
             "name": "Monoprice AtlasFlex Series Durable USB 3.2 Gen 2 Type-C Data \u0026 Power Kevlar Reinforced Nylon-Braid Cable, 5A/100W, 1m, Blue",
@@ -43230,6 +43221,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-12T19:04:20Z"
+        "timestamp": "2023-06-12T19:18:07Z"
     }
 }
