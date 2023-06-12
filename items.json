@@ -14932,7 +14932,7 @@
             "num_reviews": 10
         },
         "30551": {
-            "name": "Monoprice 2.1MP HD-TVI Turret Security Camera, 1920x",
+            "name": "Monoprice 2.1MP HD-TVI Turret Security Camera,",
             "price": 38.99,
             "url": "https://www.monoprice.com/product?p_id=30551",
             "product_id": 30551,
@@ -15182,6 +15182,15 @@
             "available": false,
             "rating": 0,
             "num_reviews": 0
+        },
+        "30651": {
+            "name": "Monolith by Monoprice M1060 Planar Headphones with 2.5mm Connectors (Open Box)",
+            "price": 118.79,
+            "url": "https://www.monoprice.com/product?p_id=30651",
+            "product_id": 30651,
+            "available": true,
+            "rating": 4.7,
+            "num_reviews": 16
         },
         "30661": {
             "name": "Monoprice Cat6A 1000ft Blue CMR Bulk Cable, Solid, UTP, 23AWG, 650MHz, 10G, Pure Bare Copper, Spool in Box, Flame-Retardant, Bulk Ethernet Cable",
@@ -16700,7 +16709,7 @@
             "price": 89.99,
             "url": "https://www.monoprice.com/product?p_id=33394",
             "product_id": 33394,
-            "available": false,
+            "available": true,
             "rating": 4.4,
             "num_reviews": 57
         },
@@ -21464,6 +21473,15 @@
             "available": true,
             "rating": 3.7,
             "num_reviews": 27
+        },
+        "36667": {
+            "name": "Monolith by Monoprice Liquid Spark Headphone Amplifier by Alex Cavalli (Open Box)",
+            "price": 47.99,
+            "url": "https://www.monoprice.com/product?p_id=36667",
+            "product_id": 36667,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 4
         },
         "36735": {
             "name": "Monolith by Monoprice Liquid Platinum Headphone Amplifier by Alex Cavalli (Open Box)",
@@ -43257,6 +43275,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-12T14:43:58Z"
+        "timestamp": "2023-06-12T14:53:51Z"
     }
 }
