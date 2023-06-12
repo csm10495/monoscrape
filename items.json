@@ -29664,15 +29664,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "42000": {
-            "name": "Monolith by Monoprice MM-5R Powered Multimedia Speakers Ribbon Tweeter with Bluetooth with Qualcomm aptX HD Audio, USB DAC, Optical Inputs (open box)",
-            "price": 197.99,
-            "url": "https://www.monoprice.com/product?p_id=42000",
-            "product_id": 42000,
-            "available": true,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "42011": {
             "name": "Monoprice SB-500 Dolby Digital 5.1 Soundbar with Wireless Surround Speakers and Wireless Subwoofer, 2 HDMI Inputs, 4K HDR Pass-Through, Optical, Coax, ARC, Remote",
             "price": 209.98,
@@ -34395,8 +34386,8 @@
             "url": "https://www.monoprice.com/product?p_id=44344",
             "product_id": 44344,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
+            "rating": 5,
+            "num_reviews": 1
         },
         "44345": {
             "name": "Monoprice DisplayPort 1.4 to 8K HDMI Cable, 8K 60Hz, 30AWG, 10ft",
@@ -34871,6 +34862,15 @@
             "price": 799.99,
             "url": "https://www.monoprice.com/product?p_id=44583",
             "product_id": 44583,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "44585": {
+            "name": "Monolith by Monoprice M-10 V2 10in THX Certified Select 500 Watt Powered Subwoofer (Open Box)",
+            "price": 349.99,
+            "url": "https://www.monoprice.com/product?p_id=44585",
+            "product_id": 44585,
             "available": true,
             "rating": 0,
             "num_reviews": 0
@@ -43230,6 +43230,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-12T18:09:49Z"
+        "timestamp": "2023-06-12T18:27:26Z"
     }
 }
