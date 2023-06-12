@@ -35179,7 +35179,7 @@
             "product_id": 4755,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 1356
+            "num_reviews": 1357
         },
         "4756": {
             "name": "Monoprice 50ft Premier Series XLR Male to XLR Female 16AWG Cable (Gold Plated) [Microphone and Interconnect]",
@@ -36899,15 +36899,6 @@
             "available": true,
             "rating": 4.7,
             "num_reviews": 126
-        },
-        "5569": {
-            "name": "Monoprice Cat5e 14ft Orange Crossover Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
-            "price": 2.61,
-            "url": "https://www.monoprice.com/product?p_id=5569",
-            "product_id": 5569,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 69
         },
         "5574": {
             "name": "Monoprice Metal 1/4in (6.35mm) TRS Female to 1/4in (6.35mm) TRS Female Coupler, Gold Plated",
@@ -40561,7 +40552,7 @@
             "product_id": 8100,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 156
+            "num_reviews": 157
         },
         "8101": {
             "name": "Monoprice DVD Bracket (Max 22 lbs, VESA 400x300), Black",
@@ -43275,6 +43266,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-12T15:22:37Z"
+        "timestamp": "2023-06-12T15:29:38Z"
     }
 }
