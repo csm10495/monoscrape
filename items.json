@@ -27358,7 +27358,7 @@
             "product_id": 4041,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1854
+            "num_reviews": 1855
         },
         "40411": {
             "name": "Monoprice 18in SATA 6Gbps Cable with Locking Latch - Blue 10-Pack",
@@ -37895,7 +37895,7 @@
             "price": 1.79,
             "url": "https://www.monoprice.com/product?p_id=6212",
             "product_id": 6212,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 48
         },
@@ -43275,6 +43275,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-12T00:38:04Z"
+        "timestamp": "2023-06-12T02:15:12Z"
     }
 }
