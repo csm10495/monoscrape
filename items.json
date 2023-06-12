@@ -466,7 +466,7 @@
             "product_id": 10623,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 30
+            "num_reviews": 31
         },
         "10663": {
             "name": "Monoprice 7U 700mm Depth Audio/Video Rackmount Cabinet - GSA Approved",
@@ -9016,7 +9016,7 @@
             "product_id": 18591,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 269
+            "num_reviews": 270
         },
         "18592": {
             "name": "Monoprice Cat6A 1000ft Black CMR UL Bulk Cable, TAA, Shielded (F/UTP), Solid, 23AWG, 550MHz, 10G, Pure Bare Copper, Spool in Box, Bulk Ethernet Cable",
@@ -43239,6 +43239,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-12T17:33:43Z"
+        "timestamp": "2023-06-12T17:43:38Z"
     }
 }
