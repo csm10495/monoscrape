@@ -27612,6 +27612,15 @@
             "rating": 2.9,
             "num_reviews": 14
         },
+        "40749": {
+            "name": "Monolith by Monoprice M570 Over Ear Open Back Planar Headphone (Open Box)",
+            "price": 89.39,
+            "url": "https://www.monoprice.com/product?p_id=40749",
+            "product_id": 40749,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 1
+        },
         "40782": {
             "name": "DisplayPort 1.4 EasyPlug Nylon Braided Cable, 3ft, Gray",
             "price": 6.36,
@@ -30934,7 +30943,7 @@
             "num_reviews": 227
         },
         "42682": {
-            "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1, 8K",
+            "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1,",
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=42682",
             "product_id": 42682,
@@ -34854,15 +34863,6 @@
             "url": "https://www.monoprice.com/product?p_id=44574",
             "product_id": 44574,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "44582": {
-            "name": "Monolith by Monoprice M-10 V2 10in THX Certified Select 500-Watt Powered Subwoofer, Piano Black Finish (Open Box)",
-            "price": 699.99,
-            "url": "https://www.monoprice.com/product?p_id=44582",
-            "product_id": 44582,
-            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -43230,6 +43230,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-12T22:36:35Z"
+        "timestamp": "2023-06-12T22:43:50Z"
     }
 }
