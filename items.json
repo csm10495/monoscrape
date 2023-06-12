@@ -10539,6 +10539,15 @@
             "rating": 4.9,
             "num_reviews": 9
         },
+        "21868": {
+            "name": "Monoprice Cat5e 1000ft Black Outdoor Bulk Cable, Gel-filled Direct Burial, Solid, UTP, 24AWG, 550MHz, Pure Bare Copper, Spool in Box, No Logo, Bulk Ethernet Cable",
+            "price": 199.49,
+            "url": "https://www.monoprice.com/product?p_id=21868",
+            "product_id": 21868,
+            "available": false,
+            "rating": 2.8,
+            "num_reviews": 4
+        },
         "21871": {
             "name": "Monoprice Maker Select Plus 3D Printer with Euro Power Supply",
             "price": 399,
@@ -10709,6 +10718,15 @@
             "available": true,
             "rating": 4.5,
             "num_reviews": 35
+        },
+        "21970": {
+            "name": "Monoprice 4-Port DisplayPort 1.2 to DisplayPort Multi-Stream Transport (MST) Hub",
+            "price": 47.85,
+            "url": "https://www.monoprice.com/product?p_id=21970",
+            "product_id": 21970,
+            "available": true,
+            "rating": 3.7,
+            "num_reviews": 6
         },
         "21972": {
             "name": "Monoprice 2-Port DisplayPort 1.2 to DisplayPort Multi-Stream Transport (MST) Hub",
@@ -43122,6 +43140,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-12T06:37:26Z"
+        "timestamp": "2023-06-12T06:44:15Z"
     }
 }
