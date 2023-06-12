@@ -28172,7 +28172,7 @@
         },
         "41085": {
             "name": "Monoprice Power Cord - BS 1363 (UK) to IEC 60320 C5, 18AWG, 5A/1250W, 250V, 3-Prong with Fuse, Black, 6ft",
-            "price": 4.49,
+            "price": 2.68,
             "url": "https://www.monoprice.com/product?p_id=41085",
             "product_id": 41085,
             "available": true,
@@ -29075,7 +29075,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=41663",
             "product_id": 41663,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 3
         },
@@ -31010,7 +31010,7 @@
             "price": 25.99,
             "url": "https://www.monoprice.com/product?p_id=42707",
             "product_id": 42707,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -31874,7 +31874,7 @@
             "price": 399.99,
             "url": "https://www.monoprice.com/product?p_id=43020",
             "product_id": 43020,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 11
         },
@@ -32272,7 +32272,7 @@
             "product_id": 43166,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 12
+            "num_reviews": 13
         },
         "43174": {
             "name": "Monoprice 32in 4K HDR IPS Ultra Slim Desktop Monitor, Gun Metal with Slim Bezel - (Open Box)",
@@ -33026,7 +33026,7 @@
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=43358",
             "product_id": 43358,
-            "available": true,
+            "available": false,
             "rating": 3.7,
             "num_reviews": 3
         },
@@ -43239,6 +43239,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-12T17:05:16Z"
+        "timestamp": "2023-06-12T17:19:49Z"
     }
 }
