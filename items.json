@@ -15811,7 +15811,7 @@
             "product_id": 31192,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 397
+            "num_reviews": 398
         },
         "31193": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Micro B to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft, Red",
@@ -21681,15 +21681,6 @@
             "rating": 4.9,
             "num_reviews": 76
         },
-        "37944": {
-            "name": "Monolith by Monoprice Desktop Headphone Amplifier and DAC with THX AAA Technology (Dual AKM 4493 DACs \u0026 Dual AAA-788 Modules) (Open Box)",
-            "price": 239.39,
-            "url": "https://www.monoprice.com/product?p_id=37944",
-            "product_id": 37944,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 2
-        },
         "38035": {
             "name": "Monoprice 35in Zero-G Curved Ultrawide Gaming Monitor V2 - 1800R, 21:9, 3440x1440p, UWQHD, 120Hz, AMD FreeSync, 4ms, HDMI, DisplayPort, VA",
             "price": 399.99,
@@ -23497,7 +23488,7 @@
             "product_id": 38825,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 88
+            "num_reviews": 89
         },
         "38826": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 6ft, Black, 3-Pack",
@@ -43239,6 +43230,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-12T22:30:43Z"
+        "timestamp": "2023-06-12T22:36:35Z"
     }
 }
