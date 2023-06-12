@@ -11120,7 +11120,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=2319",
             "product_id": 2319,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 3400
         },
@@ -13498,7 +13498,7 @@
             "product_id": 2760,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 879
+            "num_reviews": 880
         },
         "2763": {
             "name": "Monoprice Premium S/PDIF (Toslink) Digital Optical Audio Cable, 3ft",
@@ -40471,7 +40471,7 @@
             "product_id": 7846,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 174
+            "num_reviews": 175
         },
         "7847": {
             "name": "Monoprice SlimSelect Series Low Profile Ultra Slim Fixed TV Wall Mount Bracket - For LED TVs 32in to 60in, Max Weight 125 lbs, VESA Patterns Up to 600x400",
@@ -43266,6 +43266,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-12T14:22:12Z"
+        "timestamp": "2023-06-12T14:30:45Z"
     }
 }
