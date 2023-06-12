@@ -27689,7 +27689,7 @@
             "price": 199.99,
             "url": "https://www.monoprice.com/product?p_id=40870",
             "product_id": 40870,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -28188,15 +28188,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "41088": {
-            "name": "Monoprice Power Cord Splitter - NEMA 5-15P to 2x NEMA 5-15R, 16AWG, 13A/1625W, SJT, Black, 6ft",
-            "price": 6.38,
-            "url": "https://www.monoprice.com/product?p_id=41088",
-            "product_id": 41088,
-            "available": true,
-            "rating": 5,
-            "num_reviews": 121
-        },
         "41089": {
             "name": "Monoprice Power Cord Splitter - NEMA 5-15P to 2x IEC 60320 C13, 18AWG, 10A/1250W, SJT, Black, 3ft",
             "price": 4.99,
@@ -28232,15 +28223,6 @@
             "available": true,
             "rating": 5,
             "num_reviews": 4
-        },
-        "41094": {
-            "name": "Monoprice Power Cord Splitter - IEC 60320 C14 to 2x IEC 60320 C13, 16AWG, 13A/1625W, SJT, Black, 14in",
-            "price": 4.49,
-            "url": "https://www.monoprice.com/product?p_id=41094",
-            "product_id": 41094,
-            "available": false,
-            "rating": 4.3,
-            "num_reviews": 3
         },
         "41095": {
             "name": "Monoprice Power Cord Splitter - IEC 60320 C14 to 2x IEC 60320 C13, 16AWG, 13A/1625W, SJT, Black, 3ft",
@@ -28286,15 +28268,6 @@
             "available": false,
             "rating": 4.8,
             "num_reviews": 71
-        },
-        "41218": {
-            "name": "Monoprice OM3 Fiber Optic Cable - LC/LC, UL, 50/125 Type, Multi-Mode, 10GB, Aqua, 7m, Corning",
-            "price": 9.29,
-            "url": "https://www.monoprice.com/product?p_id=41218",
-            "product_id": 41218,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 56
         },
         "4122": {
             "name": "Monoprice BNC Male to RCA Male Adapter - Gold Plated",
@@ -28376,15 +28349,6 @@
             "available": false,
             "rating": 4.9,
             "num_reviews": 25
-        },
-        "41280": {
-            "name": "Monoprice Select Series DisplayPort 1.2a Cable 6ft (10-Pack)",
-            "price": 69.99,
-            "url": "https://www.monoprice.com/product?p_id=41280",
-            "product_id": 41280,
-            "available": true,
-            "rating": 4.2,
-            "num_reviews": 238
         },
         "41281": {
             "name": "Monoprice Select Series DisplayPort 1.2a Cable 10ft (10-Pack)",
@@ -28557,38 +28521,11 @@
             "rating": 4.5,
             "num_reviews": 2
         },
-        "41364": {
-            "name": "Monoprice Cat6 1000ft White CMR UL Bulk Cable, Solid, UTP, 23AWG, 550MHz, Pure Bare Copper, Reelex II Pull Box, No Logo, Bulk Ethernet Cable",
-            "price": 159.99,
-            "url": "https://www.monoprice.com/product?p_id=41364",
-            "product_id": 41364,
-            "available": false,
-            "rating": 4.5,
-            "num_reviews": 2
-        },
         "41372": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 12AWG, 50ft, Black",
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=41372",
             "product_id": 41372,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 1855
-        },
-        "41373": {
-            "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 12AWG, 100ft, Black",
-            "price": 47.99,
-            "url": "https://www.monoprice.com/product?p_id=41373",
-            "product_id": 41373,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 1855
-        },
-        "41374": {
-            "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 12AWG, 500ft, Black",
-            "price": 209.99,
-            "url": "https://www.monoprice.com/product?p_id=41374",
-            "product_id": 41374,
             "available": true,
             "rating": 4.9,
             "num_reviews": 1855
@@ -28638,15 +28575,6 @@
             "rating": 4.9,
             "num_reviews": 1855
         },
-        "41380": {
-            "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 16AWG, 250ft, Black",
-            "price": 69.99,
-            "url": "https://www.monoprice.com/product?p_id=41380",
-            "product_id": 41380,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 1855
-        },
         "41381": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 12AWG, 250ft, Black",
             "price": 104.99,
@@ -28692,29 +28620,11 @@
             "rating": 4.9,
             "num_reviews": 1855
         },
-        "41386": {
-            "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 14AWG, 100ft, Black",
-            "price": 69.99,
-            "url": "https://www.monoprice.com/product?p_id=41386",
-            "product_id": 41386,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 1855
-        },
         "41387": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 14AWG, 250ft, Black",
             "price": 139.99,
             "url": "https://www.monoprice.com/product?p_id=41387",
             "product_id": 41387,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 1855
-        },
-        "41388": {
-            "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 16AWG, 100ft, Black",
-            "price": 49.99,
-            "url": "https://www.monoprice.com/product?p_id=41388",
-            "product_id": 41388,
             "available": true,
             "rating": 4.9,
             "num_reviews": 1855
@@ -28733,15 +28643,6 @@
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=41390",
             "product_id": 41390,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 1855
-        },
-        "41391": {
-            "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 18AWG, 50ft, Black",
-            "price": 14.99,
-            "url": "https://www.monoprice.com/product?p_id=41391",
-            "product_id": 41391,
             "available": true,
             "rating": 4.9,
             "num_reviews": 1855
@@ -28773,15 +28674,6 @@
             "rating": 4.9,
             "num_reviews": 1855
         },
-        "41395": {
-            "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 18AWG, 1000ft, Black",
-            "price": 239.99,
-            "url": "https://www.monoprice.com/product?p_id=41395",
-            "product_id": 41395,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 1855
-        },
         "41396": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 16AWG, 1000ft, Black",
             "price": 279.99,
@@ -28799,15 +28691,6 @@
             "available": true,
             "rating": 4.9,
             "num_reviews": 1855
-        },
-        "41398": {
-            "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 14AWG, 1000ft, Black",
-            "price": 349.99,
-            "url": "https://www.monoprice.com/product?p_id=41398",
-            "product_id": 41398,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 1854
         },
         "41399": {
             "name": "Monoprice Speaker Wire, CL2 Rated, 4-Conductor, 14AWG, 1000ft, Black",
@@ -28952,15 +28835,6 @@
             "available": false,
             "rating": 4.3,
             "num_reviews": 13
-        },
-        "41498": {
-            "name": "Monoprice SW-12 12\" 400 Watt RMS (600 Watt Peak) Powered Subwoofer",
-            "price": 229.99,
-            "url": "https://www.monoprice.com/product?p_id=41498",
-            "product_id": 41498,
-            "available": false,
-            "rating": 4.7,
-            "num_reviews": 14
         },
         "41499": {
             "name": "Monoprice SW-15 15in 600 Watt RMS (800 Watt Peak) Powered Subwoofer",
@@ -43248,6 +43122,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-12T05:43:59Z"
+        "timestamp": "2023-06-12T05:54:25Z"
     }
 }
