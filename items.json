@@ -15410,7 +15410,7 @@
         },
         "30909": {
             "name": "Monoprice Height Adjustable Gas-Lift Sit-Stand Desk Top, 4ft Black",
-            "price": 53.99,
+            "price": 89.99,
             "url": "https://www.monoprice.com/product?p_id=30909",
             "product_id": 30909,
             "available": false,
@@ -18866,7 +18866,7 @@
         },
         "34438": {
             "name": "Monoprice MP10 Mini 200x200mm 3D Printer, Magnetic Heated Build Plate, Resume Printing Function, Assisted Leveling, and Touchscreen",
-            "price": 143.99,
+            "price": 239.99,
             "url": "https://www.monoprice.com/product?p_id=34438",
             "product_id": 34438,
             "available": false,
@@ -19688,7 +19688,7 @@
             "price": 33.24,
             "url": "https://www.monoprice.com/product?p_id=34837",
             "product_id": 34837,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 1708
         },
@@ -43176,6 +43176,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-13T19:57:37Z"
+        "timestamp": "2023-06-13T20:09:23Z"
     }
 }
