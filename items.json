@@ -11030,7 +11030,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=2309",
             "product_id": 2309,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 3400
         },
@@ -16705,7 +16705,7 @@
             "num_reviews": 770
         },
         "3341": {
-            "name": "Monoprice Commercial Series High Speed HDMI Extension Cable -",
+            "name": "Monoprice Commercial Series High Speed HDMI Extension Cable - 4K@60Hz HDR 18Gbps YCbCr 4:4:4 24AWG CL2 3ft Black",
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=3341",
             "product_id": 3341,
@@ -16723,7 +16723,7 @@
             "num_reviews": 530
         },
         "3342": {
-            "name": "Monoprice Commercial Series High Speed HDMI Extension Cable -",
+            "name": "Monoprice Commercial Series High Speed HDMI Extension Cable - 4K@24Hz, 10.2Gbps, 24AWG, CL2, 6ft, Black",
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=3342",
             "product_id": 3342,
@@ -16732,7 +16732,7 @@
             "num_reviews": 238
         },
         "3343": {
-            "name": "Monoprice Commercial Series High Speed HDMI Extension Cable -",
+            "name": "Monoprice Commercial Series High Speed HDMI Extension Cable - 4K@60Hz HDR 18Gbps YCbCr 4:4:4 24AWG CL2 10ft, Black",
             "price": 17.63,
             "url": "https://www.monoprice.com/product?p_id=3343",
             "product_id": 3343,
@@ -21205,7 +21205,7 @@
             "num_reviews": 59
         },
         "3645": {
-            "name": "Monoprice High Speed HDMI Cable with HDMI Mini Connector -",
+            "name": "Monoprice High Speed HDMI Cable with HDMI Mini Connector - 4K@60Hz HDR 18Gbps YCbCr 4:4:4 30AWG 6ft Black",
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=3645",
             "product_id": 3645,
@@ -24937,7 +24937,7 @@
             "product_id": 3944,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13604
+            "num_reviews": 13605
         },
         "3945": {
             "name": "Monoprice 4K High Speed HDMI Cable 1.5ft - 18Gbps Green",
@@ -24964,7 +24964,7 @@
             "product_id": 3947,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13604
+            "num_reviews": 13605
         },
         "39475": {
             "name": "Monoprice 8K Slim Ultra High Speed HDMI Cable 1ft - 48Gbps Black",
@@ -36829,7 +36829,7 @@
             "num_reviews": 409
         },
         "5557": {
-            "name": "Monoprice Blackbird 4x1 HDMI 1.4 Switch HDCP 1.4 with Toslink and Analog Audio Extractor,",
+            "name": "Monoprice Blackbird 4x1 HDMI 1.4 Switch HDCP 1.4 with Toslink and Analog Audio Extractor, 1080p@60Hz",
             "price": 17.98,
             "url": "https://www.monoprice.com/product?p_id=5557",
             "product_id": 5557,
@@ -37729,7 +37729,7 @@
             "num_reviews": 61
         },
         "6069": {
-            "name": "Monoprice Commercial Series Standard HDMI Extension Cable -",
+            "name": "Monoprice Commercial Series Standard HDMI Extension Cable - 1080i@60Hz, 4.95Gbps, 24AWG, CL2, 25ft, Black",
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=6069",
             "product_id": 6069,
@@ -37868,7 +37868,7 @@
             "price": 3.99,
             "url": "https://www.monoprice.com/product?p_id=6262",
             "product_id": 6262,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 24
         },
@@ -38457,6 +38457,15 @@
             "rating": 4.4,
             "num_reviews": 874
         },
+        "651": {
+            "name": "Monoprice 50ft 3.5mm Stereo Plug/Jack M/F Cable - Black",
+            "price": 2.99,
+            "url": "https://www.monoprice.com/product?p_id=651",
+            "product_id": 651,
+            "available": true,
+            "rating": 4.4,
+            "num_reviews": 874
+        },
         "6516": {
             "name": "Monoprice EZ Series Full Motion TV Wall Mount Bracket - For TVs 20in to 42in, Max Weight 80lbs, Extension Range of 3.2in to 16.5in, VESA Patterns Up to 200x200",
             "price": 29.99,
@@ -38714,7 +38723,7 @@
             "price": 4.19,
             "url": "https://www.monoprice.com/product?p_id=6627",
             "product_id": 6627,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 21
         },
@@ -39043,7 +39052,7 @@
             "num_reviews": 13
         },
         "6962": {
-            "name": "Monoprice High Speed HDMI Cable with HDMI Mini Connector -",
+            "name": "Monoprice High Speed HDMI Cable with HDMI Mini Connector - 4K@24Hz, 10.2Gbps, 30AWG, CL2, 9in, Black",
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=6962",
             "product_id": 6962,
@@ -39844,7 +39853,7 @@
             "num_reviews": 19
         },
         "7329": {
-            "name": "Monoprice High Speed HDMI Cable with HDMI Mini Connector -",
+            "name": "Monoprice High Speed HDMI Cable with HDMI Mini Connector - 4K@60Hz HDR 18Gbps YCbCr 4:4:4 30AWG 6ft Black",
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=7329",
             "product_id": 7329,
@@ -39997,7 +40006,7 @@
             "num_reviews": 598
         },
         "7555": {
-            "name": "Monoprice High Speed HDMI Cable with HDMI Micro Connector -",
+            "name": "Monoprice High Speed HDMI Cable with HDMI Micro Connector - 4K@60Hz HDR 18Gbps YCbCr 4:4:4 34AWG 1.5ft Black",
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=7555",
             "product_id": 7555,
@@ -40006,7 +40015,7 @@
             "num_reviews": 78
         },
         "7556": {
-            "name": "Monoprice High Speed HDMI Cable with HDMI Micro Connector -",
+            "name": "Monoprice High Speed HDMI Cable with HDMI Micro Connector - 4K@24Hz, 10.2Gbps, 34AWG, 3ft, Black",
             "price": 8.09,
             "url": "https://www.monoprice.com/product?p_id=7556",
             "product_id": 7556,
@@ -40024,7 +40033,7 @@
             "num_reviews": 103
         },
         "7559": {
-            "name": "Monoprice High Speed HDMI Cable with HDMI Micro Connector -",
+            "name": "Monoprice High Speed HDMI Cable with HDMI Micro Connector - 4K@60Hz HDR 18Gbps YCbCr 4:4:4 34AWG 15ft Black",
             "price": 12.59,
             "url": "https://www.monoprice.com/product?p_id=7559",
             "product_id": 7559,
@@ -40168,7 +40177,7 @@
             "num_reviews": 598
         },
         "7648": {
-            "name": "Monoprice Standard HDMI Cable with HDMI Mini Connector -",
+            "name": "Monoprice Standard HDMI Cable with HDMI Mini Connector - 1080i@60Hz, 4.95Gbps, 30AWG, 10ft, Black",
             "price": 8.32,
             "url": "https://www.monoprice.com/product?p_id=7648",
             "product_id": 7648,
@@ -40177,7 +40186,7 @@
             "num_reviews": 183
         },
         "7649": {
-            "name": "Monoprice Standard HDMI Cable with HDMI Mini Connector -",
+            "name": "Monoprice Standard HDMI Cable with HDMI Mini Connector - 1080i@60Hz, 4.95Gbps, 30AWG, 15ft, Black",
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=7649",
             "product_id": 7649,
@@ -40654,7 +40663,7 @@
             "num_reviews": 25
         },
         "8147": {
-            "name": "Monoprice Blackbird - 2x1 HDMI 1.4 Switch, Pigtail, HDCP 1.4,",
+            "name": "Monoprice Blackbird - 2x1 HDMI 1.4 Switch, Pigtail, HDCP 1.4, 1080p@60Hz",
             "price": 11.88,
             "url": "https://www.monoprice.com/product?p_id=8147",
             "product_id": 8147,
@@ -40663,7 +40672,7 @@
             "num_reviews": 275
         },
         "8149": {
-            "name": "Monoprice Blackbird 3x1 HDMI 1.4 Switch, Mini, HDCP 1.4,",
+            "name": "Monoprice Blackbird 3x1 HDMI 1.4 Switch, Mini, HDCP 1.4, 1080p@60Hz",
             "price": 13.99,
             "url": "https://www.monoprice.com/product?p_id=8149",
             "product_id": 8149,
@@ -40672,7 +40681,7 @@
             "num_reviews": 199
         },
         "8150": {
-            "name": "Monoprice Blackbird 2x1 HDMI 1.4 Switch, Mini, HDCP 1.4,",
+            "name": "Monoprice Blackbird 2x1 HDMI 1.4 Switch, Mini, HDCP 1.4, 1080p@60Hz",
             "price": 9.59,
             "url": "https://www.monoprice.com/product?p_id=8150",
             "product_id": 8150,
@@ -43221,6 +43230,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-13T15:35:01Z"
+        "timestamp": "2023-06-13T15:45:30Z"
     }
 }
