@@ -12814,7 +12814,7 @@
             "product_id": 2669,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 2359
+            "num_reviews": 2360
         },
         "2671": {
             "name": "Monoprice S/PDIF Digital Optical Audio Adapter, Female Toslink to Male Mini Toslink",
@@ -21125,7 +21125,7 @@
         },
         "3642": {
             "name": "Monoprice High Quality Banana Binding Post Wall Plate for 4 Speaker - Coupler Type",
-            "price": 5.98,
+            "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=3642",
             "product_id": 3642,
             "available": false,
@@ -24910,7 +24910,7 @@
             "product_id": 3945,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13604
+            "num_reviews": 13605
         },
         "39450": {
             "name": "Monoprice OM1 Fiber Optic Cable - SC/ST, 62.5/125 Type, Multi-Mode, Duplex, Orange, 3m",
@@ -25108,7 +25108,7 @@
             "product_id": 3950,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13604
+            "num_reviews": 13605
         },
         "39508": {
             "name": "Monoprice Replacement Build Platform for the Voxel 3D Printer (33820, 35880, and 35881)",
@@ -36425,7 +36425,7 @@
         },
         "5400": {
             "name": "Monoprice Adjustable Tilting Desk Mount Bracket for 13~30in Monitors up to 33 lbs., Black",
-            "price": 18.74,
+            "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=5400",
             "product_id": 5400,
             "available": false,
@@ -37148,15 +37148,6 @@
             "price": 2.57,
             "url": "https://www.monoprice.com/product?p_id=5797",
             "product_id": 5797,
-            "available": true,
-            "rating": 4.8,
-            "num_reviews": 69
-        },
-        "5799": {
-            "name": "Monoprice Releasable Cable Tie 10in 50 lbs, 100 pcs/pack, Black",
-            "price": 5.39,
-            "url": "https://www.monoprice.com/product?p_id=5799",
-            "product_id": 5799,
             "available": true,
             "rating": 4.8,
             "num_reviews": 69
@@ -37942,7 +37933,7 @@
             "product_id": 6329,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 59
+            "num_reviews": 60
         },
         "6357": {
             "name": "Monoprice Cat5e 25ft Gray Patch Cable,  Shielded (F/UTP), 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -38212,7 +38203,7 @@
             "product_id": 6448,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 59
+            "num_reviews": 60
         },
         "6449": {
             "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 18AWG, 10A/1250W, 3-Prong, SVT, Black, 10ft",
@@ -38558,7 +38549,7 @@
         },
         "6549": {
             "name": "Monoprice Keystone Jack - Modular RCA w/Yellow Center (White)",
-            "price": 1.19,
+            "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=6549",
             "product_id": 6549,
             "available": false,
@@ -42824,7 +42815,7 @@
         },
         "9840": {
             "name": "Monoprice FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 30ft, Yellow",
-            "price": 7.59,
+            "price": 9.49,
             "url": "https://www.monoprice.com/product?p_id=9840",
             "product_id": 9840,
             "available": false,
@@ -43158,6 +43149,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-13T21:25:51Z"
+        "timestamp": "2023-06-13T21:35:00Z"
     }
 }
