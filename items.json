@@ -17782,7 +17782,7 @@
             "product_id": 33877,
             "available": false,
             "rating": 4.6,
-            "num_reviews": 213
+            "num_reviews": 214
         },
         "33878": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Silver",
@@ -22336,7 +22336,7 @@
             "product_id": 38312,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 397
+            "num_reviews": 398
         },
         "38313": {
             "name": "Monoprice AtlasFlex Series Durable USB 2.0 Type-C to Type-A Charge \u0026 Sync Kevlar-Reinforced Nylon-Braid Cable, 1.5ft, White",
@@ -23281,7 +23281,7 @@
             "product_id": 38801,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 87
+            "num_reviews": 89
         },
         "38802": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 10ft, Blue",
@@ -23488,7 +23488,7 @@
             "product_id": 38827,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 87
+            "num_reviews": 89
         },
         "38828": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 6ft, White, 3-Pack",
@@ -23497,7 +23497,7 @@
             "product_id": 38828,
             "available": false,
             "rating": 4.5,
-            "num_reviews": 87
+            "num_reviews": 89
         },
         "38831": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 3ft, Black, 3-Pack",
@@ -43212,6 +43212,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-13T05:54:10Z"
+        "timestamp": "2023-06-13T06:10:28Z"
     }
 }
