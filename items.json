@@ -8134,7 +8134,7 @@
             "product_id": 16094,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 142
+            "num_reviews": 143
         },
         "16095": {
             "name": "Monoprice EZ Series Low Profile Fixed TV Wall Mount Bracket For LED TVs 46in to 70in, Max Weight 77lbs, VESA Patterns Up to 600x400, UL Certified",
@@ -43212,6 +43212,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-13T06:44:04Z"
+        "timestamp": "2023-06-13T06:53:50Z"
     }
 }
