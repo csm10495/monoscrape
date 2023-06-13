@@ -9983,7 +9983,7 @@
         },
         "21601": {
             "name": "Monoprice Table Top for Sit-Stand Height-Adjustable Desk, 4ft Black",
-            "price": 24.49,
+            "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=21601",
             "product_id": 21601,
             "available": false,
@@ -9992,7 +9992,7 @@
         },
         "21602": {
             "name": "Monoprice Table Top for Sit-Stand Height-Adjustable Desk, 4ft White",
-            "price": 31.49,
+            "price": 44.99,
             "url": "https://www.monoprice.com/product?p_id=21602",
             "product_id": 21602,
             "available": false,
@@ -10199,7 +10199,7 @@
         },
         "21666": {
             "name": "Monoprice Mini Delta V2 3D Printer",
-            "price": 159.99,
+            "price": 199.99,
             "url": "https://www.monoprice.com/product?p_id=21666",
             "product_id": 21666,
             "available": false,
@@ -10504,7 +10504,7 @@
             "num_reviews": 9
         },
         "21868": {
-            "name": "Monoprice Cat5e 1000ft Black Outdoor Bulk Cable, Gel-filled Direct Burial, Solid, UTP, 24AWG, 550MHz, Pure Bare Copper, Spool in Box, No Logo, Bulk Ethernet Cable",
+            "name": "Monoprice Cat5e 1000ft Black Outdoor Bulk Cable, Gel-filled Direct Burial, Solid, UTP, 24AWG, 550MHz, Pure Bare Copper, Spool, No Logo, Outdoor Bulk Ethernet Cable",
             "price": 189.99,
             "url": "https://www.monoprice.com/product?p_id=21868",
             "product_id": 21868,
@@ -11612,7 +11612,7 @@
         },
         "24281": {
             "name": "Monoprice Blackbird 4K HDMI Extender, 50m - 4K HDMI Extension to 164 feet",
-            "price": 101.99,
+            "price": 99.99,
             "url": "https://www.monoprice.com/product?p_id=24281",
             "product_id": 24281,
             "available": true,
@@ -11621,7 +11621,7 @@
         },
         "24283": {
             "name": "Monoprice Essentials USB Type-C to Type-C 2.0 Cable - 480Mbps, 5A, 26AWG, Black, 4m (13.1 ft)",
-            "price": 16.19,
+            "price": 17.99,
             "url": "https://www.monoprice.com/product?p_id=24283",
             "product_id": 24283,
             "available": false,
@@ -13070,7 +13070,7 @@
         },
         "27324": {
             "name": "Strata Home by Monoprice Touchless Digital Infrared Surface Thermometer",
-            "price": 13.99,
+            "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=27324",
             "product_id": 27324,
             "available": false,
@@ -43167,6 +43167,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-13T20:44:44Z"
+        "timestamp": "2023-06-13T20:54:49Z"
     }
 }
