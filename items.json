@@ -13565,7 +13565,7 @@
         },
         "27842": {
             "name": "Monoprice Blackbird 4K 18Gbps HDBaseT 8x8 HDMI Matrix Extender Switch over Cat6 with 8 Receivers and 8 IR Kits, 70m, HDR, HDCP 2.2, PoC, GUI, and De-Embedded Audio",
-            "price": 2499.99,
+            "price": 2299.99,
             "url": "https://www.monoprice.com/product?p_id=27842",
             "product_id": 27842,
             "available": true,
@@ -43176,6 +43176,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-13T19:48:00Z"
+        "timestamp": "2023-06-13T19:57:37Z"
     }
 }
