@@ -7589,7 +7589,7 @@
         },
         "1587": {
             "name": "Monoprice 50ft DB25 M/M Molded Cable",
-            "price": 14.99,
+            "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=1587",
             "product_id": 1587,
             "available": false,
@@ -11097,15 +11097,6 @@
             "rating": 4.9,
             "num_reviews": 3400
         },
-        "2321": {
-            "name": "Monoprice Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 25ft, Purple",
-            "price": 7.99,
-            "url": "https://www.monoprice.com/product?p_id=2321",
-            "product_id": 2321,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 3400
-        },
         "2323": {
             "name": "Monoprice Cat6 50ft Black Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 14.99,
@@ -12814,7 +12805,7 @@
             "product_id": 2668,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 2359
+            "num_reviews": 2360
         },
         "2669": {
             "name": "Monoprice S/PDIF (Toslink) Digital Optical Audio Cable, 50ft",
@@ -18896,7 +18887,7 @@
             "price": 17.48,
             "url": "https://www.monoprice.com/product?p_id=3448",
             "product_id": 3448,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 2399
         },
@@ -35318,7 +35309,7 @@
         },
         "4783": {
             "name": "Monoprice 1.5ft Premier Series XLR Female to RCA Male Cable, 16AWG (Gold Plated)",
-            "price": 3.74,
+            "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=4783",
             "product_id": 4783,
             "available": false,
@@ -41123,7 +41114,7 @@
         },
         "8612": {
             "name": "Monoprice USB-A to USB-A 2.0 Cable - 28/24AWG, Gold Plated, White, 10ft",
-            "price": 1.69,
+            "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=8612",
             "product_id": 8612,
             "available": false,
@@ -41753,7 +41744,7 @@
         },
         "9202": {
             "name": "Monoprice 12 Outlet Power Surge Protector with 2 Built-In USB Charger Ports - 3420 Joules",
-            "price": 38.69,
+            "price": 42.99,
             "url": "https://www.monoprice.com/product?p_id=9202",
             "product_id": 9202,
             "available": false,
@@ -43130,7 +43121,7 @@
         },
         "9907": {
             "name": "Monoprice CCTV Siamese -50ft",
-            "price": 5.23,
+            "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=9907",
             "product_id": 9907,
             "available": false,
@@ -43176,6 +43167,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-13T20:29:24Z"
+        "timestamp": "2023-06-13T20:35:29Z"
     }
 }
