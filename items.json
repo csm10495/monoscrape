@@ -1751,7 +1751,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=1152",
             "product_id": 1152,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 17
         },
@@ -12794,7 +12794,7 @@
             "price": 5.49,
             "url": "https://www.monoprice.com/product?p_id=2617",
             "product_id": 2617,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 23
         },
@@ -21488,7 +21488,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=3726",
             "product_id": 3726,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 162
         },
@@ -36169,7 +36169,7 @@
             "product_id": 5299,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 638
+            "num_reviews": 639
         },
         "5300": {
             "name": "Monoprice Extension Cord - NEMA 5-15P to NEMA 5-15R, 16AWG, 13A/1625W, 3-Prong, Black, 10ft",
@@ -38210,7 +38210,7 @@
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=6397",
             "product_id": 6397,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 3
         },
@@ -38759,7 +38759,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=667",
             "product_id": 667,
-            "available": false,
+            "available": true,
             "rating": 4.2,
             "num_reviews": 247
         },
@@ -38939,7 +38939,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=6845",
             "product_id": 6845,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 1
         },
@@ -41846,7 +41846,7 @@
             "price": 1.19,
             "url": "https://www.monoprice.com/product?p_id=930",
             "product_id": 930,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 70
         },
@@ -42224,7 +42224,7 @@
             "price": 46.49,
             "url": "https://www.monoprice.com/product?p_id=953",
             "product_id": 953,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 16
         },
@@ -42477,8 +42477,8 @@
             "url": "https://www.monoprice.com/product?p_id=9789",
             "product_id": 9789,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 1468
+            "rating": 0,
+            "num_reviews": 0
         },
         "9790": {
             "name": "Monoprice Cat6 3ft Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -42495,8 +42495,8 @@
             "url": "https://www.monoprice.com/product?p_id=9791",
             "product_id": 9791,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 1468
+            "rating": 0,
+            "num_reviews": 0
         },
         "9792": {
             "name": "Monoprice Cat6 14ft Blue Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -42558,8 +42558,8 @@
             "url": "https://www.monoprice.com/product?p_id=9798",
             "product_id": 9798,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 1468
+            "rating": 0,
+            "num_reviews": 0
         },
         "9799": {
             "name": "Monoprice Cat6 7ft Black Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -42648,8 +42648,8 @@
             "url": "https://www.monoprice.com/product?p_id=9808",
             "product_id": 9808,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 1468
+            "rating": 0,
+            "num_reviews": 0
         },
         "9809": {
             "name": "Monoprice Cat6 10ft Gray Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -42693,8 +42693,8 @@
             "url": "https://www.monoprice.com/product?p_id=9816",
             "product_id": 9816,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 1468
+            "rating": 0,
+            "num_reviews": 0
         },
         "9817": {
             "name": "Monoprice Cat6 6in White Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -42855,8 +42855,8 @@
             "url": "https://www.monoprice.com/product?p_id=9836",
             "product_id": 9836,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 1468
+            "rating": 0,
+            "num_reviews": 0
         },
         "9837": {
             "name": "Monoprice Cat6 1ft Yellow Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -42864,8 +42864,8 @@
             "url": "https://www.monoprice.com/product?p_id=9837",
             "product_id": 9837,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 1468
+            "rating": 0,
+            "num_reviews": 0
         },
         "9838": {
             "name": "Monoprice Cat6 7ft Yellow Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -43017,8 +43017,8 @@
             "url": "https://www.monoprice.com/product?p_id=9857",
             "product_id": 9857,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 1468
+            "rating": 0,
+            "num_reviews": 0
         },
         "9858": {
             "name": "Monoprice Cat6 50ft Purple Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -43221,6 +43221,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-13T13:35:01Z"
+        "timestamp": "2023-06-13T13:44:12Z"
     }
 }
