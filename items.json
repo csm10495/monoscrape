@@ -17830,7 +17830,7 @@
             "num_reviews": 213
         },
         "3389": {
-            "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 10ft, Purple",
+            "name": "Monoprice Cat5e 10ft Purple Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 2.24,
             "url": "https://www.monoprice.com/product?p_id=3389",
             "product_id": 3389,
@@ -35641,7 +35641,7 @@
             "num_reviews": 3043
         },
         "4986": {
-            "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 20ft, Green",
+            "name": "Monoprice Cat5e 20ft Green Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=4986",
             "product_id": 4986,
@@ -35650,7 +35650,7 @@
             "num_reviews": 3043
         },
         "4992": {
-            "name": "Monoprice Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 20ft, Yellow",
+            "name": "Monoprice Cat5e 20ft Yellow Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 3.17,
             "url": "https://www.monoprice.com/product?p_id=4992",
             "product_id": 4992,
@@ -38909,7 +38909,7 @@
         },
         "6879": {
             "name": "Monoprice 1 Channel Passive CCTV BALUN - Video/Audio/Power over Cat5",
-            "price": 5.98,
+            "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=6879",
             "product_id": 6879,
             "available": false,
@@ -40457,7 +40457,7 @@
         },
         "8103": {
             "name": "Monoprice Cat6 1000ft Blue CMR UL Bulk Cable, Solid (w/spine), UTP, 23AWG, 550MHz, Pure Bare Copper, Reelex II Pull Box, Bulk Ethernet Cable",
-            "price": 139.99,
+            "price": 149.99,
             "url": "https://www.monoprice.com/product?p_id=8103",
             "product_id": 8103,
             "available": true,
@@ -43149,6 +43149,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-13T22:31:51Z"
+        "timestamp": "2023-06-13T22:37:41Z"
     }
 }
