@@ -22923,6 +22923,15 @@
             "rating": 4.8,
             "num_reviews": 4
         },
+        "40077": {
+            "name": "Monoprice Heavy Duty Power Cord - NEMA 6-15P to IEC 60320 C13, 14AWG, 15A/3750W, SJT, 250V, Black, 8ft",
+            "price": 9.49,
+            "url": "https://www.monoprice.com/product?p_id=40077",
+            "product_id": 40077,
+            "available": true,
+            "rating": 4.8,
+            "num_reviews": 4
+        },
         "40078": {
             "name": "Monoprice Heavy Duty Power Cord - NEMA 6-15P to IEC 60320 C13, 14AWG, 15A/3750W, SJT, 250V, Black, 10ft",
             "price": 12.49,
@@ -25200,15 +25209,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "41589": {
-            "name": "Toys Starry Night 300pc Puzzle Set",
-            "price": 6.16,
-            "url": "https://www.monoprice.com/product?p_id=41589",
-            "product_id": 41589,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "41639": {
             "name": "Monoprice Cat5e 100ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, RJ45, Zeroboot Series Ethernet Cable",
             "price": 23.99,
@@ -26286,15 +26286,6 @@
             "url": "https://www.monoprice.com/product?p_id=42136",
             "product_id": 42136,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "42149": {
-            "name": "Tilting Footrest Under Desk Ergonomic Office Foot Rest Adjustable Computer Desk Foot Support Elevated Office Footrest",
-            "price": 7.79,
-            "url": "https://www.monoprice.com/product?p_id=42149",
-            "product_id": 42149,
-            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -28962,15 +28953,6 @@
             "rating": 4.5,
             "num_reviews": 17
         },
-        "43311": {
-            "name": "Laser Golf/Hunting Rangefinder, 6X Magnification Clear View 650 Yards Laser Range Finder, Accurate, Slope Function, Pin-Seeker \u0026 Flag-Lock \u0026 Vibration",
-            "price": 36.99,
-            "url": "https://www.monoprice.com/product?p_id=43311",
-            "product_id": 43311,
-            "available": false,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "43325": {
             "name": "Monoprice USB4 Type-C Gen 3x2 40Gbps 100W, Black, 1m (3.28ft)",
             "price": 19.99,
@@ -29700,15 +29682,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "43646": {
-            "name": "Solar Mason Jar Lights,8 Pack 30 Led Hanging String Fairy Jar Solar Lantern Lights for Outdoor Patio Garden Yard and Lawn Decoration",
-            "price": 23.99,
-            "url": "https://www.monoprice.com/product?p_id=43646",
-            "product_id": 43646,
-            "available": true,
-            "rating": 0,
-            "num_reviews": 0
-        },
         "43655": {
             "name": "DIY Amusement Park Large Size Kids Learning Plastic Building Block Pipeline Block Toys - 54PCS",
             "price": 11.19,
@@ -29879,15 +29852,6 @@
             "available": false,
             "rating": 3.9,
             "num_reviews": 9
-        },
-        "43792": {
-            "name": "Monoprice 112W 4-Port USB-C Desktop Charging Station",
-            "price": 29.99,
-            "url": "https://www.monoprice.com/product?p_id=43792",
-            "product_id": 43792,
-            "available": false,
-            "rating": 4.3,
-            "num_reviews": 6
         },
         "43794": {
             "name": "Monoprice 3-in-1 Wireless Charging Stand, Bundled with QC3.0 Wall Charger",
@@ -30065,7 +30029,7 @@
             "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=44029",
             "product_id": 44029,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 12
         },
@@ -31136,6 +31100,15 @@
             "price": 139.99,
             "url": "https://www.monoprice.com/product?p_id=44685",
             "product_id": 44685,
+            "available": true,
+            "rating": 0,
+            "num_reviews": 0
+        },
+        "44686": {
+            "name": "Tile Slim - Phone Wallet Finder - 1 Pack (EC-04001)",
+            "price": 8.99,
+            "url": "https://www.monoprice.com/product?p_id=44686",
+            "product_id": 44686,
             "available": true,
             "rating": 0,
             "num_reviews": 0
@@ -39396,6 +39369,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-13T16:41:02Z"
+        "timestamp": "2023-06-13T16:46:41Z"
     }
 }
