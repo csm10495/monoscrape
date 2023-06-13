@@ -15775,7 +15775,7 @@
             "product_id": 31190,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 397
+            "num_reviews": 398
         },
         "31191": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Black",
@@ -26188,7 +26188,7 @@
             "product_id": 39841,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 165
+            "num_reviews": 164
         },
         "39842": {
             "name": "Monoprice Obsidian Plus Pocket USB Power Bank, Pink, 5,000mAh, 2-Port Up to 2.1A Output for iPhone, Android, and Galaxy Devices",
@@ -43212,6 +43212,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-13T11:24:41Z"
+        "timestamp": "2023-06-13T11:34:20Z"
     }
 }
