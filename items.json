@@ -12123,15 +12123,6 @@
             "rating": 4.9,
             "num_reviews": 497
         },
-        "24401": {
-            "name": "Monoprice Cat6A Ethernet Patch Cable - Snagless RJ45, 550MHz, STP, Pure Bare Copper Wire, 10G, 26AWG, 50ft, White",
-            "price": 24.49,
-            "url": "https://www.monoprice.com/product?p_id=24401",
-            "product_id": 24401,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 497
-        },
         "24404": {
             "name": "Monoprice Cat6A 50ft Green Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 20.81,
@@ -13177,7 +13168,7 @@
             "num_reviews": 67
         },
         "27436": {
-            "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, S/STP, Pure Bare Copper Wire, 36AWG, 1ft, Green",
+            "name": "Monoprice Cat6A 1ft Green Patch Cable, Double Shielded (S/FTP), 36AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
             "price": 2.6,
             "url": "https://www.monoprice.com/product?p_id=27436",
             "product_id": 27436,
@@ -13330,7 +13321,7 @@
             "num_reviews": 67
         },
         "27503": {
-            "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, Stranded, S/STP, Pure Bare Copper Wire, 36AWG, 10ft, White",
+            "name": "Monoprice Cat6A 10ft White Patch Cable, Double Shielded (S/FTP), 36AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=27503",
             "product_id": 27503,
@@ -14446,7 +14437,7 @@
             "num_reviews": 147
         },
         "29470": {
-            "name": "Monoprice SlimRun Cat6A Ethernet Patch Cable - Snagless RJ45, UTP, Pure Bare Copper Wire, 10G, 30AWG, 5ft, Multicolor, 5-Pack",
+            "name": "Monoprice Cat6A 5ft 5-Color 5-Pk Patch Cable, UTP, 30AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=29470",
             "product_id": 29470,
@@ -43149,6 +43140,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-13T22:44:19Z"
+        "timestamp": "2023-06-13T22:54:35Z"
     }
 }
