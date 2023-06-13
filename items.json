@@ -15437,7 +15437,7 @@
         },
         "30993": {
             "name": "Monoprice MP Delta Pro 3D Printer, 32-bit ARM Processor, Auto Level, Silent Drive, Touchscreen, Fully Assembled",
-            "price": 449,
+            "price": 1199.99,
             "url": "https://www.monoprice.com/product?p_id=30993",
             "product_id": 30993,
             "available": false,
@@ -16589,7 +16589,7 @@
         },
         "33304": {
             "name": "Monolith by Monoprice Liquid Spark Headphone Amplifier by Alex Cavalli",
-            "price": 77.99,
+            "price": 129.99,
             "url": "https://www.monoprice.com/product?p_id=33304",
             "product_id": 33304,
             "available": false,
@@ -16643,7 +16643,7 @@
         },
         "33394": {
             "name": "Monoprice Soundstage3 120 Watt TrueWireless Stereo (TWS) Bluetooth Speaker with Qualcomm aptX Audio, White",
-            "price": 89.99,
+            "price": 149.99,
             "url": "https://www.monoprice.com/product?p_id=33394",
             "product_id": 33394,
             "available": false,
@@ -17606,7 +17606,7 @@
         },
         "33835": {
             "name": "Monolith by Monoprice 14AWG Oxygen Free Copper Multi-Strand Conductors PE Insulated Speaker Wire with Gold Plated Banana Plug Connectors, 10 foot - Pair",
-            "price": 48.99,
+            "price": 69.99,
             "url": "https://www.monoprice.com/product?p_id=33835",
             "product_id": 33835,
             "available": false,
@@ -17777,7 +17777,7 @@
         },
         "33882": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Light Blue",
-            "price": 22.49,
+            "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=33882",
             "product_id": 33882,
             "available": false,
@@ -19676,7 +19676,7 @@
         },
         "34837": {
             "name": "Monoprice 4K Certified Premium High Speed HDMI Cable 10m - 18Gbps Black - 2 Pack",
-            "price": 33.24,
+            "price": 73.89,
             "url": "https://www.monoprice.com/product?p_id=34837",
             "product_id": 34837,
             "available": true,
@@ -23254,7 +23254,7 @@
             "product_id": 38802,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 88
+            "num_reviews": 89
         },
         "38803": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 1.5ft, Red",
@@ -23636,7 +23636,7 @@
         },
         "38857": {
             "name": "Monoprice Wrap Series Charge and Sync USB Type-C to Type-C Cable, USB 2.0, Up to 5A/100W, 1.5ft, White",
-            "price": 2.99,
+            "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=38857",
             "product_id": 38857,
             "available": false,
@@ -24161,7 +24161,7 @@
             "price": 18.49,
             "url": "https://www.monoprice.com/product?p_id=39029",
             "product_id": 39029,
-            "available": true,
+            "available": false,
             "rating": 3.8,
             "num_reviews": 5
         },
@@ -24698,7 +24698,7 @@
         },
         "39306": {
             "name": "Monoprice Above Fireplace Pull-Down Full-Motion Articulating TV Wall Mount w/ Floating Soundbar Mount- For TVs 55in to 80in, Max Weight 132lbs, VESA Patterns Up to 800x500, Rotating, Height Adjustable",
-            "price": 75.59,
+            "price": 125.99,
             "url": "https://www.monoprice.com/product?p_id=39306",
             "product_id": 39306,
             "available": false,
@@ -25319,7 +25319,7 @@
         },
         "39533": {
             "name": "Monoprice 1080p No Logo High Speed HDMI Cable 30ft - CL2 In Wall Rated 10.2 Gbps Black - 3 Pack",
-            "price": 70.54,
+            "price": 82.99,
             "url": "https://www.monoprice.com/product?p_id=39533",
             "product_id": 39533,
             "available": false,
@@ -25495,7 +25495,7 @@
             "product_id": 39554,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13604
+            "num_reviews": 13605
         },
         "39555": {
             "name": "Monoprice 4K High Speed HDMI Cable 20ft - 18Gbps Black - 3 Pack",
@@ -26426,7 +26426,7 @@
         },
         "39928": {
             "name": "Monoprice USB Type-A to USB Type-A Female 2.0 Extension Cable - 28/24AWG Gold Plated Black 10ft, 5-Pack",
-            "price": 5.94,
+            "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=39928",
             "product_id": 39928,
             "available": false,
@@ -43167,6 +43167,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-13T20:54:49Z"
+        "timestamp": "2023-06-13T21:06:19Z"
     }
 }
