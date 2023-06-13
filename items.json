@@ -2513,7 +2513,7 @@
         },
         "12732": {
             "name": "Monoprice Cat6 1000ft Black Outdoor Bulk Cable, Solid (w/spine), Watertap Direct Burial, UTP, 23AWG, 550MHz, Pure Bare Copper, Spool, No Logo, Bulk Ethernet Cable",
-            "price": 251.99,
+            "price": 249.99,
             "url": "https://www.monoprice.com/product?p_id=12732",
             "product_id": 12732,
             "available": false,
@@ -2611,8 +2611,8 @@
             "num_reviews": 18
         },
         "12756": {
-            "name": "Monoprice Cat5e 1000ft Black CMR UL Bulk Cable, UTP, Solid, 24AWG, 350MHz, Pure Bare Copper, Reel in Box, No Logo, Bulk Ethernet Cable",
-            "price": 119.99,
+            "name": "Monoprice Cat5e 1000ft Black CMR UL Bulk Cable, UTP, Solid, 24AWG, 350MHz, Pure Bare Copper, Pull Box, No Logo, Bulk Ethernet Cable",
+            "price": 114.99,
             "url": "https://www.monoprice.com/product?p_id=12756",
             "product_id": 12756,
             "available": false,
@@ -2620,8 +2620,8 @@
             "num_reviews": 5
         },
         "12757": {
-            "name": "Monoprice Cat5e 1000ft Blue CMR UL Bulk Cable, UTP, Solid, 24AWG, 350MHz, Pure Bare Copper, Reel in Box, No Logo, Bulk Ethernet Cable",
-            "price": 119.99,
+            "name": "Monoprice Cat5e 1000ft Blue CMR UL Bulk Cable, UTP, Solid, 24AWG, 350MHz, Pure Bare Copper, Pull Box, No Logo, Bulk Ethernet Cable",
+            "price": 114.99,
             "url": "https://www.monoprice.com/product?p_id=12757",
             "product_id": 12757,
             "available": false,
@@ -2629,8 +2629,8 @@
             "num_reviews": 5
         },
         "12759": {
-            "name": "Monoprice Cat5e 1000ft Green CMR UL Bulk Cable, UTP, Solid, 24AWG, 350MHz, Pure Bare Copper, Reel in Box, No Logo, Bulk Ethernet Cable",
-            "price": 119.99,
+            "name": "Monoprice Cat5e 1000ft Green CMR UL Bulk Cable, UTP, Solid, 24AWG, 350MHz, Pure Bare Copper, Pull Box, No Logo, Bulk Ethernet Cable",
+            "price": 114.99,
             "url": "https://www.monoprice.com/product?p_id=12759",
             "product_id": 12759,
             "available": false,
@@ -2638,8 +2638,8 @@
             "num_reviews": 5
         },
         "12761": {
-            "name": "Monoprice Cat5e 1000ft Purple CMR UL Bulk Cable, UTP, Solid, 24AWG, 350MHz, Pure Bare Copper, Reel in Box, No Logo, Bulk Ethernet Cable",
-            "price": 119.99,
+            "name": "Monoprice Cat5e 1000ft Purple CMR UL Bulk Cable, UTP, Solid, 24AWG, 350MHz, Pure Bare Copper, Pull Box, No Logo, Bulk Ethernet Cable",
+            "price": 114.99,
             "url": "https://www.monoprice.com/product?p_id=12761",
             "product_id": 12761,
             "available": false,
@@ -2648,7 +2648,7 @@
         },
         "12763": {
             "name": "Monoprice Cat5e 1000ft White CMR UL Bulk Cable, UTP, Solid, 24AWG, 350MHz, Pure Bare Copper, Reel in Box, No Logo, Bulk Ethernet Cable",
-            "price": 119.99,
+            "price": 114.99,
             "url": "https://www.monoprice.com/product?p_id=12763",
             "product_id": 12763,
             "available": true,
@@ -2779,7 +2779,7 @@
             "product_id": 12838,
             "available": false,
             "rating": 4.3,
-            "num_reviews": 2056
+            "num_reviews": 2057
         },
         "12839": {
             "name": "Monoprice Select Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 6ft Black",
@@ -2788,7 +2788,7 @@
             "product_id": 12839,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 2056
+            "num_reviews": 2057
         },
         "12840": {
             "name": "Monoprice Select Series Apple MFi Certified Lightning to USB Charge and Sync Cable, 6ft White",
@@ -4608,15 +4608,6 @@
             "rating": 4.8,
             "num_reviews": 197
         },
-        "13679": {
-            "name": "Monoprice Cat5e Ethernet Bulk Cable - Solid, 350MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 24AWG, 500ft, White (UL)",
-            "price": 26.99,
-            "url": "https://www.monoprice.com/product?p_id=13679",
-            "product_id": 13679,
-            "available": true,
-            "rating": 4.8,
-            "num_reviews": 197
-        },
         "13680": {
             "name": "Monoprice Cat5e 250ft Blue CMR UL Bulk Cable, UTP, Solid, 24AWG, 350MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
             "price": 34.99,
@@ -5958,15 +5949,6 @@
             "rating": 4.9,
             "num_reviews": 3043
         },
-        "14767": {
-            "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Black, (UL)",
-            "price": 29.99,
-            "url": "https://www.monoprice.com/product?p_id=14767",
-            "product_id": 14767,
-            "available": true,
-            "rating": 4.7,
-            "num_reviews": 92
-        },
         "14768": {
             "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Gray, (UL)",
             "price": 39.99,
@@ -6098,7 +6080,7 @@
             "price": 2.79,
             "url": "https://www.monoprice.com/product?p_id=14803",
             "product_id": 14803,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 273
         },
@@ -6950,7 +6932,7 @@
         },
         "15396": {
             "name": "Monoprice Cat5e 1000ft Black Outdoor Bulk Cable, Solid, Watertap Direct Burial, UTP, 24AWG, 350MHz, Pure Bare Copper, Spool in Box, No Logo, Bulk Ethernet Cable",
-            "price": 199.49,
+            "price": 189.99,
             "url": "https://www.monoprice.com/product?p_id=15396",
             "product_id": 15396,
             "available": true,
@@ -6959,7 +6941,7 @@
         },
         "15398": {
             "name": "Monoprice Cat6 1000ft Black Outdoor Bulk Cable, Gel-filled Direct Burial, Solid (w/spine), UTP, 23AWG, 550MHz, Pure Bare Copper, Spool, No Logo, Bulk Ethernet Cable",
-            "price": 257.49,
+            "price": 249.99,
             "url": "https://www.monoprice.com/product?p_id=15398",
             "product_id": 15398,
             "available": true,
@@ -7802,15 +7784,6 @@
             "available": false,
             "rating": 5,
             "num_reviews": 6
-        },
-        "15952": {
-            "name": "Monolith by Monoprice K-BAS Reference Series Bookshelf Speakers (Each)",
-            "price": 249.99,
-            "url": "https://www.monoprice.com/product?p_id=15952",
-            "product_id": 15952,
-            "available": false,
-            "rating": 4.9,
-            "num_reviews": 12
         },
         "15953": {
             "name": "Monoprice Active Indoor/Outdoor HD6 HDTV Antenna, 50 Mile Range",
@@ -9025,7 +8998,7 @@
             "product_id": 18591,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 270
+            "num_reviews": 271
         },
         "18592": {
             "name": "Monoprice Cat6A 1000ft Black CMR UL Bulk Cable, TAA, Shielded (F/UTP), Solid, 23AWG, 550MHz, 10G, Pure Bare Copper, Spool in Box, Bulk Ethernet Cable",
@@ -43185,6 +43158,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-13T18:28:50Z"
+        "timestamp": "2023-06-13T18:34:45Z"
     }
 }
