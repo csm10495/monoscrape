@@ -15625,7 +15625,7 @@
             "num_reviews": 70
         },
         "31089": {
-            "name": "Monoprice Entegrade Series Cat8 24AWG S/FTP Ethernet Network Cable, 2GHz, 40G, 3ft White",
+            "name": "Monoprice Cat8 3ft White Patch Cable,  Double Shielded (S/FTP), 24AWG, 2GHz, 40G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=31089",
             "product_id": 31089,
@@ -16156,7 +16156,7 @@
             "num_reviews": 231
         },
         "31384": {
-            "name": "Monoprice Entegrade Series Cat7 Double Shielded (S/FTP) Ethernet Patch Cable - Snagless RJ45, 600MHz, 10G, 26AWG, 100ft, Purple",
+            "name": "Monoprice Cat7 100ft Purple Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
             "price": 26.99,
             "url": "https://www.monoprice.com/product?p_id=31384",
             "product_id": 31384,
@@ -20944,7 +20944,7 @@
             "num_reviews": 15
         },
         "36232": {
-            "name": "Monoprice Cat6 Outdoor Rated Ethernet Patch Cable - Molded RJ45 Connectors, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 100ft, White",
+            "name": "Monoprice Cat6 100ft White Outdoor Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Molded Snagless RJ45, Zeroboot Series Ethernet Cable",
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=36232",
             "product_id": 36232,
@@ -25423,7 +25423,7 @@
             "product_id": 39547,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13604
+            "num_reviews": 13605
         },
         "39548": {
             "name": "Monoprice 4K High Speed HDMI Cable 6ft - 18Gbps Black - 3 Pack",
@@ -43140,6 +43140,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-13T22:54:35Z"
+        "timestamp": "2023-06-13T23:06:07Z"
     }
 }
