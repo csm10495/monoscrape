@@ -14641,7 +14641,7 @@
             "product_id": 2982,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 538
+            "num_reviews": 539
         },
         "3005": {
             "name": "Monoprice Tilt TV Wall Mount Bracket, For TVs 13in to 27in, Max Weight 66lbs, VESA Patterns Up to 100x100, Works with Concrete and Brick",
@@ -23119,7 +23119,7 @@
             "product_id": 3872,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13604
+            "num_reviews": 13605
         },
         "38748": {
             "name": "Monoprice 20X Optical Zoom (4.7-94mm) IP PTZ Camera IP66 Rated (2MP HD 1080P, 1/2.8 in. Sensor, 6 Large Smart IR LEDs - up to 330ft, AC 24V / High-Power PoE Injector \u0026 Wall-Mount included) (Open Box)",
@@ -43212,6 +43212,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-13T09:43:42Z"
+        "timestamp": "2023-06-13T09:53:58Z"
     }
 }
