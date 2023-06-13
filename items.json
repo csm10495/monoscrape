@@ -13266,15 +13266,6 @@
             "rating": 4.8,
             "num_reviews": 67
         },
-        "27469": {
-            "name": "Monoprice Cat6A 3ft White Patch Cable, Double Shielded (S/FTP), 36AWG, 10G, Pure Bare Copper, Snagless RJ45, SlimRun Series Ethernet Cable",
-            "price": 2.59,
-            "url": "https://www.monoprice.com/product?p_id=27469",
-            "product_id": 27469,
-            "available": true,
-            "rating": 4.8,
-            "num_reviews": 67
-        },
         "2747": {
             "name": "Monoprice Speaker Wire, Oxygen-Free CL2 Rated, 2-Conductor, 12AWG, 50ft",
             "price": 34.99,
@@ -43212,6 +43203,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-13T10:06:24Z"
+        "timestamp": "2023-06-13T10:24:41Z"
     }
 }
