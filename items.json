@@ -28505,7 +28505,7 @@
         },
         "41357": {
             "name": "Monoprice Cat6 1000ft Black CMR UL Bulk Cable, Solid, UTP, 23AWG, 550MHz, Pure Bare Copper, Reelex II Pull Box, No Logo, Bulk Ethernet Cable",
-            "price": 159.99,
+            "price": 154.99,
             "url": "https://www.monoprice.com/product?p_id=41357",
             "product_id": 41357,
             "available": false,
@@ -28514,7 +28514,7 @@
         },
         "41358": {
             "name": "Monoprice Cat6 1000ft Blue CMR UL Bulk Cable, Solid, UTP, 23AWG, 550MHz, Pure Bare Copper, Reelex II Pull Box, No Logo, Bulk Ethernet Cable",
-            "price": 159.99,
+            "price": 154.99,
             "url": "https://www.monoprice.com/product?p_id=41358",
             "product_id": 41358,
             "available": true,
@@ -28541,7 +28541,7 @@
         },
         "41364": {
             "name": "Monoprice Cat6 1000ft White CMR UL Bulk Cable, Solid, UTP, 23AWG, 550MHz, Pure Bare Copper, Reelex II Pull Box, No Logo, Bulk Ethernet Cable",
-            "price": 159.99,
+            "price": 154.99,
             "url": "https://www.monoprice.com/product?p_id=41364",
             "product_id": 41364,
             "available": false,
@@ -29345,7 +29345,7 @@
             "price": 13.99,
             "url": "https://www.monoprice.com/product?p_id=41813",
             "product_id": 41813,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1468
         },
@@ -31433,7 +31433,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=42964",
             "product_id": 42964,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 5
         },
@@ -43176,6 +43176,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-13T18:54:39Z"
+        "timestamp": "2023-06-13T19:08:09Z"
     }
 }
