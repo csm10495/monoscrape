@@ -26892,15 +26892,6 @@
             "rating": 5,
             "num_reviews": 8
         },
-        "40119": {
-            "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 14AWG, 15A/1875W, 3-Prong, Red, 6ft",
-            "price": 7.49,
-            "url": "https://www.monoprice.com/product?p_id=40119",
-            "product_id": 40119,
-            "available": true,
-            "rating": 5,
-            "num_reviews": 8
-        },
         "4012": {
             "name": "Monoprice 2-Gang 5.1 Surround Sound Distribution Wall Plate",
             "price": 10.49,
@@ -29252,7 +29243,7 @@
         },
         "41732": {
             "name": "STITCH by Monoprice Mini Wi-Fi 10A Outlet, Works with Alexa and Google Home for Touchless Voice Control, No Hub Required, ETL Certified (4-Pack)",
-            "price": 17.49,
+            "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=41732",
             "product_id": 41732,
             "available": false,
@@ -29630,7 +29621,7 @@
         },
         "42011": {
             "name": "Monoprice SB-500 Dolby Digital 5.1 Soundbar with Wireless Surround Speakers and Wireless Subwoofer, 2 HDMI Inputs, 4K HDR Pass-Through, Optical, Coax, ARC, Remote",
-            "price": 209.98,
+            "price": 299.99,
             "url": "https://www.monoprice.com/product?p_id=42011",
             "product_id": 42011,
             "available": false,
@@ -30233,7 +30224,7 @@
         },
         "42267": {
             "name": "STITCH Smart Wi-Fi RGB Light Bulb, 9W LED RGB Color and Warm, Cool White, A19 E26, Compatible with Alexa and Google Home for Touchless Control, No Hub Required (2-Pack)",
-            "price": 11.18,
+            "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=42267",
             "product_id": 42267,
             "available": false,
@@ -30656,7 +30647,7 @@
         },
         "42565": {
             "name": "Monolith by Monoprice M8125x 8x100 Watts Per Channel Class-D Multi-Channel Home Theater Power Amplifier with XLR Inputs Hypex NC252MP",
-            "price": 1799.99,
+            "price": 1999.99,
             "url": "https://www.monoprice.com/product?p_id=42565",
             "product_id": 42565,
             "available": false,
@@ -31799,7 +31790,7 @@
         },
         "43018": {
             "name": "Monoprice WFH 3.5mm + USB Wired On-Ear Web Meeting Headset",
-            "price": 22.48,
+            "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=43018",
             "product_id": 43018,
             "available": false,
@@ -32348,7 +32339,7 @@
         },
         "43199": {
             "name": "Monoprice Commercial Series Full-Motion Articulating TV Wall Mount Bracket For TVs 32in to 70in, Max Weight 88 lbs, Extension Range 2.4in to 18.4in, VESA Up to 400x400, Rotating, Fits Curved Screens",
-            "price": 35.99,
+            "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=43199",
             "product_id": 43199,
             "available": false,
@@ -32465,7 +32456,7 @@
         },
         "43217": {
             "name": "Monoprice Commercial Series Full-Motion Ceiling TV Mount Bracket - For TVs 23in to 42in, Max Weight 110 lbs., Extension Range of 22in to 35.8in, VESA Patterns up to 200x200, Fits Curved Screens",
-            "price": 33.99,
+            "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=43217",
             "product_id": 43217,
             "available": false,
@@ -32717,7 +32708,7 @@
         },
         "43261": {
             "name": "Monoprice Harmony Capsule 100 Portable Bluetooth Speaker",
-            "price": 34.98,
+            "price": 49.99,
             "url": "https://www.monoprice.com/product?p_id=43261",
             "product_id": 43261,
             "available": false,
@@ -33644,7 +33635,7 @@
         },
         "43791": {
             "name": "Monoprice 60W USB‑C 5‑Port Desktop Charging Station",
-            "price": 31.49,
+            "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=43791",
             "product_id": 43791,
             "available": false,
@@ -33824,7 +33815,7 @@
         },
         "44029": {
             "name": "Monoprice 24in CrystalPro Monitor - 75Hz, 1920x1080, IPS",
-            "price": 69.99,
+            "price": 149.99,
             "url": "https://www.monoprice.com/product?p_id=44029",
             "product_id": 44029,
             "available": false,
@@ -43167,6 +43158,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-13T21:06:19Z"
+        "timestamp": "2023-06-13T21:20:14Z"
     }
 }
