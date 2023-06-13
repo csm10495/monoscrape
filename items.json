@@ -2512,7 +2512,7 @@
             "num_reviews": 0
         },
         "12732": {
-            "name": "Monoprice Cat6 1000ft Black Outdoor Bulk Cable, Solid (w/spine), Watertap Direct Burial, UTP, 23AWG, 550MHz, Pure Bare Copper, Spool, No Logo, Bulk Ethernet Cable",
+            "name": "Monoprice Cat6 1000ft Black Outdoor Bulk Cable, TAA, Solid (w/spine), Waterblocking Tape Direct Burial, UTP, 23AWG, 550MHz, Pure Bare Copper, Spool, No Logo, Outdoor Bulk Ethernet Cable",
             "price": 249.99,
             "url": "https://www.monoprice.com/product?p_id=12732",
             "product_id": 12732,
@@ -2606,7 +2606,7 @@
             "price": 10.1,
             "url": "https://www.monoprice.com/product?p_id=12744",
             "product_id": 12744,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 18
         },
@@ -6931,7 +6931,7 @@
             "num_reviews": 94
         },
         "15396": {
-            "name": "Monoprice Cat5e 1000ft Black Outdoor Bulk Cable, Solid, Watertap Direct Burial, UTP, 24AWG, 350MHz, Pure Bare Copper, Spool in Box, No Logo, Bulk Ethernet Cable",
+            "name": "Monoprice Cat5e 1000ft Black Outdoor Bulk Cable, TAA, Solid, Waterblocking Tape Direct Burial, UTP, 24AWG, 350MHz, Pure Bare Copper, Spool, No Logo, Outdoor Bulk Ethernet Cable",
             "price": 189.99,
             "url": "https://www.monoprice.com/product?p_id=15396",
             "product_id": 15396,
@@ -6940,7 +6940,7 @@
             "num_reviews": 8
         },
         "15398": {
-            "name": "Monoprice Cat6 1000ft Black Outdoor Bulk Cable, Gel-filled Direct Burial, Solid (w/spine), UTP, 23AWG, 550MHz, Pure Bare Copper, Spool, No Logo, Bulk Ethernet Cable",
+            "name": "Monoprice Cat6 1000ft Black Outdoor Bulk Cable, Gel-filled Direct Burial, Solid (w/spine), UTP, 23AWG, 550MHz, Pure Bare Copper, Spool, No Logo, Outdoor Bulk Ethernet Cable",
             "price": 249.99,
             "url": "https://www.monoprice.com/product?p_id=15398",
             "product_id": 15398,
@@ -7625,7 +7625,7 @@
         },
         "15873": {
             "name": "Monoprice 2-Pack 6 Outlet Surge Protector Power Strip, 201 Joules, Clamping Voltage 330V",
-            "price": 22.49,
+            "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=15873",
             "product_id": 15873,
             "available": false,
@@ -7643,7 +7643,7 @@
         },
         "15875": {
             "name": "Monoprice 10 Outlet Rotating Power Strip Surge Protector Block 8ft Cord, 2880 Joules, Clamping Voltage 330V",
-            "price": 31.44,
+            "price": 36.99,
             "url": "https://www.monoprice.com/product?p_id=15875",
             "product_id": 15875,
             "available": false,
@@ -7796,7 +7796,7 @@
         },
         "15954": {
             "name": "Monoprice Active Curved HD5 HDTV Antenna, 60 Mile Range",
-            "price": 13.99,
+            "price": 19.99,
             "url": "https://www.monoprice.com/product?p_id=15954",
             "product_id": 15954,
             "available": false,
@@ -8426,7 +8426,7 @@
         },
         "16247": {
             "name": "Monoprice Essential Triple Monitor Articulating Arm Desk Mount",
-            "price": 41.99,
+            "price": 59.99,
             "url": "https://www.monoprice.com/product?p_id=16247",
             "product_id": 16247,
             "available": false,
@@ -8840,7 +8840,7 @@
         },
         "16363": {
             "name": "Workstream by Monoprice Sit-Stand Anti-Fatigue Mat, Large",
-            "price": 27.99,
+            "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=16363",
             "product_id": 16363,
             "available": false,
@@ -9353,7 +9353,7 @@
         },
         "18814": {
             "name": "Stage Right by Monoprice 6ft XLR Male to 1/4inch TRS Male 16AWG Cable (Gold Plated)",
-            "price": 3.49,
+            "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=18814",
             "product_id": 18814,
             "available": false,
@@ -43167,6 +43167,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-13T20:35:29Z"
+        "timestamp": "2023-06-13T20:44:44Z"
     }
 }
