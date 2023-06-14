@@ -22984,7 +22984,7 @@
             "product_id": 3871,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13604
+            "num_reviews": 13605
         },
         "3872": {
             "name": "Monoprice 4K High Speed HDMI Cable 1.5ft - 18Gbps Black",
@@ -24930,15 +24930,6 @@
             "rating": 4.4,
             "num_reviews": 22
         },
-        "3949": {
-            "name": "Monoprice 4K High Speed HDMI Cable 3ft - 18Gbps Orange",
-            "price": 3.89,
-            "url": "https://www.monoprice.com/product?p_id=3949",
-            "product_id": 3949,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 13604
-        },
         "39490": {
             "name": "Monoprice Universal Soundbar Wall Mount Bracket Aluminum Mount for Mounting Sound Bar Above or Under TV Fits Most of Sound Bars up to 33 LBS",
             "price": 21.99,
@@ -25091,15 +25082,6 @@
             "available": true,
             "rating": 4.6,
             "num_reviews": 310
-        },
-        "3952": {
-            "name": "Monoprice 4K High Speed HDMI Cable 6ft - 18Gbps Blue",
-            "price": 9.49,
-            "url": "https://www.monoprice.com/product?p_id=3952",
-            "product_id": 3952,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 13605
         },
         "39520": {
             "name": "Monoprice 4K No Logo High Speed HDMI Cable 4ft - CL2 In Wall Rated 18 Gbps Black - 3 Pack",
@@ -26406,15 +26388,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "3997": {
-            "name": "Datacomm 1-Gang Recessed Low Voltage Cable Wall Plate, White",
-            "price": 5.99,
-            "url": "https://www.monoprice.com/product?p_id=3997",
-            "product_id": 3997,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 519
-        },
         "40001": {
             "name": "Monoprice 12 Outlet ABS Basic 1U Rackmount PDU Power Distribution Unit, NEMA 5-15R Surge-Protected Socket Outlets, 6ft Cord, 1050 Joules",
             "price": 29.99,
@@ -26964,15 +26937,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "4024": {
-            "name": "Monoprice 4K High Speed HDMI Cable 6ft - 18Gbps Red",
-            "price": 3.31,
-            "url": "https://www.monoprice.com/product?p_id=4024",
-            "product_id": 4024,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 13605
-        },
         "40259": {
             "name": "LED Tailgate fire strip Light for trunk and SUV rear light for 48\" and 60\" configurations",
             "price": 3.14,
@@ -26981,24 +26945,6 @@
             "available": true,
             "rating": 2.8,
             "num_reviews": 4
-        },
-        "4026": {
-            "name": "Monoprice 4K High Speed HDMI Cable 6ft - 18Gbps White",
-            "price": 9.49,
-            "url": "https://www.monoprice.com/product?p_id=4026",
-            "product_id": 4026,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 13605
-        },
-        "4027": {
-            "name": "Monoprice 4K High Speed HDMI Cable 10ft - 18Gbps Red",
-            "price": 8.09,
-            "url": "https://www.monoprice.com/product?p_id=4027",
-            "product_id": 4027,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 13604
         },
         "4029": {
             "name": "Monoprice 4K High Speed HDMI Cable 10ft - 18Gbps White",
@@ -27297,15 +27243,6 @@
             "rating": 3.8,
             "num_reviews": 8
         },
-        "4044": {
-            "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 18AWG, 50ft, White",
-            "price": 14.99,
-            "url": "https://www.monoprice.com/product?p_id=4044",
-            "product_id": 4044,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 1855
-        },
         "40440": {
             "name": "Rustic Torched Wood Tabletop Chalkboard with Legs/Vintage Wedding Table Sign/Small Kitchen Antique Wooden Frame (9.5” x 14” Inches)",
             "price": 7.07,
@@ -27320,15 +27257,6 @@
             "price": 23.99,
             "url": "https://www.monoprice.com/product?p_id=4045",
             "product_id": 4045,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 1855
-        },
-        "4046": {
-            "name": "Monoprice Speaker Wire, CL2 Rated, 2-Conductor, 18AWG, 250ft, White",
-            "price": 52.99,
-            "url": "https://www.monoprice.com/product?p_id=4046",
-            "product_id": 4046,
             "available": true,
             "rating": 4.9,
             "num_reviews": 1855
@@ -27387,29 +27315,11 @@
             "rating": 4.8,
             "num_reviews": 952
         },
-        "4058": {
-            "name": "Monoprice 6ft RG6 (18AWG) 75Ohm, Quad Shield, CL2 Coaxial Cable with F Type Connector - White",
-            "price": 2.43,
-            "url": "https://www.monoprice.com/product?p_id=4058",
-            "product_id": 4058,
-            "available": true,
-            "rating": 4.8,
-            "num_reviews": 952
-        },
         "4060": {
             "name": "Monoprice 25ft RG6 (18AWG) 75Ohm, Quad Shield, CL2 Coaxial Cable with F Type Connector - White",
             "price": 3.48,
             "url": "https://www.monoprice.com/product?p_id=4060",
             "product_id": 4060,
-            "available": true,
-            "rating": 4.8,
-            "num_reviews": 952
-        },
-        "4061": {
-            "name": "Monoprice 50ft RG6 (18AWG) 75Ohm, Quad Shield, CL2 Coaxial Cable with F Type Connector - White",
-            "price": 10.1,
-            "url": "https://www.monoprice.com/product?p_id=4061",
-            "product_id": 4061,
             "available": true,
             "rating": 4.8,
             "num_reviews": 952
@@ -27458,15 +27368,6 @@
             "available": false,
             "rating": 0,
             "num_reviews": 0
-        },
-        "4074": {
-            "name": "Monoprice 2-Port DVI KVM Switch, Retail",
-            "price": 39.99,
-            "url": "https://www.monoprice.com/product?p_id=4074",
-            "product_id": 4074,
-            "available": false,
-            "rating": 2.9,
-            "num_reviews": 14
         },
         "40782": {
             "name": "DisplayPort 1.4 EasyPlug Nylon Braided Cable, 3ft, Gray",
@@ -34857,15 +34758,6 @@
             "rating": 4.5,
             "num_reviews": 158
         },
-        "4619": {
-            "name": "Monoprice Aria In-Ceiling Speakers, 6.5in Dual Input Stereo 2-Way (pair)",
-            "price": 89.99,
-            "url": "https://www.monoprice.com/product?p_id=4619",
-            "product_id": 4619,
-            "available": true,
-            "rating": 4.8,
-            "num_reviews": 85
-        },
         "4628": {
             "name": "Monoprice Single-Mode Fiber Optic Cable - SC/SC, UL, 9/125 Type, Duplex, Yellow, 2m, Corning",
             "price": 5.99,
@@ -34892,15 +34784,6 @@
             "available": true,
             "rating": 4.6,
             "num_reviews": 154
-        },
-        "4749": {
-            "name": "Monoprice 1.5ft Premier Series XLR Male to XLR Female 16AWG Cable (Gold Plated) [Microphone and Interconnect]",
-            "price": 3.74,
-            "url": "https://www.monoprice.com/product?p_id=4749",
-            "product_id": 4749,
-            "available": true,
-            "rating": 4.8,
-            "num_reviews": 1356
         },
         "4750": {
             "name": "Monoprice 3ft Premier Series XLR Male to XLR Female 16AWG Cable (Gold Plated) [Microphone and Interconnect]",
@@ -35037,24 +34920,6 @@
             "rating": 4.7,
             "num_reviews": 291
         },
-        "4766": {
-            "name": "Monoprice 50ft Premier Series XLR Male to 1/4in TRS Male Cable, 16AWG (Gold Plated)",
-            "price": 19.99,
-            "url": "https://www.monoprice.com/product?p_id=4766",
-            "product_id": 4766,
-            "available": false,
-            "rating": 4.7,
-            "num_reviews": 291
-        },
-        "4767": {
-            "name": "Monoprice 1.5ft Premier Series XLR Female to 1/4in TRS Male Cable, 16AWG (Gold Plated)",
-            "price": 3.99,
-            "url": "https://www.monoprice.com/product?p_id=4767",
-            "product_id": 4767,
-            "available": true,
-            "rating": 4.7,
-            "num_reviews": 202
-        },
         "4768": {
             "name": "Monoprice 3ft Premier Series XLR Female to 1/4in TRS Male Cable, 16AWG (Gold Plated)",
             "price": 4.49,
@@ -35145,30 +35010,12 @@
             "rating": 4.9,
             "num_reviews": 206
         },
-        "4777": {
-            "name": "Monoprice 6ft Premier Series XLR Male to RCA Male Cable, 16AWG (Gold Plated)",
-            "price": 12.99,
-            "url": "https://www.monoprice.com/product?p_id=4777",
-            "product_id": 4777,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 206
-        },
         "4778": {
             "name": "Monoprice 10ft Premier Series XLR Male to RCA Male Cable, 16AWG (Gold Plated)",
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=4778",
             "product_id": 4778,
             "available": true,
-            "rating": 4.9,
-            "num_reviews": 206
-        },
-        "4779": {
-            "name": "Monoprice 15ft Premier Series XLR Male to RCA Male Cable, 16AWG (Gold Plated)",
-            "price": 19.99,
-            "url": "https://www.monoprice.com/product?p_id=4779",
-            "product_id": 4779,
-            "available": false,
             "rating": 4.9,
             "num_reviews": 206
         },
@@ -35306,24 +35153,6 @@
             "available": true,
             "rating": 4.8,
             "num_reviews": 424
-        },
-        "4799": {
-            "name": "Monoprice 75ft Premier Series 1/4in TRS Male to Male Cable, 16AWG (Gold Plated)",
-            "price": 29.99,
-            "url": "https://www.monoprice.com/product?p_id=4799",
-            "product_id": 4799,
-            "available": true,
-            "rating": 4.8,
-            "num_reviews": 424
-        },
-        "4800": {
-            "name": "Monoprice 100ft Premier Series 1/4in TRS Male to Male Cable, 16AWG (Gold Plated)",
-            "price": 34.99,
-            "url": "https://www.monoprice.com/product?p_id=4800",
-            "product_id": 4800,
-            "available": true,
-            "rating": 4.8,
-            "num_reviews": 15
         },
         "4826": {
             "name": "Monoprice DisplayPort Male to HDMI Female Adapter",
@@ -35541,15 +35370,6 @@
             "rating": 4.9,
             "num_reviews": 3043
         },
-        "4992": {
-            "name": "Monoprice Cat5e 20ft Yellow Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
-            "price": 3.17,
-            "url": "https://www.monoprice.com/product?p_id=4992",
-            "product_id": 4992,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 3043
-        },
         "4993": {
             "name": "Monoprice Cat5e 30ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 6.99,
@@ -35702,24 +35522,6 @@
             "available": true,
             "rating": 4.8,
             "num_reviews": 534
-        },
-        "5133": {
-            "name": "Monoprice HDMI Port Saver Adapter (Male to Female), Swiveling Type",
-            "price": 4.49,
-            "url": "https://www.monoprice.com/product?p_id=5133",
-            "product_id": 5133,
-            "available": true,
-            "rating": 4.6,
-            "num_reviews": 208
-        },
-        "5135": {
-            "name": "Monoprice DisplayPort Male to VGA Female Active Adapter",
-            "price": 10.99,
-            "url": "https://www.monoprice.com/product?p_id=5135",
-            "product_id": 5135,
-            "available": true,
-            "rating": 4.6,
-            "num_reviews": 84
         },
         "5137": {
             "name": "Monoprice USB Type-A to Micro Type-B 2.0 Cable - 5-Pin, 28/28AWG, Black, 1.5ft",
@@ -36756,15 +36558,6 @@
             "rating": 4.6,
             "num_reviews": 1088
         },
-        "5586": {
-            "name": "Monoprice 3ft Premium 3.5mm Stereo Male to 3.5mm Stereo Female 22AWG Extension Cable (Gold Plated) - Black",
-            "price": 0.99,
-            "url": "https://www.monoprice.com/product?p_id=5586",
-            "product_id": 5586,
-            "available": true,
-            "rating": 4.2,
-            "num_reviews": 602
-        },
         "5587": {
             "name": "Monoprice 6ft Premium 3.5mm Stereo Male to 3.5mm Stereo Female 22AWG Extension Cable (Gold Plated) - Black",
             "price": 2.99,
@@ -36824,15 +36617,6 @@
             "price": 3.13,
             "url": "https://www.monoprice.com/product?p_id=5597",
             "product_id": 5597,
-            "available": true,
-            "rating": 4.7,
-            "num_reviews": 1349
-        },
-        "5598": {
-            "name": "Monoprice 6ft Premium 3.5mm Stereo Male to 2RCA Male 22AWG Cable (Gold Plated) - Black",
-            "price": 4.09,
-            "url": "https://www.monoprice.com/product?p_id=5598",
-            "product_id": 5598,
             "available": true,
             "rating": 4.7,
             "num_reviews": 1349
@@ -43041,6 +42825,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-14T07:03:09Z"
+        "timestamp": "2023-06-14T07:18:31Z"
     }
 }
