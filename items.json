@@ -17296,7 +17296,7 @@
             "product_id": 3373,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 3042
+            "num_reviews": 3043
         },
         "33733": {
             "name": "Monoprice Replacement Extruder Motor Feed Plate for the MP Select Mini (15365 and 21711) and MP Select Mini Pro (33012) 3D Printers",
@@ -38932,7 +38932,7 @@
             "product_id": 6979,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 189
+            "num_reviews": 190
         },
         "6980": {
             "name": "Monoprice Speaker Wall Mounting Bracket - Silver (Max 7.5LBS), Set of 2",
@@ -41936,7 +41936,7 @@
             "price": 7.49,
             "url": "https://www.monoprice.com/product?p_id=9440",
             "product_id": 9440,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 141
         },
@@ -43086,6 +43086,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-14T05:52:00Z"
+        "timestamp": "2023-06-14T06:08:47Z"
     }
 }
