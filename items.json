@@ -1510,7 +1510,7 @@
             "product_id": 11363,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 64
+            "num_reviews": 65
         },
         "11364": {
             "name": "Monoprice Cat5e 75ft Black Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
@@ -2651,7 +2651,7 @@
             "price": 114.99,
             "url": "https://www.monoprice.com/product?p_id=12763",
             "product_id": 12763,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 5
         },
@@ -43140,6 +43140,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-14T18:32:32Z"
+        "timestamp": "2023-06-14T18:42:21Z"
     }
 }
