@@ -29120,7 +29120,7 @@
             "price": 8.99,
             "url": "https://www.monoprice.com/product?p_id=41697",
             "product_id": 41697,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -29129,7 +29129,7 @@
             "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=41698",
             "product_id": 41698,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -30587,7 +30587,7 @@
             "price": 22.49,
             "url": "https://www.monoprice.com/product?p_id=42539",
             "product_id": 42539,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 58
         },
@@ -30895,7 +30895,7 @@
             "product_id": 42684,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 227
+            "num_reviews": 228
         },
         "42685": {
             "name": "Monoprice 8K Certified Braided Ultra High Speed HDMI Cable - HDMI 2.1, 8K@60Hz, 48Gbps, CL2 In-Wall Rated, 30AWG, 3ft, Black - 5 Pack",
@@ -32272,7 +32272,7 @@
             "product_id": 43189,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 59
+            "num_reviews": 60
         },
         "43190": {
             "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 18AWG, 10A, 3-Prong, SJT, White, 3ft",
@@ -33269,7 +33269,7 @@
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=43556",
             "product_id": 43556,
-            "available": true,
+            "available": false,
             "rating": 3.6,
             "num_reviews": 69
         },
@@ -33803,15 +33803,6 @@
             "available": false,
             "rating": 0,
             "num_reviews": 0
-        },
-        "44029": {
-            "name": "Monoprice 24in CrystalPro Monitor - 75Hz, 1920x1080, IPS",
-            "price": 149.99,
-            "url": "https://www.monoprice.com/product?p_id=44029",
-            "product_id": 44029,
-            "available": false,
-            "rating": 4.5,
-            "num_reviews": 12
         },
         "44047": {
             "name": "MPM Universal Stand Assist, Adjustable Couch Lift Assist, Standing Aid, Chair Assistance Handle Safety Grab Bar for Elderly, Seniors, Patients, Disabled Daily Living Mobility Aid",
@@ -43140,6 +43131,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-14T00:34:57Z"
+        "timestamp": "2023-06-14T02:06:36Z"
     }
 }
