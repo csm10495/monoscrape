@@ -13849,7 +13849,7 @@
             "product_id": 27930,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 126
+            "num_reviews": 127
         },
         "27931": {
             "name": "Monoprice Essentials USB Type-C to USB Type-A 2.0 Cable - 480Mbps, 3A, 26AWG, White, 1m (3.3ft)",
@@ -43113,6 +43113,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-14T17:33:56Z"
+        "timestamp": "2023-06-14T17:42:15Z"
     }
 }
