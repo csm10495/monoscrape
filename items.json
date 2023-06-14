@@ -15604,7 +15604,7 @@
             "product_id": 31077,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 70
+            "num_reviews": 71
         },
         "31087": {
             "name": "Monoprice Cat8 3ft Blue Patch Cable, Double Shielded (S/FTP), 24AWG, 2GHz, 40G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
@@ -15631,7 +15631,7 @@
             "product_id": 31089,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 70
+            "num_reviews": 71
         },
         "31097": {
             "name": "Monoprice Cat8 5ft Black Patch Cable, Double Shielded (S/FTP), 24AWG, 2GHz, 40G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
@@ -16628,7 +16628,7 @@
             "price": 149.99,
             "url": "https://www.monoprice.com/product?p_id=33394",
             "product_id": 33394,
-            "available": true,
+            "available": false,
             "rating": 4.4,
             "num_reviews": 57
         },
@@ -19382,7 +19382,7 @@
             "price": 11.97,
             "url": "https://www.monoprice.com/product?p_id=34775",
             "product_id": 34775,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1468
         },
@@ -19418,7 +19418,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=34784",
             "product_id": 34784,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 67
         },
@@ -19481,7 +19481,7 @@
             "price": 34.99,
             "url": "https://www.monoprice.com/product?p_id=34805",
             "product_id": 34805,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 67
         },
@@ -21632,7 +21632,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=38042",
             "product_id": 38042,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 9
         },
@@ -21641,7 +21641,7 @@
             "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=38043",
             "product_id": 38043,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 9
         },
@@ -21650,7 +21650,7 @@
             "price": 12.24,
             "url": "https://www.monoprice.com/product?p_id=38058",
             "product_id": 38058,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 12
         },
@@ -21785,7 +21785,7 @@
             "price": 12.24,
             "url": "https://www.monoprice.com/product?p_id=38092",
             "product_id": 38092,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 12
         },
@@ -21794,7 +21794,7 @@
             "price": 12.24,
             "url": "https://www.monoprice.com/product?p_id=38093",
             "product_id": 38093,
-            "available": true,
+            "available": false,
             "rating": 4.3,
             "num_reviews": 12
         },
@@ -21803,7 +21803,7 @@
             "price": 12.24,
             "url": "https://www.monoprice.com/product?p_id=38096",
             "product_id": 38096,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 13
         },
@@ -23693,7 +23693,7 @@
             "price": 26.49,
             "url": "https://www.monoprice.com/product?p_id=38879",
             "product_id": 38879,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 60
         },
@@ -25520,7 +25520,7 @@
             "price": 12.5,
             "url": "https://www.monoprice.com/product?p_id=39604",
             "product_id": 39604,
-            "available": true,
+            "available": false,
             "rating": 4.1,
             "num_reviews": 29
         },
@@ -25529,7 +25529,7 @@
             "price": 12.5,
             "url": "https://www.monoprice.com/product?p_id=39609",
             "product_id": 39609,
-            "available": true,
+            "available": false,
             "rating": 4.1,
             "num_reviews": 29
         },
@@ -25547,7 +25547,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=39612",
             "product_id": 39612,
-            "available": true,
+            "available": false,
             "rating": 4.1,
             "num_reviews": 22
         },
@@ -25934,7 +25934,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=39765",
             "product_id": 39765,
-            "available": true,
+            "available": false,
             "rating": 3.8,
             "num_reviews": 21
         },
@@ -25943,7 +25943,7 @@
             "price": 4.99,
             "url": "https://www.monoprice.com/product?p_id=39767",
             "product_id": 39767,
-            "available": true,
+            "available": false,
             "rating": 3.8,
             "num_reviews": 21
         },
@@ -43104,6 +43104,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-14T16:44:34Z"
+        "timestamp": "2023-06-14T16:52:23Z"
     }
 }
