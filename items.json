@@ -15595,7 +15595,7 @@
             "product_id": 31073,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 70
+            "num_reviews": 71
         },
         "31077": {
             "name": "Monoprice Entegrade Series Cat8 24AWG S/FTP Ethernet Network Cable, 2GHz, 40G, 1ft Purple",
@@ -15694,7 +15694,7 @@
             "product_id": 31187,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 397
+            "num_reviews": 399
         },
         "31188": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 3ft, Red",
@@ -16934,7 +16934,7 @@
             "price": 2.49,
             "url": "https://www.monoprice.com/product?p_id=33602",
             "product_id": 33602,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 354
         },
@@ -20669,7 +20669,7 @@
             "price": 174.99,
             "url": "https://www.monoprice.com/product?p_id=36045",
             "product_id": 36045,
-            "available": false,
+            "available": true,
             "rating": 3.8,
             "num_reviews": 22
         },
@@ -24809,7 +24809,7 @@
             "price": 10.99,
             "url": "https://www.monoprice.com/product?p_id=39393",
             "product_id": 39393,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 3
         },
@@ -43122,6 +43122,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-14T14:34:39Z"
+        "timestamp": "2023-06-14T14:42:06Z"
     }
 }
