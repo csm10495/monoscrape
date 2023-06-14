@@ -14869,7 +14869,7 @@
             "num_reviews": 10
         },
         "30551": {
-            "name": "Monoprice 2.1MP HD-TVI Turret Security Camera, 1920",
+            "name": "Monoprice 2.1MP HD-TVI Turret Security Camera,",
             "price": 38.99,
             "url": "https://www.monoprice.com/product?p_id=30551",
             "product_id": 30551,
@@ -16018,7 +16018,7 @@
             "product_id": 31305,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 232
+            "num_reviews": 234
         },
         "31313": {
             "name": "Monoprice Cat7 2ft Black Patch Cable, Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
@@ -17114,7 +17114,7 @@
             "price": 37.99,
             "url": "https://www.monoprice.com/product?p_id=33684",
             "product_id": 33684,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 16
         },
@@ -18428,7 +18428,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=34248",
             "product_id": 34248,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 76
         },
@@ -19391,7 +19391,7 @@
             "price": 11.97,
             "url": "https://www.monoprice.com/product?p_id=34775",
             "product_id": 34775,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1468
         },
@@ -22984,7 +22984,7 @@
             "product_id": 38626,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 43
+            "num_reviews": 44
         },
         "38627": {
             "name": "Monoprice 8K SlimRun AV Ultra High Speed HDMI Cable 30ft - AOC 48Gbps Black",
@@ -23263,7 +23263,7 @@
             "product_id": 38806,
             "available": true,
             "rating": 4.5,
-            "num_reviews": 88
+            "num_reviews": 89
         },
         "38807": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 1.5ft, Black",
@@ -23389,7 +23389,7 @@
             "product_id": 38822,
             "available": false,
             "rating": 4.5,
-            "num_reviews": 88
+            "num_reviews": 89
         },
         "38823": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, Black, 3ft+6ft+10ft Multipack",
@@ -24451,7 +24451,7 @@
             "product_id": 39165,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 142
+            "num_reviews": 143
         },
         "39166": {
             "name": "Monolith by Monoprice 4 Tier Audio Stand XL, Maple",
@@ -25369,7 +25369,7 @@
             "product_id": 39542,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 13604
+            "num_reviews": 13605
         },
         "39543": {
             "name": "Monoprice 4K High Speed HDMI Cable 3ft - 18Gbps Black - 5 Pack",
@@ -25441,7 +25441,7 @@
             "product_id": 39550,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13604
+            "num_reviews": 13605
         },
         "39551": {
             "name": "Monoprice 4K High Speed HDMI Cable 8ft - 18Gbps Black - 5 Pack",
@@ -25547,7 +25547,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=39611",
             "product_id": 39611,
-            "available": true,
+            "available": false,
             "rating": 4.1,
             "num_reviews": 22
         },
@@ -25565,7 +25565,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=39617",
             "product_id": 39617,
-            "available": true,
+            "available": false,
             "rating": 4.1,
             "num_reviews": 22
         },
@@ -43140,6 +43140,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-14T18:52:23Z"
+        "timestamp": "2023-06-14T19:02:41Z"
     }
 }
