@@ -28994,7 +28994,7 @@
             "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=41663",
             "product_id": 41663,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 3
         },
@@ -29933,15 +29933,6 @@
             "available": true,
             "rating": 4.5,
             "num_reviews": 8
-        },
-        "42087": {
-            "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 16AWG, 13A/1625W, 125V, 3-Prong, SJT, Black, 1ft",
-            "price": 0.74,
-            "url": "https://www.monoprice.com/product?p_id=42087",
-            "product_id": 42087,
-            "available": false,
-            "rating": 4.7,
-            "num_reviews": 38
         },
         "42089": {
             "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 16AWG, 13A/1625W, 125V, 3-Prong, SJT, Red, 1ft",
@@ -31203,15 +31194,6 @@
             "rating": 5,
             "num_reviews": 30
         },
-        "42848": {
-            "name": "Monolith by Monoprice M-12 V2 12in THX Certified Ultra 500-Watt Powered Subwoofer, Piano Black Finish",
-            "price": 1099.99,
-            "url": "https://www.monoprice.com/product?p_id=42848",
-            "product_id": 42848,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 1
-        },
         "42851": {
             "name": "Monolith by Monoprice M-15 V2 15in THX Certified Ultra 1000-Watt Powered Subwoofer",
             "price": 1499.99,
@@ -31220,15 +31202,6 @@
             "available": true,
             "rating": 4.8,
             "num_reviews": 22
-        },
-        "42852": {
-            "name": "Monolith by Monoprice M-15 V2 15in THX Certified Ultra 1000-Watt Subwoofer Amplifier, Piano Black Finish",
-            "price": 1699.99,
-            "url": "https://www.monoprice.com/product?p_id=42852",
-            "product_id": 42852,
-            "available": false,
-            "rating": 5,
-            "num_reviews": 1
         },
         "42862": {
             "name": "Facial Massager, High Frequency Facial Machine, Face Tightening \u0026 Lifting Machine , Face Lifting Tightening Remover Wrinkle",
@@ -34449,8 +34422,8 @@
             "url": "https://www.monoprice.com/product?p_id=44467",
             "product_id": 44467,
             "available": true,
-            "rating": 1,
-            "num_reviews": 1
+            "rating": 3,
+            "num_reviews": 2
         },
         "44468": {
             "name": "Monoprice 30W USB-C Fast Wall Charger",
@@ -43131,6 +43104,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-14T15:42:37Z"
+        "timestamp": "2023-06-14T15:52:16Z"
     }
 }
