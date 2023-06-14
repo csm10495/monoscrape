@@ -41488,7 +41488,7 @@
             "product_id": 8782,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 251
+            "num_reviews": 252
         },
         "8783": {
             "name": "Monoprice 18in SATA 6Gbps Cable with Locking Latch (90-degree to 180-degree), Blue",
@@ -43140,6 +43140,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-14T23:27:03Z"
+        "timestamp": "2023-06-14T23:33:07Z"
     }
 }
