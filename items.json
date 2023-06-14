@@ -27043,7 +27043,7 @@
             "product_id": 4023,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13604
+            "num_reviews": 13605
         },
         "40230": {
             "name": "Monoprice 10-Inch Powered Studio Multimedia Subwoofer (clearance)",
@@ -35503,7 +35503,7 @@
             "product_id": 4867,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 1926
+            "num_reviews": 1927
         },
         "4868": {
             "name": "Monoprice USB Type-A to Micro Type-B 2.0 Cable - 5-Pin, 28/28AWG, Black, 6ft",
@@ -43167,6 +43167,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-14T22:29:05Z"
+        "timestamp": "2023-06-14T22:34:50Z"
     }
 }
