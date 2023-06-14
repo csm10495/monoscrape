@@ -16881,8 +16881,8 @@
             "url": "https://www.monoprice.com/product?p_id=33570",
             "product_id": 33570,
             "available": true,
-            "rating": 4.4,
-            "num_reviews": 9
+            "rating": 4.5,
+            "num_reviews": 10
         },
         "33572": {
             "name": "Monoprice Mobile Series USB-C to HDMI",
@@ -21411,6 +21411,15 @@
             "rating": 3.7,
             "num_reviews": 27
         },
+        "36667": {
+            "name": "Monolith by Monoprice Liquid Spark Headphone Amplifier by Alex Cavalli (Open Box)",
+            "price": 79.99,
+            "url": "https://www.monoprice.com/product?p_id=36667",
+            "product_id": 36667,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 4
+        },
         "36735": {
             "name": "Monolith by Monoprice Liquid Platinum Headphone Amplifier by Alex Cavalli (Open Box)",
             "price": 419,
@@ -22789,7 +22798,7 @@
             "num_reviews": 4
         },
         "38581": {
-            "name": "Monoprice SlimRun AV USB 3.1 Type-C to Type-C Video-Only Cable, 100ft, 4K",
+            "name": "Monoprice SlimRun AV USB 3.1 Type-C to Type-C Video-Only Cable, 100ft,",
             "price": 177.99,
             "url": "https://www.monoprice.com/product?p_id=38581",
             "product_id": 38581,
@@ -26375,7 +26384,7 @@
             "price": 2.99,
             "url": "https://www.monoprice.com/product?p_id=39921",
             "product_id": 39921,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 1588
         },
@@ -43158,6 +43167,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-14T20:52:34Z"
+        "timestamp": "2023-06-14T21:03:36Z"
     }
 }
