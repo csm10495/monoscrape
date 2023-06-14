@@ -27072,6 +27072,15 @@
             "rating": 4.9,
             "num_reviews": 13604
         },
+        "40294": {
+            "name": "2U Supporting Tray 400mm Shelf for Cabinet - GSA Approved",
+            "price": 27.49,
+            "url": "https://www.monoprice.com/product?p_id=40294",
+            "product_id": 40294,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 1
+        },
         "40299": {
             "name": "Cabinet Supporting Bar (Pair) 1.4 x 1.5 x 21.7 in - GSA Approved",
             "price": 16.49,
@@ -28905,8 +28914,8 @@
             "url": "https://www.monoprice.com/product?p_id=41500",
             "product_id": 41500,
             "available": true,
-            "rating": 4.3,
-            "num_reviews": 101
+            "rating": 4.2,
+            "num_reviews": 102
         },
         "41527": {
             "name": "netis 24-Port Unmanaged 10/100/1000 Mbps Gigabit Ethernet Switch, Rack Mountable, Fanless, Commercial Grade Steel Enclosure",
@@ -30830,7 +30839,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=42681",
             "product_id": 42681,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 228
         },
@@ -33977,7 +33986,7 @@
         },
         "44315": {
             "name": "Monoprice 3-Outlet Flat Plug Household Extension Cord, 16AWG, 13A,  SPT-2, Black, 6ft",
-            "price": 8.99,
+            "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=44315",
             "product_id": 44315,
             "available": false,
@@ -33986,7 +33995,7 @@
         },
         "44316": {
             "name": "Monoprice 3-Outlet Flat Plug Household Extension Cord, 16AWG, 13A,  SPT-2, White, 6ft",
-            "price": 8.09,
+            "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=44316",
             "product_id": 44316,
             "available": true,
@@ -33995,7 +34004,7 @@
         },
         "44317": {
             "name": "Monoprice 3-Outlet Flat Plug Household Extension Cord, 16AWG, 13A,  SPT-2, Black, 10ft",
-            "price": 11.99,
+            "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=44317",
             "product_id": 44317,
             "available": false,
@@ -34004,7 +34013,7 @@
         },
         "44318": {
             "name": "Monoprice 3-Outlet Flat Plug Household Extension Cord, 16AWG, 13A,  SPT-2, White, 10ft",
-            "price": 10.79,
+            "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=44318",
             "product_id": 44318,
             "available": true,
@@ -34013,7 +34022,7 @@
         },
         "44319": {
             "name": "Monoprice Coiled Power Extension Cord, 16AWG, 13A, SJT, Orange, Expands from 3ft to 10ft",
-            "price": 14.38,
+            "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=44319",
             "product_id": 44319,
             "available": true,
@@ -34022,7 +34031,7 @@
         },
         "44320": {
             "name": "Monoprice Outdoor Extension Cord - NEMA 5-15P to NEMA 5-15R, 14AWG, 15A, SJTW, Yellow, 25ft",
-            "price": 13.49,
+            "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=44320",
             "product_id": 44320,
             "available": true,
@@ -34031,7 +34040,7 @@
         },
         "44321": {
             "name": "Monoprice Outdoor Extension Cord - NEMA 5-15P to NEMA 5-15R, 14AWG, 15A, SJTW, Yellow, 50ft",
-            "price": 26.98,
+            "price": 24.99,
             "url": "https://www.monoprice.com/product?p_id=44321",
             "product_id": 44321,
             "available": true,
@@ -34040,7 +34049,7 @@
         },
         "44322": {
             "name": "Monoprice Outdoor Extension Cord - NEMA 5-15P to NEMA 5-15R, 14AWG, 15A, SJTW, Yellow, 100ft",
-            "price": 38.68,
+            "price": 42.99,
             "url": "https://www.monoprice.com/product?p_id=44322",
             "product_id": 44322,
             "available": true,
@@ -43104,6 +43113,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-14T16:52:23Z"
+        "timestamp": "2023-06-14T17:03:25Z"
     }
 }
