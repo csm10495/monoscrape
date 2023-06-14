@@ -27549,6 +27549,15 @@
             "rating": 2.9,
             "num_reviews": 14
         },
+        "40749": {
+            "name": "Monolith by Monoprice M570 Over Ear Open Back Planar Headphone (Open Box)",
+            "price": 89.39,
+            "url": "https://www.monoprice.com/product?p_id=40749",
+            "product_id": 40749,
+            "available": true,
+            "rating": 5,
+            "num_reviews": 1
+        },
         "40782": {
             "name": "DisplayPort 1.4 EasyPlug Nylon Braided Cable, 3ft, Gray",
             "price": 6.36,
@@ -27726,6 +27735,15 @@
             "url": "https://www.monoprice.com/product?p_id=40886",
             "product_id": 40886,
             "available": false,
+            "rating": 4.7,
+            "num_reviews": 57
+        },
+        "40887": {
+            "name": "Monoprice FLEXboot Flat Cat6 Ethernet Patch Cable - Snagless RJ45, Flat, 550MHz, UTP, Pure Bare Copper Wire, 30AWG, 20ft, Black",
+            "price": 4.49,
+            "url": "https://www.monoprice.com/product?p_id=40887",
+            "product_id": 40887,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 57
         },
@@ -34031,7 +34049,7 @@
         },
         "44319": {
             "name": "Monoprice Coiled Power Extension Cord, 16AWG, 13A, SJT, Orange, Expands from 3ft to 10ft",
-            "price": 15.99,
+            "price": 14.38,
             "url": "https://www.monoprice.com/product?p_id=44319",
             "product_id": 44319,
             "available": true,
@@ -34040,7 +34058,7 @@
         },
         "44320": {
             "name": "Monoprice Outdoor Extension Cord - NEMA 5-15P to NEMA 5-15R, 14AWG, 15A, SJTW, Yellow, 25ft",
-            "price": 14.99,
+            "price": 13.49,
             "url": "https://www.monoprice.com/product?p_id=44320",
             "product_id": 44320,
             "available": true,
@@ -34058,7 +34076,7 @@
         },
         "44322": {
             "name": "Monoprice Outdoor Extension Cord - NEMA 5-15P to NEMA 5-15R, 14AWG, 15A, SJTW, Yellow, 100ft",
-            "price": 42.99,
+            "price": 38.68,
             "url": "https://www.monoprice.com/product?p_id=44322",
             "product_id": 44322,
             "available": true,
@@ -43122,6 +43140,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-14T17:52:32Z"
+        "timestamp": "2023-06-14T18:08:05Z"
     }
 }
