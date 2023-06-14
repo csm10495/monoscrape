@@ -11079,15 +11079,6 @@
             "rating": 4.9,
             "num_reviews": 3400
         },
-        "2319": {
-            "name": "Monoprice Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 25ft, Yellow",
-            "price": 3.99,
-            "url": "https://www.monoprice.com/product?p_id=2319",
-            "product_id": 2319,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 3400
-        },
         "2320": {
             "name": "Monoprice Cat6 25ft White Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 7.99,
@@ -12680,6 +12671,15 @@
             "available": true,
             "rating": 4.9,
             "num_reviews": 13605
+        },
+        "2537": {
+            "name": "Monoprice 15ft PS/2 MDIN-6 Male to Male Cable",
+            "price": 2.99,
+            "url": "https://www.monoprice.com/product?p_id=2537",
+            "product_id": 2537,
+            "available": false,
+            "rating": 4.6,
+            "num_reviews": 30
         },
         "2601": {
             "name": "Monoprice OM1 Fiber Optic Cable - ST/ST, UL, 62.5/125 Type, Multi-Mode, Orange, 1m, Corning",
@@ -28229,7 +28229,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=4121",
             "product_id": 4121,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 71
         },
@@ -35523,6 +35523,15 @@
             "rating": 5,
             "num_reviews": 13
         },
+        "4899": {
+            "name": "Monoprice Single-Mode Fiber Optic Cable - LC/SC, UL, 9/125 Type, Duplex, Yellow, 10m, Corning",
+            "price": 5.99,
+            "url": "https://www.monoprice.com/product?p_id=4899",
+            "product_id": 4899,
+            "available": false,
+            "rating": 4.9,
+            "num_reviews": 24
+        },
         "4928": {
             "name": "Monoprice Aria In-Wall Speaker, 10in Passive Subwoofer, 200 watts max (single)",
             "price": 59.99,
@@ -37933,7 +37942,7 @@
             "product_id": 6358,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 200
+            "num_reviews": 201
         },
         "6359": {
             "name": "Monoprice 3ft Ultra Slim SVGA Super VGA 30/32AWG M/M Monitor Cable with Ferrites (Gold Plated Connector)",
@@ -38606,7 +38615,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=659",
             "product_id": 659,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 143
         },
@@ -41193,6 +41202,15 @@
             "rating": 4.5,
             "num_reviews": 71
         },
+        "8628": {
+            "name": "Monoprice Wall Mount Bracket, 12.25in x 19in x 12in, 7U",
+            "price": 42.99,
+            "url": "https://www.monoprice.com/product?p_id=8628",
+            "product_id": 8628,
+            "available": true,
+            "rating": 4.5,
+            "num_reviews": 71
+        },
         "8629": {
             "name": "Monoprice Single Sided Shelf, 3.5(H) x 14.5(D) x 19(W), 50 lbs.",
             "price": 27.99,
@@ -43131,6 +43149,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-14T15:04:12Z"
+        "timestamp": "2023-06-14T15:20:41Z"
     }
 }
