@@ -27513,15 +27513,6 @@
             "rating": 2.9,
             "num_reviews": 14
         },
-        "40749": {
-            "name": "Monolith by Monoprice M570 Over Ear Open Back Planar Headphone (Open Box)",
-            "price": 89.39,
-            "url": "https://www.monoprice.com/product?p_id=40749",
-            "product_id": 40749,
-            "available": true,
-            "rating": 5,
-            "num_reviews": 1
-        },
         "40782": {
             "name": "DisplayPort 1.4 EasyPlug Nylon Braided Cable, 3ft, Gray",
             "price": 6.36,
@@ -32254,7 +32245,7 @@
             "product_id": 43191,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 59
+            "num_reviews": 60
         },
         "43192": {
             "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 14AWG, 15A, SJT, 100-250V, White, 2ft",
@@ -43095,6 +43086,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-14T05:35:27Z"
+        "timestamp": "2023-06-14T05:42:17Z"
     }
 }
