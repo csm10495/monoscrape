@@ -9646,7 +9646,7 @@
             "product_id": 2136,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 3042
+            "num_reviews": 3043
         },
         "2137": {
             "name": "Monoprice Cat5e 7ft Purple Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -27061,7 +27061,7 @@
             "product_id": 4027,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13604
+            "num_reviews": 13605
         },
         "4029": {
             "name": "Monoprice 4K High Speed HDMI Cable 10ft - 18Gbps White",
@@ -28211,7 +28211,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=4121",
             "product_id": 4121,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 71
         },
@@ -37868,7 +37868,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=6315",
             "product_id": 6315,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 952
         },
@@ -43104,6 +43104,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-14T16:08:18Z"
+        "timestamp": "2023-06-14T16:28:31Z"
     }
 }
