@@ -8809,7 +8809,7 @@
             "product_id": 16357,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 29
+            "num_reviews": 30
         },
         "16358": {
             "name": "Workstream by Monoprice Corner Multimedia Desktop Monitor Stand, Black Glass",
@@ -43122,6 +43122,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-14T11:32:41Z"
+        "timestamp": "2023-06-14T11:42:05Z"
     }
 }
