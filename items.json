@@ -21454,7 +21454,7 @@
             "product_id": 37877,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 11
+            "num_reviews": 12
         },
         "37878": {
             "name": "Workstream by Monoprice Rolling Round Corner 3-Drawer File Cabinet, Gray",
@@ -22165,7 +22165,7 @@
             "product_id": 38302,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 397
+            "num_reviews": 398
         },
         "38303": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, White",
@@ -43095,6 +43095,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-14T05:29:24Z"
+        "timestamp": "2023-06-14T05:35:27Z"
     }
 }
