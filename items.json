@@ -11401,7 +11401,7 @@
             "product_id": 24191,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 59
+            "num_reviews": 60
         },
         "24192": {
             "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 14AWG, 15A/1875W, 3-Prong, Black, 3ft",
@@ -12985,7 +12985,7 @@
             "product_id": 27293,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 59
+            "num_reviews": 60
         },
         "27309": {
             "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 16AWG, 13A/1625W, 3-Prong, SJT, Black, 2ft",
@@ -43050,6 +43050,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-14T08:32:42Z"
+        "timestamp": "2023-06-14T08:42:07Z"
     }
 }
