@@ -16632,15 +16632,6 @@
             "rating": 4.4,
             "num_reviews": 57
         },
-        "33394": {
-            "name": "Monoprice Soundstage3 120 Watt TrueWireless Stereo (TWS) Bluetooth Speaker with Qualcomm aptX Audio, White",
-            "price": 149.99,
-            "url": "https://www.monoprice.com/product?p_id=33394",
-            "product_id": 33394,
-            "available": true,
-            "rating": 4.4,
-            "num_reviews": 57
-        },
         "3340": {
             "name": "Monoprice 35ft Super VGA HD15 M/M CL2 Rated Cable with Stereo Audio and Triple Shielding (Gold Plated)",
             "price": 11.39,
@@ -16947,15 +16938,6 @@
             "rating": 4.9,
             "num_reviews": 354
         },
-        "33608": {
-            "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 18AWG, 10A/1250W, 3-Prong, SJT, Red, 2ft",
-            "price": 2.23,
-            "url": "https://www.monoprice.com/product?p_id=33608",
-            "product_id": 33608,
-            "available": true,
-            "rating": 4.9,
-            "num_reviews": 60
-        },
         "33610": {
             "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 18AWG, 10A/1250W, 3-Prong, SJT, Blue, 2ft",
             "price": 1.65,
@@ -17127,24 +17109,6 @@
             "rating": 4.6,
             "num_reviews": 16
         },
-        "33686": {
-            "name": "Monoprice Replacement Print Bed for the MP Mini Delta 3D Printer (21666)",
-            "price": 13.99,
-            "url": "https://www.monoprice.com/product?p_id=33686",
-            "product_id": 33686,
-            "available": false,
-            "rating": 4.5,
-            "num_reviews": 2
-        },
-        "33687": {
-            "name": "Monoprice Replacement Build Sheet for the MP Mini Delta 3D Printer (21666)",
-            "price": 5.05,
-            "url": "https://www.monoprice.com/product?p_id=33687",
-            "product_id": 33687,
-            "available": false,
-            "rating": 4.4,
-            "num_reviews": 12
-        },
         "33688": {
             "name": "Monoprice Replacement Effector Plate Kit for the PM Mini Delta 3D Printer (21666)",
             "price": 21.99,
@@ -17168,24 +17132,6 @@
             "price": 26.79,
             "url": "https://www.monoprice.com/product?p_id=33691",
             "product_id": 33691,
-            "available": true,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "33692": {
-            "name": "Monoprice Replacement Display Control Board for the MP Mini Delta 3D Printer (21666)",
-            "price": 8.73,
-            "url": "https://www.monoprice.com/product?p_id=33692",
-            "product_id": 33692,
-            "available": true,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "33693": {
-            "name": "Monoprice Replacement Extruder Stepper Motor for the MP Mini Delta 3D Printer (21666)",
-            "price": 6.47,
-            "url": "https://www.monoprice.com/product?p_id=33693",
-            "product_id": 33693,
             "available": true,
             "rating": 0,
             "num_reviews": 0
@@ -17235,15 +17181,6 @@
             "rating": 0,
             "num_reviews": 0
         },
-        "33702": {
-            "name": "Monoprice Replacement 30x30x10mm Fan for the MP Mini Delta 3D Printer (21666)",
-            "price": 5.99,
-            "url": "https://www.monoprice.com/product?p_id=33702",
-            "product_id": 33702,
-            "available": false,
-            "rating": 3.5,
-            "num_reviews": 2
-        },
         "33707": {
             "name": "Monoprice Replacement Extruder Gear for the MP Mini Delta 3D Printer (21666)",
             "price": 2.09,
@@ -17261,15 +17198,6 @@
             "available": false,
             "rating": 0,
             "num_reviews": 0
-        },
-        "33715": {
-            "name": "Monoprice Replacement UI Control Board With Display for the MP Select Mini 3D Printer V2 (15365 and 21711)",
-            "price": 39.99,
-            "url": "https://www.monoprice.com/product?p_id=33715",
-            "product_id": 33715,
-            "available": false,
-            "rating": 4,
-            "num_reviews": 1
         },
         "33717": {
             "name": "Monoprice Replacement X/Y Axis Stepper Motor for the MP Select Mini (15365 and 21711) and MP Select Mini PRO (33012) 3D Printers",
@@ -17486,6 +17414,15 @@
             "available": true,
             "rating": 4.7,
             "num_reviews": 23
+        },
+        "33811": {
+            "name": "Workstream by Monoprice Desk Clamp Holder for Surge Protectors, Power Strips, USB Hubs",
+            "price": 12.99,
+            "url": "https://www.monoprice.com/product?p_id=33811",
+            "product_id": 33811,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 5
         },
         "33813": {
             "name": "Workstream by Monoprice Adjustable Folding Laptop Stand, Steel",
@@ -42897,6 +42834,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-14T07:32:36Z"
+        "timestamp": "2023-06-14T07:42:30Z"
     }
 }
