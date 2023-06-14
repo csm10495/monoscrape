@@ -26836,7 +26836,7 @@
             "product_id": 40104,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 59
+            "num_reviews": 60
         },
         "40106": {
             "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 16AWG, 13A/1625W, 3-Prong, SJT, Black, 25ft",
@@ -27448,7 +27448,7 @@
             "product_id": 40540,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 251
+            "num_reviews": 252
         },
         "40541": {
             "name": "Monoprice 36in SATA 6Gbps Cable with Locking Latch - Red 10-Pack",
@@ -29041,7 +29041,7 @@
             "product_id": 41686,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 59
+            "num_reviews": 60
         },
         "41687": {
             "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, H05VV-F 3G 0.75 mm",
@@ -32272,7 +32272,7 @@
             "product_id": 43190,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 59
+            "num_reviews": 60
         },
         "43191": {
             "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 18AWG, 10A, 3-Prong, SJT, White, 6ft",
@@ -43122,6 +43122,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-14T11:03:10Z"
+        "timestamp": "2023-06-14T11:17:24Z"
     }
 }
