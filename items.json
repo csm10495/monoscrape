@@ -28433,7 +28433,7 @@
         },
         "41312": {
             "name": "Monolith by Monoprice THX AAA Balanced Headphone Amplifier featuring THX AAA 887 Technology (open box)",
-            "price": 340,
+            "price": 179,
             "url": "https://www.monoprice.com/product?p_id=41312",
             "product_id": 41312,
             "available": true,
@@ -33217,7 +33217,7 @@
             "product_id": 43563,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 24
+            "num_reviews": 25
         },
         "43564": {
             "name": "Monoprice Home Office Fixed Steel Frame Computer Desk with Solid-Core 4-foot Desktop and Accessory Attachments, Black",
@@ -33544,7 +33544,7 @@
             "num_reviews": 10
         },
         "43790": {
-            "name": "Monoprice 7-in-1 USB-C Multiport 4K",
+            "name": "Monoprice 7-in-1 USB-C Multiport",
             "price": 39.99,
             "url": "https://www.monoprice.com/product?p_id=43790",
             "product_id": 43790,
@@ -43086,6 +43086,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-15T21:18:01Z"
+        "timestamp": "2023-06-15T21:24:09Z"
     }
 }
