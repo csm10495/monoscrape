@@ -26892,6 +26892,15 @@
             "rating": 5,
             "num_reviews": 8
         },
+        "40119": {
+            "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 14AWG, 15A/1875W, 3-Prong, Red, 6ft",
+            "price": 7.49,
+            "url": "https://www.monoprice.com/product?p_id=40119",
+            "product_id": 40119,
+            "available": false,
+            "rating": 5,
+            "num_reviews": 8
+        },
         "4012": {
             "name": "Monoprice 2-Gang 5.1 Surround Sound Distribution Wall Plate",
             "price": 10.49,
@@ -43113,6 +43122,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-15T05:34:37Z"
+        "timestamp": "2023-06-15T05:42:13Z"
     }
 }
