@@ -43109,19 +43109,10 @@
             "available": false,
             "rating": 3.8,
             "num_reviews": 170
-        },
-        "9995": {
-            "name": "Monoprice 4-Channel Speaker Selector",
-            "price": 19.24,
-            "url": "https://www.monoprice.com/product?p_id=9995",
-            "product_id": 9995,
-            "available": true,
-            "rating": 4.6,
-            "num_reviews": 118
         }
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-15T04:52:03Z"
+        "timestamp": "2023-06-15T05:04:27Z"
     }
 }
