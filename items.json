@@ -1602,15 +1602,6 @@
             "rating": 4.8,
             "num_reviews": 461
         },
-        "11383": {
-            "name": "Monoprice Cat5e 7ft Gray Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
-            "price": 1.84,
-            "url": "https://www.monoprice.com/product?p_id=11383",
-            "product_id": 11383,
-            "available": true,
-            "rating": 4.8,
-            "num_reviews": 461
-        },
         "11384": {
             "name": "Monoprice Cat5e 7ft Green Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
             "price": 2.49,
@@ -7727,7 +7718,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=15882",
             "product_id": 15882,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 20
         },
@@ -43095,6 +43086,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-15T20:42:17Z"
+        "timestamp": "2023-06-15T20:52:02Z"
     }
 }
