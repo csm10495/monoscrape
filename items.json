@@ -15739,7 +15739,7 @@
             "product_id": 31191,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 397
+            "num_reviews": 399
         },
         "31192": {
             "name": "Monoprice AtlasFlex Series Durable Apple MFi Certified Lightning to USB Type-A Charge and Sync Kevlar-Reinforced Nylon-Braid Cable, 6ft, Black",
@@ -25522,7 +25522,7 @@
             "product_id": 39557,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13604
+            "num_reviews": 13605
         },
         "39572": {
             "name": "Monoprice 4K Slim High Speed HDMI Cable 6ft - 18Gbps Black - 3 Pack",
@@ -43122,6 +43122,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-15T08:41:58Z"
+        "timestamp": "2023-06-15T08:52:07Z"
     }
 }
