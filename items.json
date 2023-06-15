@@ -17123,7 +17123,7 @@
             "price": 37.99,
             "url": "https://www.monoprice.com/product?p_id=33684",
             "product_id": 33684,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 16
         },
@@ -23272,7 +23272,7 @@
             "product_id": 38805,
             "available": false,
             "rating": 4.5,
-            "num_reviews": 88
+            "num_reviews": 89
         },
         "38806": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, 10ft, Red",
@@ -25369,7 +25369,7 @@
             "product_id": 39540,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13604
+            "num_reviews": 13605
         },
         "39541": {
             "name": "Monoprice 4K High Speed HDMI Cable 1.5ft - 18Gbps Black - 5 Pack",
@@ -43140,6 +43140,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-14T23:51:57Z"
+        "timestamp": "2023-06-15T00:33:32Z"
     }
 }
