@@ -26834,7 +26834,7 @@
             "price": 14.99,
             "url": "https://www.monoprice.com/product?p_id=40106",
             "product_id": 40106,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 38
         },
@@ -27167,7 +27167,7 @@
             "price": 159.99,
             "url": "https://www.monoprice.com/product?p_id=40372",
             "product_id": 40372,
-            "available": true,
+            "available": false,
             "rating": 4.2,
             "num_reviews": 69
         },
@@ -27725,7 +27725,7 @@
             "price": 4.49,
             "url": "https://www.monoprice.com/product?p_id=40887",
             "product_id": 40887,
-            "available": true,
+            "available": false,
             "rating": 4.7,
             "num_reviews": 57
         },
@@ -28562,7 +28562,7 @@
             "price": 87.99,
             "url": "https://www.monoprice.com/product?p_id=41377",
             "product_id": 41377,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1855
         },
@@ -28598,7 +28598,7 @@
             "price": 104.99,
             "url": "https://www.monoprice.com/product?p_id=41381",
             "product_id": 41381,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 1855
         },
@@ -32081,7 +32081,7 @@
             "price": 199.99,
             "url": "https://www.monoprice.com/product?p_id=43158",
             "product_id": 43158,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 3
         },
@@ -32441,7 +32441,7 @@
             "price": 19.79,
             "url": "https://www.monoprice.com/product?p_id=43221",
             "product_id": 43221,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 30
         },
@@ -33008,7 +33008,7 @@
             "price": 2.37,
             "url": "https://www.monoprice.com/product?p_id=43425",
             "product_id": 43425,
-            "available": true,
+            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -34719,15 +34719,6 @@
             "url": "https://www.monoprice.com/product?p_id=44583",
             "product_id": 44583,
             "available": true,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "44585": {
-            "name": "Monolith by Monoprice M-10 V2 10in THX Certified Select 500 Watt Powered Subwoofer (Open Box)",
-            "price": 349.99,
-            "url": "https://www.monoprice.com/product?p_id=44585",
-            "product_id": 44585,
-            "available": false,
             "rating": 0,
             "num_reviews": 0
         },
@@ -43122,6 +43113,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-15T19:14:55Z"
+        "timestamp": "2023-06-15T19:22:07Z"
     }
 }
