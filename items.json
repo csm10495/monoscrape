@@ -17728,7 +17728,7 @@
             "product_id": 33878,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 213
+            "num_reviews": 214
         },
         "33879": {
             "name": "Monoprice MP Select PLA Plus+ Premium 3D Filament 1.75mm 1kg/spool, Yellow",
@@ -18909,15 +18909,6 @@
             "rating": 5,
             "num_reviews": 2
         },
-        "34488": {
-            "name": "2-Gang Décor Wall Plate, White",
-            "price": 1.04,
-            "url": "https://www.monoprice.com/product?p_id=34488",
-            "product_id": 34488,
-            "available": true,
-            "rating": 3.7,
-            "num_reviews": 3
-        },
         "3449": {
             "name": "Monoprice Premium S/PDIF (Toslink) Digital Optical Audio Cable, 100ft",
             "price": 35.32,
@@ -18989,15 +18980,6 @@
             "available": false,
             "rating": 2.5,
             "num_reviews": 4
-        },
-        "34515": {
-            "name": "Décor Insert for Keystone, 4 Hole, White",
-            "price": 0.59,
-            "url": "https://www.monoprice.com/product?p_id=34515",
-            "product_id": 34515,
-            "available": true,
-            "rating": 3.7,
-            "num_reviews": 3
         },
         "34518": {
             "name": "Décor Insert for Keystone, 6 Hole, White",
@@ -19115,15 +19097,6 @@
             "available": false,
             "rating": 4.8,
             "num_reviews": 18
-        },
-        "34577": {
-            "name": "MP10 300x300mm Build Plate 3d Printer EU",
-            "price": 174.99,
-            "url": "https://www.monoprice.com/product?p_id=34577",
-            "product_id": 34577,
-            "available": true,
-            "rating": 0,
-            "num_reviews": 0
         },
         "34597": {
             "name": "Monoprice MP Rapid UV 3D Printer Resin, 500ml, Black",
@@ -19376,15 +19349,6 @@
             "available": true,
             "rating": 4.2,
             "num_reviews": 196
-        },
-        "34739": {
-            "name": "Monolith by Monoprice M600 Open Back Over Ear Headphones (Open Box)",
-            "price": 99,
-            "url": "https://www.monoprice.com/product?p_id=34739",
-            "product_id": 34739,
-            "available": true,
-            "rating": 5,
-            "num_reviews": 1
         },
         "34775": {
             "name": "FLEXboot Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 10m, White, 5 pack",
@@ -19733,24 +19697,6 @@
             "price": 6.36,
             "url": "https://www.monoprice.com/product?p_id=34882",
             "product_id": 34882,
-            "available": true,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "34887": {
-            "name": "USB-A to USB-B 2.0 Cable - Black, 2m - 3 pack",
-            "price": 8.98,
-            "url": "https://www.monoprice.com/product?p_id=34887",
-            "product_id": 34887,
-            "available": true,
-            "rating": 0,
-            "num_reviews": 0
-        },
-        "34891": {
-            "name": "USB-A to USB-A (F) 2.0 Cable - Black, 0.5m - 3 pack",
-            "price": 5.69,
-            "url": "https://www.monoprice.com/product?p_id=34891",
-            "product_id": 34891,
             "available": true,
             "rating": 0,
             "num_reviews": 0
@@ -23407,7 +23353,7 @@
             "product_id": 38823,
             "available": false,
             "rating": 4.5,
-            "num_reviews": 88
+            "num_reviews": 89
         },
         "38824": {
             "name": "Monoprice Stealth Charge \u0026 Sync USB 2.0 Type-C to Type-C Cable, Up to 3A/60W, White, 3ft+6ft+10ft Multipack",
@@ -23470,7 +23416,7 @@
             "product_id": 38833,
             "available": false,
             "rating": 4.5,
-            "num_reviews": 88
+            "num_reviews": 89
         },
         "38834": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 6ft, White, 3-Pack",
@@ -25387,7 +25333,7 @@
             "product_id": 39543,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13604
+            "num_reviews": 13605
         },
         "39544": {
             "name": "Monoprice 4K High Speed HDMI Cable 4ft - 18Gbps Black - 3 Pack",
@@ -26224,7 +26170,7 @@
             "product_id": 39907,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 1926
+            "num_reviews": 1927
         },
         "39908": {
             "name": "Monoprice USB Type-A to Micro Type-B 2.0 Cable - 5-Pin 28/28AWG Black 10ft, 5-Pack",
@@ -43122,6 +43068,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-15T06:34:21Z"
+        "timestamp": "2023-06-15T06:41:59Z"
     }
 }
