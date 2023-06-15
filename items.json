@@ -35557,7 +35557,7 @@
             "product_id": 4957,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13604
+            "num_reviews": 13605
         },
         "4958": {
             "name": "Monoprice 4K High Speed HDMI Cable 8ft - 18Gbps Black",
@@ -35827,7 +35827,7 @@
             "product_id": 5139,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 1926
+            "num_reviews": 1927
         },
         "5176": {
             "name": "Monoprice Universal Screen Cleaner (Large Bottle, Blister Pack) for LCD \u0026 Plasma TVs, all Android and iOS Smartphones and Tablets",
@@ -37780,7 +37780,7 @@
             "product_id": 6271,
             "available": true,
             "rating": 4.8,
-            "num_reviews": 2399
+            "num_reviews": 2400
         },
         "6272": {
             "name": "Monoprice S/PDIF (Toslink) Digital Optical Audio Cable, 10ft",
@@ -43118,10 +43118,19 @@
             "available": false,
             "rating": 3.8,
             "num_reviews": 170
+        },
+        "9995": {
+            "name": "Monoprice 4-Channel Speaker Selector",
+            "price": 19.24,
+            "url": "https://www.monoprice.com/product?p_id=9995",
+            "product_id": 9995,
+            "available": true,
+            "rating": 4.6,
+            "num_reviews": 118
         }
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-15T05:52:26Z"
+        "timestamp": "2023-06-15T06:08:44Z"
     }
 }
