@@ -711,15 +711,6 @@
             "rating": 4.8,
             "num_reviews": 461
         },
-        "11222": {
-            "name": "Monoprice FLEXboot Cat5e Ethernet Patch Cable - Snagless RJ45, Stranded, 350MHz, UTP, Pure Bare Copper Wire, 24AWG, 100ft, Blue",
-            "price": 15.99,
-            "url": "https://www.monoprice.com/product?p_id=11222",
-            "product_id": 11222,
-            "available": true,
-            "rating": 4.8,
-            "num_reviews": 461
-        },
         "11229": {
             "name": "Monoprice Cat5e 100ft White Patch Cable, UTP, 24AWG, 350MHz, Pure Bare Copper, Snagless RJ45, Flexboot Series Ethernet Cable",
             "price": 17.99,
@@ -7450,7 +7441,7 @@
             "product_id": 15723,
             "available": true,
             "rating": 4.6,
-            "num_reviews": 38
+            "num_reviews": 39
         },
         "15724": {
             "name": "Workstream by Monoprice Universal Monitor Riser Shelf 22 x 8.25 in",
@@ -7718,7 +7709,7 @@
             "price": 12.99,
             "url": "https://www.monoprice.com/product?p_id=15882",
             "product_id": 15882,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 20
         },
@@ -43086,6 +43077,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-15T21:42:11Z"
+        "timestamp": "2023-06-15T21:52:02Z"
     }
 }
