@@ -4208,7 +4208,7 @@
             "price": 15.59,
             "url": "https://www.monoprice.com/product?p_id=1354",
             "product_id": 1354,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 1
         },
@@ -10778,7 +10778,7 @@
             "price": 10.49,
             "url": "https://www.monoprice.com/product?p_id=2218",
             "product_id": 2218,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 333
         },
@@ -14063,7 +14063,7 @@
             "price": 29.99,
             "url": "https://www.monoprice.com/product?p_id=2842",
             "product_id": 2842,
-            "available": false,
+            "available": true,
             "rating": 5,
             "num_reviews": 128
         },
@@ -34592,7 +34592,7 @@
             "price": 6.49,
             "url": "https://www.monoprice.com/product?p_id=445",
             "product_id": 445,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 45
         },
@@ -35285,7 +35285,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=4785",
             "product_id": 4785,
-            "available": true,
+            "available": false,
             "rating": 4.5,
             "num_reviews": 83
         },
@@ -35507,7 +35507,7 @@
         },
         "4899": {
             "name": "Monoprice Single-Mode Fiber Optic Cable - LC/SC, UL, 9/125 Type, Duplex, Yellow, 10m, Corning",
-            "price": 5.99,
+            "price": 8.49,
             "url": "https://www.monoprice.com/product?p_id=4899",
             "product_id": 4899,
             "available": false,
@@ -36986,7 +36986,7 @@
             "price": 0.54,
             "url": "https://www.monoprice.com/product?p_id=5620",
             "product_id": 5620,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 24
         },
@@ -37960,7 +37960,7 @@
             "product_id": 6362,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 200
+            "num_reviews": 201
         },
         "6363": {
             "name": "Monoprice 25ft Ultra Slim SVGA Super VGA 30/32AWG M/M Monitor Cable with Ferrites (Gold Plated Connector)",
@@ -38606,7 +38606,7 @@
             "price": 3.09,
             "url": "https://www.monoprice.com/product?p_id=660",
             "product_id": 660,
-            "available": false,
+            "available": true,
             "rating": 4.8,
             "num_reviews": 386
         },
@@ -38660,7 +38660,7 @@
             "price": 1.49,
             "url": "https://www.monoprice.com/product?p_id=667",
             "product_id": 667,
-            "available": false,
+            "available": true,
             "rating": 4.2,
             "num_reviews": 247
         },
@@ -39893,7 +39893,7 @@
             "price": 26.49,
             "url": "https://www.monoprice.com/product?p_id=7533",
             "product_id": 7533,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 598
         },
@@ -41909,7 +41909,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=942",
             "product_id": 942,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 19
         },
@@ -42143,7 +42143,7 @@
             "price": 46.49,
             "url": "https://www.monoprice.com/product?p_id=953",
             "product_id": 953,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 16
         },
@@ -43140,6 +43140,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-15T18:32:27Z"
+        "timestamp": "2023-06-15T18:42:07Z"
     }
 }
