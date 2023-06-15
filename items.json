@@ -35064,15 +35064,6 @@
             "rating": 4.7,
             "num_reviews": 202
         },
-        "4768": {
-            "name": "Monoprice 3ft Premier Series XLR Female to 1/4in TRS Male Cable, 16AWG (Gold Plated)",
-            "price": 4.49,
-            "url": "https://www.monoprice.com/product?p_id=4768",
-            "product_id": 4768,
-            "available": true,
-            "rating": 4.7,
-            "num_reviews": 202
-        },
         "4769": {
             "name": "Monoprice 6ft Premier Series XLR Female to 1/4in TRS Male Cable, 16AWG (Gold Plated)",
             "price": 6.99,
@@ -35396,15 +35387,6 @@
             "available": true,
             "rating": 4.9,
             "num_reviews": 129
-        },
-        "4867": {
-            "name": "Monoprice USB Type-A to Micro Type-B 2.0 Cable - 5-Pin, 28/28AWG, Black, 3ft",
-            "price": 1.49,
-            "url": "https://www.monoprice.com/product?p_id=4867",
-            "product_id": 4867,
-            "available": true,
-            "rating": 4.3,
-            "num_reviews": 1927
         },
         "4868": {
             "name": "Monoprice USB Type-A to Micro Type-B 2.0 Cable - 5-Pin, 28/28AWG, Black, 6ft",
@@ -43068,6 +43050,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-15T07:04:12Z"
+        "timestamp": "2023-06-15T07:18:56Z"
     }
 }
