@@ -7556,7 +7556,7 @@
             "price": 20.59,
             "url": "https://www.monoprice.com/product?p_id=15833",
             "product_id": 15833,
-            "available": true,
+            "available": false,
             "rating": 4.6,
             "num_reviews": 214
         },
@@ -8107,7 +8107,7 @@
             "product_id": 16090,
             "available": false,
             "rating": 4.3,
-            "num_reviews": 142
+            "num_reviews": 143
         },
         "16091": {
             "name": "Monoprice EZ Series Low Profile Tilt TV Wall Mount Bracket For Flat Screen TVs Up to 55in, Max Weight 77 lbs., VESA Patterns Up to 400x400, UL Certified",
@@ -9034,7 +9034,7 @@
             "product_id": 18591,
             "available": true,
             "rating": 4.4,
-            "num_reviews": 271
+            "num_reviews": 272
         },
         "18592": {
             "name": "Monoprice Cat6A 1000ft Black CMR UL Bulk Cable, TAA, Shielded (F/UTP), Solid, 23AWG, 550MHz, 10G, Pure Bare Copper, Spool in Box, Bulk Ethernet Cable",
@@ -43113,6 +43113,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-15T19:42:18Z"
+        "timestamp": "2023-06-15T19:51:56Z"
     }
 }
