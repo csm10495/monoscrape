@@ -17091,15 +17091,6 @@
             "rating": 5,
             "num_reviews": 7
         },
-        "33657": {
-            "name": "Monoprice Heavy Duty Power Cable - IEC 60320 C14 to IEC 60320 C15, 14AWG, 15A/1875W, SJT, 125V, Green, 6ft",
-            "price": 6.85,
-            "url": "https://www.monoprice.com/product?p_id=33657",
-            "product_id": 33657,
-            "available": true,
-            "rating": 5,
-            "num_reviews": 7
-        },
         "33658": {
             "name": "Monoprice Heavy Duty Power Cable - IEC 60320 C14 to IEC 60320 C15, 14AWG, 15A/1875W, SJT, 125V, Blue, 6ft",
             "price": 6.99,
@@ -18356,7 +18347,7 @@
             "price": 1.99,
             "url": "https://www.monoprice.com/product?p_id=34223",
             "product_id": 34223,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 76
         },
@@ -20669,7 +20660,7 @@
             "price": 174.99,
             "url": "https://www.monoprice.com/product?p_id=36045",
             "product_id": 36045,
-            "available": true,
+            "available": false,
             "rating": 3.8,
             "num_reviews": 22
         },
@@ -21398,7 +21389,7 @@
             "price": 79.99,
             "url": "https://www.monoprice.com/product?p_id=36667",
             "product_id": 36667,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 4
         },
@@ -22082,7 +22073,7 @@
             "price": 10.49,
             "url": "https://www.monoprice.com/product?p_id=38179",
             "product_id": 38179,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 7
         },
@@ -22370,7 +22361,7 @@
             "price": 7.99,
             "url": "https://www.monoprice.com/product?p_id=38323",
             "product_id": 38323,
-            "available": true,
+            "available": false,
             "rating": 4.8,
             "num_reviews": 267
         },
@@ -22784,7 +22775,7 @@
             "price": 177.99,
             "url": "https://www.monoprice.com/product?p_id=38581",
             "product_id": 38581,
-            "available": true,
+            "available": false,
             "rating": 3,
             "num_reviews": 4
         },
@@ -23353,7 +23344,7 @@
             "product_id": 38815,
             "available": false,
             "rating": 4.5,
-            "num_reviews": 88
+            "num_reviews": 89
         },
         "38816": {
             "name": "Monoprice Stealth Charge and Sync USB 2.0 Type-C to Type-C Cable, Up to 5A/100W, 3ft, Blue",
@@ -25998,15 +25989,6 @@
             "url": "https://www.monoprice.com/product?p_id=39777",
             "product_id": 39777,
             "available": true,
-            "rating": 4.7,
-            "num_reviews": 38
-        },
-        "39778": {
-            "name": "Monoprice Extension Cord - IEC 60320 C14 to IEC 60320 C13, 16AWG, 13A/1625W, 3-Prong, SJT, Black, 6ft, 6-Pack",
-            "price": 22.39,
-            "url": "https://www.monoprice.com/product?p_id=39778",
-            "product_id": 39778,
-            "available": false,
             "rating": 4.7,
             "num_reviews": 38
         },
@@ -43140,6 +43122,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-15T19:02:40Z"
+        "timestamp": "2023-06-15T19:14:55Z"
     }
 }
