@@ -581,7 +581,7 @@
             "price": 23.68,
             "url": "https://www.monoprice.com/product?p_id=11045",
             "product_id": 11045,
-            "available": false,
+            "available": true,
             "rating": 4.3,
             "num_reviews": 575
         },
@@ -1069,7 +1069,7 @@
             "product_id": 11282,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 1468
+            "num_reviews": 1469
         },
         "11283": {
             "name": "Monoprice Cat6A 20ft Blue Patch Cable,  Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Molded RJ45, Entegrade Series Ethernet Cable",
@@ -4579,7 +4579,7 @@
             "product_id": 13674,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 94
+            "num_reviews": 186
         },
         "13675": {
             "name": "Monoprice Cat6 500ft White CMR UL Bulk Cable, Solid (w/spine), UTP, 23AWG, 550MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
@@ -4588,7 +4588,7 @@
             "product_id": 13675,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 94
+            "num_reviews": 186
         },
         "13676": {
             "name": "Monoprice Cat6 250ft Blue CMR UL Bulk Cable, Solid (w/spine), UTP, 23AWG, 550MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
@@ -4597,7 +4597,7 @@
             "product_id": 13676,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 92
+            "num_reviews": 186
         },
         "13677": {
             "name": "Monoprice Cat6 250ft White CMR UL Bulk Cable, Solid (w/spine), UTP, 23AWG, 550MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
@@ -4606,7 +4606,7 @@
             "product_id": 13677,
             "available": true,
             "rating": 4.7,
-            "num_reviews": 92
+            "num_reviews": 186
         },
         "13678": {
             "name": "Monoprice Cat5e 500ft Blue CMR UL Bulk Cable, UTP, Solid, 24AWG, 350MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
@@ -5974,7 +5974,7 @@
             "product_id": 14768,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 92
+            "num_reviews": 186
         },
         "14771": {
             "name": "Monoprice Cat6 Ethernet Bulk Cable - Solid, 550MHz, UTP, CMR, Riser Rated, Pure Bare Copper Wire, 23AWG, 250ft, Green, (UL)",
@@ -5983,7 +5983,7 @@
             "product_id": 14771,
             "available": false,
             "rating": 4.7,
-            "num_reviews": 92
+            "num_reviews": 186
         },
         "14774": {
             "name": "Monoprice Cat5e 250ft Black CMR UL Bulk Cable, UTP, Solid, 24AWG, 350MHz, Pure Bare Copper, Pull Box, Bulk Ethernet Cable",
@@ -8098,7 +8098,7 @@
             "product_id": 16091,
             "available": true,
             "rating": 4.3,
-            "num_reviews": 142
+            "num_reviews": 143
         },
         "16092": {
             "name": "Monoprice EZ Series Low Profile Tilt TV Wall Mount Bracket For Flat Screen TVs 37in to 70in, Max Weight 77 lbs., VESA Patterns Up to 600x400, Works with Concrete and Brick, UL Certified",
@@ -43131,6 +43131,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-15T13:16:25Z"
+        "timestamp": "2023-06-15T13:32:07Z"
     }
 }
