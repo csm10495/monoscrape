@@ -17708,7 +17708,7 @@
             "price": 15.99,
             "url": "https://www.monoprice.com/product?p_id=33871",
             "product_id": 33871,
-            "available": false,
+            "available": true,
             "rating": 4.6,
             "num_reviews": 214
         },
@@ -20347,7 +20347,7 @@
             "product_id": 35534,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 3400
+            "num_reviews": 3402
         },
         "35535": {
             "name": "Monoprice Cat6 7ft Pink Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -22928,7 +22928,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=38610",
             "product_id": 38610,
-            "available": false,
+            "available": true,
             "rating": 4.7,
             "num_reviews": 49
         },
@@ -43131,6 +43131,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-15T14:42:04Z"
+        "timestamp": "2023-06-15T14:51:58Z"
     }
 }
