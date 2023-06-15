@@ -15631,7 +15631,7 @@
             "product_id": 31088,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 70
+            "num_reviews": 71
         },
         "31089": {
             "name": "Monoprice Cat8 3ft White Patch Cable,  Double Shielded (S/FTP), 24AWG, 2GHz, 40G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
@@ -15649,7 +15649,7 @@
             "product_id": 31097,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 70
+            "num_reviews": 71
         },
         "31098": {
             "name": "Monoprice Cat8 5ft White Patch Cable,  Double Shielded (S/FTP), 24AWG, 2GHz, 40G, Pure Bare Copper, Snagless RJ45, Entegrade Series Ethernet Cable",
@@ -15667,7 +15667,7 @@
             "product_id": 31115,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 70
+            "num_reviews": 71
         },
         "31179": {
             "name": "Monoprice Select Series DisplayPort 1.4 Cable, 1.5ft Black",
@@ -20120,7 +20120,7 @@
             "price": 9.99,
             "url": "https://www.monoprice.com/product?p_id=35316",
             "product_id": 35316,
-            "available": true,
+            "available": false,
             "rating": 4.9,
             "num_reviews": 33
         },
@@ -43131,6 +43131,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-15T11:52:18Z"
+        "timestamp": "2023-06-15T12:11:05Z"
     }
 }
