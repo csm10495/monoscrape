@@ -9843,8 +9843,8 @@
             "url": "https://www.monoprice.com/product?p_id=21544",
             "product_id": 21544,
             "available": true,
-            "rating": 4.7,
-            "num_reviews": 31
+            "rating": 4.8,
+            "num_reviews": 30
         },
         "21545": {
             "name": "Monoprice Speaker Wire, Burial Rated, 2-Conductor, 14AWG, 1000ft, Gray",
@@ -43113,6 +43113,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-15T03:05:20Z"
+        "timestamp": "2023-06-15T03:21:23Z"
     }
 }
