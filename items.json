@@ -12758,7 +12758,7 @@
             "price": 5.49,
             "url": "https://www.monoprice.com/product?p_id=2617",
             "product_id": 2617,
-            "available": true,
+            "available": false,
             "rating": 5,
             "num_reviews": 23
         },
@@ -35650,7 +35650,7 @@
             "num_reviews": 3402
         },
         "5013": {
-            "name": "Monoprice Cat6 Ethernet Patch Cable - Snagless RJ45, Stranded, 550MHz, UTP, Pure Bare Copper Wire, 24AWG, 20ft, Purple",
+            "name": "Monoprice Cat6 20ft Purple Patch Cable, UTP, 24AWG, 550MHz, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
             "price": 6.99,
             "url": "https://www.monoprice.com/product?p_id=5013",
             "product_id": 5013,
@@ -43086,6 +43086,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-15T23:32:05Z"
+        "timestamp": "2023-06-15T23:41:59Z"
     }
 }
