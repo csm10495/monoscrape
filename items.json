@@ -12148,7 +12148,7 @@
             "product_id": 24406,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 497
+            "num_reviews": 498
         },
         "24408": {
             "name": "Monoprice Cat6A 75ft Black Patch Cable,  Double Shielded (S/FTP), 26AWG, 10G, Pure Bare Copper, Snagless RJ45, Fullboot Series Ethernet Cable",
@@ -43077,6 +43077,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-15T21:52:02Z"
+        "timestamp": "2023-06-15T22:03:41Z"
     }
 }
