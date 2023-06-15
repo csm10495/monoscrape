@@ -15334,7 +15334,7 @@
             "product_id": 30774,
             "available": false,
             "rating": 4.8,
-            "num_reviews": 60
+            "num_reviews": 61
         },
         "30776": {
             "name": "Monoprice Leather Apple MFi Certified Lightning to USB Charge \u0026 Sync Cable, 3ft",
@@ -20356,7 +20356,7 @@
             "product_id": 35535,
             "available": false,
             "rating": 4.9,
-            "num_reviews": 3400
+            "num_reviews": 3402
         },
         "35557": {
             "name": "STITCH by Monoprice Smart In-Wall On/Off Light Switch, Works with Alexa and Google Home for Touchless Voice Control, No Hub Required",
@@ -20957,7 +20957,7 @@
             "price": 17.99,
             "url": "https://www.monoprice.com/product?p_id=36277",
             "product_id": 36277,
-            "available": false,
+            "available": true,
             "rating": 3.9,
             "num_reviews": 21
         },
@@ -23567,7 +23567,7 @@
             "price": 5.99,
             "url": "https://www.monoprice.com/product?p_id=38846",
             "product_id": 38846,
-            "available": false,
+            "available": true,
             "rating": 4.9,
             "num_reviews": 60
         },
@@ -24161,7 +24161,7 @@
             "price": 18.49,
             "url": "https://www.monoprice.com/product?p_id=39029",
             "product_id": 39029,
-            "available": false,
+            "available": true,
             "rating": 3.8,
             "num_reviews": 5
         },
@@ -25378,7 +25378,7 @@
             "product_id": 39541,
             "available": true,
             "rating": 4.9,
-            "num_reviews": 13604
+            "num_reviews": 13605
         },
         "39542": {
             "name": "Monoprice 4K High Speed HDMI Cable 3ft - 18Gbps Black - 3 Pack",
@@ -43131,6 +43131,6 @@
     },
     "meta": {
         "version": "0.0.1",
-        "timestamp": "2023-06-15T13:42:06Z"
+        "timestamp": "2023-06-15T13:52:16Z"
     }
 }
